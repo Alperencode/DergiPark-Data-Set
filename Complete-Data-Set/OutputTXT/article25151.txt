@@ -1,0 +1,7 @@
+Makale Başlığı: A Simple and Efficient Approach to Compute the Operating Frequency of Annular Ring Patch Antennas by Using ANN with Bayesian Regularization Learning Algorithm
+Özet: 
+Yazar isimleri: ['Ahmet KAYABAŞI', 'Ali AKDAĞLI']
+Yayın Yılı: 25 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/281809
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/263545

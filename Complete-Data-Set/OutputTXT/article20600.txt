@@ -1,0 +1,7 @@
+Makale Başlığı: Isıl işlem görmüş Hindistan cevizi odununda bazı yüzey özelliklerinin incelenmesi
+Özet: Bu çalışmada, Hindistan cevizi (Cocos nucifera L.) ahşabına uygulanmış olan 200oC’de 3 saat süre ile yapılan ısıl işlem sonrasında meydana gelen bazı yüzey özellikleri [renk (∆L*, ∆b*, ∆a*, L*, b*, a*, ∆C*, ∆E*, C* ve ho), parlaklık (20o, 60o ve 85o’de liflere paralel (║) ve dik (⊥)) ve shore D sertlik] araştırılmıştır. Buna ek olarak, ısıl işlemsiz örneklerde de farklı numaralı zımparaların uygulanması sonrasında meydana gelen yüzeylerdeki değişiklikler de belirlenmiştir. Araştırma sonuçlarına göre, ısıl işlem sonrasında shore D sertlik değerinin, 20o, 60o ve 85o’de liflere paralel ve dik parlaklık değerlerinin ile L*, a*, b*, C* parametrelerinin azaldığı ve ho açısının ise arttığı belirlenmiş, buna ek olarak; ∆H*: 13.87, ∆L*: -14.21, ∆b*: 18.40, ∆a*: -7.93, ∆C*: -14.45 ve ∆E*: 24.57 olarak elde edilmiştir. Yüzey pürüzlülüğü sonuçlarında ise Ra parametre değerleri 80, 100, 120, 150, 180 ve 220 numaralı zımparalarda sırası ile 8.498 µm, 7.429 µm, 6.600 µm, 5.332 µm, 4.188 µm ve 3.452 µm olarak bulunmuştur. Zımpara numarasının artması ile pürüzlülük parametrelerinin azaldığı tespit edilmiştir. 
+Yazar isimleri: ['Ümit AYATA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Mobilya ve Ahşap Malzeme Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mamad/issue/70474/1116999
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2429165

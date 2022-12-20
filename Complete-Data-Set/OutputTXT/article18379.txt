@@ -1,0 +1,7 @@
+Makale Başlığı: ANALYSIS OF THE RELATIONSHIP BETWEEN PROFIT SHARING AND INTEREST RATES: A TURKISH CASE
+Özet: In this study, the relationship between the profit share rates of participation banks operating and the interest rates paid on deposits by conventional banks in Turkey is investigated using the data for the period 2006:1-2021:3. Long-term relationships between the profit share rates and interest rates were tested with the Maki cointegration test, and short-term causality relationships were tested with the Hatemi-J asymmetric causality test. The findings obtained from the study show that profit share rates and interest rates move together in the long run there is unidirectional causality from interest rates to profit share rates. However, the findings reveal that there is very weak causality from the profit share rates to the interest rate for a participation bank. According to these results, positive shocks in interest rates have causality towards positive shocks in the profit share rates, and negative shocks in interest rates have causality towards negative shocks in the profit share rates. These results confirm that the participation banks in Turkey are statistically affected by the conventional banks operating on interest rates in terms of profit share application.
+Yazar isimleri: ['Hilmi Tunahan AKKUŞ', 'Sevcan KAPKARA KAYA']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Abant Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/asbi/issue/73571/1101572
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2366661

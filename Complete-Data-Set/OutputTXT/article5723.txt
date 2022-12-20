@@ -1,0 +1,7 @@
+Makale Başlığı: Yazılım Ürün Ölçütlerinin Uygulamalı İncelenmesi
+Özet: Yazılım sistemleri, yaşantımıza her geçen gün artarak dahil olmaktadır. Buna bağlı olarak yazılım geliştiricileri tarafından bir ihtiyaç için alternatif pek çok yazılım sistemi geliştirilmektedir. Kullanıcı istekleri doğrultusunda şekillenen sistemlerde çalışma performansı ve güncellenebilir yazılım seçenekler arasında eleyici özelliklerden bazılarıdır. Kod kalitesini belirlemek için metrik ya da ölçüt olarak tanımlanan değerlerden faydalanılır. Bu çalışmada, ürün ölçütlerinde yer alan kaynak kod ölçütleri ve sınıf tabanlı ölçütler açıklanmıştır. Kaynak kod ölçütlerinden olan McCabe ile sınıf tabanlı ölçütlerden olan Chidamber ve Kemerer,  Brito e Abreu MOOD, Bansiya ve Davis QMOOD ölçüt kümeleri irdelenmiş ve sınıf tabanlı ölçütler tablo halinde sunulmuştur. Ölçütlerin uygulama üzerinde gösterilmesi için Java tabanlı bir kütüphane uygulaması geliştirilmiştir. Geliştirilen masaüstü uygulamasının ölçütleri, Eclipse CodeMR eklentisi yardımıyla analiz edilmiştir. Yapılan analizler sonucunda riskli ölçütler tespit edilerek sonuçlar tablolar halinde sunulmuştur.
+Yazar isimleri: ['Ayşe KAHVECİ YETİŞ', 'Resul DAŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1114056
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2417105

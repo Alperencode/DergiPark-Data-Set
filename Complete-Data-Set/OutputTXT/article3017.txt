@@ -1,0 +1,7 @@
+Makale Başlığı: Normal Surfaces Associated with Adjoint Curves in E3
+Özet: In this study, we work on the surfaces determined in relation to associated curves. We study normal surfaces defined with the help of adjoint curves, a special type of associated curve. For this, we first remember the basic equations of the 3-dimensional Euclidean space, which is the space we work with, and the adjoint curve issue. Then, by computing the first and second fundamental forms, principal curvatures and Gaussian and mean curvatures of the normal surface of an adjoint curve, we obtain the characterizations of this surface and related some results.
+Yazar isimleri: ['Talat KÖRPINAR', 'Ahmet SAZAK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bitlis Eren Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bitlisfen/issue/72854/1086972
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2306232

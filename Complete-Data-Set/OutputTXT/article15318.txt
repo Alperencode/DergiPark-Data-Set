@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye Ekonomisinde Turizm Gelirleri ve Enflasyon İlişkisinin Ampirik Analizi
+Özet: Bu çalışmada turizm ile enflasyon arasındaki ilişki araştırılmıştır. Turizmi temsilen değişken olarak turizm gelirleri belirlenmiş ve değişkenler arasındaki ilişki yapısal kırılmalı birim kök testleri ile nedensellik testleri uygulanarak incelenmiştir. Çalışma bulgularına göre; turizm gelirleri enflasyona kısa ve uzun dönemde neden olmaktadır. Enflasyonun turizm gelirlerine olan nedenselliği ise kısa dönemde ortaya çıkmakta orta ve uzun dönemde kaybolmaktadır. artan turizm gelirlerinin enflasyona yol açmaması için, turistik talebi kısıtlayıcı politikalar yerine, turistik arzı artırıcı iktisat politikası uygulamalarına yer verilmelidir.
+Yazar isimleri: ['Mustafa ŞİT', 'Ali ŞEN']
+Yayın Yılı: 16 Haziran 2022
+Dergi ismi: Turizm Akademik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/touraj/issue/70329/767829
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1197262

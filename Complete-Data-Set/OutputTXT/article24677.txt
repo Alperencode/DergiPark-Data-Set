@@ -1,0 +1,7 @@
+Makale Başlığı: The effect of the consideration of slab dimensions on optimum design of reinforced concrete beams
+Özet: In the design of reinforced concrete (RC) beams, the slabcan be also considered as a part of the beam and a t-shaped cross section isconsidered. In the presented study, the optimum design of RC beams areinvestigated for different slab thickness values. Thus, the effect of theconsideration of slab dimensions for the optimum design is investigated. In theoptimization methodology, an iterative cost optimization process is proposed.The process contains the optimization of design variables such as thecross-section dimensions and amount of rebar of RC beams subjected to flexuralmoments. In order to find a precise optimum solution without trapping localoptimums, a metaheuristic based method called harmony search is employed. Theoptimum values are chosen according to user selected range and the designconstraints. The design constraints are generated according to ACI318- Buildingcode requirements for structural concrete. By the increase of compressive forcein the compressive section of the beam, the amount of the rebar shows adecreasing manner and this situation is effective on the optimum design andcost.
+Yazar isimleri: ['Sinan Melih Nigdeli', 'Gebrail Bekdaş']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/372217
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826666

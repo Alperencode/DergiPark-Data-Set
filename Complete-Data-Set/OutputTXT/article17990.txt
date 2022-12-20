@@ -1,0 +1,7 @@
+Makale Başlığı: BAZI LİE CEBİRLERİ ÜZERİNDE HEMEN-HEMEN KONTAKT YAPILAR
+Özet: Bu çalışmada bazı 7 boyutlu reel Lie cebirleri üzerinde yapının vektör alanı paralel olacak şekilde hemen hemen kontakt metrik yapıların olmadığı gösterilmiştir.
+Yazar isimleri: ['Şirin AKTAY']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Eskişehir Teknik Üniversitesi Bilim ve Teknoloji Dergisi B - Teorik Bilimler
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/estubtdb/issue/71908/1006054
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2014964

@@ -1,0 +1,7 @@
+Makale Başlığı: Raman Spektroskopisi ile incelenen L6 kondritlerinde enstatit ve piroksen üzerine kısa bir inceleme
+Özet: Çalışmamızda Bursa, Çanakkale, Kamargoan, Château-Renard, Sixiangkou, Braunschweig ve Suizhou L6 kondritleri ile ilgili daha önce yayınlanmış çalışmalara ilişkin önceki verilere dayalı Raman spektroskopi analizleri, yayınlanan veriler hakkında kısa bir resim vermek için enstatit (Mg2Si2O6 veya MgSiO3)   ve piroksenlerin varlığı değerlendirilmiştir. L kondritler, sıradan kondritlerin düşük demirli kimyasal grubudur. L kondritler, nispeten düşük siderofilik element içeriği ve orta boy kondrüller (~0.7 mm) ile ayırt edilirler. Petrografik tip 6 (yeterli koşullar altında metamorfoza uğramış, tüm mineral bileşimleri homojenize edilmiş ve tüm düşük Ca piroksenler ortopiroksene dönüşmüş) olan L kondrit göktaşları L6 kondritleri olarak adlandırılır. Raman spektroskopisi, kimyasal yapılardaki küçük farklılıklara bile son derece duyarlı bir analiz tekniğidir. Silikatlar gibi aynı mineral sınıfıyla ilişkili çeşitli yapısal fazları veya grupları ayırt etmek için Raman spektroskopisi ile yeterli veri elde edilebilir. Böylece Raman spektroskopisi, numune içeriğindeki moleküllerin ve minerallerin kimyasal yapısını tanımlamamızı sağlar.
+Yazar isimleri: ['Ceren KAMİL', 'Ozan ÜNSALAN']
+Yayın Yılı: 23 Ekim 2022
+Dergi ismi: Journal of Spectroscopy and Molecular Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsms/issue/68561/1036000
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2129756

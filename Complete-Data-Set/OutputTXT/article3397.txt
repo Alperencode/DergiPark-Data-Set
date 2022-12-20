@@ -1,0 +1,7 @@
+Makale Başlığı: On the zeros of R-Bonacci polynomials and their derivatives
+Özet: The purpose of the present paper is to examine the zeros of R-Bonacci polynomials and their derivatives. We obtain new characterizations for thezeros of these polynomials. Our results generalize the ones obtained for the special case r=2. Furthermore, we find explicit formulas of the roots ofderivatives of R-Bonacci polynomials in some special cases. Our formulas are substantially simple and useful.
+Yazar isimleri: ['Öznur ÖZTUNÇ KAYMAK', 'Nihal ÖZGÜR']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/1037229
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2134642

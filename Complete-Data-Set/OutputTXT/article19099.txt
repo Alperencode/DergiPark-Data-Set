@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Karbon Histeri Hipotezi Geçerli midir? Fourier Birim Kök Testlerinden Kanıtlar
+Özet: Bu çalışmanın amacı Türkiye’de karbon histeri hipotezinin geçerli olup olmadığını araştırmaktır. Bu çalışma ile en çok emisyon yayan ülkelerden biri olan Türkiye’de çevresel kalitenin arttırılması hedeflenmektedir. Karbon histerisinin varlığı için CO2 emisyonları serisinin birim kök özellikleri öncelikle Fourier temelli ADF ve LM testleri ile araştırılmaktadır. Fourier temelli testlerden elde edilen sonuçlar, CO2 emisyonları modellenirken trigonometrik terimlerin anlamsız olduğunu göstermektedir. Dolayısıyla sıradan ADF birim kök test sonuçları CO2 emisyonları için güvenilirdir. ADF birim kök testi CO2 emisyonlarının birim kök içerdiğini göstermektedir ve bu sonuçlar Türkiye’de karbon histeri hipotezinin geçerli olduğuna dair kanıtlar sunmaktadır. Ardından histerinin yönü için ardışık Bai-Perron yaklaşımından yararlanılarak örneklem dönemi rejimlere ayrılmış ve bütün rejimlerde pozitif karbon histerisinin geçerli olduğu görülmüştür. Sonuç olarak, bu çalışma Türkiye’nin karbon azaltım hedefleri için önemli çevre politikaları sunmaktadır.
+Yazar isimleri: ['Abdullah Emre ÇAĞLAR', 'Mehmet MERT']
+Yayın Yılı: 14 Eylül 2022
+Dergi ismi: Fiscaoeconomia
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fsecon/issue/72567/1119030
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2437970

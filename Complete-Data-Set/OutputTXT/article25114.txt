@@ -1,0 +1,7 @@
+Makale Başlığı: Estimation of Turkey Electric Energy Demand until Year 2035 Using TLBO Algorithm
+Özet: 
+Yazar isimleri: ['Mehmet Fatih TEFEK', 'Harun UGUZ']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/266082
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/232580

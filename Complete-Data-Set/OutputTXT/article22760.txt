@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye ve Güney Kore Arasında İmzalanan STA’nın Türkiye’nin Güney Kore ile Dış Ticaretine Etkisi: ARDL Sınır Testi Yaklaşımı
+Özet: Uluslararası ticaret dünya ekonomisinin önemli bir bileşenidir ve geçmişe göre çok daha serbestleştiği açıktır. Bu noktaya gelmek kolay olmamış, durma, duraksama, daralma ve buhran dönemleri yaşanmıştır. Uluslararası ticarette serbestleşme baskıları, iktisadi birleşme eğilimlerine neden olmuştur. Türkiye de katıldığı AB Gümrük Birliğinden sonra Serbest Ticaret Anlaşmalarına (STA) hız vermiştir. Bunlardan Güney Kore ile imzalanan geniş kapsamlı STA özellikle dikkat çekicidir. Çalışmada, 2009 ila 2018 arası dönem dış ticaret verileri kullanılarak bu STA’nın iki ülkenin ticaretine etkisi olup olmadığı eşbütünleşme yöntemiyle analiz edilmiştir. İstatistiksel sonuçlara göre, STA’nın Türkiye’nin ihracatına anlamlı bir etkisi olmazken ithalatı arttırıcı etkisi olduğu bulunmuştur. Bu sonuç, talep yapılarındaki değişimin Tercihlerde Benzerlik teorisi üzerinden okunmasıyla yorumlanmıştır.
+Yazar isimleri: ['Arif DURSUN', 'Güner KOÇ AYTEKİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Ekonomi ve Finansal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jefr/issue/70978/1124208
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2459214

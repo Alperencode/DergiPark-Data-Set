@@ -1,0 +1,7 @@
+Makale Başlığı: BALIKESİR VE ÇANAKKALE’DE DERECE GÜN YÖNTEMİ İLE KONUTLARDA YAKIT TÜKETİMİNİN BELİRLENMESİ
+Özet: Bu çalışmada Balıkesir ve Çanakkale İlleri için Derece gün yöntemi kullanılarak Isıtma ve Soğutma derece gün sayıları araştırılmıştır. Meteoroloji Genel Müdürlüğü’nden temin edilen 2007-2020 yılları arası meteorolojik veriler kullanılmıştır. Isıtmada doğalgaz, kömür, LPG, fuel oil ve soğutmada elektrik enerjisi kullanılması durumuna göre konut binalarında birim alan için ısıtma ve soğutma maliyetleri hesaplanmıştır. Denge sıcaklığına göre Isıtma Derece Gün (HDD) değerleri yıllık toplamı Balıkesir’de 1167-2750 ve Çanakkale’de 897-2445 arasında değişirken,  Soğutma Derece Gün (CDD) değerleri yıllık toplamı Balıkesir’de 758-103 ve Çanakkale’de 859-173 arasında değişmektedir. En az yakıt maliyeti doğalgaz kullanıldığında elde edilirken, en fazla yakıt maliyeti LPG kullanıldığında elde edilmiştir. Çalışmanın literatüre katkı sağlaması ve bölgede bu alanda yapılacak yatırımlara yol gösterici olması beklenmektedir.
+Yazar isimleri: ['Asiye ASLAN']
+Yayın Yılı: 7 Ocak 2022
+Dergi ismi: Uluslararası Batı Karadeniz Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umufed/issue/67985/993281
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1965868

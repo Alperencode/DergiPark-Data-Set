@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye'nin Orta ve Doğu Karadeniz Bölgesi tarımsal ve yapay alanlarda yayılım gösteren Culex pipiens L., 1758 (Diptera: Culicidae)’te kdr ve ace-1 mutasyon varyasyonlarının izlenmesi ve dağılımı
+Özet: Culex pipiens L., 1758 (Diptera: Culicidae) dünyadaki en önemli ve hastalık vektörü olan türlerden biridir. Efektif bir kontrol yapılabilmesi için insektisitlere karşı gelişen direnci takip etmek büyük öneme sahiptir. Bu çalışmada Türkiye Orta ve Doğu Karadeniz Bölgesi’nde 2020 aktif sezonunda dokuz ilden toplanan Cx. pipiens örneklerinde vgsc (kdr L1014F/C) ve ace-1 (G119S, F290V) spesifik bölgelerinde direnç ile ilgili mutasyonların varlığı araştırılmıştır. kdr için, her bölgede L1014F mutasyonu belirlenirken, yabanıl ve dirençli tip aleller için üç farklı sessiz mutasyon tespit edilirken çalışılan popülasyonların hiçbirinde L1014C mutasyonu saptanmamıştır. ace-1 bölgesi için, çalışılan popülasyonlarda F290V değişimi heterozigot ve düşük oranlarda saptanırken, G119S değişimi daha yaygın bulunmuştur. ace-1 bölgesi için G119I (6 popülasyon) ve G119A (5 popülasyon) değişimleri ilk defa tespit edilmiştir. Dirence neden olan mutasyon tiplerinde yapay ve tarımsal alanlar arasında anlamlı fark bulunamamıştır.
+Yazar isimleri: ['Elif KILIÇARSLAN', 'Murat ÖZTÜRK', 'Fatih Şaban BERİŞ', 'Rıdvan DEMİRTAŞ', 'Muhammet Mustafa AKINER']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Türkiye Entomoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/entoted/issue/71123/1120646
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2444560

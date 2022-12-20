@@ -1,0 +1,7 @@
+Makale Başlığı: PROFITABILITY BASED NETWORK OPTIMIZATION AT SAP SYSTEM: A CASE STUDY IN CEMENT INDUSTRY
+Özet: In this paper, a Network Optimization solution is proposed to find the optimal demand point:plant assignments at product replenishment that maximize the profitability with respect to sales, transportation and production planning data and potential constraints. As stated in the case study, Network Optimization solution has increased contribution margin by an average value of 2.35% that resulted in relatively high return-on-investment. Proposed solution ensures a lean optimization experience over a wide solution architecture that covers SAP, optimization logic and Microsoft Power BI components. Additionally, organizations will concentrate on more value adding operations such as variance analysis and what-if scenario evaluation rather than manual, time consuming and error-prone data preparation by the help of this solution.
+Yazar isimleri: ['Eren ESGİN']
+Yayın Yılı: 29 Aralık 2021
+Dergi ismi: Yönetim Bilişim Sistemleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ybs/issue/67451/1025484
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2088488

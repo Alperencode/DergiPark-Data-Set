@@ -1,0 +1,7 @@
+Makale Başlığı: Lattice-reduction aided multiple-symbol differential detection in two-way relay  transmission
+Özet: Multiple-symbol differential detection  MSDD  algorithms are proposed in two-way relay transmission   TWRT . Firstly, generalized likelihood ratio test based MSDD  GLRT-MSDD  is proposed in TWRT. Unfortunately,  as the number of observation windows increases, the computational complexity of GLRT-MSDD increases exponentially.  Hence, this detection in TWRT constitutes a challenging problem. Moreover, we find a way to reformulate the GLRTMSDD  model and additionally propose a lattice-reduction aided MSDD  LR-MSDD  model. Performance analysis and  simulations show that the proposed LR-MSDD provides bit-error rate performance close to that of GLRT-MSDD with  lower complexity in TWRT.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739686
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110689

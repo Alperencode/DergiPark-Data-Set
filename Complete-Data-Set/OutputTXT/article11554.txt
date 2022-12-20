@@ -1,0 +1,7 @@
+Makale Başlığı: BIBLIOMETRIC ANALYSIS OF THE LITERATURE ON PORT STATE CONTROL
+Özet: Port state control (PSC) are one of the most important ship inspection applications for the marine safety. Therefore, these ship inspections are an area that researchers are working on intensely. This study aims to analyze the publications on port state control with bibliometric methods. A total of 110 studies were obtained from the Web of Science database which is one of the leading databases for academic literature. The authors, their countries, publishers, and citations of these publications were analyzed, as well as text mining method was utilized for keywords and abstract analyses by the VosViewer software. According to the results of the analysis, there has been an increase in the number of studies on port state control in recent years, and it is seen that the researchers who have done the most work in this field are Chinese researchers. In recent years, it is found that the publications especially focus on data mining approaches. It is thought that this study will guide researchers who will conduct research on port state control.
+Yazar isimleri: ['Coşkan SEVGİLİ', 'Ali TÖZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Mersin University Journal of Maritime Faculty
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/meujmaf/issue/70936/1125549
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2464579

@@ -1,0 +1,7 @@
+Makale Başlığı: Optimized YOLOv4 Algorithm for Car Detection in Traffic Flow
+Özet: The vehicle detection accuracy and actual in images and videos appear to be very tough and critical duties in a key technology traffic system. Specifically, under convoluted traffic conditions. As a result, the presented study proposes single-stage deep neural networks YOLOv4-3L, YOLOv4-2L, YOLOv4-GB, and YOLOv3-GB. After optimizing the network structure by adding more layers in the right positions with the right amount of filters, the dataset will be repaired and the noise reduced before being sent to the mentoring. This research will be applied to YOLOv3 and YOLOv4. In this study the OA-Dataset is collect and used, the data set is manually labeled with the care of different weathers and scenarios, as well as for end-to-end training of the network. Around the same time, optimized YOLOv4 and YOLOv3 demonstrate a significant degree of accuracy with 99.68 % and precision of 91 %. The speed and detection accuracy of this algorithm are found to be higher than that of previous algorithms.
+Yazar isimleri: ['Alzubair ALQARAGHULI', 'Oğuz ATA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1123195
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2455123

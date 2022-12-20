@@ -1,0 +1,7 @@
+Makale Başlığı: Viscometric Investigation of Compatibilizer Effect on Polyvinyl chloride/Polystyrene Blends
+Özet: In this study, polyvinyl chloride (PVC) and polystyrene (PS) polymers, which do not form a compatible blend with each other in certain concentration ranges and are widely used on an industrial scale, were used. The concentration range in which these two polymers do not form a compatible blend were determined viscometrically, and maleic anhydride-styrene (MAS) copolymer was added as a compatibilizing agent in this concentration range. The concentration range in which the polymer pair did not form a compatible blend was determined as 1.5 and 2.0 g dL-1. In this concentration range, 5.0 and 10.0 % MAS copolymer was added to the polymer couple and its compatibilizing effect was investigated. It was determined by viscometric method that the MAS copolymer was a good compatibilizer in the range where the polymer pair did not form a compatible blend.
+Yazar isimleri: ['Ersen YILMAZ', 'Ali BOZTUĞ']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Türk Doğa ve Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tdfd/issue/72793/1134912
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2503769

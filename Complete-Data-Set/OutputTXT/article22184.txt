@@ -1,0 +1,7 @@
+Makale Başlığı: Modelling of Factors Influencing the Citation Counts in Statistics
+Özet: 
+Yazar isimleri: ['Olcay ALPAY', 'Nazan DANACIOĞLU', 'Emel ÇANKAYA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Academic Platform Journal of Engineering and Smart Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/apjess/issue/72618/1075099
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2259588

@@ -1,0 +1,7 @@
+Makale Başlığı: Model-Based Optimization of a Wastewater Treatment Plant: Hakkari Case Study
+Özet: Wastewater must be treated in order to reduce the environmental impact of used water and to ensure the efficient use of its resources. Physical, chemical, and biological treatment techniques are used to treat domestic wastewater. It's crucial to either optimize existing processes for domestic wastewater, which has different characteristics in terms of wastewater characterization, or use appropriate treatment technologies, taking into account the conditions in the region where the plant will be built. In this study, the wastewater treatment plant for the Hakkari city centre, where there is no wastewater treatment plant and wastewater is discharged without treatment, was designed and modeled using the GPS-X simulation program.
+Yazar isimleri: ['Ertuğrul GÜL', 'Melek ERDEK']
+Yayın Yılı: 10 Haziran 2022
+Dergi ismi: Dicle Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dufed/issue/68454/1062215
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2209491

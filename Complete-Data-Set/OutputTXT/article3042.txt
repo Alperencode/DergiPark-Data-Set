@@ -1,0 +1,7 @@
+Makale Başlığı: Finansal Aracılık Koini Olan Ripple Üzerine Bir Değerlendirme
+Özet: Bitcoin'den sonra en çok bilinen ve en çok kullanılan kripto para birimlerinden biri olması nedeniyle Ripple'ın kısa tarihçesini incelemenin bu noktada faydalı olacağı düşünülmektedir. Ripple sistemi ile işlem tarafları sınır ötesi ödeme işlemlerinde düşük maliyetler ödeyebilir, bankalar müşterilerine yeni ürün ve hizmetler sunabilir ve likidite sağlayıcıları yeni likidite koridorlarına ulaşabilir. Ripple, gerçek zamanlı olarak büyük tutarlı ödemelerin yapıldığı bir mutabakat sistemi, bir döviz platformu ve merkezi olmayan bir havale ağıdır. Ripple aynı zamanda mevcut ödeme ağlarının uluslararası gerçek zamanlı ödeme yetenekleriyle birbirleriyle iletişim kurmasını sağlayan teknolojik bir altyapı olarak da hizmet vermektedir. Ripple bir öneme sahip olduğundan, Ripple ve kripto para ile ilgili düzenlemeleri anlamak da önemlidir.
+Yazar isimleri: ['Mustafa EREK']
+Yayın Yılı: 20 Ekim 2022
+Dergi ismi: Bitlis Eren Üniversitesi İktisadi Ve İdari Bilimler Fakültesi Akademik İzdüşüm Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/beuiibfaid/issue/73015/1165755
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2611074

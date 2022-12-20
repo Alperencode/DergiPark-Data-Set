@@ -1,0 +1,7 @@
+Makale Başlığı: SYNTHESIS and CHARACTERIZATION of MECHANICAL ACTIVATION ASSISTED BORON CARBIDE (B4C) PRECURSOR POWDERS
+Özet: The study carries out the synthesis and characterization of the precursor to be converted to boron carbide (B4C). For this purpose, starting materials are boric acid (H3BO3) and sodium citrate (C6H5Na3O7). Both starting materials' reactions formed a complex structure (precursor) consisting of B-O-C-Na elements. Phase and microstructure analyses and bond characteristics of the precursor powders perform using X-ray diffraction (XRD), scanning electron microscopy (SEM/EDS), and Fourier spectroscopy (FT-IR) methods, respectively. As a result, the heat treatment carried out at relatively low temperatures (1000 oC) and under an inert gas atmosphere resulted in XRD patterns of the B4C phase. This study also investigated the possible reaction mechanism of the formation of the boron carbide phase and the effect of mechanical activation on the phase formation.
+Yazar isimleri: ['Hediye AYDIN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Scientific Reports-A
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsr-a/issue/72895/1110460
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2403210

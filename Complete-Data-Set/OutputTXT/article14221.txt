@@ -1,0 +1,7 @@
+Makale Başlığı: Validity of Okun Law in Agricultural Sector in Turkey: ARDL Bounds Test Approach
+Özet: Okun's Law asserts an inverse relationship between unemployment and economic growth in the economy. The study examines the relationship between the growth rate and unemployment rate for Turkey's agricultural sector from 2014Q1 - 2021Q3. The stationarity test is carried out with the Generalized Dickey-Fuller Unit Root Test. Then, the relationship between growth and unemployment rates in the agricultural sector is analysed with the ARDL bounds test. According to the study results, the growth rate of the agricultural sector and the unemployment rate in the agricultural sector are cointegrated in the long run, and the relationship between them is statistically significant and positive. The result reached in the study; Okun's Law is valid in the agricultural sector of the Turkish economy.
+Yazar isimleri: ['Mustafa YILMAZ', 'Ahmet Tayfur AKCAN']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1058093
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2193097

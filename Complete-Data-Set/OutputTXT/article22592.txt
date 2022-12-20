@@ -1,0 +1,7 @@
+Makale Başlığı: Bending Analysis of Functionally Graded Sandwich Circular Plates via the Complementary Functions Method
+Özet: In this study, the flexural response of sandwich circular plates with Functionally Graded (FG) material is investigated theoretically. The core of the sandwich circular plates, whose material properties change throughout their thickness, is considered to be isotropic homogeneous and the face sheets are assumed to be FG. The governing equations of the static behavior of the considered plates are obtained in canonical form with the aid of the minimum total energy principle based on the Kirchhoff–Love and Mindlin–Reissner plate theories. For the numerical solutions of these equations, the Complementary Functions Method (CFM) is implemented. In this research, the effects of material gradient index, radius-thickness ratios, shear deformation effects and different boundary conditions on the bending behavior of FG sandwich circular plates are parametrically investigated. The efficient applicability of the CFM to this type of problem and the accuracy of the suggested method are demonstrated by comparing the results obtained with the existing literature.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190287
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2713259

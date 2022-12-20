@@ -1,0 +1,7 @@
+Makale Başlığı: Feature Selection on MR Images Using Genetic Algorithm with SVM and Naive Bayes Classifiers
+Özet: 
+Yazar isimleri: ['Nihat Adar', 'Kemal Özkan', 'Suzan Şaylısoy', 'Belgin Demet Özbabalık Adapınar']
+Yayın Yılı: 25 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/270422
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/236999

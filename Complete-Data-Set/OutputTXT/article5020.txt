@@ -1,0 +1,7 @@
+Makale Başlığı: Çelik Yüzeylerdeki Kusurların Tespiti için Derin Öğrenme Tabanlı Gömülü Sistem Tasarımı
+Özet: Metal yüzeylerdeki kusurlar endüstriyel ürünlerin kalitesini olumsuz etkilemektedir. Bu nedenle üretim sonrası hata tespiti, kalite kontrolünün sağlanmasında önemli bir yere sahiptir. Bu çalışma, bilgisayar görmesi ve YOLOv7 kullanılarak çelik yüzeylerdeki kusurların otomatik denetimi ile ilgilidir. Bu çalışmadaki ana senaryo, imalat işyerlerinde çelik tellerin üretim sonrası kusur muayenesine odaklanmaktadır. Hata tespit sistemi, giriş görüntüsündeki kusurların sınıfını ve görüntü üzerindeki kesin konumlarını elde etmeyi amaçlar. Hızlı algılama yeteneği elde etmek için bu sistemde TensorRT kullanılmaktadır, bu da gömülü cihazların çıkarım hızını arttırmaktadır. Ayrıca, sınırlı veri ölçekleme problemini azaltmak için veri artırma algoritması kullanılır. YOLOv7'nin performansı YOLOv5 ile karşılaştırılmıştır. Hata tespiti için YOLOv7 kullanılarak yüksek hız ve doğruluk elde edilmiştir. Elde edilen sonuçlar, önerilen yöntemin metal yüzeylerdeki kusurları tespit etmek için yeterli bir yöntem olduğunu göstermektedir.
+Yazar isimleri: ['Emre GÜÇLÜ', 'İlhan AYDIN', 'Taha Kubilay ŞENER', 'Erhan AKIN']
+Yayın Yılı: 11 Aralık 2022
+Dergi ismi: EMO Bilimsel Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/emobd/issue/73772/1181470
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2676819

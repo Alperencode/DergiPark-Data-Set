@@ -1,0 +1,7 @@
+Makale Başlığı: INVESTIGATION OF THE HEAT AFFECTED ZONE BY THERMAL CYCLE SIMULATION TECHNIQUE
+Özet: 
+Yazar isimleri: ['Zakaria BOUMERZOUG', 'Fabienne DELAUNOİS']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: The International Journal of Materials and Engineering Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tijmet/issue/72047/869026
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1536011

@@ -1,0 +1,7 @@
+Makale Başlığı: Modelling Ozancık village (Aksaray) in computer environment using UAV photogrammetry
+Özet: Modelling the terrain with high accuracy is vital to create modern settlement areas, and to find solutions that threaten the people. Traditional land surveying is a time-consuming and expensive method. Unmanned aerial vehicle (UAV) is a powered aerial vehicle without a human operator. UAV related case study publications have been increased since last two decades. Detailed three-dimensional (3D) information on the land surface can be obtained from high spatial resolution point clouds. Modelling the terrain requires up-to date information. UAV can provide high-resolution images with low cost in the order of centimeters. We can reconstruct the terrain in a 3D representation using photogrammetry. In this study, we model a village located in Aksaray city using UAV photogrammetry. We created the orthomosaic and Digital Surface Map (DSM) of the region to characterize the terrain in detail. The obtained model and maps will help us to generate modern living space.
+Yazar isimleri: ['Hacı Murat YILMAZ', 'Nusret AKTAN', 'Adem ÇOLAK', 'Aydın ALPTEKİN']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: Mersin Photogrammetry Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mephoj/issue/71181/1132303
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2492981

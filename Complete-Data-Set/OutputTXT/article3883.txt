@@ -1,0 +1,7 @@
+Makale Başlığı: DENETÇİLERİN YAPAY ZEKÂ’YA YÖNELİK ALGILARININ DENETİM KALİTESİNE ETKİSİ ÜZERİNE BİR ARAŞTIRMA
+Özet: Genel olarak iş ve profesyonel hizmetler için oyunun kurallarını değiştirebilen yapay zekâ uygulamalarının makine öğrenimi, veri madenciliği ve bilişsel hesaplamadaki hızlı gelişmeler ile birlikte gelecek dönemlerde büyük sıçrama yapacağı görülmektedir. Bu gelişmeler doğrultusunda yapay zekâ sistemleri, denetim sürecini de önemli ölçüde değiştirmiştir. Bazı denetçiler, değişen bu ortama uyum sağlamada yaşanacak zorluklar karşısında yapay zekâ sistemini geri adım olarak yorumlamaktadırlar. Bu araştırmada, denetçilerin yapay zekâ kullanımlarının kolaylığı, kullanışlılığı ve denetim kalitesine yönelik etkisine yönelik beklentileri araştırılacaktır. Bununla birlikte yapay zekâ kullanımı sonrasında denetim kalitesini etkileme durumu saptanacaktır. Araştırmada, Antalya, Isparta ve Burdur illerinde faaliyet gösteren 251 bağımsız denetçiye online anket uygulanmıştır. Araştırmada elde edilen bulgulara göre; denetim faaliyetlerinde yapay zekâ kullanımı ve kullanım kolaylığını denetim kalitesini arttırdığı ve yapay zekâ kolaylıkla kullanımı denetim faaliyetlerinde fayda sağladığı saptanmıştır.
+Yazar isimleri: ['Ali APALI', 'Eda KÖSE']
+Yayın Yılı: 15 Kasım 2022
+Dergi ismi: Denetişim
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/denetisim/issue/73424/1078597
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2273172

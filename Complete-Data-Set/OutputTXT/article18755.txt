@@ -1,0 +1,7 @@
+Makale Başlığı: Ülkelerin Zenginliğinin veya Yoksulluğunun Kurumsal Analizi
+Özet: Bu çalışmanın amacı, kişi başına reel milli gelir büyüklüğü itibariyle dünyanın en zengin beş ülkesi ile en yoksul beş ülkesinin kurumsal yapılarının karşılaştırmalı bir analize tabi tutulması ve bu ülkelerde kurumsal yapı ve ekonomik performans ilişkisine dair çıkarsamalarda bulunulmasıdır. Ekonomik büyümeye ilişkin modeller, bir ülkenin beşerî ve fiziksel sermayesi ile teknolojisindeki ilerlemenin ülkenin genel üretim hacmini belirlediğini öne sürmekteyse de son dönem çalışmalar yalnız bu faktörlerin yeterli olmadığını, kapsayıcı kurumların ekonomik performansı ve büyümeyi teşvik etmede önemli bir rol oynadığını göstermiştir. Bu çalışma ile kapsayıcı kurumların yüksek ekonomik performansla, dışlayıcı kurumların ise düşük ekonomik performansla ilişkisine dair bulgulara erişilmiştir. Ancak bu husus, zengin ülkelerin kapsayıcı kurumlara sahip oldukları için zengin oldukları, yoksul ülkelerin ise dışlayıcı kurumlara sahip oldukları için yoksul oldukları yönünde doğrudan bir yargı içermemektedir. Zira bu iki kavram arasında geri bildirim etkileri bulunmakta ise de nedenselliğin varlığı ve yönü halen tartışmalıdır.
+Yazar isimleri: ['Tahsin YAMAK']
+Yayın Yılı: 10 Kasım 2022
+Dergi ismi: İzmir İktisat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ije/issue/72493/1043707
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2152756

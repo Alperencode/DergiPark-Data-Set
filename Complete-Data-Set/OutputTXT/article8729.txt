@@ -1,0 +1,7 @@
+Makale Başlığı: An overview of the development and taxation of NFT
+Özet: Digital technologies, which are becoming more and more involved in life day by day, continue to make radical changes in today's world. Like cryptocurrencies, NFTs have become one of the important factors that are rapidly accepted in this new world. NFT, which started to be produced in 2017 and started to spread in 2021, reached billions of dollars in transaction volume and hundreds of millions of manufacturers and users in a very short time, and started to attract the attention of experts. In this study, the definition of NFT and its characteristic features that distinguish it from other tokens are explained. After discussing the extraordinary transaction volume and increase in recognition in 2021, the technological infrastructure behind NFT production and trading transactions is explained. After explaining the development of NFTs, the legal arrangements made to define, tax and control this new digital technology are mentioned.
+Yazar isimleri: ['Abdulcelil GAZİOĞLU', 'Ahmet ÖZEN']
+Yayın Yılı: 13 Mart 2022
+Dergi ismi: İzmir Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/izsbd/issue/68873/1107237
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2389614

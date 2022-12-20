@@ -1,0 +1,7 @@
+Makale Başlığı: Multilingual Text Mining Based Open Source Emotional Intelligence
+Özet: 
+Yazar isimleri: ['Shahin AHMADOV', 'Aytuğ BOYACI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1113832
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2416228

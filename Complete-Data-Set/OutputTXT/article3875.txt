@@ -1,0 +1,7 @@
+Makale Başlığı: Yüksek Hızlı Trenin Farklı Seferlerinde Güneş Enerjisi Kullanım Oranı, Güvenilirliği ve Verimliliğinin Belirlenmesi
+Özet: Bu çalışmada, YHT65000 serisi yüksek hızlı tren setlerinin ihtiyaç duyduğu gücün ne kadarının güneş enerjisi sistemleri ile desteklenebileceğini belirlemek için evrensel olarak geçerli bir denklem modeli kullanılarak istatistiksel bir fizibilite analizi yapılmıştır. Hesaplamalar Meteoroloji Genel Müdürlüğü'nden temin edilen gerekli parametreler ile yapılmıştır. Bu güç ihtiyacını karşılayacak oranı bulmak için sekiz farklı Ankara-Eskişehir / Eskişehir-Ankara seferi kullanılmış ve bu seferler 61 farklı dağılım fonksiyonu ile test edilerek her bir sefer için olasılık yoğunluk fonksiyonu için optimum model bulunmuştur. Bu farklı dağılım fonksiyonları arasından en iyi modellerin seçimi hata oranları ile birlikte sunulmuştur. Bu çalışma, yüksek hızlı tren hattının belirli seferlere dayalı güç ihtiyacını desteklemek için kurulacak bir güneş enerjisi sisteminin katkısının detaylı istatistiksel özelliklerini ortaya koymaktadır.
+Yazar isimleri: ['Mehmet FİDAN', 'Mine SERTSÖZ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Demiryolu Mühendisliği
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/demiryolu/issue/69368/1128853
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2478573

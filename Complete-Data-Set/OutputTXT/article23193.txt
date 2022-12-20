@@ -1,0 +1,7 @@
+Makale Başlığı: Bitkisel Ürün Verim Sigortası için Prim Oranlarının Belirlenmesi: Cihanbeyli, Çorlu ve Polatlı Örnekleri
+Özet: Günümüzde tarımsal faaliyetlerle uğraşan iş gücü piyasası ile üretim yapılabilecek tarım alanlarının azalması ve nüfusun artması gibi tarımsal üretimi etkileyen nedenlerin çoğalması, temel besin kaynaklarının üretiminin devam etmesi konusunu önemli bir hale getirmektedir. Bu bağlamda, tarımsal üretimi üstlenen çiftçilerin üretimine devam etmesi, üretimden kaynaklanan risklere karşı kendini güvende hissedebilmesi için önlemlerin alınması gerekmektedir. Dolayısıyla üretimi doğrudan etkileyen çevresel risklerin de etkisini azaltılabilecek sigorta poliçelerinin sunulması önem kazanmaktadır. Bu çalışmada, tarım sigortalarında kullanılan önemli bir sigorta uygulaması olan verim sigortası anlatılmış, Türkiye için buğday üretiminde bulundukları illerde ilk sıralarda yer alan Cihanbeyli, Çorlu ve Polatlı ilçelerine ait 1991-2021 yılları arası buğday verim verileri kullanılarak verim sigortası için prim oranları elde edilmiştir. 31 yıllık buğday verisi, tarım sigortaları için sıkça kullanılan parametrik dağılımlardan; normal, beta ve parametrik olmayan gaussian kernel dağılımı yardımıyla incelenmiştir.
+Yazar isimleri: ['Güven ŞİMŞEK']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: İstatistik Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsstr/issue/73878/1196612
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2739218

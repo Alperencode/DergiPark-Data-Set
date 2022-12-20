@@ -1,0 +1,7 @@
+Makale Başlığı: Maymun Çiçeği Virüsünün Yapısal Özellikleri ve Laboratuvar Tanısı
+Özet: Maymun Çiçek Virüsü daha önce endemik olarak Afrika'da görülen ve çiçek hastalığı benzeri hastalığa neden olan bir zoonozdur. Son zamanlarda insandan insana bulaşların artışı ve Afrika'nın ötesindeki salgınların ortaya çıkması ile dikkatleri üzerine çekmiştir. Hastalık genellikle kendini sınırlamakta ancak %10‘a varan mortalite ve ciddi komplikasyonlar görülebilmektedir. Hastalığın spesifik bir klinik tablosu yoktur ve Maymun Çiçeği Virüsü diğer bazı virüs türleri ile yapısal benzerlik sergilemektedir. Henüz spesifik bir aşısı ve tedavisi olmayan bu etkenin hızlı ve erken tanınması salgın yönetimindeki en etkili basamak olacaktır. Bu derlemede Maymun çiçeği virüsünün yapısı ve laboratuvar tanısında kullanılan yöntemler gözden geçirilmiştir.
+Yazar isimleri: ['Nalan YILDIZ', 'Sinem AKÇALI']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Journal of Biotechnology and Strategic Health Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bshr/issue/72769/1162411
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2597838

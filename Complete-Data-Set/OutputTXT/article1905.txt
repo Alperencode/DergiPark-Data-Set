@@ -1,0 +1,7 @@
+Makale Başlığı: Daldırma ve atomizasyon yöntemleri kullanılarak ısıl işlem uygulanmış ahşap malzemenin yapışma direncinin belirlenmesi
+Özet: Bu çalışmanın amacı, daldırma ve atomizasyon yöntemlerini kullanarak ısıl işlem görmüş ahşap malzemenin yapışma direnci performansını değerlendirmektir. Isıl işlem sıcaklığı, işlem süresi, ahşap yönü ve uygulama türleri bağımsız değişkenler, yapışma mukavemeti ise bağımlı değişken olarak belirlenmiştir. Isıl işlem görmüş ahşap malzemelere uygulanan yüzey kaplamasının performansını belirlemek için yapay yaşlandırma testi kullanılmıştır. Yapay yaşlandırma testi sonrası yüzey işlem performansını etkileyen faktörler, çok yönlü varyans analizi (MANOVA) ve pareto analizi ile değerlendirilmiştir. Elde edilen sonuçlara göre 190°C sıcaklıkta ve 2 saatlik uygulama süresinde her iki yöntemde de yapışma mukavemeti daha yüksek bulunmuştur. Radyal yöndeki yapışma mukavemetinin teğetsel yönden daha iyi olduğu görülmüş ve özellikle daldırma yönteminin malzeme yönü üzerinde önemli bir etkileşim oluşturduğu ve yapışma mukavemetini önemli ölçüde etkilediği gözlemlenmiştir.
+Yazar isimleri: ['Ender HAZIR']
+Yayın Yılı: 28 Ekim 2022
+Dergi ismi: Artvin Çoruh Üniversitesi Orman Fakültesi Dergisi
+Yayın sayfa url: http://ofd.artvin.edu.tr/tr/pub/issue/73139/1165995
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2612130

@@ -1,0 +1,7 @@
+Makale Başlığı: Nevşehir Perlit Agregasının Alkali Silika Reaksiyonu Açısından İncelenmesi
+Özet: Alkali silika reaksiyonu (ASR) günümüzde betonarme elemanlarının dayanıklılığını olumsuz etkileyen oldukça karmaşık kimyasal reaksiyondur. Çimento içerisinde bulunan alkaliler ve agrega içerisinde bulunan reaktif silis miktarının bir araya gelmesi sonucu yeterli nem miktarına ulaştığında beton içerisindeki boşluklarda alkali silika jeli oluşur. Bu oluşum ile alkali silika reaksiyonu başlar. Alkali silika jellerinin su emmeleri sonucunda beton içsel gerilmeleri artar ve betonda kılcal çatlaklar meydana getirerek hasara yol açar. Bu çalışmada, Nevşehir bölgesinden elde edilen perlit agregasının alkali silika reaksiyonuna etkisi incelenmiştir. Bu kapsamda, hızlandırılmış harç çubuk deneyi (ASTM C 1260) metodu deneyleri yapılmıştır. Kırma kireçtaşı agregasına perlit agregası ağırlıkça %0, 10, 20, 30, 40, 50, 60 ve 70 oranlarında yer değiştirilmesi ile karışımlar hazırlanmıştır. Bu numuneler 7, 14 ve 28 günlük boy değişim değerleri ölçülmüştür. Harç çubuklarına Kireçtaşı agregası yerine ikame edilen perlitin alkali silika reaksiyonunu arttırdığı görülmüştür.
+Yazar isimleri: ['Osman ŞİMŞEK', 'İlhami DEMİR', 'Ozer SEVİM']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1012508
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2037489

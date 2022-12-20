@@ -1,0 +1,7 @@
+Makale Başlığı: Bulanık Sayılar için Üç İndisli Lacunary Dizi Uzayları
+Özet: Nanda [29] 1989 yılında bütün yakınsak bulanık sayı dizilerinin tam metrik uzaylar olduğunu gösterdi. Ayrıca, Nuray [30] bulanık sayılarda lacunary istatistiksel yakınsak ve istatistiksel yakınsak diziler arasındaki ilişkileri verdi. Bununla birlikte, bulanık sayı dizilerinin çeşitli yönleri birçok yazar tarafından tartışılmıştır. Bu çalışmada, üç indisli bir bulanık sayı dizisinin lacunary istatistiksel yakınsaklığı ve üç indisli lacunary güçlü p-Cesàro toplanabilmesi kavramları incelenmiştir. Üç indisli lacunary istatistiksel Cauchy dizisi, üç indisli lacunary güçlü p-Cesàro toplanabilme ve lacunary istatistiksel olarak bulanık bir sayıya yakınsak olmayı tanımlıyoruz. Bu çeşitli kavramlar arasında bir ilişki olduğunu düşünüyoruz ve bu nedenle, makalede bu konu ile ilgili bazı temel teoremlere yer veriyoruz.
+Yazar isimleri: ['Işıl AÇIK DEMİRCİ']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1096559
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2345168

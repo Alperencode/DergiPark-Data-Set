@@ -1,0 +1,7 @@
+Makale Başlığı: Sıcaklık Faktörünün Bitkiler Üzerindeki Etkileri ve Yüksek Sıcaklık Stresi
+Özet: Bitki ekosistemi içerisinde bitkilerin çimlenme, gelişme ve dağılımında etkili olan faktörler mevcuttur. Bu faktörlerin bitkinin istediği optimum koşullarda gerçekleşmesi durumunda, sağlıklı bir büyüme gerçekleşir. Bu faktörlerin en önemlilerinden birisi de sıcaklıktır. Bu kaynak ihtiyacını karşılamada yaşanacak aksaklık, bitkilerde olumsuz etkilere neden olmaktadır. Küresel iklim değişikliğine bağlı olarak artan sıcaklık faktörünün bitkiler üzerindeki etkilerinin bilinmesi ve bitkinin buna karşı oluşturduğu cevap mekanizmalarının iyi anlaşılması oldukça önemlidir. Bununla birlikte artan sıcaklık stresinin bitkilerde morfolojik, fizyolojik ve verimsel açıdan meydana getirdiği etkileri anlamak ve bitkilerin buna karşı verdikleri tepkileri öğrenmek, sıcaklığa toleranslı genotiplerin geliştirilmesine yönelik adımları atmada önem arz etmektedir. Bu derlemede,  sıcaklığın bitkiler üzerindeki etkileri ve yüksek sıcaklık stresine karşı verdiği cevaplar tartışılmıştır.
+Yazar isimleri: ['Fulya BAŞARAN', 'Zakire Tülay AYTAŞ AKÇİN']
+Yayın Yılı: 21 Kasım 2022
+Dergi ismi: Bahçe
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bahce/issue/73329/1124625
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2460921

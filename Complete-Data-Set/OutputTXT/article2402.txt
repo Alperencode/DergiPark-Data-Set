@@ -1,0 +1,7 @@
+Makale Başlığı: Hazır giyim sektöründe üretim süreçlerine RFID teknolojisinin entegrasyonu ve yatırım değerlendirmesi
+Özet: Otomatik Tanıma Sistemlerinden (AIS-Automatic Identification System) birisi olan Radyo Frekanslı Tanıma Sistemi (RFID-Radio Frequency Identification) giderek artan oranda ülkemizde ve dünyada birçok değişik sektörde aktif ve yaygın olarak kullanılmaktadır.  RFID operasyonel maliyetleri azaltarak işin akışını hızlandırmakta ve verimliliği ve karlılığı olumlu olarak etkilemektedir.Ülkemiz ekonomisine önemli katkısı olan öncü sektörlerden hazır giyim sektöründe yer alan işletmeler etkin hizmet sunabilmek adına bütün değer zincirleri arasındaki bilgi ve malzeme akışını etkin bir şekilde yönetmek durumundadırlar.  Bu çerçevede verilerin hızlı ve güvenilir bir şekilde toplanması, bilgi ve malzeme akışının etkin bir şekilde yönetilmesi büyük önem kazanmaktadır.Bu çalışmada öncelikle bir hazır giyim işletmesinin üretim süreçlerine yönelik, etüt çalışması ve hat dengeleme işlemleri yapılmış ardından RFID teknolojisinin uygulamaya geçirilmesine dair fizibilite etüdü gerçekleştirilerek RFID sisteminin hazır giyimde üretim süresince entegrasyonu değerlendirilmiştir.
+Yazar isimleri: ['Mücella GÜNER', 'Eda ACAR']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1025892
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2089928

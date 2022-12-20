@@ -1,0 +1,7 @@
+Makale Başlığı: Wireless Sensor Data Fusion Techniques in Estimating Temporal Resource Attributes in Scenarios of Intermittent Connectivity
+Özet: In data fusion process the fusion centre which lies intermediate distance aggregates the data and forwards to the sink. In scenario of data aggregation at fusion centre an imbalance may occur due to the potential forwarding process of other fusion centres or other sensor nodes to sink. Hence, this back log of time results in forwarding large chunks of data resulting in link imbalance where the associated classical time interval of reporting varies. The problem balancing and coordinating among fusion centres has been achieved in this work using Data Fusion using Generalized Interval Probability Protocol (DFGIPP).  DFGIPP is developed considered the duality principle with proper and improper intervals of reporting to provide coherence among the links. Thus allocating and de-allocating links with the quality of fusion metrics in cooperation between fusion centre and sensor nodes within the terrain is being achieved. The simulation using discrete event network simulator-2 provides better fusion capability under data transfer rates and simulation scenarios.
+Yazar isimleri: ['Ashokkumar NAGARAJAN']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/948125
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1807739

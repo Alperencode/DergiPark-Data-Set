@@ -1,0 +1,7 @@
+Makale Başlığı: Demiryolu Hat Geometrisinin Fraktal Analizi
+Özet: Hat geometrisi muayene araçlarıyla yapılan ölçümlerden elde edilen grafiklere göre demiryolu hattı yatay ve düşey düzlemlerde düzgün olmayan dalgalı bir geometriye sahiptir. Bu geometrik yapı fraktal desen olarak göz önüne alındığında hat geometrisinin düzgünsüzlüğü fraktal boyutlar yardımı ile sayısal olarak ifade edilebilir. Bu çalışmada Ankara-Eskişehir Yüksek Hızlı Tren (YHT) hattının geometrik düzgünsüzlüğünü belirlemek için fraktal analiz metodundan faydalanılmıştır. Fraktal boyutları hesaplamak için cetvel metodunu temel alan bir hesap algoritması kullanılmıştır. Fraktal boyutlar fleş ve nivelman grafikleri için hesaplanmıştır. Yapılan hesaplamalara göre, hat geometrisinin genel düzgünsüzlüğünün fraktal boyut ile sayısal olarak ifade edilebildiği belirlenmiştir. Çalışmanın sonunda hat kalitesinin göstergesi olan geometrik parametrelerin standart sapması ile fraktal boyutlar arasındaki ilişki araştırılmıştır. Buna göre önerilen fraktal boyut ile standart sapma arasında güçlü bir ilişki vardır.
+Yazar isimleri: ['Murat Vergi TACİROĞLU', 'Mustafa KARASAHİN', 'Mesut TİGDEMİR', 'Hakan IŞIKER']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Demiryolu Mühendisliği
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/demiryolu/issue/69368/1130088
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2483705

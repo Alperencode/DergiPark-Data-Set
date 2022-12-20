@@ -1,0 +1,7 @@
+Makale Başlığı: Dynamics of a Prey-Predator System with Harvesting Effect on Prey
+Özet: This article is about the dynamic behavior of a prey-predator model exposed to the harvesting effect on prey. Firstly, the existence and stability of the fixed points of the model are obtained, and then the presence and direction of Neimark-Sacker bifurcation is examined. By using the bifurcation theory, we show that the system undergoes Neimark-Sacker bifurcation. The hybrid control strategy is applied to control the chaos caused by the Neimark-Sacker bifurcation. In addition, some numerical simulations are given to verify the theoretical results obtained.
+Yazar isimleri: ['Özlem AK GÜMÜŞ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Chaos Theory and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/chaos/issue/73033/1183113
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2683439

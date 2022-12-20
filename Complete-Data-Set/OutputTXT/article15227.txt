@@ -1,0 +1,7 @@
+Makale Başlığı: Kurumsal sosyal sorumluluk algısının marka imajı, marka güveni ve marka sadakati üzerine etkisi
+Özet: Bu araştırmanın amacı cep telefonu kullanıcılarının kurumsal sosyal sorumluluk algısının, marka imajı ve marka güveni aracılığıyla marka sadakatine etkisinin incelenmesidir. Bu etkinin belirlenmesi amacıyla hazırlanan anket,  Trakya Üniversitesi Havsa Meslek Yüksek Okulu öğrencileri üzerinde uygulanmıştır. 217 anketten elde edilen veriler SPSS 23 ve AMOS 23 paket programı kullanılarak AMOS Yapısal Eşitlik Testi ile analiz edilmiş ve bulgular yorumlanmıştır. Sonuç olarak, kurumsal sosyal sorumluluk algısının tüketiciye saygı ve çalışana saygı boyutlarının marka imajı pozitif etkisi varken marka güvenine de marka imajı aracılığıyla pozitif etkisi vardır. Marka imajının marka güveni üzerinde, marka güveninin de marka sadakati üzerinde doğrudan pozitif etkisi vardır ve marka imajının da marka güveni aracılığıyla marka sadakati üzerinde etkisi bulunmaktadır.
+Yazar isimleri: ['Elif GİLANLI', 'Tolga ERDOĞAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Trakya Üniversitesi İktisadi ve İdari Bilimler Fakültesi E-Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/trakyaiibf/issue/70165/1028306
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2099336

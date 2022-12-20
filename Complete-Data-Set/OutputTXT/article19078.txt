@@ -1,0 +1,7 @@
+Makale Başlığı: Makine Öğrenmesi Teknikleri ile Ülke Riski Tahmini
+Özet: Ülke riski değerlendirmesi en genel anlamıyla bir ülkenin alabileceği dış yardımların ve yatırımcıların karşı karşıya kalacağı riskin bir ölçüsüdür. Bu sebeple ülke riskinin, ekonomik, finansal ve politik risk unsurlarının birlikte ele alındığı bir prosedürle oldukça hassas tahminler yapılarak ölçülmesi gerekmektedir. Tahmin yöntemi büyük bir titizlikle tercih edilmeli ve mutlaka farklı yöntemler ile desteklenmelidir. Bu amaçla çalışmada, iyi tahmin sonuçları üreten ve sıklıkla kullanılan LRA, KNN, CART ve DVM yöntemleri tercih edilmiştir. Tahmin modelini eğitmek için 2015-2019 yılları arasında 75 ülkenin farklı makroekonomik göstergeleri kullanılmıştır. Çalışmanın bulgularına göre tercih edilen tüm yöntemler ile oldukça başarılı tahmin sonuçlarının üretildiği söylenebilir. Farklı değerlendirme kriterlerinin ele alındığı ve her bir makine öğrenmesi algoritmasının 100 kez tekrar edildiği durumda, en iyi sonucu veren yöntem KNN algoritması olduğu görülmektedir. Takip eden yöntemler ise sırası ile, DVM, LRA ve CART algoritması olarak sıralanabilir.
+Yazar isimleri: ['Seyyide DOĞAN', 'Hasan TÜRE']
+Yayın Yılı: 14 Eylül 2022
+Dergi ismi: Fiscaoeconomia
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fsecon/issue/72567/1098493
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2353327

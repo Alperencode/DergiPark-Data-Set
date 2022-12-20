@@ -1,0 +1,7 @@
+Makale Başlığı: Hidroelektrik Santrallarda Bakım Strateji Optimizasyonu için Hiyerarşik Bir Karar Modeli Önerisi
+Özet: Günümüzde enerji talebi her geçen gün artmaktadır. Enerji arzını sağlayan tesisler artan bu talebe kesintisiz bir şekilde cevap verecek politikalar ve uygulamalar geliştirmektedirler. Enerjide sürekliliği sağlamakta etkili olan unsurlardan biri de enerjinin üretildiği santralların bakım stratejilerini arzı kesintiye uğratmayacak şekilde belirlemektir. Bu çalışmada, bir hidroelektrik santralda en kritik elektriksel ekipmanın bulunması ve bu ekipman için bakım stratejisinin seçimi amaçlanmıştır. Bu çalışma iki aşamadan oluşmaktadır. İlk olarak en kritik elektriksel ekipman belirlenmiştir. Ekipmanların sıralanmasında kullanılan kriterlerin ağırlıklarının belirlenmesinde Pisagor Bulanık Analitik Hiyerarşi Prosesi (PBAHP) kullanılmıştır. Alternatiflerin sıralanmasında ise, PBAHP yöntemi ile TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) yöntemi entegre edilmiştir. En kritik elektriksel ekipman olarak belirlenen generatör ekipmanı için en uygun bakım stratejisi revizyon bakım olarak belirlenmiştir.
+Yazar isimleri: ['Emre YAZICI', 'Evrencan ÖZCAN', 'Hacı Mehmet ALAKAŞ', 'Tamer EREN']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/862024
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1512111

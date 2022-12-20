@@ -1,0 +1,7 @@
+Makale Başlığı: The Nexus between Usd Parity and Trade Balance of BRICS-T Countries
+Özet: Unlike many previous studies that focused on the link between trade balance and exchange rate parities through time series models, panel data models were applied mainly to BRICS-T countries. Comparative variances of trade balances against USD/local currency parity were revealed, and the most sensitive countries were Brazil, Turkey, and Russia. According to the panel EGLS analysis, the same parity had a non-significant negative impact on the trade balance in the short run. A significant long-term effect was found in the FMOLS analysis. Panel VAR and VECM generalized impulse response analysis revealed the negative impact of the USD/domestic currency parity on the trade balance of BRICS-T. The J-curve was observed briefly in the analyses.
+Yazar isimleri: ['Huseyin CETIN', 'Yunus Emre SÜRMEN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguiibf/issue/73390/1086986
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2306288

@@ -1,0 +1,7 @@
+Makale Başlığı: Estimation on the Spin${}^c$ twisted Dirac operators
+Özet: We generalize the lower bound estimates for eigenvalues of the twisted Dirac operator on compact Riemannian Spinc−c−submanifold obtained by Roger Nakad and Julien Roth in (Archiv der Mathematik 104(5), 453-461, 2015).
+Yazar isimleri: ['Serhan EKER']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1054157
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2177960

@@ -1,0 +1,7 @@
+Makale Başlığı: Sonlu Elemanlar Analizi Kullanılarak Bir İndüksiyon Isıtma Sisteminin Elektromanyetik ve Termal Analizi
+Özet: İndüksiyon ısıtma sistemleri endüstride geniş kullanım alanına sahip hızlı, temassız ve verimli bir ısıtma yöntemidir. Bu çalışmada indüksiyon sargısına uygulanan 25 kHz çalışma frekansına sahip farklı akım değerleri için çalışma parçasının sıcaklık değişimi Sonlu Elemanlar Analiz tabanlı yazılım kullanılarak Elektromanyetik-Termal analiz ile elde edilmiştir. Dalma derinliği bu frekans değerleri için hesaplanmış ve modellemelerde bu değerler göz önünde bulundurulmuştur. Analiz sonuçlarına göre, 100 A akım değeri uygulandığında çalışma parçasının sıcaklık değeri kalıcı durumda 669°C’ye kadar ulaşmaktadır.
+Yazar isimleri: ['Emrullah AYDIN']
+Yayın Yılı: 11 Aralık 2022
+Dergi ismi: EMO Bilimsel Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/emobd/issue/73772/1182866
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2682384

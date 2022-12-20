@@ -1,0 +1,7 @@
+Makale Başlığı: Ortaöğretim Öğrencilerinin Okula Yönelik Tutumlarının ve Başarı Amaç Yönelimlerinin Belirlenmesi
+Özet: Bu çalışmanın amacı; ortaöğretim öğrencilerinin okula yönelik tutumları ve başarı amaç yönelimlerinin çeşitli değişkenler açısından incelenmesi, öğrencilerin okula yönelik tutumlarının başarı amaç yönelimlerini yordama düzeyinin belirlenmesidir. Araştırmanın örneklem grubunu 2019-2020 eğitim yılı bahar döneminde Sivas il merkezinde öğrenim görmekte olan 392 kız, 370 erkek olmak üzere toplam 762 ortaöğretim öğrencisi oluşturmaktadır. Araştırma verilerinin elde edilmesinde “Okula İlişkin Tutum Ölçeği” ve “Başarı Amaç Yönelimleri Ölçeği” kullanılmıştır. Verilerin elde edilmesinde tanımlayıcı ve normallik analizleri, bağımsız örneklem t testi, tek yönlü ANOVA, Tukey ve çoklu regresyon analizi kullanılmıştır. Elde edilen bulgularda öğrencilerin okula yönelik tutumlarının araştırmanın tüm değişkenlerine göre istatistiki olarak anlamlı düzeyde farklılaştığı saptanmıştır. Ayrıca okula yönelik tutum ölçeğinin alt boyutlarındaki değişimi, öğrenme amaç yönelimi yaklaşık %25.6, performans/yaklaşma amaç yönelimi yaklaşık %24.6, performans/kaçınma amaç yöneliminde yaklaşık %18.7 oranında açıklamaktadır.
+Yazar isimleri: ['Aysel ARSLAN', 'Sait BARDAKÇI']
+Yayın Yılı: 23 Nisan 2022
+Dergi ismi: Journal of Computer and Education Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcer/issue/69325/1015195
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2048321

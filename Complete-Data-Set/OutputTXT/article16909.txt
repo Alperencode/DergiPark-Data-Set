@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı Tane Boyutlarındaki Kuvarsın Elektroporselen Bünyeye Etkisinin İncelenmesi
+Özet: Porselen, izolatör üretiminde kullanılan en yaygın malzemedir. Porselen izolatörlerin üretiminde, diğer porselen ürünlerine benzer hammaddeler kullanılsa da nihai ürünün sağlaması gereken teknik ve karakteristik özellikler bakımdan son derece özel ürünlerdir. Kuvars esaslı porselen izolatörler ise alçak ve yüksek gerilim kademelerinde kullanılmaktadır. Kuvars esaslı porselenlerde ana bileşen olan kuvars bünyenin teknik ve karakteristik özellikleri üzerinde son derece önemli rol oynamaktadır. Bu çalışmada farklı tane boyutlarındaki kuvars hammaddesinin porselen izolatör bünyesindeki etkileri incelenmiştir. Bu amaçla elek üstü bakiyeleri en fazla %1 olan 45µ, 63 µ ve 100 µ tane boyutuna sahip kuvarsla porselen izolatör çamuru hazırlanmıştır. Hazırlanan reçetelerin fiziksel ve termal özellikleri analiz edilmiştir. Kuvars tane boyutu yükseldikçe pişme ve kuru mukavemet değerlerinde gözle görülür bir düşüş belirlenmiştir. Tane boyutunun yükselmesiyle, su emme ve görünür porozite yükselmiş, pişme küçülmesi azalmıştır. Çalışma sonunda kuvars tane boyutu yükseldikçe temel fiziksel özellikler kötüleşmektedir. İdeal çalışılacak tane boyutu 45 mikron olarak belirlenmiştir.
+Yazar isimleri: ['Baran TARHAN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1110342
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2402769

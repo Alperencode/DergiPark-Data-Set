@@ -1,0 +1,7 @@
+Makale Başlığı: Klozet Kapakları  Üretiminde Yeni Nesil Kapak Teknolojilerinin Geliştirilmesi
+Özet: Seramik sağlık gereçlerinde kullanılan klozet kapakları büyük çoğunlukta üreformaldehit bazlı hammaddelerden üretilmektedir. Yenilikçi tasarımlar daha fonksiyonel, daha ince kapaklara doğru gitmektedir. Ancak üreformaldehit gerek işlenebilme zorluğu gerekse mukavemetin yeterli olmamasından dolayı günümüz ihtiyaçlarını karşılayacak özelliklerdeki kapak modellerinin tasarım ve üretimine olanak sağlayamaması, farklı özellikleri bir arada barındıran kompozit malzemelere olan talebi günden güne arttırmaktadır. Bu çalışmada üreformaldehit yerine uzun yıllardır otomotiv başta olmak üzere elektrik, inşaat, ev cihazları gibi sektörlerde yaygın kullanılan SMC (Sheet Moulding Compound) yöntemi ile üretilmiş kompozit malzemeler değerlendirilmiştir.  İstenen ürün özelliklerini sağlayan uygun SMC kompozisyonlarının belirlenmesi konusunda çalışmalar yapılmıştır. Ayrıca Ansys yazılım programı kullanılarak klozet kapakları için maksimum deformasyon ve gerilme değerleri bulunmuştur. Bu sayede üreformaldehit ile yapılan klozet kapakları ile kıyaslandığında, daha yüksek darbe dayanımı (145 MPa), daha ince ürün kesiti (4 mm) elde edilmiştir.
+Yazar isimleri: ['Elif GÜREL ÖZYURT']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1080229
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2279492

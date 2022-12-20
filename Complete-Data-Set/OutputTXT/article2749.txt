@@ -1,0 +1,7 @@
+Makale Başlığı: A REVIEW OF PV COOLING AND THERMAL ENERGY STORAGE IN PV/T SYSTEMS BASED PHASE CHANGE MATERIALS
+Özet: Solar energy has advantages such as accessibility, applicability and predictability compared to other renewable energy sources. This energy source is used for many purposes in the world. Photovoltaic panels provide applications such as generating electricity from solar energy or heating and cooling. Their performance changes depending on the PV panel material, the amount of solar radiation and the operating temperature factors. In the electrical energy conversion of PV systems, overheating of the PV module leads to a decrease in power generation and causes a decrease in efficiency. Therefore, there are cooling methods for cooling PV panels, and they are divided into passive and active. In this study, the properties of the phase change material (PCM) used in the cooling of PV panels are given. In addition, studies using PCM to reduce the temperature of PV panels and experimental and numerical studies that increase efficiency by using PCM for using thermal energy are discussed. In the studies, it has been seen that PCM reduces the temperature of the PV panel and increases the efficiency and power output data obtained when PCM is used.
+Yazar isimleri: ['Ecem ŞEN', 'Melih Soner ÇELİKTAŞ']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: Beykent Üniversitesi Fen ve Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bujse/issue/70245/1071145
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2244543

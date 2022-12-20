@@ -1,0 +1,7 @@
+Makale Başlığı: AN EMERGING FACTOR IN TURKISH ANTI-DUMPING POLICY: ADDITIONAL CUSTOMS DUTY
+Özet: The purpose of this study is to explain the determinants of anti-dumping investigations in Turkey, which is one of the most frequent users of anti-dumping investigations among World Trade Organization (WTO) members. Following rising global protectionism after 2012, the implementation of new measures gained prominence among many countries. Most notable of these new changes is the extensive use of Additional Customs Duty (ACD) in Turkey.  The study examines this policy tool for the first time in the literature regarding anti-dumping determinants. Negative binomial regression models used for 1989-2019 period to illustrate different variables such as retaliation motives, deterioration in trade deficit, productivity of the manufacturing sector and real GDP growth as important factors affecting investigative efforts. The findings indicate that certain protectionist motives matter more in anti-dumping investigations rather than unfair competition dynamics. Thus, ACD policy seems to keep its importance to reduce anti-dumping investigation initiations against some countries over time.
+Yazar isimleri: ['Serdar AKBAŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Hacettepe Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/huniibf/issue/72799/995300
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1973916

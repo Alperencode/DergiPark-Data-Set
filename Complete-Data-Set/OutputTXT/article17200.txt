@@ -1,0 +1,7 @@
+Makale Başlığı: AN APPLICATION TO DETERMINE THE CONSUMERS’ CAFE AND RESTAURANT PREFERENCES
+Özet: The aim of this study is to determine the factors affecting the cafe and restaurant preferences of consumers. In the study, it was planned to apply a questionnaire to the consumers who come to the cafes and restaurants in Ortahisar district of Trabzon. However, since some of these venues do not allow surveys and some are closed due to the Covid-19 outbreak, the research was limited to 9 venues: including 5 cafés and 4 restaurants. In this context, data were collected by applying face-to-face and online questionnaires to 411 customers of 9 cafes and restaurants in Trabzon. Descriptive analysis, explanatory factor analysis and multiple linear regression analysis were used as statistical methods. In the study, it was concluded that the factors of service, food quality and cleanliness, image, location and convenience have a significant effect on the consumers’cafe and restaurant preferences. Atmosphere, ambiance, price and menu variety were not effective on the consumers’ cafe and restaurant preferences. This study will be useful for café and restaurant owners or managers and guide researchers who want to work on this subject.
+Yazar isimleri: ['Hatice Dilara KESKİN', 'Arzu KALIN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Uluslararası Yönetim İktisat ve İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijmeb/issue/72612/1032709
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2116071

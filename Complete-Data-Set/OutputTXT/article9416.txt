@@ -1,0 +1,7 @@
+Makale Başlığı: Duygusal Zeka ve Dil Öğretimi
+Özet: This paper reviews Emotional Intelligence (EI) and the development of models which focus on the individual's cognitive and non-cognitive abilities and skills. It also emphasizes the differences and similarities between the mentioned models and the value of EI in educational contexts.
+Yazar isimleri: ['Mert PEKBAY', 'Onur KARASU', 'Oya TUNABOYLU']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: Journal of Language Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jlr/issue/61504/1034535
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2123468

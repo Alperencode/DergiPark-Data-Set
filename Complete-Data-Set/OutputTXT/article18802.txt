@@ -1,0 +1,7 @@
+Makale Başlığı: PREDICTION of POWER SYSTEMS HARMONIC USING FUZZY LOGIC
+Özet: This paper presents a new approach for predicting the Voltage Total Harmonic Distortion (THDV ) in power systems. We benefit from a power system with nonlinear dynamic load belonging to an Iron and Steel Industry. In this power system the nonlinear load consist of DC motor drives, high frequency welding machine, thyristor controlled AC chopper, rectifier and invertor.  Especially high frequency machines  used in  heating and welding process in an iron and steel industry are playing rol in voltage distortions. Basic relationships about harmonics, effects of the harmonics and ways for the THDV measurement are described  in the firstly and prediction of THDV using Fuzzy Inference Systems (FIS) are examined  in the secondly part of the paper. Power Factor (PF), and 3rd phase current (IL3) values are measured for an example system. After FIS is designed for prediction of THDV and method is tested using both FIS simulation and field measurements, the proposed fuzzy prediction approach is successfully applied to predict THDV
+Yazar isimleri: ['Ersen KURU', 'Leyla KURU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Scientific Reports-A
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsr-a/issue/72895/1116637
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2427689

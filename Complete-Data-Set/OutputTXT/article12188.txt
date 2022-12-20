@@ -1,0 +1,7 @@
+Makale Başlığı: Automatic Classification of Healthy and Sick Broilers in Terms of Avian Influenza by Using Neural Networks
+Özet: Poultry meat containing low fat and high protein is an important and economical protein source in providing the animal protein requirement for human nutrition. The frequent emergence of poultry diseases such as avian influenza is the feature of fast-spread in farms seriously threatens both the economy and human health. In this study, neural network (NNs) models are proposed for the classification of broiler chickens as healthy and sick for earlier detection of poultry diseases. The NNs used in the classification are artificial neural network (ANN), adaptive neuro-fuzzy inference system (ANFIS), and support vector machine (SVM). In the literature, the data set which includes seven visual features were acquired through the IPTs and was used for training, testing, and validating the process of NN models. The results point out that, the computer vision-based application using NNs is successfully classified the broilers in terms of their health conditions.
+Yazar isimleri: ['Yalçın IŞIK', 'Ahmet KAYABAŞI']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1157160
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2580318

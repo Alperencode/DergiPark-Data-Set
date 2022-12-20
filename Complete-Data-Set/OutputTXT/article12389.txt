@@ -1,0 +1,7 @@
+Makale Başlığı: Astronomik bir veri kümesi uygulaması ile alfa çarpık hiperbolik sekant dağılımı
+Özet: Bu çalışma, alfa-çarpık tekniğine ve hiperbolik sekant dağılımına dayanan yeni bir çarpık dağılım olan alfa-çarpık hiperbolik sekant dağılımının çekiciliğini göstermektedir. Birinci bölümde, kümülatif dağılım fonksiyonu, modalite, merkezi olmayan momentler, çarpıklık, basıklık, moment üreten fonksiyon ve karakteristik fonksiyon dahil olmak üzere ana özellikleri belirlenmiştir. Kalan kısım, istatistiksel bağlamda modelin uygulanabilirliğine ayrılmıştır. İlk adım olarak, parametreler en çok olabilirlik tahminleriyle tahmin edilmiştir. Daha sonra, bir veri uygulaması gerçekleştirilmiş ve Akaike ve Bayesian bilgi kriterlerinin değerlerini diğer bazı benzer dağılımların değerleriyle karşılaştırılmıştır. Alfa-çarpık tekniğine dayanan astronomik bir veri seti ve rakipler göz önüne alındığında, alfa-çarpık hiperbolik sekant dağılımının en iyisi olduğu ortaya çıkmıştır.
+Yazar isimleri: ['Mustafa Çağatay KORKMAZ', 'Christophe CHESNEAU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Nicel Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nicel/issue/70428/1021116
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2071542

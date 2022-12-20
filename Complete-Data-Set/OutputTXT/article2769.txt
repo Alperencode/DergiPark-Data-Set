@@ -1,0 +1,7 @@
+Makale Başlığı: A New Chemical Method to Predict Grindability Index (HGI) for Limestones
+Özet: In this study, limestone samples (a total of 58 sample) were investigated in terms of their grindability and chemical composition. Grindability tests were carried out on standard HGI mill. Limestone samples were collected from two different limestone quarry and they were characterized in terms of their chemical composition. In the order of technological utilization, grindability nature of limestones is as significant as their chemical composition. Chemical composition of the limestone samples from the quarries under investigation differs and so does the grinding index, i.e. HGI (Hardgrove Grinding Index). In the context of this study, chemical composition data of limestone samples were correlated with the results of the grinding tests (HGI values). In addition, abovementioned correlations were provided as graphical demonstrations in this context. After these abovementioned graphical demonstration of the relationships between HGI values and chemical composition data, the role of the each chemical composition item in terms of grindability was understood. Based on this understanding, an empirical formula employing the chemical composition data was proposed to predict HGI.
+Yazar isimleri: ['Candan BİLEN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/997319
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1981915

@@ -1,0 +1,7 @@
+Makale Başlığı: Serezli (Sirozî) Yusuf Paşa’nın Kriptografisi Hakkında Notlar
+Özet: Bu makalemizde Matematik biliminin çalışma alanlarından olan Kriptoloji’ye ait iki yönelim olan Kriptoanaliz ve Kriptografi hakkında temel bazı kavramlar tanıtılıp, Avrupa ve Osmanlı Kriptografisinin kısa bir başlangıç tarihi verilecektir. Bu çerçevede Osmanlı Kriptografi’sinin başlangıcı olan III. Selim dönemi diplomatik kriptografisinin temel özellikleri ele alınıp değerlendirilmiştir. Daha sonra ise Serezli (Sirozi) Yusuf Paşa’nın bazı tarihsel olaylardaki rolünden söz edilecektir. Bu rollere bağlı olarak, Osmanlı idari yapısı içerisinde esinlendiği Kriptografik yöntemlerin kaynağı ve ortaya koyduğu şifre anahtarlarının (Miftah), algoritmaları incelenecektir. Serezli (Sirozi) Yusuf Paşa’nın Ruslara esir düşmesi sonrası ise özellikle Osmanlı Kriptografi’sine getirdiği Kesirli kodlar dışında ve yine oluşturduğu 2 farklı Anahtar (Miftah) incelenerek, Serezli (Sirozi) Yusuf Paşa’nın Kriptografi tarihimizdeki yenilikleri ve yeri değerlendirilecektir.
+Yazar isimleri: ['Sedat BİNGÖL']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: HUMANITAS - Uluslararası Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/humanitas/issue/73028/1130938
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2487286

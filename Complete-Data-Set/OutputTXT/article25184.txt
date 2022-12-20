@@ -1,0 +1,7 @@
+Makale Başlığı: Life Cycle Analysis of Low-Speed Multiblade Wind Turbine
+Özet: In the paper the methodology is described and an energy and exergy-net analysis is carried out of multi-blade, low-speed, wind turbine WPI-5-4, and obtained the coefficients of energy and exergy-net conditions of several regions of The Russian Federation. It was determined that at the average wind speed in the considered area of approximately 5 m/s, the coefficients of energy - and exergy-net for the  wind turbine WPI-5-4 are at the same level of performance as thermal and nuclear power plants.  At higher wind speeds these coefficients increase and begin to exceed the level of similar indicators of traditional energy power plants, reaching an average wind speed of 9.9 m/s the coefficient exergy-net of hydroelectric power plants. The terms of energy and exergy payback for the conditions of the considered meteorological stations range from 1.06 to 9.55 and from 0.9 to 8.10, respectively. The calculations given in the paper show high exergy efficiency of wind turbines due to the fact that the end product of their production is electric power while a lot of thermal energy is spent for creation.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167884
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/147987

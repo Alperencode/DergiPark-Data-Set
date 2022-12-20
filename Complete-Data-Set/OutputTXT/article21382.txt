@@ -1,0 +1,7 @@
+Makale Başlığı: Optimization of real-world outdoor campaign allocations
+Özet: In this paper, we investigate the outdoor campaign allocation problem  OCAP , which asks for the distribution  of campaign items to billboards considering a number of constraints. In particular, for a metropolitan city with  a large number of billboards, the problem becomes challenging. We propose a genetic algorithm-based method to  allocate campaign items effectively, and we compare our results with those of nonlinear integer programming and greedy  approaches. Real-world data sets are collected with the given constraints of the price class ratios of billboards located in  İstanbul and the budgets of the given campaigns. The methods are evaluated in terms of the efficiency of the constructed  plans and the construction time of the planning. The results reveal that the genetic algorithm-based approach gives close  to optimal results in the shortest scheduling time for the OCAP, and it scales linearly with the increasing data sizes.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739691
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110694

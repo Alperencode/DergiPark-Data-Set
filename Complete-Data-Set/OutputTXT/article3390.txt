@@ -1,0 +1,7 @@
+Makale Başlığı: Stochastic integration with respect to a cylindrical special semi-martingale
+Özet: In this research, we introduce the stochastic integration with respect to a cylindrical special semi-martingale, which is a specific case of general integration, with specific properties of special semi-martingales.
+Yazar isimleri: ['Saeed HASHEMİ SABABE']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/981876
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1921024

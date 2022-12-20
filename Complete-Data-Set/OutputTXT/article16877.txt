@@ -1,0 +1,7 @@
+Makale Başlığı: Reducing of Surge Arrester Faults in Pole Type Transformer Facilities
+Özet: This study examined the effects of direct transformer facilities on the network of medium voltage failures that can be caused by parafudr by using regional data and type project modeling. The plant, which is modeled first, has been checked to comply with the relevant regulations and regulations. Konya Eregli region was selected as the working zone in 2018 with 1952 pole type transformer plant and 2187 in 2019. The network worked was modeled with dpPower program and was intended to minimize accrual loss and plant repair costs due to parafudr failures. The total cost of failure, which was 1.370.444,54 ₺, in 2018, increased to 2.024.613,93 ₺ in 2019. Increasing failure costs each year are intended to be minimal after the proposed overhaul. Improvements made after modeling have prevented 88 subscribers from being energy-free from 89 subscribers fed on the line and increased customer satisfaction.
+Yazar isimleri: ['İbrahim KÜÇÜKSÜMBÜL', 'Mehmet ŞEN', 'Muciz ÖZCAN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1003217
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2004121

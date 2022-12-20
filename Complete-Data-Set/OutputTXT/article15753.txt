@@ -1,0 +1,7 @@
+Makale Başlığı: Van Gölü ve Civarı (Türkiye) İçin Deprem Tahmini ve Tehlikesi Üzerine İstatistiksel Bir Analiz ve Değerlendirme
+Özet: Bu çalışmada, Van Gölü ve civarı için güncel deprem tehlikesi ortaya konmaya çalışılmış ve gelecek beş yıl için deprem tahmini yapılmıştır. Bu amaçla, b-değeri, Z-değeri, göreceli yoğunluk (RI) ve oluşum bilgisi (PI) verilerinin birlikte kullanımı ile istatistiksel bir analiz gerçekleştirilmiştir. Ayrıca, orta vadede deprem tahmini ve tehlikesi için literatürdeki farklı sismolojik ve jeofiziksel değişkenleri analiz eden çalışmalarla detaylı bir tartışma yapılmıştır. Bu parametreler arasındaki ilişkiler daha doğru ve güvenilir yaklaşımlar ortaya koymuştur. Sonuç olarak, 2022 yılı başında, özellikle düşük b-değeri ve yüksek Z-değerine sahip bölgelerle birleştirilmiş tahmin haritasında 2022-2027 yılları arasındaki sıcak noktalar (olası deprem bölgeleri) Çaldıran, Yeniköşk, Erciş ve Malazgirt fayları ile Saray ve Van Fay zonlarını içeren Muradiye, Çaldıran, Özalp, Van şehir merkezi ve Gevaş civarında tespit edilmiştir.
+Yazar isimleri: ['Serkan ÖZTÜRK', 'Hamdi ALKAN']
+Yayın Yılı: 13 Aralık 2022
+Dergi ismi: Türk Deprem Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tdad/issue/73816/1108730
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2395861

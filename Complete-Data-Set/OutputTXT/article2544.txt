@@ -1,0 +1,7 @@
+Makale Başlığı: Eleştirel düşünme ile problem çözme arasındaki ilişki: Korelasyonel çalışmalar ile bir meta-analiz
+Özet: Bu meta-analiz çalışmasının amacı 01.01.2015-30.11.2020 tarihleri arasında yapılmış çalışmaların sonuçlarını birleştirerek, eleştirel düşünme ile problem çözme arasındaki ilişkiyi (yön ve büyüklük) araştırmaktır. Arama terimlerini kullanarak bazı elektronik veritabanları aracılığıyla ilgili literatürün araştırılmasının ardından elde edilen çalışmalar dahil edilme ölçütleri açısından iki farklı araştırmacı tarafından incelenmiş ve analize 43 çalışma dahil edilmiştir. Bu çalışmaların bazılarında birden fazla veri paylaşıldığı için, meta-analiz 49 veri ile gerçekleştirilmiştir. Eleştirel düşünme ve problem çözme arasındaki ilişkinin etki büyüklüğü 0.483 olarak bulunmuştur ve bu değer eleştirel düşünme ile problem çözme arasında orta düzeyde bir ilişkinin olduğunu göstermektedir. Elde edilen bu etki büyüklüğü çalışmanın yapıldığı bölge, eleştirel düşünme türü, sınıf düzeyi, alan ve yayın türü alt gruplarına göre farklılaşmamaktadır. Araştırma kapsamında elde edilen sonuçlar, eleştirel düşünme ve problem çözmeye ilişkin teorik alt yapıyla ve geçmiş çalışmaların sonuçlarıyla örtüşmektedir.
+Yazar isimleri: ['Ali ORHAN']
+Yayın Yılı: 13 Ekim 2022
+Dergi ismi: Bartın Üniversitesi Eğitim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/buefad/issue/72980/1111333
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2406649

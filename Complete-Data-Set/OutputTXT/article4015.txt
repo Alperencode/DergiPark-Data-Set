@@ -1,0 +1,7 @@
+Makale Başlığı: DETERMINANTS OF DOMESTIC ADDED VALUE IN EXPORTS: THE CASE OF THE BRICS-T COUNTRIES
+Özet: The change in the boundaries of production has changed the boundaries of international competition. In this context, it is important for countries to participate in the global value chain. Therefore, it is important to determine the determinants of domestic value added in exports. The aim of this study is to investigate the determinants of domestic added value in exports in BRICS-T countries. For the purpose, annual data for the period 1995-2018 were used. In this context, panel data analysis techniques were used in the study. The causality relationship between the variables was investigated using the causality test developed by Dumitrescu and Hurlin (2012). The findings show that the overseas value-added content of gross exports, labor productivity, capital stock, human capital stock, internet penetration and R&D expenditures are the causes of domestic value-added content in exports.
+Yazar isimleri: ['Demet YAMAN']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Dicle Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/diclesosbed/issue/73179/1177596
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2660360

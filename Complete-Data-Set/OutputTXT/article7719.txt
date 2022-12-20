@@ -1,0 +1,7 @@
+Makale Başlığı: Sentiment Analysis Of Tweets Using Natural Language Processing
+Özet: 
+Yazar isimleri: ['Dursun EKMEKCİ', 'Fıras SHIHAB']
+Yayın Yılı: 20 Temmuz 2022
+Dergi ismi: International Journal of Multidisciplinary Studies and Innovative Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijmsit/issue/69913/1130188
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2484168

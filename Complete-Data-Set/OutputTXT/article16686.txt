@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Political, Economic and Financial Risks on Foreign Direct Investments: The Case of Turkey
+Özet: In this study, the effect of political, economic, and financial risks on foreign direct investments (FDI) was analyzed for Turkey using the ARDL bounds test approach. The analysis using monthly data covers the period of 1992:M1-2016:M12. According to the results of the study, found that low political and economic risk (political and economic stability) have a positive effect on FDI in the long run. According to the short-term results, while financial stability affects FDI positively, contrary to expectations, political and economic stability affects FDI negatively. These results show that political, economic, and financial stability strongly affects foreign direct investment inflows in Turkey. 
+Yazar isimleri: ['Bülent YILDIZ', 'Orhan ŞANLI']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Uluslararası Ekonomi ve Yenilik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ueyd/issue/72213/1124821
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2461747

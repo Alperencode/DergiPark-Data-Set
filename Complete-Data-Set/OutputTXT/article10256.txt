@@ -1,0 +1,7 @@
+Makale Başlığı: Arıcıların Finansal Okuryazarlık Düzeyi: Bingöl Örneği
+Özet: Bu çalışmanın amacı Bingöl’de arıcılık mesleği icra eden bireylerin temel finansal okuryazarlık düzeylerinin tespit edilmesidir. Bu amaç doğrultusunda katılımcılara 1 Nisan-1 Mayıs 2020 tarihleri arasında toplamda 260 anket uygulanmıştır. Toplanan veriler SPSS programı kullanılarak analiz edilmiştir. Çalışmada t testi ve tek yönlü varyans analizi (Anova) kullanılmıştır. Yapılan çalışmanın sonucunda asıl mesleği arıcılık olmayan farklı mesleklere sahip katılımcıların, finansal okuryazarlığın alt boyutlarından olan TDEF, BBANK, V&M, FTAB, YATIRIM, BES, M&F gibi boyutlarda asıl mesleği arıcılık olan katılımcılardan daha fazla bilgi düzeyine sahip oldukları saptanmıştır. Bununla birlikte katılımcıların yaş ortalaması arttıkça TDEF, BBANK, V&M, FTAB, YATIRIM, BES, M&F gibi alt boyutlardaki temel bilgi düzeylerinde azalma görülmektedir. Ayrıca katılımcıların eğitim seviyesi arttıkça TDEF, BBANK, V&M, FTAB, YATIRIM, BES, M&F gibi boyutlarda daha fazla bilgiye sahip oldukları tespit edilmiştir.
+Yazar isimleri: ['Fatma Betül TUNCEL', 'Müslüm POLAT']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Karamanoğlu Mehmetbey Üniversitesi Sosyal Ve Ekonomik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kmusekad/issue/70427/1071636
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2246418

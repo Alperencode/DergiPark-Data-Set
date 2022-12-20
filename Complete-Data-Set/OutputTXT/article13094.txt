@@ -1,0 +1,7 @@
+Makale Başlığı: 3-Boyutlu Galilean Uzayında Tüp Yüzeyler Üzerine Bir Araştırma
+Özet: Bu çalışmada, Galilean 3-uzayında tanımlanan eğri tarafından üretilen tüp yüzeyleri incelenmiş ve yüzeyler üzerindeki jeodeziklerin açıklanmasının bazı sonuçları da verilmiştir. Ayrıca, tüp yüzeyde jeodezik olma koşulları, spesifik enerjiyi oluşturmak için Clairaut's teoremi yardımıyla elde edildi. Spesifik enerjinin ve açısal momentumun fiziksel anlamı elbette ki fiziksel anlamın kendisiyle ilişkilidir. Sonuçlarımız tüp yüzeylerde elde edilen spesifik enerjinin ve açısal momentumun Galilean uzayında keyfi jeodezik eğri kullanılarak ifade edilebildiğini göstermektedir. Ayrıca, elde edilen ortalama ve Gauss eğrilikleri elde edilerek, bu yüzeyler için bazı karakterizasyonlar verildi.
+Yazar isimleri: ['Fatma ALMAZ', 'Mihriban KÜLAHCİ']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/747869
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1135763

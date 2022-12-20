@@ -1,0 +1,7 @@
+Makale Başlığı: Impacts of COVID-19 Pandemic on Tropospheric NO2 over Turkey
+Özet: The COVID-19 pandemic has strongly affected the tropospheric NO2 levels due to imposed restrictions on anthropogenic activities. Utilizing space-based estimations of tropospheric NO2, here we examine the relationship of tropospheric NO2 to COVID-19 over Turkey. We have used 2015 - 2019 OMI tropospheric NO2 data as a baseline period and have compared it with 2020. We have found a notable decrease in NO2 in Turkey in April, May, and December while the most significant difference can be observed in the most populated and industrialized cities. The tropospheric NO2 levels returned to nearly a regular pattern in the months that the curfew was partially lifted. We also have used Google Mobility data to explicate the relationship between mobility and the change in NO2 levels for selected cities. Our research corroborates the effects of decreased anthropogenic activity on tropospheric NO2 levels worldwide during the COVID-19 pandemic. However, the distinctive curfew procedures of Turkey revealed a discrete pattern on NO2 levels.
+Yazar isimleri: ['Doğukan Doğu YAVAŞLI', 'M. Kirami ÖLGEN']
+Yayın Yılı: 18 Aralık 2022
+Dergi ismi: Ege Coğrafya Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecd/issue/73924/1109104
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2397431

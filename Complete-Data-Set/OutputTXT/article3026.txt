@@ -1,0 +1,7 @@
+Makale Başlığı: An Effective Numerical Technique for Boundary Value Problems Arising from an Adiabatic Tubular Chemical Reactor Theory
+Özet: 
+Yazar isimleri: ['Soner AYDINLIK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bitlis Eren Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bitlisfen/issue/72854/1128254
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2476136

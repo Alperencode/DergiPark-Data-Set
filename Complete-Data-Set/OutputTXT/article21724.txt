@@ -1,0 +1,7 @@
+Makale Başlığı: Nutrition and COVID-19
+Özet: In this study, it is aimed to reveal the relationship between COVID-19 and nutrition by evaluating the relevant literature. Vitamins A, C, D, E; Zinc and selenium were found to be predominantly beneficial. At the same time, it has been seen that bioactive polyphenols are beneficial for human health. Although some studies indicate that there is a relationship between micronutrients and prevention of COVID-19 and milder recovery, there is not enough scientific evidence on this subject yet, but keeping the immune system strong is important in terms of protection from diseases. Making a nutrition plan in this direction will be appropriate in the processes of protection from COVID-19 and recovery without sequelae.
+Yazar isimleri: ['Dilge YÜCEL', 'Ebru KARAKOÇ', 'Birgül YELKEN']
+Yayın Yılı: 2 Kasım 2022
+Dergi ismi: Türk Tıp Öğrencileri Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/toad/issue/73208/1064410
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2218203

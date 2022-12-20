@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of the Relationship Between Smoking and Alcohol Consumption and COVID-19: The Case of Turkey
+Özet: In this study, it is aimed to analyze the effect of cigarette and alcohol consumption on the virus, which is thought to be effective in the spread and increase of the severity of the COVID-19 virus, which has been increasingly continuing its existence all over the world in the last period. Starting from this point, the study, the relationship between the number of COVID-19 cases, smoking and alcohol consumption variables in Turkey in the period 2020-03-2021-02 was tested with the Nonlinear Autoregressive Distributed Lag model. The long and short-term asymmetrical relationships between the dependent variable and the independent variable were tested with the NARDL model, it has been revealed how the positive and negative changes in the independent variables affect the dependent variable. In the study, 1% increase in cigarette consumption in the short term increases COVID-19 cases by 24%, 1% reduction reduces COVID-19 cases by 12%. When the results related to alcohol consumption are evaluated in the short term, 1% increase in alcohol consumption increases COVID-19 cases by 72%, 1% reduction reduces COVID-19 cases by 29%.
+Yazar isimleri: ['Yaşar TURNA', 'Sami EŞMEN', 'İsmail BİÇER']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Sağlık ve Sosyal Refah Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sarad/issue/70907/1065218
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2221293

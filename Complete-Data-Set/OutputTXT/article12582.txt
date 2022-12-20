@@ -1,0 +1,7 @@
+Makale Başlığı: Tek Yönlü Basma İşleminin Yüksek Yoğunluklu Polietilen Malzemelerin Sertliğine Etkisinin Araştırılması
+Özet: Bu çalışmada yüksek yoğunluklu polietilen (HDPE) malzemeye farklı oranlarda tek yönlü basma işlemi uygulanarak sertlik ölçümleri gerçekleştirilmiştir. Şekil değişim miktarları %10, %20, %30, %40, %50, %60, %70 ve %80 oranlarında oda şartlarında yaklaşık 23 °C and %50 nemde gerçekleştirilmiştir. Basma işlemleri plaka şeklinde 3 mm kalınlığında numunelere yapılmıştır. Basma yönü kalınlık doğrultusunda gerçekleştirilmiştir. Basma işlemleri yapılan numunelerin sertlik değerleri ve gerilme değerleri tespit edilmiştir. Ayrıca her bir sıkıştırma oranı için plastik deformasyon oranları hesaplanmıştır. %10 basma oranında en yüksek sertlik değeri tespit edilmiş olup artan basma oranlarında sertlik değerlerinin düştüğü gözlemlenmiştir. Plastik deformasyon oranlarında ise %10 ve %20 oranlarında kalıcı şekil değişimi çok düşük değerlerde olup artan deformasyon oranlarında dikkate değer bir artış görülmüştür.
+Yazar isimleri: ['Erkin AKDOĞAN']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Open Journal of Nano
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ojn/issue/68194/1110326
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2402722

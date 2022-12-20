@@ -1,0 +1,7 @@
+Makale Başlığı: CHARACTERIZATION OF CU2MNSNS4 THIN FILMS FABRICATED BY SPIN COATING
+Özet: Cu2MnSnS4 (CMTS) thin films are affected by several parameters related to different annealing including sulphurization flux rate. In this paper, nontoxic CMTS samples were fabricated onto glass substrate by a spin-coating to investigate the effect of various sulphurization flux rate on the crystal structure, tophological and optical properties by X-Ray diffraction, scanning electron microscopy, atomic force microscopy and ultraviolet–visible spectrophotometer, respectively The crystal properties of CMTS thin films are radically changed depending on increase of sulphurization flux rate annealed at 550 °C for 90 minutes. The XRD pattern give CMTS peaks at (112) plane for two samples which correspond to structure of kesterite crystal. The SEM images of films show a decrease in the particle size relate to increase flux rate of sulphurization. The energy band gap for the CMTS films are found to be 1.22 and 1.15 eV for 30 sccm and 40 sccm sulphurization flux rate annealed at 550 °C, respectively.
+Yazar isimleri: ['Canan AYTUĞ AVA', 'Şilan BATURAY']
+Yayın Yılı: 17 Haziran 2022
+Dergi ismi: Middle East Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mejs/issue/70342/1095220
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2339842

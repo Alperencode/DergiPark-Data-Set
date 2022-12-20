@@ -1,0 +1,7 @@
+Makale Başlığı: Investigating the moisture content of flax fibre reinforced composite materials
+Özet: Increasing environmental consciousness, triggered by global climate change awareness, has found a response in the composite material industry and has pushed the industry representatives to search for environmentally friendly alternatives to conventional materials. To reduce the carbon footprint and minimize the damage to nature, the preference for natural fibres instead of synthetic fibres can be considered a step taken in this context. Today, it is possible to see natural fibre applications in many industrial products, including automobile interior parts.The purpose of using flax fibre in composite materials is not different from conventional fibres, however, their hydrophilic characteristics make flax fibre composites sensitive to temperature and the humidity of the surroundings. This study aims to investigate the moisture content of flax fibre composites as well as their hybrids with E-glass fibres at room temperature by using thermogravimetric analysis (TGA). It is observed that flax fibre samples have a moisture content of 4.9%, while E-glass samples have only a moisture content of 0.5%. The hybrid samples lay between these two values having a moisture content of 2.5%.
+Yazar isimleri: ['Mehmet CİHAN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Turkish Journal of Maritime and Marine Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/trjmms/issue/73456/1144083
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2539436

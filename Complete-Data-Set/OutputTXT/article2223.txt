@@ -1,0 +1,7 @@
+Makale Başlığı: Lityum Toksisitesinin Japon Balığı (Carassius auratus) Beynine Etkisi
+Özet: Lityum, depresyon ve mani ataklarını azaltmada yaygın olarak standart olarak kullanılmasına rağmen, uzun vadeli stabilizasyonu ve intihar riskini azaltmadaki etkinliği nedeniyle, kullanımı yan etkiler ve ilişkili toksisite yükü nedeniyle son zamanlarda azalmıştır. Bu çalışmayı, lityumun beyin üzerindeki olumsuz etkileri ve toksisitesini öğrenmek için model olarak Carassius auratus balığı ile yaptık. Lityum dozajının (50 mg/L) Carassius auratus'taki etkilerini çeşitli periyotlarda (24 saat, 48 saat, 72 saat ve 96) araştırmak için spektrofotometrik yaklaşım kullanıldı. Sonuç olarak Carassius auratus beynindeki Katalaz (CAT), Süperoksit Dismutaz (SOD) ve Glutatyon Peroksidaz (GSH-Px) enzimlerinin lityum klorür (LiCl) tarafından değiştirildiği gösterildi.
+Yazar isimleri: ['Aslı ÇİLİNGİR YELTEKİN', 'Sama EL-TEKRETİ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1139370
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2520831

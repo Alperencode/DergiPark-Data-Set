@@ -1,0 +1,7 @@
+Makale Başlığı: Hilenin Ortaya Çıkartılmasına Yönelik Reaktif ve Proaktif Yaklaşımların Karşılaştırmalı İncelenmesi ve Perakende Sektöründe Bir Uygulama
+Özet: Hile işletmelerin sıklıkla maruz kaldığı bir durumdur ve ne yazık ki pek çok işletmede zamanında tespit edilememektedir. Dolayısıyla hilenin önlenmesine yönelik gerekli tedbirler alınamamakta ve hile yapanlar yeterince yaptırıma tabi olmamaktadır. Hilelerin ortaya çıkartılmasında reaktif ve proaktif olarak adlandırılan iki yaklaşım bulunmaktadır. Reaktif yaklaşım hile meydana geldikten sonra hile denetimi yapılmasını öngörürken, proaktif yaklaşım hile olmadan denetim yapılmasını ve hilenin önlenmesine yönelik denetimleri öngörmektedir. Çalışmada reaktif ve proaktif yaklaşımlar karşılaştırmalı incelenmeye çalışılmış ve perakende sektöründe seçilen bir firma üzerinde proaktif temelli bir uygulama yapılarak ulaşılan sonuçlar paylaşılmıştır.
+Yazar isimleri: ['Hüseyin MERT', 'Ersu Ayşe TÜREDİ', 'Erhan BAYAR']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Ida Academia Muhasebe ve Maliye Dergisi
+Yayın sayfa url: http://www.idaacademia.org/tr/pub/issue/71593/1076611
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2265621

@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Export, Import and Investment to Economic Growth of Riau Islands Indonesia
+Özet: This study aimed to analyze the effect of export, import, and investment to economic growth of Riau Islands Indonesia. Data were obtained from the quarterly regional economic report of Riau Islands Province Indonesia in the period of 2009 to 2016 or 8 years. Export and import were free on board value reported by importer/exporter to Indonesia customs. While investment was measured by investment credit reported by all banks to Bank Indonesia, and economic growth by Gross Regional Domestic Product provided by Central Bureau of Statistic. Panel data regression analysis was implemented to analyze the influence of independent variables to the dependent variable. The most suitable panel data regression model in this study was a random effect model. The study found that partially, export had an insignificant negative effect on economic growth, while import had a significant negative impact and investment had a significant positive impact. Simultaneaously, the three variables had statistically significant effect to the economic growth of Riau Islands Province Indonesia.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353613
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364654

@@ -1,0 +1,7 @@
+Makale Başlığı: CAUSAL RELATIONSHIP OF INDIVIDUAL PENSION FUNDS AND INFLATION
+Özet: In our country, the private pension system, which has grown with the support of the state, has become a very important complement to the system in order to reduce the needs of individuals in the coming years. In the study, the fund structures of the private pension companies operating in our country were examined and the funds obtained from the participants over a period of 5 (five) years were found. These funds have been turned into a monthly dataset. Monthly data for the period 01/2015-12/2020 were used in the study. By making a comparison with the CPI (Consumer Price Index) rates of the months followed by the data, the effects of the funds obtained from the participants on inflation are predicted to increase or decrease in the coming months. In line with the empirical findings obtained from the study, a two-way causality relationship was found between inflation and the monthly average returns of private pension funds. It can be said that one of the reasons for individuals to be included in the private pension system in Turkey is that, in the face of increasing inflation, individuals invest space for themselves and prepare the environment suitable for future plans.
+Yazar isimleri: ['Nilüfer DALKILIÇ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Hitit Ekonomi ve Politika Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hepdergi/issue/71023/1110071
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2401678

@@ -1,0 +1,7 @@
+Makale Başlığı: Genetik Algoritma Kullanılarak Gerilim Düşümlerinin Kestirimi
+Özet: Bu çalışmada genetik algoritma kullanılarak elektrik dağıtım sistemlerinde buslarda meydana gelen gerilim düşümlerinin sayıları kestirilmeye çalışılmıştır. Geliştirilen metot, IEEE 24-Bus, IEEE 30-Bus ve IEEE 118-Bus sistemlerinde farklı eşik değerleri ve farklı popülasyon büyüklükleri için denenmiştir. Her faklı durum için 10 adet benzetim yapılarak ortalama hata değeri hesaplanmış ve sonuçlar tablolar halinde sunulmuştur. Elde edilen sonuçlara göre genetik algoritmanın gerilim düşümü sayısının kestirimindeki başarısının kabul edilebilir düzeyde olduğu, hata sayının genellikle 2’den küçük olduğu görülmüştür.
+Yazar isimleri: ['Sümeyye ÇOLAK', 'Hasarı KARCI', 'Buket SONBAŞ COBB']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Harran Üniversitesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/humder/issue/69932/1115748
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2424140

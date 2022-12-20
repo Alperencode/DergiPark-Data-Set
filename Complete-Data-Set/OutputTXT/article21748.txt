@@ -1,0 +1,7 @@
+Makale Başlığı: 2010-2021 Yılları Arasında Türkiye’de Yapılan Matematik Kaygısı ile İlgili Lisansüstü Tezlerin Bazı Değişkenlere Göre İncelenmesi
+Özet: Bu çalışmanın amacı 2010-2021 yılları arasında matematik kaygısı ile ilgili Türkiye’de yapılan çalışmaları bazı değişkenlere göre incelemek ve bu çalışmaların genel çerçevesini belirleyerek gelecekteki çalışmalar için araştırmacılara bakış açısı kazandırmaktır.  Bu amaçla 12 lisansüstü tez incelenmiş, bu tezler; yayın yılına, üniversiteye, enstitüye, araştırma başlıklarına, araştırma yöntemine, veri toplama araçlarına, örneklemine, verilerin analiz yöntemine göre incelenmiştir. Bu araştırmanın örneklemini YÖK veri tabanındaki lisansüstü tezler oluşturmuştur. Çalışmada nitel araştırma yaklaşımı benimsenerek 12 lisansüstü tez incelenmiştir. Verilerin toplanmasında doküman inceleme tekniği kullanılmıştır. Analiz sonuçlarına göre yapılan tezlerde çalışma grubu olarak en sık ortaokul öğrencileri ile çalışma yapıldığı görülmüştür. Araştırma yöntemi olarak ise nicel araştırma yönteminin kullanıldığı ve veri toplama aracı olarak en sık ölçeklerin (matematik kaygısı ölçeği) kullanıldığı ve verilerin analizinde ise en sık t testinin kullanıldığı görülmüştür.
+Yazar isimleri: ['Yasin GÖKBULUT', 'Selma ŞAHİN']
+Yayın Yılı: 28 Mayıs 2022
+Dergi ismi: Türkiye Bilimsel Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tubad/issue/70039/1076502
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2265187

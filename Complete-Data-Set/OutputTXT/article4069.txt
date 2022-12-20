@@ -1,0 +1,7 @@
+Makale Başlığı: Altay Türkçesi Grameri
+Özet: Yüksek Lisans ve Doktora tezlerini Altay Türkçesi üzerine yapan Figen Güner Dilek'in  2022'de Türk Dil Kurumu Yayınları'ndan çıkan Altay Türkçesi Grameri adlı kitabıdır. 312 sayfadan oluşan kitap Ön Söz, Kısaltmalar, Giriş, Ses Bilgisi, Şekil Bilgisi, Kaynaklar ve Sözlük  adlı başlıklardan oluşmaktadır.
+Yazar isimleri: ['Neslişah YILDIZ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Dil Araştırmaları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dilarastirmalari/issue/73633/1195614
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2735178

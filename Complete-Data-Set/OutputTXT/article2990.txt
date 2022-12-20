@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRKİYE’DE FAİZ VE ENFLASYON ARASINDAKİ İLİŞKİNİN FİSHER HİPOTEZİ KAPSAMINDA AMPİRİK OLARAK SINANMASI
+Özet: Yapılan bu çalışmada, faiz ile enflasyon arasındaki ilişkiyi ele alan Fisher hipotezinin Türkiye için geçerliliği 2003:01 ve 2021:09 dönemleri arasındaki aylık verilerle incelenmiştir. İlk olarak incelenen değişkenlerin doğrusal olup olmadığı Hxarvey ve Lxeybourne (2007) ve Hxarvey vd. (2008) dxoğrusallık testleriyle sınanmıştır. Değişkenlerin doğrusal olmadığı bulgusu elde edilince Fisher hipotezinin test edilmesi için KSS (2006) doğrusal olmayan eşbütünleşme testi kullanılmıştır. Yapılan analiz sonucunda, Türkiye için Fisher hipotezinin geçerli olmadığı bulgusuna ulaşılmıştır. Bu durumda, Türkiye’de incelenen dönem içerisinde faiz ve enflasyon arasında uzun dönemli bir ilişki olmadığı ifade edilmektedir.
+Yazar isimleri: ['Ayşegül HAN']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Birey ve Toplum Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/birtop/issue/71097/1030317
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2106747

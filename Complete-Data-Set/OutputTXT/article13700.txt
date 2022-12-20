@@ -1,0 +1,7 @@
+Makale Başlığı: Erişime Açık Terörizm Veri Kümeleri Kullanarak Makine Öğrenmesi ve Büyük Veri Mimarileri ile Terörle Mücadeleye Yönelik Tahminleme Yaklaşımları
+Özet: Terör yüzyıllardır insanlığın mücadele içinde bulunduğu bir güvenlik problemi olarak devam etmektedir. Son yıllarda yapay zekâ, makine öğrenmesi ve büyük veri teknolojilerinin gelişmesi ve farklı alanlarda giderek artan kullanımı ile paralel olarak terörle mücadelede de bu teknolojilerinin kullanıldığını görmekteyiz.  Bu çalışmada, terörizmle mücadele için makine öğrenmesi ve büyük veri teknolojilerinin kullanımı incelenmiştir. Makalede ilk önce terör konusunda erişime açık veri kaynakları hakkında bilgi sunulmaktadır. Daha sonra literatürde son yıllarda bu veri kaynaklarını kullanan makaleler için yapılan tarama sonucu paylaşılmıştır. Oldukça fazla sayıda makale tespit edilmiş olmakla birlikte bunlardan sadece belirli sayıda çalışma yapay zekâ ve büyük veri teknolojilerinin kullanımına odaklanmıştır. Özellikle bu konulara odaklanan çalışmalar detaylı olarak incelenerek, ele alınan problemler, kullanılan çözüm yaklaşımları ve alınan sonuçlar karşılaştırmalı olarak sunulmaktadır.
+Yazar isimleri: ['Fatih ADIGÜZEL', 'Caner DERELİ', 'Pınar KARAGÖZ']
+Yayın Yılı: 2 Kasım 2022
+Dergi ismi: Savunma Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/khosbd/issue/73328/1031843
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2112912

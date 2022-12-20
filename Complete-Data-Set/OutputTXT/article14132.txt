@@ -1,0 +1,7 @@
+Makale Başlığı: HERDING BEHAVIOUR IN EMERGING MARKETS: EVIDENCE FROM BIST
+Özet: The study investigates the herding behaviour in the Borsa Istanbul (BIST) market under different market and economic conditions, focusing on the 2008 global financial crisis and data spanning from January 2005 to December 2018. For estimating herding behaviour, two regression models are used: The Cross-Sectional Standard Deviation (CSSD) model developed by Christie & Huang (1995) and the Cross-Sectional Absolute Deviation (CSAD) model developed by Chang et al. (2000). The findings show that herd behaviour does not exist in BIST, except for special cases, based on daily stock data. The BIST determined low volatility, low trading volume, the financial crisis, and herd behaviour. It was also determined that Taper Tantrum that took place in 2013 did not trigger herd behaviour.
+Yazar isimleri: ['Kerim Eser AFŞAR', 'Utku AKSEKİ']
+Yayın Yılı: 27 Nisan 2022
+Dergi ismi: Sosyal Bilimler Metinleri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sbm/issue/69617/1059032
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2196817

@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of Budget Expenditure and Income Estimates in Turkiye in Terms of Objective Accuracy
+Özet: The people, who hold the right to the budget through the parliament, control the public economy in this way. The closer the estimates made while creating the budget, the more the public's trust in the government and the economy will increase.  In this study, the deviations of the budget estimates for the years 1990-2020 are examined within the scope of the objective accuracy principle. For the interpretation of the estimation deviations, first the forecast error and then Theil's inequality coefficient methods were used. The years 1990-2020 have been divided into two periods since 2006, the year when the Medium-Term Fiscal Plan started to be implemented, both in total and with the thought that a break could occur. As a result, it has been observed that budget expenditures are estimated more accurately over time, but there is no improvement in estimation errors in budget revenues.
+Yazar isimleri: ['Şeyma PIÇAK']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Ekonomi İşletme ve Maliye Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ekimad/issue/72378/1139292
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2520551

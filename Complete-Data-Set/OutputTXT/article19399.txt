@@ -1,0 +1,7 @@
+Makale Başlığı: Development and Performance Evaluation of a Groundnut Shelling Machine
+Özet: 
+Yazar isimleri: ['Olufemi ADETOLA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: International Journal of Engineering Science and Application
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijesa/issue/72797/1097530
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2349024

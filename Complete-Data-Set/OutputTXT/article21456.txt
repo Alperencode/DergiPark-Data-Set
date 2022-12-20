@@ -1,0 +1,7 @@
+Makale Başlığı: Positive periodic solutions for a class of second-order differential equations with state-dependent delays
+Özet: In this paper, we consider a class of second order differential equations with iterative source term. The main results are obtained by virtue of a Krasnoselskii fixed point theorem and some useful properties of a Green's function which allows us to prove the existence of positive periodic solutions. Finally, an example is included to illustrate the correctness of our results.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783650
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

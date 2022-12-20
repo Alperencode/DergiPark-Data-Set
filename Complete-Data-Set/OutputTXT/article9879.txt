@@ -1,0 +1,7 @@
+Makale Başlığı: COMPARATIVE ANALYSIS OF MCDM METHODS FOR THE ASSESSMENT OF ICT DEVELOPMENT IN G7 COUNTRIES
+Özet: Bilgi ve iletişim teknolojileri (BİT), her türlü görsel, işitsel basılı ve yazılı araçlar aracılığıyla bilgiye ulaşılmasını, bilginin işlenmesini sağlamaktadır. Bu çalışmada, Çok Kriterli Karar Verme (ÇKKV) yöntemleri kullanılarak G7 ülkelerinin BİT gelişiminin değerlendirilmesi amaçlanmıştır. Bu doğrultuda, Entropy yöntemi kriterlerin ağırlıklarını belirlemek amacıyla kullanılmış, Yakınlık Endeksli Değer (PIV), Değer Aralığı (ROV), ve Karmaşık Oransal Değerlendirme (COPRAS) yöntemleri ise alternatifleri sıralamak için kullanılmıştır. Bu çalışmanın son aşamasında, Entropy temelli PIV, ROV, COPRAS yöntemleri ile elde edilen sıralamalar ile Seviye temelli ağırlık değerlendirme (LBWA) temelli Uzlaşma Çözümüne Göre Alternatiflerin Ölçülmesi ve Sıralanması (MARCOS) yöntemi ile elde edilen sonuçlar kullanılarak karşılaştırmalı bir analiz gerçekleştirilmiştir. Çalışma sonunda, objektif ve subjektif yöntemlerle elde edilen kriter ağırlıklarının sıralama sonuçları üzerinde farklı etkiye neden olduğu saptanmıştır.
+Yazar isimleri: ['Nazlı ERSOY']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Kafkas Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kauiibf/issue/70698/1010577
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2030222

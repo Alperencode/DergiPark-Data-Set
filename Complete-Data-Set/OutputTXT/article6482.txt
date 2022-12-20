@@ -1,0 +1,7 @@
+Makale Başlığı: Design of corrugated pipes under ground loads and evaluation of the effect of pipe bedding on the design
+Özet: Corrugated pipes used in sewage systems can be placed at high burial depths due to field conditions and can be exposed to large ground loads. However, pipe safety underground loads is often overlooked. In corrugated pipe design underground loads; the strength of the pipes, the quality of the soil placed around the pipe and the local soil are decisive and the enhanced Iowa formula is used for calculations. Underground loads, both bedding and covering processes are effective in the design of corrugated pipes. In this study, design calculations were made at the risky points on the sample project. In the study, data that will facilitate the ground load design of SN  4 and SN  8 rigid corrugated pipes at various bedding angles are presented with graphics. With this graphics, soil reaction modules that will occur in different bedding conditions were obtained and it was shown that the covering soil properties were selected according to this value. When the data obtained are compared (evaluated), it is seen that corrugated pipe bedding can be more effective than the stiffness class of the pipe.
+Yazar isimleri: ['Fatih SAKA', 'Taha ORTAKCI']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: Gümüşhane Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumusfenbil/issue/72979/1062834
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2212124

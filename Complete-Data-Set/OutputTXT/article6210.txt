@@ -1,0 +1,7 @@
+Makale Başlığı: ROL BELİRSİZLİĞİNİN İŞE YABANCILAŞMAYA ETKİSİNDE İŞ YÜKÜ FAZLALIĞININ DÜZENLEYİCİ ROLÜ
+Özet: Bu çalışmanın amacı, çalışanların rol belirsizliği ile işe yabancılaşma algıları arasındaki ilişkide iş yükü fazlalığının düzenleyici bir rol oynayıp oynamadığının ortaya koyulmasıdır. Bu amaçla, Ankara’da faaliyet gösteren üniversite, banka, sağlık kuruluşları ile güvenlik hizmeti üreten farklı kurumlarda çalışan, 312 kişiden anket yoluyla elde edilen veriler analiz edilmiştir. Analizlerde ilk olarak çalışma kapsamında kullanılan ölçeklere AMOS kullanılarak doğrulayıcı faktör analizi yapılmış olup, ardından değişkenler arası korelasyon analizi ve çalışma bağlamında ortaya koyulan hipotezleri test etmek amacıyla hiyerarşik regresyon analizi yapılmış ve iş yükü fazlalığının düzenleyicilik rolü oynayıp oynamadığını ortaya koyabilmek adına SPSS Process v3.5 Macro yazılımı ile Bootstrap yöntemini esas alan regresyon analizi yapılmıştır. Bulgular neticesinde, çalışanların rol belirsizliği algılarının işe yabancılaşma düzeyini anlamlı ve pozitif olarak etkilediği ve iş yükü fazlalığı algısının rol belirsizliği ile işe yabancılaşma arasındaki ilişkide düzenleyici bir etkiye sahip olduğu ortaya koyulmuştur.
+Yazar isimleri: ['Pınar FAYGANOĞLU', 'Rukiye CAN YALÇIN', 'Memduh BEĞENİRBAŞ']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Gaziantep Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jss/issue/73087/1110883
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2404873

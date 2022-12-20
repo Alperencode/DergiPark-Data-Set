@@ -1,0 +1,7 @@
+Makale Başlığı: A COMPARATIVE STUDY FOR THE PREDICTION OF HEART ATTACK RISK AND ASSOCIATED FACTORS USING MLP AND RBF NEURAL NETWORKS
+Özet: 
+Yazar isimleri: ['Rüstem YILMAZ', 'Fatma Hilal YAĞIN']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: The Journal of Cognitive Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcs/issue/65819/1001680
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1998239

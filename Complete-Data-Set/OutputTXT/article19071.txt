@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye Ekonomisi İçin Genişletilmiş Taylor Kuralı Analizi: ARDL Sınır Testi
+Özet: Enflasyonla mücadelede son zamanlarda en çok başvurulan politikalardan birisi de enflasyon hedeflemesi politikasıdır. Uygulamada geniş kabul gören bu politikanın hedefi gerçekleştirmek için kullandığı araçlardan bir tanesi ise, merkez bankalarının nominal faiz oranlarını enflasyondaki gelişmelere göre belirleme kabiliyetidir. Nominal faiz üzerindeki ana tartışma konusu, merkez bankalarının nominal faiz oranlarını hangi düzeyde belirleyeceğidir. Bunun için Taylor (1993) çalışmasında oldukça kullanışlı ve literatürde genel kabul gören bir kural geliştirmiştir. Bu kurala göre cari enflasyon düzeyi ile hedeflenen enflasyon arasındaki fark ile cari ve potansiyel büyüme arasındaki fark nominal faiz oranının değişim hızını belirlemektedir. Bu çalışmada Türkiye için Ocak 2003-Ekim 2021 dönemi arasında genişletilmiş Taylor denklemi ARDL Sınır Testi ve Kayan Pencere Yöntemi ile tahmin edilmeye çalışılmıştır. Elde edilen sonuçlara göre Türkiye’de genişletilmiş Taylor Denklemi 2008 küresel kriz dönemine kadar etkin bir şekilde çalışırken, krizi dönemi ve sonrasında Taylor denkleminin istikrarı bozulmuş görünmektedir.
+Yazar isimleri: ['Erol BULUT', 'İbrahim TOKATLIOĞLU']
+Yayın Yılı: 14 Eylül 2022
+Dergi ismi: Fiscaoeconomia
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fsecon/issue/72567/1063913
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2216409

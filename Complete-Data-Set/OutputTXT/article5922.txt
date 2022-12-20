@@ -1,0 +1,7 @@
+Makale Başlığı: On Bi-f-Harmonic Legendre Curves in Sasakian Space Forms
+Özet: In this study, we consider bi-f -harmonic Legendre curves in Sasakian space forms. Weinvestigate necessary and sufficient conditions for a Legendre curve to be bi-f -harmonic in various cases.
+Yazar isimleri: ['Şerife Nur BOZDAĞ']
+Yayın Yılı: 28 Temmuz 2022
+Dergi ismi: Fundamentals of Contemporary Mathematical Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fcmathsci/issue/71376/1055588
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2183165

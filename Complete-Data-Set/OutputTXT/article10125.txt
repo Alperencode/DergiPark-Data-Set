@@ -1,0 +1,7 @@
+Makale Başlığı: AISI 304 Östenitik Paslanmaz Çeliğin Statik Yaşlanma Davranışının İncelenmesi
+Özet: Bu çalışmada AISI 304 östenitik paslanmaz çeliğe uygulanan ön deformasyonun ardından statik gerinim yaşlandırması işlemiyle malzemenin mekanik özelliklerindeki değişim incelenmiş ve analiz edilmiştir. Numunelere önce %5 ön deformasyon uygulanmış sonrasında 30 ve 60 dk boyunca ayrı gruplar halinde 150°C, 250°C, 400°C ve 550°C sıcaklıklarda fırında tavlanmıştır. Yapılan statik gerinim yaşlandırması sonrası sertlik ve çekme deneylerinin yapılmasıyla elde edilen veriler karşılaştırılmış, deney parametreleri ve bu parametreler arasındaki etkileşim Pareto analizi yapılarak araştırılmıştır. Çalışma sonucunda en yüksek çekme dayanımı ve sertlik değeri 150°C sıcaklıkta 60 dk boyunca statik gerinim yaşlandırması uygulanan numunelerde görülmüştür. Yaşlandırma işlemiyle, satın alınmış malzemeye göre akma ve çekme dayanım değerleri %10 artmıştır. Bu değerlerde 400°C sıcaklıktan sonra azalma tespit edilmiştir. Ayrıca Pareto analizi sonucunda sonuçları etkileyen en önemli parametrenin sıcaklık değeri olduğu belirlenmiştir.
+Yazar isimleri: ['Muhammet Anıl KAYA', 'Cengiz Görkem DENGİZ', 'Kenan BÜYÜKKAYA']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1072474
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2249390

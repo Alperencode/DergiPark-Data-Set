@@ -1,0 +1,7 @@
+Makale Başlığı: Banka Varlık Ve Yükümlülüklerinin Vade Yapılarının Performansa Etkisi: Türkiye'de Bankalardaki Kredi Ve Mevduat Üzerine Ampirik Bir Uygulama
+Özet: Küresel yapının getirisi olarak finans sisteminin ekonomide artan rolü, teknolojik ilerleme ve finansal kurumların birbirine bağlılığı bankacılık sektöründe istikrarın öneminin ortaya çıkmasına neden olmuştur. Bu nedenle ülkelerin ekonomi politikaları  açısından finans sistemi göz ardı edilemez hale gelmiştir. Sermaye ağırlıklı bir ekonomide ise, bankacılık sektörü finans sisteminin yapı taşını oluşturmaktadır. Dolayısıyla bankacılık sektöründeki karlılık ve büyüme, ekonomik gelişme içinde destek sağlayıcı konumdadır. Bu çalışmada, banka bilançolarındaki kredi ve mevduatın vade yapılarının banka performansına etkisinin incelenmesi amaçlanmıştır. Bu bağlamda bankaların karlılığının göstergelerinden biri olan net faiz marjının mevduat ve kredi vadelerinden nasıl etkilendiği 2003-2019 dönemi için sansürlü Tobit modeli yöntemi ile analiz edilmiştir. Çalışma, faiz oranlarının arttığı dönemlerde kredilerin vade yapısındaki değişikliklerin Net Faiz Marjı üzerinde etkili olduğunu göstermektedir.
+Yazar isimleri: ['Akın Taylan ALKAN', 'Hicabi ERSOY', 'Mefule FINDIKÇI ERDOĞAN']
+Yayın Yılı: 27 Nisan 2022
+Dergi ismi: Maliye ve Finans Yazıları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mfy/issue/69611/1082190
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2287277

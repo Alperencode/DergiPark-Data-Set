@@ -1,0 +1,7 @@
+Makale Başlığı: ÇİNKO HİDROKSİ SÜLFAT (Zn4SO4(OH)6)’IN ÜÇ FARKLI BAZİK ORTAMDA SENTEZİ, KARAKTERİZASYONU VE TERMAL BOZUNMASI
+Özet: Bu çalışmada, kimyasal çöktürme yöntemi ile çinko hidroksi sülfat (Zn4SO4(OH)6)’ın sentezlenmesi esnasında ZnSO4 öncü madde olarak ve boraks (Na2B4O7.10H2O), hekzametilentetramin (CH2)6N4) (HMT) ve sodyum hidroksit (NaOH) bazik çöktürücüler olarak kullanılmıştır. Boraks ve HMT ortamlarında Zn4(OH)6SO4.3H20 ve NaOH ortamında Zn4(OH)6SO4.4H20'in sentezlendiği XRD sonuçları ile tespit edilmiştir. SEM analiz sonuçlarında boraks, HMT ve NaOH ortamlarında sentezlenen örneklerin hegzagonal yapıda tabakalardan oluştuğu görülmektedir. TG ve DSC analizlerinde her üç örnek içinde üç basamaklı bir ağırlık kaybının olduğu görülmektedir. Her bir basamakta sırası ile Zn4(OH)6SO4.0,5H20,  Zn3O(SO4)2 ve ZnO’in oluştuğu tespit edilmiştir. Boraks ortamında 3-(N,N-dimetildodesilamonyum)-propansülfonat (SB12) sürfaktan ilave edilerek sentezlenen örneklerin sürfaktansız ortamda sentezlenen örneklere benzer hegzagonal yapıda olduğu görülmektedir. Sodyum dodesil sülfat (SDS) ve N-setil-N,N,N-trimetil-amonyum bromür (CTAB) sürfaktanları ilave edilerek sentezlenen örneklerin ise yaprak benzeri morfolojilere dönüştüğü tespit edilmiştir.
+Yazar isimleri: ['Abdulkadir ÖZER']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1150877
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2565276

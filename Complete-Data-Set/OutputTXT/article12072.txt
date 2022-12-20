@@ -1,0 +1,7 @@
+Makale Başlığı: ANALYSİS OF PRIMARY SCHOOL TEACHERS ATTITUDES TOWARDS DISTANCE EDUCATION
+Özet: Araştırmanın amacı,  sınıf öğretmenlerinin uzaktan eğitime ilişkin tutumlarının çeşitli değişkenlere göre incelenmesidir. Araştırma nicel araştırma yöntemlerinden biri olan tarama desenine göre tasarlanmıştır. Araştırma, Samsun il genelinde 450 sınıf öğretmeninin katılımı ile gerçekleştirilmiştir. Araştırmaya katılımcıları, seçkisiz örnekleme yöntemlerinden biri olan basit seçkisiz örnekleme yöntemiyle belirlenmiştir. Veriler, uzaktan eğitime yönelik tutum ölçeği ile toplanmıştır. Veriler, normal dağılıma sahip olmadığından dolayı analizde  Mann Whitney U testi (U)  ve Kruskal Wallis H testi (χ²) kullanılmıştır. Araştırma sonucunda, sınıf öğretmenlerinin uzaktan eğitime yönelik olumsuz tutum içinde olduğu aktaran değerler tespit edilmiştir. Ayrıca sınıf öğretmenlerinin tutum puanlarının; cinsiyet, sınıf seviyesi, mesleki yıl, yapılan ders saatine göre farklılaşmadığı yönünde de değerler saptanmıştır. Bu sonuçlardan hareketle uzaktan eğitim sırasında yaşanan aksaklıklar tespit edilebilir ve bu konuda öğretmenlere hizmet içi eğitim verilebilir.
+Yazar isimleri: ['Mehmet Ali KANDEMİR', 'Kenan KURT', 'Zeki APAYDIN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Mustafa Kemal Üniversitesi Eğitim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mkuefder/issue/70958/1052035
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2169785

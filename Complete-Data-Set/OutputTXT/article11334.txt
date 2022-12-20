@@ -1,0 +1,7 @@
+Makale Başlığı: A Trigonometric Approach to Time Fractional FitzHugh-Nagumo Model on Nerve Pulse Propagation
+Özet: 
+Yazar isimleri: ['Berat KARAAGAC']
+Yayın Yılı: 9 Eylül 2022
+Dergi ismi: Mathematical Sciences and Applications E-Notes
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mathenot/issue/68767/1025072
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2087003

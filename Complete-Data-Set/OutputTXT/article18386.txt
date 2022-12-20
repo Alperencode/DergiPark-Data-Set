@@ -1,0 +1,7 @@
+Makale Başlığı: Adaptation of Hickman's Decision Fatigue Scale into Turkish and a Study in the Covid-19 Process: The Case of Turkey
+Özet: In this study, the “Decision Fatigue Scale” developed by Hickman et al. (2018) was adapted into Turkish. In this context, it is aimed to determine whether the employees in different sectors have decision fatigue and their decision fatigue levels during the COVID-19 pandemic period in Turkey. Google forms, an online survey collection platform, were used to collect the data. Analyzes were made on 446 samples selected by simple random method. In the analysis of the data, confirmatory factor analysis methods were used under structural equation modeling. As a result of the analysis, it has been revealed that the Hickman decision fatigue scale can be used to determine the decision fatigue levels of employees in different sectors in Turkey. In addition, it was determined that the decision fatigue levels of the employees participating in the study were generally low during the COVID-19 pandemic process. In terms of some socio-demographic characteristics, it was observed that the decision fatigue levels of the employees differed.
+Yazar isimleri: ['Gülşen KIRPIK']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Abant Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/asbi/issue/73571/1146908
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2550917

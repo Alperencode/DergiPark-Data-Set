@@ -1,0 +1,7 @@
+Makale Başlığı: The eigenvalues and eigenvectors of the 5D discrete Fourier transform number operator revisited
+Özet: A systematic analytic approach to the evaluation of the eigenvalues and eigenvectors of the 5D discrete number operator N_5 is formulated. This approach is essentially based on the use of the symmetricity of 5D discrete Fourier transform operator fi_5 with respect to the discrete reflection operator P_d.
+Yazar isimleri: ['Natig ATAKİSHİYEV']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Maltepe Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mjm/issue/72482/1173367
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2642648

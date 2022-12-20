@@ -1,0 +1,7 @@
+Makale Başlığı: Lojistik Sektörünün Türkiye Ekonomisindeki Yerinin Girdi Çıktı Modeli ile Analizi
+Özet: Lojistik sektörü, küreselleşme ile birlikte gelişmeye başlamış ve Türkiye ekonomisi içinde önemli bir noktaya gelmiştir. Bu çalışmada, öncelikle lojistik sektörünün Türkiye’deki gelişimi ve günümüzdeki yeri saptanmıştır. Çalışmanın amacı, girdi çıktı modeli kullanılarak lojistik sektörünün yapısını ortaya çıkarmaktır. Bu amaçla TÜİK tarafından yayınlanan 2012 yılına ait girdi çıktı tablosu kullanılmıştır. Yapılan analizlerde, lojistik sektörünün ana metal sektörü ile birlikte Türkiye ekonomisi için kilit sektör olduğu tespit edilmiştir. Bu sonuca ulaşmak için, sektöre ait direkt ve dolaylı bağ etkileri hesaplanmış ve lojistik sektörünün diğer sektörlerle yoğun bir etkileşim halinde olduğu tespit edilmiştir. Elde edilen bir başka bulgu, lojistik sektörünün hem dolaylı üretim faktörlerini hem de asli üretim faktörlerini dengeli bir şekilde kullandığı yönündedir. Son olarak sektörün istihdam çoğaltanları hesaplanmıştır. İstihdam çoğaltanı en yüksek üçüncü sektörün lojistik sektörü olduğu analiz edilmiştir. Bu sonuçlar ile lojistik sektörüne yapılacak yatırımların Türkiye ekonomisinde yüksek bir etki yaratacağını ve işsizlikle mücadelede önemli bir araç olacağını söylemek mümkündür. 
+Yazar isimleri: ['Atilla AYDIN']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: İstanbul Gelişim Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/igusbd/issue/73093/820167
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1376713

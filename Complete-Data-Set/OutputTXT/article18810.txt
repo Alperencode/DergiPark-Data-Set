@@ -1,0 +1,7 @@
+Makale Başlığı: ROLE of Pt, Cu, Au and Cr UNDERLAYERS on EXCHANGE BIAS PROPERTIES in Pt/Py/IrMn THIN FILMS
+Özet: Herein, the structural and magnetic properties of polycrystalline UL-X/Pt/Py/IrMn thin films were studied to observe the role of an underlayer on the exchange bias properties. Thin films with Pt, Cu, Au or Cr underlayers (UL-X) were deposited at room temperature by magnetron sputtering. The structural properties of the samples were investigated to analyze the layer thicknesses,  material densities, interface roughnesses,  and crystal structures of the samples. Magnetic characterization measurements were performed to obtain the sign and the value of exchange bias properties in the samples. The differences in the sign and the value of exchange bias effect in the samples with different underlayers are mainly explained by discussing the effects of lattice parameters and growth conditions. On this basis, one would expect that these results will help in designing new spintronic devices.
+Yazar isimleri: ['Mustafa ÖZTÜRK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Scientific Reports-A
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsr-a/issue/72895/1145440
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2544982

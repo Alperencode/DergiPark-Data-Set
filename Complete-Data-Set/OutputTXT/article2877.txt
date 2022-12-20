@@ -1,0 +1,7 @@
+Makale Başlığı: Karcı Sinir Ağlarının Uygulaması ve Performans Analizi
+Özet: Yapay Sinir Ağları (YSA), matematik ve mühendislik problemlerinin çözümünde sıkça kullanılmaktadır. YSA, canlıların beyin sinir hücresinden esinlenerek ortaya atılan ve bir ya da birden fazla nöronun belirli disiplin çerçevesinde bir görevi yerine getirmesini sağlayan matematiksel modeldir. YSA’ların eğitimi aşamasında probleme göre değişebilen gizli katman sayısı, ağırlıklar, öğrenme katsayısı ve daha birçok parametre kullanılmaktadır. Bu çalışmada, Karcı Sinir Ağı (Karcı Neural Network -Karcı NN) olarak adlandırılan ve YSA’nın öğrenmesi aşamasında kullanılan öğrenme katsayısının kullanımı yerine kesir dereceli türev kullanılan yeni bir hesaplama yöntemi kullanılmıştır. Karcı NN yöntemiyle yapılan deneysel çalışmalar sonucunda, özellikle alfa parametresinin 1.4 değeri için hata oranının  % 0.019  olarak  ölçüldüğü başarılı sonuçlar elde edilmiştir.
+Yazar isimleri: ['Meral KARAKURT', 'Elif Aslı OYMAK', 'Hulya HARK', 'Mehmet Can ERDOĞAN', 'Ali KARCİ']
+Yayın Yılı: 7 Aralık 2022
+Dergi ismi: Bilgisayar Bilimleri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bbd/issue/73741/1194017
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2728691

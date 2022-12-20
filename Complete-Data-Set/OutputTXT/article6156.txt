@@ -1,0 +1,7 @@
+Makale Başlığı: Elektrokimyasal olarak borlanan düşük karbonlu çeliğin yüksek sıcaklık aşınma ve oksidasyon davranışı
+Özet: Bu çalışma kapsamında yüksek sertlik ve aşınma direncine sahip kaplama çeşidi olan tek fazlı Fe2B tabaka AISI 1020 çelik yüzeyinde, elektrokimyasal borlama faz homojenizasyon (PHEB) yöntemiyle oluşturulmuştur. Metalografik çalışmalar ve XRD analizleri, düşük karbonlu çelik yüzeyinde tek fazlı Fe2B tabakasının oluştuğunu ortaya çıkarmıştır. 950 °C'de 60 dakikalık işlemden (15 dakika elektrokimyasal borlama ve 45 dakika faz homojenizasyon) sonra yüzeyde 1450±50 HV0.05 yüzey sertliğinde 57 µm kalınlığında Fe2B tabakasının çeliğe mükemmel yapışma ile büyütülebildiği belirlenmiştir. Oksidasyon ve yüksek sıcaklık aşınma deney sonuçları birlikte değerlendirildiğinde; 400 °C’ de yapılan oksidasyon deneylerinde benzer oksitlenme eğilimi gösteren AISI 1020 çelik ve tek fazlı bor kaplamanın aşınma davranışı benzer iken, 600 °C’de gerçekleştirilen oksidasyon deneylerinde en az ağırlık kazancı gösteren tek fazlı bor kaplama AISI 1020 çeliğine göre % 55,4 oranında daha az aşındığı tespit edilmiştir.
+Yazar isimleri: ['Harun MİNDİVAN']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazimmfd/issue/72928/1063321
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2214132

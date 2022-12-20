@@ -1,0 +1,7 @@
+Makale Başlığı: GIDA VE YEM İÇİN HIZLI ALARM SİSTEMİ’NDE BULUNAN GIDA İLE TEMAS EDEN MADDE BİLDİRİMLERİ
+Özet: Bu çalışmada, Gıda ve Yem için Hızlı Alarm Sistemi (RASFF)’ne 2002-2020 yılları arasında rapor edilen gıda ile temas eden madde bildirimlerini incelenmiş ve veriler Microsoft Excel programı yardımıyla grafikler halinde yorumlanmıştır. Hızlı Alarm Sistemi’ne 2002-2020 yılları arasında 2500 gıda ile temas eden madde bildirimi raporlanmış olup, en fazla bildirim sayısı 2011 yılındadır. Ülke bazında incelendiğinde; İtalya’nın 788, Almanya’nın 313 ve Polonya’nın 185 bildirimde bulunduğu görülmüştür. İncelenen bildirimlerin %42,52’si sınır reddi, %22,64’ü alarm, %12,8’i dikkat gerektiren bilgi, %11,36’sı bilgi ve %10,68’i takip gerektiren bilgi bildirimidir. Risk türlerinin %18,76’sı ciddi, %20,8’i ciddi olmayan ve %60,44’ü kararsız kalınmış risk derecesine sahiptir. Bildirime konu olan tehlikeler krom (%13,18), formaldehit (%13,12), birincil aromatik aminler (%11,83) ve nikelden (%8,75) oluşmaktadır.
+Yazar isimleri: ['Mehmet Ali CANIMOĞLU', 'Salih Berkcan ADAK', 'Ümit ÜNLÜ', 'Ezgi GENÇ', 'Aslı YORULMAZ']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ticaretfbd/issue/70676/1014853
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2046848

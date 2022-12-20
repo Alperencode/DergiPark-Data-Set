@@ -1,0 +1,7 @@
+Makale Başlığı: A REVIEW ON THE RELATIONSHIP BETWEEN LOGISTICS PERFORMANCE AND GOVERNANCE QUALITY
+Özet: This study is shaped around the question of how World Governance Indicators affect green logistics performance as well as overall logistics performance. For this purpose, data from 14 developing countries have been used whose development stages converge. The data are annual and cover between 1996 and 2020. GMM (Generalized Method of Moments) and SGMM (System Generalized Method of Moments) estimators have been preferred as estimation methods. The results have revealed that the improvement in government efficiency, regulatory quality, rule of law and anti-corruption indicators improved both overall logistics performance and green logistics performance. On the other hand, it is possible to say that it is difficult to make an inference that political stability and voice and accountability indicators have any effect on both general logistics performance and green logistics performance.
+Yazar isimleri: ['Mücahit ÇİTİL']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Dicle Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/duiibfd/issue/73541/1133548
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2498034

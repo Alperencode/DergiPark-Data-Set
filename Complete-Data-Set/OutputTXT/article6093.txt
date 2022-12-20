@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Layers on the Unidirectional Carbon Fibers of the Reinforced Polyester Resin Matrix Composite Material
+Özet: In this study, composite materials are produced, placing unidirectional carbon fiber reinforcements with 12 filament numbers in a polyester matrix to form one, two, and three layers at room temperature through the hand lay-up method. The samples are prepared from composite plates with the help of a mold in line with the fiber direction angle by the standards. The tensile, three-point bending, and falling weight low-speed impact strength values of the samples were measured and were investigated the mechanical performance of the specimens. As a result of the tensile test, the highest tensile strength value among layers is obtained in the two-layer unidirectional fiber-reinforced composite materials. In bending tests, the highest elasticity values of unidirectional carbon fiber reinforcements are observed in three-layer composite materials with a fiber direction angle of 00. 00 unidirectional fiber-reinforced one-layer composite materials are observed in composite materials with the highest deformation values in the falling weight low-velocity impact tests.
+Yazar isimleri: ['Levent URTEKİN', 'Deniz GUNES', 'Faik YILAN', 'Murat ÇANLI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi Üniversitesi Fen Bilimleri Dergisi Part C: Tasarım ve Teknoloji
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsc/issue/72673/1105848
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2383842

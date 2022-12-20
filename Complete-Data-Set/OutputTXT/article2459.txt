@@ -1,0 +1,7 @@
+Makale Başlığı: Ear semantic segmentation in natural images with Tversky loss function supported DeepLabv3+ convolutional neural network
+Özet: Semantic segmentation is a fundamental problemfor computer vision. On the other hand, for studies in the fieldof biometrics, semantic segmentation is gaining more importance.Many successful biometric recognition systems require a high-performance semantic segmentation algorithm. In this study, wepresent an effective ear segmentation technique in natural images.A convolutional neural network is trained for pixel-based earsegmentation. DeepLab v3+ network structure, with ResNet-18 asthe backbone and Tversky lost function layer as the last layer, hasbeen trained with natural and uncontrolled images. We performthe proposed network training using only the 750 images in theAnnotated Web Ears (AWE) training set. The corresponding testsare performed on the AWE Test Set, University of LjubljanaTest Set, and the Collection A of In-The-Wild dataset. For theAnnotated Web Ears (AWE) dataset, intersection over union(IoU) is measured as 86.3% for the AWE database. To the best ofour knowledge, this is the highest performance achieved amongthe algorithms tested on the AWE test set.
+Yazar isimleri: ['Tolga INAN']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/1024073
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2083089

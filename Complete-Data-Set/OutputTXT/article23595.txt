@@ -1,0 +1,7 @@
+Makale Başlığı: Efficiency Analysis of Production Coops in the Turkish Broiler (Beef Chicken) Sector: The Example of the East Marmara Region
+Özet: In this survey, 122 broiler production branches in the Eastern Marmara region’s Bolu, Düzce, Kocaeli ve Sakarya provinces where the greatest concentration were the technical, allocative and economic efficiency obtained from the Data Envelopment Analysis (DEA) approach using were determined.  This study was conducted on four groups of capacity. Broiler operating capacities were calculated as 97.61% on average. Data envelopment analysis was measured with the constant return to scale (CRS) method and the average technical, allocation and economic efficiency values were found to be 97.40%, 84.70% and 82.50%, respectively. These efficiency results showed that the efficiency was high in the production branches. It has been determined that 35.2% of broiler production branches are with constant returns to scale, 45.4% with increasing returns to scale and 16.4% with decreasing returns to scale. It has been determined that the unit live weight cost decreases as the scale of the production branch increases, and the resources are used more rationally as the scale of the production branch increases
+Yazar isimleri: ['Aslı YENİ', 'Vedat DAĞDEMİR']
+Yayın Yılı: 15 Ağustos 2022
+Dergi ismi: Palandöken Journal of Animal Sciences Technology and Economics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/paste/issue/72183/1162522
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2598247

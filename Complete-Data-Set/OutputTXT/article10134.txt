@@ -1,0 +1,7 @@
+Makale Başlığı: Çay Üretiminde Bulanık Mantık Yaklaşımıyla Çay Alım Merkezi ve Fabrika Eşleştirmesi
+Özet: Ülkeler her ne kadar gelişmiş teknoloji, savunma ve diğer endüstri, petrol doğalgaz ve maden ürünlerinin üretimi ve ihracatı üzerine yoğunlaşmış olsa da hem ekonomik açıdan hem de en az kendi kendine yetecek düzeyde tarımsal üretimi de devam ettirmek durumdadır. Türkiye açısından durum incelenecek olursa, ülkemiz tarım faaliyetleri için oldukça uygun ve geniş alanlara sahip, kuruluşundan bugüne kadar yaygın ve etkin şekilde tarım faaliyetlerinin yürütüldüğü bir ülkedir. Türkiye’de üretilen tarım ürünlerinden birisi çaydır. Bu çalışma kapsamında, hükümet tarafından çay ekimi için izin verilen 2 il için (Artvin ve Rize) tüm ilçe ve köyleri göz önünde bulundurularak bulanık kümeleme yöntemi ile uzaklığa dayalı fabrika ve yaş çay alım yeri eşlemesi yapılmıştır. Kümeleme yaklaşımının kullanılması problemin boyutunu küçülterek daha kolay çözüm üretilmesini sağlamıştır. Analizler sonucunda bazı fabrikalara daha fazla sayıda çay alım merkezi atanmıştır. Çalışma tarımsal üretimin yanı sıra tarım ürünlerinin işlenebilmesi için de gerek üretim alanlarının dağılımı, gerek işleme tesislerinin konumlanması gibi konularda doğru bir yapılanmaya gereksinim olduğunu göstermektedir.
+Yazar isimleri: ['Fatma Önay KOÇOĞLU']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1093994
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2334930

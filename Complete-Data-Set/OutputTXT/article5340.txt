@@ -1,0 +1,7 @@
+Makale Başlığı: EARTHQUAKE FORCE ANALYSIS FOR REINFORCEMENT RESIDENTIAL BUILDINGS WITH DATA MINING
+Özet: This study is about the analysis of horizontal design earthquake loads acting on reinforced concrete residential buildings without shear walls using data mining methods and the prediction of loads using machine learning methods. For this purpose, a data set was created by using the equivalent earthquake load method according to the Building Earthquake Code of Turkey (2018). Data mining methods such as feature selection, detection and removing of outlier values, dimensionality reduction were used on the created data set, and how the results changed with which methods were discussed. The results revealed that short-period spectral acceleration coefficient taken from AFAD map (SS) and total building height (HN) are not required for successful prediction of earthquake force acting on reinforced concrete buildings without shear wall with machine learning methods.
+Yazar isimleri: ['Tarkan KARAÇAY', 'Tolga AÇIKGÖZ']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Mühendislik ve Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogummf/issue/72210/1082248
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2287506

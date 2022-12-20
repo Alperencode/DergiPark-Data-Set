@@ -1,0 +1,7 @@
+Makale Başlığı: Doğrusal Regresyonda Alternatif Ridge Parametreleri
+Özet: Ridge regresyon tahmin edicisi çoklu iç ilişki problemi olan doğrusal regresyon modelinde En Küçük Kareler tahmin edicisinden daha etkin sonuçlar verir. Fakat, Ridge tahmin edicisinin performansı Ridge parametresinin seçimine bağlıdır. Ridge parametreleri farklı türlerde sınıflandırılmaktadır. Bu nedenle Ridge parametrelerinin tahmini için farklı teknikler önerilmiştir. Varolan ve yeni önerilen Ridge parametrelerinin karşılaştırılması için Monte Carlo simülasyon çalışması yapılmıştır. Simülasyon çalışması ve gerçek veri seti sonuçlarına bakıdığında önerilen Ridge parametresi tahmincilerinin etkin sonuçlar verdiği gösterilmiştir.
+Yazar isimleri: ['Kayode AYİNDE', 'Emmanuel ADEWUYİ', 'Lukman Adewale FOLARANMİ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Nicel Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nicel/issue/70428/1042316
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2151136

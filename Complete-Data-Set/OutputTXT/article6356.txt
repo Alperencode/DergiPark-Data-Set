@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye'de COVID-19 sürecinde alınan önlemler çerçevesinde okul bahçe ve sınıflarının CBS ile değerlendirilmesi
+Özet: Bu çalışmada COVID-19 döneminde okul bahçelerinde ve sınıflarında Coğrafi Bilgi Sistemleri (CBS) kullanarak sağlık güvenliğini sağlayabilecek bir yaklaşım oluşturulmuştur. Çalışmanın yöntemi, okul alanlarına ve binalarına ait verilerin analizi, bahçe ve sınıflarda 4 m2’lik sosyal mesafelerin oluşturulması ve bu alanların sağlık önlemleri bakımından değerlendirilmesidir. Bu kapsamda, ilk olarak Türkiye'deki devlet kurumlarının salgın ile ilgili yayınladıkları genelgeler ve raporlar değerlendirilmiştir. Böylece okullardaki mevcut durumun eğitim politikalarına etkisi incelenmiştir. Uygulama aşamasında Emek, Bahçelievler ve Yukarıbahçelievler mahallelerinde 9 okul seçilmiş ve bu okullarda eğitimin sürdürülebilirliği değerlendirilmiştir. Çalışma sonucunda, okul bahçelerinin %33,3'ünün pandemi yönetmeliklerine uygun olduğu ve sınıfların sadece %44,4'ünün ikili gruplama yoluyla eğitimi destekleyebildiği belirlenmiştir. Ayrıca CBS’nin, sağlık önlemleri kapsamında okul alanlarının analizinde, okulların birbiriyle kıyaslanmasında, salgın yayılımının takibinde ve yüksek riskli okul alanlarının tespitinde etkin bir analiz aracı olduğu görülmüştür.
+Yazar isimleri: ['Murat BAŞEĞMEZ', 'Cevdet Coşkun AYDIN']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Geomatik
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/geomatik/issue/66138/971403
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1880560

@@ -1,0 +1,7 @@
+Makale Başlığı: Gelişmekte Olan Ülkelerin Sağlık Sistemi Göstergelerinin Karşılaştırmalı Analizi
+Özet: Giriş ve Amaç: Bu çalışmanın amacı, yedi farklı sağlık sistemi göstergesine göre gelişmekte olan ülkelerin sağlık sistemi göstergelerindeki sıralamasının ve birbirlerine göre konumlarının tespit edilmesidir. Gereç ve Yöntem: Dünya Sağlık Örgütü’ne göre sağlık sistemi göstergesi olarak kabul edilen göstergeler, toplam 30 ülke için elde edilmiş ve ilgili değişkenler kullanılarak çok boyutlu ölçekleme (MDS) ve MOORA analizi uygulanmıştır.Bulgular: MDS analizi sonucunda ülkelerin iki grupta toplandıkları görülmüştür. Araştırma sonuçları değerlendirildiğinde gelişmekte olan ülkeler içinde en yüksek görece başarı skoruna sahip olan ülkeler Kosta Rika, Türkiye ve Belarus ’tur. Bu ülkelerin hemen ardından Arjantin gelmektedir. Ülkelerin birbirlerine göre benzerlik ve farklılıkları MDS analizine göre nerede konumlandıkları incelendiğinde ise Türkiye’ye en benzer ülkelerin Kosta Rika, Arjantin ve Arnavutluk olarak belirlenmiştir. Sonuç: Çalışmada uygulanan modelin ülkelerin sağlık raporlarında, sağlık politikalarında faydalı olacağı ve karar vericilere katkı sağlayacağı düşünülmektedir.
+Yazar isimleri: ['Canser BOZ', 'Salim YILMAZ', 'Haluk ÖZSARI']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Sağlık Akademisyenleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sagakaderg/issue/73641/1180248
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2671349

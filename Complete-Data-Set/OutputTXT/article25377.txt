@@ -1,0 +1,7 @@
+Makale Başlığı: Optimization of recombinant novel esterase expression from extremophiles
+Özet: Esterases, whichare a sub-group of lipolytic enzymes, are important biocatalysts for manyindustrial applications. In this study, optimization for the recombinantexpression of a novel esterase, which was previously obtained by metagenomicapproach, was studied. To optimize the expression, 0.1, 0.5 and 1 mM isopropylβ-D-1 thiogalactopyranoside (IPTG) concentrations were tried. In addition,induction at 25ºC for 16 hours, 30ºC for 6 hours and 37ºC for 3 hours weretried. According to the results, induction at 30°C for 6 hours by 0.1 mM IPTG yieldedhigh amount of protein with maximum catalytic activity. After the gene wassuccessfully expressed, purification studies were conducted. The protein waspurified using His-tag method. Native and SDS-PAGE analysis showed that proteinwhich is present as a monomer was successfully purified. 
+Yazar isimleri: ['Havva Esra TÜTÜNCÜ', 'Nurgul ÇELİK BALCİ', 'Melek TUTER']
+Yayın Yılı: 26 Aralık 2018
+Dergi ismi: Journal of Applied Biological Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jabs/issue/41666/421072
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/608244

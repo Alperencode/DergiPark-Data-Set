@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis and Characterization of NiO Reinforced Mn Based Hydroxyapatite Composites
+Özet: In this study, the composite samples formed by using manganese (Mn) based hydroxyapatite (HAp) synthesized by hydrothermal method and nickel oxide (NiO) produced by the wet chemical method were characterized. NiO reinforcement was found to be effective on crystallization, lattice parameters, and average crystal size of Mn-doped HAp. It was observed that it can possible to change and control some properties of Mn-doped HAp with the addition of NiO.
+Yazar isimleri: ['Tankut ATEŞ', 'Serhat KESER', 'Aydan AKSOĞAN KORKMAZ', 'Niyazi BULUT', 'Omer KAYGİLİ']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: International Journal of Innovative Engineering Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiea/issue/70503/993624
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1967366

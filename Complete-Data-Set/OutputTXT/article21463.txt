@@ -1,0 +1,7 @@
+Makale Başlığı: Asymptotic socle behaviors for cones over curves in positive characteristic
+Özet: This paper studies the distribution of socle degrees of $R/I^{[p^e]}$ when $e$ is large, for a homogeneous ideal $I$ in a two-dimensional standard-graded normal domain $R$ in positive characteristic $p$.  We prove that the distribution is very much related to the asymptotic slopes of the syzygy bundle Syz$ I $,   which have been known to determine the Hilbert-Kunz multiplicity of $I$.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783659
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

@@ -1,0 +1,7 @@
+Makale Başlığı: NUMERICAL INVESTIGATION OF X-45A TYPE UNMANNED COMBAT AIR VEHICLE
+Özet: In this paper, the low-speed aerodynamic performance of unmanned combat air vehicle (UCAV) X-45 delta wing was investigated by a numerical method using computational fluid dynamic approaches (CFD). The investigation was conducted with X-45 and the formation of leading-edge vortices (LEV) and vortex breakdown was studied by a varying angle of attack with the range of 5° to 30° at the Reynolds number of 10,000 using the SST turbulence model and are compared with experimental data to validate simulation accuracy of CFD. Stall conditions happened at around 30°, averaged vorticity layer demonstrates a prolonged form that goes along by narrow recirculation zones neighboring to the wing surface. Detail about flow field, including LEV formation, vortex breakdown, interaction, and nonlinear aerodynamic characteristics of X-45 was presented and discussed.
+Yazar isimleri: ['Hacı SOĞUKPINAR', 'Serkan CAG']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uludağ Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uumfd/issue/71647/1094987
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2338951

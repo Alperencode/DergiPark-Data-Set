@@ -1,0 +1,7 @@
+Makale Başlığı: Modelling and Simulation of 1 MW Grid-Connected PV System Regulated by Sliding Mode Control, Model Predictive Control and PI Control
+Özet: The design and modeling of a 1 MW grid-connected multistage PV system consisting of four equal power rated PV arrays are presented. Two nonlinear control methods, namely sliding mode control and discrete time model predictive control with finite switching states are adopted as the current control scheme of the inverter together with the parameter update for the LCL filter for each control mode. The proposed controllers are based on coordinate transformation of the variables and use decoupling to improve control performance. The dynamic and steady-state performances of these controllers have been thoroughly evaluated and compared with the conventional decoupled PI current control scheme in Matlab Simulink environment under fixed and changing weather conditions. It is observed that the performances of the controller schemes are satisfactory and they give almost similar steady-state performances under given test conditions, although there are little changes observed during system starting.
+Yazar isimleri: ['Ercan MACİT', 'Ahmet Mete VURAL']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/899799
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1649221

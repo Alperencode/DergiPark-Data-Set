@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship between Elastic Money Growth and Prices in Countries with the Largest Money Stock: An Econometric Review
+Özet: The main objective of this paper is to examine the relationship between money expansion and inflation rates and asset price fluctuations across countries charged with highest money creation. The U.S.A, India, China and Japan reported with highest money stock in the world are studied for about 55 years. This research considers the monthly data of M2, the CPI, Stock Index Values and Real Estate values in the stated countries. Johansen’s Cointegration test indicates that a long term equilibrium relationship is seen between Money supply and inflation rates and Money Supply and Asset Prices in all the four countries except India where Money Supply is not significantly cointegrated with the asset prices. Granger causality test results offer no definite inference, in China and Japan causality is mostly not established between the variables, however in the U.S.A and India significant causal relationship is seen.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353546
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364573

@@ -1,0 +1,7 @@
+Makale Başlığı: Multivariate conditional aging intensity functions and load-sharing models
+Özet: The aging intensity functions analyze the aging property quantitatively, in the sense that the larger the aging intensity, the stronger the tendency of aging. They are useful tools to describe reliability properties of distributions. In the literature, the aging intensity functions have been studied in the univariate and bivariate case but without considering the possibility of observing a dynamic history. In this paper, the concept of aging intensity function is extended to the multivariate case by the use of the multivariate conditional hazard rate functions. Some properties of those functions are studied and a focus on the bivariate case is performed. Finally, the multivariate conditional aging intensity functions are studied for the order dependent version of the time-homogeneous load-sharing model and a study on the comparison among surviving components in a system is provided. 
+Yazar isimleri: ['Francesco BUONO']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1033805
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2120601

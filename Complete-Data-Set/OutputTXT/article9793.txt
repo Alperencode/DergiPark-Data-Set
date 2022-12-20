@@ -1,0 +1,7 @@
+Makale Başlığı: Bir imalat firmasında en iyi ürün kalitesi için lazer ile kesim parametrelerinin en iyilenmesi
+Özet: 
+Yazar isimleri: ['Mustafa YURDAKUL', 'Taha TÜKEL', 'Yusuf Tansel İÇ', 'İbrahim ÜLKE', 'Arif BALCI']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Turkish Operations Management
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jtom/issue/70951/964097
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1865236

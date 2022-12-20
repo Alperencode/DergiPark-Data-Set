@@ -1,0 +1,7 @@
+Makale Başlığı: The automatic generation controller based on whale optimization algorithm in PV-thermal power systems
+Özet: To ensure a balance between the power generated and the consumed power in power systems, a control process namely automatic generation control (AGC) must be carried out. This process becomes more challenging due to increasing use of renewable energy sources (RES) such as wind turbines (WT) and photovoltaic (PV) panels. Therefore, AGC needs to be performed more sensitively. In this study, it has been aimed to determine the parameters of the PID controller by using the whale optimization algorithm (WOA) for the AGC in a hybrid power system consisting of photovoltaic (PV) system and thermal generator. The performance of WOA tuned PID controller is tested under load change in area-1 and area-2. Additionally, comparisons have been made with the performances of other optimization techniques such as firefly algorithm (FA), genetic algorithm (GA) and population extremal algorithm (PEO). The results obtained indicated that the WOA tuned PID controller proposed in the study gave better results than the other methods in terms of overshoot values and settling time of system frequency.
+Yazar isimleri: ['Özay CAN', 'Hasan EROĞLU', 'Ali ÖZTÜRK']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazimmfd/issue/72928/984019
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1930017

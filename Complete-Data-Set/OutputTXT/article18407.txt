@@ -1,0 +1,7 @@
+Makale Başlığı: Yerli bor katkılı BNT-BT kurşunsuz piezoelektrik seramiklerin üretimi ve özellikleri
+Özet: Bu çalışmada, yerli bor (B2O3) hammaddesi kullanılarak katı-hal reaksiyonu ile molce %1 B+3 katkılı 0,94(Bi0,5Na0,5)TiO3-0,06BaTiO3 (BNT-6BT) seramikler üretilmiştir. Kalsinasyon sonrası faz oluşumu X-ışını kırınımı (XRD) ile belirlenen tozlardan hidrolik pres (ön şekillendirme) ve soğuk izostatik presleme (CIP) ile disk şeklinde numuneler hazırlamıştır. Numuneler bağlayıcı giderme işleminin ardından 1100, 1150 ve 1200°C sıcaklıklarda 12 saat süreyle hava ortamında sinterlenmiştir. Yapı ve özelliklerin karakterizasyonundan önce numunelerin yoğunluk ölçümleri Arşimet yöntemiyle gerçekleştirilmiştir. Taramalı elektron mikroskobu (SEM) ile mikroyapı incelemesi ve elektriksel ölçümler için numuneler altın (Au) kaplanmıştır. Bu çalışmada üretilen numunelerin dielektrik (εr, tanδ), piezoelektrik (d33) ve ferroelektrik (P-E histeresiz döngüsü) özellik ölçümlerinden elde edilen sonuçlar literatürde yer alan katkısız ve ticari B2O3 katkılı BNT-6BT seramikler üzerine yapılmış olan çalışmalarla karşılaştırılmıştır. Sonuçlar yerli borun piezoelektrik malzemelerin üretiminde özellikleri geliştirici katkı olarak kullanılabilirliğini göstermektedir.
+Yazar isimleri: ['Oğuzhan Mehmet AKSU', 'Samet ABBAK', 'Metin OZGUL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bor Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/boron/issue/72782/1150379
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2563413

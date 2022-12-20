@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19’s Impact on Global Stock Market Movements and an Examination on Turkish Market
+Özet: inancial globalization has entered to an important phase, after capital account liberalizations in 1980s for developed countries, and in 1990s for developing countries. In this phase, systemic risk factors are increased, negative events and expectations became more likely to spread and effect all markets. Particularly in stock markets, it is seen that markets of many countries integrated with “global” market rapidly, but level of this integration has not reached to remarkably high levels and does not result with strong co-movements. Even faced crises cause similar reactions in stock markets in short-term, after-shock movements may show distinct characteristics. In this framework, possible effects of World Health Organization’s pandemic announcement for the disease COVID-19, which is made on 11 March 2020, on the changes in co-movements of stock markets are investigated by using Principal Component Analysis and a change point detection analysis. Daily index movements until the date 31.12.2020 of 20 stock markets, including Turkey are used in analyses. Additionally, impact of pandemic related local numbers and restriction levels on Turkish stock market is examined.
+Yazar isimleri: []
+Yayın Yılı: 21 Temmuz 2022
+Dergi ismi: Yildiz Social Science Review
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yssr/issue/71338/1146870
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2550756

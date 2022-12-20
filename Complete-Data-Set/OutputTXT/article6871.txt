@@ -1,0 +1,7 @@
+Makale Başlığı: Blok Zinciri Platformları, Fikir Birliği Mekanizmaları ve Ağın Güvenlik Analizi
+Özet: Finans, sağlık, sosyal medya vb ortamlardaki insanların ihtiyacı olan güven problemine blok zinciri teknolojisi, şifreli algoritmalar ile çözümler sunmaktadır. Güven problemini çözen ve verileri dağıtık olarak kayıt altına alan ve her şeyi şeffaf olarak bizlere sunan blok zinciri bir devrim niteliğindedir. Blok zinciri, akıllı sözleşmeler sayesinde kurumsal projelerde de kullanabilmektedir. Kurumların arasında yeni nesil bir ağ olarak da adlandırılan blok zinciri ile bir çok şeyin değişmesi beklenmektedir. İnternetin, mobile cihazların ve sensörlerin yaygınlaşmasıyla birlikte güven problemi her geçen gün daha da önem kazanmaktadır. Farklı amaçlara hizmet eden Ethereum, Cardano, EOS, Cosmos, Hyperledger gibi blok zincir platformları vardır. Altyapılarında Proof of Work (PoW), Proof of Stake (PoS), Delegated Proof of Stake (DPoS) ve Directed Acyclic Graph (DAG) gibi farklı fikir birliği mekanizmalarını kullanmaktadırlar. Bu çalışmada blok zinciri platformları, altyapılarında kullandıkları mutabakat mekanizmaları ve blok zinciri ağının güvenliği araştırılmıştır.
+Yazar isimleri: ['Mimar ASLAN', 'Mustafa Cem KASAPBAŞI']
+Yayın Yılı: 30 Mart 2022
+Dergi ismi: Haliç Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hafebid/issue/69119/1000108
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1992054

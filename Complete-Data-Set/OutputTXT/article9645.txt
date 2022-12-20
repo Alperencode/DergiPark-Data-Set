@@ -1,0 +1,7 @@
+Makale Başlığı: Applying Machine Learning Prediction Methods to COVID-19 Data
+Özet: 
+Yazar isimleri: ['Adnan KEÇE', 'Yiğit ALİŞAN', 'Faruk SERİN']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Journal of Soft Computing and Artificial Intelligence
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jscai/issue/70580/1108528
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2394907

@@ -1,0 +1,7 @@
+Makale Başlığı: ECONOMIC FEASIBILITY ANALYSIS of a GRID-CONNECTED PV ENERGY SYSTEM: A CASE STUDY of KUTAHYA DUMLUPINAR UNIVERSITY, TÜRKİYE
+Özet: Due to their clean energy generation process, PV energy systems are an important alternative energy production system against fossil fuel-based energy production systems. However, it is important to make a clear and brief economic feasibility analysis before the installation of a PV energy system. The return time of the investment should have been calculated carefully. So, this paper presents an economic feasibility analysis of a grid-connected PV energy system. The system is planned to locate on the campus of Kutahya Dumlupinar University, Türkiye. The proposed system is planned to establish approximately 3000 m2 of an unused field near a pond on the campus. The DC side power plant installed power capacity has been determined as 150kWp. The network side power of the system is determined as 125kWe. The total cost of the system is determined and the monthly energy production of the proposed PV energy system in years is calculated according to solar radiation data. The overall profit of the system is calculated by years. It is found that the system will start to make profits at the middle of the 5th year of the investment.
+Yazar isimleri: ['Kerim KARABACAK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Scientific Reports-A
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsr-a/issue/72895/1095014
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2339076

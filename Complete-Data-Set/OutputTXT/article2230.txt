@@ -1,0 +1,7 @@
+Makale Başlığı: Novel Extruder Heat Block Designs to Improve the Thermal Efficiency of 3D Printers
+Özet: 3D printers are the most common and popular method of additive manufacturing technology and provide fusion of materials using thermal effects. This phenomenon makes that temperature the most important factor affecting printing quality. The temperature is provided by the Aluminium Extruder Heat Block in the extruder and the temperature regime must be constant according to the type of printing material. The objective of this study is to make aluminium Extruder Heat Block designs with high thermal efficiency to keep the temperature regime constant and to analyse the thermal behaviour of new designs with a commercial product block design using ANSYS simulation. The materials of the blocks were chosen the same and the temperature distribution of the blocks and the average heat flux were calculated by determining the boundary conditions. The results obtained from the simulation are satisfactory when compared with the thermal behaviour of a commercial product block.
+Yazar isimleri: ['Hasan DEMİR']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1050661
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2165470

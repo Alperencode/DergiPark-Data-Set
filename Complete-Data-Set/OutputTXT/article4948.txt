@@ -1,0 +1,7 @@
+Makale Başlığı: Developing real-time boiler control algorithm for fuel consumption savings
+Özet: In this study, an automatic solid fuel control algorithm has been developed that provides maximum heating with minimal solid fuel waste in boiler systems. With the algorithm developed using the Atmega16 microcontroller, motors such as stoker, fan, water pump used in boiler control and features such as boiler temperature, temperature sensor, water pump temperature are controlled. In addition to these features, operations such as fuel loading, waiting, fan speed adjustment can be performed with the help of the menu controlled by interrupt functions. The boiler control algorithm developed for real-time control of the system is programmed with the AVR C language. In the system in which the developed algorithm is used, a user-friendly panel with a 7-segment display has been developed to facilitate the work of the users. With the help of this panel, the user will be able to make all adjustments that affect the operation of the boiler in a very short time. As a result of experimental studies, an increase in the life span of the controlled boiler elements has been determined and an annual fuel saving of approximately 20% has been achieved compared to conventional boiler control systems.
+Yazar isimleri: ['İbrahim ÇETİNER', 'Halit ÇETİNER']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/1020132
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2067671

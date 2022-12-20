@@ -1,0 +1,7 @@
+Makale Başlığı: Eğitim Harcamalarının Ekonomik Büyüme Üzerinde Etkisi
+Özet: Küreselleşmenin yaygınlaşmasının ardından bilim ve teknolojide yaşanan gelişmeler ekonomik büyümenin belirleyicilerinin değişmesine neden olmuştur. Geleneksel büyüme teorilerinin günümüz büyüme modellerini açıklamakta yetersiz kalması nedeni ile içsel büyüme modelleri ortaya çıkmıştır. İçsel büyüme modellerinden olan Lucas Modeli’nde beşeri sermayenin bir ekonomik büyüme belirleyicisi olarak kabul edilmiştir. Ülkede uygulanan eğitim, sağlık ve teknoloji politikalarının etkin uygulanması sonucunda beşeri sermaye ortaya çıkmaktadır. Bu yönü ile eğitim için yapılan harcamaların büyümeyi artırdığını söylemek mümkündür. Bu çalışmanın amacı, 1994-2018 dönemi için seçilmiş OECD ülkelerinde eğitim harcamaları ile ekonomik büyüme arasındaki ilişkinin analiz edilmesidir. Elde edilen sonuçlara göre, eğitim harcamalarının ekonomik büyüme üzerinde pozitif bir etkisi olduğu sonucuna varılmıştır.  
+Yazar isimleri: ['Zeynep KÖSE', 'Filiz GÖLPEK', 'Turan Akman ERKILIÇ']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: İstanbul Gelişim Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/igusbd/issue/73093/831568
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1416023

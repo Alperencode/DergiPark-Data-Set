@@ -1,0 +1,7 @@
+Makale Başlığı: Developing new polymeric nanoparticles for controlled release of quercetin as an alternative material protecting from COVID-19
+Özet: Research of drugs for COVID-19, the most striking studies include the ACE-2 receptors used by COVID-19 by binding to the lung cells for entry. In the researchers conducted, it was determined by the results of the docking studies performed on the agents that block the receptor by binding to the receptor, such as COVID-19, several molecules have the interest to bind to this receptor. One of these numbered molecules is herbal flavonoid called "Quercetin". In this study, quercetin imprinted polymeric materials were designed, synthesized and characterized. For synthesis, emulsion polymerization technique was used for obtaining quercetin imprinted polymeric materials. SEM and Zeta-Size analysis were used as preliminary characterization. After a week release experiment, quercetin imprinted polymeric nanoparticles were released by 14%. In the light of these results, it is predicted that quercetin printed polymeric material can be used for protection from COVID-19 and treatment of COVID-19 on the inhaler route.
+Yazar isimleri: ['Ceren TÜRKCAN']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: International Journal of Chemistry and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijct/issue/69466/1060235
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2201625

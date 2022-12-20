@@ -1,0 +1,7 @@
+Makale Başlığı: Investigating the K1(1270) – K1(1400) Mixing Angle via QCD Sum Rules
+Özet: In this work, we investigated the mixing between strange axial vector mesons K1(1270) and K1(1400) by using QCD Sum Rules approach. Since these states couple to the same interpolating currents, we defined them in terms of orbital angular momentum eigen states K1A and K1B. By using the axial vector and tensor interpolating currents which are almost purely coupling to K1A and K1B, and then employing the orthogonality of the physical states, we obtained an analytical expression for the K1 mixing angle. We performed a Monte Carlo based numerical analysis to estimate the value of the mixing angle.
+Yazar isimleri: ['Hüseyin DAĞ']
+Yayın Yılı: 8 Haziran 2022
+Dergi ismi: Journal of Innovative Science and Engineering
+Yayın sayfa url: http://jise.btu.edu.tr/tr/pub/issue/68623/1011406
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2033176

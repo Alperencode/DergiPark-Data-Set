@@ -1,0 +1,7 @@
+Makale Başlığı: Experimental and predicted XLPE cable insulation properties under UV  Radiation
+Özet: This paper deals with the behavior of the crosslinked polyethylene  XLPE  used as high-voltage power cable  insulation under ultraviolet  UV  radiations. For this, XLPE samples have been irradiated for 240 h using low-pressure  vapor fluorescent lamps. Electrical  surface and volume resistivities , mechanical  tensile strength, elongation at break  and surface hardness  and physical  weight loss, water absorption, work of water adhesion and contact angle  tests have  been first carried out. Experimental results show that the XLPE characteristics are affected by UV radiation. Indeed,  a decline in surface resistivity, mechanical properties, and contact angle, and an increase in the water retention amount  and weight loss have been recorded. In order to predict and extrapolate some XLPE properties, a supervised artificial  neural network  ANN  trained by Levenberg-Marquardt algorithm has been designed. The collected database is used  to train and test the ANN performance. The obtained results show that the proposed ANN algorithm presents good  estimation and prediction since the predicted output values agree with the experimental data.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739728
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110737

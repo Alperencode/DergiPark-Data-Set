@@ -1,0 +1,7 @@
+Makale Başlığı: A Unified System for Processing News and Detecting Advertisements in TV Streams
+Özet: 
+Yazar isimleri: ['Abdesalam AMRANE']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: International Journal of Informatics and Applied Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiam/issue/68183/1020112
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2067588

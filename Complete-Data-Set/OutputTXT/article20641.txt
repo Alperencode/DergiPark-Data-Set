@@ -1,0 +1,7 @@
+Makale Başlığı: Klinker Fazlarının Farklı Öğütme Sürelerinde Çimento Performans Özelliklerine Etkisinin Araştırılması
+Özet: Klinker mikro yapı ve öğütülebilirlik ilişkilerinden yola çıkılarak klinker mikro yapısının farklı öğütme sürelerinde çimento performansına etkisi araştırılmıştır. Çalışma süresince mümkün olduğu kadar klinker üretim sıcaklığı, soğutma hızı ve diğer proses şartları eşit tutulmaya çalışılmıştır. Çalışmada klinkerin öğütülebilirliğini daha iyi kavramak ve mineral fazlarını optimize etmek için Bogue formülü, optik mikroskop vb. endüstriyel ve deneysel yöntemler kullanılmıştır. Klinkerin öğütme işlemleri için önemli miktarda enerji gerektiğinden, klinker mikro yapısının tanınması ve optimum öğütme süresi ve çimento performansı için gerekli sürenin belirlenmesi ile öğütme verimliliğinin ve çimento dayanımlarını arttırılması ve böylece enerji tüketiminin azaltılması amaçlanmıştır. Klinker fazlarının çimento dayanımlarında doğrudan etkili olduğu görülmüştür. Özellikle Yüksek C3S’lerin çimento inceliklerini arttırdığı ve çimento inceliklerinin de çimento performanslarını arttırarak dayanımı yükselttiği sonucuna varılmıştır.
+Yazar isimleri: ['Abdul Vahap KORKMAZ']
+Yayın Yılı: 30 Haziran 2021
+Dergi ismi: Mühendislik ve Yer Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mybd/issue/64195/1015674
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2050329

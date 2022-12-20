@@ -1,0 +1,7 @@
+Makale Başlığı: A study on the comparison of kinetic energies calculated with some formulas using Fulljet nozzle
+Özet: Objective: The objective of this study was to compare kinetic energies calculated by different formulas with Rose’s (reference) formula, using Fulljet type nozzle (½ HH-50 WSQ) at different pressures.Material and Methods: A platform in the dimension of 1x1 m was used to place 17 cups (250 cm3) and inclined at a slope of 9%. Then, artificial rainfalls (at pressures of 30, 40, 50, 60 and 70 kPa) was applied with a ½ HH-50 WSQ nozzle for 5 minutes and each experiment was triplicated. Drop diameter, rainfall intensities, terminal velocities were determined and kinetic energies were calculated with different equations.Results: In this study, it was found that rain intensities varied between 85- and 109 mm h-1, Christiansen coefficients (CU) (%) were 83-87 %, drop diameter (D50) were 1.77-2.05 mm, and terminal velocities were 6.08-6.67 m s-1. Average kinetic energies were also calculated between 9.94-46.59 J m-2 mm-1, respectively.Conclusions:  The results obtained from this study (±5 %) were found to be in good agreement with the Rose (1960) formula and some kinetic energy formulas.
+Yazar isimleri: ['Gokcen YONTER', 'Houndonougbo Marius HOUNDONOUGBO']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Ege Üniversitesi Ziraat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/zfdergi/issue/72734/950402
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1816539

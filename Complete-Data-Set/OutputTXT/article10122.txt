@@ -1,0 +1,7 @@
+Makale Başlığı: Mikroekstraksiyon Yöntemi ile Su Numunelerinde Paladyumun Spektrofotometrik Tayini
+Özet: Bu çalışmada, Pd2+ iyonlarının iyodür (I-) ile PdI42- kompleksi oluşturarak, heksadesiltrimetilamonyum bromür (CTAB) yardımıyla kloroform fazına taşındığı ve spektrofotometre ile tayin edildiği bir mikroekstraksiyon yöntemi geliştirilmiştir. Ekstraksiyon verimliliğini etkileyen, pH, heksadesiltrimetilamonyum bromür konsantrasyonu, potasyum iyodür konsantrasyonu, kloroform hacmi ve yabancı iyon etkisi gibi deneysel parametreler optimize edilmiştir. Optimize edilen şartlarda paladyum için tayin sınırı 19 µg L-1, bağıl standart sapma %2,1 ve zenginleştirme faktörü ise 10 olarak bulunmuştur. Geliştirilen metodun doğruluğu, gerçek numunelere ekleme/geri kazanım testleriyle belirlenmiştir. Bu metot %94-106 geri kazanım değerleriyle, dere ve deniz suyu numunelerinde paladyum ekstraksiyonu ve tayini için başarıyla uygulanmıştır.
+Yazar isimleri: ['Zekeriyya BAHADIR']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1039969
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2145782

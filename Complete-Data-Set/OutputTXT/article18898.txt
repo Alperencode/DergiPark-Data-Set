@@ -1,0 +1,7 @@
+Makale Başlığı: Analysıs of Central Government Budget Expendıtures Wıthselforganızıng Maps
+Özet: Central government budget expenditures, which are very important for parliamentary systems, are respectively in Turkey; It goes through the stages of preparation, approval, implementation and control. Stability is essential for these public expenditures, which will take place in the following fiscal year. Otherwise, budget deficit occurs as a result of public expenditures being more than public revenues. Central government budget expenditures are divided into two as economic and functional classification. The parameters included in the economic and functional classification are presented as the sum of the expenses under them. The aim of this study is to examine the cluster analysis results of Central government budget expenditures per capita in Turkey with Self-Organizing Maps, which is an artificial neural network model and also a clustering analysis method.
+Yazar isimleri: ['Ahmet DÜNDAR', 'Erkan OKTAY']
+Yayın Yılı: 5 Ekim 2022
+Dergi ismi: EKEV Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosekev/issue/72929/1125584
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2464706

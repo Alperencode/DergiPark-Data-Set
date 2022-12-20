@@ -1,0 +1,7 @@
+Makale Başlığı: Stock Price Prediction Using Long-Short-Term Memory Network
+Özet: One of the most important transactions of the financial system is stock trading. Stock price data is handle as a financial time series. Stock price predictions using time series analysis are the activity of determining the future value of stocks listed on the stock market. Predicting the price of the stock correctly reduces the risk factor in the decisions to be taken by the investors. Therefore, it is an important issue for the investor. However, because there are many variables that affect the stock price, it is a very complex process to predict. Machine learning methods, especially deep learning algorithms, are frequently used in prediction in the field of finance, as in many other fields. In this study, stock price prediction was made using Long-Short-Term Memory networks, which is one of the deep learning methods. Four stocks within the scope of Borsa İstanbul Technology Index were determined and a 2578-day data set was created between 2012 and 2022, and training and testing was carried out with the established model. As a result of the test process, consistent and realistic predictions were obtained.
+Yazar isimleri: ['Mahmut TOKMAK']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makuubd/issue/72757/1164099
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2604648

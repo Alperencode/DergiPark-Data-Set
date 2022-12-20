@@ -1,0 +1,7 @@
+Makale Başlığı: Discontinuity Controlled Deformation Estimation in small Diameter Tunnels
+Özet: In tunnel construction, tunnel projects are carried out by evaluating the soil and rock profiles obtained from the exploration drillings along the route, groundwater status, and structural elements. In practice, there may sometimes be differences between the geological sections foreseen according to the exploration drillings and the structural elements encountered during tunnel construction. In this study were modeled for the T35-GT1 tunnel by Phases 2D program. For the Ankara-Istanbul High-Speed Train Project, the deformation amounts predicted by numerical analysis and encountered during the T35-GT1 tunnel manufacturing, opened by the conventional method were compared. At the end of the study, it was concluded that when the discontinuity properties are included in the calculation, the deformations realized and the deformations obtained in numerical analysis give values very close to each other.
+Yazar isimleri: ['Nazile URAL', 'Guncelleyiniz GUNCELLEYİNİZ', 'Evren POŞLUK']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/1013656
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2042070

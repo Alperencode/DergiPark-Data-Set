@@ -1,0 +1,7 @@
+Makale Başlığı: Tekdüzen Kaynak Bulucu Yoluyla Kimlik Avı Tespiti için Makine Öğrenmesi Algoritmalarının Özellik Tabanlı Performans Karşılaştırması
+Özet: Günümüzde kimlik avı (oltalama/phishing) saldırılarına çok sık rastlanmaktadır. Bu tür saldırılar insanların kişisel bilgilerini ele geçirmek ya da insanları dolandırmak amacıyla gerçekleştirilmektedir. Kimlik avı saldırılarının birden fazla türü bulunmaktadır. Bu türlerden birisi de tekdüzen kaynak bulucu (uniform resource locater – URL) yoluyla gerçekleştirilen ve yaygın olarak rastlanılan saldırılardır. Bu çalışmanın amacı, URL adreslerinin farklı makine öğrenmesi algoritmaları kullanarak zararlı olup olmadığını sınıflandırmaktır. Çalışmada destek vektör makineleri, rastgele orman, Gauss Naive Bayes, lojistik regresyon, k-en yakın komşu, karar ağaçları, çok katmanlı algılayıcılar ve XGBoost algoritmaları olmak üzere sekiz farklı makine öğrenmesi algoritması kullanılmıştır. Eğitim ve test amaçlı kullanılmak üzere USOM, Alexa ve Phishtank üzerinden veriler elde edilmiştir. Bu verilere çeşitli veri ön-işleme adımları uygulanarak özellik çıkarımı gerçekleştirilmiştir. Araştırma sonucunda birden fazla modelde %99.8 doğruluk oranına ulaşılarak, makine öğrenmesi algoritmalarının bu alandaki başarımı kanıtlanmıştır.
+Yazar isimleri: ['Taki SAVAŞ', 'Serkan SAVAŞ']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/1035286
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2126692

@@ -1,0 +1,7 @@
+Makale Başlığı: Shielding Effect of Aluminum Against Cs-137 Source, According to Gamma Ray Transmission Technique
+Özet: In this study the shielding effect of the Aluminum element against radiation is referred  to by using the gamma ray transmission technique. Selected gamma-ray source Cesium is monoenergytic and not necessary the activity correction due to its half-life. Absorption caused by aluminum leads to a reduction in the radiation dose exposed. In the literature, there are many studies on this technique using different materials. Our experiments were carried out with aluminum samples of different thicknesses. Density values are calculated through counts obtained using the Scintillation detector is used in order to get intensity values via counts. By increasing the thickness of the sample from a minimum of 0.49 cm to a maximum of 2.29 cm, the [I/Io] ratio is respectively; 0.8995; 0.8134; 0.7170 and 0.6413 calculated. The curve of variation of the ratio [I/Io] for different thicknesses is given in the graph. R2 value was obtained as 0.9960. The linear absorption effect is accurately observed. Another issue is; in industrial applications, using these intensity ratios; material thickness measurements can be made easily.
+Yazar isimleri: ['Muttalip Ergun TURGAY', 'Nursel SEZGİN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of Engineering Technology and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jetas/issue/72234/1027422
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2095762

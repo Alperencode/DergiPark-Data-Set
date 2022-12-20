@@ -1,0 +1,7 @@
+Makale Başlığı: Donma-çözülme etkisi altındaki killi zeminlerin gerilme-deformasyon ilişkilerinin Duncan-Chang modeli ile deneysel karşılaştırması
+Özet: Bu çalışmada, killi bir zemine ait gerilme-deformasyon ilişkileri Duncan-Chang modeli ile tahmin edilmiş olup, model parametreleri ve donma-çözülme çevrimleri arasındaki matematiksel ilişkiler açıklanmıştır. Deneysel ve matematiksel model sonuçları arasındaki korelasyonlar incelenerek, modelin donma-çözülme altındaki killi zeminin gerilme-deformasyon ilişkilerini ne ölçüde tahmin edebildiği belirlenmiştir. Sonuç olarak, farklı eğri uydurma fonksiyonları kullanılarak donma-çözülme döngü sayıları ve Duncan-Chang model parametreleri arasındaki ilişki ortaya konulmuştur. Grey korelasyon analizi, donma-çözülme etkisinin model parametrelerinin üzerindeki değişiminin göz ardı edilemeyeceğini göstermiştir. Duncan-Chang modelinin tanjant deformasyon modülünde bulunan model parametreleri oluşturularak, gerilme-deformasyon eğrilerinin donma-çözülme döngüleri altındaki değişimi konsolidasyonsuz- drenajsız zeminler için yüksek korelasyonlarla elde edilmiştir.
+Yazar isimleri: ['Veysel ÖZLÜ', 'Müge Elif ORAKOĞLU FIRAT']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1131247
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2488573

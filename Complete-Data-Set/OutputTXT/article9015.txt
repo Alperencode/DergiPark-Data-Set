@@ -1,0 +1,7 @@
+Makale Başlığı: Behavioral Tests Used in the Evaluation of Learning and Memory in Experimental Animals
+Özet: Learning and memory regulate the necessary mental processes such as evaluating stimuli from the environment and developing appropriate behaviors. People consciously or unconsciously resort to memory functions in every process they perform. Experiences that emerge through interaction with the environment lead to changes and shaping of behaviors. Thus, learning of different behavioral phenomena takes place. Memory ensures that this learned behavioral information is stored and used when necessary. The central nervous system is capable of storing and processing information in mammals.Research on learning and memory in humans is limited due to ethical rules. Therefore, different experimental tests evaluating learning and memory states in rodents have been designed to find effective treatment strategies. The aim of this review is to provide information about the most commonly used learning and memory tests in experimental animals.
+Yazar isimleri: ['Bahar DALKİRAN', 'Burcu AÇIKGÖZ']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Journal of Basic and Clinical Health Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jbachs/issue/72779/1017172
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2056092

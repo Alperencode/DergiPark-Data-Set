@@ -1,0 +1,7 @@
+Makale Başlığı: İnovasyonun İhracat Üzerindeki Etkisi: Bir Panel Veri Analizi
+Özet: Amaç: Çalışmanın amacı, inovasyonun ülkelerin ihracat performansı üzerine etkisini, inovasyon belirleyicileri üzerindenaraştırmaktır.Yöntem: Türkiye ve AB-27 ülkesinin 2013-2019 dönemine ait yıllık dengeli panel verileri Beck-Katz (1995) tarafındanönerilen Panel Düzeltilmiş Standart Hataları (PCSE- Panel Corrected Standard Errors) yöntemi ile analiz edilmiştir.Bulgular: Analizden elde edilen sonuçlara göre inovasyon, Türkiye ve AB-27 ülkesinin ihracatını pozitif ve anlamlı birşekilde etkilemektedir.Sonuç ve Öneriler: İnovasyon ekosistemini geliştirecek girdilere yatırım yapılması yanında, çıktılarına yönelik destekmekanizmalarının artırılması, gerek işletmeler düzeyinde gerekse toplamda ülke ihracat performansının artmasına katkısağlayacaktır. Gelecekte yapılacak çalışmalarda daha geniş bir dönem aralığı, farklı belirleyiciler ve farklı ülke gruplarıüzerine çalışma yapılabilir.Özgün Değer: Çalışma, inovasyon ve ihracat performansı arasındaki ilişkiyi makro düzeyde ele alması, en güncel verileredayanması ve inovasyonun farklı belirleyicilerini dikkate alması açısından literatüre katkı sunmaktadır.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2021
+Dergi ismi: Girişimcilik ve İnovasyon Yönetimi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jeim/issue/67920/1053414
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2174811

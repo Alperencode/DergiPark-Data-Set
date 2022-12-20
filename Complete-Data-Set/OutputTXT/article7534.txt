@@ -1,0 +1,7 @@
+Makale Başlığı: A Finite Element Solution for Bending Analysis of a Nanoframe using Modified Couple Stress Theory
+Özet: In this work, a finite element formulation for a size dependent frame system is presented. Size dependency is discussed via the modified couple stress theory. The nodal displacement and rotation analyses of a frame system with total of three elements, including two columns and one beam element connecting these two columns, are considered. The classical stiffness and size dependent stiffness matrices of frame system are derived. Then, solution procedure for this problem is explained. Lastly, a numerical application is realized and effect of material length scale parameter on nodal displacements and rotations is discussed. To present the numerical application, it is assumed that the elements of the nanoframe are composed of silicon carbide nanotubes.
+Yazar isimleri: ['Büşra UZUN', 'Mustafa Özgür YAYLI']
+Yayın Yılı: 2 Eylül 2022
+Dergi ismi: International Journal of Engineering and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeas/issue/72474/1064690
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2219299

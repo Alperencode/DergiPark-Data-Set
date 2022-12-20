@@ -1,0 +1,7 @@
+Makale Başlığı: An overview to analyticity of dual functions
+Özet: In this paper, the analyticity conditions of dual functions are clearly examined and the properties of the concept derivative are given in detail. Then, using the dual order relation, the dual analytic regions of dual analytic functions are constructed such that a collection of these regions forms a basis on $D^n$. Finally, the equivalent of the inverse function theorem in dual space is given by a theorem and proved.
+Yazar isimleri: ['Olgun DURMAZ', 'Buşra AKTAŞ', 'Osman KEÇİLİOĞLU']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/1035344
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2126976

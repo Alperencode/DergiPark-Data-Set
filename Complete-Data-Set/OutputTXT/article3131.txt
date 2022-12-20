@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of the Effectiveness of First Trimester Nucal Translucence, Free Beta-Human Chorionic Gonadotropin, and Pregnancy-Related Plasma Protein-A in Prediction of Pregnancy Complications
+Özet: In this study, we aimed to investigate whether there was an association between fetal nuchal translucency (NT) and the serum markers plasma protein-A (PAPP-A) and free beta-human chorionic gonadotropin (β-hCG) measured by the first-trimester screening test, as well as birth weight and hypertension. 454 pregnant women who had undergone the first-trimester screening test for Down syndrome were included in the study. All measurements and values of NT, PAPP-A and β-hCG levels were performed between gestational weeks 11-14. Values of PAPP-A and β-hCG converted to multiples of the corrected median (MoM) were obtained using the PRISCA software package. Regarding the prediction of SGA infants, when the PAPP-A value < was 0.99MoM as a threshold, and when the free β-hCG value < was 0.69 MoM, SGA cases could be detected with a sensitivity of 83% and a specificity of 71.9%. Regarding the prediction of hypertension, at a threshold PAPP-A value of 
+Yazar isimleri: ['Kamuran SUMAN', 'Zafer BÜTÜN', 'Musa BÜYÜK', 'Murat SUMAN']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Black Sea Journal of Health Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bshealthscience/issue/68048/1089239
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2315426

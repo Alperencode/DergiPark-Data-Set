@@ -1,0 +1,7 @@
+Makale Başlığı: Neutronic Performance Calculations by Using Suitable Molten Salt in Advanced Fusion Reactor to Produce Electric Energy
+Özet: In this study,ARIES-RS fussion type reactor has been designed by using  (MCNPX) code. The ARIES-RS study is investigating the use of free flowing liquid surfaces to form the inner surface of the chamber around a fusion plasma. Liquid wall concept has these important advantages compared to the traditional solid wall concept; with its feature of renewable wall it provides possibility for high power density. MHD equations consist of macroscopic transport equations and magnetic induction equation. Turbulent models based on NSM equations are suitable for two types of liquids, working fluid, molten salts operations are required. In this study, MHD balance is discussed in terms of radiation heat transfer conditions, current driving and nuclear performance. ARIES-RS reactor is essentially designed as ferritic steel and V - 4Cr - 4Ti alloy, self-cooled mild steel as the building material.
+Yazar isimleri: ['Rezvan REZAEİZADEH', 'Yosef G. Ali MADEE', 'Aybaba HANÇERLİOĞULLARI']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Inspiring Technologies and Innovations
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/inotech/issue/70702/1108787
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2396130

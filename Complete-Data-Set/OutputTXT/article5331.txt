@@ -1,0 +1,7 @@
+Makale Başlığı: SIDELOBE REDUCTION OF LINEAR ANTENNA ARRAY BY POSITION-ONLY CONTROL USING NOVEL METAHEURISTIC OPTIMIZATION METHODS
+Özet: In this study, the positions only of linear antenna array (LAA) elements are optimized for the first time in the literature by using Honey Badger Algorithm (HBA) and Chameleon Swarm Algorithm (CSA) methods, one of the new metaheuristic algorithms, for antenna design with the desired radiation pattern. LAAs with 10, 12, 24 and 32 elements are considered in the simulations. While designing the antenna, the half-beam power width (HPBW) of the antenna array is kept at a minimum level and the maximum sidelobe level (MSL) is suppressed as much as possible. In addition, to test the performance and accuracy of the HBA and CSA methods, the results obtained with the swarm-based metaheuristic algorithms Artificial Bee Colony (ABC) and Particular Swarm Algorithm (PSO) methods, which are quite well known in the literature are compared. As a result of these comparisons, the antenna design with high directivity, gain and desired pattern has been successfully obtained with the HBA and CSA optimization methods.
+Yazar isimleri: ['Ali DURMUŞ']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Mühendislik ve Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogummf/issue/72210/1012709
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2038310

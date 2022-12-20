@@ -1,0 +1,7 @@
+Makale Başlığı: Entropi Temelli TOPSIS ve BORDA Sayım Yöntemleri ile Gıda İşletmelerinin Performanslarının Değerlendirilmesi
+Özet: İşletmelerin sektör içindeki finansal performans sıralamasının belirlenmesi hem işletme yöneticileri hem de yatırımcıların alacakları kararlar açısından önemlidir. Bu çalışmanın amacı, Entropi Temelli TOPSIS ve BORDA Sayım yöntemlerini kullanarak Borsa İstanbul’da işlem gören Gıda İşletmelerinin finansal performanslarını analiz etmektir. Entropi yöntemi ile elde edilen ağırlıklar TOPSIS yöntemine aktarılarak yıllık bazda gıda işletmelerinin finansal performans sıralaması yapılmıştır. TOPSIS yöntemi sonuçlarına göre Ülker Bisküvi işletmesi 2015, 2016, 2017 ve 2018 yıllarında en yüksek finansal performansa sahip iken 2019 yılında Ekiz Kimya Sanayi işletmesi, 2020 yılında Altınyağ işletmesi en yüksek finansal performansa sahiptir. TOPSIS yöntem sıralamaları ile birlikte Borda skorları elde edilerek tek bir bütünleşik sıralama hesaplanmıştır. Elde edilen sıralamada 2015-2020 dönemi için en yüksek finansal performansa sahip olan işletme ÜLKER Bisküvi işletmesi olarak belirlenmiştir.
+Yazar isimleri: ['Büşra MEŞE', 'Letife ÖZDEMİR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1107765
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2391761

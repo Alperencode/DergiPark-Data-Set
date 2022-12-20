@@ -1,0 +1,7 @@
+Makale Başlığı: Priz Hızlandırıcı Katkılı Betonun Mekanik ve Dayanıklılık Özelliklerinin Taguchi Optimizasyonu
+Özet: Prefabrike elemanların montajı sırasında zamandan tasarruf etmek çok önemlidir. Islak bağlantı türlerinde betonun priz alma süresi zamandan tasarruf edilmesini engellemektedir. Betonun priz süresini kısaltmak için literatürde birçok çalışma vardır. Özellikle son yıllarda korozyona neden olmadan beton priz süresini kısaltmak için geliştirilmiş priz hızlandırıcılar bulunmaktadır. Ancak priz hızlandırıcıların işlenebilirlik gibi taze beton özellikleri üzerindeki olumsuz etkisi, kullanımını zorlaştırmaktadır.  Bu çalışmada, priz hızlandırıcı kullanılarak başlangıç dayanımı ve işlenebilirliği yüksek bir beton karışımı amaçlanmıştır. Bununla birlikte, kullanılacak priz hızlandırıcı oranını belirlemek için çok fazla karışım ortaya çıkmaktadır. Bu nedenle, Taguchi optimizasyonu ile karışım sayıları azaltılmıştır.  Taguchi optimizasyonundan elde edilen karışım tasarımlarına gerekli testler yapılarak optimum karışım elde edilmiştir.
+Yazar isimleri: ['Mustafa Tolga ÇÖĞÜRCÜ', 'Mehmet UZUN']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/857525
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1499691

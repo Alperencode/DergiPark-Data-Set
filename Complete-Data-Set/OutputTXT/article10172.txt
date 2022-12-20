@@ -1,0 +1,7 @@
+Makale Başlığı: MICROECONOMICS ANALYSIS OF INTERNET USAGE IN TURKEY
+Özet: This study investigates demographic and socio-economic characteristics that determine information and communication technology usage for Turkey. For this purpose, the binary logit model was estimated using the survey on information and communication technology usage in households for 2019. The findings of this study show that the most critical factors affecting the probability of internet usage are household income, household size, age, gender, educational attainment, geographic location and occupational status. According to the findings, the higher education levels the higher probability of internet usage. The rise in household income and the number of information equipment owned by the household increases the probability of internet usage.
+Yazar isimleri: ['Zehra ABDİOĞLU', 'Berat HARMAN']
+Yayın Yılı: 22 Haziran 2022
+Dergi ismi: Karadeniz Teknik Üniversitesi Sosyal Bilimler Enstitüsü Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sbed/issue/70445/1053153
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2173785

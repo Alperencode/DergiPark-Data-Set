@@ -1,0 +1,7 @@
+Makale Başlığı: Üniversite Öğrencilerinin İnternet Bağımlılığı ile Psikolojik İyi Oluş Düzeyleri Arasındaki İlişkinin İncelenmesi
+Özet: Hayatın hemen hemen her aşamasında yararlanılan internetin aşırı kullanımıyla ilişkili olan internet bağımlılığı, bireyi toplumdan soyutlamaktadır. Aynı zamanda internetin bu aşırı kullanımı yalnızlaşan ve pasifleşen bireyler meydana getirerek, kişilerin günlük yaşantısında olumsuzluklara neden olmaktadır. Bu çerçevede araştırmanın temel amacı internet bağımlılığı ve psikolojik iyi oluş ilişkisinin ne yönde olduğunun açığa çıkarılmasıdır. Alt amacı ise sosyodemografik değişkenlere göre internet bağımlılığı ile psikolojik iyi oluş arasında anlamlı bir farklılık olup olmadığını tespit etmektir. Araştırma 2021-2022 eğitim öğretim yılı güz döneminde Süleyman Demirel Üniversitesi'nde eğitim görmekte olan, 242'si kadın ve 152'si erkek olmak üzere 394 öğrenci üzerinde gerçekleştirilmiştir. Araştırmada elde edilen veriler SPSS 22.0 programı kullanılarak analiz edilmiştir. Verilerin analizinde açımlayıcı faktör analizi, bağımsız örneklem t testi, Anova testi ve korelasyon analizi kullanılmıştır. Araştırma bulguları sonucunda internet bağımlılığı ve psikolojik iyi oluş arasında negatif yönlü bir ilişkinin olduğu saptanmıştır.
+Yazar isimleri: ['Pınar GÖKTAŞ', 'Funda ÖZTÜRK']
+Yayın Yılı: 20 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Vizyoner Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/vizyoner/issue/73443/1070004
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2240003

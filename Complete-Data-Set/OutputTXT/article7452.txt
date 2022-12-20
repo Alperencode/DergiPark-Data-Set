@@ -1,0 +1,7 @@
+Makale Başlığı: Automatic soil ph level detection using extreme learning machine via image processing
+Özet: The pH values in the soil, that is, the acid or basic structure of the soil, affects the amounts of nutrients that the plant receives from the soil. For the plant to take the main nutrients in the soil and grow is only possible at suitable pH values. In this paper a novel soil pH level detection method based on optical imaging is proposed. As the level detection algorithm an Extreme Learning Machine (ELM) is used. In the constructed model while the RGB values of the true color soil images and pH index are used as the inputs of ELM the pH level of soil images are used as the output of ELM. In the experimental studies fifty soil sample images obtained from the literature are used. And a significantly high pH level detection performance of 97.5 % is obtained. This result reveals that the proposed method is a significantly important method to determine the pH levels of soil samples and could be a strong alternative to the traditional methods.
+Yazar isimleri: ['Kutalmış TURHAL', 'Ümit Çiğdem TURHAL']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: International Journal of Chemistry and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijct/issue/69466/1107128
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2389162

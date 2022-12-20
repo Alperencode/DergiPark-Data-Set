@@ -1,0 +1,7 @@
+Makale Başlığı: Clay-Biomass Composite: An Ecofriendly Hybrid Adsorbent for Effective Removal of Ni (II)
+Özet: In this study, natural clay mineral: Capsicum annuum (C. annuum) L. seeds based composite adsorbent (CCAC) was prepared. Adsorption performance of CCAC was evaluated in terms of Ni (II) removal and adsorption capacity. Experimental conditions were optimized by investigating the initial pH of the metal solution, CCAC amount, initial metal ion concentration, and contact time parameters. The optimum conditions for Ni (II) adsorption by CCAC were pH:7.0, CCAC amount:0.06 g, and contact time:20 min. The adsorption isotherms were also analyzed by well-known models. The Langmuir isotherm model predicted a maximum monolayer adsorption capacity of 126 mg g–1. Functional groups and surface morphology of CCAC were examined using FT-IR and SEM analysis, respectively. The findings indicated that the Ni (II) adsorption process was spontaneous and chemical in nature. Finally, all the results of this study revealed that CCAC, a simple to produce, cost-effective, and robust composite adsorbent, is an appropriate candidate for the treatment of waters polluted with nickel ions.
+Yazar isimleri: ['Fatih SAYIN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1061422
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2206430

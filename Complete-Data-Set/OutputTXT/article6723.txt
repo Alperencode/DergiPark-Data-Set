@@ -1,0 +1,7 @@
+Makale Başlığı: On basicity of exponential and trigonometric systems  in grand Lebesgue spaces
+Özet: Basis properties of exponential and trigonometric systems in grand Lebesgue spaces $ L_{p)} (-\pi,\pi) $  are studied. Based on a shift operator, we consider the subspace $G_{p)} (-\pi,\pi)$  of the space  $ L_{p)} (-\pi,\pi) $, where continuous functions are dense, and the boundedness of the singular operator in this subspace is proved. We establish the basicity of exponential system $ \{{e^{int}}\}_{n\in Z}$  for $G_{p)} (-\pi,\pi)$ and the basicity of trigonometric systems  $ \{{\sin{nt}}\}_{n\in N }$ and $ \{{\cos{nt}}\}_{n\in N_0}$  for $G_{p)} (0,\pi)$.
+Yazar isimleri: ['Yusuf ZEREN', 'Kader ŞİMŞİR ACAR']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1076849
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2266500

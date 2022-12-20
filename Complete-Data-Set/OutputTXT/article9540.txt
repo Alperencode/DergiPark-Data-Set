@@ -1,0 +1,7 @@
+Makale Başlığı: Some generalised extended incomplete beta functions and applications
+Özet: This paper introduces generalised incomplete beta functions defined by the generalised beta function. Firstly, we provide some of the generalised beta function's basic properties, such as integral representations, summation formulas, Mellin transform, and beta distribution. We then present several fundamental properties, such as integral representations, summation formulas, and recurrence relations with the help of the generalised incomplete beta functions.
+Yazar isimleri: ['Oğuz YAĞCI', 'Recep ŞAHİN', 'İ. Onur KIYMAZ', 'Ayşegül ÇETİNKAYA']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of New Results in Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnrs/issue/72419/1143905
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2538836

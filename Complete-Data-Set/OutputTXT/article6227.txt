@@ -1,0 +1,7 @@
+Makale Başlığı: Hisse Senedi Piyasaları Arasında Risk Durumunda Nedensellik İlişkisi
+Özet: Bu çalışmada, G-20 ülkelerinin hisse senedi piyasaları arasında aşırı risk durumlarında nedensellik ilişkisinin olası varlığının tespit edilmesi amaçlanmıştır. Bu amaçla 2 Ocak 1995-26 Mayıs 2022 tarihleri arasında günlük hisse senedi kapanış fiyatları kullanılarak, G-20 ülkelerinin hisse senedi piyasaları arasında aşırı risk durumlarının olası varlığı Hong vd., (2009) tarafından geliştirilen risk durumunda nedensellik testi ile araştırılmıştır. Nedensellik testi sonuçlarına göre, ABD, İtalya, Almanya, Fransa, Çin, Brezilya, Arjantin ve Hindistan hisse senedi piyasalarından Türkiye hisse senedi piyasasına doğru ve Türkiye hisse senedi piyasasından da Endonezya, Meksika ve Güney Afrika hisse senedi piyasalarına doğru tek yönlü; Japonya, Kanada, Avustralya, Kore ve Rusya hisse senedi piyasaları ile Türkiye hisse senedi piyasası arasında çift yönlü risk durumunda nedensellik ilişkisi olduğu tespit edilmiştir. Son olarak, İngiltere hisse senedi piyasası ile herhangi bir risk durumunda nedensellik ilişkisine rastlanılmamıştır.
+Yazar isimleri: ['Serhat SEZEN', 'Emrah İsmail ÇEVİK']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Gaziantep Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jss/issue/73087/1137227
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2512918

@@ -1,0 +1,7 @@
+Makale Başlığı: Fluorine Removal in Aqueous Solutions Using ZnO Doped Chitosan
+Özet: In this study, it was aimed to prepare and analyze an environmentally friendly adsorbent because fluoride in water is an important health threat affecting the whole world. ZnO doped chitosan adsorbent was produced for fluorine adsorption. The characterization of the adsorbent was done by FT-IR, SEM-EDX analysis. The effects of pH, initial concentration, amount of adsorbent on adsorption were investigated. Langmuir and Temkin isotherm models were studied and Langmuir was found to be the most compatible isotherm. The maximum adsorption amount was calculated as 3.67 mg/g according to Langmuir isotherm.
+Yazar isimleri: ['Mehmet Semih BİNGÖL']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1091815
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2326101

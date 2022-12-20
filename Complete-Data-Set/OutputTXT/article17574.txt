@@ -1,0 +1,7 @@
+Makale Başlığı: Thermoelectric Temperature Optimization: Design, Manufacturing and Control of Smart Tables
+Özet: Today, people's comfort is increasing thanks to systems or mechanisms to automatically adjust the temperature of the environment. Thermoelectric modules (peltier) elements, which solve all these problems, have been preferred to be used in heating and cooling systems due to many restrictive features of systems or mechanisms such as noisy operation, large footprint, limited lifetime, high probability of failure, and need for maintenance.In the study, the room temperature was automatically adjusted with the peltier, a thermoelectric module. Appropriate mechanical equipment has been selected for smart desk design. After the mechanical design was completed, the electronic circuit design was started and simulated in the Proteus program. Arduino Uno was used as microcontroller system and control software was prepared in Arduino IDE environment. By measuring the ambient and radiator temperature of two LM35 analog temperature sensors, the peltier temperature and fan speeds are adjusted with the microcontroller.
+Yazar isimleri: ['Murat Gürkan ERGÜN', 'Koray ÖZSOY']
+Yayın Yılı: 3 Ağustos 2022
+Dergi ismi: Yekarum
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yekarum/issue/71650/1139215
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2520241

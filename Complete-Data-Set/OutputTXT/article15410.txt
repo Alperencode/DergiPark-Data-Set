@@ -1,0 +1,7 @@
+Makale Başlığı: Fırat ve Dicle Nehirlerinde Yaşayan Carassius gibelio (Bloch, 1782) Türünün Aminoasit Profilinin Araştırılması
+Özet: Amaç: Bu çalışmada Fırat ve Dicle Nehir sistemlerinde yaşayan ve istilacı bir balık olan C. gibelio türünün besin olarak tüketilen kas dokusunun aminoasit profiline ait veriler elde edilmiştir. Materyal ve Yöntem: Analiz için kullanılan kas dokusu örnekleri, yöre balıkçıları tarafından ağ yardımıyla avlanan ve satılan balıklardan alınmıştır. Toplamda 29 birey olmak üzere her balıktan 100 mg/ml olacak şekilde alınan kas dokusundan aminoasit profili analizi LC-MS/MS 8045 cihazında yapılmış olup, Jasem LC-MS/MS aminoasit analiz kiti kullanılmıştır. Bu cihazın verdiği sonuçlardan elde edilen absorbans değerleri için sonuçlar analiz edilip değerlendirilmiştir. Bulgular: Fırat ve Dicle grubundaki 100 mg/ml oranında balık kaslarında tespit edilen en düşük, en yüksek değerler ve aminoasitler sırasıyla; Dicle grubu için 0,241 ile Carnosine, 668,176 ile Lizin; Fırat grubu için ise 0,445 ile 3_MHIS, 9192,287 ile Valin’dir. Sonuç: Bu çalışma sonucunda Fırat ve Dicle Nehir sistemlerinde yaşayan C. gibelio türünün aminoasit profili ortaya çıkarılarak protein diyeti için önemli bir veri seti elde edilmiştir.
+Yazar isimleri: ['Arif PARMAKSIZ', 'Necati ENEŞ', 'Kadir EĞİ', 'İsmail KOYUNCU']
+Yayın Yılı: 28 Şubat 2022
+Dergi ismi: Turkish Journal of Bioscience and Collections
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjbc/issue/68771/1013455
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2041375

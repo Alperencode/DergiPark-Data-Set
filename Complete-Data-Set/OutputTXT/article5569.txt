@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of an Oscillation Circuit with a Linear Time-invariant Inductor and a Capacitor Modelled with Conformal Fractional Order Derivative
+Özet: Fractional order circuit elements are being examined by researchers unremittingly. They are ever becoming more popular in the literature. The Conformable Fractional Derivative has been proposed and gained importance in the last decade. Examination of an LC tank circuit or an LC oscillator can be found in almost all undergrad physics books. There’s a considerable number of studies on fractional-order capacitor circuits but, to the best of our knowledge, examination of an oscillator made of a linear time-invariant inductor and a supercapacitor modeled with Conformable Fractional Derivative has not been found in literature. In this paper, a lossless oscillator circuit containing a linear time-invariant inductor and a supercapacitor modeled with Conformable Fractional Derivative is examined for the first time in the literature. Natural response of the circuit has been found analytically. Its behavior has been illustrated with simulations for different initial conditions.
+Yazar isimleri: ['Mendi ARAPİ', 'Reşat MUTLU']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: European Journal of Engineering and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejeas/issue/71559/1126234
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2467557

@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of the Relationship of Fatigue, Anxiety and Depression Levels in Individuals with the Precautions Taken in the COVID-19 Pandemic Process
+Özet: Objective: This study aims to evaluate the effects of the COVID-19 process and the measures taken on fatigue, anxiety and depression levels in individuals, and the factors that may cause this effect. Methods: The study is of cross-sectional type. A total of 281 participants who applied to the pandemic outpatient clinic were included in the study. Data collection form with 27 questions and Hospital Anxiety and Depression Scale (HADS) with 14 questions were used in the study. Relationships between data were evaluated with t-test and chi-square test in independent groups. The importance levels of the factors affecting the anxiety and depression scores were determined by the Chaid Analysis. Statistically, cases with p
+Yazar isimleri: ['Hasan KÜÇÜKKENDİRCİ', 'Mehtap YÜCEL', 'Yasemin DURDURAN']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Clinical and Experimental Health Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/clinexphealthsci/issue/72731/1011262
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2032604

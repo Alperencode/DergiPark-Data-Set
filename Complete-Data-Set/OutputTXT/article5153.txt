@@ -1,0 +1,7 @@
+Makale Başlığı: PETROL FİYATI ŞOKLARININ BİST100 GETİRİ ENDEKSİ ÜZERİNE KISA VE UZUN DÖNEM ASİMETRİK ETKİSİ: NARDL YAKLAŞIMINDAN KANITLAR
+Özet: Bu çalışma, Türkiye’de 2003 Ocak-2019 Ocak dönemi arasında Ready (2018) tarafından önerilen üç farklı petrol fiyatı şokunun (talep, arz ve risk) BIST100 getirisi üzerindeki doğrusal olmayan etkisini NARDL modeli yaklaşımı ile incelemektedir. Elde ettiğimiz sonuçlarda petrol fiyatı şoklarıyla BIST100 getirisi arasında doğrusal olmayan eşbütünleşme ilişkisinin varlığına ve petrol fiyatı şoklarındaki pozitif ve negatif değişmelerin kısa ve uzun dönemde önemli ölçüde değiştiği sonucuna rastlanmıştır. Pozitif ve negatif petrol talep şokları katsayıları sırasıyla, pozitif ve negatiftir ve pozitif petrol talep şokunun negatif petrol talep şokundan daha büyük ekonomik etkiye sahiptir. Bu sonuç global talep artışından hisse getirilerinin daha fazla etkilendiği anlamına gelmektedir. Toplam etkiler değerlendirildiğinde hem pozitif petrol arz şokunun hem de pozitif petrol talep risk şokunun incelenen dönemde hisse senedi getirilerinin azalmasında daha büyük etkiye sahip olduğu sonucuna ulaşılmıştır.
+Yazar isimleri: ['Halil ALTINTAŞ']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesiibd/issue/72291/1067906
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2231439

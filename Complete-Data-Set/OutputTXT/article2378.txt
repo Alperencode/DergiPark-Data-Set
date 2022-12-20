@@ -1,0 +1,7 @@
+Makale Başlığı: Keçi Sütüne Eklenen Farklı Süt Türlerinin Belirlenmesi İçin PCR Yöntemlerinin Karşılaştırılması
+Özet: Amaç: Bu çalışma, keçi sütüne karıştırılmış inek ve koyun sütünün tespiti için multipleks konvansiyonel PCR ve Real Time PCR yöntemlerinden hangisinin daha uygun olduğunun belirlenmesi amavıyla yapılmıştır. Gereç ve Yöntem: Bu amaçla Van ilindeki çiftliklerden keçi, inek ve koyun sütünden birer litre süt temin edilmiştir. Keçi sütüne aynı oranlarda inek sütü ve koyun sütü (%1, %2, %5, %0.1 ve %0.5) ilave edilerek PCR deneyleri yapılmıştır. Bu denemelerde mültipleks konvansiyonel ve  Real Time PCR  kullanıldı. Bulgular: İnek ve koyun sütü denemelerinde keçi sütüne ilave edilen %1, %2 ve %5 inek ve koyun sütünün varlığının multipleks konvansiyonel PCR yöntemi ile belirlenebileceği ortaya konmuştur. Ancak %0.5 oranında eklenen süt karışımlarının jel görüntüsünün pozitifliğinin belirsiz olduğu ve %0.1 oranındaki karışımların tespit edilemediği görülmüştür. Real Time PCR yönteminde ise tüm karışımlarda inek ve koyun sütü varlığı tespit edildi ve pozitif grafikler belirlendi. Sonuç: Bu sonuçlar, Real Time PCR yönteminin, ticari olarak satılan keçi sütü ile %0,1 inek veya koyun sütü karıştırıldığında bile daha güvenilir sonuçlar verdiğini gösterdi.
+Yazar isimleri: ['Rabia Mehtap TUNCAY', 'Yakup Can SANCAK']
+Yayın Yılı: 4 Ekim 2022
+Dergi ismi: Balıkesir Sağlık Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/balikesirsbd/issue/72912/1139179
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2520085

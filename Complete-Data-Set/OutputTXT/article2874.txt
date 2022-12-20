@@ -1,0 +1,7 @@
+Makale Başlığı: The 5th e-BEYAS Symposium will be held in Ankara between 10-11 October 2022
+Özet: e-BEYAS 2022 Symposium hosted by Ankara University, organized by Ankara University Information Management Systems Certification and Information Security Center (BİL-BEM), Ankara University Records Management and Archive System (BEYAS) Coordinator, Ankara University Information Processing Department and Information Management Journal. It will be held in Ankara between 10-11 October 2022 with the contribution and support of TÜRKSAT.
+Yazar isimleri: ['Burcu YILMAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilgi Yönetimi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/by/issue/69559/1137417
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2513575

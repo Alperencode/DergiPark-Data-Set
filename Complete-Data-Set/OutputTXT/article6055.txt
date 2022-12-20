@@ -1,0 +1,7 @@
+Makale Başlığı: A Comparative Analysis of the Ranking Functions for the IVIFVs and A New Score Function
+Özet: 
+Yazar isimleri: ['Melda KOKOÇ', 'Süleyman ERSÖZ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/841069
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1449546

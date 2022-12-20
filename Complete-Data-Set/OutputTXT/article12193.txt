@@ -1,0 +1,7 @@
+Makale Başlığı: Kenevirden İmal Edilen Geotekstilin Sıkıştırılmış Bazı Zeminlerin Dayanımı Üzerindeki Etkisi
+Özet: Bu çalışmada kenevirden elde edilen geotekstilin iyileştirilmiş zeminin mühendislik özellikleri üzerinde etkisinin olup olmayacağı araştırılmıştır. Çalışmada beş farklı zemin tipi (SC, SM, ML, MH ve CH) kullanılmıştır. Kenevir ip temin edilmiş ve örme yöntemiyle geotekstil elde edilmiştir. Önce zeminlerin sınıflandırma deneyleri, sonra sıkışma koşulları için Proctor deneyleri ve daha sonra dayanım deneyleri yapılmıştır. Donatısız, bir ve iki kenevir donatılı olarak sıkıştırılmış zemin örnekleri serbest basınç ve üç eksenli basınç deneyleriyle test edilmiştir. Örneklerin serbest basınç dayanımları, kohezyon ve içsel sürtünme açısı değerleri donatı durumuna göre karşılaştırmalı olarak incelenmiştir. Serbest ve üç eksenli basınç deneylerinden elde eldilen sonuçlar, kenevirden üretilmiş geotekstilin sıkıştırılmış zeminlerin dayanımını artırmak amacıyla kullanılabileceğini göstermektedir.
+Yazar isimleri: ['Ersin KOLAY', 'Yekta KARADUMAN']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1167983
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2620121

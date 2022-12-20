@@ -1,0 +1,7 @@
+Makale Başlığı: THE ROLE OF COGNITIVE BIAS IN THE EFFECT OF TECHNOSTRESS ON DIGITAL BURNOUT
+Özet: This study, it is aimed to determine whether cognitive biases have a role in the effect of technology-induced technostress on individuals' digital burnout. For the measurement of the technostress (TS) variable, Tarafdar et al. (2007), the Turkish version of the scale developed by Ilgaz, Özgür, and Çuhadar (2016) was used. The Digital Burnout Scale developed by Erten and Özdemir (2020) was used to measure the digital burnout (DT) variable. The data were obtained by convenience sampling method from academics who were expected to have a high level of technostress due to professional requirements. As a result of the correlation and regression analyzes, it was determined that individuals' technostress levels were effective in their digital burnout levels and that cognitive biases had a moderating effect between technostress and digital burnout.
+Yazar isimleri: ['Asena Gizem YİĞİT', 'Tuğçe TOPÇU', 'Hilal Tuğçe BAYAR']
+Yayın Yılı: 29 Kasım 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makuiibf/issue/73543/1034253
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2122253

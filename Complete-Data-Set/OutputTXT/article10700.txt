@@ -1,0 +1,7 @@
+Makale Başlığı: Extreme-Fixed Points of the Vandermonde Polynomial when Optimized over p-Normed Surfaces Defined by Univariate Polynomials
+Özet: The concept of the extreme-fixed point is coined from the facts of zeros of polynomials, extreme/optimal points on optimization of a given function and fixed points of a given continuous function. In this article, we establish the close relations between zeros, extreme, fixed points, and also what we define as extreme-fixed points. We illustrate this result with the Vandermonde polynomial (or determinant) when optimized over a given p-norm surface expressed by univariate polynomial(s). It is further, established that indeed the coordinates of the extreme-fixed points on such a surface like a p-sphere are given as roots of some classical orthogonal polynomials.
+Yazar isimleri: ['Asaph Keikara MUHUMUZA', 'Rebecca NALULE MUHUMUZA', 'Santosh KUMAR']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1151437
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2567156

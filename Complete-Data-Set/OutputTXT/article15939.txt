@@ -1,0 +1,7 @@
+Makale Başlığı: Apilarnilin Yağ Asidi Özelliklerinin Belirlenmesi
+Özet: Bu çalışmada, arıcılık sektöründe önemli bir yeri olan Bingöl ilinin Genç, Adaklı, Solhan, Merkez (metan) ve Merkez (meğmir) ilçelerinde tespit edilen farklı arılıklardan toplanan ham ve liyofilize apilarnil örneklerinin biyoaktif özellikleri belirlemek amacıyla yapılmıştır. Denemede GC-MS, HPLC teknikleri kullanılarak ham ve liyofilize apilarnil örneklerinin yağ asitleri ve türevleri incelenmiştir. Çalışma sonucunda doymuş yağ asitleri sonuçları; C14:0 (Miristik Asit) 2,61±0,11, C16:0 (Palmitik Asit) 42,60±0,56, C18:0 (Stearik Asit) 10,42±0,20 olarak bulunmuştur. Doymamış yağ asitlerinde ise sonuçlar; C16:1 (Palmitoleik Asit) 0,59±0,14, C18:1 (Oleik asit) 42,69±0,66, C18:3 (Alfa Linolenik asit) 1,06±0,16 olarak bulunmuştur. Elde edilen bulguların özellikle Bingöl ve Türkiye apilarnillinin standardizasyonun oluşturulmasına aynı zamanda apilarnilin biyoaktif özellikleri belirlenmesi ile ilgili yapılacak çalışmalara katkı sağlayacağı düşünülmektedir.
+Yazar isimleri: ['Sinan ERDEM', 'Hakan İNCİ']
+Yayın Yılı: 18 Ekim 2022
+Dergi ismi: Türk Tarım ve Doğa Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkjans/issue/73036/1111152
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2405926

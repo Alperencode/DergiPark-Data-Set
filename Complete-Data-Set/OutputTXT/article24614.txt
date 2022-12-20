@@ -1,0 +1,7 @@
+Makale Başlığı: EDAS/COAS Based Antenna Selection for Code Index Modulation Aided Spatial Modulation
+Özet: 
+Yazar isimleri: ['Erdoğan AYDIN']
+Yayın Yılı: 1 Temmuz 2019
+Dergi ismi: Electrica
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/electrica/issue/46870/568636
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/754662

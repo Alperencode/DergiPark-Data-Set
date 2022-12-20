@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 SÜRECİNDE EĞİTİM: UZAKTAN EĞİTİM YENİ “NORMAL” Mİ?
+Özet: Çin’de Aralık 2019 sonu görülen COVID-19 virüsü tüm dünyayı etkisi altında aldığından dolayı virüsle mücadele kapsamında ülkeler çeşitli kısıtlamalara gitmiştir. Bu süreçte, Türkiye’deki üniversiteler de 16 Mart 2020’de uzaktan eğitime başlamıştır. Akademisyenler ve öğrenciler içinde bu dönem farklı deneyimleri beraberinde getirmiştir. Bu çalışmada, Covid-19 nedeniyle zorunlu bir şekilde geçilen uzaktan eğitim sisteminin Türkiye’deki genel değerlendirilmesi literatür kapsamında ele alınmıştır. Ayrıca, Covid-19 ile beraber eğitimde paradigma kayması konusu üniversitelerin kullandıkları uzaktan eğitim platformları, öğretim elemanlarının dijital yeterlilikleri, öğrencilerin teknolojik araç gereç sahipliği ve içerik kalitesi boyutlarında tartışılarak önerilerde bulunulmuştur. Tamamen uzaktan eğitime geçiş yerine hibrit eğitim sisteminin gündeme alınması önerilmiştir.
+Yazar isimleri: ['Mustafa YURTSEVER', 'Çiğdem TARHAN', 'Vahap TECİM']
+Yayın Yılı: 29 Aralık 2021
+Dergi ismi: Yönetim Bilişim Sistemleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ybs/issue/67451/1026849
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2093560

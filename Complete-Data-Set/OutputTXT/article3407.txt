@@ -1,0 +1,7 @@
+Makale Başlığı: Approximation properties of the fractional q-integral of  Riemann-Liouville integral type Szasz-Mirakyan-Kantorovich operators
+Özet: In the present paper, we introduce the fractional q-integral of Riemann-Liouville integral type Szász-Mirakyan-Kantorovich operators. Korovkin-type approximation theorem is given and the order of convergence of these operators are obtained by using Lipschitz-type maximal functions, second order modulus of smoothness and Peetre's K-functional. Weighted approximation properties of these operators in terms of modulus of continuity have been investigated. Then, for these operators, we give a Voronovskaya-type theorem. Moreover, bivariate fractional q- integral Riemann-Liouville fractional integral type Szász-Mirakyan-Kantorovich operators are constructed. The last section is devoted to detailed graphical representation and error estimation results for these operators.
+Yazar isimleri: ['Mustafa KARA']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/1067635
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2230456

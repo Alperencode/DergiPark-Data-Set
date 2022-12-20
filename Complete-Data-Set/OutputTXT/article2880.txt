@@ -1,0 +1,7 @@
+Makale Başlığı: Adaptation to Online Education: An Educational Data Mining Application
+Özet: Despite space, time, and financial limitations, people who want to receive education participate intensively in online education programs that have emerged with the development of technology. With the Covid-19 outbreak, this interest has increased exponentially. In today's societies, where online education, which is preferred for different reasons, has become essential, examining the factors affecting success in online learning is a very important research topic. The study examined the level of adaptation to online education in terms of demographic variables. Experimental studies and necessary analyzes were carried out on the open-access ‘Students Adaptability Level in Online Education’ dataset. The results obtained using association rules, among the most widely used data mining techniques, have provided remarkable results regarding factors affecting success in distance education. It is thought that the study and the reported results will be a guide in creating education plans suitable for the demographic characteristics of the students enrolled in the online education program.
+Yazar isimleri: ['Cengiz HARK', 'Hatice OKUMUŞ', 'Taner UÇKAN']
+Yayın Yılı: 7 Aralık 2022
+Dergi ismi: Bilgisayar Bilimleri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bbd/issue/73741/1199055
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2749656

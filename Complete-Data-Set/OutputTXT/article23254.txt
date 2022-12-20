@@ -1,0 +1,7 @@
+Makale Başlığı: FİNANSAL GELİŞME İLE EKONOMİK BÜYÜME İLİŞKİSİ: KIRILGAN BEŞLİ ÜLKELERİ ÜZERİNE AMPİRİK BİR ANALİZ
+Özet: Ülkelerin makroekonomik performanslarının ölçülmesinde birçok gösterge kullanılmaktadır. Ekonomide üretilen tüm mal ve hizmetlerin toplam değerindeki reel artışı ifade eden ekonomik büyüme hükümetlerin öncü hedefleri arasındadır. Finansal gelişmenin ekonomik büyüme üzerinde olumlu etkilerini olduğunu belirten çalışmalara literatürde sıkça rastlamaktadır. Bu çalışmada kırılgan beşli olarak adlandırılan Brezilya, Hindistan, Güney Afrika, Endonezya ve Türkiye için 1990-2019 yıllarına ait verilerle finansal gelişme ile ekonomik büyüme arasındaki ilişkinin incelenmesinde dinamik panel veri analizinden yararlanılmıştır. Yatay kesit bağımlılığını ve heterojenliğini dikkate alan Westerlund (2006) panel eşbütünleşme testiyle serilerin eşbütünleşik olduğu sonucunun elde edilmesiyle Pesaran (2006) tarafından geliştirilen Common Corelated Effects (CCE) tahmincisinden yararlanılmıştır. Elde edilen bulgular panel genelinde, finansal gelişmenin ekonomik büyüme üzerinde istatistiki olarak anlamlı olduğunu göstermektedir. Finansal gelişmede meydana gelen %1’lik bir artış ise ekonomik büyümeyi %0.63 oranında azaltmaktadır. Ülkeler özelinde ise söz konusu katsayılarda farklılıklar görülmektedir.
+Yazar isimleri: ['Ferid ÖNDER']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Economics and Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jer/issue/72768/1158496
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2582268

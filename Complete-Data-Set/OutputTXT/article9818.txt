@@ -1,0 +1,7 @@
+Makale Başlığı: A TILING INTERPRETATION FOR (p,q)-FIBONACCI AND (p,q)-LUCAS NUMBERS
+Özet: 
+Yazar isimleri: ['Yasemin TAŞYURDU', 'Naime Şeyda TÜRKOĞLU']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Journal of Universal Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jum/issue/71609/1142805
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2534446

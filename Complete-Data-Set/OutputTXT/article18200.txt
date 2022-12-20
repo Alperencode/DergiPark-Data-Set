@@ -1,0 +1,7 @@
+Makale Başlığı: WEB TABANLI OYUNLAR ARACILIĞIYLA ÖĞRENCİLERİN KONUŞMA PROZODİLERİNİ GELİŞTİRMEYE YÖNELİK ATÖLYE ÇALIŞMALARI
+Özet: Bu çalışmada ortaokul beşinci sınıf öğrencilerinin konuşma prozodilerini web tabanlı oyunlar aracılığı ile geliştirmeye yönelik oyun atölye önerileri sunulmuştur. Çalışmada nitel yöntem kullanılmış ve veriler doküman incelemesi ile elde edilmiştir.  Çalışmada, 5. sınıf öğrencilerinin konuşma prozodilerini geliştirmek ve desteklemek amacıyla planlanan web 2.0 destekli etkinlik önerilerine yer verilmiştir. Etkinlikler beş tane çevrimiçi atölye şeklinde planlanmıştır. Atölyelerin planlama aşamasında, doküman analizi yöntemiyle bir şablon oluşturulmuş ve atölyeler bu şablona uygun şekilde kurgulanmıştır. Atölye çalışmalarının aşamaları uzman görüşüne başvurularak oluşturulmuştur. Planlanan web 2.0 destekli atölye çalışmalarının ilgili alanyazına katkıda bulunacağı ve çevrim içi ders alternatifleri için örnek oluşturacağı düşünülmektedir.
+Yazar isimleri: ['Yağmur PEHLİVAN COŞKUN', 'Perihan Tuğba ŞEKER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Avrasya Dil Eğitimi ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adea/issue/71036/1033875
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2120812

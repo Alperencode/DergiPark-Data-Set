@@ -1,0 +1,7 @@
+Makale Başlığı: Tarama IBC Protokolü ile Yenidoğan İşitme Tarama Sonuçları
+Özet: Amaç: Bu çalışmanın amacı Mardin’de ABR protokollü ulusal işitme tarama sonuçlarımızı sunmak ve literatürle karşılaştırmaktır.Materyal ve metod:Ocak 2021-Aralık 2021 tarihleri arasında 7134 yenidoğanda birinci ,ikinci ve üçüncü yenidoğan taramasını ABR ile taranarak gerçekleştirildi. Testte kalan ve risk nedeni ile kaydedilen yenidoğanlar klinik ABR ile test edilmek üzere referans merkeze sevk edildiler.Bulgular:7134 yenidoğanın 6179’u ilk test, 955’i test tekrarı olarak tarandı. 235 (%3.2) hasta referans merkeze sevk edildi. İlk testten kalma oranı % 13.3 olarak bulundu. % 0.5 testte kalma nedeni ile, %2.7’si risk nedeni ile sevk edildi. Klinik ABR’de anormal sonuç saptanan referans merkezi kayıtlarında 27 (%3.7) olarak saptandı. Rehabilitasyona ihtiyaç gösteren işitme kayıplı sayısı 16’sı(0.5%) dı.Conclusion: Yenidoğan işitme tarama programında konjenital işitme kaybı oranı, birinci ve ikinci test oranları literatürle uyumludur. Ancak, ABR tarama protokolü nedeni ile risk nedeni ile sevk sayısını artırdığından artmıştır.
+Yazar isimleri: ['Neslihan SARI', 'Nilay FİLOĞLU ERSÜ']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Pediatric Practice and Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/pprjournal/issue/72478/1148011
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2554403

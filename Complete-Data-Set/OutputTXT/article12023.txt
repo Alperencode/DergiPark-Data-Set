@@ -1,0 +1,7 @@
+Makale Başlığı: KAYNAK TÜKETİM MUHASEBESİNİN SAĞLIK İŞLETMELERİNDE UYGULANMASI
+Özet: Bu çalışmada, bir sağlık işletmesinde kaynak tüketim muhasebesi yönteminin uygulanabilirliğinin test edilmesi amaçlanmıştır. Bu amaç doğrultusunda analiz kapsamına alınan bir sağlık işletmesinde maliyetlerin nasıl oluştuğu, maliyet kaynakları ile sabit ve değişken maliyetlerin neler olduğu, hangi faaliyetlerin maliyet için ne kadar etkili olduğu ve bunların sonucunda kullanılmayan kapasitenin var olup olmadığının tespiti incelenmiş,  faaliyet tabanlı maliyet yöntemi ile kaynak tüketim muhasebesi yöntemi kullanılarak maliyet modelleri oluşturulmuştur. Daha sonra analiz sonuçları yöntemler bazında ve yöntemler arası karşılaştırmalı olarak incelenip yorumlanarak, kaynak tüketim muhasebesi yönteminde atıl kapasite ve atıl kapasite maliyetinin neden ve nerede oluştuğu belirtilmiştir. Bu yöntem ile tüketilmeyen kaynak maliyetinin hesaplanması ve amortisman hesaplamalarında yerine koyma maliyetinin kullanılması sonucu doğru ve güncel maliyete ulaşıldığı görülmüştür. Faaliyet tabanlı maliyet yönteminin eksik yanlarının önemli kısımları kaynak tüketim muhasebesi yöntemi ile tamamlanabildiği ortaya konulmuştur.
+Yazar isimleri: ['Ahmet ALATAŞ', 'Hüseyin AKTAŞ']
+Yayın Yılı: 24 Ekim 2022
+Dergi ismi: Muhasebe ve Finansman Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mufad/issue/73058/1129908
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2482920

@@ -1,0 +1,7 @@
+Makale Başlığı: Kural Tabanlı Sınıflandırma Algoritmalarının Karşılaştırılması
+Özet: Sınıflandırma, bir veri işleme yöntemi ve bir gruptaki öğeleri hedef sınıfa atayan bir veri madenciliği tekniğidir. Veri analizinde kullanılan yöntemleri uygulayarak verileri sınıflandırma, bir dizi girdi verisi için sınıflandırma modelleri oluşturmak için kullanılan bir prosedürdür. Sınıflandırma algoritmaları sinir ağı temelli algoritmalar, kural tabanlı algoritmalar ve istatistik tabanlı algoritmalar olmak üzere ayırılır.  Bu çalışma kural tabanlı sınıflandırma algoritmalarından FURIA, PART, Karar Ağaçları ve JRIP algoritmalarını karşılaştırmak ve analiz etmek üzere hazırlanmıştır. Bu algoritmalar kullanılarak WEKA platformunda Wine, Soybean, Labor, Sensör, Hipotiroid, Diabet, Kredi card, Messidor_futures veri setleri incelenmiştir. Belirtilen veri setleri ve algoritmalar sınıflandırılan örneklerin sayısı, yüzdesi, ortalama mutlak hata (MAE), kök ortalama kare hata (RMSE) özellikleri referans alınarak karşılaştırılmıştır. Bu karşılaştırmada en iyi algoritmanın bulanık mantık tabanlı algoritma olan FURIA algoritması olduğu görülmektedir.
+Yazar isimleri: ['Serpil SEVİMLİ DENİZ']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: Veri Bilimi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/veri/issue/67424/877713
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1567722

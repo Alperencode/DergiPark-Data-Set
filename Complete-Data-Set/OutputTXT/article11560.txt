@@ -1,0 +1,7 @@
+Makale Başlığı: EXAMINATION OF CONTAINER TERMINAL LAYOUT WITH METHOD STUDY
+Özet: Container terminals are complex facilities where many operations take place simultaneously. In order to carry out these operations efficiently, terminal layout plans should be designed according to the physical and characteristic features of the terminal. Layout plans can be reconstructed in cases where the existing terminal is expanded or in cases where it is required to increase the productivity of the terminal to manage the increasing container throughput. For strategic decisions and long-term planning, knowing how the layout design revisions would affect the terminal's operation and productivity is critical for terminal managers. One of the most effective methods for increasing productivity in enterprises is the work study. In this direction, to improve terminal productivity, the analysis of the terminal is carried out by using the method study, which is one of the work study techniques. Alternative layouts have been proposed for the terminal layout after a detailed analysis and critical evaluation of terminal movements.
+Yazar isimleri: ['Olgay OKŞAŞ', 'Gökhan KARA']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Mersin Üniversitesi Denizcilik ve Lojistik Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/denlojad/issue/70644/1120499
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2443944

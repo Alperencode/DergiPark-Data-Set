@@ -1,0 +1,7 @@
+Makale Başlığı: An MCDM approach to evaluating companies’ social media metrics based on user-generated content
+Özet: User-generated content (UGC) has become one of the main factors that impacts companies, from consumers’ purchase intentions to sales. This study proposes an MCDM approach to evaluate companies’ social media metrics based on UGC. UGC metrics were defined and calculated as ratios based on each tweet’s sentiment type (positive, negative, or neutral) and relevant metrics (tweet, retweet, favorite, and reach). Data was gathered from Twitter about six companies operating in cosmetics, marketplace, and electronics. MCDM techniques were conducted in the R programming language, namely CRITIC for obtaining criteria weights and ARAS and COPRAS for ranking the companies. The findings of this study contribute to improving the ranking of companies through UGC and extend the literature on the subject. MCDM techniques are recommended to be used effectively to evaluate companies’ social media metrics since this approach considers several attributes altogether. R codes for data analysis are also provided in the appendix.
+Yazar isimleri: ['Büşra AYAN', 'Seda ABACIOĞLU']
+Yayın Yılı: 9 Kasım 2022
+Dergi ismi: Business Economics and Management Research Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bemarej/issue/73285/1126781
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2469817

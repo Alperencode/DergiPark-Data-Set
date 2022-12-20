@@ -1,0 +1,7 @@
+Makale Başlığı: A New Formula for Calculation of Optimum Displacement and Its Effects
+Özet: In maritime transport, fuel consumption is one of the biggest costs. So, various methods are used to reduce fuel consumption. The most common of these methods is to reduce the cruise speed of the ship. However, decreasing the voyage speed causes an increase in ship time. Nevertheless, the cruise speed is not only parameter which effects the fuel consumption. Weather condition, weight of the ship and even hull cleansing can affect the consumption. In this study, the effect of speed reduction and the effect of weight reduction were analyzed. In addition, cost of this reductions and amount of CO2 emissions were compared.
+Yazar isimleri: ['Kadir MERSİN', 'Metin YILDIRIM']
+Yayın Yılı: 8 Eylül 2022
+Dergi ismi: International Journal of Environment and Geoinformatics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijegeo/issue/68801/972152
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1883432

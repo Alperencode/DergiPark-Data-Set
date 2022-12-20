@@ -1,0 +1,7 @@
+Makale Başlığı: Isolation of SARS CoV-2 and evaluation of human-animal cases
+Özet: Complete genome analyses of SARS CoV-2 isolated from three Turkish patients are compared with other complete genome sequences in the world. In this study, especially the sequence data from animals were also involved in the evaluation. When the genetic data collected from animal and human COVID-19 cases were analyzed, it was evaluated that some recent nucleotide changes in human cases were similar to those of some animal COVID-19 cases. It is recommended that nucleotide or protein changes in human cases in SARS CoV-2 be followed and compared with large-scale studies in animals.
+Yazar isimleri: ['Sabri HACİOGLU', 'Ahu PAKDEMİRLİ', 'Dilek DÜLGER', 'Erdem DANYER', 'Ümmü Sena SARI', 'Özcan YILDIRIM', 'Cevdet YARALI']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Etlik Veteriner Mikrobiyoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/evmd/issue/68243/1113134
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2413429

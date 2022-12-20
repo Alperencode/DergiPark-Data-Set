@@ -1,0 +1,7 @@
+Makale Başlığı: Does the Quality of Governance Affect Foreign Direct Investments? Evidence from Selected OECD Countries
+Özet: It is known that foreign direct investments have increased with globalization. Studies indicate that foreign direct investment contributes to the economic development of countries. It is stated that governance, which has gained popularity recently, is an important indicator taken into account by investors in directing foreign direct investment. This study investigates the impact of governance on foreign direct investment in 17 OECD countries between 2002 and 2019. FMOLS and DOLS estimators were used in the study, and as a result, it was determined that governance has a positive and significant effect on foreign direct investment flow in the long run.
+Yazar isimleri: ['Süleyman UĞURLU']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Yaşar Üniversitesi E-Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jyasar/issue/72247/1082263
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2287570

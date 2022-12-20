@@ -1,0 +1,7 @@
+Makale Başlığı: Tedarik Zinciri Rezilyansı Yönlendiricisi Olarak Tedarikçi Çeşitliliği
+Özet: Bu çalışma çeşitlilik kavramını alıcı-tedarikçi ilişkileri ve tedarik zinciri bağlamında değerlendirmek üzere bir girişimdir. Çeşitlilik insan kaynakları yönetiminde çok sayıda çalışmada incelendiği halde firmalar arası çok boyutlu ilişkiler bağlamındaki araştırmalar henüz sayıca fazla değildir. Firmalar arası stratejik ortaklıkların ön plana çıktığı günümüzde alıcı firmaların tedarikçi çeşitliliği yaklaşımlarının araştırılması önem kazanmaktadır. Çeşitliliğin alıcı ve tedarikçi taraflara iyileştirme, yeni pazarlar ve yenilikçi fikirler tarzında farklı olanaklar sunarak uyumcu ve yaratıcı öğrenmeye zemin hazırlaması rezilyans kavramını gündeme getirmektedir. Çeşitlilik kavramının önemi ve kurum düzeyinde getireceği yeni bakış açısı göz önüne alınarak, bu çalışmada alıcı ile tedarikçi arasındaki ilişki dinamikleri çeşitlilik ve rezilyans çerçevesinde incelenmektedir. Bu bağlamda, alıcı ve tedarikçi arasındaki çeşitlilik temelli ilişkilerin öğrenme üzerinden tedarik zinciri rezilyansını nasıl etkileyebileceğine dair kavramsal bir model sunulmaktadır.
+Yazar isimleri: ['Dilek YILMAZ BÖREKÇİ']
+Yayın Yılı: 14 Temmuz 2021
+Dergi ismi: Organizasyon ve Yönetim Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oybd/issue/64171/820128
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1376588

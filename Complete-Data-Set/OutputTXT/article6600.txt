@@ -1,0 +1,7 @@
+Makale Başlığı: Risk Yönetim Komitesi Özeliklerinin Firma Performansına Etkisi Üzerine BIST’te Bir Araştırma
+Özet: Firmaların kurumsal hedeflerine ulaşması ve başarılı bir finansal performans sergilemeleri kurumsal bir yönetim anlayışını gerektirmektedir. Kurumsal yönetim için Risk Yönetim Komitesi (RMC) oluşturulması ve firmaların risk yönetim ilkelerinin belirlenmesi, güçlü bir risk yönetimi için ilgili süreçlerin ve sistemlerin düzenlenerek izlenmesi önem taşır. Bu doğrultuda araştırmanın amacı, risk yönetim komitesi özelliklerinin firma performansına olan etkilerini belirlemektir. Bu amaçla, BIST100 endeksinde yer alan 48 firmadan oluşan bir örneklem için 2014-2021 yılları arası finansal verileri incelenmiştir. Araştırma sonucunda risk komitesi cinsiyet dağılımı ve risk yönetim komitesi bağımsız üye oranı ile finansal performans arasında anlamlı ve olumlu yönde bir etkinin olduğu belirlenmiştir. Araştırmada kullanılan diğer değişkenler; risk yönetim komitesinin büyüklüğü, risk komitesi kompozisyonu, risk yönetim komitesi toplantı sayısı ve risk yönetim komitesi rapor sayısı ile finansal performans arasında herhangi anlamlı bir ilişki belirlenmemiştir.
+Yazar isimleri: ['Cennet GÜRBÜZ', 'Eda KÖSE', 'İsmail BEKCİ']
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Gümüşhane Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumus/issue/73042/1102723
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2371278

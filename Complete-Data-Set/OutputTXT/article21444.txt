@@ -1,0 +1,7 @@
+Makale Başlığı: Abstract Korovkin-type theorems in the filter setting with respect to relative uniform convergence
+Özet: We prove a Korovkin-type approximation theorem using abstract relative uniform filter convergence of a net of functions with respect to another fixed filter, a particular case of which is that of all neighborhoods of a point, belonging to the domain of the involved functions. We give some examples, in which we show that our results are strict generalizations of the classical ones.
+Yazar isimleri: ['Sevda YILDIZ']
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783636
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

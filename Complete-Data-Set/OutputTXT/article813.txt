@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of bean common mosaic virus in mung bean (Vigna radiata L.) seeds by serological and molecular methods
+Özet: Objective: In this study, it has been aimed to determine the status of Bean common mosaic virus (BCMV) in mung bean seeds by serological and molecular methods. Materials and Methods: Totally 100 mung bean seed samples from provided Isparta University of Applied Sciences, Agriculture Faculty, Department of Field Crops were used as materials in the study. BCMV was detected in seed samples by Double Antibody Sandwich Enzyme Linked Immunosorbent Assay (DAS-ELISA) and Reverse Transcriptase Polymerase Chain Reaction (RT-PCR)  methods. Results: results showed that BCMV was determined as 9%. Infected 9 seed samples were used for RT-PCR studies. RT-PCR test showed that bands about 850 bp were amplified from samples using primers spesific for coat protein gene (CP) of BCMV and the band at the expected level was obtained in UV imaging. Conclusion: The results showed the presence of BCMV for first time in mung bean seeds in Turkey.
+Yazar isimleri: ['Handan ÇULAL KILIÇ', 'Ruziye KARAMAN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Akademik Ziraat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/azd/issue/71633/952259
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1823463

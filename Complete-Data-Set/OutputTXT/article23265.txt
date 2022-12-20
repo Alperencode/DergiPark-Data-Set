@@ -1,0 +1,7 @@
+Makale Başlığı: THE USE OF DIGITAL HEALTH SYSTEMS IN THE ELDERLY A LITERATURE STUDY
+Özet: Çağımızda dijital teknolojiler hızla gelişmektedir. Birçok alanda olduğu gibi yaşlı bireylerin sağlık alanında ihtiyaç duyduğu birçok konuda destek olabilmektedir. Dijital sağlık uygulamaları, yaşlı yetişkinlere tıbbi hizmetler sağlamak ve günlük yaşamlarını iyileştirmek için tasarlanmaktadır. Yaşlı bireylerin dijital sağlık sistemlerini kullanabilmeleri ve bunun daha da ötesinde kullanmalarının günümüz şartlarında ihtiyaç olduğu görülmektedir. Bu nedenle çalışmamızda yaşlı bireylerde dijital sağlık sistemleri kullanımı ile ilgili litaratür çalışması yapılarak yaşlıların sağlığı ve bakımı açısından dijital sağlık sistemlerinin önemi ve önde gelen dijital sağlık uygulamaları hakkında bir literatür derleme yapılmıştır. Bu çalışmanın sonucunda yaşlılıkta dijital sağlık uygulamalarının öneminin gelecekte daha da etkin olacağı öngörülmüştür. Bununla birlikte yaşlılara yönelik dijital sağlık uygulamalarına olan güveni ve kullanımları daha da arttırabilmek adına önerilerde bulunulmuştur.
+Yazar isimleri: ['Nuray SERTLER', 'Tarık SEMİZ']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Journal of Innovative Healthcare Practices
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinihp/issue/70608/1129152
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2479905

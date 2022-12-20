@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of the usability of robots in mining operations
+Özet: With the developing technology, mobile robots have made impressive progress in various fields. Mines, one of the most tiring and potentially dangerous working environments for humanity, will be affected by this advance of mobile robots. Namely, with the robots that can replace the underground personnel in the mining sector, occupational accidents and costs can be significantly reduced. In disaster situations, rescue robots can help locate missing personnel. Unmanned machines operated only by robots do not endanger human life in any way. In this study, it is aimed to solve the balance problem in robots that can be produced for rescue, mapping or active working in underground mines. It is aimed that the robots to be produced using the new generation gyroscope will remain in balance under all conditions and be able to perform the given task in a healthy way.
+Yazar isimleri: ['Gökhan KÜLEKÇİ', 'Faruk ÜNKER']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1098949
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2355288

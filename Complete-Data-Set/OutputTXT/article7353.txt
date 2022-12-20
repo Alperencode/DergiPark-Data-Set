@@ -1,0 +1,7 @@
+Makale Başlığı: The Application of Euler-Rodrigues Formula over Hyper-Dual Matrices
+Özet: The Lie group over the hyper-dual matrices and its corresponding Lie algebra are first introduced in this study. One of Euler's strategies called the Euler-Rodrigues formula is applied to the matrices of hyper-dual rotations. The fundamental relationship between the hyper-dual numbers and the dual numbers allows us to apply the formula on dual lines and two intersecting real lines in the three-dimensional dual and Euclidean spaces, respectively.
+Yazar isimleri: ['Çağla RAMİS', 'Yusuf YAYLI', 'İrem ZENGİN']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1127216
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2471653

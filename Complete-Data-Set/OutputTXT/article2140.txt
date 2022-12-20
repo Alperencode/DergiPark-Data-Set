@@ -1,0 +1,7 @@
+Makale Başlığı: Komut Satırı Arayüzü Terimleri
+Özet: Bir bilgisayar en basit ifadesi ile kullanıcıdan komut alan, aldığı komuta göre hesaplama yapan, veri işleyen ve ürettiği sonucu yine kullanıcıya çıktı olarak veren cihazdır. Bilgisayarlar kullanıcıdan girdi almak ve ürettikleri sonucu kullanıcıya çıktı olarak vermek için arayüzlere ihtiyaç duyarlar. Bu arayüzlere kullanıcı arayüzü denir. Özetle, bilgisayarlar kullanıcı arayüzleri vasıtasıyla kullanıcı ile etkileşim kurarlar. Kullanıcı arayüzlerinin bir çeşidi komut satırı arayüzüdür. Bu makalede komut satırı arayüzlerine ilişkin uçbirim, konsol, uçbirim öykünücüsü ve kabuk terimleri ortaya konulmuş ve kullanılması önerilmiştir.
+Yazar isimleri: ['Veysel Harun ŞAHİN']
+Yayın Yılı: 18 Haziran 2022
+Dergi ismi: Avrasya Terim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejatd/issue/68937/1067099
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2228521

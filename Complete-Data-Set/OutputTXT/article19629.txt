@@ -1,0 +1,7 @@
+Makale Başlığı: Covid–19 Pandemi Döneminde Petrol fiyatı, Altın fiyatı ve VIX Endeksindeki Oynaklıkların Türkiye BİST 100 Endeksi Üzerindeki Etkileri
+Özet: Çalışmada,  Covid – 19 pandemi dönemindeki petrol fiyatı, altın fiyatı ve VIX endeksindeki oynaklıkların Türkiye BİST 100 endeksi üzerindeki etkileri incelenmektedir. Bu amaçla, 11/03/2020 – 13/09/2021 tarihleri arasında 363 günlük gözlemden oluşan petrol, altın ve VIX endeksi verileri kullanılarak ekonometrik analiz  uygulanmıştır.  Değişkenlerin  aynı  derece  durağan  olmamaları  nedeniyle  Toda-Yamamoto  Nedensellik  testi  çalışmada  tercih  edilmiş  ve  ayrıca  etki-tepki  fonksiyonu  ve  varyans ayrıştırma yöntemleri kullanılmıştır. Toda-Yamamoto Nedensellik  testi  sonucuna  göre;  petrol  fiyatı,  altın  fiyatı  ve  VIX endeksi ile BİST100 endeksi arasında nedensellik ilişkisine rastlanılmamıştır. Etki-tepki fonksiyonları ve varyans ayrıştırma analizlerinin   sonuçları   da   Toda-Yamomoto   nedensellik testine benzerlik göstermektedir. Etki-tepki  fonksiyonları  ve  varyans  ayrıştırma  analizi  sonuçlarına  göre;  Petrol  fiyatı,  altın  fiyatı  ve  VIX  endeksinin BİST 100 endeksi üzerindeki etkisi kısa sürede azalmaktadır ve BİST100 tüm dönemlerde kendisi tarafından açıklanmaktadır.
+Yazar isimleri: ['Kadir TUNA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: İstanbul İktisat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/istjecon/issue/68938/1034794
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2124622

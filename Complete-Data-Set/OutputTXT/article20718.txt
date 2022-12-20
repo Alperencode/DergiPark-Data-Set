@@ -1,0 +1,7 @@
+Makale Başlığı: Free vibration analysis of cracked cantilever sandwich beams
+Özet: In this study, the free vibration of composite sandwich beams, one end of which is fixed and the other end is free, was investigated. The verification of the natural frequencies of the sandwich beam with and without cracks was provided with analytical and ANSYS software. The analyses were carried out with the ANSYS program in order to obtain a faster solution. In the study, the effect of U and V crack structures on natural frequency values was investigated for different crack locations, crack depths, and different crack widths. In the study, 3-layer and 5-layer sandwich beams were examined. It has been observed that these investigated parameters significantly affect the natural frequency values of the beam.
+Yazar isimleri: ['Yusuf CUNEDİOĞLU', 'Burak DEVECİOĞLU']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1124115
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2458839

@@ -1,0 +1,7 @@
+Makale Başlığı: Dilimsel Dengeli Konsol Yöntemi ile Tasarlanan Bir Köprünün Yapım Aşamaları Dikkate Alınarak Yapısal Davranış ve Maliyet Açısından İncelenmesi
+Özet: Dilimli dengeli konsol köprü, üstyapısının boyuna doğrultusunda dilimlere bölünerek inşa edilmesine dayanan bir yöntemdir. Köprü modeli açıklık ortasında kapatma dilimi döküldükten sonra sürekli hale gelir.  Dolayısıyla dilimli yapım metoduyla yapılan viyadüğün tasarımında iki ayrı aşama dikkate alınması gerekir.  Bu çalışmanın amacı, dilimli dengeli konsol yöntemine göre tasarlanmış bir köprünün, tasarımında yapım aşamalarının dikkate alınmasının köprünün sürekli sistem olarak tasarımı ile ortaya çıkan kesit tesirleri ile mukayesesini yapmaktır. Bu amaca yönelik olarak 2 ayaklı 3 açıklıklı toplam 345 m uzunluğunda bir dengeli konsol tasarlanmıştır. Örnek köprü modeli, Trabzon ili Ortahisar ilçesinde yer alan ve prekast kirişli köprü yöntemine göre yapımı halen devam etmekte olan Karşıyaka Viyadüğü’nün aplikasyonuna göre tasarlanmıştır.  Böylelikle iki farklı inşa yönteminin mukayeseli maliyet analizi gerçekleştirmek de mümkün olmuştur. Yapım aşaması dikkate alınarak yapılan çözüm metodunda elde edilen sonuçlar %14 daha yüksek eğilme momenti ortaya çıkarmıştır.
+Yazar isimleri: ['Özlem ÇAVDAR']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/962089
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1858611

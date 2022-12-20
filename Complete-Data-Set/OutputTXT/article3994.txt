@@ -1,0 +1,7 @@
+Makale Başlığı: Simetrik Akarsu Kavşaklarında Akım Derinliklerinin İncelenmesi
+Özet: Bu çalışmada 90 birleşim açısına sahip simetrik akarsu kavşaklarında akım derinlikleri incelenmiştir. Çalışmadaki sabit parametreler; kavşak açısı ve genişlikler olup, değişken parametreler ise yan kollardan gelen debiler ve mansap akım derinliğidir. Çalışmada kavşak bölgesinde belirlenmiş olan kontrol hacminde akım derinlikleri ölçülmüştür. Kontrol hacminin mansabında ölçülen akım derinliğine bağlı olarak memba akım derinlikleri bulunmuştur. Memba akım derinlikleri iki yan kol için de aynıdır varsayımına bağlı olarak momentum denklemi yazılmıştır. Momentum denklemlerinde elde edilen akım derinlikleri deneylerde ölçülen akım derinlikleriyle karşılaştırılmıştır. Sonuç olarak kontrol hacmi memba akım derinliklerinin eşit olduğu varsayımı doğrulanmıştır ve deneysel ve sayısal veriler birbirine yakın bulunmuştur.
+Yazar isimleri: ['Mustafa EYHAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Dicle Üniversitesi Mühendislik Fakültesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dumf/issue/72718/1075920
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2262878

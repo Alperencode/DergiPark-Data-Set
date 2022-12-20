@@ -1,0 +1,7 @@
+Makale Başlığı: Some Identities for Rearick's Hyperbolic Trigonometric Functions
+Özet: In this article, we consider some properties provided by Rearick's hyperbolic trigonometric functions. We arrange and present some of the properties provided by Rearick's hyperbolic trigonometric functions, taking into account the properties of the basic hyperbolic trigonometric functions.
+Yazar isimleri: ['Müzeyyen DEMİR', 'Adem ŞAHİN']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/985509
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1935473

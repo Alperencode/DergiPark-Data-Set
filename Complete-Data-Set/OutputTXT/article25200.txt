@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Analysis of Electric Spring in Reducing the Power Drawn From the Supply System During generation Uncertainties
+Özet:     This article deals about reduction of power drawn from the supply system in smart environment during un-certainties in the power generation. Supply system in this work is the system which consists of an intermittent power source and a storage system to support whenever there is deficit in power generation. A small micro grid system is considered for this study which has critical and non-critical load present in it along with storage system and Electric spring. An attempt is made to study the performance of Electric spring in reducing the power drawn from the supply system under different non-critical loads during un-certainties or power deficit conditions of the source. The effect of reactive component in the non-critical load is examined separately for the considered battery storage system. All the simulation models have been developed in MATLAB.         
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167900
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/148003

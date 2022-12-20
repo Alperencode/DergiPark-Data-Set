@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of The Effect of Membrane on Air-Air Moisture Transfer in Annular Channel and Determination of Mass Transfer Equations
+Özet: In this study, the effect of the membrane on the moisture transfer between air and air in the annulus channel was investigated, and mathematical modeling was made for moist air-dry air fluids. In parallel and counter flow types of the created model, mass transfer equations were determined and analyzes were performed using COMSOL Multiphysics software. The system was modelled in the MATLAB software with the finite difference method under the same conditions, and the results obtained in the COMSOL software were verified with a low relative error. According to the calculation results, the highest Sherwood number (Sh) was determined as approximately 26 and 28 in parallel and counter flow, respectively. In the study, using the results obtained from the analysis made in the COMSOL software, for both flow types, under the specified conditions (Reynold number, Re=250-2000, aspect ratio, L/D=4-128 and Schmidt number, Sc=0.68), high-precision equations were obtained for the Sh number on the moist and dry air sides.
+Yazar isimleri: ['Ertuğrul CİHAN', 'Barış KAVASOĞULLARI', 'Hasan DEMİR']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/994856
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1972181

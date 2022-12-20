@@ -1,0 +1,7 @@
+Makale Başlığı: Evolutionary Mathematical Science, Fractional Modeling and Artificial Intelligence of Nonlinear Dynamics in Complex Systems
+Özet: 
+Yazar isimleri: ['Yeliz KARACA', 'Dumitru BALEANU']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Chaos Theory and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/chaos/issue/73033/1188154
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2715056

@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye Döviz Piyasasında Oynaklık ve Oynaklık Yayılımı Üzerine Bir Uygulama
+Özet: Amerika Birleşik Devletleri Merkez Bankası Aralık 2016’da faiz artırım döngüsüne başlamış ve finansal piyasalardaki oynaklık hızlıca artmıştır. Coronavirus (COVID19) salgını ve Türkiye’de 2018-2021 döneminde yaşanan kur atakları oynaklık çalışmasının yapılmasına öncülük etmiştir. Çalışmanın amacı Türk Lirası üzerindeki oynaklık ve oynaklık yayılımının EGARCH modeli ile analiz edilmesidir. Asimetrik etki parametresinin (δ), yani kaldıraç etkisinin 15 Aralık 2016 – 28 Şubat 2022 döneminde ABD Doları/Türk Lirası alış Kurunda geçerli olmadığını göstermektedir.  GARCH modeli; ABD Doları/Güney Afrika Rand’ı ve ABD Doları/Çin Yuan’ı dışında ABD Doları/Türk Lirası alış kurunun oynaklığı ile diğer para birimleri arasında bir ilişki olduğunu göstermektedir. ABD 10 yıllık tahvil faizleri ve Şikago Opsiyon Borsası Oynaklık Endeksi değişkenleri de Amerikan Doları/Türk Lirası alış kuru oynaklığı üzerinde etkilidir.
+Yazar isimleri: ['Murat AKKAYA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1088204
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2311067

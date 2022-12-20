@@ -1,0 +1,7 @@
+Makale Başlığı: CASH - CASH FLOW SENSITIVITY: EVIDENCE FROM EMERGING MARKETS
+Özet: This study analyzes cash-cash flow sensitivity by comparing financially constrained and unconstrained firms in eight markets. 486 manufacturing firms are examined between 2005 and 2018 using the Generalized Method of Moments. These firms are categorized based on size, age, and Size-Age, Sales-Age, and Kaplan and Zingales indices. We find that both constrained and unconstrained firms evince positive cash-cash flow sensitivity. Although unconstrained firms obtain external financing easily, they prefer to first use internally generated funds in accordance with the pecking order theory. The results also reveal that cash-cash flow sensitivity cannot be used to test financial constraints in emerging markets.
+Yazar isimleri: ['Ömer Faruk TAN', 'Emin AVCI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Muhasebe Bilim Dünyası Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mbdd/issue/72537/974277
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1891175

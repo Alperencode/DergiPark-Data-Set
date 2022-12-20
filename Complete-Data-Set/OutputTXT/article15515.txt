@@ -1,0 +1,7 @@
+Makale Başlığı: A Poisson-Regression, Support Vector Machine and Grey Prediction Based Combined Forecasting Model Proposal: A Case Study in Distribution Business
+Özet: 
+Yazar isimleri: ['Fatih YİĞİT', 'Şakir ESNAF', 'Bahar YALÇIN KAVUŞ']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: Turkish Journal of Forecasting
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/forecasting/issue/67112/957494
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1843042

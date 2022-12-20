@@ -1,0 +1,7 @@
+Makale Başlığı: Tipografi’nin Mobil Uygulama Tasarımına Etkisi ve Okunurluk, Okunabilirlik Kavramları Bağlamında İncelenmesi
+Özet: Bu çalışmada mobil platformlarda kullanılan tipografinin okunurluk ve okunabilirlik bağlamında incelenerek okuyucu üzerindeki etkisi araştırılmıştır. Yapılan literatür taramaları yardımıyla tipografi standartları rehberi oluşturularak gelecekte yapılacak araştırmalara katkı sağlanması hedeflenmektedir.
+Yazar isimleri: ['Betül ÇAKIROĞLU']
+Yayın Yılı: 23 Aralık 2021
+Dergi ismi: Tasarım Enformatiği
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/te/issue/66501/675725
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/933237

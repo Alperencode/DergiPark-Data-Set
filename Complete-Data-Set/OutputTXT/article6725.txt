@@ -1,0 +1,7 @@
+Makale Başlığı: Invertible skew pairings and crossed products for weak Hopf algebras
+Özet: In this paper we work with invertible skew pairings for weak bialgebras in a symmetric monoidal category where every idempotent morphism splits. We prove that this kind of  skew pairings induces examples of weak distributive laws  and therefore they provide weak wreath products. Also  we will show that they  define  weakly comonoidal mutually weak inverse pairs of weak distributive laws and, by the results proved by G. Böhm and J.  Gómez-Torrecillas,  we obtain  weak wreath products that become weak bialgebras with respect to the tensor product coalgebra structure. As an application, we will  show that the Drinfel'd double of a finite weak Hopf algebra can be constructed using the weak wreath product associated to an invertible $1$-skew pairing.
+Yazar isimleri: ['J.m. FERNADEZ VILABOA', 'Ramon GONZALEZ RODRİGUEZ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/913738
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1699915

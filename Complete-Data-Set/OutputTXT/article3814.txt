@@ -1,0 +1,7 @@
+Makale Başlığı: TARIMSAL DESTEKLERİN TARIMSAL ÇIKTI ÜZERİNDEKİ ETKİSİ:  TÜRKİYE İÇİN AMPİRİK BİR ANALİZ
+Özet: Bu çalışmanın amacı Türkiye’de 1991-2019 döneminde tarımsal desteklerin tarımsal çıktı üzerindeki etkisini Pesaran vd. (2001) tarafından geliştirilen ARDL ve Toda-Yamamoto (1995) nedensellik yöntemleriyle araştırılmasıdır.  Elde edilen bulgulara göre, tarımsal desteklerin tarımsal çıktı üzerinde istatistiksel olarak anlamlı bir etkisi olmadığı tespit edilmiştir. Ayrıca elde edilen sonuçların doğruluğunu teyit atmak amacıyla gerçekleştirilen FMOLS ve DOLS tahminleri bu bulguyu desteklemektedir. Nedensellik bulguları ise tarımsal destekler ve tarımsal çıktı arasında nedenselliğin olmadığına işaret etmektedir. Bu kapsamda Türkiye’de tarım sektörüne yönelik verilen tarımsal desteklerin etkili olmadığı sonucuna varılmıştır. Dolayısıyla politika yapıcıların tarım sektörüne yönelik uyguladıkları politikaları gözden geçirmeleri gerekmektedir.
+Yazar isimleri: ['Haşim AKÇA', 'Haticenur ALTUNTAŞ']
+Yayın Yılı: 29 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cusosbil/issue/73207/1125443
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2464180

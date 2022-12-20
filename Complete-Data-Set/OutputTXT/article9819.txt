@@ -1,0 +1,7 @@
+Makale Başlığı: ANALYTICAL SOLUTIONS OF (1+1)- DIMENSIONAL DISTRIBUTED LONG WAVE (DLW) EQUATION WITH AUXILIARY EQUATION METHOD
+Özet: 
+Yazar isimleri: ['Ahmet Mücahid GÖKTAŞ', 'Koray YILMAZ', 'Orkun TAŞBOZAN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Journal of Universal Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jum/issue/71609/1089362
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2315956

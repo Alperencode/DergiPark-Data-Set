@@ -1,0 +1,7 @@
+Makale Başlığı: Türk Bankacılık Sisteminde Riskliliğin Temel Belirleyicileri: Gelir Çeşitlendirmesi Önemli Bir Etken Mi?
+Özet: Bu çalışma, Ocak 2012 ile Aralık 2021 dönemleri arasında Türkiye’de faaliyet gösteren 19 bankanın gelir çeşitlendirmesi yöntemi ile maruz kaldıkları riskler arasındaki ilişkiyi ortaya koymayı amaçlamaktadır. Bu kapsamda banka riskini ölçmek için kullanılan Z-skor değişkenini etkileyen bankaya özgü faktörler ile makroekonomik faktörler panel regresyon analiziyle sınanmıştır. Yıllık veriler, TUİK, TCMB Elektronik Veri Dağıtım Sistemi ve TBB Veri Yönetim Sistemi’nden elde edilerek çalışma tamamlanmıştır. Söz konusu analiz sonucuna göre bankaların gelir çeşitlendirmesinin riskliliklerini azaltmaya olumlu katkı sağladığı anlaşılmıştır. Daha açık bir ifade ile faiz dışı gelirin artmasının bankaların riskliliklerinin göstergesi Z-skoru arttırabileceği (riskin düşmesi) yönünde genel beklentiyi doğrulayan bir sonuç elde edilmiştir. Fakat mevduat türüne göre değişen banka grupları için her zaman anlamlı olmadığı sonucu da ortaya konulmuştur.
+Yazar isimleri: []
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Anadolu Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ausbd/issue/72754/1181549
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2677120

@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis of New Methoxy Actived Mono and Bis-indole Compounds
+Özet: An indole hydrazone has successfully been synthesized employing Schiff base reaction conditions starting from 4,6-dimethoxy-2,3-diphenylindole-7-carbaldehyde with hydrazine hydrate. The reaction of this compound with acetone yielded indole based imine compound. The structure of targeted compound was identified by mass and 1H spectroscopy along with single crystal X-ray diffraction technique. Also, bromination of bis-indole with N-bromo succinimide was produced corresponding bromo bis-indol derivative.
+Yazar isimleri: ['Hakan KANDEMİR']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Hittite Journal of Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hjse/issue/72726/1160718
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2591114

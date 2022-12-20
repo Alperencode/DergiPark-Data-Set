@@ -1,0 +1,7 @@
+Makale Başlığı: Avrupa Ülkelerinde Kişi Başına Millî Geliri Etkileyen Faktörlerin Yatay Kesit Yöntemiyle Analizi
+Özet: Kişi başına düşen gelir, ülkelerin refah düzeyini gösteren önemli ölçülerden biri olarak değerlendirilmektedir. Kişi başı milli gelirin yükselmesi ve gelir dağılımının çarpıklığının az olması, hem refah artışı sağlamakta hem de yoksulluğu azaltıcı etkide bulunmaktadır. Bu çalışmada 32 Avrupa ülkesinde kişi başı geliri etkileyen faktörlerin analizi yapılmıştır. Yatay kesit analizinin kullanıldığı çalışmada enflasyon oranındaki artışın kişi başı milli gelir üzerinde negatif etki yaptığı sonucuna varılmıştır. Ayrıca dış ticaret açığının GSYH içindeki payının artışı da kişi başı geliri azaltıcı etki meydana getirmektedir. Buna karşılık özel sektör kredileri ile hizmet sektörü istihdamındaki artışın kişi başı gelirdeki etkileri pozitif bulunmuştur. Ayrıca, kurulan ekonometrik modelin sonuçları çerçevesinde politika önerileri geliştirilmiştir.
+Yazar isimleri: ['Atilla AYDIN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kuram ve Uygulamada Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kusob/issue/70607/987264
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1942596

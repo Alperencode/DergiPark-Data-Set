@@ -1,0 +1,7 @@
+Makale Başlığı: Vibration Analysis of a Sandwich Plate with Laminated Face and Porous Core Layers Resting on Elastic Foundation
+Özet: In this study, free vibration responses of a sandwich plate resting on Winkler-Pasternak foundation are investigated by using the first order shear deformation plate theory. The sandwich plate is considered as laminated face and porous core layers. Material properties of laminas are considered as orthotropic and core material is porous property. The Navier procedure is used for the solution of vibration analysis. In numerical examples, vibration frequencies of the composite plate are presented and discussed for various evaluation of mode numbers, sequences of layers, foundation parameters and porosity parameters.
+Yazar isimleri: ['Yusuf Ziya YÜKSEL', 'Şeref Doğuşcan AKBAŞ']
+Yayın Yılı: 8 Haziran 2022
+Dergi ismi: Journal of Innovative Science and Engineering
+Yayın sayfa url: http://jise.btu.edu.tr/tr/pub/issue/68623/925259
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1725704

@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı Deprem Kuvvetleri Altında Taş Kolonlu Şevlerin Stabilite Analizi
+Özet: Bir şevin deprem gibi dinamik bir yükün etkisi altında nasıl tepki verdiği, şevlerin duraylılık analizlerinde çok önemlidir. Bir şev göçmenin meydana geldiği bölgeyi iyileştirmek veya olası bir şev göçmesini önlemek, bir şevde hareketi teşvik eden faktörlerin azalmasına ve/veya zeminlerin kayma direncinin artmasına sağlar. Bu çalışmada iyileştirme tekniği olarak Taş Kolon yöntemi kullanılmıştır. Plaxis 2D ile yapılan analizde, farklı şev açıları, zemin kohezyonu ve üç farklı deprem kuvveti ile modellenen şevlerin güvenlik faktörleri belirlenmiştir. Daha sonra aynı özelliklere sahip şevler taş kolon yöntemi ile iyileştirilmiştir. Eğimler, farklı s/D oranları ve farklı taş kolon iç sürtünme açıları kullanılarak iyileştirilmiştir. Aynı deprem kuvvetleri iyileştirilmiş şevlere de uygulanmış ve güvenlik faktörleri bulunmuştur.Çalışmada, deprem kuvvetinin etkisi olmadan tasarlanan taş kolonlu şev modelleri, taş kolonsuz şev modellerine göre güvenlik değerlerinde 1.01-1.34 kat arasında bir artış göstermiştir. Taş kolonlu şev modellerinin güvenlik değerlerinin, deprem kuvvetinin etkisi altında taş kolonsuz şev modellerine göre 1,02-1,80 arttığı görülmüştür.
+Yazar isimleri: ['Mustafa VEKLİ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uludağ Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uumfd/issue/71647/1064770
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2219647

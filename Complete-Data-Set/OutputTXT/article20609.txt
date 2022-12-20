@@ -1,0 +1,7 @@
+Makale Başlığı: Prognosis and treatment of COVID-19 infection while receiving  treatment for comorbid active tuberculosis: report of two cases
+Özet: Tuberculosis is still a serious public health issue in underdeveloped countries. There is presently little clinical experience with the co-existence of tuberculosis and COVID-19 infection, presented as the severe acute respiratory syndrome coronavirus 2 infection, which was first observed in China in December 2019. This case report details the diagnostic and treatment stages of two patients who had active tuberculosis and COVID-19 infection, as well as the outcomes of their therapies, both of which were effective.
+Yazar isimleri: ['Yelda VAROL', 'Hilal ÖZDEMİR DEMİRCİ', 'Onur KARAMAN', 'Tülay AKARCA', 'Diğdem ÖZBAKIR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Mucosa
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mucosa/issue/72848/1115584
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2423481

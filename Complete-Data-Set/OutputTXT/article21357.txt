@@ -1,0 +1,7 @@
+Makale Başlığı: Accelerated Fe-III/Fe-II redox cycle of Fenton reaction system using Pd/NH2-MIL-101(Cr) and hydrogen
+Özet: In this paper, a novel improvement in the catalytic Fenton reaction system named MHACF-NH2-MIL-101(Cr) was constructed based on H-2 and Pd/NH2-MIL-101(Cr). The improved system would result in an accelerated reduction in Fe-III, and provide a continuous and fast degradation efficiency of the 10 mg L-1 4-chlorophenol which was the model contaminant by using only trace level Fe-II. The activity of Pd/NH2-MIL-101(Cr) decreased from 100% to about 35% gradually during the six consecutive reaction cycles of 18 h. That could be attributed to the irreversible structural damage of NH2-MIL-101(Cr).
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944728
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1794953

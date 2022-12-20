@@ -1,0 +1,7 @@
+Makale Başlığı: DFT Analysis of Mechanical and Dynamic Properties of CuBe
+Özet: In this study, we have presented a comprehensive theoretical calculation to analyze the mechanical, and dynamic properties of the CuBe with the Density Functional Theory (DFT). Hardness, plasticity, and Poisson’s ratio are calculated. The ductile nature of the compound was demonstrated by mechanical properties. Also, the melting temperature (Tm) of this material was 1581 ± 300 K. Debye temperature was found to be 489.17 K, estimated from the acoustic velocity. The anisotropy properties of CuBe were evaluated in three dimensions and the presence of anisotropy in all other forms was revealed, except for Linner compression. The charge density plots show that the bonds between Cu-Be are more ionic.  As a final word, the absence of negative phonon frequencies of the CuBe intermetallic compound showed its dynamical stability.
+Yazar isimleri: ['İlknur KARS DURUKAN', 'Yasemin ÇİFTCİ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/915127
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1703283

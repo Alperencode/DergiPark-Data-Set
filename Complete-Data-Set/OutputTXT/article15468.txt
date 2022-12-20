@@ -1,0 +1,7 @@
+Makale Başlığı: Collapse capacity assessment of non-ductile open ground story reinforced concrete frame
+Özet: It is a well-known fact that the absence of infill walls at the ground story, which is termed as “open ground story” may lead to a soft-story deficiency, especially in the case of non-ductile buildings. The previous severe earthquakes have shown that catastrophic destruction may occur in such a condition. Therefore, the seismic assessment of open ground story reinforced frames, where the effects of infill walls are incorporated, is of vital importance. However, the effects of infill walls are generally disregarded or considered indirectly in the seismic assessment procedures of the codes. This may mislead the actual condition of the open ground story buildings at different performance levels. This study aims to assess a non-ductile reinforced concrete frame with an open ground story regarding the collapse prevention performance level. The pushover and incremental dynamic analyses results are evaluated following the code limitations for collapse prevention. The results demonstrate the measure of misleading caused by the ignorance of infills at the upper stories while applying these code limitations.
+Yazar isimleri: ['Emre AKIN', 'Emad KANAS']
+Yayın Yılı: 15 Nisan 2023
+Dergi ismi: Turkish Journal of Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tuje/issue/69578/1071965
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2247623

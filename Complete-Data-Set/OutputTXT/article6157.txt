@@ -1,0 +1,7 @@
+Makale Başlığı: Rüzgâr enerjisi potansiyelini değerlendirirken önemli hususlar
+Özet: Rüzgâr rejimi dağılım modelinin belirlenmesi birkaç nedenden dolayı gereklidir, rüzgâr gücü çıktısını tahmin etmek en önemli konulardan biridir. Bu açıdan rüzgâr hızı dağılımını modellemek için Weibull, Gamma ve Rayleigh dağılımları en yaygın olarak kullanılan dağılımlardır. Ancak, tüm rüzgâr modellerini modellemede üstün olmayabilirler. Sonuç olarak, yerine geçecek dağılım fonksiyonlarının çalışılması gerekmektedir. Bu makale, rüzgâr hızı dağılımını tanımlamak için Weibull, Uç Değer, Ters Gauss, Lojistik, Log-Lojistik, Yarı-Normal, Burr Tipi XII, Genelleştirilmiş Uç Değer, Genelleştirilmiş Pareto ve T Konum-Ölçeği adlı on farklı dağılım fonksiyonlarını kapsamlı bir şekilde sunar. Ayrıca, her dağılımın parametre değerlerini optimize etmek için iki metasezgisel optimizasyon yöntemi olan Genetik Algoritması ve Parçacık Sürü Optimizasyonu kullanılmaktadır. Sunulan dağılımların iyi durumlarını (good-of-fitness) karşılaştırmak için yedi istatistiksel tanımlayıcı ile birlikte altı hata kriteri kullanılmıştır.
+Yazar isimleri: ['Mohammed WADİ', 'Furkan Ahmet TAMYİĞİT']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazimmfd/issue/72928/1066351
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2225518

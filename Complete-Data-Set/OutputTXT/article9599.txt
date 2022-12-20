@@ -1,0 +1,7 @@
+Makale Başlığı: CLASSIFYING ONLINE CUSTOMER COMPLAINTS: A MULTIAGENT PERSPECTIVE
+Özet: This study conducted a content analysis of an online Turkish complaint website to classify online customer complaints about service failures in multi-agent situations of a tourism service supply chain. A total of 400 incidents were collected regarding 422 service failures. The complaints fell into four failure groups: Actual Service, Supplier’s Service, Service Provider’s Employees, and Supplier’s Employees. The findings support the previous literature in a different context by demonstrating that, within a multi-agent context, customers consider the whole service delivery experience. They may therefore integrate or transfer their emotions or behavioral attitudes from the principals (e.g., travel agencies) to agents (e.g., hotels) or vice-versa.
+Yazar isimleri: ['Cansu YILDIRIM']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Journal of Research in Business
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jrb/issue/70563/1024839
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2086201

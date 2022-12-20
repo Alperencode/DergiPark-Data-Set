@@ -1,0 +1,7 @@
+Makale Başlığı: Okullarda Pozitif Psikolojik Sermaye ve Örgütsel Öğrenme İlişkisinin İncelenmesi
+Özet: Bu araştırmanın amacı öğretmenlerin pozitif psikolojik sermaye ve örgütsel öğrenme ilişkisini incelemektir. İlişkisel tarama modelinin kullanıldığı bu araştırmada veriler; “Psikolojik Sermaye Ölçeği” ve “Örgütsel Öğrenme Ölçeği” ile toplanmıştır. Verilerin analizinde parametrik testlerden t-testi, tek yönlü varyans analizi (ANOVA), korelasyon ve regresyon analizi kullanılmıştır. Korelasyon analizi sonuçlarına göre, psikolojik sermayenin sırayla öz yeterlilik, iyimserlik ve psikolojik dayanıklılık alt boyutları ile örgütsel öğrenme arasında pozitif yönde; umut alt boyutu ile örgütsel öğrenme arasında negatif yönde bir ilişki olduğu tespit edilmiştir.  Çoklu regresyon analizi sonuçlarına göre ise, psikolojik sermayenin, örgütsel öğrenmenin anlamlı birer yordayıcısı olduğu görülmüştür. Araştırmanın sonunda, öğretmenlerin psikolojik sermaye düzeylerinin geliştirilmesine yönelik önerilerde bulunulmuştur.
+Yazar isimleri: ['Neslin İHTİYAROĞLU', 'Birsen KARAKUŞ YILDIZ', 'Fatma YILMAZ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Sinop Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sinopusd/issue/73612/1139670
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2521927

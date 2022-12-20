@@ -1,0 +1,7 @@
+Makale Başlığı: A New Numerical Approach Using Chebyshev Third Kind Polynomial for Solving Integrodifferential Equations of Higher Order
+Özet: 
+Yazar isimleri: ['Ayınde MUHAMMED ABDULLAHI', 'Adewale JAMES', 'Ajimoti Adam ISHAQ', 'Taiye OYEDEPO']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi University Journal of Science Part A: Engineering and Innovation
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsa/issue/72855/1093536
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2333069

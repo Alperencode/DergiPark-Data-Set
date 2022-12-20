@@ -1,0 +1,7 @@
+Makale Başlığı: PI, PID ve GA-PID Kontrolör ile Rüzgâr Türbinin Kanat Hatve Açısı Kontrolü
+Özet: Günümüzde yenilenebilir enerji kaynaklarının enerji piyasasındaki payı yükseliş içerisindedir. Bu kaynakların en önemlisi ise rüzgâr enerjisidir. Rüzgâr hızına bağlı olarak rüzgâr türbin hız kontrolü önemli kontrol parametresidir. Bu hız parametresinin yüksek rüzgâr hızlarında türbin ve diğer önemli parçalara zarar vermemesi için denetim altında tutulması gerekmektedir. Bu çalışmada, PI, PID ve GA-PID kontrolör ile bir rüzgâr türbinin hatve açısını kontrol etmek için bir modelleme yapılmıştır. Yüksek rüzgâr hızlarında enerji sistemine zarar verilmemesi ve değişken rüzgâr hızının çıkış gücüne çıkış gücüne etkisinin kabul edilebilir ölçülerde kalmasını sağlamak PI, PID ve GA-PID kontrolör yöntemi kullanılmıştır. Çıkış gücünün sabit tutulması hedeflenmiştir. Matlab/Simulink programında simülasyon olarak rüzgâr türbini modellenmiştir. Bu çalışmada çıkış gücünü noktası (500 KW) GA-PID kontrolörün uygulanmasıyla daha optimum seviyede kalması sağlanmıştır.
+Yazar isimleri: ['Göksu GÖREL']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1036461
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2131741

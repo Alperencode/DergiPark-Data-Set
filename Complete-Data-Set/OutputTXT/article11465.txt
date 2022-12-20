@@ -1,0 +1,7 @@
+Makale Başlığı: Dış Mekân Termal Konfor Koşullarının Zamansal ve Mekânsal Dağılımı:   Konyaaltı-Antalya Örneği
+Özet: Kentlerdeki dış mekân termal konfor, kentsel ortamlarda artan sıcaklıklar ile daha çok önem kazanmaya başlamıştır. Çalışmada Antalya ili Konyaaltı ilçesinin dış mekân termal konfor koşullarının zamansal ve mekansal dağılımının belirlenmesi amaçlanmıştır. Bu amaç doğrultusunda ilk olarak Konyaaltı ilçesi ve yakın çevresindeki meteoroloji gözlem istasyonlarından iklim verileri (sıcaklık, nem, rüzgâr hızı ve bulutluluk) elde edildi. Çalışmada dış mekân termal konfor koşulları, iklim parametrelerinin yanı sıra insan enerji dengesini de hesaplamalarına dâhil eden ve en yaygın kullanılan termal konfor indekslerinden biri olan FES (Fizyolojik Eşdeğer Sıcaklık) ve RayMan modeli kullanılarak hesaplandı. RayMan Model'i kullanılarak üretilen aylık FES değerlerinin mekânsal dağılımı CBS ortamında IDW analizi kullanılarak elde edildi. Sonuç olarak, Konyaaltı kent merkezi ve yakın çevresinde termal konfor koşulları ilkbahar ve sonbahar mevsiminde kısmen oluşmakta ve diğer mevsimlerde sıcak ve soğuk stres nedeniyle termal konfor koşulları oluşmamaktadır.
+Yazar isimleri: ['Nihat KARAKUŞ', 'Serdar SELİM']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makufebed/issue/71318/1151024
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2565807

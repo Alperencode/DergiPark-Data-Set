@@ -1,0 +1,7 @@
+Makale Başlığı: MODELING OF GROUNDWATER POTENTIAL AND QUALITY OF HARRAN PLAIN BY GIS SUPPORTED AHP AND TOPSIS METHODS
+Özet: Harran Plain supplies all of its drinking water needs and most of its irrigation water needs from wells and groundwater resources that were drilled at various dates. For this reason, in this study, thematic maps and model maps were created by using methods such as MCDM, AHP, TOPSIS and Geographic Information System in order to determine the groundwater potential and water quality in the settlement areas and plains located within the borders of the Harran plain. The data related to the study throughout the basin were obtained from official institutions and operating private drilling companies. In the first stage of the study, groundwater potential was modeled with static water level, dynamic water level, well efficiency and groundwater depth maps. With the obtained thematic maps, they were reclassified according to shallowness, depth and productivity values. Accordingly, it has been determined that the groundwater potential of a significant part of the Harran basin is good, and the static and dynamic levels are at shallow-normal levels.
+Yazar isimleri: ['Veysel ASLAN', 'Mehmet Yaşar SEPETÇİOĞLU']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Türk Hidrolik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turhidder/issue/70673/1133562
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2498112

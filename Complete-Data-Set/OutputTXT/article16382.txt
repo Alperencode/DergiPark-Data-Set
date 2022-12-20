@@ -1,0 +1,7 @@
+Makale Başlığı: HEYKEL DÖKÜMÜNDE MUM YOK ETME TEKNİĞİ’NE  GELENEKSEL ve SAYISAL YAKLAŞIMLAR
+Özet: Bilgisayar destekli tasarım, büyük bir hızla gelişen modelleme programları ve buna paralel olarak yeni materyallerle sayısal ortamda tasarlanan tasarımların gerçek dünyada basılabilmesi, yaşama geçirilmesi heykel sanatında yeni olanaklar sağlamaktadır. Bu olanakları kullanan sanatçılar tarafından üretilen   eserlerin büyük ölçeklerde, yeni teknolojilerle uygulanmasına olanak sağlayan endüstriyel donanımlara sahip işletmelerin sayısı da hızla artmaktadır. Heykel alanında özellikle döküm çalışmaların ortaya konmasına yönelik yollardan birisi olan “mum yok etme tekniği” de geleneksel olarak heykel sanatında yüzyıllardır belirli standartlarda uygulanagelen bir yöntemdir. Bu çalışmada, 2020 yılında Pekin’de, “mum yok etme tekniği”nin sayısal teknolojiler kullanılarak gerçekleştirilen güncel bir örneğine ilişkin üretim aşamaları ve bu yöntemin geleneksel yöntem ile karşılaştırılması değerlendirilmiştir.
+Yazar isimleri: ['İlker YARDIMCI']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Tykhe Sanat ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tykhe/issue/71003/1103932
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2376130

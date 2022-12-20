@@ -1,0 +1,7 @@
+Makale Başlığı: İşletmelerde Yazılım Lisanslarının Yönetiminde Risklerin İncelenmesi ve Fayda-Maliyet Analizi
+Özet: Bu çalışmada, yazılım lisans varlıklarının kurumsal risk yönetimi yaklaşımıyla nasıl yönetilmesi gerektiğine dair bir öneri ortaya konmuştur. Çalışmada yazılım kullanım hakları anlamına gelen lisanslar ve karmaşık bir yapıya sahip çeşitli lisans modelleri incelenmiştir. Çalışma kapsamında yazılım lisanslarına ilişkin oluşabilecek riskler belirlenmiş ve bu riskler kategorize edilmiştir. İşletmelerde üst yönetimin önceliklendirdiği önemli riskler belirlenmiş ve kontrol altında tutulması gereken her bir risk faktörü için yanıtlar ve stratejiler oluşturulmuştur. Çalışmada önerilen yöntem telekomünikasyon sektöründe faaliyet gösteren büyük ölçekli bir işletmede uygulanmıştır. Bu uygulama kapsamında işletmenin yazılım varlık yönetimindeki mevcut durumu ortaya çıktı. Uygulama sonuçlarının işletmelerin risk modellerinin belirlenmesinde faydalı olması beklenmektedir. Çalışma, çalışmanın yazılım varlıklarının yönetimini, risklerin belirlenmesini ve risklere uygulanacak çözümleri sunmaktadır.
+Yazar isimleri: ['Ali DURDU', 'Abdullah TUTĞAÇ']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Bilişim Teknolojileri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazibtd/issue/73288/1019869
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2066613

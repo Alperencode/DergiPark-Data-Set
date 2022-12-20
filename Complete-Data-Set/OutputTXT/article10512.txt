@@ -1,0 +1,7 @@
+Makale Başlığı: ENTEGRE GÜNEŞ KOMBİNE ÇEVRİM SANTRALİNİN YAPISI VE ENERJİ ÜRETİMİNİN DEĞERLENDİRİLMESİ
+Özet: Günümüzde nüfus artışı, teknolojik gelişmeler ve artan yaşam standartları, enerji talebindeki artışa katkıda bulunmaktadır. Fosil yakıtların sürdürülebilir bir kaynak olmaması nedeniyle yenilenebilir enerji kaynakları uygulanabilir bir alternatif olarak ortaya çıkmaktadır. Bu çalışmada güneş enerjisinin entegre edildiği bir kombine çevrim santrali ele alınmıştır. Bu amaçla tasarlanan model hesaplamalarında; güneş enerjisi verileri için Konya ili Emirgazi ilçesinin değerleri kullanılmıştır. Model santralde, parabolik oluklu güneş alanı, besleme suyunu önceden ısıtan, buhar üreten bir dizi ve borulu ısı eşanjörlerinden pompalanan bir termal yağı (Therminol VP1) ısıtmaktadır. Model hesaplamaları sonucunda; santralin net elektrik verimi (LHV) % 56 ve ısı geri kazanımlı buhar jeneratörünün verimi de  % 89 bulunmuştur.
+Yazar isimleri: ['Oğuzhan ERBAŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kırklareli Üniversitesi Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/klujes/issue/70928/1139265
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2520453

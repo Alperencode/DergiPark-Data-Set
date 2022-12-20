@@ -1,0 +1,7 @@
+Makale Başlığı: Covid-19 Hastalarının Tedavisinde Moleküler Hidrojen İnhalasyonunun ‎Potansiyel Uygulaması
+Özet: COVID-19 (Corona Virüs Hastalığı 2019), SARS-CoV-2 suşunun neden olduğu ciddi ve akut ‎solunum sendromu hastalığıdır. İlk COVID-19 vakası Aralık 2019'da ortaya çıkmış ve aylar ‎içinde tüm dünyada görülen salgın haline gelmiştir. Moleküler hidrojen (H2); reaktif oksijen ‎türlerini seçici olarak süpürmesi, inflamatuar sitokinlerin inaktivasyonu, antiapoptotik ‎özelliği sayesinde birçok hastalık üzerinde etkili bir tedavi yöntemi olarak kullanılmaktadır. ‎Özellikle inflamatuar akciğer yaralanmaları tedavisinde H2’nin terapötik etkileri, COVID-19 ‎hastalığını hafifletebileceği görüşünü desteklemektedir. Aynı zamanda, H2 erken aşamada ‎COVID-19 sırasında SARS-CoV-2'nin neden olduğu yıkıcı sitokin fırtınasını ve akciğer ‎hasarını azaltabilir. Bu nedenle moleküler hidrojen tedavisi, COVID-19 için yeni ve etkili bir ‎tedavi yöntemi olma potansiyeline sahiptir. Fakat bu hipotezin doğrulanması için daha fazla ‎klinik denemelere ihtiyaç vardır.‎
+Yazar isimleri: ['Duried ALVAZEER', 'Sümeyra AL', 'Mehmet Hakkı ALMA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Biyosistem Mühendisliği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/biyosistemmuhendisligi/issue/70995/1070224
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2240806

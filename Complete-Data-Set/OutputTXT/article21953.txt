@@ -1,0 +1,7 @@
+Makale Başlığı: EUROCODE 1-4 STANDARDINA GÖRE KÖPRÜ TABLİYE RÜZGÂR YÜKÜNÜ ETKİLEYEN PARAMETRELERİN DEĞERLENDİRİLMESİ
+Özet: Bu çalışmada betonarme köprü tabliyelerine etkiyen rüzgar yüklerini etkileyen parametreler araştırılmaktadır. Söz konusu parametrelerin neler olduğu, bunların tabliyeye etkiyen rüzgar yükünü ne mertebede değiştirdiğinin tespiti yapılacaktır. Bu amaçla EN 1991-1-4 (Eurocode -1-4) standardı esas alınarak köprü tabliyelerine etkiyen x doğrultusundaki rüzgar yükleri hesaplanmıştır.
+Yazar isimleri: ['Ali Ekber SEVER', 'İsa YÜKSEL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Sürdürülebilir Mühendislik ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/usmtd/issue/70999/1134450
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2501814

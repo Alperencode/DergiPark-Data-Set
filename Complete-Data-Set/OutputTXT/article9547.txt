@@ -1,0 +1,7 @@
+Makale Başlığı: On the Characterisations of Curves with Modified Orthogonal Frame in $\mathbb{E}^{3}$
+Özet: This study analyses (k,m)-type slant helices in compliance with the modified orthogonal frame in 3-dimensional Euclidean space ($\mathbb{E}^{3}$). Furthermore, we perform some characterisations of curves with modified orthogonal frames in $\mathbb{E}^{3}$.
+Yazar isimleri: ['Şeyda ÖZEL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of New Theory
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnt/issue/72878/1148933
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2558151

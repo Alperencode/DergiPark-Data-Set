@@ -1,0 +1,7 @@
+Makale Başlığı: BRICS-T ÜLKELERİNDE BANKALARIN FİNANSAL BAŞARISIZLIĞIN TAHMİN EDİLMESİ
+Özet: Bankalarda finansal başarısızlığın tahmin edilmesi ile otoriteler tarafından gerekli tedbirlerin alınması ve ekonomiler üzerinde oluşabilecek zararların önlenebilme imkânı ortaya çıkacaktır. Bu konunun önemi 2008 küresel finansal krizinden sonra daha da artmıştır. Bu çalışmada, gelişmekte olan ekonomiler arasında yer alan BRICS (Brezilya, Rusya, Hindistan, Çin ve Güney Afrika) ülkeleri ve Türkiye'de faaliyet gösteren bankaların 2002-2019 döneminde finansal başarısızlıklarının panel logit yöntemi ile tahmin edilmesi amaçlanmaktadır. Bankalarda finansal başarısızlık tahminine yönelik literatür araştırmasından sonra ampirik uygulama aşamasına geçilmiştir. Araştırma sonucunda, karlılık ile ilgili finansal değişkenlerin ve ekonomik büyüme göstergelerinin bankalarda başarısızlık olasılığını azaltan önemli bağımsız değişkenler olduğu görülmüştür. Sonuçlar aynı zamanda, bankaların küresel finansal krizden olumsuz etkilendiğini göstermiştir. Bunlara ek olarak, çalışmada uygulanan istatistiksel analiz yöntemi yüksek tahmin gücüne sahiptir.
+Yazar isimleri: ['Gizel Busem SAYIL', 'Mustafa EMİR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Finans Ekonomi ve Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fesa/issue/72711/1052229
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2170476

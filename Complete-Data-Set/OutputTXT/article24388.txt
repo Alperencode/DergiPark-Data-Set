@@ -1,0 +1,7 @@
+Makale Başlığı: PAMUK VE POLYESTER İPLİKLERE SOL JEL YÖNTEMİ KULLANILARAK ELEKTRİKSEL ÖZELLİK VE GÜÇ TUTUŞURLUK ÖZELLİKLERİNİN KAZANDIRILMASI
+Özet: Buçalışmada sol-jel daldırma tekniğini kullanılarak iplik yüzeyine Titanyum dioksit (TiO2)kaplanmıştır. TiO2 genişbant boşluğuna sahip, yarı iletken metal oksit olarak kolay bulunabilen,  pahalı olmayan,  çevreyi kirletmeyen ve en çok kullanılan yarıiletken foto katalitik malzeme olması nedeniyle yapılan testlerde tercihedilmiştir. Sol-jel teknolojisinden yararlanarak, elektriksel iletkenlikya da yarı iletkenlik kazandırılarak üretilen, günlük hayatımızdakullanılabilir ve giyilebilir tekstil yüzeyleri elde edilmesi ve bunlarınelektriğin bulunmadığı ortamlarda küçük teknolojik aletleti çalıştırmasıamaçlanmıştır. Yapılan çalışmalar doğrultusunda ipliklerin elektrikseliletkenlikleri ölçülmüş ve deneysel çalışmaları yapılmıştır. Yapılan testlersonucunda yarı iletken iplikler elde edilmiştir. Ayrıca elektriğin bulunmadığıortamlarda gücünü fotovoltaik (PV) sistemlerden alan peltier giyilebilirtekstil yüzeylerine monte edilip yazın soğutucu etki, kışın ise ısıtıcı etkisağlamıştır. Böylece fotovoltaik (PV) sistemleri tekstile uygulayarak ekonomikyoldan giysi konforu için enerji elde edilmiştir.
+Yazar isimleri: ['Ayşegül GÜRSÖZLÜ', 'İbrahim ÜÇGÜL', 'Ufuk ELİBÜYÜK']
+Yayın Yılı: 30 Kasım 2018
+Dergi ismi: Anka E-Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anka/issue/40703/364938
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/584775

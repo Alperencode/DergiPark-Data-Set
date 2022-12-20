@@ -1,0 +1,7 @@
+Makale Başlığı: CYBER DETERRENCE BY PUNISHMENT: ROLE OF DIFFERENT PERCEPTIONS
+Özet: Nuclear deterrence based on mutual assured destruction seems to have successfullyprevented a global nuclear war for decades. Can deterrence be effective for cyber-attacksbetween nation-states? The cyber environment is drastically different from the nuclear case.A major difference is the possibility of different perceptions by the states which may lead toa failure of cyber deterrence. In this paper, we compare differences between nucleardeterrence and cyber deterrence. We adapt a game theoretic model from the nuclearcase to the cyber environment and show that differences in perceived payoffs can lead toattack strategies where deterrence fails in cyberspace. 
+Yazar isimleri: []
+Yayın Yılı: 31 Temmuz 2018
+Dergi ismi: Cyberpolitik Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cyberj/issue/39157/460294
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/536192

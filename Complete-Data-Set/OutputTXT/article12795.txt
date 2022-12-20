@@ -1,0 +1,7 @@
+Makale Başlığı: Solutions for KMM System and Generalized Hyperelastic-Rod Wave Equation
+Özet: In this study, the Kraenkel-Manna-Merle (KMM) system and generalized hyperelastic-rod wave equation have been investigated. For this, generalized Kudryashov method (GKM), which is one of the solution methods of nonlinear evolution equations (NLEEs), has been implemented to KMM system and generalized hyperelastic-rod wave equation. Some solutions to the discussed equations have been found and visualized using Wolfram Mathematica 12 in two and three dimensions.
+Yazar isimleri: ['Şeyma TÜLÜCE DEMİRAY', 'Emre CEREN']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1164007
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2604348

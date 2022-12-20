@@ -1,0 +1,7 @@
+Makale Başlığı: MINIMUM TSALLIS PORTFOLIO
+Özet: Mean-variance portfolio optimization model has been shown to have serious drawbacks. The model assumes that assets returns are normally distributed that is not valid for most of the markets and portfolios. It also relies on asset’s covariance matrices   for the calculation of portfolio’s risk that is open to estimation errors. Moreover, these optimization errors are maximized by the method that result in poor out-of-sample performances. In this study, we propose a new portfolio optimization method based on minimization of Tsallis entropy, which is valid for any underlying distribution. First, we show that the Tsallis entropy can be employed as a risk measure for portfolio analysis. Then we demonstrate the validity of the model by comparing its performance with those mean-variance and minimum-variance portfolios using BIST 30 data.
+Yazar isimleri: ['Erhan USTAOĞLU', 'Atif EVREN']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Journal of Research in Business
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jrb/issue/70563/1030739
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2108509

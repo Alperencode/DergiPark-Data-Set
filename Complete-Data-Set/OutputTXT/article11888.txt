@@ -1,0 +1,7 @@
+Makale Başlığı: Hata Türü ve Etkileri Analizi Yöntemi İle Bir Mermer Fabrikası’nda Risk Değerlendirmesi
+Özet: Günümüzde, çalışma koşullarının iyileştirilmesi teknolojik gelişmelere paralel olarak artmaktadır.Buna rağmen maden iş kolundaki iş kazaları ve meslek hastalıkları yoğun bir şekildemeydana gelmektedir. Son yıllarda doğal taş sektöründe ihracatta büyük bir gelişim kaydedenülkemizde, mermer ocak işletmeciliği ve mermer üretim fabrikaları ön sıralarda yer almaktadır.Madencilik faaliyetlerinin çoğunun insan gücüne dayanarak yapıldığı bu alanların iş sağlığı vegüvenliği açısından daha güvenli hale getirilebilmesi için kazalar olmadan önce risk değerlendirmesiyapmak, gerek çalışan sağlığı gerekse işveren açısından büyük önem arz etmektedir.Çalışma kapsamında bir mermer işletme fabrikasındaki tehlike ve riskler belirlenmiştir. Sonrasında,Hata Türü ve Etkileri Analizi (HTEA) Risk Değerlendirmesi Yöntemi ile risk değerlendirmesiyapılmıştır. Değerlendirme sonrasında en büyük risk öncelik katsayısına sahip olantehlikelerin insan kaynaklı tehlikeler olduğu görülmüştür.
+Yazar isimleri: []
+Yayın Yılı: 16 Eylül 2022
+Dergi ismi: MT Bilimsel
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mtb/issue/72610/1176191
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2654327

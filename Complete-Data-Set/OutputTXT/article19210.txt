@@ -1,0 +1,7 @@
+Makale Başlığı: An Overview of Vulnerability Criteria for Pure Loss of Stability
+Özet: 
+Yazar isimleri: ['Hakan AKYILDIZ']
+Yayın Yılı: 18 Ekim 2022
+Dergi ismi: GİDB Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gidb/issue/73057/1126795
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2469879

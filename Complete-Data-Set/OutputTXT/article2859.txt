@@ -1,0 +1,7 @@
+Makale Başlığı: Editorial... / Information-Records Management in the Digital Transformation of Life
+Özet: Today, whenever organizations and managers talk about knowledge management, it often comes down to the challenges posed by big data and analytics. However, some rules are needed to legitimize the existence and content of knowledge. With the implementation of this set of rules, information is recorded in the records. Records is one of the most important information assets. It can be said that in our age, together with information, records have reached gigantic dimensions in terms of quantity.
+Yazar isimleri: ['Mehmet TORUNLAR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilgi Yönetimi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/by/issue/69559/1115464
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2423002

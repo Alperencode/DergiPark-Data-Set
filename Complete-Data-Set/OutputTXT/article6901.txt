@@ -1,0 +1,7 @@
+Makale Başlığı: PID ve Kayan Kipli Kontrol Kullanarak DC Motor Besleme Amaçlı Bir PV Sistemin Tasarlanması
+Özet: Bu çalışmada PID ve Kayan Kipli kontrol kullanarak DC motor besleme amaçlı bir PV sistem tasarımı gerçekleştirilmiştir. Çalışmada değişen sıcaklık (45°C, 25°C) ve ışınım (1000W/m2, 800 W/m2) değerleri altında PV panellerden üretilen DC gerilim ile DC-DC yükseltici dönüştürücü yardımıyla ilk önce lityum iyon batarya şarj edilmiştir. PV panellerden olabilecek en yüksek gücü elde etmek için yapay sinir ağları (YSA) maksimum güç noktası takibi (MPPT) algoritması kullanılmıştır.  Daha sonra DC motor beslenmesi için şarj edilen batarya gerilimi PID kontrollü yükseltici dönüştürücü ile yükseltilmiş ve kayan kipli kontrol kullanarak düşürücü dönüştürücünün çıkışında sabit akım ve gerilim değeri elde edilmiştir. Yapılan tüm çalışmalar Matlab/simulink ortamında gerçekleştirilmiştir.
+Yazar isimleri: ['Ahmet AKGÜN', 'Ali KIRÇAY']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Harran Üniversitesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/humder/issue/69932/1141916
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2530862

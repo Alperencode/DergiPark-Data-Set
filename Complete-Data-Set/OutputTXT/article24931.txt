@@ -1,0 +1,7 @@
+Makale Başlığı: Prediction of Related Party Transactions Using Artificial Neural Network
+Özet: Recent scandals of companies in America (Adelfia, Enron) and Europe (Parmalt) have magnified transactions with related parties. Experience has shown that transactions with related parties not only can disrupt in create value for shareholders, but also can provide caused of the collapse of firms. In this line, the aim of this study is to predict the amount of transactions with related parties using artificial neural network in companies listed in the Tehran Stock Exchange.  Multi-layer artificial perceptron Neural Network with backwards propagation algorithm, the duality of the Board of Directors, the independence of the board of directors, financial leverage, Institutional ownership, the ratio of market value to book value of assets, company size and profitability were used to predict the amount of transactions with related parties , the predictor variables of board size. Finally, a network with the mean square error 0.229 , 0.424, 0.299, 0.268 were chosen respectively for educational data, validation, test and total data, and coefficient of determination more than 76%, as the best network to predict the amount of transactions with related people were selected.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353536
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364562

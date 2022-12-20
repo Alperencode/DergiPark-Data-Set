@@ -1,0 +1,7 @@
+Makale Başlığı: HİBRİD, TAM ELEKTRİKLİ VE YAKIT HÜCRELİ ARAÇLAR TRENDİ VE EMNİYET YÜKÜMLÜLÜKLERİNİN DEĞERLENDİRİLMESİ
+Özet: TÜİK 2022 yılı Ocak ayı verilerine göre ülkemizdeki otomotiv pazarındaki toplam 25.321.937 adet taşıtın, %54,3’ü yani 13.747.672 adeti otomobil, onun yaklaşık %37,6’sı dizel, %25,6’sı benzinli, %35,8’i LPG’li, %0,7’si yani 96.830 adedi hibrid ve tam elektrikli araçlardan oluşmaktadır. Araçların teknik ömürlerinin %90-95’lik kısmını otoparklarda geçirdiği dikkate alındığında, konunun güvenlik kısmı çok önemli olmaktadır. Bu bağlamda hibrid ve tam elektrikli araçların güvenlik gereksinimi ile kapalı alanlarda ve katlı parklarda park etme yasağı bulunmamaktadır. Henüz ülkemizde satışa sunulmamış olan ancak dünyada kullanımı gittikçe yaygınlaşan yakıt hücreli araçlarla ilgili emniyet gereksinmelerine yönelik belirgin prosedürler oluşturulmamıştır. Bu çalışmada dünyada ve ülkemizde; hibrid ve tam elektrikli araçlar ile hidrojen yakıtlı ve yakıt hücreli araçların gelişim seyri, yapılmakta olan çalışmalar ve düzenlemeler incelenmiş; emniyet açısından riskler ve bu risklerin giderilmesine/azaltılmasına yönelik öneriler sunulmuştur.
+Yazar isimleri: ['Abdullah DEMİR']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ticaretfbd/issue/70676/1096211
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2343773

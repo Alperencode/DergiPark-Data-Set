@@ -1,0 +1,7 @@
+Makale Başlığı: Using of nanobiosensors in determination of food safety and quality
+Özet: Today, there is a growing demand for fast, reliable and cost-effective systems for the detection, monitoring and diagnosis of food ingredients as well as contaminants in food. Quantitative/qualitative analysis of foods is carried out using traditional analytical methods such as chromatographic and spectroscopic techniques. Despite their sensitivity and accuracy, these methods are challenging due to the multi-stage and complex sample preparation procedures, requiring specialized personnel and expensive instrumentation for analysis. In addition, their labor-intensive and time-consuming nature eliminates the possibility of on-site and high-frequency monitoring of the analytes. A wide variety of nanotechnology-based new nanobiosensors are being developed in order to eliminate the difficulties posed by these techniques. In this context, in the present study, nanomaterials used in the development of nanobiosensors for use in foods, their working principles and their use in foods were examined.
+Yazar isimleri: ['Alper BARAN']
+Yayın Yılı: 6 Aralık 2022
+Dergi ismi: NanoEra
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nanoera/issue/73730/1183947
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2686952

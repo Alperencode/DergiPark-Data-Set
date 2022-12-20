@@ -1,0 +1,7 @@
+Makale Başlığı: LIFE CYCLE ANALYSIS OF VARIOUS CHEESE TYPES
+Özet: Overpopulation, technological developments and deforestation have ecological and health consequences for the world. The agro-food industry is responsible for one-third of the global greenhouse gas emissions. So, it is crucial to make this industry more sustainable by examining the environmental effects related to food products. The fact that cheese production volume is high in the dairy industry, emphasizes the importance of evaluating the sustainability of cheese production in the dairy industry. Life Cycle Analysis (LCA), a globally accepted and ISO standardized method, examines the environmental impact of products and processes. In this study, studies which evaluated the environmental effects of cheese production in the world by LCA were reviewed. This study reveals that raw milk production has the greatest impact in many impact categories and is followed next by energy consumption. Packaging, transportation and consumer use stages primarily affect the impact categories minimally. In addition, suggestions to reduce environmental impacts of cheese production have been presented
+Yazar isimleri: ['İpek Gülçin UYSAL', 'Neslihan ÇOLAK GÜNEŞ', 'Nurcan KOCA']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Gıda
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gida/issue/73077/1116589
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2427480

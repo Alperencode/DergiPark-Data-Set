@@ -1,0 +1,7 @@
+Makale Başlığı: Hatırımıza Getirdikleri: Diğerkamlık Üzerine Sosyo-Demografik İnceleme
+Özet: COVID-19 salgını sırasında diğerkamlığın sosyo-ekonomik belirleyicilerini ortaya koyma konusunda az sayıda araştırma yapılmıştır. Bu çalışma, COVID-19 pandemisi sürecinde Türk toplumunda bireylerin diğerkamlık düzeylerine etki eden sosyo-demografik ve sosyo-ekonomik belirleyicilerini araştırmaktadır. Türkiye'de yaşayan 933 bireyin ikincil verileri kullanılarak, bireylerin diğerkamlığını etkileyen faktörleri belirlemek için çok değişkenli lineer regresyon ve dağılım regresyon tahminleri gerçekleştirilmiştir. Çalıma bulgularına göre Türk toplumunun diğerkamlık seviyesinin yüksek olduğu tespit edilmiştir. Bununla birlikte cinsiyet, kardeş sahibi olma, dini hassasiyetlere sahip olma ve yaşanılan yerin kişinin diğerkamlık seviyesi üzerinde etkili olduğu tespit edilmiştir. Öte yandan, salgın hastalığa karşı daha savunmasız olan insanlar (yaşlılar, hamileler ve kronik hastalığı olanlar) ile birlikte yaşamanın diğerkamlık seviyeleri üzerinde anlamlı etkileri bulunamamıştır.
+Yazar isimleri: ['Hasan Giray ANKARA', 'Hakan DEĞERLİ', 'Havvana DEĞERLİ']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: Kafdağı
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kafdagi/issue/67839/996651
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1979161

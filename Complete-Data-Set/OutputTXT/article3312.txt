@@ -1,0 +1,7 @@
+Makale Başlığı: Numerical Analysis of Semiconductor Ring Lasers with Backscattering Coefficients Mismatch
+Özet: The numerical analysis of a semiconductor ring laser (SRL) by using the basic two-mode model and a parameter mismatch in the backscattering coefficients is presented in this paper to account for the asymmetry along the ring. The operation of SRL is discovered to be affected by changing the conservative backscattering parameter for a fixed value of the dissipative backscattering parameter, and the bidirectional regime with alternating oscillation can be suppressed. The numerical results of this paper and the experimental results of the literature depicts a good correspondence.
+Yazar isimleri: ['Nasr SAEED', 'Alain Francis TALLA', 'Oumate ALHADJI ABBBA', 'Sifeu T. KİNGNİ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Chaos Theory and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/chaos/issue/73033/1168824
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2623715

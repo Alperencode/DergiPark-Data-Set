@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of Tire Contact Stress and Deflection Distributions in a Layered Half-Space Using 3-D Boundary Element Method
+Özet: In this study, the Boundary Element Method (BEM) was employed for the numerical determination of the response of a layered half-space. The material behaviour of the soil was assumed to be isotropic and linear elastic. The BEM was used in the Fourier transform space (FTS). The focus of this paper is to determine the stress and deflection distributions of interior points of a layered half-space. To achieve this aim, in this study, a computer program is developed for three-dimensional elastic or visco-elastic problems. The results of stress and deflection distributions in a layered half-space determined using boundary element formulation are presented in figures.
+Yazar isimleri: ['İbrahim Özgür DENEME', 'Metin Hakan SEVERCAN']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1036077
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2130078

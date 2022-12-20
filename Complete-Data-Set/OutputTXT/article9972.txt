@@ -1,0 +1,7 @@
+Makale Başlığı: COMPARISON WITH THREE-DIMENSIONAL COORDINATE MEASURING AND LASER SCANNING OF EFFECT OF FORM ERROR OF CUTTING PARAMETERS IN MILLING FREEFORM THIN-WALLED AA 5083-H111 ALLOY
+Özet: This article focuses on the comparison of three-dimensional coordinate measuring (CMM) and laser scanning (LS) results of the effect of cutting parameters on form error in the milling of free-form thin-walled AA 5083-H111 alloy. The experiments were carried out in a CNC vertical machining center under dry machining conditions by using uncoated carbide cutting tool according to the experimental design prepared using the Taguchi L32 orthogonal array. Analysis of variance (ANOVA) was used to determine the most important cutting parameters affecting form errors for CMM and LT. According to the test results, optimum cutting parameters for CMM and LT were determined as 5 mm wall thickness, 0.05 mm/tooth feed rate and 160 m/min cutting speed (A2B1C3). According to the ANOVA results, the most effective cutting parameters on form errors for CMM and LT were 56.18% cutting speed and 68.06% feed rate, respectively. In addition, it was observed that the LT measurement results were 63% higher on average than the CMM measurement results.
+Yazar isimleri: ['Uğurcan ÇELİK', 'Barış ÖZLÜ', 'Halil DEMİR']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1148052
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2554563

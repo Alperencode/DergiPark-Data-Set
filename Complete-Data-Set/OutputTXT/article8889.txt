@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of some acute phase proteins and antioxidant/oxidant system in infected sheep with bluetongue virus disease
+Özet: In this study, it was aimed to determine the level of some acute phase proteins and oxidative stress in sheep infected with bluetongue virus disease. Twenty five bluetongue virus-infected and 10 healthy sheep were used. Blood samples from V. jugularis of animals were taken into tubes without anticoagulant. Total antioxidant (TAC)/oxidant capacity (TOC), haptoglobin, serum amyloid A (SAA), ceruloplasmin and albumin levels were determined colorimetrically. Oxidative stress index (OSI) was calculated using the formula. As a result of the analysis, when sheep infected with bluetongue virus disease and healthy sheep were compared, it was determined that SAA, TOC and OSI concentrations increased, albumin and TAC values decreased. However haptoglobin and ceruloplasmin levels increased but were statistically insignificant. In conclusion, it was concluded that oxidative stress occurs in sheep infected with bluetongue virus disease and that acute phase proteins haptoglobin, SAA and ceruloplasmin can be used as inflammation markers.
+Yazar isimleri: ['Oğuz MERHAN', 'Volkan YILMAZ', 'Kadir BOZUKLUHAN', 'Şaban MARAŞLI', 'Metin ÖĞÜN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of Advances in VetBio Science and Techniques
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/vetbio/issue/71840/1063406
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2214436

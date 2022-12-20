@@ -1,0 +1,7 @@
+Makale Başlığı: AFETLER VE HASTANE ÖNCESİNDE TELETIP KULLANIMI
+Özet: Acil servislere giderek artan başvuru sayıları ile birlikte eldeki kaynak ve imkanların en ideal şekilde kullanılması büyük önem taşımaktadır. Gelişen teknoloji ile birlikte teletıp bu konuda gerek hastane öncesi süreçte gerekse afet gibi yönetimi zor olan süreçlerde acil sağlık hizmetlerine büyük katkılar sağlamaktadır.
+Yazar isimleri: ['Barış Murat AYVACI', 'Doğaç Niyazi ÖZÜÇELİK']
+Yayın Yılı: 31 Ağustos 2020
+Dergi ismi: Journal of ADEM
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jadem/issue/60478/875875
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1561339

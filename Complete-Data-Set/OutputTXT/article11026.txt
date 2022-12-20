@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship Between Stock Market Index Returns and Gold Returns during the First Year of the Coronavirus Pandemic: An Asymmetric Causality Test
+Özet: The Coronavirus is one of the most influential infectious diseases of the 21st century. This study investigates the Hatemi-J asymmetric causality relationship between stock market returns and gold market returns for five of the most affected countries between January 02, 2020 and December 31, 2020. The results show that because of the demand for liquidity, the atmosphere of panic, and the perception of gold as a safe haven, the causal relationship is not strong for each country.
+Yazar isimleri: ['Onur OĞUZ', 'Özge KORKMAZ']
+Yayın Yılı: 27 Nisan 2022
+Dergi ismi: Maliye ve Finans Yazıları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mfy/issue/69611/1038564
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2139989

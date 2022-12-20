@@ -1,0 +1,7 @@
+Makale Başlığı: Photovoltaic Mobile Charging System Design (Solar Pole) - in Gümüşhanevi Campus of Gümüşhane University
+Özet: The decrease in fossil-based resources, the pollution of the environment and the threat of sustainability constantly increase the interest in renewable energy sources. Solar energy is one of the leading renewable energy sources due to its large capacity. Today, solar energy appears in many applications. In this study, a photovoltaic-based solar pole design has been realized and a prototype that can be applied almost anywhere in open-air conditions has been produced. The prototype produced was tested and installed at Gümüşhane University's Gümüşhanevi Campus. The prototype mobile phones produced have a fast charging feature with 5V-2A. In future studies, it is planned to provide the solar tracking feature to the photovoltaic (PV) panel in the system, and it is aimed to bring such systems to the campus in general.
+Yazar isimleri: ['Mustafa Engin BAŞOĞLU', 'Muzaffer ÇAYIR', 'Nurgül ŞEN', 'Murat Han ERTUĞRUL']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Kocaeli Journal of Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kojose/issue/72606/1017221
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2056276

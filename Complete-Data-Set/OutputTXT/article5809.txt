@@ -1,0 +1,7 @@
+Makale Başlığı: THE RELATIONSHIP BETWEEN FOREIGN TRADE AND ECONOMIC GROWTH: AN ECONOMETRIC ANALYSIS FOR TURKEY AND POLICY RECOMMENDATIONS
+Özet: The aim of this study is firstly to examine the relationship between economic growth and foreign trade, which is one of the most important issues in the literature of economics, and secondly to raise alternative policy proposals related to Turkey's economy. Economic growth, export and import between 1980 and 2019 in Turkey have been selected as the variables for the research. Johansen cointegration test was used for models based on economic growth-export and economic growth-import. After identifying the relationship between the series, Granger causality test was employed. According to the results obtained from Johansen cointegration analysis, the relationships between export and economic growth and between import and economic growth have been identified. According to Granger causality test result, it was seen that both the export and import caused economic growth. According to these results, it can be said that foreign trade increases economic growth in Turkey.
+Yazar isimleri: ['Cem ENGİN', 'Tuğba KONUK']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Finansal Araştırmalar ve Çalışmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/marufacd/issue/71306/1145682
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2556398

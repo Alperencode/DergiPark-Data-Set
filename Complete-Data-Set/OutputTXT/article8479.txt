@@ -1,0 +1,7 @@
+Makale Başlığı: Atletik Performans Ölçümlerinde Test–Tekrar Test Güvenirliği Analizleri
+Özet: Sporcularının performansını doğru şekilde ölçebilmek, değerlendirebilmek ve gelişim süreçlerini takip edebilmek için yapılan ölçümlerin güvenilir olması en önemli ön kabullerden biridir. Güvenirlik ölçüsü olarak literatürde çoğunlukla sınıf-içi korelasyon katsayısı rapor edilse de bunun tek başına yeterli olmadığı konusundaki görüşler güncel literatüre hakim olmaya başlamıştır. Ayrıca sınıf içi korelasyon katsayısının çok çeşitli versiyonlar içermesi ve çoğunlukla rapor edilirken bu bilgilerin sunulmaması da performans araştırmalarında önemli bir eksiklik olarak değerlendirilmektedir. Son çalışmalar, bilimsel çalışmaların sonuçlarının aynı zamanda pratiğe de hitap edecek şekilde rapor edilmesinin gerekliliğine vurgu yapmaktadır. Dolayısıyla bu çalışmanın amacı ölçümlerin standart hatası, tipik hata ve tespit edilebilir minimal değişim gibi pratik temelli hesaplamaları tanıtmak ve kullanımını yaygınlaştırmaya katkıda bulunmaktır. 
+Yazar isimleri: ['Süleyman ULUPINAR']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: İstanbul Gelişim Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/igusbd/issue/73093/809612
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1341723

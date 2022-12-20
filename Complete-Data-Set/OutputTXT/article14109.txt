@@ -1,0 +1,7 @@
+Makale Başlığı: Does Governance Matter for Foreign Direct Investment? A Comparative Analysis
+Özet: This study attempts to determine how important governance quality is for attracting foreign direct investment (FDI). To do so, using a combination of entropy weighting and TOPSIS methods, we assess the governance quality in 171 countries and correlate country rankings provided by the TOPSIS method with the FDI inflows performance of these economies. The findings from the analysis indicate that Voice and Accountability, Control of Corruption, and Regulatory Quality are the most important attributes of governance quality. Furthermore, Finland, Denmark, New Zealand, Sweden, Switzerland, Netherlands, Norway, Luxembourg, Canada, and Australia, are the best ten performing countries in terms of governance quality, respectively, while the worst-performing ten countries of governance quality are Myanmar, Zimbabwe, Eritrea, Chad, Uzbekistan, Tajikistan, Venezuela, Equatorial Guinea, Turkmenistan, and Angola, respectively. The findings also imply a close correlation between governance quality and inward FDI performance. The countries with higher governance performance are also mostly the economies attracting more FDI.
+Yazar isimleri: ['Muhammed BENLİ', 'Aykut EKİNCİ', 'Ahmet ÇAĞLAR']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Sosyal Bilimler Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ssrj/issue/72477/1160790
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2591442

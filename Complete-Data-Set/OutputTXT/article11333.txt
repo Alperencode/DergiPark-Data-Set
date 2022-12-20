@@ -1,0 +1,7 @@
+Makale Başlığı: Gould-Hopper Based Degenerate Truncated Bernoulli Polynomials
+Özet: In this study, we consider the truncated degenerate Bernoulli polynomials based on the Gould-Hopper polynomials and examine diverse properties and	formulas covering addition formulas, correlations and derivation property. Then, we derive some interesting implicit summation formulas and symmetric	identities. Moreover, we define Gould-Hopper based truncated degenerate Bernoulli polynomials of order rr and give some of their properties and	relations.
+Yazar isimleri: ['Uğur DURAN']
+Yayın Yılı: 9 Eylül 2022
+Dergi ismi: Mathematical Sciences and Applications E-Notes
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mathenot/issue/68767/893469
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1626476

@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Gypsophila Extract as Natural Emulsifier on The Steady, Dynamic Rheological Behavior and Microstructural Properties of The Ice Cream Mix
+Özet: In this study, it was aimed to use the gypsum extract as an emulsifier in ice cream production. For this purpose, the effect of different ratios of gypsum extract on the steady, dynamic rheological properties and microstructural properties of the ice cream mix was aimed. All of the ice cream mix samples showed non newtonian shear thinning character. K and n values were calculated by modeling the rheological properties of the steady shear exponent with the law model. The K value of the frozen samples decreased to a certain level with the addition of gypsum extract, but showed the highest value in the sample containing 0.3% linseed and 0.1% lecithin. All of the ice cream mix samples exhibited viscoelastic solid character. In the ice cream mix samples produced with gypsum extract, the oil droplets showed a more homogeneous distribution in the form of small particles. The results of this study showed that the gypsum extract could be used successfully as an emulsifier in ice cream production.
+Yazar isimleri: ['Halis KABLAN', 'Nevzat ARTIK', 'Salih KARASU', 'Zeynep Hazal TEKİN', 'Osman SAĞDIÇ', 'Hasan CANKURT']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1086551
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2304609

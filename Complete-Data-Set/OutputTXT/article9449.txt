@@ -1,0 +1,7 @@
+Makale Başlığı: Novel Solutions of Perturbed Boussinesq Equation
+Özet: In this article, we have worked on the perturbed Boussinesq equation. We have applied the generalized Kudryashov method (GKM) and sine-Gordon expansion method (SGEM) to the perturbed Boussinesq equation. So, we have obtained some new soliton solutions of the perturbed Boussinesq equation. Furthermore, we have drawn some 2D and 3D graphics of these results by using Wolfram Mathematica 12.
+Yazar isimleri: ['Şeyma TÜLÜCE DEMİRAY', 'Uğur BAYRAKCI']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Journal of Mathematical Sciences and Modelling
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jmsm/issue/73450/1123178
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2455053

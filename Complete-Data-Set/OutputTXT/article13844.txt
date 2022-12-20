@@ -1,0 +1,7 @@
+Makale Başlığı: The Broad Band Optical Absorber Designed By Multilayered Hyperbolic Metamaterial
+Özet: In this study, a multilayered hyperbolic metamaterial has been designed that exhibits a broad band optical absorption, especially in optical region. In that proposed structure, three different metals (Ag, Au, and Al) and a semiconductor material (InGaAs) have been employed. Optical calculations are performed by using the Transfer Matrix Method. Optical absorption and reflection spectra are determined for different incident angle values. Hyperbolic dispersion regions of the metal-dielectric multilayered structures have been determined, also contour graphs of the structures, depend on the incident angles are obtained. Consequently, the best optical absorption response is found for the structure in which Ag is used as metal component.
+Yazar isimleri: ['Sevinç EŞEN', 'Haluk ŞAFAK']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Selçuk Üniversitesi Fen Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sufefd/issue/72810/1119231
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2438809

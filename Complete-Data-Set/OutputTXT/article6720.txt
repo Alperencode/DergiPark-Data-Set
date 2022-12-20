@@ -1,0 +1,7 @@
+Makale Başlığı: Ricci curvature for pointwise semi-slant warped products in non-Sasakian generalized Sasakian space forms and its applications
+Özet: We find Ricci curvature bounds for pointwise semi-slant warped products submanifolds in non-Sasakian generalized Sasakian space forms in this work, and analyze the equality case of the inequality. The derived inequality is also used to develop a number of applications.
+Yazar isimleri: ['Mohd AQUİB', 'Siraj UDDİN', 'M. Hasan SHAHİD']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1034883
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2124880

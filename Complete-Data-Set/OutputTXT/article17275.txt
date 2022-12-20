@@ -1,0 +1,7 @@
+Makale Başlığı: UŞAK ÜNİVERSİTESİ ÖĞRENCİLERİNİN KARİYER PLANLAMALARI  ÜZERİNE İSTATİSTİKSEL BİR ANALİZ
+Özet: Üniversite öğrencilerinin kariyer planlarında etkili olan unsurlara bakıldığında aile, sosyal çevre ve ekonomik beklentilerin olduğu görülecektir. Uşak üniversitesi öğrencileri arasında kariyer planlarını etkileyen unsurlara bakmak için 5’li likert tipi ölçeği ile hazırlanmış bir anket uygulaması yapılmıştır. Anket iki ölçekten oluşmaktadır. Aile ve kariyer planı ölçekleri. Tüm fakültelere uygulanan anket sonucunda elde edilen veriler ışığında, SPSS 25 sürüm program ile analizler yapılmıştır. Buna göre kariyer planlamasında cinsiyet, eğitim görülen bölüm ve anket sorularında hedeflenen sekiz başlıktaki amaçlara göre analizler yapılmıştır. İkili kategorik değişkenler için Independent T-Testi uygulanmıştır. Burada anlamlılık düzeyine göre hipotezlerin değerlendirilmesi yapılmıştır. Eğitim görülen alanlara göre analizde ise one way anova testi uygulanmış ve sonuçları değerlendirilmiştir. Bu veriler çerçevesinde ankette yer alan ölçeklerin soruları amaçlarına göre analiz edilerek çalışma sonuçlandırılmıştır.
+Yazar isimleri: ['Şahin ÇETİNKAYA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uşak Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/usaksosbil/issue/70838/947241
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1804181

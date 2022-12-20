@@ -1,0 +1,7 @@
+Makale Başlığı: Editörden
+Özet: 64. Sayı Editör yazısı.. Editörün sayıyı sunuşu ve  makalelerle ilgili kısa bilgilendirmesi
+Yazar isimleri: ['Sabri KEMAHLI']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Tıp Eğitimi Dünyası
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ted/issue/72238/1166876
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2615548

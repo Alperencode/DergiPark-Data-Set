@@ -1,0 +1,7 @@
+Makale Başlığı: Üretim Süreçlerinde İstatistiksel Kalite Kontrolü Uygulamaları Üzerine Bir Araştırma
+Özet: İşletmeler ürün ve hizmet üretirken, belirli standartları göz önünde bulundurmaları gerekir. Bu standardı sağlamak ve üretimin hedeflenen kaliteye uygunluğunu denetlemek, bazı kalite araç ve yöntemlerini kullanmayı gerektirir. Bu bağlamda işletmeler, üretim süreçlerindeki doğal ve özel varyasyonları denetleyebilmek için, Shewhart tarafından 1920’lerden itibaren ortaya atılan kontrol diyagramlarını ve istatistiksel araç ve yöntemleri kullanmaları önem arz etmektedir. Bu çalışma, istatistiksel kalite kontrolü çalışmaları hakkında, DergiPark ve TR Dizin’in arama motorlarında, “istatistiksel kalite kontrolü”, “istatistiksel süreç kontrolü” ve “istatistiksel proses kontrolü” anahtar kelimeleriyle yapılan literatür araştırmasını özetlemeyi ve araştırmaya konu olan çalışmaların incelenmesini amaçlamaktadır.
+Yazar isimleri: ['Mustafa BAYHAN', 'İrfan YACAN', 'Ayten DEMİREL']
+Yayın Yılı: 28 Temmuz 2022
+Dergi ismi: Yeni Fikir Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yenifikirjournal/issue/71498/1126280
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2467785

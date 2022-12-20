@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRKİYE’DE 1991-2019 YILLARI ARASI BEBEK ÖLÜMLERİNİN SOSYOEKONOMİK BELİRLEYİCİLERİ
+Özet: Bebeklerin ölüm oranı, ülkelerin başta ekonomik ve sağlık durumları ile ilgili olarak birçok ekonomik ve sosyal değişkenler ile yakından ilgilidir. Ekonomi ile birlikte sağlık sisteminin gelişmesi ve sosyoekonomik imkânların artmasının bebek ölümleri ile ilgili olduğu düşünülmektedir. Bu amaçla bebek ölümleri ile sosyal ve ekonomik değişkenler arasındaki ilişki ekonometrik yöntemlerle araştırılmıştır. Çalışmada bebek ölümünün ekonomik değişkenlerle ilişkisinin ölçülmesi için ekonomik büyüme ve enflasyon değişkenleri kullanılmıştır. Bebek ölümlerinin sosyal değişkenlerle ilişkisini ölçmek için ise okuma-yazma bilen çocuk sayısı ve yaşam beklentisi değişkenleri kullanılmıştır. Bu değişkenler 1991-2019 yılları arası zaman dönemi için toplanmıştır. Çalışmada bu ilişkilerin analizi için ise Granger Nedensellik Testine başvurulmuştur. Granger Nedensellik Testi sonuçlarına göre bebek ölümleri ile beraber ekonomik ve sosyal değişkenlerin tamamı ile tek yönlü nedensellik ilişkisi tespit edilmiştir.
+Yazar isimleri: ['Yasemin TELLİ ÜÇLER']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nohusosbil/issue/71192/1124665
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2461049

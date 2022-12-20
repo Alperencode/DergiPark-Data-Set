@@ -1,0 +1,7 @@
+Makale Başlığı: Al 6061/B4C/GNP Hibrit Kompozitin İşlenmesinde Takım Aşınma Davranışlarının İncelenmesi
+Özet: Bu çalışmada Al 6061 alaşımı içerisine farklı oranlarda borkarbür (B4C) ve grafen nanoplaka (GNP) takviye edilen hibrit kompozit malzemenin tornada işleme deneyleri yapılarak kullanılan kesici takımların aşınma davranışları incelenmiştir. B4C ve GNP katkısının takım aşınması üzerindeki etkisinin belirlenmesi amaçlanmıştır. Deneysel çalışmanın ilk aşamasında vortex yöntemiyle farklı B4C ve GNP takviye oranlarında hibrit kompozit malzemeler üretilmiştir. Üretilen kompozit numuneler üzerinde kuru işleme koşullarında, sabit kesme derinliğinde, üç farklı kesme hızı ve ilerleme değeri kullanılarak CNC tornada işleme deneyleri gerçekleştirilmiştir. İşleme deneylerinde kullanılan kesici takımların dijital mikroskop görüntüleri çekilerek aşınma davranışları değerlendirilmiştir. Hibrit kompozit yapı içerisindeki B4C takviye oranının artışına bağlı olarak, tüm kesme parametrelerinde takım aşınmalarında önemli miktarlarda artışlar olduğu görülmüştür. Kompozit yapı içerisindeki GNP katkısının işlenebilirliği bir miktar kolaylaştırdığı, grafenin katı yağlayıcı özellik sergilediği ve takım aşınmalarını azaltıcı etki gösterdiği anlaşılmıştır.
+Yazar isimleri: ['Selçuk YAĞMUR', 'Muharrem PUL']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1096103
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2343346

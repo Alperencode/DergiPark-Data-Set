@@ -1,0 +1,7 @@
+Makale Başlığı: İşbirlikçi Oyun Teorisindeki Bir Çözümün Aksiyomatik Karakterizasyonu
+Özet: İşbirlikçi oyun teorisinin yöneylem araştırması uygulamalarındaki en yaygın kullanılan çözümlerinden biri olan Shapley değeri farklı oyun teorisi modellerinde tanımlanmış ve aksiyomatik olarak karakterize edilmiştir. Bu makalede diferansiyel marjinaliti aksiyomu kullanılarak işbirlikçi oyunlardaki en önemli çözüm kavramlarından biri olan Shapley değeri için yeni bir karakterizasyon verilecektir. Bu aksiyom, iki oyuncunun ödeme farklılıklarının sadece marjinal katkılarının farklılıklarına bağlı olduğunu göstermektedir. Verimlilik aksiyomu, oyuncuların ödemelerinin toplamının büyük koalisyonun ödemesine eşit olması olarak tanımlanmaktadır. Null oyuncu özelliği, bir oyunda null oyuncu varsa bu oyuncunun oyuna herhangi bir katkısı olmaması demektir. Bu çalışmada, Shapley değeri verimlilik aksiyomu, null oyuncu özelliği ve diferansiyel marjinaliti aksiyomları ile yeniden tanımlanacaktır.
+Yazar isimleri: ['Osman PALANCİ']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1188974
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2707980

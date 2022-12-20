@@ -1,0 +1,7 @@
+Makale Başlığı: An application for the PID-based optimizer loop: Estimation of the annual production regression models of Malatya’s apricot
+Özet: In this study, a data analysis application for the PID-based optimizer loop, which was previously proposed in a former study, is carried out. In this application, quadratic and cubic polynomial regression models were obtained for the estimation of annual apricot production by using the yearly total apricot production data of Malatya between 1991 and 2020. In addition, an average of these regression model estimations was calculated to increase estimation reliability. Annual apricot production amount was estimated by using the regression models obtained with the PID-based optimizer system between 2021-2025. The results were compared with the results obtained with the Matlab curve fitting toolbox.
+Yazar isimleri: ['Furkan Nur DENİZ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Dicle Üniversitesi Mühendislik Fakültesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dumf/issue/72718/1145295
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2544299

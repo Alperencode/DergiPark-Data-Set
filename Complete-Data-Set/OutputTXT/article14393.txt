@@ -1,0 +1,7 @@
+Makale Başlığı: Fourier Ayrıştırma Metodu ile Lane-Emden Denkleminin Çözümü
+Özet: Bu makalede Fourier ayrıştırma metodunu kullanarak Lane-Emden tipi denklemlerin bir sınıfının çözümünü elde etmeyi denedik. Bu metot Fourier dönüşümü ve Adomian ayrıştırma metodu (FADM) birlikte kullanılarak elde edilir.
+Yazar isimleri: ['Murat DÜZ']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/978260
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1906838

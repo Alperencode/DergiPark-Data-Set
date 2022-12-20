@@ -1,0 +1,7 @@
+Makale Başlığı: PISA FEN OKURYAZARLIĞI YETERLİK DÜZEYLERİNİN ÖLÇME VE DEĞERLENDİRME VE FEN BİLİMLERİ ALAN UZMANLARI AÇISINDAN DEĞERLENDİRİLMESİ
+Özet: Bu araştırmada, çeşitli ulusal düzeydeki sınavlardan seçilen sekizinci sınıf fen bilimleri testlerindeki maddelerin PISA’da tanımlanan fen okuryazarlığı yeterlik düzeylerine göre dağılımlarının incelenmesi amaçlanmıştır. Bu inceleme fen bilimleri ile ölçme ve değerlendirme uzmanlarının görüşleri doğrultusunda gerçekleştirilmiştir. Araştırmada doküman inceleme yöntemi kullanılmıştır. Araştırmaya, ölçme ve değerlendirme alanından 27, fen bilimleri alanından 28 uzman katılmıştır. Verilerin toplanmasında uzmanlardan, sekizinci sınıf fen bilimleri testlerindeki her bir maddenin PISA Fen okuryazarlığı yeterliklerine göre düzeylendirilmesi istenmiştir. Verilerin analizinde, uzmanların her bir madde için yapmış olduğu değerlendirmelerin mod değeri ölçme düzeyi ölçüsü olarak kullanılmıştır. Uzmanların uyum değeri, varyans analiziyle güvenirlik kestirimi yollarından biri olan intraclass (grup içi) korelasyon katsayısıyla hesaplanmıştır. Araştırmanın sonucunda, test maddelerinin PISA fen okuryazarlığına göre düzeylendirilmesinde ölçme ve değerlendirme uzmanlarının fen bilimleri uzmanlarına göre daha yüksek uyum gösterdiği gözlemlenmiştir.
+Yazar isimleri: ['Eray SELÇUK', 'Abdullah Ata TEZBAŞARAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Anadolu Öğretmen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aod/issue/69956/1096600
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2345314

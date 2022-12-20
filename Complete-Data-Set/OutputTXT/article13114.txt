@@ -1,0 +1,7 @@
+Makale Başlığı: Design and Control of A Single-Phase Grid-Connected Inverter
+Özet: The energy demand has been increasing over the last decade. With the integration of renewable energy sources, grid-connected inverters play a key role in a power system. The main objective of the paper is to discuss a grid-connected inverter with single-phase structure in particular. The design and working principle of a basic grid-connected inverter are presented together with the cycle-by-cycle average (CCA) model. The LCL filter design is also introduced to decrease the current harmonics. To attain unity power factor operation, the closed loop control is essential for the grid-connected inverters. For this reason, a current controller in dq-frame is performed by utilizing MATLAB/Simulink environment. The results indicate that the suggested current controller presents good performance during the variations. This study is anticipated to draw the attention of grid-connected inverter designers and serve as a reference for them.
+Yazar isimleri: ['Mehmet Zahid EREL']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/1163609
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2602826

@@ -1,0 +1,7 @@
+Makale Başlığı: NiN (N=6-55) Kümelerinin Geometrik Büyümesi ile Erime Davranışı İlişkisinin İncelenmesi
+Özet: NiN (N=6-55) kümelerinin her bir atom eklendiğinde elde edilen minimum enerjili geometrik yapılarının büyüme davranışı ile birlikteerime davranışı incelenmiştir. Bunun için parçacıklar arası etkileşmelerde Sutton-Chen potansiyelinin kullanıldığı mikrokanonikMoleküler Dinamik (MD) simülasyon yönteminden faydalanılmıştır. MD simülasyonundan elde edilen bağ uzunluğundakidalgalanmaların kare ortalamasının karekökü δ(rms) ile çoklu histogram yöntemi kullanılarak hesaplanan ısı kapasitesi eğrilerinin,atom sayısı arttığında nasıl bir davranış gösterdikleri ve kümelerin en kararlı geometrileri ile olan ilişkileri belirlenmiştir. δ(rms) lerin fazgeçiş bölgesine karşılık gelen, ısı kapasitesi eğrilerinin maksimumları ve global minimumları ile birinci izomerlerinin enerji farklarınınatom sayısına bağlı değişim grafikleri incelenmiş ve N=13, 19, 38, 48, 50, 55 kümelerinin en kararlı yapıda olduğu bulunmuştur.
+Yazar isimleri: ['Meral ERYÜREK']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Karaelmas Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/karaelmasfen/issue/70131/950373
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1816420

@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Selected Macroeconomic Variables and Expectation Indices on the BIST 100 Index
+Özet: In this study, the macroeconomic factors and expectation indices affecting the BIST 100 index have been examined. The optimum Autoregressive Distributed Lag (ARDL) model has been created by utilising the Python programming language (Python) using the ARDL method. As a result of the analysis, it has been determined that long-term variables such as United States dollar Turkish lira parity (USD/TRY), Economic Confidence Index (EGE), and Consumer Price Index (TÜFE) are correlated in the positive direction with the dependent variable BIST 100 index and in the negative direction with the 5-Year Bond Interest (FAİZ) and Volatility Index (VIX) variables. In contrast, Brent petrol United States dollar parity (BRENT) is not statistically significant.
+Yazar isimleri: ['Ayşe ERGİN ÜNAL', 'Serkan NAS', 'Mürvet HEYBELİ']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1059537
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2198941

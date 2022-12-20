@@ -1,0 +1,7 @@
+Makale Başlığı: Determining the Relationships Between Domestic Credits, Economic Growth and Inflation in Turkiye by Nonlinear  Cointegration Analysis
+Özet: The aim of this study is to determine the relationship between GDP and inflation and domesticloans given by banks to the private sector by using time series models. In this study, in which the1972-2020 annual data for Turkiye were used, Harvey et al. (2008) Harvey and Leybourne (2007)linearity tests, traditional unit root tests for linearly determined series and Kapetanios, Shin and Snell(2003) (KSS) unit root tests for nonlinear series were performed. After the series were determined tobe stationary, Kapetanios, Shin and Snell (KSS) (2006) cointegration test was performed. According tothe results of the analysis, no cointegrated relationship was found between the GDP and inflation anddomestic loans given by banks to the private sector in Turkiye. As a result, it can be said that there isno pass-through effect on GDP and inflation rates as a result of the increase/decrease in loans givenby banks to the private sector in Turkiye.
+Yazar isimleri: ['Ayça DOĞANER', 'Güldenur ÇETİN']
+Yayın Yılı: 22 Eylül 2022
+Dergi ismi: BDDK Bankacılık ve Finansal Piyasalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bddkdergisi/issue/72654/1178334
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2663432

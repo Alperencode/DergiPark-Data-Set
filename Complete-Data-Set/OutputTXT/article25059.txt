@@ -1,0 +1,7 @@
+Makale Başlığı: On the Dynamics of Energy-growth Nexus: Evidence from a World Divided into Four Regions
+Özet: This paper provides a comparative analysis of the energy-growth nexus in different world regions by using an identical methodology for each one, thereby avoiding the usual problem of results varying due to the use of differing methodologies. To access data covering the entire world, four regions were used: (i) America (North and South); (ii) Europe and Central Asia; (iii) Asia Pacific; and (iv) Africa and the Middle East. Annual aggregated time series from 1968 to 2013, and an auto-regressive distributed lag (ARDL) approach were used. The results suggest that, in the long-run: (a) the “feedback hypothesis” is present in America and Asia Pacific; (b) the “conservation hypothesis” was found in Europe and Central Asia and in Africa and the Middle East. Moreover, the results suggest that historical events, such as the oil shocks of 1970 and 1980 and the 2008 financial crisis, have heterogenous impacts across the world.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351241
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361782

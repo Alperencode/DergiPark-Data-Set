@@ -1,0 +1,7 @@
+Makale Başlığı: Elastic Properties of Magnesium Based Mg3Bi Bioresorbable Alloys: Ab Initio Study
+Özet: Because metals have superior strength and high fracture toughness, their usability as biomaterials is widely investigated. Structural and elastic properties and anisotropy of Mg3Bi compound under ambient conditions were investigated by the first-principles method. It was seen that the findings obtained as a result of the research were compatible with the available literature data. Since the calculated elastic constants meet the mechanical stability criteria, it can be said that the studied compound is mechanically stable. Since the material is mechanically stable, elastic modulus, Vicker hardness, Debye temperature, melting temperature, and minimum thermal conductivity values were estimated. Due to the calculated Vicker hardness of around 1 GPa, the Mg3Bi compound can be categorized in the soft material class. Anisotropy, which is important in terms of engineering and materials science, has been investigated in detail.
+Yazar isimleri: ['Nihat ARIKAN', 'Tahsin ÖZER']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1110625
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2403906

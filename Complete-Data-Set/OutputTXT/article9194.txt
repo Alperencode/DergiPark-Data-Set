@@ -1,0 +1,7 @@
+Makale Başlığı: A New hyper chaotic algorithm for energy video communication security
+Özet: The usage of the cameras in facilities in the energy sector is becoming more and more common. In addition, with the widespread use of SCADA and the increase in automation of camera-based applications, ensuring security in video data communication has become more and more important. In this study, methods that have been successful in providing image security in previous studies in Ref.[1] have been improved to ensure the security of video data communication. These methods use Kurt-Modified Chua’s Circuit (KMCC) as random number generator. Proposed algorithms are efficient for energy sector secure video communication because of using hyperchaotic random number generator and also bit level scrambling, diffusion encryption to each frame of video.
+Yazar isimleri: ['Erol KURT', 'Soner MÜLAYİM']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Journal of Energy Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jes/issue/73468/1160773
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2591364

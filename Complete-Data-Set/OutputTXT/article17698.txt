@@ -1,0 +1,7 @@
+Makale Başlığı: The Socioeconomic Determinants of Suicide: A Panel Data Analysis
+Özet: Suicide has been a major public health issue worldwide and a growing number of researches have been conducted to unveil the association between socioeconomic factors and suicide rates. The aim of the present study is to detect if socioeconomic factors have impacts on suicide rates in age-adjusted, men, women and young people. To meet this objective, we used annual data on 47 countries for the 1996-2015 period. The results obtained from the panel data econometric analysis show that unemployment, fertility, alcohol consumption, divorce, women’s working rates have significant effects on suicide rates.
+Yazar isimleri: ['Mehmet DİNÇ']
+Yayın Yılı: 21 Temmuz 2022
+Dergi ismi: Yildiz Social Science Review
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yssr/issue/71338/1146860
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2550727

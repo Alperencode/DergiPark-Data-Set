@@ -1,0 +1,7 @@
+Makale Başlığı: THE RELATIONSHIP BETWEEN GOVERNMENT DEBT AND STATE-OWNED ENTERPRISES: AN EMPIRICAL ANALYSIS OF ESKOM
+Özet: This study empirically investigates the relationship between government debt and Eskom debt using Eskom’s financial statements and government debt data from 1985 – 2017. The paper uses a Vector Autoregression (VAR) model. Variance decomposition analysis shows large forecast error variances amongst all variables. The study finds that Eskom’s increase in revenue is largely attributed to tariff increases and access to various funds rather than increases in sales. The study also shows that Eskom will continue to be illiquid and insolvent, thus fiscal consolidation or privatization are suggested as fiscal strategies.
+Yazar isimleri: []
+Yayın Yılı: 30 Haziran 2020
+Dergi ismi: International Journal of Economics and Finance Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefs/issue/51660/670625
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/919636

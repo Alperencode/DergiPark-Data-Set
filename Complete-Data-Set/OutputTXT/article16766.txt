@@ -1,0 +1,7 @@
+Makale Başlığı: EXAMINING THE RELEATIONSHIP BETWEEN JOB SATISFACTION AND ORGANIZATIONAL IDENTIFICATION THROUGH META-ANALYSIS: A RESEARCH IN TURKISH CONTEXT
+Özet: The purpose of this meta-analytic study is to determine the magnitude of the relationship between job satisfaction and organizational identification, as well as whether there is a significant effect of sector variable on this relationship. In this context, the current meta-analysis contains 22 papers published between 2017 and 2022 that examined the relationships between job satisfaction and organizational identification, including correlation coefficient and sample size data and met the research's selection criteria. The "Fisher Z" coefficient was applied to compute the effect size between job satisfaction and organizational identity using the random-effect model. Data was analyzed using Comprehensive Meta Analysis 3.0. Based on the findings, the overall effect size between job satisfaction and organizational identification was high and positive. In addition, the relationship between job satisfaction and organizatonal identification was moderated sector variable.
+Yazar isimleri: ['Taner ACUNER', 'Mustafa Özgün ATALAY', 'Pınar AYDEMİR']
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: Uluslararası İktisadi ve İdari İncelemeler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ulikidince/issue/73302/1142872
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2534671

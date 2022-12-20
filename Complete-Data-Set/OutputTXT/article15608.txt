@@ -1,0 +1,7 @@
+Makale Başlığı: On the Stability of Finite Difference Scheme for the Schrödinger Equation Including Momentum Operator
+Özet: 
+Yazar isimleri: ['Nigar YILDIRIM AKSOY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjos/issue/72750/1172249
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2637930

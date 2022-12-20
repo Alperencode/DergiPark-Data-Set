@@ -1,0 +1,7 @@
+Makale Başlığı: Toprak Nemi Belirlenmesinde Kullanılan Tansiyometrenin Arazi Kalibrasyonu
+Özet: Bu çalışma, Erciyes Üniversitesi Tarımsal Araştırma ve Uygulama Merkezinde 2015 yılında yürütülmüştür. Damla sulama sistemi ile sulanan çerezlik kabakta farklı toprak derinliklerinde (30 cm, 60 cm ve 90 cm) tansiyometre kalibrasyonu gravimetrik yöntem baz alınarak kalibrasyonu gerçekleştirilmiştir. Tansiyometrenin arazideki performansı derinliğe göre farklılık göstermiştir. Tansiyometrenin farklı derinlikleri için ortalama esaslı hata (MBE) değeri 30, 60 ve 90 cm derinlikleri için sırasıyla1.62, 1.37 ve 0.58 olarak bulunmuştur. Hata kareler ortalaması (RMSE) değerleri ise 30, 60 ve 90 cm derinlikleri için sırasıyla 4.65, 3.45 ve 1.72 olarak tespit edilmiştir. Ortalama toprak derinliği için tansiyometre ile gravimetrik nem içeriği arasında Ypv-gravimetrik = 0.76Pv(alet) – 1.568 eşitliği ve R2 = 0.70 regresyon katsayısı ile ifade edilen bir ilişki bulunmuştur.
+Yazar isimleri: ['Halil KIRNAK', 'Hasan Ali IRIK']
+Yayın Yılı: 18 Ekim 2022
+Dergi ismi: Türk Tarım ve Doğa Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkjans/issue/73036/990801
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1956153

@@ -1,0 +1,7 @@
+Makale Başlığı: Kalsiyum, D vitamini ve paratiroid hormon düzeylerinin kritik hastaların prognozuna etkisi
+Özet: Amaç: Sepsisli hastalarda elektrolit ve hormonlardaki değişimi değerlendiren yeterli çalışma yoktur. Çalışmamızın amacı serum kalsiyum (Ca), magnezyum (Mg), fosfor (P), 25-hidroksivitamin D (25(OH)D) ve paratiroid hormon (PTH) düzeylerindeki değişimler ile sepsisli hastalarda mortalite arasındaki ilişkiyi değerlendirmektir.Gereç ve Yöntem: Çalışmamız Ekim 2017-Ocak 2019 tarihleri arasında yoğun bakım ünitesinde (YBÜ) yatan sepsisli hastalar üzerinde yapılmıştır. Kalsiyum, Mg, P, 25(OH)D ve PTH düzeyleri, demografik ve klinik özellikleri ile birlikte hayatta kalan ve ölen hastalar karşılaştırıldı. Bulgular: Çalışmaya toplam 225 hasta alındı. 225 hastanın 94'ü (%41,2) öldü ve 131'i (%58,8) taburcu edildi. Ölen hastalarda hayatta kalan hastalardan, PTH ve P seviyeleri anlamlı derecede daha yüksek, 25(OH)D, Ca ve Mg seviyeleri ise anlamlı derecede daha düşük bulundu.Sonuç: Sepsis sırasında hassas bir denge içinde olan Ca metabolizmasının hipokalsemi, hipomagnezemi, hiperfosfatemi, düşük 25(OH)D ve yüksek PTH yönünde değişmesi mortalite ile ilişkilendirildi.
+Yazar isimleri: ['Esra YAKIŞIK ÇAKIR', 'Çiğdem YÜCEL', 'Murat KIZILGÜN', 'Işıl ÖZKOÇAK TURAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Cukurova Medical Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cumj/issue/72549/1124112
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2458817

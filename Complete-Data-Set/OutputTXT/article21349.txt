@@ -1,0 +1,7 @@
+Makale Başlığı: Formation and characterization of mechanochemically generated free lignin radicals from olive seeds
+Özet: In this study, formation and quantification of mechanochemically generated free radicals of lignin were evaluated after the extraction of lignin from olive seeds and detailed lignin characterization was performed. Lignin was extracted from crushed olive seeds as an insoluble solid using Klason method. Isolated lignin was mechanochemically grinded under cryo conditions using Cryomill and particlesizes were determined by using Zeta Sizer, structural changes were followed by XRD and FTIR-ATR; thermal stabilities were tracked by TGA and DSC. In order to enable solubility demanding studies (such as H-1-NMR and GPC), acylation of lignin was accomplished. ESR measurements were completed to prove the nature of the radicals. Free radicals cavenging activity of olive seed lignin was determined and quantified using 2-diphenyl-1-picrylhydrazyl (DPPH) method. Number of created mechanoradicals (per gram of olive seed lignin) was calculated from the corresponding UV-Vis spectra. Finally, morphological changes of the lignin over cryomilling was evaluated using SEM.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944715
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1794908

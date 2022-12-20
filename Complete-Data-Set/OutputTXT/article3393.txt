@@ -1,0 +1,7 @@
+Makale Başlığı: Dominator semi strong color partition in graphs
+Özet: Let GG =(V,E)(V,E) be a simple graph. A subset SS is said to be Semi-Strong if for every vertex vv in VV, |N(v)∩S|≤1|N(v)∩S|≤1,  		or no two vertices of SS  have  the same neighbour in VV, that is, no two vertices of SS are joined by a path of length two in VV. 	The minimum cardinality of a semi-strong partition of GG is called the semi-strong chromatic number of GG and is denoted by χsGχsG. A proper colour partition is called a dominator colour partition if every vertex dominates some colour class,  that is , every vertex is adjacent with every element of some colour class. In this paper, instead of proper colour partition, semi-strong colour partition is considered and every vertex is adjacent to some class of the semi-strong colour partition.Several interesting results are obtained.
+Yazar isimleri: ['Raman SUNDARESWARAN']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/1014919
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2047078

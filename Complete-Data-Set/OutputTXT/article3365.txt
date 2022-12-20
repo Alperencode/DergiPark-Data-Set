@@ -1,0 +1,7 @@
+Makale Başlığı: Etkin Yağış Metotlarının Kıyaslaması: Orta Fırat Havzası Örneği
+Özet: Yağış, etkileri en geniş olan iklim parametrelerinden biridir. Tüm yağışlar toprağa sızmaz; bir kısmı buharlaşabilir; başka bir kısmı yüzey akışına dönüşebilir.  Depolanan suyun yalnızca bir kısmı, bitkinin terleme ihtiyaçlarını karşılamak için kökler tarafından alınır. Bu nedenle, etkin yağışı bilmek gerekmektedir. Bu çalışma, etkin yağış miktarını hesaplamak ve etkin yağış tahmini için kullanılan farklı yöntemleri karşılaştırmak amacıyla hazırlanmıştır. Bu amaçla tarım potansiyeli bakımından önemli ve aynı zamanda da hassas olan Orta Fırat Havzası’nda 15 istasyonun ortalama aylık yağış verilerinden yararlanarak etkin yağış değerleri hesaplanmıştır. FAO tarafından önerilen USDA Toprak Koruma Servisi (USDA-SCS), FAO/AGLW Güvenilir Yağış formülü ve Ampirik Formül olmak üzere 3 farklı metodun karşılaştırılması yapılmıştır. Sonuçlara göre, Orta Fırat Havzası için en uygulanabilir yöntem USDA-SCS metodu olarak belirlenmiştir. Bununla birlikte, yine de özellikle hassas alanlarda, bu yöntemleri toprak denge yöntemleri ile bütünleşik değerlendirmek, yöntemlerin simülasyon kalitesi hakkında daha eksiksiz bir genel bakış sağlar.
+Yazar isimleri: ['Gülşen KUM']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Coğrafi Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aucbd/issue/72680/1130999
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2487563

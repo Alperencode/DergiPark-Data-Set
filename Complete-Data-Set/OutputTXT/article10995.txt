@@ -1,0 +1,7 @@
+Makale Başlığı: Modeling of the complex hydrocarbon traps by the shot domain acoustic finite difference method and data-processing
+Özet: 
+Yazar isimleri: ['Şerife BOĞAZKESEN']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Maden Tetkik ve Arama Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bulletinofmre/issue/72194/985502
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1935454

@@ -1,0 +1,7 @@
+Makale Başlığı: A Review of Electrical Bicycle Sharing Systems as an Innovative Application
+Özet: Urbanization and motorization increases encourage traffic congestion and related problems. This triggers alternative and innovative solution in the context of advanced technology. The necessity of providing balanced modal distribution and intermodal integration is a well-known issue. In this paper within this framework firstly existing case is expressed on axial of developing and developed countries and then electrical bicycle sharing systems are reviewed. After these battery charging system and data transfer processes are examined respectively. Later in this context operational performance is evaluated and lastly conclusions and recommendations are shared.
+Yazar isimleri: ['Mehmet Çağrı KIZILTAŞ', 'Yunus AYÖZEN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1076641
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2265753

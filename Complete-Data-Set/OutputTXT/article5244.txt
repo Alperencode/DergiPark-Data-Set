@@ -1,0 +1,7 @@
+Makale Başlığı: Makine Öğrenimi Teknikleri kullanılarak COVID-19 Pandemisinin ölüm oranının sınıflandırılması
+Özet: COVID-19 pandemisi ortaya çıktığından beri, enfekte olmuş bireylerin sayısını ve COVID-19 salgınının ölüm oranını tahmin etmek için dünya çapında birçok epidemiyolojik model geliştirilmiştir. CoVID-19 üzerinde makine öğrenimi teknikleri kullanılarak geliştirilmiş birkaç model bulunmaktadır. Ancak öznitelik seçimini ayrıntılı olarak ele alan çalışmalar oldukça sınırlıdır. Bu nedenle, bu çalışmanın amacı (i) çeşitli özelliklerin bağımsız ve etkileşimli etkilerini araştırmak ve (ii) COVID-19 salgınının ölüm oranını sınıflandırmak için önemli olan algoritmaları bulmaktır. Lojistik regresyon ve karar ağacının (C4.5, Random Forests ve REPTree) en uygun algoritmalar olduğu bulunmuştur. Öznitelik seçme yöntemleriyle elde edilen çeşitli öznitelikler, binde yeni test sayısı, milyonda yeni vaka, milyonda hastane hasta sayısı ve milyonda haftalık hastane kabulüdür. Bu çalışmanın önemi, birkaç özellik ile yüksek oranda sınıflandırma elde edilmiş olmasıdır. Bu çalışma, sınıflandırmada sadece en ilgili özelliklerin dikkate alınması gerektiğini ve sınıflandırmada tüm değişkenlerin kullanılmasının gerekli olmadığını göstermiştir.
+Yazar isimleri: ['Efehan ULAŞ', 'Enes FİLİZ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Erzincan Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erzifbed/issue/72358/1090984
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2322677

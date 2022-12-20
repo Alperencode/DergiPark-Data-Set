@@ -1,0 +1,7 @@
+Makale Başlığı: Sentiment analysis with ensemble and machine learning methods in multi-domain datasets
+Özet: 
+Yazar isimleri: ['Muhammet Sinan BAŞARSLAN', 'Fatih KAYAALP']
+Yayın Yılı: 15 Nisan 2023
+Dergi ismi: Turkish Journal of Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tuje/issue/69578/1079698
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2277406

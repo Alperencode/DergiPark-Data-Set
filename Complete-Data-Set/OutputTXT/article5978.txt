@@ -1,0 +1,7 @@
+Makale Başlığı: Examining the relationship between trade union density, and social expenditures: Evidence from OECD countries
+Özet: This study investigates the existence of the relationship between trade union density, and social expenditures. For this purpose, we use 16 OECD countries that were selected randomly between 1990 and 2017. First, the correlation matrix results indicate that there is a statistically significant and positive relationship between trade union density, human capital and, social expenditures, while a negative relationship is found between the annual average working hours and social expenditures. Driscoll-Kraay Standard Errors estimation results determined that the increase in human capital affects social expenditures positively, while the increase in working hours affects social expenditures negatively.
+Yazar isimleri: ['Ali ÇELİK']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Gazi İktisat ve İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gjeb/issue/73274/1059795
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2199918

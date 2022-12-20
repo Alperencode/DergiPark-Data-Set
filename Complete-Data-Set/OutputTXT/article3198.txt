@@ -1,0 +1,7 @@
+Makale Başlığı: Tedarik Zincirlerinde Sürdürülebilir İmalatın Önündeki Engelleyici Faktörlerin Tam Tutarlılık Yöntemiyle (FUCOM) Değerlendirilmesi
+Özet: Tedarik zincirlerinde   sürdürülebilir   imalat,   doğal   kaynaklara   bağımlılık,   karbon emisyonu yaratma ve atık üretme bakımından günümüz rekabet ortamında önem kazanmaktadır. İklim değişikliğinin, dünyanın birçok ülkesinde sel, kuraklık, orman yangınları gibi olumsuz etkileri tüketicilerin çevreye, insana, topluma duyarlı üretilmiş ürün kullanma hassasiyetini artırmaktadır. Bu çalışma, bir tarım makineleri imalat işletmesi için sürdürülebilir imalat uygulamasının önündeki engelleri belirlemeyi ve önceliklendirmeyi amaçlamaktadır. Bu engelleri ekonomik, çevresel, sosyal ve organizasyon dışı kategorilerde önceliklendirmek için FUCOM çok kriterli karar verme yönteminden faydalanılmıştır. Yapılan hesaplamalar sonucunda, yüksek yatırım maliyetleri, düşük yatırım getirisi ve finansal fon eksikliği en önemli kriterler olarak tespit edilmiştir. Engellerin farklı açılardan önceliklendirilmesinin, hükümet ve sektördeki karar/politika yapıcıların bu engelleri etkili bir şekilde azaltmalarına yardımcı olması beklenmektedir.
+Yazar isimleri: ['Gülşah Sezen AKAR']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Bucak İşletme Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bifd/issue/73265/1177985
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2661998

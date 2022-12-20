@@ -1,0 +1,7 @@
+Makale Başlığı: Ensemble Regression-Based Gold Price (XAU/USD) Prediction
+Özet: 
+Yazar isimleri: ['Zeynep Hilal KİLİMCİ']
+Yayın Yılı: 19 Temmuz 2022
+Dergi ismi: Journal of Emerging Computer Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ject/issue/68031/1100492
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2362033

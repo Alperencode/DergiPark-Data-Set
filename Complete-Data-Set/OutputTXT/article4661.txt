@@ -1,0 +1,7 @@
+Makale Başlığı: TİCARİ AÇIKLIK, GELİR EŞİTSİZLİĞİ VE İNSANİ GELİŞME İLİŞKİSİ: PANEL VERİ ANALİZİ
+Özet: Çalışmada ticari açıklık, gelir eşitsizliği ve insani gelişme arasındaki ilişki incelenmiş ve Stolper-Samuelson teoreminin geçerliliği sınanmıştır. Bu bağlamda çalışmada 15 OECD ülkesinin 2004-2016 dönemine ait Gini endeksi, ticari açıklık oranı, İnsani Gelişme Endeksi, kişi başına gayrisafi yurtiçi hasılanın büyüme oranı ve karesi, beşeri sermaye, kamunun büyüklüğü, ekilebilir toprak miktarı ve enflasyon oranı değişkenleri kullanılarak panel veri analizi yapılmıştır. Çalışmada panel birim kök testleri, Kao panel eşbütünleşme testi, FMOLS yöntemi ve Granger nedensellik testi kullanılmıştır. FMOLS tahmincisine göre ticari açıklık 1 birim arttığında Gini endeksi 0.73 birim artmakta, İnsani Gelişme Endeksi 1 birim arttığında Gini endeksi 1.05 birim azalmaktadır. Ayrıca İnsani Gelişme Endeksi ve ticari açıklık Gini endeksine neden olmakta, İnsani Gelişme Endeksi ve ticari açıklık arasında çift yönlü bir nedensellik ilişkisi bulunmaktadır. Ticari açıklık arttığında Gini endeksinin de artması, elde edilen sonuçların Stolper-Samuelson teoremini desteklemediğini göstermektedir.
+Yazar isimleri: ['Çağla BUCAK', 'Fatih SAYGILI']
+Yayın Yılı: 29 Temmuz 2022
+Dergi ismi: Ege Stratejik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/esam/issue/71448/1089120
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2314893

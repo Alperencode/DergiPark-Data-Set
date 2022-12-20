@@ -1,0 +1,7 @@
+Makale Başlığı: Access to Cultural Heritage Through Digital Technologies: Interactive 3D Model of Akdamar Church
+Özet: Conservation, sustainability of cultural heritage, and transferring it to next generation and digital documentation of damaged cultural assets have become one of the priority issues of national and international societies. In recent years, developments in 3D modeling, augmented reality (AR) and web Technologies have made significant contributions to the digital preservation, visualization and access of cultural heritage. In the study, it is aimed to create a virtual, interactive and sustainable experience for Akdamar Church. For this purpose, an approach has been developed for mobile AR and web-based presentation applications based on 3D digital models. The results of the study showed that 3D modeling, AR and web-based visualization technologies make significant contributions to the digital access and therefore sustainability of cultural heritage. In addition, 3D digital visualization technologies have been observed to offer more opportunities to create enjoyable, fun and enriched tourism experiences in cultural heritage environments.
+Yazar isimleri: ['Ahmet USLU']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/960219
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1852600

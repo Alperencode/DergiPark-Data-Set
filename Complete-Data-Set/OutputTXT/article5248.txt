@@ -1,0 +1,7 @@
+Makale Başlığı: Breast Tumor Detection and Classification Based on Microwave Imaging
+Özet: 
+Yazar isimleri: ['Emin Argun ORAL']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Erzincan Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erzifbed/issue/72358/1130305
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2484699

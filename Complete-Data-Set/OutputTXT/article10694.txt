@@ -1,0 +1,7 @@
+Makale Başlığı: Hyper-Fibonacci and Hyper-Lucas Hybrinomials
+Özet: The hybrid numbers which are accepted as a generalization of complex, hyperbolic and dual numbers, have attracted the attention of many researchers recently. In this paper hyper-Fibonacci and hyper-Lucas  hybrinomials are defined. The recurrence relations, generation functions, as well as some algebraic and combinatoric properties are examined for newly defined hybrinomials.
+Yazar isimleri: ['Efruz Özlem MERSİN', 'Mustafa BAHŞİ']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1136873
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2511484

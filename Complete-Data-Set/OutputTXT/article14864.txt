@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Investigation of Textile Triboelectric Generators
+Özet: With respect to the theory of the four Triboelectric Generators (TEGs) operational modes, a testing method is proposed. It describes and imitates more precisely the real conditions of the motion of the materials in a wearable clothing based TEG. The phenomenon of triboelectricity is investigated from a clearly textile approach, using typical textile fabrics made by ordinary textile production methods and environmental friendly materials. The performance investigation is based on the comparison of their triboelectric outcomes. It is of special interest that cotton fabrics showed adequate electrical response, and among them the twill weave pattern offered the highest voltage outputs.
+Yazar isimleri: ['Aristeidis REPOULİAS', 'Arzu MARMARALI', 'Savvas VASSİLİADİS']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Tekstil ve Konfeksiyon
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tekstilvekonfeksiyon/issue/72837/1065348
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2221839

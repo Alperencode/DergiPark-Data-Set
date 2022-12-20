@@ -1,0 +1,7 @@
+Makale Başlığı: Binomial Transforms for Hybrid Numbers Defined Through Fibonacci and Lucas Number Components
+Özet: The main purpose of covering this article has been to examine the hybrid numbers defined through Fibonacci and Lucas number components $\{\hat{H}% _{U,n}\}$ and $\{\hat{H}_{V,n}\}$~and their binomial transforms $\{b\hat{H}% _{U,n}\}$ and $\{b\hat{H}_{V,n}\},$ respectively. Firstly, general sum formulas, binomial identities, which are not in the literature yet, about hybrid numbers $\{\hat{H}_{U,n}\}$ and $\{\hat{H}_{V,n}\}$ are discussed. Then, the recurrence relation is obtained for $\{b\hat{H}_{U,n}\}$ and $\{b% \hat{H}_{V,n}\}$ and some results have been found for the new sequence.
+Yazar isimleri: ['Arzu ÖZKOÇ']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1191648
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2718797

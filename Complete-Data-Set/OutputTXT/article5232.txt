@@ -1,0 +1,7 @@
+Makale Başlığı: On The Fano Planes in (7n-1)-dimensional Projective Spaces
+Özet: In this study, we obtain Fano planes whose points are (n-1)-dimensional subspaces and lines are (3n-1)-dimensional subspaces of P in (7n-1)-dimensional projective space P ,using (n;k)-SCID. We give examplesof Fano planes whose the lines of Fano configuration are planes and the points are points ofPG(6,2)and thelines of Fano configuration are 5-spaces and the points are lines ofPG(13,2).
+Yazar isimleri: ['Ziya AKÇA', 'Abdilkadir ALTINTAŞ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Erzincan Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erzifbed/issue/72358/982509
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1923715

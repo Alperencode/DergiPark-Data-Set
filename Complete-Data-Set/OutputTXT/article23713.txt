@@ -1,0 +1,7 @@
+Makale Başlığı: Freedom and Evolution in Science
+Özet: This article is about evolutionary design and freedom and is based on my new book, Freedom and Evolution: Hierarchy in Nature, Society and Science [1]. There is a lot to say about this broad subject, therefore I’ve reduced it to the topics of thermodynamics, freedom and evolution, diversity and hierarchy, and science and freedom. First, I will present the terminology, which will be followed by the applications of the evolution of cooling technology for high-density heat-generating components in a packet. Finally, I will show why this book is important for you, the reader, as well as for the practitioner.
+Yazar isimleri: ['Adrian BEJAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Seatific Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/seatific/issue/71311/1138630
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2518113

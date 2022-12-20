@@ -1,0 +1,7 @@
+Makale Başlığı: The role of some metal ions in enhancement of photocatalytic activity of Fe2O3-V2O5 binary oxide
+Özet: Fe2O3-V2O5 mixed oxides were synthesized with solid-state dispersion (SSD) and coprecipitation methods. In addition, transition metal oxides such as CuO, NiO, and Co3O4 were successfully loaded on the synthesized catalyst (Fe2O3-V2O5) using the SSD method. The composite catalysts were inspected for their photocatalytic activities in degrading 2,4-dichlorophenol under UV light enforcement. The produced samples were analyzed using X-ray diffraction, X-ray photoelectron spectroscopy, Fourier transform infrared spectroscopy, diffuse reflectance spectroscopy, scanning electron microscopy, photoluminescence, and the Brunauer-Emmett-Teller method. The addition of transition metal oxides improved the photocatalytic activity of Fe2O3-V2O5 (SSD). 1CuO wt% Fe2O3-V2O5 exhibited the highest percentage of 2,4-dichlorophenol degradation (100%) and the highest reaction rate (1.83 mg/L min) in 30 min. This finding is attributed to the distribution of CuO.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944725
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1794945

@@ -1,0 +1,7 @@
+Makale Başlığı: Modeling Love with 4D Dynamical System
+Özet: The dynamical modeling of romantic relationships is explained with a differential equation system designed to explain the development of love/hate feeling between two people over time. In this study, it was assumed that the individual's emotion was two-component, intimacy and passion, instead of a single-component feeling of love. As a result of this assumption, the relationship dynamics is represented by a four-dimensional system of equations. The possible results of this new 4D model were compared with the results of the classical 2D model and it was seen that they could give very different outputs from each other. In addition, situations that cannot be explained by classical models such as the end of passion in long-term relationships, relationships that turn from friendship to love, and couples reunited after separation are interpreted.
+Yazar isimleri: ['Kadir Can ERBAŞ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Chaos Theory and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/chaos/issue/73033/1131966
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2491544

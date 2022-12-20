@@ -1,0 +1,7 @@
+Makale Başlığı: Design and walking analysis of proposed four-legged glass cleaning robot
+Özet: In this study, a legged and wheeled robot model was proposed for cleaning the glass of greenhouses. The robot has four wheels and four legs, each with three degrees of freedom (DOF). The design, kinematic analysis and simulation of the robot was carried out. Glass greenhouses are created by placing glass sheets on T-shaped iron bars arranged in parallel at certain intervals. The robot performs the glass cleaning task by performing two different movements on greenhouse roof. As a first movement, the robot moves like a train moving on the rail on iron bars with wheels, cleaning the glass as it travels. After cleaning the glasses placed between two iron bars along a column, as second movement, the robot passes the next column using legs. These two movements continue until the entire roof of the greenhouse is cleaned. Kinematic analysis of this robot, which is designed with mechanical properties that can make these movements, has been made. Walking simulation of the robot was carried out according to the kinematic analysis. The simulation results showed that this proposed robot can be used to clean glass on the greenhouse roof.  
+Yazar isimleri: ['Nihat ÇABUK']
+Yayın Yılı: 15 Nisan 2023
+Dergi ismi: Turkish Journal of Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tuje/issue/69578/1011320
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2032856

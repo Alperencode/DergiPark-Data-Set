@@ -1,0 +1,7 @@
+Makale Başlığı: A Study on CO₂ Emissions in MINT Countries: Panel Cointegration and DOLSMG Analysis
+Özet: In this study, it is aimed to examine the cointegration relations between GDP per capita, trade openness ratio, per capita energy consumption and CO₂ emissions in the 1980-2020 period of MINT countries. The findings showed that the variables in question have a structure that moves together in the long run. According to the results of the DOLSMG estimator used to determine the long-term coefficients, has been determined that the increases in per capita GDP and per capita energy consumption increase the CO₂ emissions in the relevant country group. In addition, it was determined that the variable with the greatest effect on the increase in emission amount was energy consumption. In this context, it is noteworthy that the energy consumption per capita in Mexico and Turkey is above the group average. However, if the level of trade openness increases, it has been found that the emission level decreases, even though it has a low effect coefficient. The findings indicate that it is necessary to increase the efficiency level of energy use, to support foreign trade policies to reduce the amount of emissions, and to reduce the technologies that use high carbon in economic growth targets.
+Yazar isimleri: ['Dilara AYLA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1114486
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2418908

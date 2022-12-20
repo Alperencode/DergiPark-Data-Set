@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye'de Tüketim Modelinin Deşifre Edilmesi: Bir Euler Denkleminin İncelenmesi
+Özet: Politika yapıcıların ekonomik modellerinde tüketim için yapısal bir biçim varsaymaları nedeniyle tüketim dinamiklerini anlamak çok önemlidir. Bu çalışma, kredi ve banka kartı harcama verilerini kullanarak bir Euler denklemi tahmin etmekte ve Türkiye'deki tüketim dinamiklerini ayrıştırmaya çalışmaktadır. Standart Euler denkleminden farklı olarak, döviz kuru dinamiklerinin tüketim üzerindeki etkisini anlamak için bir modelleme şeması kullanılmaktadır. Bulgularımıza göre Türk Lirası değer kaybettikçe tüketim artmaktadır. Ayrıca, tüketim davranışında önemli bir alışkanlık oluşumu olduğunu gösteriyoruz. Bununla birlikte, geriye dönük harcama davranışı, gelecekteki tüketime ilişkin beklentiler tarafından domine edilmektedir.
+Yazar isimleri: ['Gülserim ÖZCAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: JOEEP: Journal of Emerging Economies and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joeep/issue/66260/1031889
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2113122

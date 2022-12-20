@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of Boron Carbide Reinforcement Amount on the Properties of Boron Carbide Reinforced Al Based Composites
+Özet: In this study, the production and characterization of Al matrix particles and compact materials containing 10%, 20% and 40% by weight Boron Carbide (B4C) were carried out. The electrical conductivity values of B4C reinforced Al matrix compact materials were determined as the lowest 6.97% IACS and the highest 20.73% IACS. As a result of experimental studies, it has been understood that B4C reinforcement, which increases in weight in the microstructure, has a positive effect on reducing the density of the structure and increasing its hardness. Density values of Al matrix compact materials containing 10%, 20% and 40% B4C by weight in their structure were measured as 2.622 gr/cm3, 2,598 gr/cm3 and 2,568 gr/cm3. Hardness values were measured as 244.34 HV(0.5), 270.16 HV(0.5) and 290.70 HV(0.5), respectively.
+Yazar isimleri: ['Serhatcan Berk AKÇAY', 'Temel VAROL', 'Onur GÜLER', 'Hüseyin Can AKSA']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/1023910
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2082520

@@ -1,0 +1,7 @@
+Makale Başlığı: İşletmelerde Hilenin Önlenmesi ve Tespitinde Davranışsal Muhasebe ve Nöromuhasebe Tekniğinin Uygulama Süreci ve Öneriler
+Özet: Hile, hayatın her alanında karşımıza çıkan ve tespiti zor bir durumdur. Hilenin tespiti genellikle ihbar yoluyla gerçekleşmektedir. Ulusal ve uluslararası düzeyde hileyi önlemeye ve tespit etmeye yönelik düzenlemeler yapılmıştır ve yapılmaya da devam etmektedir. Tüm meslek gruplarında olduğu gibi teknolojideki gelişmeler muhasebe ve denetim işlemlerini kolaylaştırmakta, finansal raporların elde edilmesini ve denetim sonucuna ulaşmayı hızlandırmaktadır. Bu durum aynı zamanda, hilenin yapılmasını ve hilenin tespitini kolaylaştırmakta ama hile riskini de artırmaktadır. Ancak davranış kökenli olabilecek bir hilenin tespiti için farklı yöntemlere ihtiyaç duyulmaktadır. İşte bu nokta, nörobilimsel tekniğin oluştuğu yerdir. Nöronlar üzerinde yapılan çalışmaların bir sonucu olarak; Nörobilimsel teknikler, olaylara verilen tepkileri tespit eden bilimsel bir tekniktir. Bu çalışmanın amacı, hilenin önlenebilmesi ve tespit edilebilmesi için davranışsal muhasebe bağlamında nöromuhasebe teknikleri ve kullanım alanlarına açıklık getirmeye çalışmak ve öneriler sunmaktır.
+Yazar isimleri: ['Hanifi AYBOĞA', 'Şelale KOÇ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Beşeri ve Sosyal Bilimler İnceleme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ihssr/issue/67727/1025683
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2089144

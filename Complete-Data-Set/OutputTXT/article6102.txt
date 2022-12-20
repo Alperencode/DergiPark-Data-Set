@@ -1,0 +1,7 @@
+Makale Başlığı: Numerical Investigation of the Effects of Engine Speed on Performance and Combustion Characteristics on a Converted Spark-Ignition Natural Gas Engine
+Özet: In this study, the effects of different engine speed values on performance and combustion characteristics were investigated by converting a diesel engine to a spark-ignition engine using natural gas. In numerical analysis, G-equation combustion model, reduced methane chemical kinetic mechanism that represent natural gas consisting of 29 types and 171 equations, and RANS k-e turbulence model were used. Analyzes were performed at full load, 17.5:1 compression ratio, constant ignition timing, and 6 different engine speeds. In order to examine only the effect of speed, the initial value, boundary conditions and spark plug ignition time were considered constant. While engine power and fuel consumption increased with increasing engine speed, engine efficiency decreased. In addition, increasing engine speed also increased the ignition delay time and combustion duration, and the flame front reached the squish zone later.
+Yazar isimleri: ['Fatih AKTAŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi Üniversitesi Fen Bilimleri Dergisi Part C: Tasarım ve Teknoloji
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsc/issue/72673/1094175
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2335642

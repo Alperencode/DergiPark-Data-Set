@@ -1,0 +1,7 @@
+Makale Başlığı: Weldability and Service Conditions of Steels in Thermal Power Plant Applications
+Özet: In this study, the usage purposes of the steel grades used in Thermal Power Plant applications were compiled. The welding conditions between the steels are specified. The service conditions and quantities of low carbon and Cr-Mo alloy steels used in thermal power plants are explained. Additional metal groups preheat and inter-pass temperatures, non-destructive examinations, and post-weld heat treatment conditions are explained in the welding of the Cr-Mo alloy steels used. The availability of pre-heat conditions before welding was examined according to the relevant standards. The selection conditions of the additional metals, welding positions, and welding conditions of the welders were examined. The weldability of steels of similar or dissimilar quality is discussed. Information about post-weld stress relieving heat treatment has been compiled from the relevant standards and the conditions for which quality steel will be used have been analyzed. As a result, in this study, all the welding-related stages of the steels used in Thermal Power Plants were examined.
+Yazar isimleri: ['Bünyamin ÇİÇEK', 'Yavuz SUN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Çelik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesred/issue/72095/1127152
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2471436

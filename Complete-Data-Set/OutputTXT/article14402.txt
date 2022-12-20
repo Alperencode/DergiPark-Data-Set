@@ -1,0 +1,7 @@
+Makale Başlığı: The First-Principles Study On The Investigation of Magnetic and Electronic Properties of Ga4X3Mn (X = P and As)
+Özet: In this study, the magnetic nature and also, electronic characteristics of Ga4X3Mn (X=P and As) systems, which have simple cubic structure confirming P4 ̅3m space group and 215 space number, have been reported. All calculations realized within the framework of ab initio simulation methods have been performed using the meta-generalized gradient (META-GGA) approach within the Density Functional Theory (DFT). In view of the energy-volume curves and the calculated cohesive and formation energies for considering four different types of magnetic orders, it has been detected that these compounds have A-type antiferromagnetic nature. Also, the examined electronic behaviors in the A-type antiferromagnetic order of the related systems show that all two compounds are semiconductors due to having small band gaps in their electronic band structures (Eg = 0.23 eV for Ga4P3Mn and Eg = 0.16 eV for Ga4As3Mn).
+Yazar isimleri: ['Aytaç ERKİŞİ']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1127249
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2471769

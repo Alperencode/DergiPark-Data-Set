@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of delamination factor using Taguchi design method in drilling MDFlam
+Özet: Drilling operations are an important process commonly used in woodworks and furniture joints. Hole entry and exit should be smooth as far as possible after hole drilling. In this study, the optimization of computer numerical control (CNC) drilling parameters for the best hole quality in fiberboard (MDFlam) coated with synthetic resins was carried out using the Taguchi design method. For this purpose, MDFlam, which is frequently used in woodworking and furniture industry, was chosen as the test material. Drilling was carried out in the samples prepared in accordance with the TS ISO 3129 standard, using a CNC machine with 8 mm diameter drilling bits made of two different HSS materials. The drilled hole quality was evaluated by considering the delamination factor of the hole entry and exit. In the measurements hole entry in MDFLam, there was no difference in delamination in terms of drilling parameters. Taguchi optimization is not required for hole entries. According to the hole output delamination values, the ideal result can be obtained with cutter number 1 at a feed rate of 14000 rpm and 1750 mm/min (A2B3C1).
+Yazar isimleri: ['Sait Dündar SOFUOĞLU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Mobilya ve Ahşap Malzeme Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mamad/issue/70474/1126117
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2467049

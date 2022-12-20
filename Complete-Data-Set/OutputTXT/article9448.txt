@@ -1,0 +1,7 @@
+Makale Başlığı: Stability of Finite Difference Schemes to Pseudo-Hyperbolic Telegraph Equation
+Özet: Hyperbolic partial differential equations are frequently referenced in modeling real-world problems in mathematics and engineering. Therefore, in this study, an initial-boundary value issue is proposed for the pseudo-hyperbolic telegraph equation. By operator method, converting the PDE to an ODE provides an exact answer to this problem. After that, the finite difference method is applied to construct first-order finite difference schemes to calculate approximate numerical solutions. The stability estimations of finite difference schemes are shown, as well as some numerical tests to check the correctness in comparison to the precise solution. The numerical solution is subjected to error analysis. As a result of the error analysis, the maximum norm errors tend to decrease as we increase the grid points. It can be drawn that the established scheme is accurate and effective
+Yazar isimleri: ['Mahmut MODANLI', 'Fatih ÖZBAĞ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Journal of Mathematical Sciences and Modelling
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jmsm/issue/73450/1132139
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2492275

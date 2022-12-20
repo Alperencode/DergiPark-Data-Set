@@ -1,0 +1,7 @@
+Makale Başlığı: Visual Network Mapping Aid Bibliometric Analysis of International Studies on Internal Audit
+Özet: Internal auditing is a type of audit performed by internal auditors for the purpose of evaluating the effectiveness of business activities. The internal auditors who perform this audit are the people who work within the company and are connected to the management of the company. Internal audit plays an important role in the evaluation of the activities of the enterprises for many businesses that have independent auditing or not and produces critical results for those concerned. In this study, it is aimed to make a bibliometric analysis of international studies on internal audit. For this purpose, first of all, data on 1,089 studies on internal audit that were scanned in the SCOPUS database, one of the most comprehensive databases for international literature, were obtained. Afterwards, these studies were examined according to the parameters of publication year, author information, research areas, publication types, publication sources, broadcasting institutions, broadcasting countries, keywords and publication languages. In addition, visual network maps of the studies were created through the "VOSviewer" program and their relations with each other were revealed.
+Yazar isimleri: ['Dursun KELEŞ']
+Yayın Yılı: 25 Haziran 2022
+Dergi ismi: Uşak Üniversitesi Uygulamalı Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/usakuyg/issue/70452/1110928
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2405023

@@ -1,0 +1,7 @@
+Makale Başlığı: Crosstalk between autophagy and DNA repair systems
+Özet: Autophagy  and  DNA  repair  are  two  essential  biological  mechanisms  that  maintain  cellular  homeostasis.  Impairment  of  these mechanisms was associated with several pathologies such as premature aging, neurodegenerative diseases, and cancer. Intrinsic or  extrinsic  stress  stimuli  (e.g.,  reactive  oxygen  species  or  ionizing  radiation)  cause  DNA  damage.  As  a  biological  stress  response,  autophagy is activated following insults that threaten DNA integrity. Hence, in collaboration with DNA damage repair and response mechanisms, autophagy contributes to the maintenance of genomic stability and integrity. Yet, connections and interactions between these two systems are not fully understood. In this review article, current status of the associations and crosstalk between autophagy and DNA repair systems is documented and discussed.
+Yazar isimleri: []
+Yayın Yılı: 23 Haziran 2021
+Dergi ismi: Turkish Journal of Biology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkbiology/issue/64217/973572
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1888634

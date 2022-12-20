@@ -1,0 +1,7 @@
+Makale Başlığı: SAĞLIK HARCAMALARININ EKONOMİK BÜYÜME ÜZERİNE ETKİSİ: OECD ÜLKELERİ İÇİN PANEL VERİ ANALİZİ
+Özet: Günümüzde ülkelerin sosyal, ekonomik yönden gelişmişlik seviyelerinin belirlenmesinde ekonomik, kültürel, sosyal etmenlerin yanında toplumdaki insanların sağlık seviyeleri de önem arz etmektedir. Sağlık, ülkelerin ekonomilerinin gelişim göstermesi, büyümesi, toplumun varlığını sürdürebilmesi için önemli bir etmendir. Sağlık harcamaları,  kişinin ve toplumun sağlık seviyesini artırırken, beşeri sermayenin de gelişmesine katkı sağlamakta ve bunun da ekonomik büyümeye olumlu yansıyacağı ifade edilmektedir. Bu bilgiler ışığında yapılan çalışmada sağlık harcamalarının ekonomik büyüme üzerindeki etkisi OECD ülkelerine yönelik Panel Veri Analizi yardımıyla sınanmıştır. 2000-2019 dönemi baz alınarak yapılan çalışmada elde edilen sonuçlar sağlık harcamalarındaki artışların ekonomik büyümeyi pozitif yönde etkilediğini göstermiştir.
+Yazar isimleri: ['Tuğba KONUK', 'Ayşe ERYER']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: Uluborlu Mesleki Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umbd/issue/70640/1004253
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2008048

@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Web-Based Software from Digital Transformation Tools on The Performances of Facilities on Staff: Apsiyon Software Case
+Özet: The aim of this study is to measure the effect of web-based software, which businesses often have the opportunity to use in every field during the digital transformation process, on the usage competence and performance of facility employees. In the research, a survey was conducted as a data collection method, and the data obtained with the participation of 153 people, consisting of facility employees who use Apsiyon Software, one of the leading software in the field of facility management, were subjected to correlation and regression analyzes using certain scales in a statistical program. From the results obtained from the analysis of the survey data, it was concluded that the performance of the facility employees using web-based software was greatly affected, and it contributed significantly to the competence of the facility employees. The study contributes to the literature on a specific topic by focusing on how web-based software affects the performance and competence of facility employees, and by analyzing data obtained from the private sector.
+Yazar isimleri: ['Özgür BİYAN', 'Nilüfer ALTUNDAL BİYAN', 'Ceren IŞIKLI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1059141
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2197274

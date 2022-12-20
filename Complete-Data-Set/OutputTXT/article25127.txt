@@ -1,0 +1,7 @@
+Makale Başlığı: Wind Power Forecasting For The Province Of Osmaniye Using Artificial Neural Network Method
+Özet: Although wind energy at certain intervals andrandom in nature, today it is one of the commonly utilized alternative energysource in the world. Because of sustainability and environmentally-friendlyenergy source, countries increasingly benefit from wind energy. Severalestimation methods are applied in the determination of a region's wind energypotential. Today, one of the most commonly used prediction methods isartificial neural network (ANN) method. In this study, Estimation of wind powerin Osmaniye district was investigated in method with artificial neural network(ANN) using data from meteorological measurement stations from themeteorological measurement device at the campus of Osmaniye Korkut ATAUniversity. In order to give the best values of prediction results, severalmethods increasing the impact on output of different models for the inputvariables were investigated. 
+Yazar isimleri: ['Bulent YANIKTEPE', 'SAKIR TASDEMIR', 'A. BURAK GUHER']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/270560
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/237145

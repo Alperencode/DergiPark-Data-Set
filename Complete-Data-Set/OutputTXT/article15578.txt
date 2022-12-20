@@ -1,0 +1,7 @@
+Makale Başlığı: On Some Classes of Generalized Recurrent  α-Cosymplectic Manifolds
+Özet: In this paper, we concentrate on hyper generalized $\varphi-$recurrent $\alpha-$cosymplectic manifolds and quasi generalized $\varphi-$recurrent $\alpha-$cosymplectic manifolds and obtain some significant characterizations which classify such manifolds.
+Yazar isimleri: ['Halil İbrahim YOLDAŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/969459
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1873982

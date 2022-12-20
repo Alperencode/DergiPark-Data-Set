@@ -1,0 +1,7 @@
+Makale Başlığı: Serological survey and molecular investigation of tick-borne encephalitis virus in Northern Turkey
+Özet: Tick-borne encephalitis (TBE) is an endemic viral zoonotic disease in many regions of Eurasia. In this study, whole blood, serum samples and the hard ticks collected from a variety of ruminant species (cattle, goat and sheep) in the middle Black Sea region of Turkey were investigated for the presence of RNA and IgG antibodies against Tick-borne encephalitis virus (TBEV). No TBEV genomic RNA was found in 2625 tick and 708 blood samples. However, serological examination for anti-TBEV antibodies revealed that TBEV IgG antibody was found as follow: cattle 61 of 198 (30.8%), goat 7 of 115 (6.1%) and sheep 15 of 147 (10.2%), and confirmed by an enzyme-linked immunosorbent assay (ELISA). Positivity rates for the provinces were as follows: Samsun 12.7%, Sivas 35.2% and Tokat 13.2%. This information supports previous findings of TBEV in ticks in Turkey and may be of relevance for public health considerations (in respect to vaccination recommendations for those exposed).
+Yazar isimleri: ['Cüneyt TAMER', 'Harun ALBAYRAK']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Etlik Veteriner Mikrobiyoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/evmd/issue/68243/1064554
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2218725

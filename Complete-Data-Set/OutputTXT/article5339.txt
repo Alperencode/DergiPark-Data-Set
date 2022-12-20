@@ -1,0 +1,7 @@
+Makale Başlığı: PLAKA YÜKLEME DENEY SONUÇLARININ DEĞERLENDİRİLMESİ: ANKARA’ DA BİR VAKA ANALİZİ
+Özet: Plaka yükleme deneyi temel taşıma gücü ve oturma hesaplarında yaygın olarak kullanılmaktadır. Bu çalışmada yapılan 6 plaka yükleme deney verisi kullanılarak taşıma gücü ve oturma hesapları yapılmıştır. Deneylerin yapıldığı bölgede yüksek hızlı tren hattı inşa edilecek olup proje lokasyonu Ankara’ dır. İstasyon peron yapısı temelleri için sonlu elemanlar yazılımı ve plaka yükleme deney verileri kullanılarak taşıma gücü hesapları yapılmıştır. Zemin oturma davranışı sonlu elemanlar analiz program Plaxis 2D kullanılarak modellenmiştir. Zemin dayanım ve deformasyon parametreleri plaka yükleme deneyi ve sonlu elemanlar yöntemi ile belirlenmiştir. Analitik çözümler için elastisite teorisi kullanılmıştır. Çalışmanın sonunda plaka yükleme deney sonuçları, analitik çözüm ve sonlu elemanlar çözüm sonuçları karşılaştırılmıştır. Sonlu elemanlar ve elastisite teorisi ile hesaplanan oturmaların arazi ölçümleri (plaka yükleme deneyi sonuçları) ile güçlü bir korelasyon oluşturduğu görülmüştür.
+Yazar isimleri: ['Safa ÇEVİK']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Mühendislik ve Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogummf/issue/72210/1055962
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2184603

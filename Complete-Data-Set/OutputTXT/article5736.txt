@@ -1,0 +1,7 @@
+Makale Başlığı: Uzaktan Hasta Takibi İçin Mikroservis Mimarisi Kullanan Bir Uç Sistem Tasarımı
+Özet: Gecikme ve sistem yükü, bulut sistemler için iki kritik konudur. Bu konular akıllı şehir, akıllı sağlık sistemleri gibi büyük projelerde daha da önem kazanmaktadır. Son yıllarda kenar/uç ve sis gibi bulut teknolojileri bu iki kritik konuda önemli kazanımlar sağlamayı başarmıştır. Ancak bununla birlikte bu tür sistemlerde veri iletişimi, analiz ve değerlendirme gibi işlemlerin nasıl sağlanacağı da iyi planlanmalıdır. Bu tip bulut teknolojilerinde monolotik yazılım mimarileri yerine mikroservis temelli mimarilerin tercih edilmesi daha esnek çözümler sağlayabilmektedir. Bu çalışmada mikroservis temelli uç bulut teknolojisi alt yapısı kullanan bir hasta takip sistemi önerilmektedir. Önerilen sistem sayesinde, kritik durumlu hastaların takip edilmesi ve hastada gerçekleşebilecek acil durumlar hiyerarşik bir şekilde değerlendirilebilmektedir. Önerilen sistemin özgün yanı, kullanılan sistemin devre kesici mekanizması kullanan mikroservis yazılım mimarisini kullanması ve tüm mikroservisleri konteyner alt yapısı ile kontrol edebilmesidir. Bu özellikleri sayesinde sistem yükü ve cevap gecikmesinde önemli iyileştirmeler elde edilmiştir.
+Yazar isimleri: ['Sinan TAŞLI', 'Güngör YILDIRIM']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1146700
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2550083

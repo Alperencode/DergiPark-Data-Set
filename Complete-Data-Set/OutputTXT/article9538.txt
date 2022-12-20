@@ -1,0 +1,7 @@
+Makale Başlığı: A hybrid algorithm for solving fractional Fokker-Planck equations arising in physics and engineering
+Özet: In this work, we proposed a hybrid algorithm to approximate the solution of Conformable Fractional Fokker-Planck Equation (CFFPE). This algorithm comprises of unification of two methods named Fractional Wave Transformation Method (FWTM) and Differential Transform Method (DTM). The method is based on two steps. The first step is to reduce the given CFPDEs to corresponding Partial Differential Equations (PDEs). Then, the second step is to solve obtained PDEs iteratively by using DTM. Moreover, the algorithm’s efficiency is shown by employing the method successfully to conformable time-fractional Fokker-Planck equation arising in surface physics, plasma physics, polymer physics, laser physics, biophysics, engineering, neurosciences, nonlinear hydrodynamics, population dynamics, pattern formation and marketing. As a result, the obtained data demonstrate that the algorithm is reliable and applicable.
+Yazar isimleri: ['Ozan ÖZKAN', 'Ali KURT']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of New Results in Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnrs/issue/72419/1109009
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2397038

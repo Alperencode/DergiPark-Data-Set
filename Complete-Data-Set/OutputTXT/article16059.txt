@@ -1,0 +1,7 @@
+Makale Başlığı: Internet of Things (IoT) Based Smart Irrigation and Fertilization System
+Özet: In this study, it has been aimed to develop and apply an IoT based smart soil maintenance system in order to increase productivity in automated irrigation and fertilization systems used in agriculture. The system we aim to develop performs irrigation and fertilization processes automatically with the lowest expenditure. Fertilization and irrigation can be done by controlling values of the soil in felds and greenhouses, and communicating with the control centre via the Internet. The control centre nourishes the soil automatically on an optimal level with the study it needs by observing the soil values constantly with sensors. A system containing software and hardware used for this purpose has been designed to be manageable via the internet.
+Yazar isimleri: ['Muhammed Akif YENİKAYA', 'Erdal GÜVENOĞLU', 'Süleyman KONDAKCI']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbbmd/issue/70571/1028785
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2101039

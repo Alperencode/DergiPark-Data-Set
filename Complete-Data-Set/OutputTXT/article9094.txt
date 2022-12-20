@@ -1,0 +1,7 @@
+Makale Başlığı: Fibromiyalji Sendromu Tanısında Oksidatif Stres İndeksi ve C Vitamini
+Özet: Amaç: FMS tanısı için spesifik bir laboratuvar belirteci yoktur ve esas olarak klinik muayeneye bağlıdır. Serum C vitamini düzeylerinin ve oksidatif stres indeksinin (OSI) Fibromiyalji Sendromu (FMS) tanısında kullanılıp kullanılamayacağını değerlendirmeyi amaçladık.  Gereç ve Yöntem: Kesitsel çalışmamıza 53 kadın hasta ve 35 sağlıklı kadın kontrol dahil edildi. Hastalara VAS, BDI ve FIQ uygulandı. C vitamini seviyeleri HPLC ile ölçüldü. Toplam Antioksidan Kapasitesi (TAC) ve Toplam Oksidan Durumu (TOS) seviyeleri Spektrofotometrik yöntemle belirlendi.Bulgular: FMS hastalarının vitamin C ve TAC düzeyleri kontrollere göre anlamlı olarak düşük iken, hastalarda OSİ anlamlı olarak daha yüksekti (sırasıyla p= 0,004, p= 0,009 ve p= 0,048). Hassas noktalar ile FIQ arasında orta düzeyde pozitif ve anlamlı bir ilişki vardı (r = 0,505; p <0,001). ROC analizi ile Vitamin C ve TAC'nin tanısal performansı sırasıyla AUC = 0,678, p= 0,003 ve AUC = 0,639, p= 0,028 olarak bulundu.Sonuç: FMS hastalarında serum TAC ve vitamin C seviyeleri düşmekte ve OSİ artmaktadır. Bu üç parametrenin FMS tanısı için ek bir araç olarak düşünülebileceği önerilebilir.
+Yazar isimleri: ['Muzaffer KATAR', 'Köksal DEVECİ', 'Hülya DEVECİ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of Contemporary Medicine
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcm/issue/72813/1173658
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2643847

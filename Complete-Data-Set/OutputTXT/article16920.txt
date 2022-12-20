@@ -1,0 +1,7 @@
+Makale Başlığı: rGO/SnSbS Nanokompozitlerin Farklı Depolama Sıcaklığına Bağlı Elektriksel, Yapısal ve Yüzeysel Değerlendirmesi
+Özet: Bu çalışmada indirgenmiş grafen oksit/sülfosalt (rGO/SnSbS) nanokompozit yapıları ticari cam taban malzemeler üzerine kimyasal banyo depolama (CBD) metodu ile 20 °C, 40 °C, 60 °C ve 80 °C sıcaklıklarda üretilmiştir. Yapısal olarak düşük sıcaklık değerlerinde amorf yapıya sahiptir ancak 80 °C sıcaklıkta Sn2Sb2S5 kristallenmeleri gözlenmiştir. Artan depolama sıcaklığına bağlı 125,22 nm, 126,27nm, 132,95 nm ve 157,16 nm kalınlıklı nanokompozit yapıların daha homojen ve yoğun yapışkan kıvama geldiği görülmüştür. Elektriksel dirençleri ise four-point probe metodu ile film kalınlığına bağlı olarak I-V ölçümlerinden hesaplanmıştır ve sıcaklığın artması ile elektriksel dirençlerin düştüğü görülmüştür. Elde edilen verilere göre sıcaklığın etkisi ve kullanım alanları tartışılmıştır.
+Yazar isimleri: ['Necmi Serkan TEZEL', 'Afşin KARİPER']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1062439
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2210503

@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye Özelinde Finansal Kırılganlık ve Temel Ekonomik Göstergeler
+Özet: Finansal kırılganlık ekonomilerinin krizler karşısındaki dayanıklılığını ölçen bir kavram olarak karşımıza çıkmaktadır. Finansal kırılganlığı yüksek ekonomiler çok daha fazla ekonomik krizlere maruz kalmaktadır. Bu çalışma dolar kuru, BİST 100 Endeksi, dış ticaret hacmi ve kredi temerrüt takasının (CDS) finansal kırılganlık arasındaki etkileşimin tespit edilmesi amacıyla yapılmıştır. 0cak 2013 ve Ocak 2021 aralığındaki dönemler ele alınmış ve aylık bazda veriler kullanılarak analiz gerçekleştirilmiştir. Dolar kuru, BİST 100 Endeksi, dış ticaret hacmi ve CDS’in ARDL Sınır Testi kullanılarak finansal kırılganlık üzerindeki muhtemel etkisi incelenmiştir. Elde edilen bulgulara göre BİST 100 Endeksi finansal kırılganlığı kısa ve uzun dönemde etkilemektedir. CDS priminin ise finansal kırılganlığı kısa dönemde negatif, uzun dönemde ise pozitif yönde etkilediği sonucuna ulaşılmıştır. Ayrıca dış ticaret hacminin kısa ve uzun dönemde finansal kırılganlığı negatif etkilediği, dolar kurunun ise uzun dönemde finansal kırılganlığı etkilemediği görülmüştür.
+Yazar isimleri: ['Şule Yüksel YİĞİTER', 'Salim Sercan SARI']
+Yayın Yılı: 23 Eylül 2022
+Dergi ismi: Muhasebe Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/meder/issue/72927/1121035
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2446113

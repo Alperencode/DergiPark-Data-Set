@@ -1,0 +1,7 @@
+Makale Başlığı: Dual and canonical dual of controlled K-g-frames in Hilbert spaces
+Özet: This paper is devoted to studying the controlled dual K-g-Bessel sequences of controlled K-g-frames. In fact, we introduce the concept of dual K-g-Bessel sequences of controlled K-g-frames and then, we present some necessary and/or sufficient conditions under which a controlled g-Bessel sequence is a controlled dual K-g-frame of a given controlled K-g-frame. Subsequently, we pay attention to investigating the structure of the canonical controlled dual K-g-Bessel sequence of a Parseval controlled K-g-frame and some other related results.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783631
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

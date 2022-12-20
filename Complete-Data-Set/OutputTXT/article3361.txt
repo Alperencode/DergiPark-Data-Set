@@ -1,0 +1,7 @@
+Makale Başlığı: Yeni Bir Yaklaşımla Termal Konfor Koşullarının Günümüzde ve Gelecek İklim Koşullarındaki Mekânsal Dağılışının Analizi: Bolu Kenti Örneği
+Özet: Gözlenen ve öngörülen iklimsel değişmeler nüfusun çoğunluğunun yaşadığı kentsel alanları önemli derecede etkileyecektir. Bu amaçla Bolu kentinin, yılın Mayıs ile Eylül arasındaki sıcak döneminde belirlenen termal konfor koşullarının mekânsal dağılımı ve iklim projeksiyonlarına göre geleceğe dair öngörülerde bulunulmuştur. Çalışmada 1991 – 2020 dönemi ölçüm verileri ile RCP4.5 ve RCP8.5 iklim senaryolarının verileri kullanılmıştır. Yöntem olarak RayMan modelinden elde edilen Fizyolojik Eşdeğer Sıcaklık (PET) indisinden yararlanılmıştır. Termal konfor şartlarının mekânsal dağılımında Coğrafi Bilgi Sistemleri kullanılarak; yükselti, arazi kullanımı, Güneş radyasyonu, ortalama radyant sıcaklık (MRT) ve rüzgâr hızı altlık haritalarıyla hesaplama yapılmıştır. Analizler sonucunda günümüzde “hafif sıcak” ve “sıcak” stresleri yaşanırken, RCP4.5 ve RCP8.5 senaryolarına göre gelecekte “çok sıcak” streslerinin etkili olacağı, kentsel ısı adasının genişleyeceği ve Bolu’nun halk sağlığını tehdit edecek şekilde aşırı sıcak stresine maruz kalacağı belirlenmiştir.
+Yazar isimleri: ['Savaş ÇAĞLAK', 'Murat TÜRKEŞ']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Coğrafi Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aucbd/issue/72680/1097989
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2351077

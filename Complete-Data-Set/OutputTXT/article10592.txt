@@ -1,0 +1,7 @@
+Makale Başlığı: Linear Delta Robot Controlled with PLC Based On Image Processing
+Özet: Delta Robot is taking an important place in industry 4.0. Its ability to work fast and with precision is the reason why this robot now is used worldwide in the industrial field. Delta robots are mostly used for packaging, 3D printing, pick and place, etc. This robot can be controlled using programmable logic controller (PLC) devices. In recent years, image processing methods have been widely used in many robot applications. In this study, it is aimed to ensure that the robot successfully moves to the determined points by using image processing methods. Images for this study were obtained by attaching a camera to the robot system. In this study, the aim is to set the robot to move based on the visual data that is taken by the camera. The coordinates of each object are defined after several steps in image processing. To be able to move the robot to the desired coordinates, inverse and forward kinematic analysis is proposed. The obtained values are transferred to PLC using OPC. The necessary coding in TIA Portal is done to control the motor drivers so that the three stepper motors can ensure the delta robot moves to the desired coordinate position.
+Yazar isimleri: ['Sıtkı ÖZTÜRK', 'Fatma KUNCAN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Kocaeli Journal of Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kojose/issue/72606/1058559
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2195005

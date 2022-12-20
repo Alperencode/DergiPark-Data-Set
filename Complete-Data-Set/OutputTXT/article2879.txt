@@ -1,0 +1,7 @@
+Makale Başlığı: α'nın Entropi Fonksiyonlarının Davranışı Üzerindeki Etkisi
+Özet: Entropi belirsizliğin, düzensizliğin ölçülmesi için kullanılan bir ölçüttür. Entropi ölçüsü birçok problemin çözümüne katkı sunar. Entropinin kullanılan farklı tanımları vardır. Farklı şekillerde kullanılan α değeri yeni bakış açıları, yeni çözümler ve yöntemler sunar. Uygun α değerini seçebilmek çözüme yaklaştırır. Bu çalışmada bazı entropi tanımlarında kullanılan α değerinin entropi ölçütlerine etkisine bakıldı. Hangi yönde davranış gösterdiği, ölçüte etkisi anlaşılmaya çalışıldı. Farklı varyasyonlarla ve farklı α değerleri ile entropi değerlerinin ne yönde değerler aldığı gösterildi. xlogx ve logx fonksiyonları üzerinden ne yönde davranış gösterdiği tespit edildi.  Entropik davranışlar grafiklerle gösterildi.
+Yazar isimleri: ['İhsan TUĞAL']
+Yayın Yılı: 7 Aralık 2022
+Dergi ismi: Bilgisayar Bilimleri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bbd/issue/73741/1197360
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2742260

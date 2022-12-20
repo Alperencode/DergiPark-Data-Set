@@ -1,0 +1,7 @@
+Makale Başlığı: MINT ÜLKELERİNDE CARİ İŞLEMLER AÇIĞI SÜRDÜRÜLEBİLİR Mİ?
+Özet: Bu çalışmanın amacı 1987-2020 döneminde yıllık ihracat ve ithalat verileri kullanılarak MINT ülkeleri için cari açığın sürdürülebilir olup olmadığını Husted (1992) ve Quintos (1995) modelleri bağlamında analiz etmektir. Bu amaç doğrultusunda çalışmada eşbütünleşme ilişkisinin tahmini için Durbin-Hausman testi, katsayı tahmini için ortak ilişkili etkiler ortalama grup tahmincisi (CCE-MG), nedensellik ilişkisinin tahmini için ise Emirmahmutoğlu ve Köse (2011) bootstrap panel nedensellik yaklaşımları kullanılmıştır. Eşbütünleşme analizi sonuçları ihracat ve ithalat değişkenlerinin uzun dönemde birlikte hareket ettiklerini, diğer bir ifade ile eşbütünleşik olduklarını ortaya koymuştur. Dolayısı ile MINT ülkeleri için cari açığın sürdürülebilir olduğu ifade edilebilir. Öte yandan uzun dönem katsayı tahmincisi sonuçlarına göre MINT ülkeleri için ithalat değişkeninin katsayı değeri 0.31 olarak belirlenmiştir. Bu sonuç Husted (1992) ve Quintos (1995) modelleri bağlamında bu ülkeler için cari açığın zayıf düzeyde sürdürülebilir olduğu anlamına gelmektedir.
+Yazar isimleri: ['Tunahan HACIİMAMOĞLU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Yönetim ve Ekonomi Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yead/issue/72052/1000464
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1993507

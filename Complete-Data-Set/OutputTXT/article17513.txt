@@ -1,0 +1,7 @@
+Makale Başlığı: BORDA SAYIMLI SINIRLI TERCİHLİ OYLAMA MODELİ VE YASAMA ORGANININ OLUŞUMU
+Özet: Siyaset biliminde temsil ile demokrasi ilişkisi ve tercihlerin temsile yansıması sorunu önemli bir yer tutmaktadır. Ülkeler, uyguladıkları seçim sistemi modeli ile genellikle temsilde adalet ve yönetimde istikrar ilkeleri arasında bir denge gözetmeye çalışırlar. Uygulanan seçim sistemi kararında ise neredeyse her ülke kendi dinamiklerini dikkate alır. Bu çalışmada, Borda sayımı hesaplama yöntemi kullanılarak oluşturulacak olan sınırlı tercihli oylama modelinde yasama organının oluşmasına değinilmektedir. Bu doğrultuda çok partili bir ülke olan Türkiye’de yasama organının seçiminde uygulanan tek tercihli modelin, sınırlı tercihli olarak değişmesi ve hesaplama yöntemi olarak uygulanan d’Hondt sisteminin yerine Borda sayımının getirilmesi durumunda ortaya çıkacak yeni tablo incelenmiştir. Gerçekleştirilen anket çalışması ile elde edilen bulgular, kozmopolit bir yapıya ve mecliste en çok sandalyeye sahip olan İstanbul ili üzerinden değerlendirilmeye çalışılmıştır. Bulgular sonucunda, uygulanan Borda sayımlı sınırlı tercihli oylama modeli, yasama organının sandalye dağılımında daha çoğulcu bir yapı ortaya çıkarmakta ve temsilde adalet ile orantılı temsili artırıcı yönde bir etki ortaya koymaktadır.
+Yazar isimleri: ['Ali TEZCAN']
+Yayın Yılı: 5 Eylül 2022
+Dergi ismi: Yasama Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yasamadergisi/issue/72491/1064072
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2217062

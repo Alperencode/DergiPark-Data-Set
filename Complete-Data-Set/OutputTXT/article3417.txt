@@ -1,0 +1,7 @@
+Makale Başlığı: Antioxidant activities of Turkish extra virgin olive oils
+Özet: Extra virgin olive oil is the highest grade of virgin olive oil derived by cold mechanical extraction without the use of solvents or refining methods. These olive oils are known for their composition in phenolic compounds that have antioxidant properties. This study aims to determine the total phenolic and flavonoid compounds and antioxidant activities of four Turkish extra virgin olive oil samples: Kilis yağlık, İzmir sofralık, Ayvalık, and Tavşan yüreği. The highest sample concentration used for the experiments was 4 mg/ml while 1 mg/mL was used for ABTS radical scavenging assay. The lowest total phenolic and flavonoid content was observed in Tavşan yüreği sample. All extra virgin olive oil samples showed scavenging activity against DPPH and ABTS free radicals. Extra virgin olive oil samples with high phenolic and flavonoid content presented more effective radical scavenging activity with low IC50 values. This study provides information about the phenolic content and antioxidant activities of four important Turkish olive oil samples.
+Yazar isimleri: ['Sakou SEYDOU', 'Gül KOCA', 'Okan ONAR', 'Özlem YILDIRIM']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series C  Biology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/communc/issue/68743/1069705
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2238817

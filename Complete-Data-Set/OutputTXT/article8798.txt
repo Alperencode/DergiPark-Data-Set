@@ -1,0 +1,7 @@
+Makale Başlığı: Teknolojik Gelişme ve Ekonomik Büyüme İlişkisi: Yükselen Ekonomiler Örneği
+Özet: Teknoloji, sadece sektörler veya firmalar ölçeğinde değil aynı zamanda ülkeler açısından da büyük önem arz etmektedir. Bununla birlikte, ülkelerin kalkınmışlık ve gelişmişlik düzeylerini de belirleme noktasında ciddi bir etkileyici değişken olarak görülmektedir. Bu açıdan; teknoloji ile aynı zamansal süreçte yürümek ülkelerin ulusal hedefleri için vazgeçilmez olmalıdır. Özellikle, yükselen ekonomiler için büyümenin itici gücü olarak teknolojik gelişmeler büyük önem taşımaktadır. Bu çalışmanın amacı, yükselen ekonomilerde teknolojik gelişmelerin büyümeye olan etkisini analiz ederek, panel eşbütünleme metodu yardımı ile bulmaya çalışmaktır. Analizin sonuç kısmına bakıldığında, değişkenlerin uzun süreli ilişkileri belirlenmiştir. Uzun dönem katsayı tahminlerine bakıldığında, AR-GE ve PA değişkeni GSYİH üzerinde olumlu açıdan istatistik anlamlı bir ilişki ortaya çıkmıştır. Bu açıdan AR-GE değişkeni GSYİH değişkenini %26,8 oranında arttırmaktadır. Diğer taraftan, PA değişkeni GSYİH değişkenini %20,5 arttırmaktadır. Son olarak, AR-GE ve PA değişkenlerinden GSYİH’ye doğru nedensellik tek yönlü olarak bulunmuştur.
+Yazar isimleri: ['Funda H. SEZGİN', 'Yunus BUDAK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: JOEEP: Journal of Emerging Economies and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joeep/issue/66260/1108255
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2393838

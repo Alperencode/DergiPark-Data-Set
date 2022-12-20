@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison of the effect of unsupervised and supervised discretization methods on classification process
+Özet: Most of the machine learning and data mining algorithms use discretedata for the classification process. But, most data in practice includecontinuous features. Therefore, a discretization pre-processing step is appliedon these datasets before the classification. Discretization process convertscontinuous values to discrete values. In the literature, there are many methodsused for discretization process. These methods are grouped as supervised andunsupervised methods according to whether a class information is used or not.In this paper, we used two unsupervised methods: Equal Width Interval (EW),Equal Frequency (EF) and one supervised method: Entropy Based (EB)discretization. In the experiments, a well-known 10 dataset from UCI (MachineLearning Repository) is used in order to compare the effect of thediscretization methods on the classification. The results show that, NaiveBayes (NB), C4.5 and ID3 classification algorithms obtain higher accuracy withEB discretization method.
+Yazar isimleri: ['Mohammed H. IBRAHIM']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/267490
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/234095

@@ -1,0 +1,7 @@
+Makale Başlığı: Tam batmış bitki tarlasının açık kanal akım hızlarına etkisinin flow-3d ile modellenmesi
+Özet: Bu çalışmada, deneysel olarak yapılan tam batmış bitkilerin açık kanal akımlarına olan etkisinin incelendiği bir çalışma, FLOW-3D ile modellenmiştir.  Deney sonuçları ve sayısal model sonuçları karşılaştırılmıştır.  Modellemede Yılmazer ve ark. [10] tarafından gerçekleştirilen deneye ait veriler kullanılmıştır.
+Yazar isimleri: ['Didem YILMAZER', 'Kubilay CİHAN']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1066999
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2228133

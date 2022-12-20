@@ -1,0 +1,7 @@
+Makale Başlığı: Electrochemical determination of antiviral drug Famciclovir in human serum samples at boron-doped diamond electrode
+Özet: The electrochemical oxidation of famciclovir was investigated in pH range 2.0-10.0 using differential pulse voltammetry at boron-doped diamond electrode. The experimental results from pH and scan rate studies showed that the oxidation behavior of famciclovir at boron doped diamond electrode was irreversible and diffusion-controlled. Also, by using differential pulse technique at electrode, the anodic peak current is obtained to be linear over the range of concentration 0.5 µM - 12 µM and 6 µM - 100 µM in pH 4.7 acetate buffer solution (ABS) for standard drug solution and human serum, respectively. Limits of detection were 0.022 µM and 0.42 µM for standard drug solution and human serum, respectively. The repeatability, reproducibility, selectivity, precision and accuracy of developed method in all media were investigated and calculated. This method was successfully applied for the analysis of famciclovir human serum samples.
+Yazar isimleri: ['Çiğdem KANBEŞ DİNDAR']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Turkish Journal of Analytical Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkjac/issue/70706/1105730
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2383379

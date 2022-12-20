@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı Metal/n-Si Kontakların Sayısal Olarak Modellenmesi ve Simülasyonu
+Özet: Bu çalışmada, Al, Mo, Cu ve Ag metalleri ile n-tipi Si yarıiletkeni kullanılarak farklı metal/yarıiletken kontak yapısı modellenmiştir. Kontakların 0-0.25 V aralığında ileri beslem yarı logaritmik akım-gerilim karakteristiği termiyonik emisyon teorisi kullanılarak elde edilmiştir. Kontak modellerin metalin iş fonksiyonuna bağlı olarak engel yükseklikleri ve idealite faktörleri hesaplanmıştır. En düşük engel yüksekliği 0.64 eV olarak Al/n-Si model kontak için, en büyük engel yüksekliği ise 0.82 eV olarak Ag/n-Si model kontak için hesaplanmıştır. Kontak modelleri ayrı hacimsel hücrelere bölünerek bir ağ oluşturma işlemi gerçekleştirilmiştir. Böylece akım iletimi sırasında, kontak geometrisi boyunca, yüzeyin elektron konsantrasyonu, hol konsantrasyonu ve elektriksel potansiyel değişimleri modellenerek farklı parametrelerin etkileri simule edilerek kontağın üzerindeki değişimleri incelenmiştir.
+Yazar isimleri: ['Osman KAHVECİ', 'Mehmet Fatih KAYA']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1081025
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2282585

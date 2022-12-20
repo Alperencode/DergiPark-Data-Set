@@ -1,0 +1,7 @@
+Makale Başlığı: Bazı Yosun Türlerinin Toplam Fenol İçeriklerinin, Antibakteriyel ve Antioksidan Aktivitelerinin Belirlenmesi
+Özet: Bu çalışmanın amacı Cratoneuron filicinum (Hedw.) Ladin, Campyliadelphus chrysophylus (Brid.) R.S. Chopra. Plasteurhynchium striatum(Spruce) M. Fleisch, Palamocladium euchloron (Bruch ex Müll. Hal.) Wijk & Margad gibi briyofit türlerinin toplam fenol içeriklerini,antibakteriyel ve antioksidan aktivitelerini belirlemektir. Bu türlerin metanolik, etanolik, kloroform, aseton ve su ekstraktlarınınantibakteriyel aktiviteleri mikrodilüsyon yöntemi ile, antioksidan aktivitesi 2,2-difenil-1-pikrilhidrazil serbest radikal süpürme yeteneğiile, Toplam fenol içerikleri ise standart olarak gallik asit eşdeğerleri ile folin ciocalteu reaktifi kullanılarak nicel olarak belirlenmiştir.En yüksek DPPH serbest radikal süpürme aktivitesi yaklaşık %65 ile C. filicinum’da gözlendi. P. euchloron’un toplam fenolik içeriğien yüksek ekstre değeri 0,027±0,002 mg/g olarak belirlenmiştir. Briyofitlerin metanol ekstraktının önemli antioksidan aktiviteye vefenolik içeriğe sahip olduğu bulundu. Ekstraktların test edilen mikroorganizmalara karşı antibakteriyel etkisi gözlenmedi.
+Yazar isimleri: ['Şükran ÖZTÜRK', 'Yasin HAZER', 'Banu KAŞKATEPE', 'Muhammet ÖREN']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Karaelmas Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/karaelmasfen/issue/70131/1009713
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2027025

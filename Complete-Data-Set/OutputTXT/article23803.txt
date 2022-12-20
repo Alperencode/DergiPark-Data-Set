@@ -1,0 +1,7 @@
+Makale Başlığı: Çanakkale Hamidiye Tabyaları Peyzaj Tasarım Projesi
+Özet: Milli tarihimiz ve askeri harp tarihi açısından önemli tarihi olayların cereyan ettiği ve doğal yapısıyla birlikte korunması gerekli alanlar tarihi sit olarak adlandırılır. Çanakkale’de boğazın güvenliğinin sağlanması için 1892 yılında Sultan II. Abdülhamit tarafından yaptırılan Hamidiye Tabyası bu alanlardan biridir. Tabya, 1. Dünya Savaşı ve Çanakkale Savaşları’nda savunma açısından büyük önem arz etmiştir. Bu çalışmada dünya tarihine yön veren savaş alanlarının ziyaretçiler tarafından görülebilmesi, milli bilincin canlandırılması ve tarihi geçmişin izlerinin korunarak geleceğe taşınması için Hamidiye Tabyası çevresinde peyzaj tasarımı önerilmiştir. Çalışmada alanın bitkisel ve yapısal peyzaj uygulama projesi çizilmiştir. Projeler el çizimleri ile başlayan eskiz çalışmaları ile birlikte bilgisayar destekli yazılımlarla çizilmiş ve görselleştirilmiştir. Projenin çizim ve sunum aşamalarında AutoCAD 2018 ve Photoshop CC 2018 yazılımlarından yararlanılmıştır. Proje alanın korunması ve kontrollü kullanımı ile alandaki mekânsal kalitenin artmasını sağlayacaktır. Aynı zamanda proje Çanakkale başta olmak üzere tarihi sit alanlarının geliştirilmesi projeleri için de örnek olacaktır.
+Yazar isimleri: ['Zehra Tuğçe ÖKSÜZ', 'Nurhan KOÇAN']
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: STAR Sanat ve Tasarım Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/stardergisi/issue/70327/1014136
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2044013

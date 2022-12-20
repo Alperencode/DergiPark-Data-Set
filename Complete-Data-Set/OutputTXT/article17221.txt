@@ -1,0 +1,7 @@
+Makale Başlığı: Study on the Applications of Semi-Analytical Method for the Construction of Numerical Solutions of the Burgers' Equation
+Özet: In the present paper explores, the Burgers' Equation which is the considerable partial differential equation that emerges in nonlinear science. Also, Homotopy Analysis Method (HAM) has been implemented to Burgers' equation with given initial conditions. The efficieny of the proposed method is analyzed by using some illustrative problems. We are compared approximate solutions acquired via HAM with the exact solutions. As a result of comparisons, it is demonstrated that the gained solutions are in excellent agreement. Additionally, 2D-3D graphs and tables of attained results are drawn by means of a ready-made package program. The recent obtained results denote that HAM is extremely efficient technique. Nonlinear partial differential equations can be solved with the help of presented method.
+Yazar isimleri: ['Mine BABAOĞLU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Universal Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ujma/issue/72812/1173595
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2643630

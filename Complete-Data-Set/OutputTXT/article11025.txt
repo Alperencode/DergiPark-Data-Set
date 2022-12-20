@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of Intraday Non-Linear Asymmetrical Relationship in US Stock Exchanges with Momentum Threshold Models
+Özet: The study examines intraday price relationships between SP500 and Dow Jones Industrial (DJI) in the 3 months following the V-type recovery from the stock market crash due to the pandemic. Analysis with Momentum Threshold Value (MTAR) cointegration and error correction models revealed the existence of an intraday non-linear asymmetric relationship in US stock markets. Findings of the MTAR Vector error correction model applied to the 5-minute observations indicate the existence of an asymmetric causality relationship from the SP500 index to the DJI index in the long run.
+Yazar isimleri: ['Ayben KOY', 'Mehmet Yusuf GÜNGÖR', 'Oğuz ŞİMŞEK']
+Yayın Yılı: 27 Nisan 2022
+Dergi ismi: Maliye ve Finans Yazıları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mfy/issue/69611/1038136
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2138288

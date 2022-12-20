@@ -1,0 +1,7 @@
+Makale Başlığı: Tatlı Bitkisel Proteinler ve Rekombinant Üretimleri
+Özet: Tüketicilerin doğal gıda ürünlerine karşı olan ilgisi ve artan bilinçleri nedeniyle, gıda endüstrisi doğal içeriklere  sahip gıdalar üretmeye yönelmiştir. Öte yandan gıda endüstrisinde yüksek miktarda tatlandırıcı kullanımı da bir diğer sağlık sorunudur. Tatlı proteinler, sakkarozdan yüzlerce/binlerce kat daha fazla tatlılığa sahip ilgi çekici doğal tatlandırıcılardır.Tatlı proteinler, yüksek tatlılığa ancak düşük kalori değerlerine sahiptir ve doğal veya yapay tatlandırıcılara sağlıklı alternatifler olarak kullanım potansiyelleri yüksektir. Bilinen bitki tatlı proteinleri tropik bitkiler tarafından üretilir ve bu, elde edilebilecek protein miktarını sınırlar. Protein miktarını arttırmak için farklı ekspresyon sistemleri kullanılarak bitkisel tatlı proteinlerin rekombinant üretimi üzerine birçok çalışma yapılmıştır. Bu makalede, tatlı bitki proteinlerinin kaynakları, türleri, fizikokimyasal ve yapısal özellikleri ve rekombinant üretimi ile ilgili çalışmalar derlenmiş ve yeni yapılabilecek çalışmalar üzerinde durulmuştur.
+Yazar isimleri: ['Shokoufeh YAZDANİAN ASR', 'Nergiz YÜKSEL', 'Seyhan İÇİER', 'Burcu KAPLAN TÜRKÖZ']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Türk Doğa ve Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tdfd/issue/72793/1027978
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2097995

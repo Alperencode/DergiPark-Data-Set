@@ -1,0 +1,7 @@
+Makale Başlığı: TESTING FOR LONG-RUN RELATIONSHIPS BETWEEN EUROPEAN HOUSING AND STOCK MARKETS: EVIDENCE OF THE WEALTH, CREDIT-PRICE AND CAPITAL-SWITCHING REGIME EFFECTS
+Özet: The purpose of this research is to study the asymmetric relationship between house prices and stock  followed by the wealth effect/credit-price effect/capital-switching regime. Stock prices are more volatile in case of negative news, while real estate is rigid downwards. To depict this potential asymmetry, the TAR/M-TAR model is employed and the asymmetric ECM for causal inferences. For cases with no asymmetry are tested with the Johansen framework and VECM. Empirical results indicate asymmetric credit-price effect for Finland and symmetric cointegration for Ireland, Sweden, Switzerland. The VECM indicates that Sweden exhibits wealth effect and there is credit-price effect for Ireland. The European Union has implemented its policies that accounted for the unification of its member nations. It is the first to examine asymmetric linkages between the house and stock prices under the capital-switching behavior found in the European markets as well as their unification after the implementation of Maastricht Treaty.
+Yazar isimleri: ['Sanmoy MUKHERJEE']
+Yayın Yılı: 26 Mart 2022
+Dergi ismi: Uygulamalı Ekonomi ve Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jeess/issue/69057/951413
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1820234

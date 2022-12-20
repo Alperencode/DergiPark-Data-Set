@@ -1,0 +1,7 @@
+Makale Başlığı: The contagion dynamics of vaccine skepticism
+Özet: In this manuscript, we discuss the spread of vaccine refusal through a non-linear mathematical model involving the interaction of vaccine believers, vaccine deniers, and the media sources. Furthermore, we hypothesize that the media coverage of disease-related deaths has the potential to increase the number of people who believe in vaccines. We analyze the dynamics of the mathematical model, determine the equilibria and investigate their stability. Our theoretical approach is dedicated to emphasizing the importance of convincing people to believe in the vaccine without getting into any medical arguments. For this purpose, we present numerical simulations that support the obtained analytical results for different scenarios.
+Yazar isimleri: ['Meltem GÖLGELİ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/957653
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1843646

@@ -1,0 +1,7 @@
+Makale Başlığı: Structural and Spectral Properties of 4-(5-methyl-[1, 2, 4] triazolo [1, 5-a] pyrimidine-7-yloxy) phthalonitrile: Analysis by TD-DFT Method, ADME Analysis, and Molecular Docking Simulations
+Özet: In this study, 4-(5-methyl-[1,2,4]triazolo[1,5-a]pyrimidine-7-yloxy) phthalonitrile (coded as MTPPN) was chosen as the phthalonitrile compound and the quantum chemical and in-silico studies have been done. First, the basis set of the time dependent density functional theory (TD-DFT) method was used and the boundary orbital energies and band gap calculations of the molecule were performed. Analysis of atoms in molecules (AIM) theoretical calculations is presented to learn about electron density and bond critical point. In addition, absorption, distribution, metabolism, and excretion analyzes (ADME) were performed for the drug potential of the compound. On some enzymes effect of MTPPN compound was examined. The docking score was obtained for AChE, BChE, α-GLY proteins -7.864, -6.848, and -5.511 kcal/mol, respectively. MTPPN gave a good inhibitory performance in an in-silico study as a drug candidate.
+Yazar isimleri: ['Kenan ALTUN', 'Ümit YILDIKO', 'Aslıhan Aycan TANRIVERDİ', 'Ahmet Turan TEKEŞ', 'Ahmet Çağrı ATA', 'Barış KARTAL', 'İsmail ÇAKMAK']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jist/issue/73493/1145142
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2543633

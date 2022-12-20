@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye İçin Global Güneş Radyasyonu Persistans Haritalarının Oluşturulması
+Özet: Global güneş radyasyonu persistansı, global güneş radyasyonunun belirli bir bölge ve zamandaki sürekliliğini ortaya koyan bir ölçüdür. Global güneş radyasyonu persistansı tarım, hidroloji ve güneş enerjisi gibi birçok alanda kullanılabilecek önemli bir bilgidir. İklim değişikliği ve küresel ısınma nedeniyle bulut oluşum süreci üzerinde gerçekleşen değişiklikler yere ulaşan güneş enerjisi miktarını ve sürekliliğini etkilemektedir. Bu durum başta enerji olmak üzere birçok alanda persistans bilgisine olan ihtiyacı ortaya çıkarmaktadır. Bir bölgenin güneş enerjisi potansiyelini ortaya koyma ve güneş enerjisi üretim santralleri için ideal yerin tespitinde global güneş radyasyonu persistansı, güneşlenme süresi persistansı ile birlikte düşünülmelidir. Çalışmada global güneş radyasyonu ve güneşlenme süresi verilerine iki farklı persistans hesaplama yöntemi uygulanarak Türkiye genelinde güneşlenme süresi persistans bilgisi de göz önünde bulundurularak global güneş radyasyonu persistansının alansal dağılımı ortaya konulmuştur.
+Yazar isimleri: ['Kasım KOÇAK']
+Yayın Yılı: 30 Mart 2021
+Dergi ismi: İklim Değişikliği ve Çevre
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/idec/issue/61086/795352
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1292105

@@ -1,0 +1,7 @@
+Makale Başlığı: Sıcak Presleme Yöntemi İle Üretilen Fe Esaslı Matriste Ni Esaslı Süper Alaşımların Katkı Oranlarının Etkisi
+Özet: Doğal taş kesme işlemlerinde kullanılan elmaslı kesici takımlar da matris dizaynı; takımların kesme performansı açısından oldukça önem arz etmektedir. Bu çalışmada toz metalurjisi yöntemiyle Fe-Ni-Cu metal tozlarına ağırlıkça farklı oranlarda (%10-20-30) 9062 ve 9045 ticari kodlu nikel esaslı süper alaşımlar ilave edildi. Üretilen numunelerin mikro yapı ve bazı mekanik özellikleri incelendi. Deney numuneleri 920ºC sıcaklıkta 35 MPa basınç altında dört dakika süre boyunca sıcak preslendi. Elde edilen numunelerin sertlik, yoğunluk, üç noktalı eğme testleri yapıldı. Mikroyapı incelemeleri için SEM (taramalı elektron mikroskobu),EDS ve XRD kullanıldı. Sonuç olarak; SEM görüntülerinde 9045 ve 9062 ticari kodlu Ni esaslı alaşım ile takviyelendirilmiş düzgün küresel tozların yapı içerisinde homojen dağıldığı ve %30 9062 katkılı numunede porozitenin azaldığı görüldü. Her iki gurupta da %30 katkı oranlarında en yüksek sertlik değerleri elde edildi.  Üç noktalı eğme deneyinde %10 katkılı 9062 numunesinde en yüksek mukavemet değerine sahip olduğu gözlendi.
+Yazar isimleri: ['İlyas SOMUNKIRAN', 'Ertuğrul ÇELİK', 'Büşra TUNÇ', 'Çağdaş GÜNEŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1126027
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2466680

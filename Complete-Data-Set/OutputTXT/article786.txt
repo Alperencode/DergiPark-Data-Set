@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF CREDIT RISK ON ASSET PROFITABILITY FOR MEDIUM-LARGE SCALE DEPOSIT BANKS-TURKEY EXAMPLE
+Özet: The aim of the study is to examine the effect of credit risk on bank profitability. In the study, a sample of 13 medium-large scale banks are used for the 2009-2020 period. Panel data analysis is performed with the fixed time effect model for the estimation of the empirical model. Non-performing loans are used as a measure of credit risk and return on assets is used as an indicator of bank performance. Additionally, in accordance with the literature, control variables related to capital adequacy, balance sheet structure, income-expenditure structure and liquidity structure are added to the model. In line with the literatüre, the findings reveal that credit risk has a negative effect on bank profitability. This study, which was carried out according to the financial statement data bearing the effects of the 2020 pandemic, shows that the negative effect of credit risk on the return on assets for deposit banks in Turkey, does not differ from the results conducted with the 2008 global crisis and 2018 currency crisis data.
+Yazar isimleri: ['Aylin ÇELİK KARA', 'Şenol BABUŞCU', 'Adalet HAZAR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Akademik Yaklaşımlar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ayd/issue/71018/1014405
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2044966

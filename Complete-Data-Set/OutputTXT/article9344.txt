@@ -1,0 +1,7 @@
+Makale Başlığı: The Effects of Domestic Tourists' Fear of Covid-19 and Travel Anxiety on Travel Intentions
+Özet: The purpose of this study is to examine the relationship between the perceptions of COVID-19 fear, travel anxiety, and travel intentions of domestic tourists during the COVID-19 pandemic. Data were collected from a total of 387 participants through an online survey in September 2021, using data collection tools adapted from different studies. Confirmatory factor analysis (CFA) was used to verify the measurement model, and covariance-based structural equation modeling (SEM) was applied to test the theoretical model. The results of the study show that domestic tourists' fears of COVID-19 infection have influenced significantly on their travel anxiety, and it has not a significant effect on their travel intentions. It has been determined that travel anxiety has a significant effect on the travel intentions of domestic tourists. According to the results of the research, the theoretical and practical contributions of the research are discussed.
+Yazar isimleri: ['Davut KODAŞ']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Journal of Hospitality and Tourism Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/johti/issue/69457/1126900
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2470341

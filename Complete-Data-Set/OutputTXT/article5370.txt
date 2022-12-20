@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Evaluation of SHA-256 and BLAKE2b in Proof of Work Architecture
+Özet: The popularity of blockchain, which is a technology with a distributed architecture, is increasing day by day due to the advantages it provides. Along with blockchain, interest in high-performance and efficient hash algorithm applications is increasing rapidly. While considering the amount of power and environmental problems required for these applications, more efficient algorithms were needed. In this study, a comparison of SHA-256 and BLAKE2b, one of the most popular algorithms, is presented. In the experiments, a standard Intel i5 based computing system is used. The benchmarking approach focuses on computationally heavy processes such as Proof of Work and Merkle Tree. This article presents a comparison of these two algorithms in a Bitcoin-like mining architecture.
+Yazar isimleri: ['Muhammed Mücteba ÖZCAN', 'Burak Alperen AYAZ', 'Muhsin Mert KARAGÖZ', 'Esra YOLAÇAN']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: Eskişehir Türk Dünyası Uygulama ve Araştırma Merkezi Bilişim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/estudambilisim/issue/68981/1086400
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2304059

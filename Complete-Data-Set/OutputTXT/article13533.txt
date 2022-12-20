@@ -1,0 +1,7 @@
+Makale Başlığı: Conformational Analysis and DFT Investigations of 1-(4-Fluorophenyl)Piperazine by ELF and LOL, Inhibitory activity against Alzheimer’s Disease, and ADME Prediction
+Özet: This study reports 1-(4-Fluorophenyl)Piperazine molecule structural and electronic properties calculated at the DFT/B3LYP level. A potential energy surface scan along the rotational bonds discovered the most stable minimum energy conformer of the title compound. Frontier molecular orbital (FMO) analyses, density of state (DOS), molecular electrostatic potential (MEP), and global and chemical reactivity descriptors were also used to investigate the reactivity of the pFPP molecule. In addition, ELF and LOL analysis were performed. In silico biological studies such as drug-likeness, ADME, and toxicity properties were also performed. Molecular docking studies are performed to predict the anti-Alzheimer agent enzyme (AChE) active site of the pFPP. The docking predicts the possibility of a potential drug to improve Alzheimer's disease (AD) treatment.
+Yazar isimleri: ['Sibel ÇELİK']
+Yayın Yılı: 20 Ekim 2022
+Dergi ismi: Sakarya Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/saufenbilder/issue/73051/1126853
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2470119

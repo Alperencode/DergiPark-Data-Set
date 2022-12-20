@@ -1,0 +1,7 @@
+Makale Başlığı: A Combined 3D-QSAR, Pharmacophore Modelling, and Molecular Docking Study for Plastoquinone Analogues
+Özet: 
+Yazar isimleri: ['Mehmet ÇINAR']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Eastern Anatolian Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/eajs/issue/73890/1175556
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2651817

@@ -1,0 +1,7 @@
+Makale Başlığı: TOPIC MODELING ANALYSIS OF TWITTER POSTS OF NON-GOVERNMENTAL ORGANIZATIONS IN TURKEY IN THE CONTEXT OF CLIMATE COMMUNICATION 2020-2021
+Özet: The climate crisis is an issue that cannot be grasped easily, does not attract much attention, and cannot have an impact on societies and individuals, however vital it is. It is generally recognized that a better understanding of what the climate crisis means for both organizations and individuals is essential. It is also a fact that there is a need to identify approaches, processes, methods and tools that can help better communication regarding the climate crisis and transform it into a cultural policy. In this study, non-governmental organizations working on the climate crisis and the environment and trying to create perception and awareness on this issue were examined. In this context, all tweets made by NGOs in the Twitter application between 2020 and 2021 were examined, and which themes were discussed by NGOs with the LDA topic modeling method. As a result of the research, it was determined as 19.5% biodiversity, 13.3% climate, 11.7% sustainability, 10.2% environment, 10.1% activism, 9.8% other, 9% information, 8.4% social responsibility, 8% mining, respectively.
+Yazar isimleri: ['Kemal GÜNAY', 'Yeşim GÜÇDEMİR']
+Yayın Yılı: 7 Eylül 2022
+Dergi ismi: Turkish Online Journal of Design Art and Communication
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tojdac/issue/72513/1153033
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2572018

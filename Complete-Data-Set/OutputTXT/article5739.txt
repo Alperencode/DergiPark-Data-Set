@@ -1,0 +1,7 @@
+Makale Başlığı: Rezistif Süperiletken Arıza Akımı Sınırlayıcı MATLAB-Simulink Modeli ve Uygulaması
+Özet: Günümüzde, nüfus artışı, yerleşim yerlerinin ve endüstriyel alanların genişlemesi ve teknolojinin gelişmesiyle birlikte elektrik tüketiminde önemli bir artış görülmektedir. Buna paralel olarak üretim kapasitelerinin de artması ile elektrik güç sistemlerinde çeşitli sebeplerle meydana gelen arızaların sebep olduğu yüksek akım seviyeleri, sistemdeki elemanlar için tehlikeli durumlar oluşturmaktadır. Arıza akımlarının sınırlandırılması, bu akımların zorlayıcı termal, dinamik ve elektromanyetik etkilerinden sistemin ve sistem elemanlarının korunmasını sağlar.  Bu çalışmada, modern arıza akımı sınırlandırma yöntemlerinden biri olan Rezistif Süperiletken Arıza Akımı Sınırlayıcıların (R-SFCL) yapısı ve çalışma prensibi incelenmiştir. Ayrıca, bir R-SFCL tasarımı yapılmış ve oluşturulan deney sisteminde arızalar gerçekleştirilerek elde edilen gerçek veriler ile MATLAB/Simulink’de gerçekleştirilen simülasyon sonuçları karşılaştırılmıştır.
+Yazar isimleri: ['Buğra YILMAZ', 'Muhsin GENÇOĞLU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1038735
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2140738

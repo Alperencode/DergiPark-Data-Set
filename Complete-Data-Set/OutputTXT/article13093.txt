@@ -1,0 +1,7 @@
+Makale Başlığı: Inverse Dynamics of Bipedal Gait: The Assumption of the Center of Pressure as an Instantaneous Center of Rotation
+Özet: In the study, an alternative 7-dof dynamical model that can be used in gait analysis of human, bipedal robots and exoskeleton systems is proposed. The dimensions and kinematic data of the model are specified on the basis of anthropometry and kinematic data of real human gait. The 7-link model consists of the trunk, two thighs, two shanks and two feet links. The movement is examined in the sagittal plane and during the single support phase (SSP). Unlike the rotation about a fixed point, it is assumed that the right foot rotates about the center of pressure (COP). The part between the COP and the tip of the toe is considered to be a passive limb which is horizontally on the ground. The effect of this part on dynamic analysis is neglected. The equations of motions are derived by applying Lagrange equations. Using the kinematic data obtained in clinical gait analysis (CGA) conducted by Winter [1], the net joint torques are calculated and then compared with CGA torque data. As a result of the comparisons, it is seen that the curves are overlapped significantly.
+Yazar isimleri: ['Fatih CELLEK', 'Barış KALAYCIOĞLU']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/901642
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1656497

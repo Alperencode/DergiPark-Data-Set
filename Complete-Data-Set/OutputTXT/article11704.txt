@@ -1,0 +1,7 @@
+Makale Başlığı: Meslek Lisesi Öğrencilerinin Öz-Yeterliklerinin Yordayıcısı Olarak İnsani Değerler
+Özet: Bu araştırmanın amacı meslek lisesi öğrencilerinin insani değerlerinin öz-yeterliklerini yordama gücünü belirlemektedir. Araştırmanın örneklemini meslek lisesinde öğrenim gören öğrenciler oluşturmaktadır. Bu çalışmada, değişkenler arasındaki ilişkiyi ortaya çıkarmak için nicel araştırma modellerinden biri olan korelasyonel desen kullanılmıştır. Araştırmanın bağımsız değişkenleri meslek lisesi öğrencilerinin insani değer düzeyleri, bağımlı değişken ise meslek lisesi öğrencilerinin öz yeterlikleridir. Araştırma örneklemine dâhil edilen öğrenci sayısı 626’dır. Öğrencilerden toplanan veriler normal dağılım gösterdiği için çalışma parametrik testler ile sınanmıştır. Veri setinin analizinde meslek lisesi öğrencilerinin öz-yeterlik ve insani değerleri arasındaki ilişki Pearson Moment Çarpım Korelasyon Katsayısı ile test edilmiştir. Araştırmada bağımsız değişkenlerin bağımlı değişkeni yordayıcılığı çoklu regresyon ile test edilmiştir. Araştırmanın sonuçlarına göre meslek lisesi öğrencilerinin öz-yeterlikleri ile insani değerleri arasında anlamlı bir ilişki bulunmuştur. Diğer bir araştırma bulgusunda ise meslek lisesi öğrencilerinin insani değerlerinin öz-yeterliklerini yordadığı görülmektedir.
+Yazar isimleri: ['Ercan YILMAZ', 'Burak GÜNER']
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: Milli Eğitim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/milliegitim/issue/73393/938186
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1771790

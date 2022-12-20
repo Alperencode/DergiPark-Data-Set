@@ -1,0 +1,7 @@
+Makale Başlığı: Reconstitution of Pol II (G) responsive form of the human Mediator complex
+Özet: RNA polymerase II (Pol II) is a 12 subunit protein complex from yeast to human that is required for gene expression. Gdown1 containing Pol II [Pol II (G)] is a special form of Pol II that is catalytically inactive and heavily depends on the 30-subunit Mediator complex for its activator and basal dependent function in vitro.  Here we report for the first time, the identification and the generation of a 15-subunit human Mediator complex via the novel multibac baculovirus expression system that is fully responsive to Pol II (G). Our results show complete recovery of Pol II (G) dependent transcription both with full 30-subunit Mediator and also with 15-subunit recombinant Mediator that we synthesized. Moreover, we also show that the recombinant Mediator interacts with Pol II (G) as well.  These  results  enlighten  us  towards  understanding  how  a  certain  population  of  Pol  II  that  is  involved  in  selected  gene  regulation  is  activated by Mediator complex.
+Yazar isimleri: []
+Yayın Yılı: 23 Haziran 2021
+Dergi ismi: Turkish Journal of Biology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkbiology/issue/64217/973634
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1888820

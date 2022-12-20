@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of the Relationship Between Growth and Corruption: Evidence From Developing Countries
+Özet: Until the 1980s, the concept of corruption has been generally studied in the fields of sociology, political science and criminal law. Later, As the link between corruption, which was seen as a government failure, and economic performance has become increasingly evident, economists working in the field of public finance have turned their attention to this field. It is important to investigate the concept of corruption and growth dynamics, especially for developing countries. In order to contribute this discussion, the paper examines the effect of corruption on growth. This relationship is investigated by fully modified least squares (FMOLS) method for a sample of 27 developing countries between 2002 and 2019 period. The findings of the study suggest that there is a negative and statistically significant relationship between growth and corruption.
+Yazar isimleri: ['Semih ÇETİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bulletin of Economic Theory and Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/beta/issue/70987/1127571
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2473174

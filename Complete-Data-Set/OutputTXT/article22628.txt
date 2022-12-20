@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’deki Kamu ve Özel Sermayeli Mevduat Bankalarının CAMELS Yaklaşımı ile Performanslarının Değerlendirilmesi
+Özet: Çalışmada, Türkiye’de faaliyet gösteren üç kamusal ve sekiz özel sermayeli mevduat bankasının CAMELS analiz yöntemi ile performanslarının karşılaştırılması amaçlanmıştır. Bankaların 2009 – 2020 yıllarını kapsayan dönemde finansal durumları göreceli olarak belirlenmiştir. Analiz sonucunda kamu sermayeli bankalarda çok az performans düşüşü gözlemlenmiştir. En iyi performansı Halkbank, en düşük performansı ise Ziraat Bankası göstermiştir. Özel sermayeli mevduat bankalarında ise çok hafif bir performans artışı olduğu tespit edilmiştir. Şekerbank ve Anadolubank en iyi performansa sahip bankalardır. Fibabank’ın ise en düşük performansa sahip banka olduğu tespit edilmiştir.
+Yazar isimleri: ['Ali USLU']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Denetim ve Güvence Hizmetleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/audas/issue/72512/1172389
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2638492

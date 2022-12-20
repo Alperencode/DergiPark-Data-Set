@@ -1,0 +1,7 @@
+Makale Başlığı: Relationship Between Domestic Production in Agricultural and Industrial Sectors and Purchasing Power by Controlling for International Trade Variables (Iran)
+Özet: Foreign trade is one of the important subjects in any economy. Due to the close relationship between economy, technology, culture, and governance, business has a significant effect on economies. This study analyses the relationship between domestic production and purchasing power which is proxied by inflation rate by considering certain indexes of intranational trade. Our targeted country is Iran and data are between1973 and2013. Because of limited access to data our sample size was small which motivate us to use Autoregressive Distributed Lag (ARDL) technique that is appropriate for the small sample size analysis. The estimated coefficient of GDP, value-added agriculture and industry were negative and significant. Therefore, it was claimed that there is a negative and significant relationship between domestic production and purchasing power which is proxied by inflation rate by controlling for certain variables of international trade.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353542
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364569

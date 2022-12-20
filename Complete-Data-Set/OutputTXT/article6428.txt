@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye İçin İşsizlik Histerisinin Karşılaştırılmalı Bir Analizi
+Özet: Ülke ekonomisinde yaşanan kriz ile oluşan şok etkisinin kriz sonrasında da devam etmesi durumu işsizlik histerisi olarak tanımlanmaktadır. Başka bir deyişle ekonomide oluşan kötü gidişat sonucu artan işsizlik oranının bir daha eski düzeyine dönmemesi durumu olarak ifade edilir. Günümüz dünyasında ekonomik açıdan iyi durumda olan gelişmiş ülkelerde, ekonomik olumsuzluklardan çok fazla etkilenmedikleri için histeri etkisi görülmezken, gelişmişlik düzeyi düştükçe histeri yoğunluğunda artmış görülmektedir. Histeri etkisinin yoğunluğu ile ülkenin gelişmişlik düzeyi ters orantılıdır. Çalışmada genel mevsimsellikten arındırılmış toplam genel işsizlik ile mevsimsellikten arındırılmış toplam genç işsizlik histerisi etkisi incelenmiştir. 2014 Ocak-2022 Şubat yılları arası aylık veriler ile Philips Perron birim kök testleri kullanılarak analiz edilmiştir. Çalışmada kullanılan değişkenler, birim kök testinin üç denkleminde de sınanmıştır. Hiçbirinde histeri etkisi olmadığı sonucuna varılmıştır.
+Yazar isimleri: ['Hasan AZAZİ', 'Serhat ATEŞ']
+Yayın Yılı: 25 Temmuz 2022
+Dergi ismi: Girişimcilik ve Kalkınma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/girkal/issue/71395/1112051
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2409169

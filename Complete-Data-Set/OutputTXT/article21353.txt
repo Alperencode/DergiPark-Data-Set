@@ -1,0 +1,7 @@
+Makale Başlığı: Efficiency enhancement with chloride to iodide ion exchange of benzimidazolium salt as a redox mediator
+Özet: The new benzimidazolium derivative (SM-1) salt with ion exchange from the (SM-0) was fabricated and characterized by proton-nuclear magnetic resonance (H-1-NMR), carbon-nuclear magnetic resonance (C-13-NMR), Fourier-transform infrared spectroscopy (FTIR), electrospray ionization (EIS-MS), thermal analysis (TG), cyclic voltammetry (CV), and ultraviolet-visible spectroscopy (UV-vis), for electrolytes (liquid or dried) in the DSSC charge transportation mechanism. Also, the influence of ion exchange from chloride to iodine in the synthesized electrolytes, compared to other electrolytes (conventional or commercial), was investigated about DSSC performance efficiency. When using as a liquid electrolyte (SM-1), the power conversion efficiency (eta) of the working DSSC device was recorded as 1.980% and it was observed that the performances of DSSCs increased up to 56% when comparing dried electrolyte for SM-1 without conventional redox material (I-/I3-). In the future, different molecular modifications of this type of benzimidazole derivatives or mixtures with conventional redox couples may further improve the performance of DSSC devices.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944722
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1794934

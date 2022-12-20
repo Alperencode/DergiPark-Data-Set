@@ -1,0 +1,7 @@
+Makale Başlığı: Akım Verilerinin Makine Öğrenmesi Teknikleriyle Tahmin Edilmesi
+Özet: Akarsu akımlarının tahmini havza ve taşkın yönetiminde oldukça önemlidir. Doğrusallık göstermeyen ve birçok parametreye bağlı olan hidrolojik olayların tahminleri oldukça zor bir konudur. Bu çalışmada Mersin Lamas Nehri aylık ortalama akım verileri kullanılarak Yapay Sinir Ağları (YSA), Destek Vektör Makineleri (DVM) ve Derin Öğrenme (DÖ) optimizasyonları kullanılarak akım modellemesi yapılmış ve karşılaştırılmıştır. Sonuçlar incelendiğinde problemin çözümünde en iyi yöntemin DÖ olduğu YSA ve DVM yöntemlerinin ise buna göre daha başarısız sonuçlar verdiği gözlemlenmiştir. En iyi sonucu DÖ’ye ait 1 giriş modeli vermiştir (KOKH= 0.7647, OMH=0.7370, NSE=0.9724, OMBH=27.9326, R²=0.9962).
+Yazar isimleri: ['Esra Aslı ÇUBUKÇU', 'Vahdettin DEMİR', 'Mehmet Faik SEVİMLİ']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Gazi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gmbd/issue/72442/1076058
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2263391

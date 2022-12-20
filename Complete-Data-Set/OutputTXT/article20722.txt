@@ -1,0 +1,7 @@
+Makale Başlığı: Buckling of carbon nanotube patterned polymer cylindrical shells under the axial load
+Özet: In this article, the buckling of carbon nanotube (CNT) patterned cylindrical shells subjected to axial compressive load is presented within the framework of shear deformation theory (SDT). The material properties of nanocomposites change as a linear function depending on the thickness coordinate. The basic equations of cylindrical shells with CNT pattern are derived based on Donnell type shell theory and the critical axial load expression is obtained within the framework of SDT by applying Galerkin method. The effects of transverse shear deformations on the critical axial load of functionally graded CNT patterned cylindrical shells are investigated by changing CNT patterns, volume fraction ratio and shell parameters.
+Yazar isimleri: ['Mahmure AVEY', 'Fethi KADIOĞLU', 'Semra AHMETOLAN']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1140950
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2526995

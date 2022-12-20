@@ -1,0 +1,7 @@
+Makale Başlığı: Derin Sinir Ağlarını Kullanarak İnsan Yüzü Tanıma
+Özet: Son yıllarda birçok araştırmacı farklı uygulamalar için yapay zeka uygulamalarını içeren bilgisayar tabanlı sistemler kullanmaktadır.  Kişi tanıma uygulaması da bu alanda yapılan çalışmalardandır. İlk zamanlarda güvenlik önlemleri için tasarlanan yüz ve nesne tanıma uygulamaları, son zamanlarda eğlence ve alışveriş sektörü  alanlarında da kullanılmaktadır. Bu uygulamalar, çeşitli firmaların mobil uygulama geliştirmeleriyle daha da popülerlik kazanmaktadır. Yüz tanıma uygulamalarında, verilerin büyük ve karmaşık olması durumunda derin öğrenme yöntemleri tercih edilebilmektedir. Bu çalışmada da bir yüz tanıma uygulaması için 3 katmanlı bir Evrişimli Sinir Ağı (ESA) geliştirilmiştir. Geliştirilen model Libor Spacek's Facial Images Databases veri setine uygulanmıştır. Önerilen yöntemin veri seti üzerine uygulanması sonucunda %99.29 doğruluk oranı olduğu belirlenmiştir. Bu da uygulamanın gerçek bir tanıma sistemine uyarlanabileceği anlamına gelmektedir.
+Yazar isimleri: ['Kaplan KAPLAN', 'Fatma KUNCAN']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1139029
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2519468

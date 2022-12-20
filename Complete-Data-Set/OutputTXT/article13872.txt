@@ -1,0 +1,7 @@
+Makale Başlığı: Covid-19 Pandemisi Süresince Uzaktan Çalışma Alanları Kullanımının İncelenmesi: Katılım Bankası Çalışanları Üzerinde Bir Araştırma
+Özet: Covid-19 sürecinde özellikle bankalar, alternatif çalışma alanlarını aktif olarak kullanmaya başlamıştır. Bu çalışmada, Covid-19 sürecinde uzaktan çalışma alanlarının katılım bankaları çalışanları üzerindeki etkileri araştırılmıştır.  Türkiye genelindeki Katılım Bankalarında ofis veya şubede çalışan 411 örneklemden elde edilen veriler kullanılmıştır. Modelde oluşturulan toplam 19 hipotez test edilmiştir ve Teknoloji Kabul Modeli kullanılmıştır.  Bu modelin test edilebilmesi için Yapısal Eşitlik Modelinden yararlanılmıştır. Çalışma sonucunda, çalışanların uzaktan çalışma sistemine uyumlulukları, zaman, algılanan davranışsal kontrolü ve algılanan kullanım kolaylıkları faktörlerinin, algılanan faydayı olumlu etkilediği tespit edilmiştir. Ayrıca çalışanların uzaktan çalışma sistemi için kolaylaştırıcı koşullar, endişe, güven ve öz yeterlilik faktörlerinin, algılanan faydayı olumsuz etkilediği tespit edilmiştir.
+Yazar isimleri: ['Alper Veli ÇAM', 'Abdulkadir DAŞTAN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Selçuk Üniversitesi Sosyal Bilimler Meslek Yüksekokulu Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/selcuksbmyd/issue/73640/1124790
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2461621

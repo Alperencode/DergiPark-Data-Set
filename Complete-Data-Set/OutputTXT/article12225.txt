@@ -1,0 +1,7 @@
+Makale Başlığı: KÜÇÜK AKSU ÇAYI’NDA HIDROLIK MODELE DAYALI YAPISAL TAŞKIN ANALİZİ
+Özet: Bu çalışmada, Antalya ilinde bulunan Küçük Aksu Çayı’nda Hec-RAS ile taşkın riski olan alanlar belirlenmiştir. İlk olarak, farklı tekerrür debilerine göre Hec-RAS modelleri geliştirilmiş ve taşkın yayılım haritaları ile taşkın derinlik haritaları oluşturulmuştur. 100 yıllık taşkın tekerrür debisi kullanılarak geliştirilen model sonucunda 6,04 ha yerleşim alanı ile 33,73 ha tarım alanının su altında kaldığı görülmüştür. 100 yıllık taşkın tekerrür debisine karşılık gelen maksimum su yüksekliği 11,60 m olarak saptanmıştır. Daha sonra derinlik-hasar grafiği yardımıyla Küçük Aksu Çayı için yapısal taşkın analizi yapılmıştır. Yapılan analiz sonucunda taşkınların neden olduğu ekonomik kaybın 1.152 milyon-1.946 milyon TL arasında olduğu görülmüştür.
+Yazar isimleri: ['Tahsin BAYKAL', 'Özlem TERZİ', 'Erhan ŞENER']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Mühendislik Bilimleri ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesd/issue/72809/1099665
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2358532

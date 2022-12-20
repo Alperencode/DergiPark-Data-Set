@@ -1,0 +1,7 @@
+Makale Başlığı: Çanakkale Yenice Çinko Konsantrelerinden Çinko Ekstraksiyonuna Mekanik Aktivasyon ve Elektro-Oksidasyonun Etkisi
+Özet: Çinko üretimi için dünyada en çok kullanılan cevherler sfaleritlerdir. Halen konsantre halde yurt dışına satılan bu bölge konsantrelerinden alternatif bir proses ile çinko ekstraksiyon koşulları araştırılmıştır. Çanakkale-Yenice bölgesi çinko cevherleri önce kırılıp öğütülmüş ve sonrasında gezegensel değirmende mekanik olarak aktive edilmiştir. Mekanik aktivasyon işlemi için 1/30 katı/bilya oranı, 2 saat işlem süresi ve 600 devir/dk işlem parametreleri optimize edilmiştir. Ardından liç çalışmaları elektrooksidasyon yöntemiyle gerçekleştirilmiştir. Liç çalışmaları ile en yüksek çinko ekstraksiyon verimi %90,78 olarak elde edilmiştir. Çalışmalarda analiz ve karakterizasyon için XRF, X-ray, AAS, SEM-EDS-Mapping çalışmaları gerçekleştirilmiştir.
+Yazar isimleri: ['Figen ALGÜL', 'Hasan ALGÜL', 'Ahmet ALP']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1067291
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2229124

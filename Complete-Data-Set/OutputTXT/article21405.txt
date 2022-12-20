@@ -1,0 +1,7 @@
+Makale Başlığı: Selective personalization and group profiles for improved web search  Personalization
+Özet: Personalization is a common technique used in Web search engines to improve the effectiveness of retrieval.  While personalizing some queries yields significant improvements in user experience by providing a ranking in line with  the user preferences, it fails to improve or even degrades the effectiveness for less ambiguous queries. A potential  personalization metric could improve search engines by selectively applying personalization. One such measure, click  entropy uses the query history and the clicked documents for the query, which might be sparse for some queries. In  this article, the topic entropy measure is improved by integrating the user distribution into the metric, robust to the  sparsity problem. Furthermore, a topic model-based ranking for the personalization method is proposed using grouped  user profiles. Experiments reveal that the proposed potential prediction method correlates with human query ambiguity  judgments and the group profile-based ranking method improves the mean reciprocal rank by 8%.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739719
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110729

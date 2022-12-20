@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of the potential of greenhouse post-harvest wastes for bioenergy production and utilization for heating and carbon dioxide application
+Özet: In this study, raw biomass feedstock characterization of greenhouse post-harvest residues of tomato, pepper, and eggplant has been investigated using the wastes of stem and leaves as a source of energy gained from palletization. The characterization was compared to both sawdust and the relevant ISO and EU pellet standards. The proximate and ultimate analyses results of all the tested feedstock materials have proven to be successful candidates for pelletizing and combustion process. The bulk density of tomato, pepper, and eggplant pellets were found to be 568 kg/m3, 575 kg/m3, 589 kg/m3, respectively, and the higher heating values of these produces were found to be 17.25 MJ/kg, 17.45 MJ/kg, and 17.80 MJ/kg, respectively. Based on the results, it is possible to generate 10 tons of waste per hectare capable of producing almost 50 MWh of heating energy. Furthermore, this waste could generate more than 6.5 tons of CO2 per hectare. The study results suggest that the heating energy potential and the amount of CO2 emitted could be used in greenhouses to support photosynthesis during low temperature and low solar radiation periods.
+Yazar isimleri: ['Burak ŞEN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Environmental Research and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ert/issue/72327/1128457
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2476921

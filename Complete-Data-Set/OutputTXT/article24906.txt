@@ -1,0 +1,7 @@
+Makale Başlığı: Has Financialization in Commodity Markets Affected the Predictability in Metal Markets? The Efficient Markets Hypotheses for Metal Returns
+Özet: This article evaluates the hypothesis that returns of metal prices are unpredictable (i.e under the weak form Efficient Market Hypothesis). The possible effect that financialization in the commodity market has had in the predictability of this is also evaluated. Using statistical techniques such as the portmanteau test, the variance ratio test, and a robustness test on the monthly returns of metals for the 1992-2015 period, it is found that the market of some metals is persistently inefficient whereas others fluctuate between periods of efficiency and inefficiency. There is no clear effect of financialization on the efficiency of the metal market.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353504
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364528

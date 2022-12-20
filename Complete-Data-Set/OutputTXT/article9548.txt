@@ -1,0 +1,7 @@
+Makale Başlığı: A Novel Operator to Solve Decision-Making Problems Under Trapezoidal Fuzzy Multi Numbers and Its Application
+Özet: This article investigates solutions to multiple attribute decision-making (MADM) problems in which the attribute values take the form of trapezoidal fuzzy multi-numbers. To do this, this paper proposes a kind of mean aggregation operator called the Bonferroni harmonic mean operator for aggregating trapezoidal fuzzy information. Then, an approach that is a solution algorithm has been developed to find a solution to multi-attribute decision-making problems. Afterwards, an illustrative example has been given to verify the developed approach and to show its usefulness and efficiency. Finally, a comparison table has been presented to compare the proposed method with some existing methods.
+Yazar isimleri: ['Davut KESEN', 'İrfan DELİ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of New Theory
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnt/issue/72878/1153262
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2572815

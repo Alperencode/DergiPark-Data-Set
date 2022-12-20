@@ -1,0 +1,7 @@
+Makale Başlığı: Classification of Malware in HTTPs Traffic Using Machine Learning Approach
+Özet: Cybersecurity and cyberwar have become crucial for a world with the continuous development and expansion of digitalization. In the current digital era, malware has become a significant threat for internet users. Malware spreads faster and poses a big threat to our computer safety.  Hence, network security measures have an important role to play for neutralizing these cyber threats. In our research study, we collected some malicious and self-generated benign PCAP’s and then applied a suitable machine learning classification algorithm to build a traffic classifier. The proposed classifier classifies the malicious HTTPs traffic. The experimental results show the average accuracy (90%) and false-positive (0.030) for Random Forest (RF) classifier.
+Yazar isimleri: ['Abhay SİNGH']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/990318
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1954306

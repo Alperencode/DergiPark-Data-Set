@@ -1,0 +1,7 @@
+Makale Başlığı: Enhancement of sensitization capacity of dye from Melastoma malabathricum L. in DSSC by organic acid treatment
+Özet: Melastoma malabathricum L. dye was investigated as a sensitizer in DSSC after treatment with five different organic acids: citric, deoxycholic, lactic, ascorbic and acetic acids. These treated dyes were evaluated as sensitizers of dye sensitized solar cell and the performances were investigated. The treated dyes were shown to enhance the short circuit photocurrent density (Jsc) and hence contributing to the increase in power conversion efficiency. The overall efficiency enhancement of the acidified treated dyes were due to the combined effect of increased light absorption at visible range, efficient adsorption of dye molecules onto TiO2 film and low electron transport resistance for efficient electron diffusion at TiO2/dye/electrolyte interface. Dye treated with 1000 mM citric acid showed the best performance with overall conversion efficiency of 0.79±0.01%, which is an increment of 41% of the overall cell performance efficiency from the original, untreated dye (η = 0.56±0.01%).
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167898
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/148001

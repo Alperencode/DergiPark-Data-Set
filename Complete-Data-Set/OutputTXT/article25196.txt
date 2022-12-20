@@ -1,0 +1,7 @@
+Makale Başlığı: Economic dispatch and cost analysis on a Power system network interconnected with Solar Farm
+Özet: Frequent escalation of fuel prices, concerns on environment and diminution of fossil fuel reserves and have forced the incorporation of Renewable Energy resources with the existing generation. This paper presents an Economic Dispatch model developed for a system consisting of thermal units and Photo Voltaic (PV) plants. Since solar power is intermittent in nature, Beta distribution function is utilized for estimating the power output of PV panels. The seasonal changes of desired location are also included for effective analysis of the output. Case studies are carried out for various generation levels and seasonal changes. The possible choices of installing solar plants in the test system are analysed. The proposed methodology is tested and validated on a standard IEEE 30 bus test system.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167896
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/147999

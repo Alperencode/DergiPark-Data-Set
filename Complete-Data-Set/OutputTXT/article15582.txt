@@ -1,0 +1,7 @@
+Makale Başlığı: Solutions Formulas for Three-dimensional Difference Equations System with Constant Coefficients
+Özet: In this paper, we study the following three-dimensional system of difference equations\begin{equation*}x_{n}=\frac{ax_{n-3}z_{n-2}+b}{cy_{n-1}z_{n-2}x_{n-3}}, \ y_{n}=\frac{ay_{n-3}x_{n-2}+b}{cz_{n-1}x_{n-2}y_{n-3}}, \ z_{n}=\frac{az_{n-3}y_{n-2}+b}{cx_{n-1}y_{n-2}z_{n-3}},   \ n\in \mathbb{N}_{0},\end{equation*}where the parameters $a, b, c$ and theinitial values $x_{-j},y_{-j},z_{-j}$, $j \in \{1,2,3\}$, are real numbers. We solve aforementioned system in explicit form. Then, we investigate the solutions in 3 different cases depending on whether the parameters are zero or non-zero. In addition, numerical examples are given to demonstrate the theoretical results. Finally, an application is given for solutions are related to Fibonacci numbers when $a=b=c=1$.
+Yazar isimleri: ['Merve KARA', 'Yasin YAZLİK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1060075
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2200993

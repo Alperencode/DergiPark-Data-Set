@@ -1,0 +1,7 @@
+Makale Başlığı: The Impact of Google Trends on the Tourist Arrivals: A Case of Antalya Tourism
+Özet: With the growth of the tourism industry, tourism demand forecasting has become an important research topic. Recently researches have shown that Google Trends(GT) data with the help of Google can positively affect the forecast of tourist arrivals. However, the use of this data directly can cause some errors. This article provides suggestions on how the calculation differences according to the same time at different time intervals in GT data (which is obtained on an hourly, daily, monthly and yearly basis) can be eliminated. In this study, it is aimed to examine the effect of GT data for Antalya, Turkey's favorite tourist destination by the Russians. In addition, the multivariate time series models are used to see separately and together the effects of international trade (IT), weather conditions (WC) and number of flights (FN) variables on tourism data, as well as GT data. As a result, it has been seen that the tourist arrival can be forecasted better with the GT (AGT) data, which is recommended to be used by adjusted.
+Yazar isimleri: ['Hatice ÖNCEL ÇEKİM', 'Ahmet KOYUNCU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Alphanumeric Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alphanumeric/issue/71050/931652
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1747006

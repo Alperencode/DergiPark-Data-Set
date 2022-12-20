@@ -1,0 +1,7 @@
+Makale Başlığı: Molecular Dynamics Simulation of E412 Catalytic Residue Mutation of GOx-IPBCC
+Özet: The enzyme glucose oxidase from Aspergillus niger has a homodimeric structure, consisting of two identical subunits with a molecular weight of 150,000 Daltons. In this study, we used the structure of the enzyme glucose oxidase from Aspergillus niger IPBCC.08.610 (GOx-IPBCC), this enzyme had a total activity of 92.87 U (μmol/min) and a Michaelis-Menten constant (Km) of 2.9 mM (millimolar). This study was conducted to predict the molecular dynamics of E412 (Glu412) residue catalytic mutation belonging to the GOx-IPBCC enzyme was determine the effect of changes in the catalytic residue on substrate binding (β-D-glucose). The results of molecular docking of 19 mutant structures, six E412 mutant homologous structures were selected (E412C, E412K, E412Q, E412T, E412, E412V, and E412W), which were evaluated using molecular dynamics simulation for 50 ns. The results showed a decrease in ∆G values in two mutant structures is E412C and E412T, and there is one mutant structure that increased ∆G values, namely E412W, these three mutant structures showed the best stability, bond interaction, and salt bridge profile according to molecular dynamics simulation.
+Yazar isimleri: ['Laksmi AMBARSARİ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of the Turkish Chemical Society Section A: Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jotcsa/issue/72258/1088587
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2312794

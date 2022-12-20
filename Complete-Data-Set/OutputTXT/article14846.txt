@@ -1,0 +1,7 @@
+Makale Başlığı: Seramik Hammaddelerinin Ayrı Ayrı Öğütülmesinin Etkilerinin İncelenmesi
+Özet: Özet: Bu çalışma kapsamında, seramik sektöründe geleneksel olarak karışım halinde bilyalı değirmenlerde öğütülen sert hammaddelerin, aynı öğütme parametreleri altında ayrı ayrı öğütülmelerinin etkileri incelenmiştir. Ayrı ayrı yapılan öğütme işlemlerinde albit ve kuvars kumu farklı sürelerde sulu halde artan sürelerde öğütülerek tane boyut dağılımları incelenmiş, uygun boyut dağılımına sahip ürünler elde etmek için harcanan toplam öğütme enerjileri belirlenmiştir. Yapılan öğütme deneyleri neticesinde karışım ürünü ile benzer boyut dağılımını sağlayan 5 saat öğütülmüş kuvars kumu (d50=13,2) ve 3 saat öğütülmüş albit (d50=10,6) kullanarak hazırlanan karışımın hazırlanmasında %27 oranında daha az enerji harcandığı tespit edilmiştir. Ayrıca İstenilen tane boyutunda çalışabilme kolaylığı sağladığından uygun şartlar altında ayrı ayrı öğütmenin daha avantajlı bir yöntem olduğu görülmüştür.
+Yazar isimleri: ['Erdal KARA', 'A. Dilek ÇUHADAROĞLU']
+Yayın Yılı: 17 Ağustos 2022
+Dergi ismi: Teknik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbed/issue/72198/1081560
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2284639

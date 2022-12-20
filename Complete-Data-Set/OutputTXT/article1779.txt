@@ -1,0 +1,7 @@
+Makale Başlığı: THE PAST WEB: EXPLORING WEB ARCHIVES
+Özet: Ülkemizde web arşivleri ile bu arşivler hakkında yapılan çalışmalar için biraz geri planda kalmış denilebilmektedir. Bunun yanına ilgili literatür incelendiğinde bilgi bilimi, kütüphanecilik, arşivcilik, bilgi ve belge yönetimi gibi alanlarda da web arşivleri ile ilgili çalışmaların ne yazık ki yok denecek kadar az olduğu görülmektedir. Oysa web arşivleri ve web arşivleme ile ilgili çalışmalar, geçmişin dijital ve web bilgilerinin geleceğe aktarılması hususunda büyük önem arz etmektedir. Web’de üretilen bilgiler çok çabuk bir biçimde değişmektedir. Web’in son derece hızlı bir biçimde değişmesinin getirdiği bu ortam web’de yayınlanan bilginin kalıcılığının da son derece az olmasına neden olduğundan web’deki bilginin korunması konusunda özellikle web arşivleme ile ilgili fazla sayıda çalışmaya ihtiyaç duyulmaktadır.
+Yazar isimleri: ['Aykut KAYA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Arşiv Dünyası
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ad/issue/70481/1092646
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2329650

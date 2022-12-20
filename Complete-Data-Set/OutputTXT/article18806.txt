@@ -1,0 +1,7 @@
+Makale Başlığı: DEVELOPMENT of an ANFIS BASED CONTROL ALGORITHM for MAXIMUM POWER POINT TRACKING in ON-GRID DOUBLE STAGE SINGLE PHASE PV INVERTER
+Özet: 
+Yazar isimleri: ['Yasemin ÖNAL', 'Ümit Çiğdem TURHAL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Scientific Reports-A
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsr-a/issue/72895/1117920
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2433378

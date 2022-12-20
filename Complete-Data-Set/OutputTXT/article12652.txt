@@ -1,0 +1,7 @@
+Makale Başlığı: Stoklara İlişkin İşlemlerin BOBİ FRS ve KÜMİ FRS Açısından Değerlendirilmesi
+Özet: Bağımsız denetime tabi olan fakat Türkiye Muhasebe Standartlarını (TMS) uygulamayan işletmeler 01.01.2018 tarihinden itibaren Büyük ve Orta Büyüklükteki İşletmeler İçin Finansal Raporlama Standartlarını (BOBİ FRS) uygulamaktadırlar. Bununla birlikte 2019 yılında Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından Küçük ve Mikro İşletmeler İçin Finansal Raporlama Standardı (KÜMİ FRS) taslağı hazırlanmıştır. Henüz kanunlaşmamış olan bu taslağın yakın gelecekte yürürlüğe girmesi muhtemeldir. Bu çalışmanın amacı işletmelerin stok hareketlerinin muhasebeleştirilmesi noktasında BOBİ FRS ve KÜMİ FRS hükümlerini karşılaştırmalı olarak değerlendirmektir. Bu doğrultuda araştırmada öncelikle KÜMİ FRS ve BOBİ FRS’de stoklara ilişkin düzenlemelerin neler olduğu ortaya koyulmuştur. Daha sonra ise her iki standarda göre teorik olarak açıklanan işlemlerin uygulamada nasıl muhasebeleştirileceği örnekler yardımıyla açıklanmıştır. Araştırma sonucunda stoklara ilişkin işlemler açısından KÜMİ FRS ile BOBİ FRS hükümlerinin bazı noktalarda örtüştüğü, bazı noktalarda ise farklılık gösterdiği tespit edilmiştir.
+Yazar isimleri: ['Hakan YAZARKAN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Ordu Üniversitesi Sosyal Bilimler Enstitüsü Sosyal Bilimler Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/odusobiad/issue/73138/1097170
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2347618

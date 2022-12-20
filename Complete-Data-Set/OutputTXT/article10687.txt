@@ -1,0 +1,7 @@
+Makale Başlığı: Semi-Symmetric Generalized Sasakian Space Forms On Some Special Curvature Tensors
+Özet: In this article, semi-symmetric generalized Sasakian space forms are investigated on some special curvature tensors. Characterizations of generalized Sasakian space forms are obtained on some specially selected $\sigma-$curvature tensors. By examining the flatness of these $\sigma -$curvature tensors, the properties of generalized sasakian space forms are given. More importantly, the cases of $\sigma-$semi-symmetric generalized Sasakian space forms are discussed and the behavior of the manifold is examined for each case. Again, necessary and sufficient conditions have been obtained for $\sigma-$symmetric generalized Sasakian space forms to be Einstein manifolds.
+Yazar isimleri: ['Tuğba MERT', 'Mehmet ATÇEKEN', 'Pakize UYGUN']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1134184
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2500720

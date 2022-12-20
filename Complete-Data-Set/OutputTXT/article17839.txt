@@ -1,0 +1,7 @@
+Makale Başlığı: A New Instance Selection Method for Enlarging Margins Between Classes
+Özet: As discarding superfluous instances in data sets shortens the learning process, it also increases learning performance because of eliminating noisy data. Instance selection methods are commonly utilized to undertake the abovementioned tasks. In this paper, we propose a new supervised instance selection algorithm called Border Instances Reduction using Classes Handily (BIRCH). BIRCH considers k-nearest neighbors of each instance and selects instances that have neighbors from the only same class, namely, but not having neighbors from the different classes. It has been compared with one traditional and four state-of-the-art instance selection algorithms by using fifteen data sets from various domains. The empirical results show BIRCH well delivers the trade-off between accuracy rate and reduction rate by tuning the number of neighbors. Furthermore, the proposed method guarantees to yield a high classification accuracy. The source code of the proposed algorithm can be found in https://github.com/fatihaydin1/BIRCH.
+Yazar isimleri: ['Fatih AYDIN']
+Yayın Yılı: 21 Eylül 2022
+Dergi ismi: Zeki Sistemler Teori ve Uygulamaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jista/issue/70283/1033354
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2118786

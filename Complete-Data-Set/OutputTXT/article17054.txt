@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye Podarcis siculus siculus (Rafinesque-Schmaltz, 1810) Populasyonlarının Kökenini Ortaya Çıkarmak için Tür Sınırlarının Belirlenmesi
+Özet: Türkiye’ye insan eliyle getirilen Podarcis sicurus türünün kökeninin iki farklı kaynak populasyona dayanma olasılığı ya da farklı coğrafyalara taşınan örneklerin alttür seviyesinde farkılaşma olasılığı bulunmaktadır. Ada türlerinde gözlemlenen hızlı evrimleşme süreçleri, taşınmış ve izole olmuş popülasyonlarda da benzer şekilde ortaya çıkabilmektedir. Bu çalışmada Türkiye’den üç farklı lokaliteden; Zonguldak, İstanbul ve Samsun'dan elde edilen örneklerden dokular alınmıştır. mtDNA gen dizileri elde edilmiş ve Türkiye'ye ait Podarcis sicurus örnekleri ve Genbanktan indirilen dizilerle birleştirilmiştir. Filogenetik analizler ve tür sınırlama analizleri yapılmıştır.  Buna göre, türün Türkiye'den elde edilen örnekleri coğrafik izolasyonlarına benzer şekilde iki farklı haplotipte gruplanmıştır. Bu grupların farklı kaynak grupları olduğu görülmüştür. Species delimination analizleri ise bu haplotiplerin farklılıklaşmasının alttür düzeyinde olabileceğini göstermektedir.
+Yazar isimleri: ['Ferhat MATUR', 'Kamil CANDAN', 'Çetin ILGAZ', 'C. Varol TOK', 'Mustafa SÖZEN', 'Muhsin ÇOĞAL', 'Batuhan Yaman YAKIN', 'Elif YILDIRIM', 'Yusuf KUMLUTAŞ']
+Yayın Yılı: 22 Ağustos 2022
+Dergi ismi: Uluslararası Tarım ve Yaban Hayatı Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijaws/issue/72191/1027526
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2096225

@@ -1,0 +1,7 @@
+Makale Başlığı: The Use of Computer Modelling to Forecast the Sustainability in the Development of Geothermal waters Resource: Khankala Deposit Example
+Özet: In 2013 the Grozny State Oil Institute within the consortium ‘Geothermal resources’ started a pilot project to build a geothermal plant on the basis of the most promising XIII layer of the Khankala thermal waters deposit of Russia. Planned capacity of the projected facility is 5.45 Gcal/hour, which will heat a greenhouse complex. A “doublet” system is going to be applied which is represented by a closed loop of one production and one injection well with reinjection of all used water back into the layer. This technique allows maintaining the reservoir pressure and thus productive rates, and reducing the ecological effects of geothermal development to minimum. In order to predict the changes in the temperature of the resource (it goes down as a result of the injection of cold water) it is necessary to conduct a numerical simulation. Modelling permits to have general ideas on «doublet» system functioning in its hydrogeological environment, allows choosing best exploitation parameters and distance between production and injection wells bottoms in order to achieve sustainable use of the resource.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167892
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/147995

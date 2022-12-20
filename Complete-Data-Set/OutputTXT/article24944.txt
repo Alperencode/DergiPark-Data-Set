@@ -1,0 +1,7 @@
+Makale Başlığı: Forecasting Gold Price with Auto Regressive Integrated Moving Average Model
+Özet: The present study forecasts the gold price of India by using ARIMA (Auto Regressive Integrated Moving Average) model over a period of 25 years from July 1990 to February 2015. The study also uses Mean Absolute Error(MAE), Root Mean Square Error(RMSE), Maximum Absolute Percentage Error(Max APE), Maximum Absolute Error(Max AE), and Mean Absolute Percentage Error(MAPE) to evaluate the accuracy of the model.  The result of the study suggests that ARIMA (0, 1, 1) is the most suitable model used for forecasting the Indian gold prices since it contains least MAPE, Max AE and MAE .The study suggests that the past one-month gold price has a significant impact on current gold price. The result of the study are particularly important to investors, economists, market regulators and policy makers for understanding the effectiveness of gold price to take better investment decision and devise better risk management tools.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353555
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364587

@@ -1,0 +1,7 @@
+Makale Başlığı: Wide Input and Load Integral Gain Changeable Digital Control DC-DC Converter
+Özet: The aim of this paper is to present an integral gain changeable digital control dc-dc converter with wide input and load regulation characteristics. Since the green energy depends on the environment, wide input regulation characteristics are necessary in dc-dc converters. Additionally, dc-dc converters have an issue that the output voltage of dc-dc converters is increased in the light load condition. When the large feedback gain is used to realize wide regulation characteristics, the stability becomes worse. The proposed method can address all of them using a simple integral gain changeable method. The integral gain is changed quickly by the load current value. The integral changeable function uses a single approximate function which is designed by the stabilization range of output voltage based on the integral control. The proposed method has great regulation characteristics against both of the input voltage and load. Furthermore, it has a superior transient response to the conventional integral gain fixed method. Simulated and experimental results are provided to confirm the effectivity of proposed method.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167908
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/148011

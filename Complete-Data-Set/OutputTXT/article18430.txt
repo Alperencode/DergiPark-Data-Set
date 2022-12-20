@@ -1,0 +1,7 @@
+Makale Başlığı: Statistical Analysis of Noise-induced Brain Electrical Activity of Employees in the Underground Mining Sector in the Soma Basin
+Özet: 
+Yazar isimleri: ['Ayla TEKİN', 'Mustafa Oğuz NALBANT', 'Mustafa ORHAN', 'Fırat TEKİN', 'Fatih SUVAYDAN', 'Kemal BERKİ', 'Sami GÜMÜŞ', 'Aslı Aydın SAVRAN']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Celal Bayar Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cbayarfbe/issue/72755/1114348
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2418329

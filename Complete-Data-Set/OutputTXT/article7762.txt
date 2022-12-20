@@ -1,0 +1,7 @@
+Makale Başlığı: Looking for Problem Scenarios with Robotic Coding: Primary School Example in Turkey
+Özet: Students can develop their creative thinking processes and problem scenarios with robotic applications. Therefore, the research objective is that robotic applications can solve students' problem scenarios. This study was conducted in Samsun/Turkey in the Ministry of Education for 10 weeks and involved 8 elementary school students.. For this study, we made two things which are the necessary configurations developed by an expert researcher, another one is robotics coding training which other field expert researchers carried out. After studying problem scenarios and robotic coding training, students were provided with the problem scenarios to bring solutions with robotic coding. In this study, it was found that although most of the students proposed different solutions to the given scenario, there were also students who proposed similar solutions. At the end of the study, students had very different approaches to the scenarios and students designed some robots as we can see.
+Yazar isimleri: ['Sibel DEMİR KAÇAN', 'Ahmet KAÇAN']
+Yayın Yılı: 26 Mart 2022
+Dergi ismi: International Journal of Psychology and Educational Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/pes/issue/69240/1096780
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2345986

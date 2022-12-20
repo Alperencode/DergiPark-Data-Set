@@ -1,0 +1,7 @@
+Makale Başlığı: Fluorene-9-Bisphenol ve Canlılar Üzerindeki Etkileri
+Özet: Fluorene-9-Bisphenol (BHPF), endokrin bozucu maddelerden biri olan Bisphenol A (BPA)' nın ikamesidir. BPA, günlük hayatta sürekli olarak karşılaşabileceğimiz zararlı bir kimyasal maddedir. Hem çevreye hem de canlı hayatına zararlı etkilerinden dolayı kullanımı kısıtlandırılmıştır. Bundan dolayı plastik malzemelerin üretilmesinde yapı maddesi olarak alternatiflere yönelim gösterilmiştir. Alternatif olarak kullanılan BHPF; gıda saklama kaplarında, oyuncak malzemelerinde, bebeklerin kullandığı biberonlarda ve daha birçok alanda karşımıza çıkmaktadır. Endokrin bozucu olma potansiyeline sahip bu kimyasal bileşiğe maruz kalınması sonucunda ortaya çıkabilecek etkilerinin araştırılması, daha yeni gündeme gelmiştir. Yapılan  araştırmalarda kullanılan canlılar, insan organizmasına en yakın özelliği gösteren ve sucul hayatında etkilerini araştırılabilir kılan türdendir. Bu derleme hazırlanırken BHPF' nin Danio rerio, Porcine (Domuz), Chlorella vulgaris ve CD-1 fare model organizmaları üzerindeki nörolojik, kardiyolojik, histolojik ve endokrinolojik olarak etkilerinin neler olduğunu ortaya çıkaran araştırmalar incelenmiştir.
+Yazar isimleri: ['Fatma Nur AKINCI', 'Aysel Çağlan GÜNAL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Environmental Toxicology and Ecology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/etoxec/issue/72705/1129420
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2480882

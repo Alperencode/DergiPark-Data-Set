@@ -1,0 +1,7 @@
+Makale Başlığı: DOĞRUDAN YABANCI YATIRIMLARIN ÇEKİLMESİNDE ULAŞTIRMA ALTYAPISININ ETKİSİNİN İNCELENMESİ
+Özet: Ülkelerde gelişmişlik düzeyinin belirlenebilmesinde birçok unsur rol almakta olup bu unsurların başlıcalarından birisi de doğrudan yabancı yatırımlardır. Yabancı sermayenin ülkeye çekilebilmesi için ülke içi yabancı sermayenin arzu ettiği gelişmelerin geçekleştirilmesi ve yatırımların önünün açılması gerekmektedir. Ulaştırma altyapısının güçlü olması sadece ekonomik açıdan değil sosyal, kültürel birçok açıdan da ülkenin gelişmişliğine katkıda bulunmaktadır. Tüm bu katkılarıyla ulaştırma altyapı yatırımlarının faydaları ülkeleri yabancı sermaye adına cazip hale getirmektedir. Bu çalışmada ulaştırma altyapısına yapılan yatırımlar ile doğrudan yabancı yatırımlar (DYY) arasındaki ilişki Arellano-Bond fark Genelleştirilmiş Momentler Metodu (GMM) ile incelenmiştir. Çalışmanın veri seti, 2010-2017 arasındaki dönemi kapsamakta olup 30 OECD ülkesine ait veriler kullanılarak analiz gerçekleştirilmiştir. Analiz sonucunda, toplam ulaştırma altyapı yatırım harcamalarının doğrudan yabancı yatırımları pozitif yönde etkilediği tespit edilmiştir.
+Yazar isimleri: ['Eyup ATİOĞLU', 'Osman Nuri ŞAHİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Hitit Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hititsbd/issue/70753/1088159
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2310881

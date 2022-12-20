@@ -1,0 +1,7 @@
+Makale Başlığı: Attendance as a Service: A multi-layered system design in attendance applications for Covid-19
+Özet: 
+Yazar isimleri: ['Alparslan ÇAY', 'Doğan KASAS', 'Muge EREL-OZCEVİK']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Celal Bayar Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cbayarfbe/issue/72755/1028242
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2099062

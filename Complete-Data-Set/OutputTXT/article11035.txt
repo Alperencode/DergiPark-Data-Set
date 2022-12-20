@@ -1,0 +1,7 @@
+Makale Başlığı: VULNERABILITY OF BANANA TREES VIA CLOSENESS AND RESIDUAL CLOSENESS PARAMETERS
+Özet: One of the most important research topics about complex networksis examination of their vulnerability. Therefore, there are many studiesin the literature about analyzing the robustness and reliability of networksusing graph theoretical parameters. Among these parameters, the centralityparameters play an important role.The closeness parameters and its derivativesare widely discussed. In this study, the closeness parameter and the more sensitiveparameter residual closeness which is based on closeness parameter havebeen considered.Furthermore, the closeness and residual closeness of bananatree structure have been calculated.
+Yazar isimleri: ['Hande TUNÇEL GÖLPEK']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Maltepe Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mjm/issue/72482/1156370
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2578304

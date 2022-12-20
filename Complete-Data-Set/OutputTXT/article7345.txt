@@ -1,0 +1,7 @@
+Makale Başlığı: On the Generalized of p-harmonic Maps
+Özet: In this paper, we extend the definition of p-harmonic and p-biharmonic maps between Riemannian manifolds. We present some new properties for the generalized stable p-harmonic maps.
+Yazar isimleri: ['Bouchra MERDJİ', 'Ahmed MOHAMMED CHERİF']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1085856
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2302074

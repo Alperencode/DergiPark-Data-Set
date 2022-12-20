@@ -1,0 +1,7 @@
+Makale Başlığı: Sağlık Hizmetlerinde Faaliyet Tabanlı Maliyetleme
+Özet: Sağlık hizmetleri doğası gereği teknoloji ve emek yoğun bir sektördür ve bu özelliğinden dolayı maliyeti oldukça yüksektir. Maliyetin yüksek olması, sağlık hizmeti sunumunun kapsamını, boyutunu ve kalitesini ciddi anlamda etkilemektedir. Ayrıca, kaynakların sınırlı, ihtiyaçların sınırsız olması durumu giderlerin kontrolünü gerektirmektedir. Sağlık hizmetlerinin kesintisiz olarak sunulma mecburiyeti, giderlerin kontrolünü diğer bir deyişle maliyetlerin analiz edilmesini zorunlu kılmaktadır. Çalışmada, modern maliyet analizi yöntemlerinden biri olan Faaliyet Tabanlı Maliyetleme (FTM) yönteminin sağlık hizmetlerindeki uygulamaları ele alınmıştır. Google akademik ve Pubmed veri tabanında 2017-2022 yılları arasında son 5 yılda yayınlanan makaleler “faaliyet tabanlı maliyetleme”, “sağlık”, “hastane” anahtar kelimeleriyle yapılan literatür taraması sonucunda ulaşılan bilgilerin değerlendirilmesi yapılmış ve maliyetlerin sağlık hizmetleri sunumundaki önemi açıklanmaya çalışılmıştır.
+Yazar isimleri: ['Uğur Can ŞENYURT', 'Nazan TORUN']
+Yayın Yılı: 26 Ağustos 2022
+Dergi ismi: Türkiye Sağlık Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tusbad/issue/72333/1107732
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2391651

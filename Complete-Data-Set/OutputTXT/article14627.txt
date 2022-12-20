@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of the Relationship Between the Climate Characteristics of the Tea Producing Regions of the Leading Countries in Tea Production
+Özet: Using hierarchical classification methods, the relationship between temperature and precipitation amount of the tea producing regions of the leading countries in tea production was investigated. Using the minimum spanning tree method in this article has allowed us to very clearly visualize the difficult and complex relationship. Countries that show similar average temperature and precipitation changes are linked in the same group. According to the results, it is understood that monthly temperature change and monthly precipitation rates is effective in tea production.
+Yazar isimleri: ['Mehmet BATI', 'Mehmet ŞAHİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Takvim-i Vekayi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/takvim/issue/70952/1089846
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2317965

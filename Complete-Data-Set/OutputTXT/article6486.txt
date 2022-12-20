@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of insulation thickness on energy saving in cold regions of Türkiye
+Özet: In the countries procuring a major amount of their energy from abroad, using of the energy effectively and ensuring the energy-saving become gradually more important. In this study, considering the climatic and meteorological conditions of Van province, optimum insulation thickness, payback period, and energy-saving values were analyzed for three insulation materials (rock wool, polyurethane, XPS) and five energy sources (imported coal, fuel oil, LPG, natural gas and electricity) on wall models built with pumice and aerated concrete. The optimum insulation thickness was calculated using the interest and inflation rates. The calculations were made by making use of the lifecycle cost analysis (LCCA). Insulation thickness that should be applied depending on the wall elements used in buildings can vary. Thus, examining the wall models, insulation materials and energy sources were examined, and the optimum insulation thicknesses, annual savings, and payback periods were found to be 3-15.6 mm, 30-63%, and 1.4-5.8 years, respectively, in the present study.
+Yazar isimleri: ['Altuğ KARABEY']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: Gümüşhane Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumusfenbil/issue/72979/1066842
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2227413

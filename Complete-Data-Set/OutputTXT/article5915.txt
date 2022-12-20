@@ -1,0 +1,7 @@
+Makale Başlığı: Error Elimination From Bloom Filters in Computer Networks Represented by Graphs
+Özet: An undirected mathematical graph, $G = (V, E)$ where $V$ is a set of vertices and $E = V \times V$ is the set of edges, can model a computer network. By this consideration we search for solutions to real computer network problems with a theoretical approach. This approach is based on labelling each edge by a subset of a universal set, and then encoding a path as the union of the labels of its edges. We label each vertex $v \in V$ by using a subset of universal set $U$, then we present a way to encode shortest paths in the graph $G$ by using a way optimizing the data. By mathematical approach, it is provable that the labelling method we introduced eliminates the errors from the shortest paths in the graph. We aim to obtain the results in a more efficient use of network resources and to reduce network traffic. This shows how our theoretical approach works in real world network systems.
+Yazar isimleri: ['Gokce CAYLAK KAYATURAN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Fundamental Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fujma/issue/72663/1091736
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2325759

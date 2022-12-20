@@ -1,0 +1,7 @@
+Makale Başlığı: Restoranlarda Yiyecek İsrafının Belirleyicileri, Kaynakları ve Çıktılarına İlişkin Kavramsal Bir Model Önerisi
+Özet: Bu çalışma, turizm bağlamında restoran işletmelerinde arz ve talep kaynaklı ortaya çıkan yiyecek israfının değerlendirilmesini ve kavramsal bir model sunulmasını amaçlamaktadır. Önerilen model doğrultusunda restoran işletmelerinde yiyecek israfını belirleyiciler, kaynaklar ve çıktılar olmak üzere birbiriyle ilişkili üç süreçte ele almak mümkündür. Restoran türü ve servis şekli, yiyecek israfının belirleyicilerini oluştururken; üretim öncesi (satın alma, depolama gibi), esnası (yiyecek, fiziksel çevre gibi) ve sonrası (müşteri türü, profili gibi) aşamalarda yer alan unsurlar kaynakları meydana getirmektedir. Aynı zamanda modele göre yiyecek israfı birtakım çevresel, finansal ve sosyal çıktılara yol açmaktadır. Çalışma turizm bağlamında yiyecek israfını söz konusu faktörler üzerinden kavramsallaştıran ilk çalışmalardan biri olma özelliği taşımaktadır. Çalışmada araştırmacılar ve uygulamacılara yönelik öneriler de sunulmaktadır. 
+Yazar isimleri: ['Gökhan YILMAZ']
+Yayın Yılı: 25 Ağustos 2022
+Dergi ismi: Seyahat ve Otel İşletmeciliği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/soid/issue/72226/1093086
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2331407

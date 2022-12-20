@@ -1,0 +1,7 @@
+Makale Başlığı: Boolean Hypercubes, Classification of Natural Numbers, and the Collatz Conjecture
+Özet: Using simple arguments derived from the Boolean hypercube configuration, the structure of natural spaces, and the recursive exponential generation of the set of natural numbers, a linear classification of the natural numbers is presented. The definition of a pseudolinear Collatz operator, the description of the set of powers of $2$, and the construction of the natural numbers via this power set might heuristically prove the Collatz conjecture from an empirical point of view.
+Yazar isimleri: ['Ramon CARBÓ DORCA', 'Carlos PERELMAN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Journal of Mathematical Sciences and Modelling
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jmsm/issue/73450/972781
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1885797

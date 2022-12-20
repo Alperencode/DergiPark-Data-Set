@@ -1,0 +1,7 @@
+Makale Başlığı: KLİNİK FELSEFE
+Özet: Klinik Felsefe kitabı felsefe ile psikolojiyi klinik bağlamda birleştirip terapötik bir yöntem olarak kullanmayı amaçlamaktadır. Bu bağlamda 10 farklı metin ve geniş bir yazar kadrosuyla klinik felsefenin imkanından felsefe tarihinden örneklere, psikoterapi modellerinden Doğu-Batı düşünce ayrımına kadar pek çok konu işlenmektedir.
+Yazar isimleri: ['Okan Nurettin OKUR']
+Yayın Yılı: 6 Haziran 2022
+Dergi ismi: Dört Öge
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dortoge/issue/72934/1118699
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2436629

@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF FOV ANGLE ON A RSSI-BASED VISIBLE LIGHT POSITIONING SYSTEM
+Özet: 
+Yazar isimleri: ['Özlem AKGÜN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of Naval Sciences and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnse/issue/73602/1135557
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2506289

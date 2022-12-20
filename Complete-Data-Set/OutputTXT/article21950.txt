@@ -1,0 +1,7 @@
+Makale Başlığı: FOTOVOLTAİK GÜNEŞ SANRALLERİNİN VERİMLERİNİN DEĞİŞİMİNİN İNCELENMESİ
+Özet: Bu tez çalışmasının amacı, fotovoltaik santralinin performansınıetkileyen panellerin sistemsel ve çevresel faktörlerin etkisi incelenmek üzerehazırlanmıştır. Bu amaç doğrultusunda güneş panellerinin performansına etkieden parametrelerin neler olduğu araştırılmıştır. Ayrıca ölçümleri yapılansistemin gölgelenme, hasar ve ısı kayıplarının etkisini incelemek için termaltestleri ve akım gerilim parametreleri de incelenmiştir. IEC standartlarınagöre panellerin yerinde ölçümler yapılarak akım gerilim eğrileri incelenmiştir.Ölçülen değerler ve STC’deki verileri karşılaştırılarak panel performansını neşekilde etkilediğini bu durumun fotovoltaik santrali nasıl etkilediğiincelenerek oluşturulan grafikler yardımıyla performans değerlerinin değişimigözlemlenmiştir.
+Yazar isimleri: ['Reşat SELBAŞ', 'Hande ÇETİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Sürdürülebilir Mühendislik ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/usmtd/issue/70999/609680
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/791154

@@ -1,0 +1,7 @@
+Makale Başlığı: Time Taken to Reach the Performance Summit: Nature of Relation between Working Capital Management and Firm Performance in the Indian Context
+Özet: This article examines the impact of Working Capital Management measured by Cash Conversion Cycle (CCC) on the financial performance of firms in the Indian context. The period of study is from the year 2000 to 2014 for companies listed on the National Stock Exchange, India. The study uses regression model to analyze panel data. Financial and banking related companies have been removed from the dataset to mitigate bias. This study finds that working capital management is an important variable that affects the financial performance of firms. An empirical examination has been conducted in this study over a fairly big dataset spread over a long period in the Indian context. Increasing the efficiency of CCC would lead to an increment in firm’s performance up to a certain point which is referred to as the “performance summit” in this study. Our study concludes that there exists an inverse U shaped relationship between WCM and performance.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353593
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364628

@@ -1,0 +1,7 @@
+Makale Başlığı: Starlike functions associated with an epicycloid
+Özet: For a natural number $n\geq 2$, the function $\phi_{n\mathcal{L}}(z)=1+nz/(n+1)+z^n/(n+1)$ maps the open unit disk onto a domain bounded by an epicycloid with $(n-1)$ cusps. A class of starlike functions associated with $\phi_{n\mathcal{L}}$ is defined in the unit disk and its sharp bounds on initial coefficients, various inclusion relations and radii problems related to the other subclasses of starlike functions are investigated. As an application, the corresponding results are determined in the limiting case for the class of normalized analytic functions $f$ satisfying $|zf'(z)/f(z)-1|<1$ in the unit disk.
+Yazar isimleri: ['Sumıt NAGPAL', 'V RAVİCHANDRAN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1019973
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2067024

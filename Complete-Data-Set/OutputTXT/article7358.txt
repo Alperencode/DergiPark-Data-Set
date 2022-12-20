@@ -1,0 +1,7 @@
+Makale Başlığı: Quadrilaterals as Geometric Loci
+Özet: We give necessary and sufficient conditions, both algebraic and geometric, for a quadrilateral to be the level set of the sum of the distances to m ≥ 2 different lines.
+Yazar isimleri: ['Lorenz HALBEISEN', 'Norbert HUNGERBÜHLER']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1062741
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2211697

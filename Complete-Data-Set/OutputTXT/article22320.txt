@@ -1,0 +1,7 @@
+Makale Başlığı: Diabetes Risk Prediction with Machine Learning Models
+Özet: 
+Yazar isimleri: ['Gözde ÖZSEZER', 'Gülengül MERMER']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Artificial Intelligence Theory and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aita/issue/72862/1127812
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2474154

@@ -1,0 +1,7 @@
+Makale Başlığı: Terör Örgütlerinin Hashtag Aktivizmi Üzerinden Karşılaştırmalı Sosyal Ağ Analizi
+Özet: Sosyal medya başta olmak üzere iletişim teknolojilerinde yaşanan gelişmeler terör örgütlerinin aktivist yaklaşımlarında önemli değişikliklere neden olmuştur. Örgütler geleneksel eylemlerini sürdürüyor olsalar da asıl eylemselliklerini hashtag aktivizmi ile siber dünyaya taşımış durumdadırlar.Bu çalışmada terör örgütlerinin nasıl bir ağ yapısına sahip olduğu, nasıl bir hashtag aktivizmi oluşturdukları, ağ içindeki etkin bireylerin kimler olduğu ve aktivizmin oluşma sürecinin belirlenmesi amaçlanmıştır. Bu kapsamda NodeXL adlı bir sosyal ağ analizi bilgisayar programı kullanılarak FETÖ örgütü ile PKK örgütü üyeleri ve sempatizanlarına ait Twitter hesapları ve hesaplardan açılan hashtaglar incelenmiş ve sosyal ağ analizleri yapılmıştır.Ayrıca destekleyici veri toplama adına hashtag paylaşımları içerik analizlerine tabi tutulmuştur. PKK ağlarının daha yatay ve yoğun ilişki içinde olduğu, ağ içinde yabancı aktörlerin de oldukça etkili olduğu, FETÖ ağlarının daha hiyerarşik, kontrollü ve organize bir ilişki sergilediği konusunda bulgular elde edilmiştir. Ayrıca, zıt ideolojik yapılara sahip olmalarına rağmen zaman zaman ağlarda işbirliği yaptıklarına yönelik verilere rastlanmıştır.
+Yazar isimleri: ['Mehmet Seyman ÖNDER']
+Yayın Yılı: 26 Haziran 2022
+Dergi ismi: Liberal Düşünce Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/liberal/issue/72621/1025312
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2087872

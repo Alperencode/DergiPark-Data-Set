@@ -1,0 +1,7 @@
+Makale Başlığı: HİSSE SENEDİ FİYATLARI İLE ÜLKE RİSK PRİMİ (CDS) ARASINDAKİ İLİŞKİ
+Özet: Yatırımcılar, özellikle hisse senedi, tahvil gibi menkul kıymet yatırımlarında CDS’lerdeki değişimden etkilenmekte ve yatırım yapacakları menkul kıymetler ile ülkenin CDS verileri arasındaki ilişkiyi bilmek istemektedirler. Bu sebeple çalışmanın amacı, hisse senedi fiyatları ile ülke risk primi olarak da adlandırılan CDS arasında ilişki olup olmadığını tespit etmektir. Bu amaç doğrultusunda değişkenlerin 2010-2020 yıllarını kapsayan 11 yıllık verilerinin günlük değerlerinin logaritması alınarak zaman serisi analizi yapılmıştır. Çalışmada, ARDL Testi sonucunda uzun dönemde ilişki tespit edilememiş, ancak değişkenlerin nedenselliğinin yönünü tespit etmek amacıyla yapılan Granger Nedensellik Testi sonucuna göre, BİST-100 ve CDS arasında çift yönlü ilişki olduğu tespit edilmiştir.
+Yazar isimleri: ['İdris KARSLIOĞLU', 'Uğur SEVİM']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Muhasebe Bilim Dünyası Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mbdd/issue/72537/945899
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1798945

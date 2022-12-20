@@ -1,0 +1,7 @@
+Makale Başlığı: Two and Three Level Converter Design and Power Analysis in Wind Turbine System
+Özet: Today, the increasing need for energy has led countries to energies produced from renewable energy sources. In this study, doubly fed asynchronous generator (DFIG) based wind turbine system suitable for wind turbines with a high power requirement has been examined and simulated. This turbine system generates power to the 120 kV grid with 6 units of 1.5 MW, a total of 9MW power, integrated into the 25 kV distribution system, with a line length of 30 km, and a 25 kV transformer. Due to the fact that the DFIG based wind turbine system is suitable for bidirectional energy flow, it consists of two converters connected one after the other. Three-phase two-level converter and three-phase three-level converter were designed in Matlab/ Simulink program and switching signals were produced with sinusoidal pulse width modulation technique. Total power, reactive power and output voltages of the system values were compared by using these converters and on 15 m/sn wind speed in the DFIG-based wind turbine modeling we designed. For the simulated system, more stable and stable results were obtained with the three-level converter.
+Yazar isimleri: ['Yunus ÇITAK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bayburt Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bufbd/issue/70667/1087308
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2307612

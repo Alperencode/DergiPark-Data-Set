@@ -1,0 +1,7 @@
+Makale Başlığı: Bertrand Curves and B-Lift Curves in Lorentzian 3-Space
+Özet: In this article, based on Thorpe's definition, we define a new curve called the B-lift curve in Lorentzian 3-space and examine the Frenet vectors of the B-lift curve. Furthermore, we examine the relationship between the Frenet vectors of the Bertrand curve and the Frenet vectors of the natural lift curve. Finally, we give an example on these results.
+Yazar isimleri: ['Anıl ALTINKAYA', 'Mustafa ÇALIŞKAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1007681
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2018969

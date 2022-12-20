@@ -1,0 +1,7 @@
+Makale Başlığı: Wavelength tune of InGaN based blue LEDs by changing indium percentage and operational voltage variables
+Özet: 
+Yazar isimleri: ['Bekir GECER', 'İsmail KIYAK']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/960918
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1854981

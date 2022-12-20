@@ -1,0 +1,7 @@
+Makale Başlığı: Using and Comparing Machine Learning Techniques for Automatic Detection of Spam Website URLs
+Özet: 
+Yazar isimleri: ['Muhammed YILDIRIM']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: NATURENGS
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/naturengs/issue/70976/1097970
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2351006

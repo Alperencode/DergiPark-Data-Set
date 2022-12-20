@@ -1,0 +1,7 @@
+Makale Başlığı: Auto-detection of Intermetallic and Eutectic Phases in Microstructure of the AZ91 Mg-alloys by Image Processing Techniques
+Özet: AZ91, which is used in the production of parts in the aerospace, defense and automotive industries, can be enhanced by the addition of an alloying element or the cooling rate, due to the weak strength and formability properties of advanced technology Mg-alloys. The microstructure change in Mg alloys significantly affects the mechanical properties. By analyzing the microstructure of these alloys, a close estimate of the mechanical properties can be made. In this study, an image processing-based model is proposed that automatically recognizes the intermetallic and eutectic phases required for the analysis of microstructural properties in AZ91 Mg-alloys. The proposed method consists of two stages; In the first step, the eutectic phase template is obtained as a binary image. In the second step, the binary image containing the intermetallic and eutectic phases is obtained and the result image with only the intermetallic phases is obtained by taking the difference of these two patterns. Experimental studies have shown that the proposed method gives a result close to the real value in the detection of eutectic phases.
+Yazar isimleri: ['Abdullah ELEN', 'Levent ELEN']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1163661
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2603103

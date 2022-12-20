@@ -1,0 +1,7 @@
+Makale Başlığı: Bulut Uygulamalarında Evrensel Duyarlılık Analizi
+Özet: 
+Yazar isimleri: ['Hüseyin KAYA']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbbmd/issue/70571/1091823
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2326144

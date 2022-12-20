@@ -1,0 +1,7 @@
+Makale Başlığı: An Innovative Synthesis of Nano-ZSM-5 Zeolite Through Interrupted Ultrasound
+Özet: NanoZSM-5 was synthesized with crystal size ≤30 nm by using an interrupted ultrasound crystallization process. In his process, the hydrothermal treatment was interrupted with ultrasound and without ultrasound at 170 oC for 24 hours. The nanoZSM-5 crystallinity was confirmed by X-ray diffraction. The crystallite size and morphology were determined by TEM and SEM. The textural properties were investigated by N2 physisorption. 29Si MAS NMR confirmed the framework composition and presence of silanol group at the surface of the nanoZSM-5.
+Yazar isimleri: []
+Yayın Yılı: 7 Mayıs 2022
+Dergi ismi: Journal of Ongoing Chemical Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jocr/issue/61278/1113501
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2414981

@@ -1,0 +1,7 @@
+Makale Başlığı: PARAMETER OPTIMIZATION FOR UNSUPERVISED RETINAL VESSEL SEGMENTATION WITH IMAGE FILTERING
+Özet: For the detection and evaluation of eye disorders, retinal pictures are obtained in a digital environment with a customized camera system called the fundus. Due to various noises and unsharp contrast, it is difficult to detect the vessels in the eye by specialists, and this can make it difficult for specialists to diagnose. In this study, unsupervised image processing-based mathematical morphology and Coye filtering, and connected component analysis approaches were used to increase the success of retinal vascular segmentation from fundus images. In addition, retinal images are preprocessed for noise reduction and increased contrast. Parameter optimization was performed to increase the success of unsupervised image processing-based approaches. In the contrast limited adaptive histogram equalization (CLAHE) method, which is frequently used in image processing, the most appropriate upper limit value for contrast on color retinal images was investigated. The presented approach tested on the DRIVE and STARE datasets available to researchers. Compared to previous unsupervised learning studies, some metrics were at par with the literature and some metrics were more successful.
+Yazar isimleri: ['Sezer ULUKAYA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Mühendislik Bilimleri ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesd/issue/72809/1033339
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2118713

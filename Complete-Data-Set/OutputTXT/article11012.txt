@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship Between Foreign Aid and Economic Growth
+Özet: In developing countries, capital insufficiency is one of the main problems in economic growth. In these countries, foreign direct investments, foreign debts, and foreign aid are important sources of financing in overcoming the financing problems. When we focus on the growth problem of external financing, how foreign aid affects economic growth is one of the important topics of discussion. In this study, the effect of foreign aid on economic growth is investigated in 20 developing countries that receive the most foreign aid in the world. Random effects, fixed effects, and pooled least squares methods were used for the analysis. According to the findings, foreign aid is statistically significant in all models and negatively affects economic growth. In addition, inflation, population, and foreign direct investments were used as control variables. The effect of inflation on growth is often statistically insignificant. The effect of population on growth is generally negative however, this effect is positive for foreign direct investments.
+Yazar isimleri: ['Ayfer ÖZYILMAZ']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Maliye Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/finance/issue/72751/1176561
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2655913

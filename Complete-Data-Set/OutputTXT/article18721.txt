@@ -1,0 +1,7 @@
+Makale Başlığı: Numerical simulation of Earthen Dams failure due to Overtopping (Case study: SILVEH Earthen Dam)
+Özet: 
+Yazar isimleri: ['Yaghma SHAHANAGHI']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Disaster Science and Engineering
+Yayın sayfa url: http://www.disasterengineering.com/tr/pub/issue/70650/1060287
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2201816

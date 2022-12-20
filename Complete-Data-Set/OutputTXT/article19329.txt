@@ -1,0 +1,7 @@
+Makale Başlığı: $\mathfrak{X}$-elements in  multiplicative lattices - A generalization of $J$-ideals, $n$-ideals and $r$-ideals in rings
+Özet: In this paper, we introduce the concept of an $\mathfrak{X}$-element with respect to an $M$-closed set $\mathfrak{X}$ in multiplicative lattices and study properties of $\mathfrak{X}$-elements. For a particular $M$-closed subset $\mathfrak{X}$, we define the concepts of $r$-elements, $n$-elements and $J$-elements. These elements generalize the notion  of $r$-ideals, $n$-ideals and $J$-ideals of a commutative ring with identity to multiplicative lattices. In fact, we prove that an ideal $I$ of a commutative ring $R$ with identity is a $n$-ideal ($J$-ideal) of $R$ if and only if it is an $n$-element ($J$-element) of $Id(R)$, the ideal lattice of $R$.
+Yazar isimleri: []
+Yayın Yılı: 16 Temmuz 2022
+Dergi ismi: International Electronic Journal of Algebra
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ieja/issue/71261/1102289
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2369882

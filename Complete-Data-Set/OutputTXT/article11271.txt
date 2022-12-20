@@ -1,0 +1,7 @@
+Makale Başlığı: Legis Actiones Sisteminde Exceptioların Dikkate Alınması Sorunu
+Özet: Roma Hukukunda exceptio, ilk yargılama aşamasında dava formulasına eklenen ve mahkûmiyeti koşula bağlayan bir kayıt olarak formula usûlünün bir ürünüdür. Yazılı formula yoluyla dava açmanın söz konusu olmadığı legis actiones sisteminde, formulaya eklenen bir kayıt olarak exceptio var olamaz. Eski usûlün katı şekilciliği nedeniyle yargılamanın yargıç önündeki ikinci aşamasında, davacının ileri sürdüğü hakkın kayıtsız şartsız inkârı dışında bir savunma ileri sürülemez. Gelgelelim bu tespit, daha sonralar exceptio yoluyla ileri sürülmesi mümkün olan savunma sebeplerinin eski usûlde yargılama sürecinde hiçbir şekilde dikkate alınmadığı anlamına gelmez. Bu savunmaların bazıları yargılamanın ilk aşamasında görevli magistratus tarafından incelenip karara bağlanır; davalının iddiasının haklı görülmesi halinde dava reddedilir. Yargılama sırasında ileri sürülmesi olanaklı olmayan savunmalar davalının mahkûm olmasını önleyemese de davacının yasayla düzenlenmiş bir yasak kuralına aykırı olarak davalı aleyhinde mahkûmiyet kararı elde etmesi halinde, davalı yasaya aykırılığı karşı dava yoluyla ileri sürülebilir ve mahkûm olduğu miktarı aynen ya da misliyle geri isteyebilir.
+Yazar isimleri: ['Serap HELVACI', 'Selahattin EREN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Marmara Üniversitesi Hukuk Fakültesi Hukuk Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/maruhad/issue/71190/1080986
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2282413

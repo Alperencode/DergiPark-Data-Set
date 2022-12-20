@@ -1,0 +1,7 @@
+Makale Başlığı: Covid-19 Enfeksiyonu Sonrası İmmün Trombositopeni Tanısı Alan Hastaların Retrospektif Analizi ve Literatür Özeti
+Özet: İmmün trombositopenik purpura (ITP) olarak bilinen immün trombositopeni, COVID-19'un önemli bir komplikasyonu olarak ortaya çıkabilmektedir. COVID-19 ile ilişkili ITP'yi teşhis etmek için kapsamlı bir yaklaşım gereklidir. Bu çalışmada COVID-19 PCR pozitifliği sonrası ilk 60 gün içinde ITP tanısı alan 7 hasta sunulmuştur. Hastaların tanıdaki medyan trombosit sayısı 16x109/L’dir. Şiddetli hayatı tehdit eden kanama yoktu. COVID-19 semptomlarının başlangıcından ITP tanısına kadar geçen medyan gün sayısı 21 gün olarak bulundu. Kemik iliği baskılanması, mikrovasküler trombüs nedeniyle trombosit tüketimi veya trombositlerin otoimmün yıkımı gibi çeşitli mekanizmalar COVID-19 ilişkili trombositopeni nedeni olabilir. IVIG tedavisine yanıt alınmıştır ancak IVIG sonrası medyan 13 günde relaps gelişmiştir. Relaps olan hastalarda kortikosteroid kullanılabilir. COVID-19 sonrası hastalarda trombositopeni gelişimi açsından dikkatli olunmalıdır. Yeni tanı ITP’li hastalarda COVID-19 testi yapılmalıdır.
+Yazar isimleri: ['Fatih YAMAN', 'Neslihan ANDIC', 'Nur OGUZ DAVUTOGLU', 'Hava ÜSKÜDAR TEKE', 'Eren GUNDUZ']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Osmangazi Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/otd/issue/73231/1128627
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2477608

@@ -1,0 +1,7 @@
+Makale Başlığı: Yeni Nesil Alümina Esaslı Seramik Köpük Filtre Üretimi
+Özet: Bu deneysel çalışmada döküm prosesinde kullanılmak üzere ve SiC esaslı seramik köpük filtrelere alternatif olarak yerli ve daha az maliyetli alümina esaslı seramik filtre üretmek amaçlanmıştır. Yöntem olarak replikasyon yöntemi uygulanarak  8-10 PPI’da iki farklı poliüretan süngerler kullanılmıştır. Seramik filtre denemeleri için farklı süspansiyon reçeteleri geliştirilmiştir. Replikasyon yönteminde kullanılan sünger için TG/DTA analizi yapılarak sinterleme rejimi belirlenmiştir.  Sinterleme sonrası elde edilen numuneler  Optik Mikroskop ile ağ yapısı ve gözenek büyüklükleri karakterize edilerek incelenmiştir. Yine numunelerin XRD analizleri yapılarak oluşan fazlar belirlenmiştir. Sonuçta numuneler metal döküm işleminde test edilmiştir. Uygun bulunan numunelerin maliyetleri SiC filtreler ile karşılaştırılmıştır
+Yazar isimleri: ['Tuna AYDIN', 'Nazım KUNDURACI']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1120429
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2443638

@@ -1,0 +1,7 @@
+Makale Başlığı: Predicting Traffic Accident Severity Using Machine Learning Techniques
+Özet: 
+Yazar isimleri: ['Ali ÇELİK', 'Onur SEVLİ']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Türk Doğa ve Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tdfd/issue/72793/1136432
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2509821

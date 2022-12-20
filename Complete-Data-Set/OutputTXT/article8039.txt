@@ -1,0 +1,7 @@
+Makale Başlığı: Grid: Ekistics için Bir İnşa ve Temsil Aracı
+Özet: Bu çalışma, 1960'larda Constantinos A. Doxiadis tarafından geliştirilen insan yerleşimleri bilimi olan Ekistics’e, özellikle veri miktarındaki büyük artış başta olmak üzere bilgi alanındaki güncel tartışmalara referansla odaklanmıştır. Doxiadis'i yeni bir insan yerleşimleri bilimi kurmasına yönlendiren koşullar, bilim adamlarının bugün büyük veri çağında karşılaştığı mevcut zorluklarla karşılaştırmalı bir şekilde tartışılmıştır. Doxiadis, grid mantığını, kurmaya çalıştığı bu yeni insan yerleşimleri biliminin hem inşasında hem de temsilinde temel bir unsur olarak kullanmıştır. Makalede bu yeni bilim, ölçekleri ne olursa olsun, var olan tüm insan yerleşimlerini veriye dayandırma çabası olarak ele alınmış ve Ekistics için kurgulanan gridin analitik yapılandırıldığı gerekçesiyle bir analiz ve belgeleme aracı olarak görülmesinin daha uygun olduğu iddia edilmiştir. Her ne kadar grid fiziksel yapısıyla hem kente ait yolların veya diğer altyapı unsurlarının ilişkilerini hem de disiplinler arasındaki soyut ilişkileri ve bilgi akışını kavramsal olarak temsil etme potansiyeline sahip olsa da, Doxiadis'in formülasyonunda grid, analizden üretime doğrusal bir ilerlemeyi varsayan iki boyutlu bir şema olarak kalmaktadır.
+Yazar isimleri: ['Zuhal ACAR']
+Yayın Yılı: 14 Kasım 2022
+Dergi ismi: İDEALKENT
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/idealkent/issue/72507/1124799
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2461671

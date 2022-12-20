@@ -1,0 +1,7 @@
+Makale Başlığı: Approaches Regarding the Problems of the Building Control System Implemented in Turkey
+Özet: The territory of the Republic of Turkey is located in one of the most active earthquake zones of the world. However, most of the people living within the borders of the Republic of Turkey live in these earthquake zones. The loss of life and property caused by the earthquakes experienced in the past necessitated applying a strict management by the state during the construction processes. In this research, the importance and purpose of the building inspection system, especially to prevent the loss of life and property as a result of natural disasters, is stated. The Building Inspection Law No. 4708, which was put into effect in 2001 to regulate building inspection activities, has been used for the sound implementation of this system. The flaws and deficiencies found in this law were evaluated and some suggestions were made in order to correct them. It has been observed that all persons and institutions involved in the building inspection task do not fulfill their required duties. It was emphasized that these individuals and institutions should perform their duties correctly, and in addition, information was given in order to solve the problems in the system.
+Yazar isimleri: ['Volkan ENGİN']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Kent Akademisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kent/issue/70491/1115470
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2423022

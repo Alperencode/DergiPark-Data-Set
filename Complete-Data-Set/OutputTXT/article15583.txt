@@ -1,0 +1,7 @@
+Makale Başlığı: Matrix Operators on the Absolute Euler space $\left\vert E_{\phi }^{r}\right\vert (\mu)$
+Özet: In recent paper, the space $ \left\vert E_{\phi}^{r}\right\vert (\mu)$ which is the generalization of the absolute Euler Space on the space $l(\mu)$, has been introduced and studied by Gökçe and  Sarıgöl [3]. In this study,  we give certain  characterizations of  matrix transformations from the paranormed space $ \left\vert E_{\phi}^{r}\right\vert (\mu)$   to one of the classical sequence spaces $c_{0},c,l_{\infty }.$  Also, we show that  such matrix operators are  bounded linear operators.
+Yazar isimleri: ['Fadime GÖKÇE']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1007885
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2019723

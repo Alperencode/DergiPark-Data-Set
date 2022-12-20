@@ -1,0 +1,7 @@
+Makale Başlığı: Mixed Convection from Inclined Square Cylinder in a Square Cavity
+Özet: In this work, mixed convection from an inclined square cylinder in a cavity is numerically investigated. A commercial CFD solver Ansys Fluent is used to solve the problem. First, the inclined square cylinder is located at the center of the cavity, then the location of the cylinder is changed along the x-axis. The cavity walls are assumed to be adiabatic and the cylinder walls are assumed to be isothermal boundary condition. The Reynolds number, Re varies from 100 to 300 and the Grashof numbers, Gr range from 103 to 105 throughout the work. The working fluid is chosen as air at Prandtl number, Pr = 0.7. The Nusselt number, Nu variations, the distributions of velocity and isotherms are presented in Tables and Figures.
+Yazar isimleri: ['Nazım KURTULMUŞ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: ALKÜ Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alku/issue/72254/1165867
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2611561

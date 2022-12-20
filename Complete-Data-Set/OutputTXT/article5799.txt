@@ -1,0 +1,7 @@
+Makale Başlığı: ANALYSIS OF THE FACTORS, AFFECTING THE LONG-TERM PRICE PERFORMANCE OF THE INITIAL PUBLIC OFFERINGS TO BE TRADED ON BORSA ISTANBUL BETWEEN 1993-2020
+Özet: This article includes the analysis of the variables that affect the long-term price performances of the initial public offerings of 330 companies to be traded on Borsa Istanbul between 1993-2018. The long-term (36 months) price performances of the stocks that were offered to the public in the 1993-2018 period and the regression models created with the explanatory variables that are thought to affect these performances were examined. The regression models created with the variables affecting the long-term price performance gave significant results based on various sub-divisions. First day return, long-term index return, returns of the same stock in the previous period, public offering rate, etc. the explanatory variables are significant in explaining the long-term performance of initial public offering stocks.
+Yazar isimleri: ['Güven SAYILGAN', 'Cafer BAKIRHAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Finans Ekonomi ve Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fesa/issue/72711/1135303
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2505303

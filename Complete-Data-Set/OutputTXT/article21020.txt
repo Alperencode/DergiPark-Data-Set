@@ -1,0 +1,7 @@
+Makale Başlığı: Tren İstasyonlarına ve Raylı Sistemlere Yönelik Yönlendirme Sistemlerinin Tasarım İlkeleri
+Özet: Modern seyahatin başlangıcından ve toplu taşımanın gelişiminden bu yana yön bulmak, insanların temel problemlerinden biri olmuştur. Köklü bir geçmişe sahip olan trenler, 21. yüzyılda halen insanların en çok tercih ettiği toplu taşıma araçlarındandır. Tren seyahatlerinin artmasıyla tren istasyonları da önem kazanmıştır. Şehirlerin önemli bir değeri olan tren istasyonlarında yön bulma eylemi, yönlendirme sistemleri aracılığıyla sağlanmaktadır. Yön bulma eylemine rehberlik eden yönlendirme sistemleri, mekânlarda görsel iletişime olan gereksinimin artmasıyla önemli grafik tasarım ürünleri haline gelmiştir. Bu makale, tren istasyonlarındaki yönlendirme sistemlerinin tasarım ilkelerini ve bu alandaki dünya standartlarını incelemekte ve ulaşım sistemlerinde grafik tasarımın önemini vurgulamayı amaçlamaktadır.
+Yazar isimleri: ['Umut AYBEK']
+Yayın Yılı: 29 Aralık 2021
+Dergi ismi: Sanat - Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/marustd/issue/66571/1041763
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2150420

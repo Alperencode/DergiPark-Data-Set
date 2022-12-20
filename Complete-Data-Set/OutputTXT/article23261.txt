@@ -1,0 +1,7 @@
+Makale Başlığı: Data Visualization Tools - Preview and Comparison
+Özet: Data visualization enables the display of information and data in a visual context. Data visualization tools and visual data analysis through visual elemQents make it possible to see trends and changes in data.Data visualization involves converting data into a visual context with the sole purpose of facilitating the human brain to understand and inspect the data, that is, to understand the results of their processing. The visual canal is the fastest human cognitive channel. Due to this, more people want to see data rather than hear or read it. In a time of digital data overproduction, it is usual for fast data processing, analysis, and display to become a priority increasingly in everyday life. On the one hand, developers and the other hand, managers and users are in constant communication, which leads to continuous updating and updating of processing tools and visual data analysis.In this context, the paper will review the current visualization and visual data analysis tools and compare their performance.
+Yazar isimleri: ['Fehmi SKENDER']
+Yayın Yılı: 19 Temmuz 2022
+Dergi ismi: Journal of Emerging Computer Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ject/issue/68031/1134894
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2503669

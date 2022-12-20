@@ -1,0 +1,7 @@
+Makale Başlığı: Corrosion behavior of Ce-oxide/hydroxide coated AA7075-T6 prepared by dip   immersion method
+Özet: In this study, cerium-based conversion coating was deposited on aluminum   7075-T6 by dip immersion method. Cerium oxide/hydroxide is an   environmentally friendly conversion coating. Its corrosion resistance in 3.5   wt.% NaCl solution was investigated by means of electrochemical impedance   spectroscopy, potentiodynamic polarization, and surface techniques. The   coated samples showed a significant decrease in corrosion rate and the   coating resistance increased with increasing immersion time up to 1200 s. In   addition, electrochemical impedance data showed that in the presence of   cerium oxide/hydroxide conversion coatings, the charge transfer resistance   of aluminum increased. Surface morphology and its chemical composition were   analyzed by means of scanning electron microscopy and energy dispersive   spectroscopy.    Aluminum 7075, cerium oxide/hydroxide coatings,   impedance, corrosion, scanning electron microscopy, potentiodynamic   polarization
+Yazar isimleri: []
+Yayın Yılı: 1 Haziran 2014
+Dergi ismi: Turkish Journal of Engineering and Environmental Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkengineering/issue/35821/401391
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/434835

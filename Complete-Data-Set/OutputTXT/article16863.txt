@@ -1,0 +1,7 @@
+Makale Başlığı: Big Data’yı Anlamak: Verinin Bilgiye Dönüşümünde Ekonomik Gözetim: Amazon Örneği
+Özet: Bu çalışmada yeni medya ortamlarında veri paylaşımının artmasıyla ortaya çıkan Big Data’nın (Büyük Veri) toplanması, işlenmesi ve kullanılama sunulması süreci, ekonomi politik bakış açısıyla incelenmiştir. Big Data’yı hacimsel, değer, doğruluk, hız ve çeşitlilik yönlerinden ele alan makale, bu beş özelliğin üzerinden; kullanıcıların serbest zamanlarını değerlendirmek ya da alışveriş yapmak için kullandıkları web siteleri tarafından ekonomik meta olarak konumlandırılmasını ve verilerinin maddi değere dönüştürülmesine dikkat çekmektedir. Bu yolla Big Data’nın teknolojik ilerleyiş süreci, geçmişi ve geleceği göz önünde bulundurularak, verilerin üreticisi olan bireylerin, tüketicisi konumuna geldikleri bu kısır döngü, Amazon şirketi ve şirketin araçları üzerinden tartışılmıştır.
+Yazar isimleri: ['Okan ŞEKER']
+Yayın Yılı: 29 Nisan 2022
+Dergi ismi: Uluslararası Medya ve İletişim Araştırmaları Hakemli Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mediaj/issue/68019/1008040
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2020346

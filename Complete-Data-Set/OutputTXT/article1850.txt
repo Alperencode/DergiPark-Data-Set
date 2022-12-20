@@ -1,0 +1,7 @@
+Makale Başlığı: Moleküler Baskılanmış Polimerlerin Yeşil Yönleri ve Çevresel Uygulamaları
+Özet: Yeşil kimya, kimyasal proseslerde çevreye, doğaya ve bütün canlı varlıklara karşı yol açan zararların minimuma düşürülmesini ve hatta tamamen ortadan kaldırılmasını amaçlayan araştırmaların gerçekleştirildiği, son zamanlarda araştırmacılardan büyük ilgi gören önemli alanlardan biridir. Moleküler baskılanmış polimerler ise, karmaşık bir matrikste (biyolojik, çevresel ve gıda numuneleri gibi) bile hedef bileşiğe karşı yüksek afinite ve seçicilik sergileyen, yüksek düzeyde çapraz bağlı, özel dizayn edilmiş sentetik malzemelerdir. Bu polimerler yeşil kimya temelleri dikkate alınarak çevre dostu malzemeler olarak farklı uygulama alanlarına sahiptir.  Bu çalışmada, moleküler baskılanmış polimerlerin çevre dostu yönleri ön plana çıkarılarak, bazı kirliliklerin çevresel numunelerden etkin bir şekilde uzaklaştırılması üzerine gerçekleştirilen araştırmalara yer verilmiştir.
+Yazar isimleri: ['Rüstem KEÇİLİ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Artıbilim: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/artibilimfen/issue/71021/1127690
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2473659

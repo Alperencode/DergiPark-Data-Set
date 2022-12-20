@@ -1,0 +1,7 @@
+Makale Başlığı: Bilateral-type solutions to the fixed-circle problem with rectified linear units application
+Özet: In this paper, we prove new fixed-circle  resp. fixed-disc  results using the bilateral type contractions on a metric space. To do this, we modify some known contractive conditions called the Jaggi-type bilateral contraction and the Dass-Gupta type bilateral contraction. We give some examples to show the validity of our obtained results. Also, we construct an application to rectified linear units activation functions used in the neural networks. This application shows the importance of studying "fixed-circle problem".
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783643
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

@@ -1,0 +1,7 @@
+Makale Başlığı: STABILITY ANALYSIS OF TWO PREDATORS-ONE PREY MODEL WITH FEEDBACK CONTROL AND TIME FRACTIONAL DERIVATIVE
+Özet: The interaction between prey and predator is one of the mostfundamental processes in ecology.  In this paper, we first consider the systemincorporating a feedback control and we discuss the dynamic behavior of preypredatorinteraction model that includes two competitive predators and one prey with a generalized interaction functional. The primary resumption in the model construction is the effects of feedback control and the competition between two predators on the only prey which gives a strong implication of the real-world situation. By analyzing characteristic equations, we carry out detailed discussion with respect to stability of equilibrium points of the considered model. Further, we investigate the impact of the memory measuredby fractional time derivative on the temporal behavior.
+Yazar isimleri: ['Serap MUTLU', 'Metin BASARIR']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Proceedings of International Mathematical Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/pims/issue/69832/1120339
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2443302

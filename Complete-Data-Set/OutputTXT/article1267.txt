@@ -1,0 +1,7 @@
+Makale Başlığı: Identification of Rice Leaf Blight Disease by  Using Image Processing Techniques
+Özet: In rice plant, accurate and timely detection of diseases helps to start agricultural practices on time and thus reduces economic losses significantly. For this purpose, image processing techniques were used to identify and classify the rice leaf blight disease (Pyricularia oryzae Cav.). In image processing, a clustering method was used for the segmentation of the diseased part, the non-diseased part and the background. Images of rice leaf blight disease were taken both from the ground and with the aid of a drone. Levenberg-Marquardt training algorithm was preferred in artificial neural networks model. While the RMS, R2 and error values of the test data of MEITG proposed for identification were 0.000017, 0.9999 and 0.019%, respectively, they were found as 0.000007, 0.9999 and 0.002% for MERITD. The MCITG and MCRITD models presented for classification were found to have classification success rates of 92.2 percent and 100 percent, respectively. The results obtained for the identification and classification of rice leaf blight disease show the feasibility and effectiveness of the proposed model.
+Yazar isimleri: ['Oğuzhan SOYDAN', 'Alper TANER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Anadolu Tarım Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/omuanajas/issue/70533/987368
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1943012

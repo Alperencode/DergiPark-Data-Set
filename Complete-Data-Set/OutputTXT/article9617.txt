@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of the effect of green extraction solvents on the phenolic acids and flavonoids of propolis
+Özet: The present study investigated the extraction of phenolic compounds from propolis according to solvent factor. The propolis samples were extracted in four different solvents, which water, ethanol-water (70%), dimethyl sulfoxide (DMSO), and L-lysine (8%), and were analyzed 36 phenolic compounds by HPLC-DAD. Statistically significant differences in solubility of the phenolic compound at various levels were detected among the solvents (P <0.05). Only water and ethanol-water (70%) were determined more successful than the other solvents in the extraction of phenolic components of propolis. Phenolic acids generally dissolved higher in water, while flavonoids dissolved higher in ethanol were determined. Certain phenolic compounds were detected only in some of the propolis extract which are syringic acid and daidzein in water, vitexin, rutin, and epigallocatechin in ethanol, and emodin in DMSO. Consequently, the chemical content affected significantly depending on the extraction solvent of propolis. Therefore, it is important to determine the extraction solvent and analyses of propolis before application for therapeutic purposes.
+Yazar isimleri: ['Meral KEKEÇOĞLU', 'Ali SORUCU']
+Yayın Yılı: 26 Temmuz 2022
+Dergi ismi: Journal of Research in Veterinary Medicine
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jrvm/issue/71435/937418
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1768956

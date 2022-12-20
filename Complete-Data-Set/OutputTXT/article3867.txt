@@ -1,0 +1,7 @@
+Makale Başlığı: Kurtpınar (Ceyhan) Bazaltlarının Demiryolu Balastı Olarak Kullanımının Değerlendirilmesi
+Özet: Bazaltlar, demiryolu balastları, binalar, tarihi yapılar ve anıtlar gibi birçok mühendislik projesinde doğrudan yapı malzemesi olarak kullanılmaktadır. Bu çalışmada; Ceyhan Kurtpınar bazaltlarının, fiziksel, mekanik ve kimyasal özellikleri belirlenerek demiryolu balastı olarak kullanım olanakları araştırılmıştır. Çalışma kapsamında; söz konusu bölgede incelemeler yapılmış ve yapılacak deneyler için kaya örnekleri alınmıştır. Kaya numunelerinin fiziksel (Los Angeles aşınma direnci tayini, Mikro-Deval aşınma direnci, su emme oranı, tane yoğunluğu ve MgSO4 dona dayanıklılık direnci), mekanik (tek eksenli basınç dayanımı, nokta yük dayanımı, Brezilya Yarma Deneyi) ve mineralojik özellikleri incelenmiştir. Ayrıca P dalga hızı ve sertlik analizleri de yapılmıştır. Deneysel çalışmalar Ceyhan Kurtpınar Bazaltlarının konvansiyonel hatlarda demiryolu balastı olarak kullanılabileceğini göstermiştir.
+Yazar isimleri: ['Esma KAHRAMAN', 'Nil YAPICI']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Demiryolu Mühendisliği
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/demiryolu/issue/69368/1082366
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2287980

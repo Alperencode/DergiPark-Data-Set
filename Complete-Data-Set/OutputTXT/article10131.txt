@@ -1,0 +1,7 @@
+Makale Başlığı: Yatay Bir Boruda Dışarıdan Oluşturulan Farklı Geometrilerdeki Dönel Akışın Isı ve Akış Karakteristiklerinin Sayısal Analizi
+Özet: Bu çalışmada, boru girişine bağlı üç farklı girdap üretecinin (Üçgen-Dairesel-Kare) kullanılmasıyla indüklenen türbülanslı akışı incelemek için sayısal bir model tasarlanmıştır. Bu doğrultuda 1000 W/m2 sabit ısı akışına sahip yatay bir boru üzerinde sayısal analizler HAD ortamında 5000, 10000 ve 15000 olmak üzere üç farklı Reynolds sayısında yapılmıştır. Çalışmanın sonuçlarına göre, nispeten yüksek basınç düşüşüne neden olmasına rağmen, üçgen girdap üretecinden geçen akış en iyi soğutma performansını gösterdi. Üçgen girdap üreteci için en yüksek Nusselt sayısı 15000 Reynolds sayısında yaklaşık 51.88 olarak tespit edilmiştir. 
+Yazar isimleri: ['Ahmet Numan ÖZAKIN', 'İlhan Volkan ÖNER']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1085259
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2299767

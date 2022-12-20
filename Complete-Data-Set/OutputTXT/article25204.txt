@@ -1,0 +1,7 @@
+Makale Başlığı: Comparative Study of PI, RST, Sliding Mode and Fuzzy Supervisory Controllers for DFIG based Wind Energy Conversion System
+Özet: This work aims to present a comparative study of four controllers for Double Fed Induction Generator (DFIG) based Wind Energy Conversion System (WECS). The DFIG is directly connected to the grid and driven by the rotor through an AC/DC/AC converter. A model was developed for each component (Turbine, DFIG and Rectifier-Filter-Inverter) of the wind system. The PWM control method is applied to the inverter to drive the DFIG from the rotor circuit. To ensure high performance and better enforcement of DFIG, a direct vector control strategy of active and reactive power of the stator has been developed. The synthesis of conventional PI controller and advanced RST, Sliding Mode (SM) and Fuzzy Supervisory (FS) controllers is performed. The system’s performance has been tested and compared according to reference tracking, robustness, and disturbance rejection. A set of simulation studies are carried-out on a WECS model to prove the effectiveness of the proposed controllers design.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167904
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/148007

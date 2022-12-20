@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Nanostructured Titanium Surface on Protein Adsorption
+Özet: The amount and conformation of bovine serum albumin upon adsorption on titanium (Ti) surfaces containing nanotubes with different pore sizes were investigated. Nanotubes were created on the surfaces via anodization. Protein adsorption behavior on anodized surfaces were compared with the adsorption behavior on smooth and sanded Ti surfaces. The conformational changes in surface adsorbed proteins were evaluated using the second derivative and curve fitting methods applied to the Fourier transform infrared spectra of the surfaces. Results showed that the amount of protein adsorbed on the surfaces increased significantly with increasing surface roughness and a significant change in the conformation of the adsorbed protein occurred on every surface albeit in a different fashion. When anodized samples were considered, it was observed that the changes in the secondary structure seemed to be correlated with to the pore size of the nanotubes rather than the surface roughness.
+Yazar isimleri: ['Hasret Tolga ŞİRİN', 'Ebru AKDOĞAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi University Journal of Science Part A: Engineering and Innovation
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsa/issue/72855/1134881
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2503616

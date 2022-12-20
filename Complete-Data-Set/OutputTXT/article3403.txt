@@ -1,0 +1,7 @@
+Makale Başlığı: Approximation properties of Bernstein's singular integrals in variable exponent Lebesgue spaces on the real axis
+Özet: In generalized Lebesgue spaces $L^{p(.)}$ with variable exponent $p(.)$ defined on the real axis, we obtain several inequalities of approximation by integral functions of finite degree. Approximation properties of Bernstein singular integrals in these spaces are obtained. Estimates of simultaneous approximation by integral functions of finite degree in $L^{p(.)}$  are proved.
+Yazar isimleri: ['Ramazan AKGÜN']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/1056890
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2188401

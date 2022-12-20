@@ -1,0 +1,7 @@
+Makale Başlığı: Almost Kaehlerian and Hermitian Structures on Four Dimensional Indecomposable Lie Algebras
+Özet: It is known that from a given almost Hermitian structure on a simply connected Liegroup, one can obtain left-invariant almost Hermitian structure on its Lie algebra.In this work, we consider Mubarakzyanov’s classification of four-dimensional realLie algebras and evaluate the existence of almost Hermitian structures on four dimensional decomposable real Lie algebras. In particular, we focus on almost Kaehlerian and Hermitian structures on these Lie algebras.
+Yazar isimleri: ['Mehmet SOLGUN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Universal Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ujma/issue/72812/1169830
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2627605

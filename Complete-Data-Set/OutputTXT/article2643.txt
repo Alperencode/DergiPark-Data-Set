@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis and Characterization of Proton Transfer Salts of 2-Aminobenzothiazole Derivatives
+Özet: In this study, (E)-4-oxo-4-(3-sulfamoylphenyl)amino)but-2-enoic acid (Habsmal) was first obtained from the reaction of maleic anhydride (mal) with 3-aminobenzenesulfonamide (abs). Then, salts of 2-aminobenzothiazole (abt) (1) and 2-amino-6-ethoxybenzothiazole (EtOabt) (2) were synthesized by Habsmal. In addition, proton transfer salts were obtained from the reactions of 5-sulfosalicylic acid (H3ssa) with 2-amino-6-hydroxybenzothiazole (HOabt) (3) and 2-amino-6-nitrobenzothiazole (NO2abt) (4). The structures of proton transfer salts obtained in amorphous state have been proposed by elemental analysis, NMR (1H and 13C), FT-IR, charge balance and previous studies. According to the results of this analysis, the acid and base association ratios were found to be 1:1
+Yazar isimleri: ['Halil İLKİMEN', 'Cengiz YENİKAYA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bayburt Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bufbd/issue/70667/1075492
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2261222

@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Co on Fe-Based Fe-Ni-Cu Diamond Cutting Tool Produced by Powder Metallurgy Method
+Özet: In this study, microstructure and some mechanical properties of the samples were investigated produced by adding different weight (10-20-30%) cobalt (Co) to Fe-based Fe-Ni-Cu matrix by powder metallurgy (TM) technique. Sintering; It was carried out at 920 ºC, under 35 MPa pressure, for 4 minutes in an argon gas atmosphere. Microstructural characterization of the samples was examined by X-ray analysis (XRD), scanning electron microscope (SEM), and energy distribution spectrometry (EDS). Density measurements were made and the samples were subjected to hardness and three-point bending tests. As a result; The porosity decreased with the increase in the reinforcement ratio. It was observed that the highest hardness and density value was in the sample with 20% Co added. It was observed that the bending stress and percent elongation increased with the addition of Co ratio and the bending stress and percent elongation decreased with increasing Co ratio.
+Yazar isimleri: ['İlyas SOMUNKIRAN', 'Ertuğrul ÇELİK', 'Büşra TUNÇ', 'Çağdaş GÜNEŞ']
+Yayın Yılı: 18 Aralık 2022
+Dergi ismi: Journal of Materials and Mechatronics: A
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jmm/issue/73795/1131636
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2490211

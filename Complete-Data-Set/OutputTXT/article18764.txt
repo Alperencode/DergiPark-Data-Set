@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRKİYE DÖVİZ PİYASASI ETKİNLİĞİNİN TEST EDİLMESİ
+Özet: Etkin Piyasa Hipotezi, piyasadaki tüm bilgilerin varlık fiyatı içerisine dâhil olduğunu öne sürdüğü için bu bilgileri kullanarak ortalama piyasa getirisi üzerinde bir kazanç elde edilemeyeceğini belirtmektedir. Ancak piyasada uzun hafıza varlığının tespit edilmesi durumunda, bu durum ortadan kalkmaktadır. Çalışma, Türk lirasının 5 yabancı para birimi ile olan ikili uzun hafıza ilişkisini araştırmak için yapılmıştır. Getiride, Ruble / TL döviz kuru hariç tüm döviz kurlarında uzun hafıza olduğu tespit edilmiştir. Volatilitede, tüm döviz kurları için uzun hafıza varlığı bulunmuştur. Hem getiride hem de volatilitede, USD/ TL ve Yuan / TL döviz kurlarının uzun hafıza özelliği sergilediği belirlenmiştir.
+Yazar isimleri: ['Hidayet GÜNEŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Dokuz Eylül Üniversitesi İşletme Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ifede/issue/70959/961238
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1856098

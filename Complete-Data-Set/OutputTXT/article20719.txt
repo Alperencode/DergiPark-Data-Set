@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation on post heat treatment parameters of additively manufactured AlSi10Mg parts in terms of time and build direction
+Özet: This study reports the combinatorial influence of build direction and different ageing times. The Additively Fabricated (AF) with selective laser melting (SLM) specimens built-in various build directions (0o – 45o - 90o). Accordingly, Solution Heat Treatment (SHT) was applied then quenched in water at room temperature afterward. Subsequently, T4 and T6 ageing procedures were executed. Besides achieving advantageous T6 artificial ageing (AA), specimens were exposed to different time combinations (0.5, 1, 2, 6, 10 h). Although it was observed that the density did not change significantly with heat treatment, it was indicated that the hardness value decreased around 35% with the decrease in time, especially for T6 conditions. The microstructure disparity as a function of the utilized temperature, build direction, and time of the specimens were correlated to hardness values. It was observed that build direction and relative density results have no significant effect on the hardness.
+Yazar isimleri: ['Remzi Ecmel ECE', 'Ömer KELEŞ', 'Bekir Sami YİILBAS']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1133444
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2497597

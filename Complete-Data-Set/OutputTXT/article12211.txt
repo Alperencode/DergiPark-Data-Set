@@ -1,0 +1,7 @@
+Makale Başlığı: ARM CORTEX-M3 MİKRODENETLEYİCİ KULLANIMI İLE ÇOK TAŞIYICILI GÖRÜNÜR IŞIK HABERLEŞME SİSTEMİ GELİŞTİRİLMESİ
+Özet: Teknolojinin gelişmesiyle birlikte iletişim alanındaki kısıtlamalar ve ihtiyaçlar artmıştır. Özellikle elektromanyetik girişime ve sağlık sorunlarına sebep olabilecek, sınırlandırılmış ve lisanslanmış kablosuz iletişimin kullanımı, görünür ışık ile haberleşme teknolojilerini önemli kılmaktadır. Bu çalışmada, düşük maliyetli ve ticari kullanıma hazır elektronik bileşenlerin kullanımı ile ARM tabanlı özgün bir VLC sistem tasarımı gerçekleştirilmiştir. Bu kapsamda alıcı ve verici devreleri tasarlanmış, baskılı devre kartları ve bunlara uygun kutular üretilmiş, bunların sonucunda da standart tavan yüksekliğine sahip iç mekan uygulamalarında kullanılmak üzere bir sistem prototipi oluşturulmuştur. Tasarım aynı zamanda ARM tabanlı mikrodenetleyici kullanılarak, dikgen frekans bölmeli çoğullama modülasyonu (OFDM) ve dijital sinyal işleme uygulamalarının gerçekleştirildiği az sayıdaki uygulamadan birisidir. Sonuç olarak sistem iletişimi 1.8 m ile 3 m mesafeden 3.5 kbps veri hızında sağlanmıştır. Ayrıca sistem iletişimi, ışık kaynağının merkezinden direkt 85 cm mesafeye ve 50° açı yapacak şekilde başarı ile gerçekleştirilmiştir.
+Yazar isimleri: ['Özhan ARIOĞLU', 'Koray GURKAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Mühendislik Bilimleri ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesd/issue/72809/982720
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1924622

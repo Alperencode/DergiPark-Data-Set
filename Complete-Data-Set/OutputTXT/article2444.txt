@@ -1,0 +1,7 @@
+Makale Başlığı: Life Cycle Assessment of Wind Turbine in Turkey
+Özet: 
+Yazar isimleri: ['Buket KÜÇÜKKARACA', 'Burak BARUTCU']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/1032172
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2114204

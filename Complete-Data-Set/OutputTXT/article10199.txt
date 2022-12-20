@@ -1,0 +1,7 @@
+Makale Başlığı: Cross-linking of PVC by Various Lengths of PEG via “Click” Chemistry
+Özet: Cross-linked poly(polyvinyl chloride) (c-PVC) was synthesized by “click” reaction of polyvinyl chloride with azido pendant group(PVC-N3) and dipropargyllated polyethylene glycol (dp-PEG). For this purpose, dp-PEGs were obtained from polyethylene glycolswith different molecular weights (400 Da, 600 Da, 1000 Da, 1500 Da, 2000 Da, 3000 Da, and 10000 Da) via treatment withpropargyl chloride. PVC-N3 was synthesized through the substitution reaction between the pendant chloride on the PVC chainsand azide ion. By using PVC-N3 and dp-PEGs with various lengths, c-PVCs with various degrees of cross-linking was obtained.The characterization of the PVC-N3, dp-PEG and c-PVC were performed using Fourier transform infrared spectroscopy, nuclearmagnetic resonance spectroscopy, thermogravimetric analysis, scanning electron microscopy and elemental analysis. Degrees ofswelling of c-PVCs with different cross-linking densities in N,N-dimethylformamide were determined by quantitative measurements
+Yazar isimleri: ['Nilgün ASAN', 'Temel ÖZTÜRK', 'Hasibe KUDU', 'Ergül MEYVACI', 'Efkan ÇATIKER']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Karaelmas Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/karaelmasfen/issue/70131/992843
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1963979

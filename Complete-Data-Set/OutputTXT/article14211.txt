@@ -1,0 +1,7 @@
+Makale Başlığı: The Dynamic Relationship between Technological Change and Employment: A Comparison of Youth and Total Employment using Panel VAR Approach and Causality Analysis
+Özet: This study empirically examines the relationship and causality between technological change and employment by comparing youth and total employment. It covers data from 16 OECD economies from 1985 to 2018 and uses multifactor productivity (MFP) as a proxy for technological change. The findings from the general method of moments panel vector autoregression (GMM Panel-VAR) approach indicate significant and positive effects of MFP on youth and total employment, and a significant yet negative impact of youth employment on MFP. According to Panel-VAR-Granger-Causality analysis results, there is a two-way causality between MFP and youth employment and a one-way causality from MFP to total employment. Thus, this study empirically confirms the job-creation effect of technology and finds out that the technological change and employment nexus differs for youth employment compared to that for total employment.
+Yazar isimleri: ['Selda GÖRKEY']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/863320
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1516907

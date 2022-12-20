@@ -1,0 +1,7 @@
+Makale Başlığı: Katı Hal Güç Kuvvetlendiricisinin LC-GFDM İletim Sinyali Üzerindeki Etkisinin İncelenmesi
+Özet: Bu çalışmada, en yaygın kullanılan yüksek güç kuvvetlendiricileri arasında yer alan katı hal güç kuvvetlendiricisi (SSPA), düşük karmaşıklı-genelleştirilmiş frekans bölmeli çoğullama (LC-GFDM) vericisine uygulanmış olup, bu tür doğrusal olmayan yüksek güç kuvvetlendiricilerinin, LC-GFDM iletim sinyali ve sistem performansı üzerindeki etkisinin ortaya konması hedeflenmiştir. Bu amaçla, LC-GFDM dalga formunun hem spektral karakteristiği hem de bit hata oranı (BER) performansı, SSPA’nın sırasıyla doğrusallık derecesi ve çalışma noktasını belirleyen düzgünlük katsayısı (p) ve giriş geri çekme (IBO) parametrelerinin çeşitli değerleri için incelenmiştir. Simülasyon çalışmalarında, yüksek PAPR’lı LC-GFDM sinyallerinde SSPA ile gerçekleştirilen kuvvetlendirme sonucu meydana gelen bozulmaların hem bant dışı radyasyon hem de bit hata oranı miktarlarında ciddi artışlara neden olduğu görülmüştür. Diğer taraftan IBO ve p parametreleri ile söz konusu artışların kontrol edilebileceği ortaya konmuştur.
+Yazar isimleri: ['Şakir ŞİMŞİR', 'Necmi TAŞPINAR']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1159890
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2587736

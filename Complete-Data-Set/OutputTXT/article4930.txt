@@ -1,0 +1,7 @@
+Makale Başlığı: Z-Kaynak İnverter Kontrol Tekniklerinin Performans Analizi
+Özet: Bu çalışma, Z-Kaynak inverter (ZSI) devresi için kullanılan farklı kontrol tekniklerini aynı modülasyon indeksi altında karşılaştırmalı olarak incelemektedir. Geleneksel inverterlerden farklı olarak ZSI devrelerinde DC-AC güç dönüşümünde; kısa devre ilaveli basit yükseltici, maksimum yükseltici ve maksimum sabit yükseltici kontrol teknikleri kullanılmaktadır. Kontrol tekniklerinin çalışma prensipleri detaylı olarak anlatılmıştır. ZSI için her bir kontrol tekniğinde kısa devre görev oranı, yükseltme faktörü ve gerilim kazancı ilgili denklemler kullanılarak hesaplanmıştır. ZSI devre modeli ile DC-hat gerilimi ve AC çıkış gerilimlerinin benzetim çalışmaları Matlab/Simulink ortamında gerçekleştirilmiştir. Farklı kontrol tekniklerinde kullanılan ilgili denklemlere ve elde edilen benzetim sonuçlarına göre, maksimum yükseltici kontrol tekniği belirli bir modülasyon indeksi için en büyük yükseltme faktörüne ve gerilim kazancına sahiptir. Bu nedenle, maksimum yükseltici kontrol tekniği aynı şartlar altında maksimum eşdeğer DC-hat gerilimi ve AC çıkış gerilimine sahiptir. Bu kontrol tekniği en yüksek kazancın ihtiyaç duyulduğu inverter uygulamaları için kullanılabilir.
+Yazar isimleri: ['Mustafa Sacid ENDİZ', 'Ramazan AKKAYA']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/990144
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1953682

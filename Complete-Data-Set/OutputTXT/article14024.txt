@@ -1,0 +1,7 @@
+Makale Başlığı: Detection of Bean Common Mosaic Virus in Bean Seeds by Immunocapture RT-PCR and DAS-ELISA Methods
+Özet: This study was carried out in bean seeds in Isparta and Antalya provinces to determine Bean common mosaic virus (BCMV) in 2016. For this purpose; 106 seed samples were collected from the research area.  Seed samples were used for biological, serological, and molecular methods. The virus incidence, as a percentage of seeds samples for BCMV, was found 87.73% by DAS-ELISA and 90.56% by Immunocapture Reverse Transcriptase-Polymerase Chain Reaction (IC-RT-PCR) methods. As a result of the study, BCMV was detected in a total of 96 (90.56%) seed samples.  93 samples were detected positive with the DAS-ELISA method, while 96 samples were found to be infected with BCMV using the IC-RT-PCR method. In the IC-RT-PCR method, approximately 850 bp of the coat protein gene was amplified with specific primers and BCMV specific bands were obtained at the expected levels.
+Yazar isimleri: ['Handan ÇULAL KILIÇ', 'Ahmet ÇAT']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Sinop Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sinopfbd/issue/70731/1006005
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2014748

@@ -1,0 +1,7 @@
+Makale Başlığı: The effect of B4C and GNP reinforcement amounts on abrasive wear behavior in Al 6061/B4C/GNP hybrid composites
+Özet: In this experimental study, B4C and GNP reinforced hybrid composites with Al 6061 matrix were produced using the vortex method to examine the wear behavior. Then, abrasive wear tests were carried out using the pin-on disc method, using abrasive sandpaper. According to the test results, the hardness values and wear resistance of the B4C composite samples in the structure increased. The hardness values and wear losses decreased with the increase of the GNP ratio. This situation has been associated with the dry lubricating property of graphene. In addition, it was evaluated that the porosity formed due to agglomeration of the reinforcement in the composite structure had a negative effect on the mechanical properties. In addition, it was evaluated that the B4C particles, which were separated from the composite structure during the experiments, acted as a second abrasive together with the sandpaper and were effective in increasing the wear losses.
+Yazar isimleri: ['Muharrem PUL']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1142512
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2533213

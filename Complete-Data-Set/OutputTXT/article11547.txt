@@ -1,0 +1,7 @@
+Makale Başlığı: KAMU TEDARİK YÖNETİMİNDE YENİ UYGULAMA METOTLARI: ELEKTRONİK ALIM PLATFORMU VE ELEKTRONİK EKSİLTME TEKLİF SİSTEMİ İHALE UYGULAMASI
+Özet: Satın alma ile ilgili maliyetler artıkça, satın alma kavramı son yıllarda daha stratejik bir konu haline gelmiştir. Bunun yanında, son on yıllardaki teknolojik gelişmenin bir sonucu olarak, tedarik zincirleri e-tedarik zincirlerine dönüşmüştür. Bu değişimin etkisi ile satın alma faaliyetleri de e-satın alma faaliyetlerine dönüşmüştür. E-satın alma, sadece özel sektörü değil kamu sektörünü de etkisi altına almıştır. Türkiye’deki yeni yasalar, kamunun gerçekleştirdiği satın alma faaliyetlerinin çevrimiçi olarak yapılmasını mümkün kılmıştır. 2016 Yılı son çeyreklik dönemi ile devreye alınan E-teklif sistemini müteakip 2018 Yılı son çeyreklik döneminde devreye giren E-eksiltme uygulaması kamu satın alması alanında uygulanan yeni metotlar arasında sıralanabilir. Bu çalışma Türkiye’de kamu sektöründeki e-satın alma ihalelerinin incelenmesini amaçlamaktadır.  Bu çalışmada 2017-2021 yılları arasında gerçekleştirilen kamu açık eksiltme ihaleleri incelenmiştir.
+Yazar isimleri: ['Kadir Kaan GÖNCÜ', 'Onur ÇETİN']
+Yayın Yılı: 28 Temmuz 2022
+Dergi ismi: Meriç Uluslararası Sosyal ve Stratejik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/meric/issue/71478/1139043
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2519504

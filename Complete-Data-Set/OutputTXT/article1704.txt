@@ -1,0 +1,7 @@
+Makale Başlığı: 3 boyutlu tarayıcı kullanarak yetişkin erkek ayak biçimi analizi
+Özet: Bu çalışma, Türkiye insanı ayak antropometrik özelliklerini tespit etmek ve Türk Ayak Numaralandırma Sistemini oluşturmak için 3B görüntüleme teknikleri ile yürütülen öncü bir araştırmanın, 42 numara erkek ayak veri analizinin sonuçlarını sunmaktadır. 15-77 yaş aralığında erkek ayağının sağ ve sol 11 boyutta (toplam 22 adet) antropometrik verileri, %95 güven aralığında %5 doğruluk için gerekli 240 örneklem büyüklüğünde incelenmiştir. Ayak topuk genişliği ve çevresi, ayak konturpiye çevresi ve ayak kısa topuk çevresi değişkenleri etkisiyle sağ ve sol ayakta bu boyutlarda farklılık olduğu görülmüştür. 11 boyuttaki orta değer verileri, uluslararası veri tabanları ve Mondopoint numaralandırma sistemi ile karşılaştırıldığında, özellikle genişlik boyutlarında standartların üzerindedir. Bulgular, Türkiye’de yaşayan insanlara özel numaralandırma siteminin gerekliğini hem toplum sağlığı hem de ekonomik açıdan önemini bir kez daha vurgular niteliktedir.
+Yazar isimleri: ['Deniz LEBLEBİCİ BAŞAR', 'İlker AKGÜN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Antropoloji
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/antropolojidergisi/issue/71088/1053529
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2175335

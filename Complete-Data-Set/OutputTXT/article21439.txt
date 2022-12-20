@@ -1,0 +1,7 @@
+Makale Başlığı: Max CS and min CS modules
+Özet: In this work, we study max CS, min CS, max-min CS modules and their endomorphism rings. Under certain conditions  e.g., related to nonsingularity and duo-ness , we prove that a module is max CS if and only if it is min CS, and that direct sums of min  max  CS modules is again min  max  CS. Finally, symmetry of max-min CS property on the endomorphism rings of max-min CS modules is investigated.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783630
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

@@ -1,0 +1,7 @@
+Makale Başlığı: ULUSLARARASI HAVAYOLU TAŞIMACILIĞINDA İKİ ŞEHİR ARASINDAKİ BASILI OLMAYAN BİR ÜCRETİN VE BELİRLENMEMİŞ İZİN VERİLEN MİL MİKTARI (MPM)’IN KURULMASI
+Özet: Havayolu yolcu taşımacılığında uluslar arası kuralları koyarak teknik konular dışında birçok konuda rekabeti düzenleyen kurum Uluslararası Hava Taşımacılığı Birliği (IATA International Air Transport Association)dir. IATA kurallarına göre koltuk ücreti hesaplarken kullanılacak ücretleri dünyadaki detayda olan şehirler seviyesinde tutmamaktadır. Bu noktada uçuş gerçekleştirilen ülkedeki nispeten daha az uçulan bölgelere ücret kurulurken ilgili ülkenin merkezi noktaları üzerinden ücret kurulumu yapılmaktadır. Bu çalışma da bu hesaplama şeklini konu almaktadır. Çalışmada literatür çalışmasının ardından ücret ve izin verilen mil miktarı kurulumları yapılmıştır. Kurulumlara örnek teşkil etmesi adına tesadüfi belirlenen parkurlar için hesaplamalara da çalışmada yer verilmiştir. Elektronik biletlere yansıyan bir anlamda hesaplama özeti (Fare Calculation) olan yatay özet çizelgesine de yer verilmektedir. Bu çalışma, havayollarının ücretlendirme politikalarının geliştirilmesinde gözden kaçan yada fırsat yaratabilecek detaylara dikkat çekmektedir.
+Yazar isimleri: ['Derya SEMİZ ÇELİK']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Recep Tayyip Erdoğan Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rteusbe/issue/70773/1113156
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2413508

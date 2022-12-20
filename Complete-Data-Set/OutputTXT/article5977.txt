@@ -1,0 +1,7 @@
+Makale Başlığı: The momentum of factors in Borsa İstanbul
+Özet: In this study, the validity of the momentum of the factors in Borsa Istanbul was investigated. The research covers all companies enlisted in Borsa Istanbul between the years 2008 and 2020. Within the scope of the study, Market Value, Market Value/Book Value, Price/Earnings Ratio, and Return on Assets factors were used. In the first stage of the study, whether each factor has momentum in itself was tested by regression analysis. In the second stage, a momentum portfolio was created in which the factor that had the highest return at monthly frequency was included, and it was tested whether this portfolio provided additional returns compared to the individual factors. According to the research results, only the Market Value factor has momentum. It was determined that the portfolio created with the momentum of the factors strategy could not obtain additional returns compared to the individual factors.
+Yazar isimleri: ['Serkan UNAL']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Gazi İktisat ve İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gjeb/issue/73274/986837
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1940898

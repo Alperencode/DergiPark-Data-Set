@@ -1,0 +1,7 @@
+Makale Başlığı: Laminar Dönen Boru Akışında Isı Transferinin İncelenmesi
+Özet: Bu çalışmada, silindirik borunun çeşitli hızlarda döndürülmesi ile akışkana verilen dönme etkisinin ısı transferi, sürtünme faktörü ve etkinlik değerleri üzerinde meydana getirdiği değişimler deneysel olarak araştırılmıştır. Deneyler Reynolds sayısının 500 ile 1800 değerleri arasında ve silindirdik borunun farklı devirlerde döndürülmesiyle gerçekleştirilmiştir. Yapılan deneyler sonucunda, dönme hızındaki artış ile Nusselt sayısı, sürtünme faktörü ve etkinlik değerlerinde artış olduğu görülmüştür. Ayrıca laminar akışta gerçekleştirilen akış gözleme deneyleri ile borunun dönme hızındaki artışın, akışkan üzerine yaptığı etkiler görüntülenmiştir. Bu görüntülerden; laminar akış karakteristiği olan çizgi şeklindeki doğrusal akışın, dönme hızındaki artış ile birlikte türbülanslı akış karakteristiği kazandığı görülmüştür. Elde edilen sonuçların literatürle uyum içinde olduğu sonucu elde edilmiştir.
+Yazar isimleri: ['Emre TURGUT', 'Aydın DURMUŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1114719
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2419875

@@ -1,0 +1,7 @@
+Makale Başlığı: Selection of Wearable Technologies for Obesity Patients with MCDM Methods
+Özet: Obesity is our age when excessive fat accumulation in the body. It affects the whole world day by day and causes serious problems. Insufficiency of physical activity, inability to maintain energy balance, eating habits are one of the most important causes of obesity. It is used many methods in the treatment of obesity. One of these methods is wearable technologies that facilitate treatment. Wearable technology devices track daily health conditions and obtain instant data flow. These devices aim to prevent obesity by encouraging the user to move during the day and regulating their eating habits. In this study, "What is the most suitable wearable technological device for obesity patients?" The answer to the question was sought. For this problem solution, AHP, TOPSIS and PROMETHEE methods from Multi-Criteria Decision Making methods, were used. As a result of the solution, the Fitbit Inspire product stood out in the choice of wearable technology for obesity monitoring.
+Yazar isimleri: ['Beyza Nur AKINCI', 'Tuğba DANIŞAN', 'Tamer EREN']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/886544
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1601012

@@ -1,0 +1,7 @@
+Makale Başlığı: Yarıiletken Silindirik Kuantum Noktanın Optik Özellikleri
+Özet: Bu çalışmada yarıiletken silindirik kuantum noktanın optik özellikleri araştırılmıştır.  Etkin kütle ve parabolik bant yaklaşımı dikkate alınarak yarıiletken silindirik kuantum noktanın enerji spektrumu ve dalga fonksiyonu köşegenleştirme yöntemiyle hesaplanmıştır. Elde ettiğimiz öz değer ve öz fonksiyon ifadelerini kullanarak alt enerji seviyeler arası optik geçişler için soğurma katsayısını hesaplamak için kullanılmıştır. Yarıiletken silindirik kuantum noktanın soğurma katsayısı gelen foton enerjisinin fonksiyonu olarak silindirin yarıçapı ve yüksekliği gibi parametrelerinin farklı değerlerine göre davranışı sayısal olarak araştırılmıştır. Ayrıca soğurma katsayı manyetik alanın farklı değerlerine göre değişimi araştırılmıştır. Elde edilen sonuçlara göre yarıiletken kuantum noktanın soğurma katsayısı manyetik alanın değişiminden bağımsız ve silindirin yarıçap ve yükseklik parametrelerinin değişimine bağlı olduğu görülmüştür.
+Yazar isimleri: ['Arif BABANLI', 'Vepa SABYROV']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1139195
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2520163

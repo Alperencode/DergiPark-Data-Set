@@ -1,0 +1,7 @@
+Makale Başlığı: An analytical investigatıon on starlikeness and convexity properties for hypergeometric functions
+Özet: In this study, we analytically investigate hypergeometric functions having some properties such as convexity and starlike. We fundamentally focus on obtaining desired conditions on the parameters \ a,b\ , and $c$ in order that a hypergeometric function to be in various subclasses of starlike and convex functions of order  \ \alpha=2^{-r}\  and order \ \alpha=2^{-r}\  type $\beta=2^{-1}$, with $r$ is a positive integer.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783653
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

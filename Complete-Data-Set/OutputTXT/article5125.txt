@@ -1,0 +1,7 @@
+Makale Başlığı: Evolutionary Image Resizing based Accuracy Optimization for Aerial Triangulation
+Özet: 
+Yazar isimleri: ['Hacı Mustafa PALANCIOGLU']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/1146174
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2548011

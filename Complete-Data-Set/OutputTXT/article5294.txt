@@ -1,0 +1,7 @@
+Makale Başlığı: Çevresel, Sosyal ve Kurumsal Yönetim (ESG) Performansının Piyasa Değeri Üzerindeki Etkisi: Firma Büyüklüğünün Rolü
+Özet: Çalışmada gelişmekte olan piyasalardan Borsa İstanbul’da (BIST) işlem gören işletmelerin çevresel, sosyal ve kurumsal yönetim (ESG) kriterleri konusundaki performanslarının piyasa değeri ile ilişkisi ve bu ilişkide firma büyüklüğünün rolü araştırılmaktadır. Ohlson (1995) değerleme modelini temel alan genişletilmiş statik doğrusal panel regresyon modeli tahminlerinden izleyen sonuçlar elde edilmiştir. Firma büyüklüğü, ESG kriterlerinin piyasa değeri üzerindeki etkileri bakımından firmalar arası farklılıkları açıklamada önemli bir role sahiptir. Firma büyüklüğünün etkisi altında hem ESG kriterlerinin hem de E, S ve G bileşenlerinin ayrı ayrı her birinin piyasa değeri üzerinde anlamlı pozitif etkisi vardır. Görece daha büyük şirketlerde pozitif etkilerin daha büyük olduğu görülmektedir.
+Yazar isimleri: ['Gülşah KULALI']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguiibf/issue/73390/1098419
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2352984

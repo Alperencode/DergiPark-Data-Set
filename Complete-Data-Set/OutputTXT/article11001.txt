@@ -1,0 +1,7 @@
+Makale Başlığı: Helikopter Ürün Konumlandırma ve AHP/TOPSIS  Yöntemi
+Özet: Bu çalışmada helikopter ürün konumlandırma için yenilikçi bir metod önerilmekle birlikte son kullanıcıdan müşteri kurum/kuruluşa kadar tüm katılımcıların çalışmaya dahil edilerek ve helikopterlerin sahip olduğu niteliklerin analiz edilmesi, niteliklerin önem sırasına göre ağırlıklandırılması, rakip ürünlerin niteliklerinin araştırılması ve ilgili bir ürünün pazardaki konumunun belirlenmesi hedeflenmiştir. Genel maksat helikopterleri kullanım amaçlarına göre farklı gruplarda değerlendirilmekte olup ihtiyaç makamının önceliklerine göre pazarda teknik olarak en öne çıkan marka/modelin sistematik bir şekilde tespit edilmesi hedeflenmiştir.Bu işlemler gerçekleştirilirken Analitik Hiyerarşik Proses (AHP) ve TOPSIS olarak bilinen ağırlıklandırma ve karar destek metodolojileri kullanılmış olup ürün niteliklerine ve ihtiyaçlara göre bir ürün önceliklendirme süreci geliştirilmiştir.
+Yazar isimleri: ['Nesij ÜNAL', 'Yahya ÖZ']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Makina Tasarım ve İmalat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/matim/issue/73564/1137833
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2515152

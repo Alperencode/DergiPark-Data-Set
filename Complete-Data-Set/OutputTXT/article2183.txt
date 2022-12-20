@@ -1,0 +1,7 @@
+Makale Başlığı: Hypersurfaces Families with Common Non-Null Isoasymptotic Curve in Lorentz Minkowski 4-Space
+Özet: In this study, the parametric equation of hypersurfaces passing through the spacelike and timelike curves   that has non-null Frenet vectors in E_1^4  Lorentz Minkowski space was expressed with the help of this curve is Frenet frame. Furthermore, hypersurface families were created by giving necessary and sufficient conditions so that the spacelike and timelike curves on E_1^4  is common isoasymptotic on the hypersurface. Then, these conditions obtained with the help of deviation marching-scale functions were simplified.  Finally, the study was supported with examples and the graphics were drawn using certain projection methods.
+Yazar isimleri: ['Çiğdem TURAN', 'Mustafa ALTIN', 'Hacı Bayram KARADAĞ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1093177
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2331730

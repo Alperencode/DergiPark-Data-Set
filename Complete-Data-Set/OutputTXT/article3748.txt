@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of Fermentation Parameters on Bioethanol Yield from Miscanthus
+Özet: Dilute sulphuric acid and alkaline pre-treatments (NaOH) followed by enzymatic hydrolysis (Cellic CTec2) were used to release sugars from Miscanthus giganteus. In order to determine optimum pre-treatment conditions pyrolysis was carried out using H2SO4 and NaOH at 0.5 and 1% (w/v) and 120°C and 180°C for 10 and 90 min. Pre-treatments with NaOH (0.5%, w/v), 120°C, 90 min resulted in highest total fermentable sugar concentration (32.78g/L). Ethanolic fermentations were performed at 25°C and 30°C with or without nitrogen source addition using Saccharomyces cerevisiae. Both temperature and nitrogen supplementation affected bioethanol yields from Miscanthus giganteus. Higher bioethanol yields were obtained with nitrogen addition at temperatures. The fermentation at 30°C with nitrogen addition gave the highest bioethanol yield.
+Yazar isimleri: ['Mustafa Ümit ÜNAL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Çukurova Tarım ve Gıda Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cutarim/issue/70953/1037931
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2137502

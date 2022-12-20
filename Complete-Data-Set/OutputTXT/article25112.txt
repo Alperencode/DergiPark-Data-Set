@@ -1,0 +1,7 @@
+Makale Başlığı: Short-term Load Forecasting based on ABC and ANN for Smart Grids
+Özet: 
+Yazar isimleri: ['Hasan Huseyin Cevik', 'Mehmet Çunkaş']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/266014
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/232476

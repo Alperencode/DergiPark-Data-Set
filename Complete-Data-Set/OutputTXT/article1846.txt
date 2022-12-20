@@ -1,0 +1,7 @@
+Makale Başlığı: The investigation of eco-friendly energy production via hydrogen production
+Özet: Energy production has become one of the most essential elements determining industry, economy, and international relations in the technological development era we are in. Although globalization can help countries surpass their borders, energy strategies are crucial in shaping these relationships. For this purpose, the resources chosen for energy production should be human and ecosystem-friendly, as well as cost-effective and renewable. The hydrogen is suitable energy carrier. In this study, the hydrogen production was achieved by electrolysis. The Pt anode and Ni modified Ni foam cathode electrodes were used in 1M KOH. The modified electrode surface was monitored by scanning electron microscope (SEM). The X-ray diffractometer (XRD) analysis was achieved for characterization. The amount of hydrogen gas was determined during 1800 seconds. The results showed that Ni modified electrode enhanced the hydrogen performance significantly.
+Yazar isimleri: ['Bahar TURUNÇ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Artıbilim: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/artibilimfen/issue/71021/1116179
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2425844

@@ -1,0 +1,7 @@
+Makale Başlığı: Determinants of Financial Inclusion: An Application for Countries in Different Income Groups
+Özet: The aim of this study is to determine the macro factors affecting financial inclusion for economies with different income levels around the World. The effect of macro factors on financial inclusion is investigated by panel regression analysis for the period 2010-2018 for high-income, upper-middle-income and lower-middle-income economies through the financial access index, financial usage index and financial inclusion index created. The findings reveal that the increase in GDP per capita and the proportion of individuals using internet positively affect the financial inclusion for high-income economies. In upper-middle income economies, the increase in the proportion of individuals using the internet and the proportion of individuals with mobile subscription increases the financial inclusion. The positive effect of the increase in the ratio of individuals using the internet, the ratio of individuals with mobile subscription, per capita GDP and the population growth rate on the financial inclusion is determined for lower-middle income economies.
+Yazar isimleri: ['Şeyma YILMAZ KÜÇÜK', 'İsrafil ZOR']
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Gümüşhane Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumus/issue/73042/1115820
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2424459

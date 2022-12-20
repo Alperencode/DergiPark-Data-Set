@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Cultural Descriptive Norms on Financial Systems: A Cross-Cultural Analysis
+Özet: We investigated the effect of descriptive, cultural norms on national financial systems by comparing the incentive for achievement and risk-aversion attributes of 32 different nations’ cultures. Multiple regression analyses showed that performance and future orientation positively relate to market capitalisation, but institutional collectivism and uncertainty avoidance negatively correlate. Performance orientation boosted market capitalisation, but institutional collectivism, whereas uncertainty avoidance hindered it. We could not find any relationship between the cultural norms and the bank deposit ratios. Two steps scatter plot analysis showed clusters between cultural norms, bank deposit, and future orientation norms.
+Yazar isimleri: ['Mert AKTAŞ', 'Filiz BOZAGAÇ', 'Ömür SALTIK']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/985741
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1936418

@@ -1,0 +1,7 @@
+Makale Başlığı: Savunma Harcamalarının Kamu Borcu, Bütçe Açığı ve Cari Açık Üzerindeki Etkisi: Gelişmiş ve Gelişmekte Olan Ülkelerden Bulgular
+Özet: Kamu harcamaları içinde önemli bir paya sahip olan savunma harcamalarının çeşitli makroekonomik değişkenler üzerindeki etkisine ilişkin çok sayıda çalışma olmasına rağmen, kamu borcu, bütçe açığı ve cari işlemler açığı üzerindeki etkilerine ilişkin çok az çalışma bulunmaktadır. Bu çalışmada, 2000-2019 dönemi için 16 gelişmiş ve 9 gelişmekte olan ülkeden yıllık veriler kullanılarak sistem GMM analiziyle, savunma harcamalarının kamu borcu, bütçe açığı ve cari işlemler açığı üzerindeki etkisi ampirik olarak analiz edilmiştir. Çalışmanın bulguları, savunma harcamalarının kamu borcunu, bütçe açığını ve cari işlemler açığını belirlemede önemli bir faktör olduğunu göstermektedir.
+Yazar isimleri: ['Ayşegül DURUCAN', 'Eda YEŞİL']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguiibf/issue/73390/1086651
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2305030

@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Sanayi Üretiminin İhracat ve İthalat Üzerindeki Etkisi:ARDL Sınır Testi ile Bir Değerlendirme
+Özet: Bu çalışmada, Türkiye’de 2013-Q1 – 2022-Q2 dönemlerinde sanayi üretimi ile ihracat ve ithalat arasındaki ilişkiler incelenmektedir. Sanayi üretimini temsilen toplam sanayi üretim endeksi verisi, ihracatı temsilen ihracat miktar endeksi ve ithalatı temsilen ithalat miktar endeksi verilerinin kullanıldığı bu çalışmada serilerin durağan olup olmadıkları geleneksel birim kök testleri ile tespit edilmiştir. Serilerin durağanlık tespitinden sonra otoregresif dağıtılmış gecikme modeli ARDL testi gerçekleştirilmiştir. Yapılan analiz sonuçlarına göre, Türkiye’de sanayi üretimi ile ihracat ve ithalat arasındaki meydana gelen artış ve azalışların birbirlerine etki ettikleri tespit edilmiştir.  Türkiye için 2013-Q1 – 2022-Q2 dönemlerinde, söz konusu etkinin hem ihracat miktar endeksi hem de ithalat miktar endeksi için pozitif olduğu tespit edilmiştir. Analiz sonuçlarına göre, bağımsız değişkenlerin ikisi de istatistiki olarak anlamlı bulunmuştur. Buna göre, sanayi üretim endeksinde meydana gelen %1 birimlik artışın ihracat miktar endeksini %0.67 oranında, ithalat miktar endeksini ise %0.79 oranında artırdığı tespit edilmiştir.
+Yazar isimleri: ['Ayça DOĞANER']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Namık Kemal Üniversitesi Sosyal Bilimler Meslek Yüksek Okulu Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nkusbmyo/issue/73213/1172948
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2640905

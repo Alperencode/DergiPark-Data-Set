@@ -1,0 +1,7 @@
+Makale Başlığı: A Note on Background Subtraction by Utilizing a New Tensor Approach
+Özet: This study deals with determining the foreground region by backgroundsubtraction based on a new tensor decomposition method. With this aim, theconcept of Common Matrix Approach (CMA) is utilized with a purpose ofbackground modelling. The performance of proposed method is validated by makingexperiments on real videos provided by Wallflower dataset. The obtained resultsare compared with well-known methods based on subjective on objectiveevaluation measures. The obtained good results indicate that using the CMAalgorithm for background modelling is a simple and effective technique in termscomputational cost and implementation. As an eventual result, we have observedthat the superior results are determined on complex backgrounds includingdynamic objects and illumination variation in image sets.
+Yazar isimleri: ['Şahin IŞIK', 'Kemal ÖZKAN', 'Ömer Nezih GEREK']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/267154
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/233698

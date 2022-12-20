@@ -1,0 +1,7 @@
+Makale Başlığı: Product Innovation Strategies: A Firm Level Analysis
+Özet: In this study, we examine the association between firms’ innovation process and their product quality improvement and new product introduction strategies. Our focus is on the distinction between firms’ product quality improvement and variety extension objectives. We use data from Turkish Statistical Institute (TURKSTAT) Innovation Survey between the years 2014 and 2016. According to the descriptive results, number of firms report that product quality as very important is greater than the firms report that product variety. Logit estimations results show that majority of the product variety objective and technology level indicators are significant and positively related with probability of product innovation. There is also a positive relationship between probability of product innovation and patent applications for small and medium sized firms. Moreover, probability of innovation is positively related with variety objective whereas quality objective indicators are insignificant.
+Yazar isimleri: []
+Yayın Yılı: 21 Temmuz 2022
+Dergi ismi: Yildiz Social Science Review
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yssr/issue/71338/1146881
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2550805

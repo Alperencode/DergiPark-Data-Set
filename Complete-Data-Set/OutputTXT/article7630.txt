@@ -1,0 +1,7 @@
+Makale Başlığı: A Comparative Investigation on the Wear Performance of Compacted Graphite Iron (CGI) Treated with Single and Double Tempering
+Özet: Compacted graphite iron (CGI) is a critical material in today's automotive and manufacturing industries. Heat treatment processes can improve CGI wear properties, related primarily to microstructural changes. In this study, single and double tempering heat treatments were used to improve the wear properties of CGI. Oil quenching was performed after 90 minutes of austenitization at 900°C, followed by 60 minutes of single and double tempering at three different temperatures (315, 350, and 375°C). The wear performance of the samples was compared using a pin-on disc test and hardness measurements. The volume loss and friction coefficient were evaluated, and wear maps were constructed to determine the samples' wear behavior. SEM and EDS analyses were carried out to worn surfaces to interpret the relationship between wear mechanism and microstructure. According to the study's findings, double tempering heat treatment may optimize wear performance better than traditional single tempering, and structures with high toughness-wear resistance combinations can be obtained.
+Yazar isimleri: ['Engin TAN']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: International Journal of Innovative Engineering Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiea/issue/70503/1081220
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2283385

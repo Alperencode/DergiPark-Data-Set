@@ -1,0 +1,7 @@
+Makale Başlığı: BIST Sektör Endekslerinin Zamanla Değişen Beta Katsayıları
+Özet: Çalışmanın amacı BIST’te yer alan 21 adet sektör endeksinin zamanla değişen beta katsayılarının hesaplanmasıdır. Analizler sonucunda 21 adet sektör endeksinin beta katsayılarının zamanla değişen bir yapıda olduğu gözlenmiştir. Aynı zamanda zamanla değişen tüm sektör betalarının ortalamaya dönme eğilimde olduğu belirlenmiştir. Çalışmada en oynak beta katsayı XFINK endeksine ait iken, en az oynak beta katsayısı XSPOR endeksine ait olduğu tespit edilmiştir. Ayrıca çalışmada ortalama olarak en düşük beta katsayısı 0.490 ile XSPOR endeksine ait iken en yüksek beta katsayısı ise 1.248 ile XBANK endeksine ait olduğu saptanmıştır. Çalışmada, sektör endekslerinin betası zamanla benzer değişimlere sahip olduğu tespit edilmiştir.
+Yazar isimleri: ['Erkan USTAOĞLU']
+Yayın Yılı: 24 Ekim 2022
+Dergi ismi: Muhasebe ve Finansman Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mufad/issue/73058/1143257
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2536248

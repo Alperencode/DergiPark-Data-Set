@@ -1,0 +1,7 @@
+Makale Başlığı: A real-time accurate positioning system using BLE and wireless mesh network in a shipyard environment
+Özet: Digitalization of the shipyard environment is a challenging problem, and also it is necessary for competing the international ship manufacturers. Thus, this study introduced a real-time accurate positioning system that is an indispensable part of a digital manufacturing system. The system implementation and measurements took place in Sedef Shipyard, the largest shipbuilding facility in Turkey. Since the shipyard includes indoor and outdoor environments, Bluetooth Low Energy (BLE) systems provide the best solution for locating the staff. The most challenging problem is to determine the positions in the metallic surroundings. The constructed system solves this problem by placing gateways and sensors at essential locations and using a mesh network. With the designed user interface, the position of the staff can be monitored accurately in real time, and reports can be generated.
+Yazar isimleri: ['Nalan ÖZKURT', 'Hilal KILINÇ', 'Ekrem ÖZGÜRBÜZ', 'Hasan Hüseyin ERKAN']
+Yayın Yılı: 15 Ağustos 2022
+Dergi ismi: International Advanced Researches and Engineering Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iarej/issue/72165/1018524
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2061341

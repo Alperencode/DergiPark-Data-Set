@@ -1,0 +1,7 @@
+Makale Başlığı: Gluconacetobacter xylinus Tarafından Üretilen Saf Bakteriyel Selülozun Kuru ve Yaş Formları ile Boya Uzaklaştırılması
+Özet: Bakteriyel selüloz farklı alanlarda kullanılmaktadır. Bu alanlardan biri, bu malzemeyi farklı boyaların renklerinin giderimi için biyoadsorban olarak kullanmaktır. Çalışmada, bakteriyel selüloz (BS) elde etmek için Gluconacetobacter xylinus kullanılmıştır. BS'nin yaş ve kuru formları, Reaktif Mavi 171 (CI Chrocion Mavi HERD) (200 mg/L), Remazol Parlak Mavi R' nin (150 mg/L) (C. I Reaktif Mavi 19) ve Chrocion Yeşil H-E4BD (100 mg/L) boyalarının uzaklaştırılması için biyoadsorban olarak kullanıldı. En yüksek renk giderme oranları, ilk kullanımda yaş BC ile 30°C, 150 rpm'de 24 saat inkübasyondan sonra CBHERD, RBBR ve CH Yeşil boyaları için sırasıyla %51, %52 ve %54 olarak elde edilmiştir. Bu değerler ilk kullanım sonunda BC’nin kuru formları için %11, %21 ve %20 idi. Aynı zamanda bakteriyel selülozun yapısı ve morfolojisi SEM, XRD ve FTIR analizleri ile belirlendi.
+Yazar isimleri: ['Filiz BORAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kommagene Biyoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/commagene/issue/70397/1037538
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2135906

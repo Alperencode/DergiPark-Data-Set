@@ -1,0 +1,7 @@
+Makale Başlığı: RASFF BİLDİRİMLERİNİN ANALİZİ: 2021 YILI GIDA VE GIDA İLE TEMAS EDEN MADDE VERİLERİNİN İNCELENMESİ
+Özet: Gıda ve Yem için Hızlı Alarm Sistemi (RASFF), gıda güvenliğinin tespiti için hızlı bilgi alışverişi sağlayan bir sistemdir. Mevcut çalışmanın amacı, RASFF portalında yer alan 2021 yılı gıda ve gıda ile temas eden madde kaynaklı bildirimlerin ayrıntılı bir raporunun hazırlanmasıdır. İnternet ortamındaki ilgili veriler konu, bildirim kaynağı, bildirim türü, ürün kategorisi, bildirimde bulunan ülke, risk derecesi, dağıtım bilgileri ve uygulanan yaptırımlar açısından sınıflandırılarak analiz edilmiştir. Toplam 4438 bildirim tespit edilmiştir ve ürünlerde en sık görülen tehlike pestisitler olmuştur. Alarm, sınır iadesi, dikkat gerektiren bilgi, takip gerektiren bilgi ve haber bildirim türleri sırasıyla 1455, 1433, 972, 564 ve 13 bildirimden oluşmaktadır. En sık bildirimde bulunan ülke Almanya olurken, onu İspanya izlemiştir. Hakkında en çok bildirimde bulunulan ürün kategorisi meyve ve sebzeler olmuştur ve bildirimlerin büyük bir bölümü ciddi risk derecesine sahiptir.
+Yazar isimleri: ['Nil IRMAK', 'Kübra YILMAZ', 'Derya DENİZ ŞİRİNYILDIZ', 'Aslı YORULMAZ']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Gıda
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gida/issue/73077/1149772
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2561229

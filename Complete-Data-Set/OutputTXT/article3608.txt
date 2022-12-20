@@ -1,0 +1,7 @@
+Makale Başlığı: At Endüstrisinde Biyolojik Risk Etmenlerini FMEA ile Değerlendirilmesi
+Özet: Tarihsel süreç içerisinde at, her dönemde farklı amaçlarda kullanımı doğrultusunda önemini korumuş ve korumaya devam etmektedir. Atçılık sektörü de dünya genelinde bu süreçte her zaman önemli bir ekonomik sektör olarak var olmuştur. At endüstrisinde işletmeler ve hipodromlar başta olmak üzere çok sayıda atın bir arada barındırıldığı yerlerde biyogüvenlik uygulamaları ve biyolojik riskler üzerinde durularak sağlığının korunması ve güvenliğin sağlanması için uyulması gereken önemli kurallar özetlenmiştir. Bu amaç doğrultusunda Hata Türleri ve Etkileri Analizi (HTEA; FMEA) yöntemi oldukça yaygın olarak kullanılmaktadır. Bu çalışmada at endüstrisinde biyolojik risk kaynaklı meydana gelebilen hataları belirlenmiş ve bu hatalara yönelik FMEA yöntemi kullanılarak risk öncelik sayıları (RÖS) tespit edilmiştir. At endüstrisinde yüksek riske sahip (RÖS>100) hataların oluşmasını engellemek veya azaltabilmek amacıyla alınması gereken önlemlere yönelik birtakım önerilerde bulunulmuştur.
+Yazar isimleri: ['Sevil ÇIRAKOĞLU KELLECİ', 'Gülşen GONCAGÜL']
+Yayın Yılı: 1 Ağustos 2022
+Dergi ismi: Çalışma İlişkileri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cider/issue/70198/1113780
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2416070

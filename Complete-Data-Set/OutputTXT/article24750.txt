@@ -1,0 +1,7 @@
+Makale Başlığı: Kredi Temerrüt Takasının Hisse Senedi Endeksi Üzerindeki Etkileri:  BRIC Ülkeleri İçin Asimetrik Nedensellik Yaklaşımı
+Özet: Bu çalışmada, Granger and Hatemi-J (2012) testleri ile BRIC ülke kredi temerrüt takaslarının (KTT) hisse senedi endeksleri üzerinde nedensellik etkisine sahip olup olmadığı incelenmiştir. Çalışmanın bulguları Brezilya’nın ülke riskinin düşmesinin hisse senedi getirilerini düşürdüğünü desteklemekle birlikte, hisse senedi yatırımcılarının risk sever bir yapıya sahip olabileceğini ima etmektedir. Rusya’da ise teorik varsayımlara aykırı olarak, sermaye hareketlerinin ülke KTT ile yakından ilişkili olmadığı ve ülke riskinin artmasının/azalmasının hisse senedi getirilerini düşürebileceği/yükseltebileceği yönünde bulgulara rastlanılmamıştır. Nedensellik analizi ile KTT’lerin Brezilya ve Rusya’da olduğu gibi Hindistan ve Çin’de de uluslararası finansal sermaye akımları ve risk iştahı üzerinde belirgin bir etkiye sahip olmadığı saptanmış ve hisse senedi piyasalarındaki yatırım kararları için politik, sosyal ve diğer ekonomik faktörlerin önemli olabileceği iddia edilmiştir
+Yazar isimleri: ['Kaya TOKMAKÇIOĞLU', 'Oğuzhan ÖZÇELEBİ']
+Yayın Yılı: 1 Eylül 2018
+Dergi ismi: Finans Politik ve Ekonomik Yorumlar
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fpeyd/issue/47979/607025
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/787452

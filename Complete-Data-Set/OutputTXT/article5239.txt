@@ -1,0 +1,7 @@
+Makale Başlığı: Designing Graphene-Based Antenna for Terahertz Wave Ablation (TWA) System
+Özet: 
+Yazar isimleri: ['Miraç Dilruba GEYİKOĞLU', 'Hilal KOÇ', 'Bülent ÇAVUŞOĞLU', 'Mehmet ERTUGRUL', 'Karim ABBASİAN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Erzincan Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erzifbed/issue/72358/1014513
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2045441

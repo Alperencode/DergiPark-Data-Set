@@ -1,0 +1,7 @@
+Makale Başlığı: Interactive virtual reality and augmented reality application for museums
+Özet: 
+Yazar isimleri: ['Duygu BATMAZ', 'Mustafa Furkan BALDEMİR', 'Kemal AKYOL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Inspiring Technologies and Innovations
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/inotech/issue/70702/1122805
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2453547

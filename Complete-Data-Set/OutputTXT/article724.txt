@@ -1,0 +1,7 @@
+Makale Başlığı: Hierarchical Approaches to Solve Optimization Problems
+Özet: 
+Yazar isimleri: ['Ferda Nur ARICI', 'Ersin KAYA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Academic Platform Journal of Engineering and Smart Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/apjess/issue/72618/1065912
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2223937

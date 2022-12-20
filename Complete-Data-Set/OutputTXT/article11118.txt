@@ -1,0 +1,7 @@
+Makale Başlığı: Taxation of Nun-Fungible Tokens (NFTs)
+Özet: NFT is an identical cryptographic, digital record attached to an asset such as a work of art, music, collectibles or other valuables. When it comes to the new use of technology in any field, it usually takes some time for regulators and legislatures almost all over the world to catch up with the rapid adoption of the technology and make legal regulations immediately. Similarly, a specific legal doctrine or principle of taxation has not yet been determined in the world for NFTs. At the time of writing this study, there is no direct regulation regarding NFTs. When regulating NFTs, because they can be traded globally, their legal status and the different regulatory frameworks they may be subject to in different countries must be taken into account. But more generally, we can think of how NFTs might be regulated by looking at how the law applies to cryptocurrencies, art, and collectibles. But given the distinctive features that distinguish these assets, it is certain that the cryptocurrencies framework cannot be fully applied to NFTs. In this study, potential tax issues related to NFT transactions are discussed.
+Yazar isimleri: ['Burcu GEDİZ ORAL']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Manisa Celal Bayar Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cbayarsos/issue/72696/1055540
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2183020

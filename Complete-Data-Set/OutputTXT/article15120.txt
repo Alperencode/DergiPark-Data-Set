@@ -1,0 +1,7 @@
+Makale Başlığı: Contaminant removal processes from soil
+Özet: Soil pollution of numerous inorganic and organic chemicals has resulted to the destruction of vast amounts of arable and urban land around the world. Toxic pollutants pose a serious health danger to individuals as well as other biological processes. Dispersed literature is used to scientifically examine the numerous physical and anthropogenic causes and probable risks to determine the remediation solutions for a variety of toxins and heavy metals. This review discusses the remediation approaches such as phytoremediation as well as the chemical strategies. Chemical remediation methods like soil cleaning or verification are comparatively extensive and environmentally harmful, making them unsuitable for big-scale soil remediation operations. Phytoremediation, on the other hand, has arisen as an environmentally sustainable and viable technique for restoring the polluted soils, but relatively little attempts have been made to demonstrate this technique in the region. Heavy metal-polluted soil remediation is needed to decrease the related dangers, increase the land requirements for agricultural cultivation, improve food security, as well as reduce land tenure issues caused by changing land-use patterns.
+Yazar isimleri: ['Shadan Rashid ABUBAKER', 'Ayşe Dilek ATASOY']
+Yayın Yılı: 27 Temmuz 2022
+Dergi ismi: Soil Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/soilst/issue/71452/1072005
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2247747

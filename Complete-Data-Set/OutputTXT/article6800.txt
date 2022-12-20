@@ -1,0 +1,7 @@
+Makale Başlığı: İMALAT SANAYİNDE DOĞRUDAN YABANCI YATIRIMLARIN REKABET GÜCÜNE ETKİSİ: TÜRKİYE ÜZERİNE AMPİRİK BİR ANALİZ
+Özet: Bu çalışmanın amacı, doğrudan yabancı yatırımların rekabet gücüne etkisini zaman serisi analizi ile incelemektir. Bu amaçla, farklı entegrasyon derecesine sahip değişkenler nedeniyle en küçük kareler yöntemine dayalı gecikmesi dağıtılmış otoregresif (ARDL) model uygulanmıştır. Çalışma, Türkiye imalat sektörüne ait 2005Q1-2019Q4 dönemi üç aylık verileri kapsamaktadır. Bağımlı değişken olarak rekabet gücü, açıklanmış karşılaştırmalı üstünlüklere göre hesaplanmıştır. Ayrıca model, açıklayıcı değişkenler olarak doğrudan yabancı yatırımları, reel efektif döviz kuru ve verimlilik serilerini içermektedir. Tüm zaman serileri, TRAMO/SEATS xyöntemine göre mevsimsellikten arındırılmıştır.  Çalışmanın temel sonucu, doğrudan yabancı yatırımın rekabet gücü üzerinde hem kısa hem de uzun vadede anlamlı bir etkisinin olmadığını göstermektedir. Bu bulgu, Türkiye'de imalat sanayine yapılan doğrudan yabancı yatırımların iç piyasaya yönelik birleşme ve devralma şeklinde yatırımlar olduğunu gösterebilir. Bu nedenle politika yapıcılar, doğrudan yabancı yatırımları verimli bir teknoloji transfer kanalı olarak planlamalıdır.
+Yazar isimleri: ['Gökhan DEMİRTAŞ', 'Ali İhsan ARTIK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Hacettepe Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/huniibf/issue/72799/984048
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1930164

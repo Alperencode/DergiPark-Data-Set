@@ -1,0 +1,7 @@
+Makale Başlığı: NUMERICAL SOLUTION OF AN INVERSE PROBLEM FOR THE LIOUVILLE EQUATION
+Özet: We consider an inverse problem for the Liouville Equation. We present the solvability conditions and obtain numerical solution of the problem based on the nite dierence approximation.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2019
+Dergi ismi: TWMS Journal of Applied and Engineering Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/twmsjaem/issue/55621/760964
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

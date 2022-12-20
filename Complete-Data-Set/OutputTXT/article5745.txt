@@ -1,0 +1,7 @@
+Makale Başlığı: Derin Öğrenme Yöntemiyle Alzheimer Hastalığının Tespiti
+Özet: Alzheimer hastalığı yaygın olarak görülen bir demans türü olup, ilerleyen ve tedavisi bulunmayan nörodejeneratif bir hastalıktır. Hastalığı teşhis edebilmek için birçok görüntüleme tekniği kullanılmaktadır. Bu tekniklerden biri Manyetik Rezonans Görüntüleme (MRG) tekniğidir. Erken teşhis edilmesi hastalığın ilerlemesini yavaşlatmak ve gerekli önlemleri alma konusunda hasta ve ailesi için büyük önem taşımaktadır. Erken ve doğru teşhis için derin öğrenme yöntemleriyle bu konuda destekleyici çalışmalar gerçekleştirilmiştir. Aynı zamanda hastalığın seyrini takip etmek için de derin öğrenme yöntemleri kullanılmaktadır. Bu çalışmada hastalığın teşhisi için AlexNet, MobileNetV2 mimarileri ve ESA (Evrişimsel Sinir Ağları) modeli kullanılarak gerçekleştirilmiştir. Toplamda 6400 adet MR görüntüsü kullanılarak her iki mimariden özellik çıkarma işlemi yapılarak bu özellikler birleştirilmiştir. KBA (Komşuluk Bileşen Analizi) algoritması kullanılarak özellik seçimi yapılmış ve DVM (Destek Vektör Makineleri) ile sınıflandırma işlemi gerçekleştirilmiştir. Çalışılan modelde %100 doğruluk değeri hesaplanmıştır.
+Yazar isimleri: ['Gözde Sena KARABAY', 'Mehmet ÇAVAŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1137246
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2513011

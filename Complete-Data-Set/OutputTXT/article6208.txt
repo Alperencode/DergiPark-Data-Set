@@ -1,0 +1,7 @@
+Makale Başlığı: Yatırım Kararlarında Yapay Zekanın Rolü ve Türk Finans Sektörü Uygulamaları
+Özet: ÖzMakinelerin düşünüp düşünemeyeceğini sorgulayan ilk kişi Alan Turing değildi, ancak olumlu bir yanıt veren en yakın kişi olduğu söylenebilir. Yapay zeka (AI) teknikleri, otomatik (kendi kendine) giden arabalar, karanlık fabrikalarda üretim, sohbet robotları ve robo-danışmanlar gibi birçok amaç için kullanılmaktadır. Yapay zekanın finans sektöründe artan kullanımına paralel olarak, ampirik çalışmalar da yapay zeka tekniklerinin geleneksel modellerden daha iyi performans gösterdiğini ortaya koymaktadır. Bu çalışma, Türk finans sektörü örneğinde yapay zeka tekniklerinin yatırımcıların karar verme süreçleri üzerindeki etkilerine ışık tutmayı amaçlamaktadır. Literatürde ilk olarak bu çalışma, bazı politika önerileri geliştirmek için Türkiye ve AB uygulamalarını karşılaştırarak, Türk finans sektöründeki mevcut AI politika çerçevesini ve endüstri uygulamalarını da gözden geçirmektedir.
+Yazar isimleri: ['Esra ALP COŞKUN']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Gaziantep Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jss/issue/73087/1101615
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2366837

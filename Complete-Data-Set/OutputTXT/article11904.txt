@@ -1,0 +1,7 @@
+Makale Başlığı: A GRID-BASED MULTI-ZONE BURGESS APPROACH FOR FAST PROCEDURAL CITY GENERATION FROM SCRATCH
+Özet: In this work, we present a novel methodology for procedural city generation from scratch, with the main goal of producing realistically structured cities with as little user input as possible. The methodology offers a thorough solution including procedural zone generation, procedural road network generation, procedural parcellation and procedural building generation. As we adopt a Burgess development model, the generated cities are complete with various zones of urban and suburban districts and public structures such as parks, schools, hospitals and police stations. We demonstrate the practicality of the proposed methodology via an application featured with a simple easy-to-use interface. The advantages of the proposed methodology, such as fast generation time and low resource requirements, are demonstrated in comparison to a similar commercial city generation engine.
+Yazar isimleri: ['Ufuk ÇELİKCAN']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Mugla Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muglajsci/issue/69906/988965
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1949186

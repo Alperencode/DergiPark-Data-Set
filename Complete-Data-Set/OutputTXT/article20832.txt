@@ -1,0 +1,7 @@
+Makale Başlığı: Kalkınma Planlarının Çok Kriterli Karar Verme Yöntemleriyle Araştırılması
+Özet: Ülkelerin refah seviyesinin artırılmasında kalkınma sorunsalıyla karşılaşılmaktadır. Kalkınma sorunsalının aşılmasında bazı ülkeler planlı ekonominin çözüm olduğunu düşünmektedir. Türkiye’de de kalkınma stratejisini planlara dayandırmaktadır. Bu çalışmanın amacı Türkiye’de uygulanan kalkınma planlarının performansını maliye politikası açısından değerlendirmektir. Bu kapsamda çok kriterli karar verme yöntemleri kullanılmaktadır. Çalışmada VIKOR yöntemi ile performans sıralaması yapılmaktadır. Elde edilen bulgular ilk iki plan döneminin en iyi performansa sahip olduğunu göstermektedir. En kötü performansa sahip dönemin Yedinci Beş Yıllık Kalkınma Planı olduğu sonucu yer almaktadır. Ayrıca TOPSIS yöntemi de çalışmada hesaplanmakta ve elde edilen bulgulara göre Üçüncü Beş Yıllık Kalkınma Planı ile Dokuzuncu Beş Yıllık Kalkınma Planı dışında tüm planların aynı performans sıralamasına sahip olduğu görülmektedir.
+Yazar isimleri: ['Tahsin AVCI', 'Eren ERGEN']
+Yayın Yılı: 2 Temmuz 2022
+Dergi ismi: Pamukkale Üniversitesi İşletme Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/piar/issue/71093/1096563
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2345186

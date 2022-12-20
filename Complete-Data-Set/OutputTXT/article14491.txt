@@ -1,0 +1,7 @@
+Makale Başlığı: Overview of Primary Messengers and Their Receptors
+Özet: Signaling molecules play a key role in the transport of biological information between cells and in the formation of an appropriate response. When a signal molecule binds to its receptor, it initiates intracellular responses for the regulation of vital events such as cell proliferation, differentiation, movement, metabolism and behavior. The mechanism of action of intracellular signaling molecules is affected by the localization of the receptors. Receptors are proteins located in the membrane, cytoplasm or nucleus of the target cell, enabling the desired effect to occur. The first messengers synthesized for signaling bind to their receptors located in the cell or on the cell membrane, depending on their structure.When the ligand binds to the receptor, it changes the properties of the receptor and provides the necessary stimulation in the cell.
+Yazar isimleri: ['Esma SELÇUK', 'Nilüfer ŞAHİN CALAPOĞLU']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Sağlık Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdusbed/issue/73442/1208717
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2788933

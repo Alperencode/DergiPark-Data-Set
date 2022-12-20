@@ -1,0 +1,7 @@
+Makale Başlığı: FİNANSAL ANALİST HEDEF FİYAT TAHMİNLERİNİN SEKTÖREL AÇIDAN ANALİZİ: BORSA İSTANBUL ÖRNEĞİ
+Özet: Çalışmanın amacı finansal analistler tarafından Borsa İstanbul’da bulunan pay senetlerine yönelik hedef fiyat tahminlerinin gerçekleşmiş fiyatlar üzerindeki etkisinin ve finansal analist hedef fiyat tahminlerinin pay senetlerine ait mevcut fiyatlardan etkilenip etkilenmediğinin analiz edilmesidir. Çalışmada Ocak 2010-Aralık 2017 dönemini kapsayan finansal analist hedef fiyat tahminleri ve pay senetlerinin gerçekleşmiş fiyatları arasındaki ilişki genel itibariyle ve sektörel açıdan ele alınmış, Granger ve Todo Yamamoto nedensellik testleri ile analiz edilmiştir. Elde edilen bulgular, pay senetlerine ait mevcut fiyatların ve finansal analist hedef fiyat tahminlerinin çalışma kapsamında yer alan pay senetlerinin genelinde ve sanayi sektöründe karşılıklı şekilde birbirini etkilemekte olduğunu göstermiştir. Bankacılık, holding ve gayrimenkul yatırım ortaklığı sektörlerinde ise pay senetlerine ait güncel fiyatların tek yönlü olarak hedef fiyat tahminleri üzerinde etkili olduğu tespit edilmiştir.
+Yazar isimleri: ['Yaşar ŞAHİN', 'Halil BULUT']
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: Uluslararası İktisadi ve İdari İncelemeler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ulikidince/issue/73302/1139173
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2520061

@@ -1,0 +1,7 @@
+Makale Başlığı: Measure Constructions of Turkish: Syntax and Semantics
+Özet: Natural language allows us to attribute properties to entities, some of which are not possessed wholly but to a certain extent, the most obvious example of which are expressions of measure that relate entities to a certain degree along a given dimension. This paper addresses the syntactic constituency and ensuing interpretation of measure expressions of Turkish. Standard measure phrases are demonstrated to obtain when a measure word takes a numeral for its degree argument, which is then applied to a number-neutral NP, yielding a quantized measured noun. A similar account is also provided for measure expressions built on container and collective nouns, which minimally differ from standard measures in involving derived measures. The analysis is further extended to classifiers which express the measure of cardinality. Overall, the proposal defended in this paper is shown to involve minimal machinery to derive the intended reading of measure expressions.
+Yazar isimleri: ['Tacettin TURGAY']
+Yayın Yılı: 28 Nisan 2022
+Dergi ismi: Dil ve Edebiyat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mersinjll/issue/69629/1016410
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2053211

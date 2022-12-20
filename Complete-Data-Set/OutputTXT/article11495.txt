@@ -1,0 +1,7 @@
+Makale Başlığı: BITCOIN AS AN INVESTMENT VEHICLE: THE ASYMMETRIC RELATIONSHIPS BETWEEN BITCOIN AND GLOBAL TECHNOLOGY INDEXES
+Özet: The concept of blockchain and cryptocurrencies is one of the most popular concepts of recent years. Cryptocurrencies were first introduces with Bitcoin in 2008 and now they have an increasing variety and popularity.  Recent developments in technology firms have brought into question whether there is a relationship between Bitcoin and technology indexes. To this end, this study investigates the causality relationship between Bitcoin and technology indexes using monthly data between the years 2016 and 2021 in G7 and E7 countries. To test the causality relationship between the variables, the Hatemi-J (2012) asymmetric causality test was used. Hatemi-J (2012) test reveals that the relationship between bitcoin and technology indexes becomes different for G7 and E7 countries. The results suggest that developed countries affect bitcoin prices while developing countries are affected by Bitcoin prices. The conclusion is that findings point out the existence of an asymmetric relationship between the series for G7 and E7 countries.
+Yazar isimleri: ['Mehmet Levent ERDAŞ', 'Gamze GÖÇMEN YAĞCILAR']
+Yayın Yılı: 29 Kasım 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makuiibf/issue/73543/1097491
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2348859

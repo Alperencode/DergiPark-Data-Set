@@ -1,0 +1,7 @@
+Makale Başlığı: An Application of Path Analysis in Gaugeing Stimulated Travel Demand
+Özet: 
+Yazar isimleri: ['Enver İNCE', 'İbrahim DEMİR', 'Murat ÇELİK']
+Yayın Yılı: 9 Eylül 2022
+Dergi ismi: Mathematical Sciences and Applications E-Notes
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mathenot/issue/68767/988711
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1948210

@@ -1,0 +1,7 @@
+Makale Başlığı: Clarification Of The Structure Of 1,4-Bis(2-Chloro-4-Nitrophenyl)Piperazine Molecule And Its Molecular Docking Analysis With DNA
+Özet: Piperazine-derived molecules have important anticancer activities. In this study, conformational analysis was performed using the Spartan06 program to elucidate the structure of 1,4-Bis(2-chloro-4-nitrophenyl)piperazine (C16H14Cl2N4O4). Among the conformations determined as a result of the conformation analysis, the molecular structure with the lowest energy was determined. DNA is an important target for anticancer molecules. For this reason, the interaction of 1,4-Bis(2-chloro-4-nitrophenyl)piperazine with DNA (PDB ID: 1BNA)  was investigated through docking simulations. The obtained lowest energy conformer of the title molecule was taken as the starting geometry of the ligand for docking simulations with target DNA. As a result, the binding affinity and the binding mode of the title molecule with DNA were evaluated. 1,4-Bis(2-chloro-4-nitrophenyl)piperazine has -7.5 and -7.4 kcal/mol binding affinities to DNA, in two different sites. Depending on the molecular docking studies, the 1,4-Bis(2-chloro-4-nitrophenyl)piperazine was predicted to possess strong anti-tumor effects.
+Yazar isimleri: ['A. Demet DEMİRAG', 'Sefa ÇELİK', 'Berkant İLGİN', 'Ayşen ÖZEL', 'Sevim AKYÜZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bayburt Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bufbd/issue/70667/1006221
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2015651

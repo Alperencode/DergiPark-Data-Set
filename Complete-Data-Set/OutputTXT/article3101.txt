@@ -1,0 +1,7 @@
+Makale Başlığı: An Evaluation of Supermarkets from the Lens of Multiple Criteria:  The Intuitionistic Fuzzy TOPSIS Method
+Özet: This study is an attempt to evaluate supermarkets by both the consumer and the market researcher through the intuitionistic fuzzy TOPSIS. In this regard, the decision makers' views were expressed in linguistic terms and ranked from the most preferred supermarket to the least preferred supermarket. The satisfaction of using linguistic terms is that it gives decision makers the chance to express views that they cannot express in numerical values. Furthermore, undecided situations were interpreted through the IFS. This method, which may be easily used in many application areas, offers researchers more consistent results than the others due to its advantages. Besides, this study attempts to innovative implementation of the intuitionistic fuzzy TOPSIS method on its algorithm and mathematical basis.
+Yazar isimleri: ['Feride TUĞRUL']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Black Sea Journal of Engineering and Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsengineering/issue/68458/1155615
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2576699

@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of Use in Beauty and Care Sector by Modeling the Human Face with Hand-held Laser Scanners
+Özet: Advances in technology have made it important to present many objects to users in computer environment by 3 Dimension (3D) modeling. One of the most used methods of 3D modeling of objects is laser scanning systems. Today, handheld laser scanners are available for human use. 3D models produced with handheld laser scanners can be used in construction, industrial manufacturing, forensics, architecture, security, virtual reality, etc. have been widely used in the fields. Hairstyle, hair color and make-up, which constitute an important part of the beauty and care industry, can be one of the unique areas of use of handheld laser scanners. In this sector, 3D modeled human face and body can be replaced by hand-held laser scanners, which usually consists of 2 Dimension (2D) photo uploads. Applications that provide data entry suitable for the 3D model can be developed. In this study, the advantages and disadvantages of its usability in the beauty and care industry were evaluated by producing a 3D model of a single human face using the data of FARO Freestyle 3D Scanner.
+Yazar isimleri: ['Sude Deniz UZUN', 'Seda Nur Gamze HAMAL', 'Şafak FİDAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Türkiye Lidar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/melid/issue/70473/1131186
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2488315

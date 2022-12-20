@@ -1,0 +1,7 @@
+Makale Başlığı: Tabakalı kompozit plakaların modal analizi üzerinde tabakaların fiber tipi ve sayısının etkisi
+Özet: Bu çalışmanın amacı, sonlu elemanlar ve Taguchi yöntemleri kullanılarak tabakalı kompozit plakalarınmodal analizinde fiber tipi ve katman sayısının etkilerini incelemektir. Modal analiz, fiber türleri ve katmansayısı gibi iki kontrol faktörüne sahip L9 ortogonal diziye uygun olarak sonlu elemanlar yazılımı ANSYS ilegerçekleştirilmiştir. Sinyal-Gürültü oranı analizi kullanılarak optimum lif türleri ve katman sayısı belirlenirkenkontrol faktörlerin önem seviyeleri ve yüzde etkileri %95 güven düzeyinde varyans analizi kullanılarakgerçekleştirilmiştir. Bu çalışmadan elde edilen sonuçlara göre, maksimum serbest titreşim değeri üçkatmanlı bor lifi takviyeli tabakalı kompozit plakalar kullanılarak hesaplanmıştır. Bu çalışmadan elde edilensayısal ve istatistiksel sonuçlar, tabakalı kompozit plakalar için uygun fiber tiplerini ve katman sayısınıseçmek için faydalı olabilir.
+Yazar isimleri: ['Savaş EVRAN', 'Yasin YILMAZ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: ALKÜ Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alku/issue/72254/1117191
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2429957

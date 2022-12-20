@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 PANDEMİSİNİN YÜKSEKÖĞRETİM ÖĞRENCİLERİNİN PERFORMANSI ÜZERİNE ETKİLERİ
+Özet: Covid-19 salgınıyla birlikte Türkiye yüz yüze eğitime ara vererek, acil uzaktan eğitime geçti. Bu çalışmada Covid 19 pandemisinin ilk dalgasının yükseköğretim öğrencilerinin performansı üzerindeki etkileri değerlendirilmektir. Bu amaçla Slovenya Lübliana Üniversitesi öncülüğünde 133 ülkede üniversite öğrencilerine düzenlenen anketin Türkiye örneklemindeki 1719 üniversite öğrencisinin cevapları dikkate alınmıştır. Çalışmada öğrencilerin yeni öğrenme ortamını göz önüne aldıklarında, yüz yüze yapılan dersler iptal edildikten sonra performanslardaki değişim ile ilgili 5’li Likert ölçeği ile sorulan görüşleri sıralı lojistik regresyon yöntemi kullanılarak ölçülmüştür. Öğrencilerin kendi performanslarını değerlendirmede cinsiyetler arasında bir fark görülmemişken, devam edilen fakültelere bağlı olarak performans farkı olduğu sonucuna varılmıştır. Öğrencilerin performansları üzerinde bilgisayar becerilerinin ve duygu durumlarının da etkili olduğu belirlenmiştir.
+Yazar isimleri: ['Handan YOLSAL', 'Özlem YORULMAZ']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Kafkas Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kauiibf/issue/70698/1063397
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2214409

@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship of Participation Index with Exchange Rate and Gold Prices: ARDL Bounds Test Approach for Turkey
+Özet: With the development of the financial product range, all investors are interested in investment instruments that are suitable for them. In this context, participation indices offer alternative investment opportunities to investors in recent years. In this study, the effect of exchange rate and gold prices on the Participation-50 index was examined with the ARDL bounds test approach. In the study, weekly data for the period 2014:8 - 2021:12 were used. According to the findings, it is seen that the gram gold price has a statistically significant and positive effect on the Participation-50 index. An increase in the gram gold price in the long run is expected to increase the Participation-50 index. Likewise, it has been found that the USD/TL rate has a statistically significant and negative effect on the Participation-50 index. In the long run, an increase in the USD/TL rate is expected to decrease the Participation-50 index.
+Yazar isimleri: ['Burak SERTKAYA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bulletin of Economic Theory and Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/beta/issue/70987/1117113
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2429648

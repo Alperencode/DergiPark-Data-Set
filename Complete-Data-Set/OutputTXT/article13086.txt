@@ -1,0 +1,7 @@
+Makale Başlığı: Fotovoltaik Modellerin Parametre Çıkarımı İçin Geliştirilmiş Bir Kaotik Tabanlı Balina Optimizasyon Algoritması
+Özet: Fotovoltaik modül modellerinin parametre doğru tahmini sistemlerin verimliliği üzerinde önemli bir etkisi bulunmaktadır. Fotovoltaik sistemlerde en iyi performansı elde etmek amacıyla parametrelerini tahmin etmede algoritmaların etkinliği kullanılmaktadır. Bu sebepten dolayı bu çalışmada fotovoltaik modül modelinin parametrelerini çıkarmada kaos teorisinin rassallığı ve Balina optimizasyon algoritmasının etkililiği birleştirilerek Henon kaotik tabanlı Balina optimizasyon algoritmaları (HBOA) önerilmiştir. Ayrıca önerilen dört farklı Kaotik Henon tabanlı Balina optimizasyon algoritması, mevcut balina optimizasyon algoritmasına kıyasla doğruluğu ve güvenilirliği arttırdığı görülmüştür. Algoritmaların istatistiksel değerleri göz önünde bulundurularak performansları değerlendirilmiştir. Ayrıca algoritmalardan elde edilen karşılaştırma sonuçlarının güvenirliklerini test etmek amacıyla Wilcoxon ve Friedman testleri kullanılmıştır. Sonuç olarak deneysel sonuçlara göre önerilen algoritmaların literatürdeki algoritmalara göre daha iyi performans gösterdiği belirlenmiştir.
+Yazar isimleri: ['Zeynep GARİP', 'Murat Erhan ÇİMEN', 'Ali Fuat BOZ']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/878934
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1572517

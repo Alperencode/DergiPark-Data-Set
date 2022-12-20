@@ -1,0 +1,7 @@
+Makale Başlığı: The Provability-Truth Relation in Formal Languages in Terms of Gödel's Incompleteness Theorems
+Özet: In this article, we try to show the limits of formalism based on Gödel's incompleteness theorems. The most fundamental debate in our study is shaped by the tension between formal provability and truth. The studies that started with Frege's project to reduce arithmetic to logic and continued with Hilbert's formalist program aimed to establish a solid foundation for mathematics. But when Gödel proved that some propositions could not be decided formally, the pervasiveness of Hilbert’s formalist program took a hit. On the other hand, Gödel's theorems initiated a discussion on the relation between provability and truth, since it showed that there were propositions for which a proof could not be provided, but nonetheless were said to be true. In our study, we try to show the limits of provability in a formal language based on Gödel’s theorems. Thus, our study concludes that formal provability could not encompass reality.
+Yazar isimleri: ['Ümit TAŞTAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: MetaZihin: Yapay Zeka ve Zihin Felsefesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/metazihin/issue/70556/1053120
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2173676

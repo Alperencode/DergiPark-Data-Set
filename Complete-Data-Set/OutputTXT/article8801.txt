@@ -1,0 +1,7 @@
+Makale Başlığı: The Validity of The Environmental Kuznets Curve Hypothesis in Eurocontrol as a Financial Union: An Econometric Analysis
+Özet: In this study, the relation between the national income and the carbon-dioxide emission per flight of the aviation sector of 34 member countries of EUROCONTROL is analyzed for January 2010 - September 2021 period. The data set is expanded with oil prices and a dummy variable, representing COVID-19 period. The model coefficients are estimated by DOLS method and it is determined that Environmental Kuznets Curve Hypothesis is valid between carbon-dioxide emission per flight in the aviation sector and national income for Belgium, Finland, Germany, Greece, Hungary and Romania. Among these countries Belgium, Greece, Hungary and Romania have inverse N shaped and Finland and Germany have N shaped cubic Environmental Kuznets Curve. Also, the drawn figures are supporting the related econometric findings.
+Yazar isimleri: ['Uğraş ÇALIŞKAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: JOEEP: Journal of Emerging Economies and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joeep/issue/66260/1086257
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2303470

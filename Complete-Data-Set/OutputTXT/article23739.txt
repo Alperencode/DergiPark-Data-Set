@@ -1,0 +1,7 @@
+Makale Başlığı: Surrogate based design optimization of low noise amplifier for ISM band
+Özet: 
+Yazar isimleri: []
+Yayın Yılı: 9 Ekim 2022
+Dergi ismi: Sigma Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sigma/issue/72968/1178817
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2665459

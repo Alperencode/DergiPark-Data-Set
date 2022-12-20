@@ -1,0 +1,7 @@
+Makale Başlığı: Is there any effect of COVID-19 mRNA vaccination on electrocardiographic parameters in patients without apparent cardiovascular disease?
+Özet: Objective: Electrocardiographic alterations were investigated following the second dosage of COVID-19 mRNA vaccination. Methods: A total of 260 individuals after two doses of COVID-19 vaccine with Pfizer-BioNTech were included in the study. The electrocardiographic parameters recorded at baseline and approximately one week later after two doses of Pfizer-BioNTech vaccine were compared for all patients. Results: PR interval was increased and QTc maximum interval was decreased significantly after second dose COVID-19 mRNA vaccination. Baseline and post-second dose vaccination states regarding P wave dispersion and QT dispersion/Tp-e interval which have been recognized to imply inhomogeneous atrial conduction and heterogeneity in ventricular repolarization were similar between groups. Conclusion: Our findings suggest that there should be no concern related to asymptomatic involvement of the myocardium subsequent the second dose of COVID-19 mRNA vaccination.
+Yazar isimleri: ['Ayhan KÜP', 'Mehmet ÇELİK', 'Abdulkadi USLU', 'Şeyhmus KÜLAHÇIOĞLU', 'Elif TÜKENMEZ TİGEN', 'Serdar DEMİR', 'Kamil GÜLŞEN', 'Servet İZCİ', 'Yeşim UYGUN KIZMAZ', 'Alper KEPEZ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Troia Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/troiamedj/issue/72865/1151301
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2566774

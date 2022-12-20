@@ -1,0 +1,7 @@
+Makale Başlığı: Karayolu Viyadüklerindeki Trafik Kaynaklı Titreşimlerin Analizi
+Özet: Bu çalışmada, deprem nedeniyle hasar oluşma tehlikesi bulunan yapılar üzerinde oluşabilecek titreşim kaynaklı zararların belirlenebilmesi amacıyla mikrotremor ölçümleri alınarak değerlendirilmiştir. Bu kapsamda, hem karayolu hem de hafif raylı sistem trafiğinin yoğun olduğu İzmir İli, Bornova İlçesinde bulunan Bornova viyadüğü boyunca viyadük ayaklarında 13 farklı noktada ölçümler alınmıştır. Veriler, trafiğin yoğun olduğu gündüz saatlerinde ve sakin olduğu gece saatlerinde iki kez kaydedilmiştir. Alınan ölçümler değerlendirilerek, trafik kaynaklı titreşimlerin hem frekans spektrumu hem de H/V yöntemi ile gündüz ve gece ölçümleri arasındaki farklar incelenmiştir. Viyadükle aynı zemin özelliklerine sahip olan Ege Üniversitesi Merkez Yerleşkesi içinde çeşitli noktalarda alınan mikrotremor ölçümleri kullanılarak, zemin etkisi giderilmiş ve sadece yapının etkisi ortaya konmuştur. Ayrıca belirlenen baskın frekansların çevre binalar üzerindeki olası etkisi de belirlenmiştir. Trafiğin yoğun olması ve bölgede bulunan metro hattının aktif olması nedeniyle gündüz ölçümlerinden elde edilen frekansların, gece ölçümlerinden elde edilen frekanslara göre daha düşük olduğu tespit edilmiştir.
+Yazar isimleri: ['Emre TİMUR']
+Yayın Yılı: 13 Aralık 2022
+Dergi ismi: Türk Deprem Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tdad/issue/73816/1151176
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2566250

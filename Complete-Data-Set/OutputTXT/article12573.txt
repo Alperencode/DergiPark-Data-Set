@@ -1,0 +1,7 @@
+Makale Başlığı: Readmission to the Emergency Room and Clinical Characteristics of Patients with Covid-19: A Single-Center Trial
+Özet: Objective: This study aims to determine the demographic and clinical characteristics of patients admitted to the emergency department of a training and research hospital within 72 hours of the diagnosis of COVID-19.Materials and Methods: The study was designed as descriptive and single-centered. The data of patients who presented to the emergency room with the diagnosis of COVID-19 were obtained retrospectively from the Hospital Information Management System.Results: 56.497 patients diagnosed with COVID-19 presented to our emergency room, and 0.4% returned to the emergency room with similar complaints within 72 hours. Among those who returned, 51.4% were female, and the mean age was 41.67. This study found that 30.8% of readmitted people had at least one comorbidity. It was found that 30.8% of the readmission had at least one comorbidity; nausea and cough were the most common reasons for admission in patients with comorbidities.Conclusion: There is a need to design further studies to establish the criteria for the safe return of COVID-19 patients to home, to reduce the re-admission rates, and increase the quality of care. 
+Yazar isimleri: ['Hatice ESEN', 'Tuğba ÇALIŞKAN', 'Adeviyye KARACA']
+Yayın Yılı: 10 Aralık 2022
+Dergi ismi: Online Türk Sağlık Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/otjhs/issue/73567/1140897
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2526766

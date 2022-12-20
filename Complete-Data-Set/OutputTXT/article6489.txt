@@ -1,0 +1,7 @@
+Makale Başlığı: On the pole indicatrix curve of the spacelike Salkowski curve with timelike principal normal in Lorentzian 3-space
+Özet: Bu çalışmada 3-boyutlu Lorentz uzayında timelike asli normalli spacelike Salkowski eğrisinin pol gösterge eğrisinin Frenet çatısı, eğrilikleri, Frenet türev formülleri, Darboux vektörü, yay uzunluğu,   e  ve   (Lorentzian küre) ye göre geodezik eğrilikleri hesaplanmıştır ve bu pol gösterge eğrisi Lorentzian küre   üzerinde gösterilmiştir.
+Yazar isimleri: ['Birkan AKSAN', 'Sümeyye GÜR MAZLUM']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: Gümüşhane Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumusfenbil/issue/72979/1176243
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2654551

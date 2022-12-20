@@ -1,0 +1,7 @@
+Makale Başlığı: Portable Air Purification System Used in Medical Environments
+Özet: The protection of air quality in public areas in the community is important for health and is a current problem. This problem often manifests itself with epidemic diseases or deaths in large or small healthcare institutions, along with many common areas where ventilation is insufficient. The steps taken so far are insufficient to prevent this problem, In the study, a small and portable air purification system was designed using particulate filters and UV lamps, providing medical-grade air quality. This system has been designed in accordance with EN ISO 14644-1 cleanroom standards using UV-C technology. This device can be used in health institutions such as public transportation vehicles, intensive care waiting rooms, microbiology, and biochemistry laboratories.
+Yazar isimleri: ['Yiğit Ali ÜNCÜ', 'Onur KOÇAK']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/946520
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1801320

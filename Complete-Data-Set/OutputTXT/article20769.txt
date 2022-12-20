@@ -1,0 +1,7 @@
+Makale Başlığı: FUZZY LOGIC BASED CAPACITY OPTIMIZATION IN HEURISTIC VEHICLE ROUTING PROBLEMS: A CASE STUDY IN A FLOUR MILL
+Özet: Vehicle Routing Problem (VRP) is used to ensure that customer requirements are met on time and at minimum cost. With VRP, it is aimed to create routes that enable the movement of limited capacity vehicles or vehicles to customers in different regions, with the lowest cost from a depot. Therefore, the purpose of the Vehicle Routing Problem, which deals with product distribution between the depot and the customers, is to determine the vehicle routes in a way that will serve all customers by minimizing the total travel costs. In this study, it is aimed to minimize transportation costs by improving the capacity utilization of the vehicles, used for deliveries from the central depot of a flour mill, operating in the city center of Isparta to customers in the city and district centers of Isparta, Denizli, Burdur, Afyon and Antalya. Within the scope of the study, after the routes were determined with the Savings Algorithm, alternative solutions were obtained by fuzzying the demand data with the help of Fuzzy Logic in order to improve the capacity ratios of the vehicles.
+Yazar isimleri: ['Aysun ALTINKAYA', 'Mustafa Zihni TUNCA']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Oğuzhan Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguzhan/issue/70620/1107296
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2389878

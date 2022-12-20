@@ -1,0 +1,7 @@
+Makale Başlığı: Functional Forms and Oligopolistic Models: An Empirical Analysis
+Özet: This paper attempts to empirically test the sensitivity of the New Empirical Industrial Organization (NEIO) approach to the assumed demand and cost functional forms. Such an approach relies upon oligopolistic models to infer the degree of competition in a market. Unlike prior studies (Genesove and Mullin, 1998; Clay and Troesken, 2004), this paper focuses on the effect of the assumed cost function on the assessment of market power. Using data from the US catfish industry, the empirical results reveal that the NEIO approach is fairly robust to the assumed demand and cost functional forms.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353610
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364650

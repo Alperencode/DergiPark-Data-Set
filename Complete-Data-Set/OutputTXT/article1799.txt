@@ -1,0 +1,7 @@
+Makale Başlığı: NFT, KRİPTO SANATI VE TÜRKİYE’DEKİ YANSIMALARI
+Özet: Blok zinciri teknolojisi kripto ekonomi ile sanat ve tasarım alanları arasında bir köprü oluşturmuştur. Dijital eserlerin kod sistemiyle biricik hale gelmesi ve akıllı sözleşme teknolojisinin sunduğu avantajlar değiştirilemez dijital varlıkların uluslararası alanlarda ilgi odağı olmasını sağlamıştır. Türkiye’de kripto ekonomi alanında görülen yükselişin bir benzeri NFT alanında da görülmeye başlanmıştır. NFT’de birçok ilkin Türkiye’de gerçekleşmiş olmasına ve kripto sanatında ilk sıralarda Türk sanatçıların bulunuyor olmasına karşın daha önce bu alanda yaşanan önemli gelişmeleri inceleyen detaylı bir araştırma yapılmadığı tespit edilmiştir. Bu bağlamda öncelikle NFT ve Kripto Sanatı tanımlanmış ve bu kavramların oluşumuna ve altyapısına ayrıntılı bir şekilde yer verilmiştir. Bununla birlikte araştırmanın merkezini oluşturan NFT ve Kripto sanatın Türkiye’deki gelişimi, yayılımı ve uluslararası platformlardaki yeri irdelenmiştir. Bu kritik gelişmelerin incelenmesi Türkiye’de kripto sanatında atılacak adımların daha nitelikli olması ve yeni kripto çağına uyum sağlanabilmesi açısından önemlidir.
+Yazar isimleri: ['Semih ODUNCU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Art-e Sanat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sduarte/issue/70476/1080813
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2281770

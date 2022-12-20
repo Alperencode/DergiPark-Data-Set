@@ -1,0 +1,7 @@
+Makale Başlığı: Ara malları ithalatı, göreceli fiyat ve reel efektif döviz kuru ilişkisi: Türkiye örneği
+Özet: Bu çalışmada göreceli fiyatlar ve reel efektif döviz kurunun ara malı ithalatı üzerine olan etkisi Türkiye kapsamında 2013M1-2020-M2 dönemi için araştırılmaktadır. Amaç doğrultusunda analizde Granger nedensellik, Toda ve Yamamoto nedensellik ve Johansen eşbütünleşme testleri kullanılmaktadır. Nedensellik testlerine göre değişkenler arasında doğrudan bir nedensellik ilişkisi tespit edilmemiştir. Bu durumun tersine, eşbütünleşme testi sonuçlarına göre ise hem uzun dönem hem de kısa dönemde ilişki bulunduğu saptanmıştır. Analizden elde edilen sonuçlara göre her iki dönem için de ara malı ithalatı ile göreceli fiyat arasında negatif, ara malı ithalatı ve reel efektif döviz kuru ile pozitif bir ilişki tespit edilmiştir. İki bulgu da Türkiye’nin dış ticaret ve döviz kuru politikaları bağlamında önlemler alması gerektiğini göstermektedir.
+Yazar isimleri: ['Burcu HİÇYILMAZ']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Gazi İktisat ve İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gjeb/issue/73274/933917
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1755443

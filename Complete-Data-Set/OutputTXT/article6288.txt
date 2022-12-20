@@ -1,0 +1,7 @@
+Makale Başlığı: Dikili Açıklarında Bir Açık Deniz Rüzgâr Çiftliğinin Kavramsal Tasarımı
+Özet: Bu çalışmada, Türkiye için açık deniz rüzgâr enerji potansiyelinin önemi vurgulanarak bir açık deniz rüzgâr çiftliğinin teknik açıdan kavramsal tasarımı sunulmaktadır. 640,000 m2 büyüklüğünde bir alanı kapsayacak şekilde önerilen açık deniz rüzgâr çiftliği için seçilen yer Türkiye'nin Ege Denizi bölgesinde bir sahil kasabası olan Dikili'nin güneybatı kıyılarıdır. Rüzgâr türbini modeli, göbek yüksekliği 78 m olan Vestas V80-2.0 Offshore (IEC IIA sınıfı) tipi olarak tavsiye edilmekte olup, önerilen açık deniz rüzgâr çiftliğinin kurulu gücü 20 MW olacaktır. Şebeke bağlantı noktası, önerilen açık deniz rüzgâr çiftliğine en yakın ve en uygun yer olan Narlıdere Limanı olarak belirlenmiştir. Temel tipi ise su derinliği ve deniz tabanı koşulları dikkate alınarak tek kazıklı (mono-pile) temel olarak seçilmiştir. Önerilen açık deniz rüzgâr çiftliğinin yıllık tahmini ortalama enerji üretimi 72 GW olacaktır.
+Yazar isimleri: ['Serdar BEJİ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Gemi ve Deniz Teknolojisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gdt/issue/70983/1050615
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2165318

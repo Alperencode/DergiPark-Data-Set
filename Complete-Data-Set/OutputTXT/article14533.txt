@@ -1,0 +1,7 @@
+Makale Başlığı: Hidroelektrik ve Rüzgar Enerji Santrallerinin Mikro Şebekesi
+Özet: Hayatın her alanında ihtiyaç duyulan elektrik enerjisi, toplumun gelişmişlik düzeyinin yükseltilmesinde önemli bir rol oynamaktadır. Enerji ihtiyacının devamlı olarak artması ve yenilenemeyen enerji kaynaklarının tükenebilir olmasından ötürü yenilenebilir enerji kaynaklarına olan talep artmıştır. Kırsal alanlarda ve şebekeden uzak alanlarda yaşanan enerji kesintilerine ve altyapı problemlerine çözüm olarak ortaya çıkan mikro şebekeler, şebekeden bağımsız ya da bağımlı olarak çalışabilen küçük enerji şebekeleridir. Bu çalışma da mikro şebekeler ve mikro şebekelerin avantajlarıyla birlikte mikro şebekeler ile sağlanan enerji üretimleri incelenmiştir. Yeni bir enerji kaynağı olması, şebekeden bağımsız olarak da çalışabilmesi mikro şebekenin en önemli özelliğidir. Bu yüzden mikro hidroelektrik enerji üretim sistemlerinin ve rüzgâr enerji sistemlerinin çalışma prensibi ve diğer sistemlerden farklı yönleri üzerinde de örnekler verilerek mikro şebekenin avantajları belirtilmiştir. MATLAB/SİMULİNK programında rüzgar ve mikro hidroelektrik hibrit güç üretim sistem modeli tasarlanıp simülasyon sonuçları belirtilmiştir.
+Yazar isimleri: ['Abdussamed BALKAN', 'Göksu GÖREL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Sürdürülebilir Mühendislik Uygulamaları ve Teknolojik Gelişmeler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/smutgd/issue/70374/1023041
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2079323

@@ -1,0 +1,7 @@
+Makale Başlığı: On Optimal Toll Design for Bosporus Crossings
+Özet: For many years, two toll bridges served commuter demand to cross the strait called Bosporus in Istanbul, Turkey. An underground connection called the Eurasian tunnel had been recently launched to relieve the strait's traffic. We study a simple transportation model that incorporates the forces that have come into play after the opening of the Eurasian tunnel. We find that for welfare maximisation, the premium paid for using the tunnel should be fixed in the two directions and not excessive. The current toll regime violates these features, and we recommend its amendment in light of our findings.
+Yazar isimleri: ['Özgün EKİCİ']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1038307
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2138921

@@ -1,0 +1,7 @@
+Makale Başlığı: Sağlık Hizmetlerinde Ar-Ge: Bir Literatür Taraması
+Özet: Bu araştırmanın amacı, Türkiye'de ve dünyada sağlık sektöründeki Ar-Ge faaliyetlerini incelemektir. Literatür taraması, Kitchenham'ın (2004) "sistematik literatür taraması" çerçevesinde yapılmıştır. Bu araştırma kapsamında “sağlık hizmetlerinde araştırma ve geliştirme” ve “research and development in healthcare” başlıkları altında altı veri tabanı araştırılmıştır. Ulaşılan makalelerden 27 tanesi çalışma kapsamında incelenmiştir. Sağlıkla ilgili çalışmalarda Ar-Ge genellikle belirli bir çalışma konusu üzerinde proje bazlı çalışmadır. Nadiren birden fazla ülkeyi kapsayan çalışmalar vardır. Mevcut literatürde sağlık hizmetlerinde Ar-Ge araştırmalarında ulusal veya uluslararası düzeyde iş birliği yapılarak Ar-Ge faaliyetlerinin sistemli bir şekilde yürütülmesini sağlayacak bir model bulunmamaktadır. Bu durum sağlık hizmetlerine yönelik Ar-Ge faaliyetlerinde dağınıklığa ve kaynak israfına neden olmaktadır. Bu nedenle sağlık hizmetlerinde Ar-Ge faaliyetlerinin yürütülmesi için hem ulusal hem de uluslararası düzeyde bir ağ organizasyonun oluşturulması gerekmektedir.
+Yazar isimleri: ['Nurşen AYDIN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: AJIT-e: Academic Journal of Information Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ajit-e/issue/73717/1193907
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2728280

@@ -1,0 +1,7 @@
+Makale Başlığı: The  Effect  of Adding  La2O3 and  Fe2O3 Binder  to the Thick  Film  SnO2 Sensor on the Sensor's Properties
+Özet: In  this  study,  the  features  of  the  SnO2  gas  sensor  were  examined  and  the  effects  of  metal oxide semiconducting requisites such as La2O3 and Fe2O3 on the gas sensor system  were searched.  Sensor  fabrications  were  carried  out  with  thick  film  sensor  design.  Inorder  to obtain  these  thick  film  sensors,  a  mixture  called  binder  was  transferred  from  nano-sized masks to alumina surfaces by screen printing technique. The name of this mixture is binder. Binder mixture consists of ethyl cellulose, alpha terpineol, active powder mixture. However, in order to obtain a quality sensor, it is necessary to pay attention to the proportion of this mixture, the mixing times and temperatures.  A binder was prepared by adding 30% active powder to the paste solution taken in the ratio of 70% by weight.  Ethyl cellulose was mixed with alpha terpineol at 40 °C for 3 hours at 150 rpm at 1:10.
+Yazar isimleri: []
+Yayın Yılı: 15 Temmuz 2022
+Dergi ismi: International Journal of Innovative Research and Reviews
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/injirr/issue/71377/1147836
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2553951

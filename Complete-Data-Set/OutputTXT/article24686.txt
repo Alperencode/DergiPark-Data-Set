@@ -1,0 +1,7 @@
+Makale Başlığı: Numerical Investigation of Hot Ultrasonic Assisted Turning of Titanium Alloy
+Özet: Titaniumalloys exhibit superior properties such as high strength-to-weight ratio andcorrosion resistance but these alloys possess poor machinability. To overcomethis disadvantage, new machining methods (Ultrasonic Assisted Machining, HotMachining etc.) are developed. Hot Ultrasonic Assisted Turning (HUAT) is a newmachining method which changes the cutting system between tool and workpiecetherefore reduced cutting forces and better surface finish for workpiece areobtained. In this study, 2D finite element (FE) analysis was carried out toinvestigate the effects of HUAT for titanium alloys. It was confirmed that HUATtechnique reduces cutting forces and effective stress significantly but cuttingtemperature increases compared to conventional turning.
+Yazar isimleri: ['Mehmet Alper Sofuoğlu']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/368478
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826691

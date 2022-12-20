@@ -1,0 +1,7 @@
+Makale Başlığı: Analytical Solutions of the Nonlinear (2 + 1)-Dimensional Soliton Equation by Using Some Methods
+Özet: In this work, it has been applied two methods for solving the (2+1)-dimensional soliton equation, namely, the ansatz method and the F-expansion method. These methods are utilized to provide new accurate periodic and soliton solutions to this problem that are more generic. An appropriate transformation can be used to convert this nonlinear system into another nonlinear ordinary differential equation. In mathematical physics, it is demonstrated that the ansatz method and the F-expansion method give a strong mathematical tool for solving a large number of systems of nonlinear partial differential equations.
+Yazar isimleri: ['Ayten ÖZKAN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of Engineering Technology and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jetas/issue/72234/1108028
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2392853

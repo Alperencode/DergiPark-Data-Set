@@ -1,0 +1,7 @@
+Makale Başlığı: Fındık Kabuğunun Torrefaksiyon ve Yanma davranışının İncelenmesi
+Özet: Torrefaksiyon, günümüzün güç sistemlerine dahil edilebilecek kömür benzeri katılar elde etmek için umut verici bir tekniktir. Bu çalışmada, fındık kabuğunun tel örgü sepetli dikey bir fırın ve gerekli ekipmanlar kullanılarak torrefaksiyonu ve yanma davranışı incelenmiştir. Torrefaksiyon deneyleri, sepet içinde azot akışı altında ve sırasıyla hafif, orta ve şiddetli koşullara karşılık gelen 200, 240 ve 280 oC sıcaklıklarda poli-parçacık yatağı olarak yapılmıştır. Bununla birlikte, yanma deneyleri, 550, 650 ve 750 oC sıcaklıklarda doğal konveksiyon hava akımı altında yanan tek bir ham veya torrefiye peletin kütlesi kaydedilerek gerçekleştirilmiştir. Katı ürün veriminin torrefaksiyon sıcaklığı ile azaldığı, katı ürünün sabit karbon ve üst ısı değerinin (ÜID) arttığı görüldü. Torrefiye kabukların uçucu tutuşma süreleri nem içeriklerinden etkilenmiştir. Bu etki, peletlerin daha hızlı ısıtılması nedeniyle artan sıcaklıklarla azaldı. Torrefiye peletlerin karbon yanma hızları genellikle ham peletlerinkinden daha düşüktü ve yanma sıcaklığının yanı sıra torrefaksiyon şiddeti ile azaldı.
+Yazar isimleri: ['Melek YILGIN']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/974829
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1893374

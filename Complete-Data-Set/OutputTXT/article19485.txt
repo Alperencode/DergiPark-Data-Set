@@ -1,0 +1,7 @@
+Makale Başlığı: AZ63 MAGNEZYUM ALAŞIMININ KOROZYON DİRENCİNE KRİYOJENİK İŞLEMİN ETKİSİ
+Özet: Magnezyum alaşımları hafif olmasına rağmen korozyon direncinin sınırlı olması kullanım alanlarını kısıtlamaktadır. Fakat halen çelik ve alüminyum alaşımlarından sonra endüstride en çok kullanılan metalik malzeme Mg alaşımlarıdır. Çok düşük korozyon direnci Mg alaşımlarının en büyük sorunudur. Bu yüzden bu çalışmada; AZ63 magnezyum alaşımına 24 saat ve 48 saat -80°C’de kriyojenik işlem uygulanarak numunelerin elektro kimyasal empedans spektroskopisi yöntemi (EIS) ile korozyon direncindeki değişimi incelenmiştir. Elde edilen veriler incelendiğinde, kriyojenik işlem sonrası β fazının ve ince taneli yapıların artarak korozyon direncini önemli miktarda artırmıştır.
+Yazar isimleri: ['İsmail Deniz Kağan DEMİR']
+Yayın Yılı: 31 Aralık 2019
+Dergi ismi: İleri Teknoloji Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/duzceitbd/issue/51527/664780
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/916002

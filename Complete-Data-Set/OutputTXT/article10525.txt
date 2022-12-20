@@ -1,0 +1,7 @@
+Makale Başlığı: ETİK LİDERLİK DAVRANIŞININ ÇALIŞANLARIN İŞ TATMİNİ  ÜZERİNDEKİ ETKİSİNDE ÖRGÜTSEL ADALET ALGISININ ARACILIK  ROLÜ
+Özet: Günümüzün çetin rekabet koşullarına uyum sağlayabilmek için örgütlerin sahip oldukları insan kaynağını en etkin şekilde yönlendirebilecek, etik bir çerçevede hareket eden ve örgütlerinde adaleti sağlayabilecek liderlere ihtiyaçları vardır. Bu çalışmada etik liderlik davranışının çalışanların iş tatmini üzerindeki etkisinde örgütsel adalet algısının aracılık rolü araştırılması amaçlanmıştır. İlk olarak, etik liderlik, iş tatmini ve örgütsel adalet kavramlarının tanımı yapılarak ilgili kavramsal çerçeveye yer verilmiştir. Araştırma kısmında ise, ülkemizde görev yapan 416 akademisyene, etik liderlik davranışları, iş tatmini ve örgütsel adalet algıları ile ilgili sorulardan oluşan anket uygulanmıştır. Aracılık etkisini ortaya koyabilmek için SmartPLS-3 modelinden yararlanılmıştır. Elde edilen veriler ışığında etik liderlik, iş tatmini ve örgütsel adalet arasında pozitif yönde anlamlı bir ilişki olduğu tespit edilmiştir. Bununla birlikte araştırma bulguları etik liderliğin, iş tatmini üzerindeki etkisinde örgütsel adaletin kısmi aracılık etkisinin de olduğunu da göstermektedir.
+Yazar isimleri: ['Murat AYAR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kırklareli Üniversitesi Sosyal Bilimler Meslek Yüksekokulu Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/klusbmyo/issue/70948/1040216
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2146806

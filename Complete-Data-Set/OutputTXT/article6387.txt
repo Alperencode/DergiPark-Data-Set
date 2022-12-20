@@ -1,0 +1,7 @@
+Makale Başlığı: CHARACTERIZATION OF INDUSTRIAL BONE BROTHS FORMULATED WITH VARIOUS MEAT AND NON-MEAT INGREDIENTS
+Özet: Bone broth has been utilized as food and as a favorite ingredient in many dishes for centuries; notwithstanding, due to the recent growing interest of the consumers, industrial production of bone broths has become widespread. This study evaluated physical and chemical quality features of industrial bone broths produced with beef bone, water, and seasonings (BC), including vegetable mixture (BV), beef trotter (BT), or beef trotter plus sheep head meat (BTH). BTH had the highest lipid and protein contents, and also lipid oxidation levels. The lowest free fatty acids were detected in BC, followed by BT, BV and BTH. SIMCA model provided distinct clusters with interclass distances of more than 3. Consequently, bone broths showed different quality characteristics when formulated with meat or non-meat ingredients. Specifically, FTIR combined with multivariate analysis might provide valuable information, but further studies are needed to quantify the amounts of ingredients added to the formulation.
+Yazar isimleri: ['Muge URGU OZTURK', 'Burcu ÖZTÜRK KERİMOĞLU']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Gıda
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gida/issue/73077/1153495
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2573475

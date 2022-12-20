@@ -1,0 +1,7 @@
+Makale Başlığı: AN EVALUATION ON WEAPON TARGET ASSIGNMENT PROBLEM
+Özet: 
+Yazar isimleri: ['Tolga ÖNEL', 'Elif BOZKAYA']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of Naval Sciences and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnse/issue/73602/994784
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1971904

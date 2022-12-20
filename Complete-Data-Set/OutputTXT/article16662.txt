@@ -1,0 +1,7 @@
+Makale Başlığı: COMPARISON OF FACTORS AFFECTING THE LEVEL OF LIVING IN COUNTRIES WITH DIFFERENT INCOME GROUPS / Farklı Gelir Grubuna Sahip Ülkelerde Yaşam Seviyesini Etkileyen Faktörlerin Karşılaştırılması
+Özet: The aim of this study is to determine whether the factors affecting life expectancy vary between countries with different income groups. For this purpose, the data of a total of 15 countries selected from three different income groups between the years 2000-2017 were analyzed with the Ewievs 9 Program. In the study, the effects of the ratio of public health expenditures, infant mortality rate, unemployment rate, CO2 emission and Gini coefficient variables on life expectancy were investigated. According to the collected panel results, a 1% increase in infant mortality rate and Gini coefficient decreases life expectancy by 0.142% and 0.034%, respectively, while a 1% increase in unemployment rate and public health expenditures increases life expectancy by 0.016% and 0.030%, respectively. Unlike previous studies, it is hoped that examining the unemployment rate and Gini coefficient will contribute to the literature for the countries covered in the analysis.
+Yazar isimleri: ['Şehadet BULUT', 'Saltuk AĞIRALİOĞLU']
+Yayın Yılı: 10 Ekim 2022
+Dergi ismi: Uluslararası Ekonomi İşletme ve Politika Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ueip/issue/72701/1135465
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2505924

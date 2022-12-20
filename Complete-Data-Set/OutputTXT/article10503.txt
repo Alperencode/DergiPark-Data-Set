@@ -1,0 +1,7 @@
+Makale Başlığı: BAZI FARK DENKLEMLERİNİN AYARLANMIŞ JACOBSTHAL-PADOVAN SAYILARI İLE İLİŞKİLİ TAM ÇÖZÜMLERİ
+Özet: Bu makalede, bazı rasyonel fark denklemlerinin ayarlanmış Jacobsthal-Padovan sayıları ile çözümlerinin formunu elde ediyoruz. Kesin çözümler ile ayarlanmış Jacobsthal-Padovan sayıları arasında bir ilişki buluyoruz. Literatürün dışında, çözümlerin bu iyi bilinen diziler ile ilişkili kapalı formunu üstel fonksiyonlar kullanarak veriyoruz. Ayrıca, bu fark denklemlerinin denge noktasının asimptotik davranışını inceliyoruz.
+Yazar isimleri: ['Melih GÖCEN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kırklareli Üniversitesi Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/klujes/issue/70928/1078836
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2274064

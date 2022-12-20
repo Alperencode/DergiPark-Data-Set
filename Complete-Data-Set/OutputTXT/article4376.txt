@@ -1,0 +1,7 @@
+Makale Başlığı: Production of Cast Iron Turbocharger Central Housing from Aluminum Alloy
+Özet: The goal of this research is to make an aluminum alloy center housing for a turbocharger, which is currently built of cast iron, in order to minimize weight in the car sector. The use of aluminum alloy instead of cast iron to manufacture a turbocharger's central housing is expected to result in a 60 percent weight reduction.It was determined in the investigation that A242 aluminum alloy might be utilized in place of cast iron. The turbo mid-hub, which is comprised of A242 aluminum alloy, was then heat treated and hardness tested. The finite element approach was used to examine the temperature distribution of the part.As a result of the aging experiment, the solution temperature and duration were kept constant, and the most acceptable aging temperature and time for the turbocharger cental hausing were identified as 190°C, 234 minutes, as a consequence of the aging heat treatments done at different temperatures. The hottest spots of the turbocharger central hausing built from A242 alloy and cast iron, according to the temperature distribution study, are 153°C in the aluminum alloy section and 233°C in the cast iron component.
+Yazar isimleri: ['Bahadır UYULGAN']
+Yayın Yılı: 19 Eylül 2022
+Dergi ismi: Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/deumffmd/issue/72304/1101532
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2366501

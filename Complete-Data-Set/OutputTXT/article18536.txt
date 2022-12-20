@@ -1,0 +1,7 @@
+Makale Başlığı: Hemşirelerin mevsimsel grip aşısı yaptırma ile ilgili engelleri: Kesitsel bir çalışma
+Özet: Amaç: Bu çalışmanın amacı, hemşirelerin mevsimsel grip aşısı yaptırma önündeki engellerinin belirlenmesidir. Gereç ve Yöntem: Bu web tabanlı anket, Kasım-Aralık 2021 tarihleri arasında Türkiye'de yapıldı. Kesitsel türde olan çalışmaya 390 hemşire dahil edildi. Veriler, araştırmacılar tarafından literatür doğrultusunda hazırlanan anket formu aracılığıyla çevrimiçi olarak toplandı. Verilerin değerlendirilmesinde tanımlayıcı istatistikler ve ki-kare analizi kullanıldı (p<0.05). Bulgular: Hemşirelerin toplam %69'unun (n=269) hiç influenza aşısı yaptırmadığı ve %10,3'ünün (n=40) son bir yıl içinde influenza aşısı yaptırdığı belirlendi. Aşılamanın önündeki en yaygın engel aşının etkisiz olduğunu düşünme idi (%21,6). Hemşireleri aşı olmaya teşvik eden en önemli faktör ise COVID-19 idi. İş deneyimi (yıl olarak), coğrafi bölge, eğitim düzeyi, çalışılan kurum, gelir durumu algısı, alkol tüketimi, kronik hastalık varlığı ve aşı yaptırma arasında anlamlı ilişki gözlendi (p<0.05). Sonuç: Bu çalışmanın sonuçları, hemşirelerin yarısından fazlasının grip aşısı olmadığını ve aşı yaptırmanın önünde bazı engellerin olduğunu göstermiştir.
+Yazar isimleri: ['Melike YALÇIN GÜRSOY', 'Furkan SAĞTAŞ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of Contemporary Medicine
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcm/issue/72813/1185982
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2695909

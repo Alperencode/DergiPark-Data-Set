@@ -1,0 +1,7 @@
+Makale Başlığı: İKLİM DEĞİŞİKLİĞİNİN SİGORTA SÖZLEŞMELERİNE ETKİLERİNİN FİNANSAL RAPORLAMASI VE TFRS 17 STANDARDI
+Özet: İklim değişikliğinin neden olduğu riskler fiziksel etkilerin ötesinde ekonomik, sosyal, siyasal ve halk sağlığı açısından sorunlara sebep olmaktadır. Bu risklerin finansal etkilerinden korunmak için kullanılan önemli araçlardan biri de sigortacılık faaliyetleridir. Sigortacılık sektörünün kendisi için risk ve fırsatları barındıran iklim değişikliğinin etkilerini iyi bir şekilde yönetebilmesi için doğru ve risk temelli bir raporlama sürecine ihtiyacı vardır. Bu çalışmada iklim değişikliğinin sigorta sözleşmeleri üzerindeki finansal etkisi TFRS 17 Sigorta Sözleşmeleri standardı açısından ele alınmıştır. Standardın finansal olmayan risk unsurlarını da ölçüm sürecine dahil etmesi ve benzer nitelikteki sözleşmelerin grup sözleşme olarak raporlanması iklim değişikliğinin finansal etkilerinin raporlanması açısından olumlu düzenlemelerdir. 
+Yazar isimleri: ['Sabrı Burak ARZOVA', 'Bertaç Şakir ŞAHİN']
+Yayın Yılı: 6 Eylül 2022
+Dergi ismi: Muhasebe ve Denetime Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mdbakis/issue/72490/1054961
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2180980

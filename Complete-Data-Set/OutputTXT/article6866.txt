@@ -1,0 +1,7 @@
+Makale Başlığı: Berger-type Deformed Sasaki Metric and Harmonicity on Tangent Bundles
+Özet: In this article, we present some results concerning the harmonicity on the tangent bundle equipped with the Berger-type deformed Sasaki metric. We establish necessary and sufficient conditions under which a vector field is harmonic with respect to the Berger-type deformed Sasaki metric and we construct some examples of harmonic vector fields. We also study the harmonicity of a vector field along a map between Riemannian manifolds, the target manifold being anti-paraKähler equipped with a Berger-type deformed Sasaki metric on its tangent bundle. Also, we discuss the harmonicity of the composition of the projection map of the tangent bundle of a Riemannian manifold with a map from this manifold into another Riemannian manifold, the source manifold being anti-paraKähler whose tangent bundle is endowed with a Berger-type deformed Sasaki metric. After that, we study the harmonicity of the identity map on the tangent bundle equipped with the Berger-type deformed Sasaki metric. Finally, we  introduce the φφ-unit tangent bundle and we also study the harmonicity of the projection map of the φφ-unit tangent bundle.
+Yazar isimleri: ['Abderrahım ZAGANE']
+Yayın Yılı: 24 Temmuz 2022
+Dergi ismi: Hagia Sophia Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hsjg/issue/71343/1060795
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2203834

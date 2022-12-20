@@ -1,0 +1,7 @@
+Makale Başlığı: Keyframe Extraction Using Linear Rotation Invariant Coordinates
+Özet: Keyframe extraction is a widely applied remedy for issues faced with 3D motion capture -based computer animation. In this paper, we propose a novel keyframe extraction method, where the motion is represented in linear rotation invariant coordinates and the dimensions covering 95% of the data are automatically selected using principal component analysis. Then, by K-means classification, the summarized data is clustered and a keyframe is extracted from each cluster based on cosine similarity. To validate the method, an online user study was conducted. The results of the user study show that 45% of the participants preferred the keyframes extracted using the proposed method, outperforming the alternative by 6%.
+Yazar isimleri: ['Ufuk ÇELİKCAN']
+Yayın Yılı: 20 Ekim 2022
+Dergi ismi: Sakarya Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/saufenbilder/issue/73051/1148511
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2556399

@@ -1,0 +1,7 @@
+Makale Başlığı: Pseudo-Hiperbolik Telegraf Kısmi Diferansiyel Denklemin Modifiye Çift Laplace Metodu ile Çözümü
+Özet: Bu araştırmada, başlangıç değer koşullarına bağlı pseudo-hiperbolik telegraf kısmi diferansiyel denklemi incelendi. Bu problemin tam çözümü için modifiye çift Laplace metodu verildi. Bu metot örnek problemlere uygulanarak tam çözüm elde edildi. Elde edilen bu çözüm simülasyonlarla gösterildi. Böylece modifiye çift Laplace metodunun bu problemin çözümü için elverişli ve uygun olduğu görüldü.
+Yazar isimleri: ['Mahmut MODANLI', 'Fatma ŞİMŞEK']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/929302
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1738419

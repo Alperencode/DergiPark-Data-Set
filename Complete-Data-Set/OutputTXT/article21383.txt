@@ -1,0 +1,7 @@
+Makale Başlığı: Adjustable testing setup for a single-loop optoelectronic oscillator with an  electrical bandpass filter
+Özet: In this paper we present a novel method to measure the free spectral range  FSR  and side-mode suppression  ratio  SMSR  of an optoelectronic oscillator  OEO  by adjusting the optical fiber length using an optical path selector  and signal source analyzer. We have designed a setup for a single-loop OEO operating around 5 GHz and 10 GHz that  features electrical bandpass filters for side-mode suppression. The proposed approach makes it possible to evaluate the  FSR and SMSR of OEOs with different optical fiber paths without requiring the changing of fiber spools or optical  connectors. This approach could be useful for testbeds that investigate the implementation of an OEO in a 5G radio  access network.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739692
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110700

@@ -1,0 +1,7 @@
+Makale Başlığı: Use Of GIS in Water Resources Engineering
+Özet: Geographic Information Systems (GIS) is a special type of information system in which the data source is a database of spatially distributed features to collect, store, analyze and display geographic data. GIS has gradually come to be recognized as a powerful tool for watershed management due to its ability to link physical, social and economic data. The water industry is one of the fastest growing industries worldwide and its control is only possible with the use of an information system. This study is prepared to give information about the brief history of GIS and the use of GIS in water resources engineering.
+Yazar isimleri: ['Aziz Uğur TONA', 'Vahdettin DEMİR', 'Lütfiye KUŞAK', 'Murat YAKAR']
+Yayın Yılı: 11 Haziran 2022
+Dergi ismi: Türkiye Coğrafi Bilgi Sistemleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tucbis/issue/70193/993807
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1968077

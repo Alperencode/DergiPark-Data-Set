@@ -1,0 +1,7 @@
+Makale Başlığı: The effects of mutations on pericentromeric localization of shugoshin
+Özet: Elucidating the effects of mutations on protein-protein interactions can be useful for detecting damaged biological functions like chromosome segregations, because cellular structure and functions are mainly built on concerted interactions of proteins.  Shugoshin (Sgo1) is one of those proteins that has many roles in correct chromosome segregation during mitosis and meiosis.  One of the important aspects about Sgo1, to function properly, is the fact that it has to be on the chromosomal region surrounding the centromere (the pericentromere).  However, some mutations can directly or indirectly affect the localization of Sgo1 and result in chromosomal instability which is known as the occasional gain/loss of chromosomes resulting in aneuploidy, cancer and other diseases.  Therefore, this review focuses on the mutations that affect the pericentromeric localization of Sgo1.
+Yazar isimleri: ['Begumhan YILMAZ KARDAS', 'Serap DOĞAN']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1099924
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2359576

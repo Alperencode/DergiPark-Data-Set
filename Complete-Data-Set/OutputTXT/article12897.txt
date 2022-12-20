@@ -1,0 +1,7 @@
+Makale Başlığı: PORTFOLIO OPTIMIZATION WITH GRAPHICAL LASSO AND AN APPLICATION IN BORSA ISTANBUL
+Özet: Graphical Lasso (Least absolute shrinkage and selection operator) has become a popular tool in the field of machine learning in recent years. Although it has been deployed mainly for feature selection in classification problems, it is also used for covariance matrix estimation. Mean-variance portfolio optimization relies on sample covariance matrix for the calculation of the portfolio’s risk, whereas it has been most hardly criticized. The aim of this study is to demonstrate the effect of the covariance matrix estimation by Graphical Lasso algorithm with varying L1 penalty factors. Mean-variance portfolio optimization using empirical and estimated covariance matrices are applied to BIST 30 index and the results are compared.
+Yazar isimleri: ['Erhan USTAOĞLU']
+Yayın Yılı: 26 Temmuz 2022
+Dergi ismi: Öneri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/maruoneri/issue/71406/1073352
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2252632

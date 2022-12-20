@@ -1,0 +1,7 @@
+Makale Başlığı: Boşanma İle Kadın İşgücü, Tasarruf ve Erkek İşsizliği İlişkisi: Türkiye Bulguları
+Özet: Bu çalışma, 1990-2020 yıllık verileri kullanılarak erkek işsizlik oranı, kadınların istihdama katılım oranı ve tasarrufun boşanma oranlarına etkisi arasındaki ilişkiyi incelemektedir. Serilere birim kök testleri uygulanmış, sınır testi yapılmış ve uzun dönemli ARDL eşbütünleşme testi yardımıyla katsayılar hesaplanmıştır. Araştırmanın sonuçlarına göre, kadınların işgücüne katılımındaki %1'lik bir artış boşanmayı %0,07 oranında azaltırken, tasarruftaki %1'lik bir artış boşanmayı %0,1 oranında azaltmaktadır. Erkek işsizliğindeki %1'lik artış ise boşanmaları %0.017 arttırmaktadır. İstihdam piyasası ve işsizlik ekonomik bir paradigma olarak değerlendirilse de sosyal maliyetleri açısından değerlendirildiğinde psikolojik, sosyolojik ve kültürel olarak da önemli bir yer tutmaktadır. Bu yönüyle işsizlik, tasarruf ve kadının istihdam piyasasındaki varlığı hanenin refahını her açıdan belirleyen önemli unsurlardır.
+Yazar isimleri: ['Kubilay Çağrı YILMAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: JOEEP: Journal of Emerging Economies and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joeep/issue/66260/1027199
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2094958

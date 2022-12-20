@@ -1,0 +1,7 @@
+Makale Başlığı: Solvability and maximal regularity results for a differential equation with diffusion coefficient
+Özet: We consider  a second-order differential equation with  rapidly growing intermediate coefficients. We obtain a  solvability result in the cases that the diffusion coefficient  of equation is unbounded or it tends to zero at the infinity. Under additional conditions, we prove the $L_p - $ maximal regularity  estimate for the solution of this equation.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783641
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

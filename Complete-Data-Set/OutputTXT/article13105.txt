@@ -1,0 +1,7 @@
+Makale Başlığı: Hot corrosion behavior of CoCrFeNiAl HEA produced by powder metallurgy in NaCl molten salt
+Özet: The present work reports the hot corrosion behavior of equimolar CoCrFeNiAl high entropy alloy (HEA) produced by powder metallurgy. The hot corrosion behavior of the HEA was characterized in severe conditions involving NaCl molten salt environment and cyclic mode. The mass gain of CoCrFeNiAl HEA after being hot corroded at 850°C for 120 h was about 2.2 mg/cm2. After 120 h of hot corrosion at 850°C, XRD analysis result revealed that the constituent phases of the scale formed on CoCrFeNiAl HEA were Al2O3, Fe2O3, Cr2O3, NiO and NiCr2O4. The corrosion scale mainly consisted of Cr2O3, and underneath this layer was dominated by a discontinuous thin layer of Al2O3. The role of NaCl on the hot corrosion mechanism was also discussed.
+Yazar isimleri: ['Yiğit GARİP']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/948461
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1809007

@@ -1,0 +1,7 @@
+Makale Başlığı: Firmaya Özgü Faktörlerin İşletmelerin Yatırım Finansmanı Kararları Üzerindeki Etkilerinin İncelenmesi
+Özet: Amaç - Bu çalışmada firma büyüklüğünün, firma büyüme fırsatlarının ve firma kârlılığının işletmelerin yatırım finansmanı kararlarını nasıl etkilediği dinamik çoklu denklem sistemi yöntemi ile incelenmiştir.Yöntem - Çalışmada 1994-2019 yılları arasında 76 farklı ülkede faaliyet gösteren 22,694 farklı firmanın yatırım finansmanı kararları, görünüşte ilişkisiz regresyon yöntemi ile incelenmiştir.Bulgular –Elde edilen bulgulara göre: (1) Firma büyüklüğü arttıkça maddi duran varlık ve çalışma sermayesi yatırımlarının finansmanında uzun vadeli finansal borç kullanımı artmaktadır. (2) Firma kârlılığı arttıkça maddi duran varlık yatırımlarının finansmanında uzun vadeli finansal borç ve nakit rezervi kullanımı artmakta ve diğer taraftan hisse senedi kullanımı ise azalmaktadır. (3) Büyüme olanakları yüksek olan firmalar ise maddi duran varlık yatırımlarının finansmanında hisse senedi ihraçlarını azaltmakta ve uzun vadeli kredi kullanımlarını ise artırmaktadırlar.Sonuç –İşletmelerin sahip oldukları özelliklere göre yatırım finansmanı kararları değişmektedir.
+Yazar isimleri: ['İlhan ÇAM', 'Gökhan ÖZER']
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Sosyal Ekonomik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/susead/issue/73047/1065035
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2220634

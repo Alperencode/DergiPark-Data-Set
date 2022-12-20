@@ -1,0 +1,7 @@
+Makale Başlığı: User Acceptance of Digital Turkish Lira (DTL): Investigation in the Framework of Technology Acceptance Model (TAM) and Planned Behaviour Theory (PBT)
+Özet: The increase in technological devices has made the digitalisation of many products and services compulsory. One of the essential results of this digitalisation is the Digital Turkish Lira (DTL). The current study examines the factors affecting the acceptance and intention to use DTL. In this context, the acceptance of use by users has been tried to be explained by structural equation modelling based on TAM and TPB in the literature. The proposed research model was analysed with the Smart PLS 3 package program. When the hypothesis results are examined, firstly, the variables within the scope of TPB have a positive effect on the intention to use. In contrast, the other variables positively impact the intention to use over the ease of use within the scope of TAM. It has been determined that users find DTL more reliable than cryptocurrency /digital money. The relationship between DTL and the Central Bank of the Republic of Turkey can be shown as the reason for this.
+Yazar isimleri: ['Yavuz TORAMAN']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1054103
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2177747

@@ -1,0 +1,7 @@
+Makale Başlığı: EFFECTS OF CORRUPTION ON ECONOMIC GROWTH UNDER MACROECONOMIC INSTABILITIES
+Özet: This study examined impact of macroeconomic instability and corruption on economic performance in developing countries. For this purpose, long-term relationship between 1995-2019 was examined using Kao (1999) and Pedroni (1999, 2004) cointegration tests. Results, macroeconomic instability and corruption have affected economic performance in long run. Flexibility of long-term relationship between variables was analyzed using PDOLS, FMOLS and DOLSMG estimators. The results showed that macroeconomic instabilities negatively and significantly affect economic growth and FDI, which represent economic performance. As macroeconomic instability increases, economic revival will be negatively affected by this, while foreign capital investment in country will decrease. Consequently, implementation of policies that will reduce macroeconomic instability and uncertainties will increase economic recovery and encourage foreign capital investments in host countries. Impact of corruption on economic growth and FDI was found to be positive. Decreasing corruption in research countries favors economic growth and facilitates foreign investment increases.
+Yazar isimleri: ['Melahat BATU AĞIRKAYA', 'Hikmet AKYOL']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Kafkas Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kauiibf/issue/70698/962566
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1860207

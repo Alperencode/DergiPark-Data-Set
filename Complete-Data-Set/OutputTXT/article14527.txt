@@ -1,0 +1,7 @@
+Makale Başlığı: 360 Derece Performans Değerlendirme Sistemi Hakkında Kavramsal Bir İnceleme
+Özet: Bu çalışmada her işletme için önemli bir yer teşkil eden performans, performans ölçme ve değerlendirme kavramları incelenmiştir. Öncelikle Web of Science veri tabanında bir literatür taraması yapılmış, ardından performans, performans ölçümü ve değerlendirmesi kavramları teorik olarak incelenmiş; performans değerlendirme yaklaşımları ele alınmıştır. Literatür taraması sonucunda işletme literatüründe çok fazla yer bulmadığı tespit edilen, performans değerlendirme yöntemleri içinde modern yöntemlerden biri olan 360 derece performans değerlendirme sistemi ayrıntılı olarak incelenmiş ve bu konu hakkında genel bir çerçeve oluşturulmaya çalışılmıştır. Sonuç olarak; 360 derece performans değerlendirme sisteminin performans sorunlarına tek başına ve doğrudan bir çözüm getiremeyeceği saptanmıştır. Ancak bu sistem özenle hazırlanıp doğru bir şekilde uygulandığında klasik performans değerlendirme yöntemlerinin neden olduğu, işletmelerin bireyi mekanik bir üretim materyali gibi görme eğiliminden uzaklaştırarak, “insan” olarak görme eğilimine yönelttiği bir gerçektir.
+Yazar isimleri: ['Gül EKŞİ']
+Yayın Yılı: 20 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Vizyoner Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/vizyoner/issue/73443/1080573
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2280867

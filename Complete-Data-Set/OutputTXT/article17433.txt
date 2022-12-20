@@ -1,0 +1,7 @@
+Makale Başlığı: REKABET STRATEJİLERİNİN ÖZEL HASTANE PERFOMANSINA ETKİSİ
+Özet: Amaç: Bu çalışmada, genellikle kâr odaklı sağlık hizmet sunumu sağlayan özel hastanelerin rekabet yöntemleri ile hizmet kalitesi ve finansal başarısı arasındaki ilişkinin ortaya çıkarılması amaçlanmış, bu amaçla Porter’ın literatüre kazandırdığı jenerik rekabet stratejilerinin özel hastanelerin kalite performansı ve finansal performansı üzerindeki etkileri araştırılmıştır.Yöntem: Araştırma Ankara ilinde faaliyet gösteren özel hastanelerin tamamında gerçekleştirilmiş olup bu hastanelerin yöneticilerinden anket yöntemi ile elde edilen veriler Yapısal Eşitlik Modeli (YEM) ile değerlendirilmiştir.Bulgular: Araştırma sonucunda özel hastanelerin uyguladığı jenerik rekabet stratejilerinin hastanelerin kalite performansı üzerinde doğrudan ve pozitif yönde etkisi belirlenmiştir. Ayrıca özel hastane kalite performansı finansal performansa doğrudan ve pozitif yönde etki etmektedir.Özgünlük: Bu araştırma toplam maliyet liderliği, odaklanma ve farklılaştırma olmak üzere jenerik rekabet stratejilerinin özel hastane performansına olan doğrudan etkisini göstermesi ve bu etkinin derecesinin belirlenmesi açısından önemlidir. İlaveten iki farklı performans ölçütünün birbirleri üzerindeki etkisi ortaya çıkarılmıştır.
+Yazar isimleri: ['Emine KURTLUK', 'Erkut ALTINDAĞ']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Verimlilik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/verimlilik/issue/73178/1048419
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2159430

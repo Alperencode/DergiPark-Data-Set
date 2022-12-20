@@ -1,0 +1,7 @@
+Makale Başlığı: 2,6-bis-benzimidazolpiridin Esaslı Çinko(II) Kompleksinin Sentezi, Karakterizasyonu ve Elektrokimyasal Özelliklerinin İncelenmesi
+Özet: Bu çalışmada, üç-dişli bis-benzimidazol piridin türevi ligant (L) ve bu ligantın nötr Zn(II) kompleksi [ZnLCl2] sentezlendi. Elde edilen bu yeni koordinasyon bileşiğinin yapısı aydınlatılarak, elektrokimyasal özellikleri araştırıldı. Moleküllerin yapısal karakterizasyonunda çeşitli spektroskopik yöntemler (FT-IR, 1H NMR, 13C NMR, MALDI-TOF-MS, UV-Vis gibi) kullanıldı. Elektrokimyasal özellikleri ise DMF içerisinde dönüşümlü voltametri (CV) tekniği ve kare dalga voltametrisi kullanılarak araştırıldı. Tarama hızı ve pik akımı arasındaki ilişki kullanılarak kompleksin elektrokimyasal mekanizması aydınlatılmış, kompleksin yarı-tersinir ve difüzyon kontrollü bir davranış sergilediği ortaya konulmuştur. Bu nedenle, kompleksin özellikle de redoks akışlı piller, güneş pilleri ve elektrokataliz gibi alanlarda uygulanabileceği düşünülmektedir.
+Yazar isimleri: ['Fatih PEKDEMİR']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/1023528
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2081053

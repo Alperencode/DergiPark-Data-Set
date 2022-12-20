@@ -1,0 +1,7 @@
+Makale Başlığı: Some Differential Inequalities for Boundary Value Problems of Fractional Integro-Differential Equations
+Özet: We  consider fractional integro-differential equations with boundary conditions and prove some differential inequalities related to given problem with the aid of technique of upper and lower solutions. We require these theorems because they serve as the basis for improvement of monotone iterative technique to such type of  differential equations of boundary value problems.
+Yazar isimleri: ['Hadi KUTLAY', 'Ali YAKAR']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1175212
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2650524

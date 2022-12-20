@@ -1,0 +1,7 @@
+Makale Başlığı: Yapay Kalp Cihazlarının Gelişimi
+Özet: Her yıl artan sayıda insan kalp hastalığına yenik düşmekte buna karşın nakil için uygun kalp sayısı azalmaktadır. ESC(European Society of Cardiology)’nin 2021’de yayınladığı kılavuza göre; kalp yetmezliğinin insidansı tüm yaş gruplarında 3/1000, erişkinlerde 5/1000 olduğu belirtilmiştir. Araştırmacılar uzun süredir implante edilebilir yapay kalpler üzerine çalışmaktadır. Bu alandaki çalışmalar biyolojik kalbin pompalama işlevini taklit eden cihazların üretimiyle başlamıştır. Ancak büyük boyut, sınırlı dayanım ve kısa süreli çalışma ömürleri olması sebebiyle kullanıcıların yaşam kalitesini olumsuz yönde etkilemiştir. Sonraki yıllarda kalbin veya damarların içine yerleştirilen ve kan pompalama işlemini buradan yapan cihazlar olduğu gibi kalbin yerini alan cihazlar da üretilmiştir. Bu çalışmada yapay kalp cihazlarının geçmişinden bahsedilmiş, sınıflandırma ve incelemesi yapılmıştır.
+Yazar isimleri: ['Seyit Hamza ÇAVGA']
+Yayın Yılı: 13 Eylül 2022
+Dergi ismi: Research Journal of Biomedical and Biotechnology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rjbb/issue/72557/1159084
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2584571

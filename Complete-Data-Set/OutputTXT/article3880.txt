@@ -1,0 +1,7 @@
+Makale Başlığı: Detection of Insulator Faults in Catenary Systems with Deep Learning
+Özet: Insulators are the most important components of catenary systems in electrified railway lines. Fractures or burns in insulators cause interruptions in transportation. These interruptions also prevent safe operation, especially on high-speed rail lines. Detecting faults in insulators at an early stage will enable to intervene in catenary systems at the most appropriate time and prevent insulator-related accidents. In this article, a deep learning-based method is proposed to classify insulators in catenary systems as faulty or intact. A data set containing 1100 isolator images was used in the study. The images in this dataset are trained and tested with the ResNet34 deep learning architecture. With the proposed architecture, faults in isolators are classified with 95,7% accuracy, 99% precision and 96,6% recall values. These values show that the performed study is a reliable method for fault detection in isolators in catenary systems.
+Yazar isimleri: ['Gülşah KARADUMAN', 'Erhan AKIN', 'Berkan BİNAY', 'Miraç DİLEKLİ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Demiryolu Mühendisliği
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/demiryolu/issue/69368/1114665
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2419659

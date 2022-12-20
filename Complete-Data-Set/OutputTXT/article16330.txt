@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’deki Fasulye (Phaseolus vulgaris L.) Çeşitlerinin Köşeli Yaprak Lekesi Hastalığı (Pseudocercospora griseola)’na Karşı Dayanıklılık Kaynaklarının Araştırılması
+Özet: Bu çalışmada, Türkiye'de yaygın olarak yetiştiriciliği yapılan bazı tescilli fasulye (Phaseolus vulgaris L.) çeşitlerinin köşeli yaprak lekesi hastalığı (Pseudocercospora griseola)’na karşı dayanıklılık kaynaklarının SCAR markörler (SN02, SH13 ve g2303) aracılığıyla incelenmesi amaçlanmıştır. Çalışmalar, 2020-2021 yıllarında, Ankara Üniversitesi ve Bolu Abant İzzet Baysal Üniversitesi Bitki Koruma Bölüm laboratuvarlarında gerçekleştirilmiştir. Çalışma sonucunda elde edilen bulgular, çeşitler arasında en yaygın genin Phg-2 olduğunu, bunu sırasıyla Phg-ON ve Phg-1 genlerinin izlediğini göstermiştir. Farklı gen kombinasyonları bakımından fasulye çeşitleri incelendiğinde; 18 çeşidin 1 gen, 41 çeşidin 2 gen, 5 çeşidin (Yalova-17, Boncuk, Aslan, Helda, Akman-98) ise her üç dayanıklılık genine sahip olduğu tespit edilmiştir. Tespit edilen dayanıklılık genlerinin ve kombine dayanıklılığa sahip fasulye çeşitlerinin köşeli yaprak lekesi ile ilgili yürütülecek ıslah çalışmalarına katkı sağlayabileceği öngörülmektedir.
+Yazar isimleri: ['Gülsüm PALACIOĞLU', 'Göksel ÖZER', 'Mehmet Zahit YEKEN', 'Emel ÖREN', 'Vahdettin ÇİFTÇİ', 'Harun BAYRAKTAR']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Türkiye Tarımsal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tutad/issue/73473/1126620
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2469243

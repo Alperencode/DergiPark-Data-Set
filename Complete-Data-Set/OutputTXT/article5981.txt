@@ -1,0 +1,7 @@
+Makale Başlığı: G20 ülkelerinde yolsuzluğun belirleyicileri: Panel sıralı logit yaklaşımı
+Özet: Yolsuzluk, kamu politikalarının doğru uygulanması ve başarısı açısından önemli etkilere sahiptir. Bu çalışmanın amacı G20 ülkelerinde yolsuzluk olasılığını etkileyen faktörleri belirlemektir. Çalışma, Baetschmann, Staub ve Winkelmann (2015) tarafından geliştirilen panel veri sabit etkili sıralı logit modelini kullanarak G20 ülkelerinde 2002-2020 dönemi itibariyle ekonomik ve ekonomik olmayan yolsuzluk belirleyicilerini analiz etmektedir. Yolsuzluğu temsil etmek üzere çalışmada hem yolsuzluk algı endeksi hem de Kaufmann, Kraay ve Mastruzzi (2008) tarafından geliştirilen yolsuzluk endeksi kullanılmıştır. Çalışmanın bulgularına göre kişi başına düşen GSYİH, doğrudan yabancı yatırım, işgücüne katılım oranı, hukukun üstünlüğü ve hükümetin etkinliğindeki artışlar G20 ülkelerinde yolsuzluk olasılığını önemli ölçüde azaltmaktadır. Bunun yanı sıra G20 ülkelerinde enflasyon oranı ve işsizlik oranındaki artışlar yolsuzluk olasılığını artırmaktadır.
+Yazar isimleri: ['Nebiye YAMAK', 'Zehra ABDİOĞLU', 'Sinem DOĞAN']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Gazi İktisat ve İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gjeb/issue/73274/1102827
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2371690

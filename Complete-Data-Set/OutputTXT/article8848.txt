@@ -1,0 +1,7 @@
+Makale Başlığı: Computer Programming Students’ Learning Motivation in Programming Courses
+Özet: This study aimed to explore vocational school computer programming students’ motivations to learn programming. The study used a survey research design and surveyed 165 first-year and second-year students studying computer programming. The data were collected using the “Learning Motivation in Computer Programming Courses Scale” consisting of nineteen items. The data were analysed using the frequency, mean, and standard deviation values. The independent-samples t-test was used to determine the difference between groups. The analysis results showed that computer programming students had a good level of learning motivation in computer programming courses.
+Yazar isimleri: ['Mesut ÖZONUR']
+Yayın Yılı: 22 Haziran 2022
+Dergi ismi: Journal of Advanced Education Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejaes/issue/70430/1123170
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2455029

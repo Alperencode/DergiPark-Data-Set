@@ -1,0 +1,7 @@
+Makale Başlığı: Time Span does Matter for Offshore Wind Plant Allocation with Modern Portfolio Theory
+Özet: Allocating wind farms across different locations may reduce the problematic intermittency of wind. The objective of this research was to analyze the optimal allocation of offshore wind farms in the U.S. East Coast through Modern Portfolio Theory (MPT). The research was conducted with 25.934 secondary observations of offshore wind energy produced by 11 hypothetical offshore wind farms. We calculated six minimum variance portfolios, each referring to a distinct time period. Four rebalancing strategies were settled in order to assess the performance of the portfolios we estimated. The results indicate that MPT can be used to calculate the diversification of offshore wind farms locations, which may reduce the individual variability of hourly wind power changes.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351238
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361779

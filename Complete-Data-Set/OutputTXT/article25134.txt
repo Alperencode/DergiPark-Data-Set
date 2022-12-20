@@ -1,0 +1,7 @@
+Makale Başlığı: Modeling of Wood Bonding Strength Based on Soaking Temperature and Soaking Time by means of Artificial Neural Networks
+Özet: 
+Yazar isimleri: ['Sebahattin TİRYAKİ', 'Selahattin BARDAK', 'Aytaç AYDIN']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/270388
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/236955

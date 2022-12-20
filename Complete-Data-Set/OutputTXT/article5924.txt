@@ -1,0 +1,7 @@
+Makale Başlığı: A Note on Transitive Action of the Extended Modular Group on Rational Numbers
+Özet: The extended modular group $\overline{\Gamma}$ is isomorphic to the amalgamated free product of two dihedral groups $D_2$ and $D_3$ with amalgamation $\mathbb{Z}_2$. This group acts on rational numbers transitively. In this study, we obtain elements in the extended modular group that are mappings between given two rationals. Also, we express these elements as a word in generators. We use interesting relations between continued fractions and the Farey graph.
+Yazar isimleri: ['Bilal DEMİR']
+Yayın Yılı: 28 Temmuz 2022
+Dergi ismi: Fundamentals of Contemporary Mathematical Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fcmathsci/issue/71376/1082199
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2287311

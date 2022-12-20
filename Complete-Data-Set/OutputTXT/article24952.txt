@@ -1,0 +1,7 @@
+Makale Başlığı: Profit Maximizing Probabilistic Inventory Model under Trade Credit
+Özet: In the classical EOQ models it has been considered that demand is deterministic but in many practical situations it is not possible to have a fixed demand. This study discusses the more realistic overview of demand, as in realistic situation  having dependent demand is difficult; it is possible only if you’re supplying sub-assembly parts on contract basis. Therefore, this study considers stochastic demand. Here maximum demand is dependent on average yearly demand and prescribed demand function .Thus initial inventory level is taken to be maximum demand derived with the help of demand function and average demand.  Demand pattern considered in this model was proposed by Naddor (1966) in his book “Inventory Systems” with various realistic factors. The realistic factors considered are selling price is always greater than cost price, permissible delay in payments and even the optimality of profit equation has been checked. This study proves by optimality conditions that the profit maximization equations derived in this model help to maximize profit.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353569
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364600

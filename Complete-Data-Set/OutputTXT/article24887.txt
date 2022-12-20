@@ -1,0 +1,7 @@
+Makale Başlığı: CHALLENGES OF ACCEPTANCE AND USAGE OF A LEARNING MANAGEMENT SYSTEM AMONGST ACADEMICS
+Özet: Universities across the globe have invested heavily in a Learning Management System (LMS); however, the adoption and usage is hindered by a number of factors. Recently, a University of Technology (UoT) in KwaZulu-Natal embarked on a major re-circulation drive to embrace student-centred learning. However, this process was stalled by slow maturity use of LMS. Therefore, this paper evaluates the acceptance and usage of an approved LMS amongst academics at a UoT. An e-survey in which 111 academics participated, all having teaching designations, was superseded by semi-structured interviews.  A significant finding of the technology acceptance model (TAM) was impugned, in reflecting the gap between low actual usage and high acceptance. Assessments seemed to be given lowest priority, with aspects such as communication and course management receiving highest priority. Little utilized were collaboration tools. Such include blogs, wikis, and a discussion forum. Dedicated training on features of the learning management system, covering its educationally progressive aspects, is of the essence. TAM may require closer scrutiny to account for successful LMS usage at universities.
+Yazar isimleri: []
+Yayın Yılı: 30 Haziran 2020
+Dergi ismi: International Journal of eBusiness and eGovernment Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijebeg/issue/51621/669864
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/917491

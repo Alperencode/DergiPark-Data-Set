@@ -1,0 +1,7 @@
+Makale Başlığı: Advanced Tree-Seed Algorithm for Large Sized JSP Problems
+Özet: Globalizing economies force manufacturing companies to develop themselves and take new measures. Planning the production process is indispensable and the Job shop scheduling (JSP) problem has a great role in planning the production accurately. In JSP, jobs have to run in the correct order on the appropriate machines, and planning to be completed in the shortest possible time is a combinatorial hard optimization problem. Meta-heuristic algorithms are frequently used in solving JSP problems, which is an NP-Hard optimization problems. In this study, the exploration and exploitation abilities in the Tree-Seed Algorithm (TSA) are enhanced with the swap, symmetry, and shift mutation operators. The proposed new TSA (Advanced TSA-ATSA) algorithm is compared with well-known meta-heuristic algorithms in the literature in large-size JSP problems. According to the results obtained from the experimental studies, the proposed ATSA has shown promising performance.
+Yazar isimleri: ['Mehmet Akif ŞAHMAN']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Gazi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gmbd/issue/72442/1080145
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2279155

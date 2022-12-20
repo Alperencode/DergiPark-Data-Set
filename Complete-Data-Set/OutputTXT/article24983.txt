@@ -1,0 +1,7 @@
+Makale Başlığı: Assessing the Effectiveness of the Monetary Policy Instrument during the Inflation Targeting Period in South Africa
+Özet: Since the adoption of inflation rate targeting policy, there has been a great concern on the effectiveness of the monetary policy instrument to curb inflation in South Africa. The effectiveness of monetary policy instruments to control the level of inflation has been widely criticised not only in the South African context but also internationally. This paper assesses how inflation react to monetary policy shocks in South Africa during the inflation targeting period by making use of the structural vector error correction model (SVECM).  The results of the impulse response function obtained from the SVECM show that, on average, contractionary monetary policy that intends to curb inflationary pressure has been impotent in South Africa. However, the contractionary monetary policy shocks managed to reduce output. The paper suggests that it is time a dual target, inflation and output, be considered in South Africa to avoid the harm caused on output growth from monetary policy actions related to the constraint of inflation targeting.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353620
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364661

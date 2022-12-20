@@ -1,0 +1,7 @@
+Makale Başlığı: Modelling Distribution of Asia Minor Spiny Mouse (Acomys Cilicicus) Using Maximum Entropy
+Özet: Acomys cilicicus is a narrow range, endemic spiny mouse species of Turkey. Some issues have been uncertain about its distribution and status. In the study, we, therefore, aimed to identify species' spatial distribution and understand the impact of environmental factors on species. We used maximum entropy modeling to fulfill these purposes. The results showed that the distribution of the species is restricted in the coastal part of the study area, the human population is one of the severe threats for the species distribution, and the fluctuations of climatic conditions may adversely affect the species distribution. We hope that these outputs can be valuable for the species' conservation efforts and serve as a guide for both Acomys cilicicus and other narrowly distributed species
+Yazar isimleri: ['Banu KAYA ÖZDEMİREL', 'Ortaç ÇETİNTAŞ', 'Mustafa SÖZEN', 'Muhsin ÇOĞAL', 'Ferhat MATUR']
+Yayın Yılı: 8 Eylül 2022
+Dergi ismi: International Journal of Environment and Geoinformatics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijegeo/issue/68801/979699
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1912435

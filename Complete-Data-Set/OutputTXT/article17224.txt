@@ -1,0 +1,7 @@
+Makale Başlığı: Numerical Stability of Runge-Kutta Methods for Differential Equations with Piecewise Constant Arguments with Matrix Coefficients
+Özet: The paper discusses the analytical stability and numerical stability of differential equations with piecewise constant arguments with matrix coefficients. Firstly, the Runge-Kutta method is applied to the equation and the recurrence relationship of the numerical solution of the equation is obtained. Secondly, it is proved that the Runge-Kutta method can preserve the convergence order. Thirdly, the stability conditions of the numerical solution under different matrix coefficients are given by Pad$\acute{e}$ approximation and order star theory. Finally, the conclusions are verified by several numerical experiments.
+Yazar isimleri: ['Hefan YİN', 'Qi WANG']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Universal Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ujma/issue/72812/1105072
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2380555

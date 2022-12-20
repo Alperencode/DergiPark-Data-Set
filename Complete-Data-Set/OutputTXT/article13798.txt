@@ -1,0 +1,7 @@
+Makale Başlığı: DENTOMAKSİLLOFASİYAL RADYOLOJİDE YAPAY ZEKA UYGULAMALARININ ROLÜ: BÖLÜM 1
+Özet: Günümüzde bilgisayar destekli görüntüleme teknikleri ve görüntü analiz yöntemlerinin kullanımının hızlanması; konvansiyonel hasta tedavi yaklaşımını da değiştirmiştir. Gerek medikal gerekse dental tanı ve tedavi planlamasında yararlanılan yapay zeka uygulamaları; hayatımızın her alanında olduğu gibi dental alanda da devrim yaratmıştır. İnsan zekasını taklit eden ve topladıkları bilgilere göre yinelemeli olarak kendilerini geliştirebilen sistemler anlamına gelen yapay zeka; hız artışı, yüksek başarı, düşük maliyet, ulaşılabilirlik ve işlerde optimizasyon gibi birçok avantajı ile günümüzde sağlık alanında giderek daha sıklıkla kullanılır hale gelmektedir. Bundan en çok etkilenecek disiplinlerin başında temel tanıya destek olan ve diğer tüm disiplinlere tanısal açıdan destek veren radyolojidir. Bu derlemenin amacı; dişhekimliğinin farklı disiplinlerinde radyolojik verilerden yararlanılarak gerçekleştirilen yapay zeka uygulamalarının tanı ve tedavi aşamalarındaki avantaj, dezavantaj ve sınırlıklarını tartışmaktır.
+Yazar isimleri: ['Elif ŞENER', 'Güniz BAKSİ ŞEN']
+Yayın Yılı: 24 Ağustos 2022
+Dergi ismi: Selcuk Dental Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/selcukdentj/issue/72290/853884
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1488649

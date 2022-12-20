@@ -1,0 +1,7 @@
+Makale Başlığı: Development and Validation of a Rapid HPLC-DAD Method for Determination of Favipiravir in Pharmaceutical Formulation
+Özet: Objective: The aim of this work was to develop and validate a rapid and simple high-performance liquid chromatography method with a diode- array detector (HPLC-DAD) for determination of favipiravir in bulk and tablet formulations.Methods: The chromatographic analysis was performed at 30 °C with a Poroshell 120EC-C18 column (4.6 x 50 mm, 2.7 µm). The mobile phase was a mixture of 0.1% formic acid in water and 0.1% formic acid in acetonitrile (90:10, v/v). The run time was 5 min at a flow rate of 0.5 mL/min.Results: The proposed method was successfully validated in terms of precision, accuracy, linearity, robustness, limits of detection (LOD) and quantification (LOQ) parameters. The calibration plot was linear over a concentration range of 10-100 µg/mL. The LOD and LOQ values were found to be 0.58 µg/mL and 2.03 µg/mL, respectively. The average recovery values were found to vary from 99.45 percent to 104.29 percent.Conclusion: As a result, it was concluded that the developed method can be used successfully in the determination of favipiravir in pharmaceutical preparations.
+Yazar isimleri: ['Duygu TAŞKIN']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Clinical and Experimental Health Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/clinexphealthsci/issue/72731/992869
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1964081

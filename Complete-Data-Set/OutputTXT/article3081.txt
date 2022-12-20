@@ -1,0 +1,7 @@
+Makale Başlığı: Statistical Analysis of Lamb Survival during the Rearing Period with the Use of Classification Trees and Logistic Regressions
+Özet: 
+Yazar isimleri: ['Dariusz PİWCZYŃSKİ', 'Julia PİWCZYŃSKA', 'Magdalena KOLENDA']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Black Sea Journal of Agriculture
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsagriculture/issue/67889/1133500
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2497827

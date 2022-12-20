@@ -1,0 +1,7 @@
+Makale Başlığı: Energy Consumption, Finance and Growth: The Role of Urbanization and Industrialization in South Africa
+Özet: The paper investigates the relationship between energy consumption, financial development (FD), economic growth, industrialization and urbanization in the case of South Africa for the period of 1970-2014. The study employs Johansen co-integration test and vector error correction model with granger causality test as estimation techniques. The results confirm that there is a long-run equilibrium relationship between these variables in case of South Africa. More so, urbanization, FD, and industrialization are positively correlated to the energy consumption in the long run. The results obtained also shows the long run bi-directional causality between industrialization and energy utilization, FD and energy consumption and also FD and industrialization.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351248
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361789

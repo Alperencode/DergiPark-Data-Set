@@ -1,0 +1,7 @@
+Makale Başlığı: Path Analysis for Feed Characteristics on Metabolizable Energy of Naturel Pasture Hay
+Özet: The aim of this study is to examine the direct, indirect and total effects of nutrient content properties on metabolizable energy contents of natural pasture feeds using path analysis. For this aim, the relationship between metabolizable energy and eight feed nutrient characteristics such as acid detergent lignin (ADL), acid detergent fiber (ADF), neutral detergent fiber (NDF), crude fiber, crude protein, ether extract, ash, and the nitrogen-free extract (NFE) was used for 48 grassland plants samples obtained from natural pastures of Ankara. According to the results of path analysis, crude fiber, acid detergent lignin, crude protein, ash, and nitrogen-free extract sustained the most significant effects on metabolizable energy. Also, acid detergent lignin and neutral detergent fiber were negative and significant effect on metabolizable energy. Last of all, to predict metabolizable energy, acid detergent lignin and neutral detergent fiber can be proposed that as prediction criteria.
+Yazar isimleri: ['Cem TIRINK', 'Zehra SARIÇİÇEK', 'Hasan ÖNDER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Anadolu Tarım Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/omuanajas/issue/70533/980656
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1916148

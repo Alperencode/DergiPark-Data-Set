@@ -1,0 +1,7 @@
+Makale Başlığı: Eu katkılı NiO Nanoparçacıkların Sol-Jel Yöntemi ile Sentezlenmesi, Yapısal ve Morfolojik Karakterizasyonu
+Özet: Bu çalışmada, saf nikel oksit (NiO) ve Evropiyum (Eu) katkılı NiO nanoparçacıklar sol-jel yöntemi kullanılarak sentezlendi. Ni kaynağı olarak Nikel (II) asetat tetrahidrat ve Eu kaynağı olarak ise Evropiyum klorür kullanıldı. Sentezleme işlemi 80 ℃’de 3 saat sürede gerçekleştirildi. Sentezlenen nanoparçacıklar 450 ℃’de 1 saat süreyle tavlandı. Nanoparçacıkları oluşturan bileşikler X-ışını kırınımı (XRD) analiz edildi. Nanoparçacıkların morfolojileri alan emisyon taramalı elektron mikroskobu (FE-SEM) ile araştırıldı. Nanoparçacıkları oluşturan elementler ise enerji dağıtıcı X-ışını spektroskopisi (EDX) ile belirlendi. Sentezlenen parçacıkların nano boyutta olduğu ve Eu katkısı ile morfolojilerin değiştiği görüldü. Eu katkısı arttıkça kafes parametreleri ve birim hücre hacimlerinin arttığı tespit edildi. Eu katkısı arttıkça kristalite boyutlarında azalma meydana gelmiştir. Yapısal ve morfolojik karakterizasyonlar neticesinde Eu katkısının başarıyla gerçekleştiği görüldü. Üretilen saf ve Eu katkılı NiO nanoparçacıkların yarıiletken endüstrisinde nanomalzeme olarak kullanım alanı bulabileceği sonucuna varıldı.
+Yazar isimleri: ['Ezgi GÜRGENÇ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1117256
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2430281

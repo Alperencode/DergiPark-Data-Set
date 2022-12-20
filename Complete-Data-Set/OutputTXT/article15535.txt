@@ -1,0 +1,7 @@
+Makale Başlığı: Worldwide Crime Map Applications and Usage Tendency
+Özet: In the dynamic structure of the 21st century, the fight against crime is of increasing interest to the whole society. Law enforcement agencies use crime maps in order to analyze all components of the crime and see them in a single window to develop various scientific strategies. Crime maps that have been used actively for the last 70 years have been given different capabilities with the recent developments in geographic information systems (GIS). In this way, effective crime analyzes can be made, crime prevention tactics and strategies can be developed. Crime information systems, which make it easier to see the events at the desired scale and make quick decisions, are actively used by every law enforcement unit. In some developed countries, crime maps are available to citizens. In our country, a study based on the general framework of a web-based crime information system was carried out with the survey method, which included expectations from the crime map on an international scale. The survey conducted with military personnel of NATO members concluded that a significant majority of respondents were concerned with crime maps and believed that crime maps should be made available to all citizens.
+Yazar isimleri: ['Musa ATAR', 'Hacı Murat YILMAZ']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Turkish Journal of Geosciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkgeo/issue/70669/1056460
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2186763

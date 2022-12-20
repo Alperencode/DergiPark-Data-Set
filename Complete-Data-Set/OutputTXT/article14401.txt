@@ -1,0 +1,7 @@
+Makale Başlığı: Preparation of Double Armed Iodo Pyridine Substituted Benzo-15-crown-5 Ligand and Complexes, Investigation of Spectroscopic and Thermal Properties
+Özet: In this study, a new double-armed crown ether ligand (L) was synthesized by interacting 4',5'-bis(bromomethyl)benzo-15-crown-5 and 2-iodo-3-hydroxypyridine. Synthesized ligand (L) was reacted with sodium picrate and potassium picrate to obtain a Na+ and K+ complex. In this way, a 1:1 (filling) complex (NaL) with Na+ conforming to the cavity size of benzo-15-crown-5 and a 1:2 (sandwich) complex (KL2) with K+ larger than the cavity size were obtained. In addition, transition metal complex (AgL) was synthesized from the reaction of compound L with silver nitrate. The structure of the obtained ligands and complexes were characterized using spectroscopic methods (FTIR, HRMS, 1H-NMR, 13C-NMR). Finally, the thermal properties of the synthesized ligand and complexes were investigated using TGA - DTA methods and the results were observed compatible with the structures of the compounds.
+Yazar isimleri: ['Serhat KOÇOĞLU']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1115685
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2423858

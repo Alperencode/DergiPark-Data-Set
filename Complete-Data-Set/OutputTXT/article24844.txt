@@ -1,0 +1,7 @@
+Makale Başlığı: The Mock-up of the "Ratto Delle Sabine" by Giambologna: Making and Utilization of a 3D Model
+Özet: Within a project for the knowledge and preservation of the mock-up of Giambologna's Ratto delle Sabine housed in the Galleria dell'Accademia in Florence, the GeCO laboratory has made laser scanner acquisitions to create surface models at different resolutions for structural analysis, on which to check the coverage of the photographic campaign and to create a three-dimensional thematic mapping of data relating to investigations and restoration works. The PDF3D file format has been used to easily manage data on a platform immediately available to all operators.
+Yazar isimleri: []
+Yayın Yılı: 23 Nisan 2015
+Dergi ismi: Iconarp International Journal of Architecture and Planning
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iconarp/issue/7899/103987
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/88950

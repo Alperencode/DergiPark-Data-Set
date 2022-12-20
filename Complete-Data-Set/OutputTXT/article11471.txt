@@ -1,0 +1,7 @@
+Makale Başlığı: FİNANSAL PERFORMANS İLE REKLAM FAALİYETLERİ ARASINDAKİ İLİŞKİ: TÜRKİYE’DEKİ MEVDUAT BANKALARI ÜZERİNE BİR ARAŞTIRMA
+Özet: Özet yada Abstract kısmını bu alana yapıştırabilirsiniz en fazla 1500 karakter kullanılabilir. EBu çalışmada Türkiye’de faaliyet gösteren 20 bankanın reklam faaliyetlerinin finansal performanslarına olan etkisi incelenmiştir. Çalışma kapsamında 2002 dördüncü çeyrekten 2018 dördüncü çeyreğe kadar 65 gözlemden oluşan panel veri seti kullanılmıştır. Reklamın bankalar üzerindeki etkisinin incelenmesi sürecinde Driscoll Kraay sabit etkiler dirençli tahmincisi sabit etkiler panel regresyon modeli tercih edilmiştir, açıklayıcılığın arttırılabilmesi adına reklam değişkeni hem reklam harcamaları hem de reklam yoğunluğu olarak iki ayrı rasyo değişken şeklinde analizlere dahil edilmiştir. Elde edilen bulgular ışığında reklamın mevcut döneme negatif etki ettiği ve on dönem boyunca (iki buçuk yıl) negatif etki etmeye devam ettiği tespit edilmiştir.ğer makale diliniz Türkçe ise ilk olarak Öz sonrasında sonrasında Abstract gelmelidir.
+Yazar isimleri: ['Gülfen TUNA', 'Mustafa KOÇ']
+Yayın Yılı: 29 Kasım 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makuiibf/issue/73543/911773
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1692643

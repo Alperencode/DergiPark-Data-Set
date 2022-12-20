@@ -1,0 +1,7 @@
+Makale Başlığı: BİST İMALAT SANAYİ SEKTÖRÜNDE FAALİYET GÖSTEREN İŞLETMELERİN NAKİT AKIŞ PROFİLLERİNİN İNCELENMESİ
+Özet: Nakit akış tablosu esas, yatırım ve finansman faaliyetlerinden oluşan nakit akış bileşenleri ile raporlanmaktadır. Bu bileşenlerin her birinde meydana gelen pozitif ve negatif nakit akış yönüne göre finansal bir desen gerçekleşmektedir. Gerçekleşen bu nakit akış desenleriyle olası sekiz nakit akış profili belirlenmektedir. Bu bağlamda çalışmanın amacı, Borsa İstanbul’da işlem gören imalat sanayi sektöründe faaliyet gösteren işletmelerin nakit akış profillerinin incelenmesidir. Bu amaçla imalat sanayi alt sektörlerindeki işletmelerden oluşan toplam 70 işletmenin 2012-2021 dönemine ait nakit akış tablosu verileri kullanılmıştır. Yapılan araştırma sonucuna göre, işletmelerin tüm yıllarda sırasıyla başarılı işletme niteliğine sahip profil 2, büyüyen işletme niteliğine sahip profil 4 ve genç işletme niteliğine sahip profil 6 ile temsil edilen işletmelerden oluştuğu tespit edilmiştir.
+Yazar isimleri: ['Haluk SATIR', 'Mustafa KISAKÜREK']
+Yayın Yılı: 24 Kasım 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makusobed/issue/73476/1110379
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2402909

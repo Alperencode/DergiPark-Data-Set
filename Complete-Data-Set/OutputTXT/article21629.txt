@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of Solved Examples in Mathematics Textbooks Regarding the Use of Geometric Habits of Mind
+Özet: This study aimed to examine the solved examples used in polygons and measurement of area subjects in mathematics textbooks approved to be taught in the 2020-2021 academic year in terms of geometric habits of mind. In this context, a total of ten mathematics textbooks, including two fifth grade, three sixth grade, two seventh grade, and three eighth grade, were examined. The solved examples in the textbooks were subjected to document analysis for the following habits; reasoning with relationship, thinking and generalizing special cases, investing of invariants, and exploration and reflection. Regarding the study results, the solved examples of the fifth, sixth and seventh grades mostly used reasoning with relationship, exploration and reflection habits, whereas the examples of eighth grade were observed to include investing of invariants in addition to these habits. Besides, there are examples based on computer software at every grade level, but it was concluded that such examples are best used in the eighth grade to address the geometric habits of mind. Some suggestions have been made based on the results obtained.
+Yazar isimleri: ['Zeynep Bahar ERŞEN', 'Buket Özüm BÜLBÜL', 'Mustafa GÜLER']
+Yayın Yılı: 5 Şubat 2021
+Dergi ismi: Türk Bilgisayar ve Matematik Eğitimi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkbilmat/issue/60213/850882
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1479886

@@ -1,0 +1,7 @@
+Makale Başlığı: Proactive Metering of Mobile Internet User Experience
+Özet: Having 67% worldwide share, mobile internet is very important for Internet Service Providers (ISPs). Since mobile Internet access is a collective service, Key Performance Indicators (KPIs) measuring quality of data traffic on select network segments/servers may not correctly indicate true user experience. For this reason, mobile ISPs are investing in sophisticated high-end commercial speed analysis systems which typically collect and analyze network traffic data from key network segments/servers. Unfortunately, their utility is quite limited as long as the proactive network intervention is considered. In this work, we develop a MapReduce based network speed analysis system which measures end-to-end network speed to quantify true user experience across multiple geographic regions and service categories. Also functioning as an online decision support system, it enables network administrators with timely ISP network intervention right before potential arrival of mass number of user complaints. The system has been tested with a leading mobile ISP in Turkey. The results confirm its effectiveness.
+Yazar isimleri: ['Mete UZUN', 'Osman ABUL']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/1089321
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2315794

@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRKİYE’NİN NEXT-11 ÜLKELERİYLE GERÇEKLEŞTİRDİĞİ DIŞ TİCARETİN GENİŞLETİLMİŞ ÇEKİM MODELİ İLE İNCELENMESİ
+Özet: Sanayi devrimi ile birlikte ülkelerin üretimde makineleşme ve teknoloji kullanımı, üretim miktarlarının artmasını sağlamıştır. Böylece ülkeler üretim fazlası ürünlerin satışını gerçekleştirmek amacıyla küresel pazarlarda yer arayışına başlamış ve dış ticarette avantaj sağlama hedefleri doğrultusunda bazı ekonomik birliklere üye olmuşlardır. Bu ekonomik birliklerden bir tanesi de Next-11 (Gelecek 11)’dir. Bu örgütün en önemli özelliği, hızlı ekonomik büyümeyi sağlayan ve yüksek nüfusa sahip ülkeler olmasıdır. Bu çalışmanın amacı Türkiye’nin de içinde bulunduğu onbir ülkenin, 2005-2019 dönemi kapsamında Türkiye ile gerçekleştirdiği ticaretin belirleyenlerini yerçekimi modeli çerçevesinde panel veri tekniği ile analiz etmektir. Modelde, uzaklık, kişi başı gelir ve Linder etkisi bağımsız değişkenleri, toplam ticaret ise bağımlı değişken olarak ele alınmıştır. Uygulanan analiz sonucunda, kişi başına düşen gelir arasındaki farklar ve ülkeler arası mesafe azaldıkça ülkeler arasındaki ticaret hacminin arttığı bulgusuna ulaşılmıştır. Aynı zamanda kişi başı geliri artan ülke ile Türkiye arasındaki dış ticaret hacminin de arttığı ulaşılan bulgulardandır.
+Yazar isimleri: ['Feyza ARICA', 'Günay KOYUNCU']
+Yayın Yılı: 25 Temmuz 2022
+Dergi ismi: Girişimcilik ve Kalkınma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/girkal/issue/71395/1115348
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2422456

@@ -1,0 +1,7 @@
+Makale Başlığı: Kapadokya bölgesindeki Fertek ve Hançerli Kiliselerinin malzeme bozulmalarının ve sismik davranışlarının incelenmesi
+Özet: Kapadokya Peribacaları, yeraltı şehirleri, kaya kiliseleri, taş yapıları ve doğal güzellikleri ile yeryüzündeki ender doğal ve kültürel merkezler arasında yer almaktadır. Bu eserlerden çalışma kapsamına alınan Fertek ve Hançerli Kiliseleri, yapıldıkları döneme göre üstün yapım teknikleri ve zengin işçiliği ile oldukça özgün yapılardır. Bu çalışmada Kapadokya Bölgesinde yer alan Niğde ili sınırları içerisinde bulunan ve 19. yüzyılda inşa edilen Fertek ve Hançerli Kiliselerinin mimari özellikleri incelenmiş ve malzeme bozulmaları tespit edilmiştir. Bu tespitler ışığında yapıların mevcut statik özellikleri Dinamik Sonlu Elemanlar Analizi programı kullanılarak incelenmiştir. Her iki kilise yapısında da renk bozulması, bitkilenme, çatlak oluşumu, nemlenme, kısmi harç ve taş kayıpları tespit edilmiştir. Analiz sonuçları değerlendirildiğinde, yapıların bulunduğu bölgeye ve zemin sınıfına bağlı olarak ve deprem kuvvetleri dikkate alınarak onarım ve korumaya gereksinimlerinin olduğu tespit edilmiştir.
+Yazar isimleri: ['Metin Hakan SEVERCAN', 'Emel EFE YAVAŞCAN', 'Semiha AKÇAÖZOĞLU', 'Kubilay AKÇAÖZOĞLU']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1176288
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2654766

@@ -1,0 +1,7 @@
+Makale Başlığı: Bazı Bitkisel İnfüzyonların In Vitro Sindirim Sırasında  Antioksidan Özelliklerinin İncelenmesi
+Özet: Bu çalışmada, Aspalathus linearis, Sambucus nigra, Rhamnus frangula, Plantago lanceolata ve Equisetum arvense olmak üzere beş bitkisel infüzyonun fenolik içeriği ile antioksidan potansiyeli analiz edilmiştir. Ayrıca, infüzyonlarda bulunan fenolik bileşiklerin biyoerişilebilirliklerini belirlemek amacıyla simüle edilmiş in vitro gastrointestinal sindirim gerçekleştirilmiştir. Sonuçlara göre, Rooibos infüzyonunun en yüksek toplam fenolik (2191.18±93.39 mg GAE/100 g ka), toplam flavonoid (1226.14±93.07 mg CE/100 g ka) ve antioksidan kapasiteye (CUPRAC, 3124.12 mg TE/100 g ka; FRAP, 2634.95 mg TE/100 g ka) sahip olduğu bulunmuştur. Diğer yandan, en yüksek ABTS (2351 mg TE/100 g ka) ve DPPH (475.19 mg TE/100 g ka) antioksidan kapasite değerleri mürver çiçeği infüzyonu ile elde edilmiştir. Gastrointestinal sindirim sonuçlarına göre, infüzyonlarda bulunan fenoliklerin elde edilme oranının ağızdan bağırsağa değişken olduğu bulunmuştur. Çalışmada elde edilen sonuçlara göre, bu bitkilerin yüksek besinsel içerikleri nedeniyle değerli bir içecek alternatifi olduğu sonucuna varılabilmektedir.
+Yazar isimleri: ['Gülay ÖZKAN', 'Aliye ARAS', 'Esra ÇAPANOĞLU GÜVEN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Apitherapy and Nature
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jan/issue/70728/1106268
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2385650

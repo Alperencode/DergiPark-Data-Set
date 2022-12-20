@@ -1,0 +1,7 @@
+Makale Başlığı: Covid-19 Salgınının Konaklama ve Yiyecek-İçecek İşletmelerinin Finansal Performansına Etkisinin Ölçek Temelinde Analizi
+Özet: Bu araştırmanın amacı, Covid-19 salgınının Türkiye’deki konaklama ve yiyecek-içecek işletmelerinin finansal performansı üzerindeki etkisini ölçek temelinde analiz etmektir. Bu amaçla Türkiye Cumhuriyet Merkez Bankası tarafından yayımlanan 2019 ve 2020 yıllarına ait konaklama ile yiyecek-içecek hizmetleri sektör bilançoları üzerinde oran analizi gerçekleştirilmiştir. Analiz sonucunda likidite açısından Covid-19 salgınının başlamasıyla işletmelerin performansının ölçek bazında önemli değişkenlik göstermediği belirlenmiştir. Finansal yapı oranları açısından Covid-19 salgınının başlamasından sonra işletmelerde daha fazla uzun vadeli yabancı kaynak kullanıldığı belirlenmiştir. Faaliyet ve karlılık oranları açısından ise Covid-19 salgınının başlamasıyla konaklama ile yiyecek-içecek işletmelerinin ölçek büyüklükleri fark etmeksizin tamamında performansın önemli düzeyde düştüğü saptanmıştır.
+Yazar isimleri: ['Erdinç KARADENİZ', 'Ömer İSKENDEROĞLU', 'İlter HELVACI']
+Yayın Yılı: 25 Ağustos 2022
+Dergi ismi: Seyahat ve Otel İşletmeciliği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/soid/issue/72226/1020298
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2068353

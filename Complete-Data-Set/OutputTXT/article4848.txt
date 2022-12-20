@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Long-Term Change in Web-Based Data Traffic in Terms of Performance Evaluation.
+Özet: Gelişen bilgi teknolojisi ile birlikte, web tabanlı kaliteli ağ hizmetleri sağlamak ve ağları planlamak için web tabanlı veri trafiği modellerinin tahminine artan ihtiyaç söz konusudur. Bu nedenle çalışma, web sitelerinin tıklama verilerinden elde edilen sayfa merkezli verilerin dağılımlarını modellemeyi amaçlamaktadır. Bu modelleme sayesinde simülasyon ve planlama modelleri için kaynak oluşturulması amaçlanmaktadır. İş hedefleri doğrultusunda hazır giyim ve aksesuarların pazarlandığı e-ticaret ve bilgi edinme ve yayma amaçlı haber siteleri hedef olarak belirlenmiş web siteleridir. İlgili web sitelerinin hemen çıkma oranı, sayfa görüntüleme ve kalış süresi göstergelerinin dağılımları incelenmiştir. Elde edilen dağılım bilgileri ile özel sektörde kullanılan satış simülasyonları başta olmak üzere web siteleri arası performans değerlendirme gibi çeşitli alanlarda kullanılabileceği düşünülmektedir.
+Yazar isimleri: ['Gözde BOZKURT', 'Ahmet ÇİLİNGİRTÜRK']
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: Ekonomi İşletme Siyaset ve Uluslararası İlişkiler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kkujebpir/issue/70509/1104658
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2378973

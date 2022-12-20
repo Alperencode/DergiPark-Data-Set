@@ -1,0 +1,7 @@
+Makale Başlığı: Okul Öncesi Dönemde Artırılmış Gerçeklik Teknolojisinin Kullanımı
+Özet: Artırılmış Gerçeklik, birçok alanda olduğu gibi eğitim alanında da yaygın olarak kullanılmaktadır. Türkiye’de, okul öncesi dönem eğitiminde artırılmış gerçeklik teknolojisinin kullanımı yeterli düzeyde incelenmemiş bir konudur. Bu çalışma; okul öncesi eğitim döneminde artırılmış gerçeklik teknolojisinin kullanımı ve kullanımının farklı yönlerinin değerlendirilmesi amacını taşır. Çalışmada; artırılmış gerçeklik kavramına, eğitimde ve okul öncesi dönemde artırılmış gerçeklik teknolojisi kullanımına, okul öncesi eğitimde artırılmış gerçeklik teknolojisi ile ilgili yapılan çalışmalara değinilmiştir
+Yazar isimleri: ['Selin KOÇ']
+Yayın Yılı: 23 Aralık 2021
+Dergi ismi: Tasarım Enformatiği
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/te/issue/66501/675481
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/932647

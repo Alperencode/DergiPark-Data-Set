@@ -1,0 +1,7 @@
+Makale Başlığı: Some Binary Quasi-perfect Linear Codes Defined by APN Functions
+Özet: In 2021, Tutdere proved that the covering radii R of a class of primitive binary cyclic codes with minimum distance strictly greater than an odd integer l satisfy r≤R≤l, where l, r are some integers depending on the given code. We here first discuss some equivalences of linear codes defined by Gold functions, which are quadratic APN (almost perfect nonlinear) functions. We then show that by applying the result of Tutdere one can find the covering radii of these quasi-perfect codes. In 2016, Li and Helleseth proved that the linear codes defined by the quadratic APN functions are quasi-perfect and they asked whether the linear codes defined by the non-quadratic APN functions are quasi-perfect or not. We here prove that the linear codes defined by some non-quadratic APN functions over the finite field〖 F〗_(2^m )  , for 1≤m≤8, are quasi-perfect, by computing the covering radii of these codes.
+Yazar isimleri: ['Seher TUTDERE']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1057393
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2190361

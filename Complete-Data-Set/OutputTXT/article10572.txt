@@ -1,0 +1,7 @@
+Makale Başlığı: HABEAS DATA CONCEPT AND THE CASE OF ARGENTINA
+Özet: Habeas data is a contitutional complaint which emerged in the end of 1980s in Latin American Countries and is accepted as one of the most important data protection approaches in the world. Right to habeas data enables people to request from courts to protect their personal data by submitting a petition. The scope of the right to habeas data may vary from country to country in terms of the rights that the data subjects may demand and the nature of the data recording system (public/private) to which the complaint is directed. In this study, the place of  right to habeas data in data protection subject in the World, history, purpose, scope of right to habeas data, differences of its practice in the Latin American countries, its relation with data protection, disadvantages, as well as new developments related to data protection in Latin America countries  will be examined. In order to embody habeas data concept, its practice in Argentina also will be analyzed.
+Yazar isimleri: ['Ünal YILDIZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kişisel Verileri Koruma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kvkd/issue/70820/1117134
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2429724

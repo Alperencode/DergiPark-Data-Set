@@ -1,0 +1,7 @@
+Makale Başlığı: Gamification in the Context of Diabetes
+Özet: In today's world, where digital transformations take place rapidly, mobile applications have become one of the indispensable parts of our lives. The use of mobile applications in health services like in many sectors such as education, tourism and finance contributes to the effectiveness and efficiency of the service. With gamification of applications used for pa-tient follow-up and health promotion, it may enable to use applications more fun, more effectively and to reach more people. In particular, gamifications designed for the treatment processes of diabetes which has a long treatment period and common, may make significant contributions to both individual and public health. In the presented study, a literature review on gamification in diabetes was made and the concept of gamification, its design and gamification studies developed in the context of diabetes were included. It has been observed that there are no gamifications designed for diabetes and there are limited academic studies in Turkey. In this context, it is thought that this study may contribute to the literature and bring a new perspective to policy makers and service providers in health.
+Yazar isimleri: []
+Yayın Yılı: 25 Eylül 2021
+Dergi ismi: Kesit Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kesitakademi/issue/65705/1019332
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2064494

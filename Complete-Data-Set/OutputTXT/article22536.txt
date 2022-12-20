@@ -1,0 +1,7 @@
+Makale Başlığı: The Rise of Technology for the Future Labor Force: The Nexus between Technology and Unemployment in OECD Countries
+Özet: This paper studies the impact of technology on unemployment, focusing on OECD countries. Obviously, there is no consensus in the literature about the future impacts of technological breakthroughs on employment. The clear point is that the current skills will not match the occupations of the future and the companies will need many new skills. Technological advances will create millions of jobs but the other millions of jobs will disappear in this process. The purpose of this paper is to point out the ultimate impact of technology on unemployment at the macro level, which is quite insufficient quantitatively, related to the impact of technology on employment. In this paper, the nexus between technology and unemployment has been analyzed with S-GMM estimator in 33 OECD member countries for the years 2005-2018. According to panel data analysis, it is seen that all the control variables but GDP are statistically significant. The independent variable, IP5 patents representing technology is statistically highly significant and has a negative correlation with the dependent variable. The empirical results show that a 1% increase in technology reduces unemployment by 0.07%.
+Yazar isimleri: ['İbrahim DAĞLI']
+Yayın Yılı: 24 Ekim 2022
+Dergi ismi: Çalışma ve Toplum
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ct/issue/73140/1191460
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2718047

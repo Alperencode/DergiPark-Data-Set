@@ -1,0 +1,7 @@
+Makale Başlığı: CYTOTOXICITY AND WOUND HEALING CAPACITY OF BIOLOGICALLY SYNTHESIZED SILVER NANOPARTICLES
+Özet: Metallic nanoparticles are interesting areas of research due to their unique properties which can be advantageous for producing smart products. Silver nanoparticles (AgNPs) are remarkably used in pharmaceutical industry because of  their strong biological activities. The aim of   the present study was to investigate the cytotoxicity and wound healing capacity of the biologically prepared silver nanoparticles via green synthesis route. Cytotoxicity of the biogenic AgNPs was determined by MTT (3- [4, 5- dimethyl-2-thiazolyl]-2, 5-diphenyl-2H-tetrazolium-bromide) assay against L929 fibroblast cell line. Wound healing properties of the AgNPs were evaluated using in vitro-scratch wound healing assay using 3T3 fibroblast cell line. Biosynthesized AgNPs inhibited the propagation of fibroblasts at a half maximal inhibitory concentration (IC50) of 23.507 μg/mL after 24 h incubation. In vitro wound healing assay also revealed that the biogenic AgNPs stimulated the 3T3 fibroblasts' cell proliferation. It can be suggested that biologically synthesized AgNPs can be used effectively for biomedical applications such as wound dressing materials.
+Yazar isimleri: ['Tuba BAYGAR', 'Nurdan SARAÇ', 'Aysel UĞUR']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Mugla Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muglajsci/issue/69906/1087581
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2308615

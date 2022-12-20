@@ -1,0 +1,7 @@
+Makale Başlığı: Yacht and Cruise Tourism Revenues: The Case of Antalya
+Özet: The province of Antalya offers a great potential in cruise and yacht tourism with its marine environment. Therefore, new yacht and cruise port projects for Antalya are on the agenda. In order to make cost-benefit analyzes of these projects, it is important to consider the economic effects of existing infrastructures. However, apart from general tourism revenues, no clear data could be found on revenues from yacht and cruise tourists. In this regard, a regression analysis was conducted using the number of visitors and general tourism income data between 2011 and 2019 in order to estimate the yacht and cruise tourism revenues of Antalya. According to the findings of the estimated model, an average cruise visitor provides 2 times more income than a yacht passenger and 8 times more than a traditional tourist. In order to increase tourism revenues, it is recommended to encourage yacht and cruise tourism, where the per capita expenditure rate is much higher, and to develop new infrastructures, taking into account socio-cultural and ecological factors.
+Yazar isimleri: ['Çetin POLAT', 'Fevzi BİTİKTAS', 'Abdullah AÇIK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Deniz Taşımacılığı ve Lojistiği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mtl/issue/71040/1113233
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2413829

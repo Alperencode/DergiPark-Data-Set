@@ -1,0 +1,7 @@
+Makale Başlığı: Lossy Image Compression Using Karhunen-Loeve Transform Based Methods
+Özet: In this paper, we discuss image compression techniques based on the eigenvector matrices used the Karhunen-Loeve Transform (KLT) is obtained. Two novel methods are proposed for the grouping of eigenvectors via vector quantization in the KLT subspace. Various codebook sizes are tested for image compression purposes. The first grouping approach uses eigenvectors of autocorrelation matrices for geometrically clustering into fewer numbers of vectors. In this approach, the quantization is performed using principal component directions of the eigenvector matrices. The second approach has used the eigenvectors according to their usage frequencies. The qualities of reconstructed test images are compared with DCT based JPEG and Wavelet Transform based JPEG2000 compression methods using the PSNR metric. Experimental results show that the proposed methods, particularly the second method, give plausible and competitive results.
+Yazar isimleri: ['Serkan KESER']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/951417
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1820268

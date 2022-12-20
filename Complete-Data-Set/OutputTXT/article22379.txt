@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of The Factors Affecting The Profitability of Banks In Turkey By Lasso Regression
+Özet: In the article examining the factors affecting the profitability indicators of the banking sector, which has a large share in the financial sector in Turkey, the analysis of the factors affecting the return on assets and return on equity ratios of the top 10 deposit banks in 2020, ranked according to their asset size in 2020, was made with the lasso regression method. As a result of the analysis, separate models were established for return on assets and return on equity. Among the independent variables, only the deposit variable was excluded from the model and it was seen that the effect on profitability was not as much as the variables of securities portfolio, equity, NPL ratio, asset share, inflation and gross domestic product.
+Yazar isimleri: []
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: AYBU Business Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/abj/issue/71019/1138829
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2518839

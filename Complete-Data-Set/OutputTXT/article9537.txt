@@ -1,0 +1,7 @@
+Makale Başlığı: An investigation on quantitative detector characteristics of novel flexible skin dosimeter using Monte Carlo simulation method
+Özet: Novel lead oxide-based flexible dosimeters with superior performance were experimentally tested for electron therapy. However, absorbed/transmitted primary particle fraction and secondary radiation distribution from the dosimeter surface have not been reported. These features should be specified to improve the dosimeter’s reliability for medical applications. Hence, the absorbed primary particle fraction, transmitted particle and secondary radiations distributions of lead oxide-based flexible skin dosimeter under the incident 6 MeV electron radiation have been investigated by pyPenelope Monte Carlo Simulation. The results have demonstrated that the generated secondary irradiation probabilities are not significantly high to enhance the therapeutic dose abnormally.  In addition, the angular distribution of the scattered secondary irradiations is low. No abnormal changes were observed in the fraction and energy distribution of the transmitted primary electrons. Hence, it can be concluded that the designed structure has promising potential to be used as dosimeters in electron beam therapy.
+Yazar isimleri: ['Şenol KAYA']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of New Results in Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnrs/issue/72419/1103993
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2376403

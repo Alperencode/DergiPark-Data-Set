@@ -1,0 +1,7 @@
+Makale Başlığı: Biyomedikal Uygulamalar İçin Biyobuzunur Mg Esaslı Alaşımların Geliştirilmesi – Derleme
+Özet: Magnezyum 21. Yüzyılın en hafif yapı metali olarak geçici ortopedik implantlarda ve koroner stentlerde kullanılabilme potansiyeline sahip yeni nesil biyobozunur malzeme olarak kabul edilir.  Biomedikal uygulamalar için umut vaat eden Mg/Mg-esaslı alaşımların özellikleri, avantajları ve dezavanatajları bu derleme çalışmasında ayrıntılı bir şekilde ele alınmıştır. Biyobozunur malzemelerin kemik dokusunun iyileşmesi sürecinde kemiğin kendini yenilemeye başladığı zamana kadar mukavemetini yitirmemesi, mekanik özelliklerini koruması istenmektedir. Ancak Mg ve Mg esaslı alaşımlar vücutta çok hızlı bir şekilde korozyona uğradıklarından mekanik özelliklerini kısa süre içerisinde kaybetmektedirler. Mg esaslı alaşımların implant malzemelerinde kullanılabilmesi için korozyon dirençlerini artırmak ve mekanik özelliklerini iyileştirmek gerekmektedir. Bu alaşımların korozyon dirençlerinin artırılmasında ve mekanik özelliklerini geliştirmesinde kullanılan prosesler, bu çalışmada detaylı olarak araştırılmış ve anlatılmıştır.
+Yazar isimleri: ['Nilüfer KÜÇÜKDEVECİ']
+Yayın Yılı: 8 Aralık 2022
+Dergi ismi: Nevşehir Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nevbiltek/issue/73743/1178268
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2663123

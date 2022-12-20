@@ -1,0 +1,7 @@
+Makale Başlığı: Dijital Teknoloji Destekli Ses Tabanlı Hece Öğretim Yöntemi ile Okuma Yazmanın Öğretilmesi (Vaka Çalışması)
+Özet: Bu araştırmanın amacı Dijital Teknoloji Destekli Ses Tabanlı Hece Öğretim Yönteminin uygulamadaki sonuçlarını değerlendirmektir. Araştırma nitel araştırma yöntemlerinden vaka çalışması şeklinde tasarlanmıştır. Çalışma grubu, aykırı tipik örnekleme ve ölçüt örnekleme yöntemleriyle oluşturulmuştur. Bu çalışma kapsamında dijital teknolojileri kullanmayı bilen bir çocuğa Dijital Teknoloji Destekli Ses Tabanlı Hece Öğretim Yöntemiyle okuma yazmayı öğreten bir öğretmen ve bir annenin görüşleri incelenmiştir.  Doküman inceleme, görüşme yöntemleriyle elde edilen veriler doküman, betimsel ve içerik analiz yöntemleriyle çözümlenmiştir. Araştırma sonunda; yöntemi uygulayan öğretmen ve annenin uygulama sürecini olumlu olarak değerlendirdikleri, çocuğun okuma yazmayı sıkılmadan öğrendiğini ve bu yöntemi uygulamaktan dolayı memnun olduklarını ifade ettikleri belirlenmiştir.
+Yazar isimleri: ['Kısmet DELİVELİ']
+Yayın Yılı: 23 Nisan 2022
+Dergi ismi: Journal of Computer and Education Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcer/issue/69325/1026440
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2091979

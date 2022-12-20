@@ -1,0 +1,7 @@
+Makale Başlığı: Development of converter configuration and corresponding control strategy for wind turbines using permanent magnet synchronous generator: A Case study
+Özet: 
+Yazar isimleri: ['Van Dai LE']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Journal of Energy Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jes/issue/73468/1025810
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2089659

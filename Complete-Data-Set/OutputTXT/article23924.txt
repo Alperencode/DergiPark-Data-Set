@@ -1,0 +1,7 @@
+Makale Başlığı: Developing and implementing a decision support system for astronomical observation quality estimation with machine learning algorithms
+Özet: 
+Yazar isimleri: ['Ömer Çağrı YAVUZ', 'Ersin KARAMAN', 'Cahit YEŞİLYAPRAK']
+Yayın Yılı: 15 Temmuz 2022
+Dergi ismi: Trends in Business and Economics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/trendbusecon/issue/71254/1144068
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2539384

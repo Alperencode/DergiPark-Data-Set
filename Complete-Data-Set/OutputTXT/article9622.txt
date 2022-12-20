@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Circular, Elliptical and Obround Shaped Vessels by Finite Element Method(FEM) Analysis under Internal Pressure Loading
+Özet: The forms of pressure vessels applicable withinside the aerospace enterprise are starting from essential load-carrying imperative tank systems to small auxiliary tanks and pressurized cabins. Elliptical and obround stress vessels are used in which there may be a space-constrained. In the present work nonlinear(geometric and material within tensile strength) finite element evaluation is performed for the determination of its stress state in open-ended pressure vessels of various shapes(round, elliptical, and obround). A parametric examine has been completed and outcomes offered for different inside areas of vessel shapes and thickness of the cross-sections. As the inside area of the shape of pressure vessel increases, the effective stress increases for a particular thickness. The deformed shape elliptical/obround under internal pressure might no longer be uniformly enlarged because of non-uniform bending. Deformation and effective stress in the elliptical/obround shapes are found higher than circular shape for a particular thickness and inside area of vessel.
+Yazar isimleri: ['Chıtaranjan PANY']
+Yayın Yılı: 21 Haziran 2022
+Dergi ismi: Journal of Science, Technology and Engineering Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jster/issue/66386/1079858
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2278065

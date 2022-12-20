@@ -1,0 +1,7 @@
+Makale Başlığı: Presence of ‘Candidatus Phytoplasma trifolii’ in yellowing and bushy appearance-associated pepper plants from Iğdır Province of Turkey
+Özet: Objective: The objective of this study was to investigate the group/subgroup of phytoplasma agent in peppers showing phytoplasma symptoms.Material and Methods: In this study, plants collected from Iğdır province in 2020 were analyzed using direct and nested PCR tests, and BLASTn, iphyClassifier, Mega 7, and pDRAW32 programs were used.Results: In the tests performed, approximately 1.2 kb of DNA fragments specific to phytoplasma were obtained. The 16S rRNA nucleotide sequence (1254 bp in length) (OM663745) revealed that it was showed more than 99.44% nucleotide similarity to other ‘Ca. P. trifolii’ members. The tentative RFLP and phylogenetic analyzes performed proved the  ‘Ca. P. trifolii’ the infection from the Clover proliferation group (16SrVI) group and subgroup A in symptomatic pepper plants.Conclusion: The presence of ‘Ca. P. trifolii’ in naturally infected peppers in Iğdır province of Turkey was detected using PCR-RFLP and cladistic analysis.
+Yazar isimleri: ['Abdullah GÜLLER', 'Mustafa USTA', 'Gülüstan KORKMAZ', 'Serap DEMİREL', 'Zeynelabidin KURT']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Ege Üniversitesi Ziraat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/zfdergi/issue/72734/1081067
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2282768

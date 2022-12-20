@@ -1,0 +1,7 @@
+Makale Başlığı: Toz metal Al2O3 takviyeli Mg5Sn matrisli kompozitler: Üretim ve karakterizasyon
+Özet: Bu çalışmada, ağırlıkça %5 Sn içeren Mg-Sn matris içerisine farklı oranlarda Al2O3 ilave edilerek toz metalurjisi (TM) yöntemiyle Mg5Sn-xAl2O3 kompozit malzemeler üretilmiştir. Üretimde Mg tozlarının sahip olduğu yüksek reaktivitenin yol açacağı olumsuzlukları önlemek amacıyla yeni bir karıştırma tekniği kullanılmıştır. Hazırlanan toz karışımlarından numune üretimi sıcak presleme tekniği ile gerçekleştirilmiştir. Üretilen numuneler, yoğunluk ölçümleri, mikroyapı incelemeleri ve mekanik testler ile karakterize edilmiştir. Ölçülen yoğunluk değerleri teorik yoğunluğa oldukça yakın elde edilmiştir. Mikroyapı incelemeleri, alümina takviyesinin mikroyapıda homojen bir şekilde dağıldığını göstermiştir. Artan Al2O3 takviye oranı, sertlik ve çekme dayanımı değerlerinde önemli artışlar sağlamıştır.
+Yazar isimleri: ['Ali ERÇETİN', 'Özgür ÖZGÜN', 'Kubilay ASLANTAŞ']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazimmfd/issue/72928/947051
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1803428

@@ -1,0 +1,7 @@
+Makale Başlığı: REGRESSION METHODS FOR SOCIAL MEDIA DATA ANALYSIS
+Özet: 
+Yazar isimleri: ['Türker TUNCER', 'Sengul DOGAN', 'Erhan AKBAL']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Mugla Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muglajsci/issue/69906/1028299
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2099297

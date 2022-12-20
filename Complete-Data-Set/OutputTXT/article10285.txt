@@ -1,0 +1,7 @@
+Makale Başlığı: Gelecekteki İnsana Yakışır İş Ölçeği: Geçerlik ve Güvenirlik Çalışması
+Özet: Bu araştırmanın amacı üniversite öğrencilerin gelecekte edinebilecekleri insana yakışır işe yönelik algılarını ölçen Gelecekteki İnsana Yakışır İş Ölçeği’nin Türkçeye çeviri, geçerlik ve güvenirlik çalışmalarını yapmaktır. Ölçeğin Türkçe geçerlik ve güvenirlik çalışması kapsamında 402 üniversite öğrencisinden veri toplanmıştır. Ölçeğin yapı geçerliliğini test edebilmek için Doğrulayıcı Faktör Analizi (DFA) kullanılmış; güvenirliğini belirlemek için Cronbach Alfa iç tutarlılık katsayısı hesaplanmıştır. DFA sonucunda uyum iyiliği istatistiklerinin (CFI = .95, TLI = .94, RMSEA = .06, SRMR = .05, x2/df = 2.707) iyi derecede uyuma işaret ettiği görülmüştür. Cronbach Alfa iç tutarlılık katsayısı ise tüm maddeler için .86 olarak hesaplanmıştır. Araştırmanın bulgularına göre ölçeğin Türkçe uyarlamasının üniversite öğrencilerinde kullanılabilecek düzeyde geçerlik ve güvenirliğe sahip olduğu söylenebilir. İlerideki araştırmalarda üniversite öğrencilerinde insana yakışır işin yordayıcılarının anlaşılmasında ve geliştirilen müdahalelerin değerlendirilmesinde kullanılabilir.
+Yazar isimleri: ['Ayşenur BÜYÜKGÖZE-KAVAS']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Kariyer Psikolojik Danışmanlığı Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kpdd/issue/70793/1126483
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2468690

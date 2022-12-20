@@ -1,0 +1,7 @@
+Makale Başlığı: Use of Monocalcium Phosphate Monohydrate for Chemical Immobilization of Heavy Metals Ions in Copper Smelting Slags
+Özet: Monocalcium phosphate monohydrate (MCPM) with chemical formula of Ca(H2PO4)2.H2O is a water-soluble and powerful agent for metal ion immobilization (removal) in soil and water. The use of MCPM can, therefore, be considered as an innovative and effective way to remove the leachable heavy metals from copper smelting slag. This study aims to (1) characterize copper smelting slag and perform the batch precipitation tests using MCPM, (2) analyze the treated copper smelting slag (residue) by x-ray diffraction (XRD) and (3) elucidate the mechanism of MCPM on leachable heavy metal removal from slag.The experimental results demonstrated that MCPM effectively removes Cd, Co, Cr, Cu, Fe, Mn, Ni, Pb, Sr and Zn metal ions from copper smelting slag under different MCPM concentrations and reaction times. In addition, the XRD analysis reveals the formation of insoluble metal phosphates such as Cd3(PO4)2, Cu2(PO4)2OH, Fe3(PO4)2, Mn3(PO4)2, Pb3(PO4)2 and Zn3(PO4)2 in the residue of copper smelting slag.
+Yazar isimleri: ['Mahamane Chapiou SOULEY GARBA', 'Erol KAYA', 'Abdullah SEYRANKAYA', 'Fatih TURAN']
+Yayın Yılı: 19 Eylül 2022
+Dergi ismi: Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/deumffmd/issue/72304/1100652
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2362657

@@ -1,0 +1,7 @@
+Makale Başlığı: Intelligent Control of Wind Conversion System based on PMSG using T-S Fuzzy Scheme
+Özet: This paper presents a control strategy for a wind conversion system (WECS) based on permanent magnet synchronous generator (PMSG) and AC/DC converter in the objective of ensuring maximum power generation. The control aim is to track the generator speed with wind velocity variation in order to maximize the power output and enhance system performance. For this purpose, the Takagi–Sugeno (TS) fuzzy model is adopted for the WECS modeling. The control gains are calculated by solving Linear Matrix Inequalities (LMIs). Finally, numerical simulations have been presented to check the effectiveness of our approach.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167879
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/147982

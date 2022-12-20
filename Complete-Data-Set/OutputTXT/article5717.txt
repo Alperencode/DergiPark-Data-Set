@@ -1,0 +1,7 @@
+Makale Başlığı: Şeftali Çekirdeği Kabuğunun Polyester Esaslı Kompozitin Bazı Mekanik Özellikleri Üzerine Etkisi
+Özet: Bu çalışmanın amacı, şeftali çekirdeği kabuğunun polyester esaslı kompozitin mekanik özellikleri üzerindeki etkisini araştırmaktır. Polyester esaslı kompozit malzemeler, doymamış bir polyester reçineye ağırlıkça % 5, 10, 20 ve 40'lık farklı oranlara 149-297 µm boyutunda şeftali çekirdeği kabuğu tozu ilave edilerek elle döküm yöntemi ile hazırlanmıştır. Elde edilen saf polyester ve kompozit numunelerinin performanslarını değerlendirmek için çekme mukavemeti, eğilme mukavemeti ve sertlik gibi farklı mekanik testlere tabi tutulmuştur. Mekanik testlerin sonuçlarına göre, polyester reçineye eklenen şeftali çekirdeği kabuğunun kompozit numunelerin gerilme ve eğilme mukavemeti değerlerini azalttığı, ancak sertlik değerini, ağırlıkça %40 hariç çok fazla olumsuz etkilemediği tespit edilmiştir. Karışımdaki şeftali çekirdeği kabuğunun oranı arttıkça, üretilen kompozit numunelerin esneklik modülü de azalmıştır. Şeftali çekirdeği kabuğu partiküllerinin polyester matris içindeki dağılımı ise taramalı elektron mikroskobu (SEM) ile gözlemlenmiştir.
+Yazar isimleri: ['Sibel TOPUZ', 'Ramazan ORHAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1089106
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2314829

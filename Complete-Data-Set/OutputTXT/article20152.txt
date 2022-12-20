@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of the Concentrations of Some Essential Elements in LPS-Induced Septicemic Sheep
+Özet: Endotoxemia, which is defined as an organ disorder due to irregular immunological host response to infection, is a disease that causes serious economic losses as a result of high mortality and morbidity in sheep. In the study, macro (Ca, Mg, Na, K, P) and micro (Fe, Cu, Se, Zn) essential element concentrations of plasma and serum samples; taken from healthy (control) (n=6) and septicemic sheep (n=6) were determined. According to the results, the differences between the groups in terms of Ca, K, and Se concentrations were statistically significant (p≤0.05). Comprehensive studies on the concentrations and changes of elements using sensitive analysis methods such as ICP-MS are needed to successful diagnose and treat septic patients, identify new biomarkers, and explain their mechanisms.
+Yazar isimleri: ['Fulya ALTINOK YİPEL', 'Mustafa YİPEL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Kocatepe Veteriner Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kvj/issue/71175/1123763
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2457456

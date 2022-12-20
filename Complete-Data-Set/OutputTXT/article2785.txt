@@ -1,0 +1,7 @@
+Makale Başlığı: Seramik Enjeksiyon Kalıplama için İskelet Bağlayıcı Değişiminin Reolojik Özelliklerine Etkisi
+Özet: Toz enjeksiyon kalıplama prosesi için reoloji çalışması önemli bir yere sahiptir. Seçilen bağlayıcıların özellikleri; kalıplama, ön sinterleme ve sinterleme aşamalarını doğrudan ilgilendirmektedir. Besleme stokuna eklenen bağlayıcı özelliklerinin yanı sıra bağlayıcıların (ana bağlayıcı/iskelet bağlayıcı/yağlayıcı) kullanım amacı da önemlidir. Bu çalışmada seramik enjeksiyon kalıplama süreci için su bazlı ana bağlayıcı kullanılarak akış özellikleri (reoloji) belirlenmiştir. Reoloji deneyleri hem kılcal hemde tork reometreleri ile gerçekleştirilmiştir. Deneylerde; polietilen glikol ana bağlayıcı ve polipropilen/polietilen iskelet bağlayıcı kullanılarak farklı karışım oranlarında hazırlanan besleme stokları ile gerçekleştirilmiştir. Ana bağlayıcı değiştirilmeden (PEG4000), iskelet bağlayıcı olarak ise iki farklı (PP/PE) bağlayıcı kullanılmıştır. Buna bağlı olarak viskozite, kayma hızı, sıcaklık ve erime davranış indeksleri tespit edilmiştir. Deney sonucunda her iki besleme stoku için kritik toz yüklemesinin hacimce %56 oranında olduğu tespit edilmiştir.
+Yazar isimleri: ['Levent URTEKİN', 'Faik YILAN', 'İbrahim USLAN', 'Bedri TUC']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1020523
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2069175

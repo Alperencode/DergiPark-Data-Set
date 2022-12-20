@@ -1,0 +1,7 @@
+Makale Başlığı: Bayesian estimation of bivariate Pickands dependence function
+Özet: 
+Yazar isimleri: ['Alireza AHMADABADİ', 'Gholamhossein GHOLAMİ', 'Burcu HUDAVERDİ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/682730
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/951306

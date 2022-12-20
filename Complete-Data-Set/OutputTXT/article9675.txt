@@ -1,0 +1,7 @@
+Makale Başlığı: Characterization of carbon fiber reinforced conductive mortars filled with recycled ferrochrome slag aggregates
+Özet: Recently, it is known that carbon fiber, which is a conductive fiber, is used in different mixture designs and developing electrically conductive cementitious materials. However, the evaluation of ferrochrome as a recycled aggregate in the mixture of these special concretes has still not been investigated. In this study, electrically conductive mortars were produced by using 100% recycled ferrochrome aggregate with a particle size of less than 1 mm as filling material and using carbon fiber (CF) in 4 different ratios, 0%, 0.5%, 0.75% and 1%. 2, 14, 28, 90 and 180 days electrical resistivity properties of the obtained samples were investigated. In addition, 28-day compressive strength, flexural strength, dynamic resonance, ultrasonic pulse velocity (UPV), Leeb hardness, scanning electron microscope (SEM) and X-Ray Diffraction (XRD) tests were performed on all samples. The obtained results were compared with the literature and it was proved that ferrochrome can be used as a reasonable aggregate in conductive mortars.
+Yazar isimleri: ['Fatih DOĞAN', 'Heydar DEHGHANPOUR', 'Serkan SUBAŞI', 'Muhammed MARAŞLI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Sustainable Construction Materials and Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jscmt/issue/71344/1157026
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2580047

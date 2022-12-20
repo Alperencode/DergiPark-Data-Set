@@ -1,0 +1,7 @@
+Makale Başlığı: Approximate Solutions to Fractional Multi-Dimensional Navier-Stokes Equation Using the (FHPTM)
+Özet: This work focuses on presenting a reliable method, called fractional homotopy perturbation transform method (FHPTM) to solve nonlinear Naviers Stoks equations with the Caputo type fractional derivatives. The (FHPTM) is a combination of Laplace transform and homotopy perturbation method (He -Laplace method). He’s polynomial is used to simplify the nonlinearity which arise in our considered equation. Furthermore, three numerical examples are presented, it is supported by graphs and tables to compare solutions with little computational effort, which confirms the effectiveness and accuracy of the current method.
+Yazar isimleri: ['Mohamed ZELLAL', 'Kacem BELGHABA']
+Yayın Yılı: 1 Kasım 2022
+Dergi ismi: Cankaya University Journal of Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cankujse/issue/73259/1108852
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2396383

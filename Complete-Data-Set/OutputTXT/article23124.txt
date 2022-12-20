@@ -1,0 +1,7 @@
+Makale Başlığı: Yeni Medya İçeriklerinde Doğruluk Kontrolü Uygulamalarına Genel Bir Bakış
+Özet: Teknoloji çağının vazgeçilmez araçları olan sosyal mecralarda kullanıcı sayısı giderek artmaktadır.  Web tabanlı sosyal platformlar yaygınlaştıkça küresel boyutta enformasyona erişme ve paylaşma oranlarında da artış olmaktadır. Dolayısıyla enformasyon kaynaklarının ve yeni medya araçlarının kullanıcı sayısındaki artış, güvenli bilgiye erişim konusunda birtakım soru işaretlerini meydana getirmektedir. Bu bağlamda verinin hızlı yayılabilmesi ile birlikte bilginin çarpıtılması, hatalı bilgilendirme ve hakikat sonrası gibi konular ön plana çıkmıştır. Bu konular nesnel gerçekliğin kavranmasının önünde önemli birer engel olarak durmaktadır. Dolayısıyla bu çalışmada yeni medya çağında üretilen içeriklerin doğruluk kontrolünün nasıl işlediği, ilgili kaynaklar taranarak ortaya çıkarmaya çalışılmaktadır. Ulaşılan genel kanaat eleştirel okuma alışkanlıklarının acilen geliştirilmesi gerektiği yönündedir. Böylece şeffaflık ve gerçeklik ilkelerinin uygulanabilmesi yolunda çeşitli çözüm önerilerine ışık tutulmaktır.
+Yazar isimleri: ['Ozan EVREN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: İletişim ve Toplum Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcss/issue/72807/1127167
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2471486

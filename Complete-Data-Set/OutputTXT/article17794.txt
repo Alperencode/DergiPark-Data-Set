@@ -1,0 +1,7 @@
+Makale Başlığı: Singüler Pertürbe Özellikli Yarılineer Gecikmeli Diferansiyel Denklemlerin Nümerik Çözümleri
+Özet: Bu çalışmada sabit gecikme içeren singüler pertürbe özellikli kuasilineer diferansiyel denklemlerin nümerik çözümleri araştırılmıştır. Lineer baz fonksiyonları ve interpolasyon kuadratür kurallarını kullanarak Boglaev-Bakhvalov tipli şebeke üzerinde sonlu fark şeması kurulmuştur. Ayrık maksimum normda hata yaklaşımları elde edilmiştir. Teorik analizi doğrulamak için bir adet nümerik örnek çözülmüştür.
+Yazar isimleri: ['Hakkı DURU', 'Bahar GÜRBÜZ']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Yüzüncü Yıl Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yyufbed/issue/71465/1085501
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2300645

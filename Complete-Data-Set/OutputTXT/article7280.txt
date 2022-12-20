@@ -1,0 +1,7 @@
+Makale Başlığı: Examining the hydrophobic properties of electrospun oxide-induced polystyrene nanofibers for application in oil-water separation
+Özet: Nanofibers have great importance in the membrane technology used in hydrophobic surface filtration studies applied to water-oil separation products. This study improves upon the hydrophobic properties of electrospun polystyrene-based nanofibers by increasing surface contact angles. As a result, nanofibers have been produced by adding ZnO, MoO3, NiO, SiO2, and TiO2 additives to the polystyrene (PS)/dimethylformamide (DMF) polymer solution at 5% of the mass. Surface contact angle (CA), fourier-transform infrared spectroscopy (FTIR), and scanning electron microscope (SEM) images of the nanofibers were taken. The obtained results were evaluated and show the fiber diameter to range from 555 to 1553 nm. The addition process was observed to be able to affect the polystyrene fiber’s ability to retain water. Moreover, surface contact angle of polystyrene increased to 143° by TiO2 addition. Furthermore, the highest oil-carrying capacity is concluded to have been observed on the SiO2 and MoO3 doped fibers.
+Yazar isimleri: ['Kemal DOĞAN', 'Ali Akbar HUSSAINI', 'Mehmet Okan ERDAL', 'Murat YILDIRIM']
+Yayın Yılı: 15 Ağustos 2022
+Dergi ismi: International Advanced Researches and Engineering Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iarej/issue/72165/1075031
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2259319

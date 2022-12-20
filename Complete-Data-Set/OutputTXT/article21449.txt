@@ -1,0 +1,7 @@
+Makale Başlığı: Oscillatory and asymptotic behavior of third-order nonlinear differential equations with a superlinear neutral term
+Özet: Sufficient conditions are derived for all solutions of a class of third-order nonlinear differential equations with a superlinear neutral term to be either oscillatory or convergent to zero asymptotically. Examples illustrating the results are included and some suggestions for further research are indicated.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783642
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

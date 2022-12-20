@@ -1,0 +1,7 @@
+Makale Başlığı: Bitcoin Cryptocurrency Price Prediction Using Long Short-Term Memory Recurrent Neural Network
+Özet: Due to its growing popularity and commercial acceptance, cryptocurrency is playing an increasingly essential role in altering the financial system. While many people are investing in cryptocurrency, the dynamic characteristics and predictability of cryptocurrency are still largely unknown, putting investments at risk. In this paper, we attempt to anticipate the Bitcoin price by taking into account a variety of factors that influence its value with the highest possible accuracy using (LSTM) Recurrent Neural Network. The data we use in this work includes updated daily records of many aspects of Bitcoin pricing over a five-year period. Since the cryptocurrency (Bitcoin) data is so volatile, we implement an effective pre-processing of the data in order to have a better prediction result. With this solution, we gain accuracy of 95.7% and RMSE of 0.05. Furthermore, we compare this work with other existing methods based on performance and accuracy. This comparison demonstrates that utilizing LSTM with adequate hyperparameter tweaking is one of the most efficient ways for cryptocurrency price prediction.
+Yazar isimleri: ['Jawad RASHEED']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1079622
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2277121

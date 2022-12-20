@@ -1,0 +1,7 @@
+Makale Başlığı: Pandemi Dönemi İş Güvenliği Algısı Ölçeğinin Geçerlik ve Güvenirlik Çalışması
+Özet: Tüm ülkelerde çalışanların sağlık ve güvenliğini sağlamak, küresel ölçekte işletmeler için önemli bir sorun alanı olarak tüm varlığını sürdürmektedir. Nitekim 2019 Aralık ayından beri devam eden ve çalışma koşullarının değişmesine yol açan COVID-19 pandemisi de çalışanların sağlık ve güvenliğinin korunmasını önemli hale getirmiştir. Bu çalışmanın amacı, pandemi dönemi iş güvenliği algısı ölçeğinin geçerlik ve güvenirlik çalışmasının yapılmasıdır. Araştırmaya 681 çalışan katılmıştır. Araştırma verilerinin analizinde SPSS 22 ve LISREL 8.71 programları kullanılmıştır. Yapılan analiz sonucunda, ölçekte bulunan maddelerin faktör yüklerinin 0,778 ile 0,908 arasında değiştiği ve açıklanan toplam varyansın %84,14 olduğu görülmüştür. Yapılan doğrulayıcı faktör analizi sonuçlarına göre ölçek; (Ki-kare/sd: 4,72; RMSEA: 0.074; NFI: 0.99; NNFI: 0.99; CFI: 0.99; GFI: 0.96 ve AGFI: 0.93) 10 madde ve 2 faktörden oluşmaktadır. Ölçeğin içsel tutarlığı 0,956 olarak hesaplanmış ve madde-toplam korelasyonlarının 0,675 ile 0,879 arasında değiştiği tespit edilmiştir. Elde edilen bulgular, pandemi dönemi iş güvenliği algısı ölçeğinin geçerli ve güvenilir bir ölçüm aracı olduğunu göstermektedir.
+Yazar isimleri: ['Hüsre Gizem AKALP', 'Sevinç Serpil AYTAÇ']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: SGD-Sosyal Güvenlik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sgd/issue/70879/1135350
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2505468

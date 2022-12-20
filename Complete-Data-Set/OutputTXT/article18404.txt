@@ -1,0 +1,7 @@
+Makale Başlığı: İndirgeyici ajan olan sodyum borhidrür ile aktif karbon yüzeyinde aktif platin parçacıklarının sentezi
+Özet: Aktif karbon yüzeyinde platin nanopartiküller, hekzakloroplatinik asidin (H2PtCl6) farklı indirgenlerle kimyasal indirgenmesiyle elde edilmiştir. İndirgeyici ajan olarak sodyum borhidrür, formik asit ve formaldehit seçilmiştir. Bu çalışmada platin parçacıklarının aktif karbon yüzeyindeki dağılımı ve yapısı üzerinde indirgeyici ajan seçiminin etkileri incelenmiştir. Elde edilen ürünlerin morfolojisi ve mikro yapısı taramalı elektron mikroskobu (SEM), faz karakterizasyonu X ışını kırınım spektrometre (XRD) ve yüzey alanı ile gözenek boyut dağılımları azot adsorpsiyon izoterminden BET yöntemi ile hesaplanarak belirlenmiştir. Elde edilen sonuçlar, indirgeyici ajan olarak sodyum borhidrürün kullanımının aktif karbon yüzeyinde homojen platin nanoparçacıklarının eldesi için optimum koşullar sunduğunu göstermiştir.
+Yazar isimleri: ['Osman OKUR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bor Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/boron/issue/72782/1128253
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2476132

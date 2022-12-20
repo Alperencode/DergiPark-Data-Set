@@ -1,0 +1,7 @@
+Makale Başlığı: Kasko Sigortası Üretimi Yapan Şirketlerin 2017 – 2021 Yılları Arası VZA ve TOPSIS Yöntemleriyle Etkinlik Analizi
+Özet: Trafiğe kayıtlı araç sayısının her geçen gün artmasıyla birlikte kasko sigortasının yaygınlığı artmaktadır. Kasko sigortasının bu kadar yaygınlık göstermesi, sigorta şirketleri açısından etkinlik ve performans düzeylerinin saptanması hususunu gündeme getirmiştir. Etkinlik düzeyleri ile şirketlerin verimlilikleri, zayıf ve güçlü yönleri tespit edilmektedir. Bu çalışmada Veri Zarflama Analizi (VZA) ve TOPSIS Yöntemi kullanılmıştır.  Analizde Çıktı Yönlü CCR ve TOPSIS Yöntemi uygulanmıştır. Çıktı yönlü CCR modeli ile etkinlik düzeyleri belirlenirken TOPSIS Yöntemi ile performans sıralamaları yapılmıştır. Elde edilen bulgular sonucunda, şirket bazında etkinlik oranları 2017 yılından 2019 yılına kadar yükseliş halindeyken 2020 ve 2021 yıllarında düşüş olduğu görülmüştür. Ayrıca performans sıralaması olarak Allianz ve Anadolu Sigortanın en yüksek, Atlas ve Magdeburger Sigortanın en düşük performansa sahip olduğu tespit edilmiştir.
+Yazar isimleri: ['Enes AKKURT', 'Abdurrahman OKUR']
+Yayın Yılı: 18 Temmuz 2022
+Dergi ismi: Bankacılık ve Finansal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jobaf/issue/71282/1132067
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2491977

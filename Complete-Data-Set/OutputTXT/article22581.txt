@@ -1,0 +1,7 @@
+Makale Başlığı: Biyometrik Verilerin İşlenmesinin Yargı Kararları Işığında Değerlendirilmesi
+Özet: Bir kişi ile ilişki kurulabilmesini sağlayan her türlü veri, kişisel veridir. Biyometrik veriler, kanunda tanımı yapılmamakla birlikte, parmak izi,  avuç içi,  iris, yüz taraması gibi fizyolojik veya adım atma, kalem tutma gibi davranışsal belli bir kişi ile ilişki kurabilen verilerdir. Kişisel Verilerin Korunması Kanunu (KVKK) 6. maddesinde özel nitelikli veri olarak kabul edilmiştir. Biyometrik veriler, kişinin kimliğinin belirlenmesi imkânı veren ve kopyalanma ya da taklit edilmesine müsaade etmediğinden, gizlilik, güvenlik veya kontrol gereken yerlerin girişlerinde kullanılmaktadır. Son dönemde, çalışanların mesai saatlerine riayet etmesini ve kontrolünü sağlamak adına, teknolojinin gelişmesiyle birlikte parmak izi ile giriş sağlayan sistemlerin uygulanması yaygınlaşmıştır. Bununla birlikte, parmak izini kaydeden uygulamaların kişilik hakkını ve özel hayatın gizliliği kuralını ihlal ettiği bahsiyle uygulamaların iptaline yönelik yargıya başvurular da artmıştır. Çalışmamızda, biyometrik verilerin tanımı ve işlenme usulleri ile konuya ilişkin Anayasa Mahkemesi, Danıştay ve Kişisel Verileri Koruma Kurulu’nun verdiği kararlar değerlendirilecektir.
+Yazar isimleri: ['Miray ÖZER DENİZ', 'Memet Turan ÖZER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Çukurova Üniversitesi Hukuk Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cuhad/issue/69807/1110047
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2401602

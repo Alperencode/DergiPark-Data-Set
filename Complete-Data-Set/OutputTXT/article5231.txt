@@ -1,0 +1,7 @@
+Makale Başlığı: Regle Yüzeylerin Modifiye Çatı ile Karakterizasyonları
+Özet: Bu çalışmanın başında, Modifiye çatı kullanılarak yeni bir regle yüzey oluşturulmuştur.. Daha sonra bu yüzeyin dağılım parametresi, sitriksiyon çizgisi, yüzeyin normal vektör alanı esas formları hesaplanıp diferansiyel geometrik özelliklerine bakılmıştır. Çalışmanın son kısmında ise bu yeni regle yüzey ile ilgili örnekler verilmiştir.
+Yazar isimleri: ['Hatice KUSAK SAMANCI', 'Mustafa SEVİNÇ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Erzincan Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erzifbed/issue/72358/997998
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1984567

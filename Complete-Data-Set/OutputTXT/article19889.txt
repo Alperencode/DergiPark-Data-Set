@@ -1,0 +1,7 @@
+Makale Başlığı: The comparison of range-based volatility estimators and an application of TVP-VARbased connectedness
+Özet: This paper aims to show the application of range-based volatility in connectedness analysis. For this purpose, we compare the volatility estimators Parkinson, Yang-Zhang, Garman-Klass, Rogers-Satchell, and modified Garman- Klass by Yang and Zhang methods. As an example, we calculated the range-based stock prices’ volatility of four defense industry companies quoted in Borsa Istanbul. We compared the forecast performance of volatility against Heteroskedastic Root Mean Square Error statistics. We include the best performing volatility series in the spillover analysis. Instead of the Cholesky decomposition VAR and generalized VAR approaches used in the calculation of the Diebold-Yılmaz connectedness index, we apply the TVP-VAR-based connectedness approach. The comparison results show that Rogers-Satchell for ASELSAN, KATMERLER, and PAPIL, and Parkinson volatility estimator for OTOKAR have the smallest error, respectively. The empirical findings of TVP-VAR connectedness show that the average forecast error variance of the network is 34.35%.
+Yazar isimleri: []
+Yayın Yılı: 7 Ağustos 2022
+Dergi ismi: Journal of Life Economics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jlecon/issue/72159/1161651
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2594913

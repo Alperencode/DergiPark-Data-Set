@@ -1,0 +1,7 @@
+Makale Başlığı: Improving the Design of Blade for Horizontal Axis Wind Turbine with QBlade Software
+Özet: 
+Yazar isimleri: ['Prasun BHATTACHARJEE']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Artificial Intelligence and Data Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jaida/issue/70917/1110409
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2403018

@@ -1,0 +1,7 @@
+Makale Başlığı: Orthophoto production and accuracy analysis with UAV photogrammetry
+Özet: 
+Yazar isimleri: ['Ramazan GÜNGÖR', 'Melis UZAR', 'Bilal ATAK', 'Osman Salih YILMAZ', 'Erdal GÜMÜŞ']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: Mersin Photogrammetry Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mephoj/issue/71181/1122615
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2452764

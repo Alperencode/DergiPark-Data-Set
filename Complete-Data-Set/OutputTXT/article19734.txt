@@ -1,0 +1,7 @@
+Makale Başlığı: EXPLANATION OF THE TURKISH INFLATION RATE WITH FISHERIES EXPORT AND IMPORT
+Özet: Turkey has a very high potential in terms of fisheries and its fisheries production has steadily increasing. As a result, the export value has been multiplied by a factor of 9 compared to the beginning of 2000’s by reaching up to $413 million and the import value increased by a factor of 5 during the same period by reaching up to $176 million. The purpose of this study was to explain the factors that affect the inflation rate with a multiple regression model. Therefore, we used the time series. Time Series (Time Series data): Most macroeconomic variables which are observed in equal time periods belong to this group (e.g. Gross Domestic Production, the inflation and interest rates, exchange rates, the Istanbul Stock Exchange Index, etc.). In this study, we analysed Turkey’s inflation rates of the last 27 years with respect to fisheries import ($) and export ($), using the multiple regression analysis method. With the help of the regression analysis model, we were able to explain 66% of Turkey’s inflation rate with fisheries export ($) values.
+Yazar isimleri: []
+Yayın Yılı: 13 Mart 2015
+Dergi ismi: Journal of Academic Documents for Fisheries and Aquaculture
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jadfa/issue/9803/121502
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/103373

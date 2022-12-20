@@ -1,0 +1,7 @@
+Makale Başlığı: Employing of 2-Acetylpyridine Based Chalcone as Hg2+ Sensing Material: Experimental and Theoretical Examination
+Özet: This study reports the evaluation of 2-acetylpyridine based chalcone structure as a useful sensing material for Hg2+ ion detection by the means of UV-visible spectroscopy. In this context, firstly, the most common twenty metal ions were treated by the chalcone structure which was synthesized from 2-acetylpyridine and 4-diphenylaminobenzaldehyde according to the known procedures. As result, the studied chalcone compound exhibited good sensing activity towards Hg2+ ion in acetonitrile/water medium with significant red-shift phenomenon. In addition, some photophysical/electronic parameters of the chalcone and its Hg2+ complex were determined experimentally and theoretically. B3LYP, PBE0 methods and SVP, TVZP, and TVZPP basis sets were used for theoretical calculations in acetonitrile media. Finally, experimental results were explained and the proposed sensing mechanism was supported via density functional theory (DFT) outputs.
+Yazar isimleri: ['Ahmad Badreddin MUSATAT', 'Alparslan ATAHAN', 'Mecit AKSU', 'Mustafa ZENGİN']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/1148897
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2557987

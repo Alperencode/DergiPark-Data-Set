@@ -1,0 +1,7 @@
+Makale Başlığı: Comparative study on the effect of precursors on the morphology and electronic properties of CdS nanoparticles
+Özet: Cadmium dithiocarbamate and cadmium ethyl xanthate complexes were synthesized and characterized by microanalysis, Fourier transform infrared (FT-IR) spectroscopy and thermogravimetric analyses. The complexes were employed as molecular precursors for the fabrication of CdS nanoparticles in hexadecylamine (HDA) and oleylamine (OLA) at a temperature of 250 degrees C. Spherical and oval shaped particles with sizes ranging from 9.93 +/- 1.89 to 16.74 +/- 2.78 nm were obtained in OLA while spherical, oval and rod shaped particles with sizes ranging from 9.40 +/- 1.65 to 29.90 +/- 5.32 nm were obtained in HDA. Optical properties of the nanoparticles showed blue shifts as compared to the bulk CdS, with the OLA capped nanoparticles slightly more blue shifted than the corresponding HDA capped nanoparticles. Results of crystallinity patterns revealed hexagonal phase of CdS.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944733
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1794972

@@ -1,0 +1,7 @@
+Makale Başlığı: Gerçek Zamanlı Büyük Veri İşleme ve Analitiği: Kavramlar, Teknolojiler ve Etki Alanları
+Özet: Dijital çağda veriler, değerli bilgileri gizlediği için en önemli varlıklardan biridir. Veri yoğun sistemlerin geliştiricileri, çeşitli biçimlerde ve hızlarda büyük miktarda verinin akışının, depolanmasının ve işlenmesinin her düzeyinde yeni zorluklarla karşılaşmaktadır. Doğru zamanda ve yerde faydalı bilgiler edinmek de çok önemlidir. Bilginin değeri zamanla ters orantılı olduğundan, gerçek zamanlı veri işleme ve analitik daha fazla ilgi görmektedir. Gerçek zamanlı veri işleme ve analitiğin önemi nedeniyle, bu çalışmada gerçek zamanlı veri işleme kavramları ve terminolojisi, gerçek zamanlı veri işleme ve analitikte kullanılan popüler teknolojiler, gerçek zamanlı veri işlemede kullanılan popüler NoSQL depolama teknolojileri, ve gerçek zamanlı veri işleme uygulama alanları sunulmuştur. Bu makalenin amacı, gerçek zamanlı veri işleme teknolojilerinin temel özelliklerini, NoSQL depolama teknolojilerini ve bunların uygulamalarını vurgulayarak, gerçek zamanlı analiz araştırmacılarına ve veri yoğun sistem geliştiricilerine gerçek zamanlı veri işleme konusunda önceki çalışmalardan seçilmiş örnekler ile karşılaştırmalı bir bakış açısı sağlamaktır.
+Yazar isimleri: ['Uğur KEKEVİ', 'Ahmet Arif AYDIN']
+Yayın Yılı: 7 Aralık 2022
+Dergi ismi: Bilgisayar Bilimleri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bbd/issue/73741/1204112
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2770544

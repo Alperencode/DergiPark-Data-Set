@@ -1,0 +1,7 @@
+Makale Başlığı: GELİŞMEKTE OLAN ÜLKELERDE EKONOMİK BÜYÜME: CES VE TRANSLOG ÜRETİM FONKSİYONU YAKLAŞIMI
+Özet: Bu çalışma, temelde üretim sürecinde kullanılan emek girdisi artırılarak dış borç alma gereksiniminin bir dereceye kadar azaltılabileceği varsayımına dayanmaktadır. Çalışmada, CES üretim fonksiyonu ve translog üretim fonksiyonunu kullanılarak sermaye, emek ve enerji tüketimi girdi faktörleri ile gelişmekte olan 22 ülke için ekonomik girdi faktörlerinin ekonomik büyüme üzerindeki etkisini araştırmak amaçlanmıştır. Çalışmada analiz için 1980-2016 dönemine ait veri seti kullanılmıştır. Translog üretim fonksiyonuna ait parametrelerin  kestirimi için Ridge regresyon yöntemi, CES üretim fonksiyonuna ait parametrelerin kestirimi için ise doğrusal olmayan optimizasyon tekniklerinden faydalanılmıştır. Yapılan analizler sonucunda, gelişmekte olan ülkelerdeki yetersiz sermaye birikiminin dış borç kullanılarak telafi edilmesinin doğru olmayacağı söylenebilir. Bu bağlamda, gelişmiş ülkelere ait üretim fonksiyonunda yer alan sermaye – emek – enerji tüketimi gereksinimlerinin gelişmekte olan ülkelerde farklı ağırlıklarda düşünülebilir. Böylece, dış borç alma gereksinimi azaltılabilir.
+Yazar isimleri: ['Hülya BAŞEĞMEZ']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Dicle Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/duiibfd/issue/73541/1130156
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2484013

@@ -1,0 +1,7 @@
+Makale Başlığı: THE IMPORTANCE OF THE US AND POLISH MACROECONOMIC VARIABLES FOR INVESTORS ON THE WARSAW STOCK EXCHANGE
+Özet: This study investigates the impact of the scheduled US and Poland macroeconomic news releases on investment decisions on the Warsaw Stock Exchange (WSE). Our real time macroeconomic data cover the period between July 2006 and June 2009. The macroeconomic variables used include three groups of indexes: the general situation in the economy (GDP and unemployment rate for Poland, GDP and Nonfarm Payrolls for US), customers’ situation (CPI and Retail Sales Dynamics for Poland and US) and situation in enterprises sector (PPI and Industrial Production Dynamics for Poland and US). We find evidence that to a larger extent the investment decisions on the WSE are driven by the US macroeconomic variables rather than the Polish ones. Specifically, we find significant effects of the general situation in the US economy on the investment decisions. Of the macroeconomic news releases, the US GDP has the largest impact on the WSE.
+Yazar isimleri: []
+Yayın Yılı: 2 Haziran 2014
+Dergi ismi: International Journal of Emerging and Transition Economies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/deuijete/issue/4616/62996
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/53216

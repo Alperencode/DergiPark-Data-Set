@@ -1,0 +1,7 @@
+Makale Başlığı: Timol Yüklü Diş İn Situ Jellerin Tasarımı; In Vitro Değerlendirilmesi
+Özet: Amaç: Bu çalışmanın amacı, dental temas süresini uzatmak, ilaç salımını kontrol etmek ve dental biyoyararlanımı arttırmak için poloksamerlere dayalı timol yüklü in situ jel formülasyonları geliştirmektir. Gereç ve Yöntem: İn situ jellerin tasarımında Poloksamer 188 (P188) ve Poloksamer 407 (P407) farklı oranlarda kullanılmıştır. Jelin biyolojik yüzeylere yapışma yeteneğini geliştirmek için formülasyonlara hidroksipropil metilselüloz (HPMC) gibi muko-yapışkan bir yardımcı madde eklenmiştir. Oluşturulan formülasyonlar için in vitro ilaç salımı, pH, berraklık ve sol-jel geçiş sıcaklığı değerlendirilmiştir. Bulgular: Geliştirilen formülasyonların jelleşme sıcaklıkları 33 ila 37°C arasında olduğu, pH değerlerinin yaklaşık 7 olduğu ve 20 numaralı iğne ile şırıngalanabilir olduğu görülmüştür. Preparat içerisindeki, P407 ve HPMC miktarları yükseldikçe, in vitro patlama salım azalırken aynı zamanda viskozitenin arttığı tespit edilmiştir, bütün in situ  jel formülasyonlarının altı saat süre ile salım yaptığı belirlenmiştir. Sonuç: Sonuçlar, timol içeren P407 ve P188 in situ jellerin timol diş uygulaması için umut verici olduğunu göstermektedir.
+Yazar isimleri: ['Heybet Kerem POLAT', 'Sefa GÖZCÜ', 'Hüseyin AKŞİT']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Sağlık Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdusbed/issue/73442/1150492
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2563826

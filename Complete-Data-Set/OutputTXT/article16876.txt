@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of the Effect of Temperature and Strain Rate on Mechanical Properties
+Özet: The tensile test is one of the most basic and simple tests in which the material is pulled in a single axis until it breaks and allow us to recognize the material from the data obtained from it. While recognizing materials, their behavior under different temperatures and strain rates is also important. Especially in the manufacturing industry, there are many different production and shaping methods, and each has its own characteristics. For example, in the hot deep drawing process, the mechanical properties of the material can be determined by hot tensile tests. At the same time, this situation has become more important with the development of finite element analysis programs. Because modeling under the same conditions is very effective on the accuracy of the results. In this study, the effects of temperature and strain rate on tensile properties are investigated in steel, titanium, aluminum and nickel alloys. In the examinations, it is seen that the change of the temperature and strain rate for these materials have a great effect on the stress and ductility.
+Yazar isimleri: ['Süleyman KILIÇ', 'Mehmet Fatih DEMİRDÖĞEN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/987547
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1943723

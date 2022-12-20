@@ -1,0 +1,7 @@
+Makale Başlığı: An investigation on the antimicrobial activity of hemp fiber and fabrics againist common nasocomial infection agents
+Özet: Hospital-acquired infections especially those occur in intensive care units are an important source of mortality, morbidity, and cost. Plant materials have been an important source for antimicrobial agents for ages. To date, the antimicrobial activity of plant materials were generally tested using their extracts. There are only a few studies that deal with the antimicrobial activity of raw fibers and fabrics. This study aims to investigate the antimicrobial properties of raw hemp fibers and hemp fabrics that are in commercial production and compare them to the widely used cotton textiles. The antimicrobial activity was tested using the “disc diffusion method”. Hemp fiber and fabrics did not show any antimicrobial activity against 21 bacteria types. Contrary to the limited study in the literature, it was concluded that hemp fibers are not effective against nosocomial infections, but new studies with different fiber types are needed.
+Yazar isimleri: ['Ahmet YÜKSEK', 'Seda GÜDÜL HAVUZ', 'Nesrin ŞAHBAZ KARADUMAN', 'Hulya ŞİMSEK', 'Mehtap HONCA']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Çukurova Anestezi ve Cerrahi Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jocass/issue/72208/1125626
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2464855

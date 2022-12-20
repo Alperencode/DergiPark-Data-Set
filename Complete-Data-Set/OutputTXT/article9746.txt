@@ -1,0 +1,7 @@
+Makale Başlığı: The causal relationship of tourism development, economic growth, and firm performance: An analysis of the food and beverage industry
+Özet: The main purpose of the study is to determine the relationship between tourism growth, economic growth, and firm performance. Within the scope of the study, the quarterly dataset over the period 2009-2020 was used. The study was conducted for the FBI, which is the second largest sub-sector of the tourism industry. Within the scope of the study, return on assets (ROA) and return on equity (ROE) are used as firm performance indicators, gross domestic product (GDP) as the economic growth indicator, whereas the number of tourist arrivals (NTA) and tourism expenditure (TEX) variables as tourism growth indicators. In line with the purpose of the study, the Toda-Yamamoto Causality Test was performed in the analysis part. According to the analysis results, it was determined that a significant relationship existed between tourism growth and firm performance, as well as between economic growth and firm performance. Consequently, it was possible to claim that tourism growth and economic growth had a significant impact on firm performance.
+Yazar isimleri: ['Mehmet Oğuzhan İLBAN', 'Mehmet Tahsin LİCELİ']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Journal of Tourism Leisure and Hospitality
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/toleho/issue/70355/1173937
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2644930

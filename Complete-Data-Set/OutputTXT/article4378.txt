@@ -1,0 +1,7 @@
+Makale Başlığı: Corrosion Performance Investigation of Reinforcement Bars Coated with Cement and Mineral Admixture Slurry
+Özet: Reinforcement corrosion is considered as one of the most important parameters determining the service life of reinforced concrete structures. In this study, an alternative method that protects reinforced concrete reinforcements against the effects of corrosion has been examined. Within the scope of the study, in addition to the traditionally produced reference reinforced concrete samples, reinforced concrete samples produced with mineral additive cement slurry coated reinforcements were prepared. In addition to silica fume at 30% of the cement amount by mass, blast furnace slag at 25% and 50% of the cement amount was used in mineral added cement slurries. According to the test results, it was determined that the slurry coating application decreased the corrosion potential values  and the corrosion current density values of the reinforcements in the samples exposed to the wetting and drying cycles in the sodium chloride environment.
+Yazar isimleri: ['Hüseyin YİĞİTER']
+Yayın Yılı: 19 Eylül 2022
+Dergi ismi: Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/deumffmd/issue/72304/1055161
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2181667

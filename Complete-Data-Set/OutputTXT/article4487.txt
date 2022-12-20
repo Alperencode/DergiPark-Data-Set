@@ -1,0 +1,7 @@
+Makale Başlığı: Mn-bölgesi Katkılamanın La0.62Bi0.05Ca0.33Mn1-xRuxO3 Manganit Sisteminin Manyetokalorik Özellikleri Üzerine Etkileri
+Özet: Bu çalışma katıhal reaksiyon yöntemiyle elde edilen La0.62Bi0.05Ca0.33Mn1-xRuxO3 (x=0.0, 0.1 ve 0.2) manganit bileşiklerinde Ru elementi katkısının malzemelerin manyetokalorik özellikleri (MC) üzerindeki etkilerini bildirmektedir. XRD analizi, numunelerin ortorombik (Pnma uzay grubu) yapıda kristalleştiğini göstermiştir. Örneklerin manyetik faz geçiş sıcaklıkları 100 Oe uygulanan alan altında katkısız x = 0.0 örneği için 221K,  x = 0.1 ve x = 0.2 örnekleri için sırasıyla 215 ve 207K olarak belirlenmiştir. Arrott eğrileri tüm örneklerin ikinci dereceden faz geçişi sergilediğini doğrulamaktadır. 5 T alan altında  -∆S_M^max değerleri x = 0.0, 0.1 ve 0.2 örnekleri için sırasıyla 7.55, 3.51 ve 2.69 J/kgK olarak hesaplanmıştır. Örneklerin göreli soğutma güç (RCP) değerlerinde bir azalma gözlemlenmiştir. Ru katkısının örneklerin geçiş sıcaklık ve manyetik entropi değişim değerlerinde bir düşüş gösterdiği sonucuna ulaşılmıştır.
+Yazar isimleri: ['Selda KILIÇ ÇETİN', 'Gönül AKÇA', 'Ahmet EKİCİBİL']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/947801
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1806424

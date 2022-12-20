@@ -1,0 +1,7 @@
+Makale Başlığı: Design of a spurious-free RF frequency synthesizer for fast-settling receivers
+Özet: A tunable reference clock frequency topology is presented as a spur reduction application for frequency  synthesizers of fast frequency hopping spread spectrum systems. The method was verified by measurements on a  designed hardware operating at L-band frequencies. This spur reduction method is based on optimizing the reference  clock frequency of synthesizers to mitigate spurs. By using the spur reduction method, the power of spurious signals  was reduced up to 57 dB. The performance of the spur reduction method was also analyzed at different loop-filter  configurations. Smaller lock time was obtained by enlarging the bandwidth of the loop filter up to 150 kHz. The  required power response of the spurious signals specified in telecommunication standards was achieved even though the  loop filter bandwidth was enlarged.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739690
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110693

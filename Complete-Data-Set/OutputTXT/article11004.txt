@@ -1,0 +1,7 @@
+Makale Başlığı: Elyaf Takviyeli Polimer Tamir Tasarımının Sistematik Tasarım Yöntemi ile Belirlenmesi
+Özet: Bu çalışmada kompozit tamir tasarımının Pahl & Beitz sistematik tasarım yaklaşımı ile karar verilmesi amaçlanmaktadır Bu kapsamda da kompozit tamir tasarımı için gerekli olan tesis kabiliyetleri, maliyet, malzemeye erişebilme gibi mühendislik dışı kriterleri ve dayanım, sağlamlık gibi mühendislik kriterleri sistematik bir yaklaşımla ele alınmaktadır. En yaygın malzemelerden biri olan elyaf takviyeli polimerlerin tamir tasarımı için ihtiyaç listesi, fonksiyon yapısı ve alt fonksiyonları oluşturulmuş ve çözüm varyantları elde edilmiştir. Çözüm varyantları için karar ağacı, değerlendirme çizelgesi ve değer profil diyagramı oluşturulması ile de optimum tasarım belirlenmiştir.
+Yazar isimleri: ['Öznur BAYRAKTAR ERBUDAK', 'Orhan ERDEN']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Makina Tasarım ve İmalat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/matim/issue/73564/1102561
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2370674

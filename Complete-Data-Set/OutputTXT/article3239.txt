@@ -1,0 +1,7 @@
+Makale Başlığı: Cari işlemler dengesi ve ekonomik büyüme: Türkiye üzerine ampirik bir uygulama
+Özet: Türkiye ekonomisinde 1980’li yıllardan itibaren cari işlemler açığı en önemli makroekonomik sorunlardan biri haline gelmiştir. Türkiye gibi gelişmekte olan ülkelerde cari işlemler açıklarında meydana gelen artışlar ekonomik büyüme üzerinde olumsuz bir etki yaratabilmektedir. 1980 yılı sonrası dönemde cari işlemler dengesi ve ekonomik büyüme ilişkisinin anlatıldığı bu çalışmanın analiz bölümünde yeni bir değişken olarak bütçe dengesi ilave edilmiştir. 1981-2021 dönemi için Türkiye’de cari işlemler dengesi, ekonomik büyüme ve bütçe dengesi arasındaki ilişki Johansen Eşbütünleşme ve Toda-Yamamoto Nedensellik yöntemleri ile analiz edilmiştir. Johansen Eşbütünleşme analizinde cari işlemler dengesi, ekonomik büyüme ve bütçe dengesinin uzun dönemde birlikte hareket etmedikleri tespit edilmiştir. Toda-Yamamoto Nedensellik analizinde ise hem ekonomik büyüme ve cari işlemler dengesi arasında hem de bütçe dengesi ve ekonomik büyüme arasında çift yönlü nedensellik olduğu tespit edilmiştir.
+Yazar isimleri: ['Aslı YENİPAZARLI', 'Burcu KARACA']
+Yayın Yılı: 9 Kasım 2022
+Dergi ismi: Business Economics and Management Research Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bemarej/issue/73285/1176627
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2656155

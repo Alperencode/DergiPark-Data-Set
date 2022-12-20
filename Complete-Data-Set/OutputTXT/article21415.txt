@@ -1,0 +1,7 @@
+Makale Başlığı: Plane wave diffraction by strip with an integral boundary condition
+Özet: In this article, a new solution method is proposed for plane wave diffraction by a strip. On the surface of the  strip, an integral boundary condition is used. The impedance of the strip is investigated. The theoretical and numerical  analyses show that there is a relation between the complex-valued fractional order of the integral boundary condition  and properties of the material such as the impedance. As a further study, the total radar cross-section is investigated  using the proposed method.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739729
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110738

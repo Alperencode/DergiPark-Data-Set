@@ -1,0 +1,7 @@
+Makale Başlığı: Rijit Bodrum Perdelerinin TBDY 2018 ile Tasarlanan Az Katlı Yapılardaki Etkisi Üzerine Bir İnceleme
+Özet: Çalışma kapsamında rijit bodrum perdelerinin 6 katlı betonarme bir binanın davranışına etkisi incelenmiştir. İncelenen yapının tasarımı, TBDY-2018'e uygun olarak 3 boyutlu olarak SeismoStruct yazılımında gerçekleştirilmiştir. Bunun için bina ilk etapta ZD sınıfı katta rijit bodrum perdeleri ile tasarlanmıştır. Daha sonra bu rijit bodrum perdeleri kaldırılarak ikinci bir yapı elde edilmiştir. Sonuç olarak bu iki yapının yatay yükler altındaki performansları incelenmiştir. Her iki durumda da yapılar 3 boyutlu olarak incelenirken doğrusal olmayan statik itme analizlerine tabi tutulmuştur. Modeller, iki farklı yatay yükleme koşuluyla doğrusal olmayan artımlı statik itme analizi ile her iki tasarım yönü için analiz edilmiştir. Sonuç olarak, rijit bodrum perde duvarlı ve perdesiz binanın performans faktörleri, aşırı güç faktörü, doğal aşırı güç faktörü, süneklik ve rijitlik faktörü değerleri açısından karşılaştırmalı olarak değerlendirilmiştir.
+Yazar isimleri: ['Serkan ETLİ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1092841
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2330404

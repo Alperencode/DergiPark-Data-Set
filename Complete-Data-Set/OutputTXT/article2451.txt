@@ -1,0 +1,7 @@
+Makale Başlığı: Design Consideration for Active–Only Memcapacitor Emulator Circuits
+Özet: 
+Yazar isimleri: ['Hacer ATAR YİLDİZ', 'Omer AYDIN']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/1108680
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2395598

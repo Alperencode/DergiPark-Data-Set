@@ -1,0 +1,7 @@
+Makale Başlığı: Examining The Ballistic Properties of the B4C and Al2O3 Ceramic Plates
+Özet: Boron carbide (B4C) and alumina ceramic (Al2O3) plate, known as the hardest materials are of a great scientiﬁc interest for years due to a unique combination of diﬀerent useful properties. In this study, the microstructure, mechanical and ballistic properties of boron carbide (B4C) and alumina (Al2O3) ceramic plates used for ballistic protection are examined and the results are compared with similar studies in the literature. B4C and Al2O3 samples content shows a homogeneous distribution and their density is measured as 2.52 g/cm3 and 3.85 g/cm3, respectively. B4C and Al2O3 exhibit brittle fracture and constitute linear deformation at low stresses. Elastic properties change according to the carbon content in boron carbide structure. B4C and Al2O3 plates have trauma depths of 28.8 mm and 34.4 mm (872 m / sec on boron carbide plate, 884 m / sec, 7.62x51 mm M2 AP bullet on alumina plate and) on ballistic tests. It provides full protection within the framework of NIJ-STD-0101.07 standard. Due to the high hardness of B4C, the expectation that it will exhibit better ballistic properties compared to Al2O3 is not possible because the material is excessively brittle.
+Yazar isimleri: ['Serap (GÜNGÖR) KOC']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/801714
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1315804

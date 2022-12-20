@@ -1,0 +1,7 @@
+Makale Başlığı: 2D BACKWARD FACING STEP FLOW SIMULATION BY FINITE DIFFERENCE METHOD
+Özet: In the current study, a backward-facing step flow (BFS) by finite difference discretization is solved in 2D Cartesian coordinate system. The governing equations of the problem are the incompressible Navier-Stokes equations and the continuity equation. The no-slip boundary conditions are applied using ghost cells within the solid domain. The Dirichlet and Neumann boundary conditions are implemented at the inlet and outlet of the channel, respectively. MAC (Marker and Cell) method is utilized as a numerical scheme to solve the flow. The problem is considered as a Stokes flow (Re=0). Results show good agreement with the data that is calculated by the commercial software. The code written in Matlab is provided in the Appendix.
+Yazar isimleri: ['Cihad ÇELİK', 'Bülent DANIŞMAN', 'Barış BARLAS']
+Yayın Yılı: 18 Ekim 2022
+Dergi ismi: GİDB Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gidb/issue/73057/1091238
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2323718

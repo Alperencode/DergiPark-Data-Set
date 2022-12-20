@@ -1,0 +1,7 @@
+Makale Başlığı: Boyabat Yöresi Yıllık Kuraklıklarının Farklı Meteorolojik Kuraklık İndisleri Kullanılarak Araştırılması
+Özet: Etkilerini her geçen gün artıran bir doğal afet olan kuraklık, önemli zararlar verebilmektedir. Kuraklığı belirlemek için çeşitli kuraklık indeksleri yapılmıştır. Bu endeksler sayesinde kuraklık belirlenebilir ve kuraklığa karşı gerekli önlemler alınabilir. Bu çalışmada, Kızılırmak Havzasında Boyabat meteorolojik gözlem istasyonuna ait 1976-2017 yağış kayıtları kullanılarak yıllık kuraklık araştırması yapılmıştır. Kuraklık analizinde meteorolojik kuraklık endeksleri olan Z-Score Index, China-Z Index ve Modified China-Z Index kullanılmıştır. İstasyonun kurak ve yağışlı dönemleri meteorolojik kuraklık indeksleri aracılığıyla belirlenmiş, ayrıca en kurak ve en yağışlı yıllar da belirlenmiştir. Endeksler arası uyumun da incelendiği çalışmada, MCZI-ZSI ve MCZI-CZI korelasyon katsayısı ZSI-CZI’ye göre daha yüksek olduğu belirlendi. Boyabat bölgesindeki kuraklık olayları farklı endeksler kullanılarak araştırılmalıdır.
+Yazar isimleri: ['Utku ZEYBEKOĞLU', 'Ahmet ŞAHİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Sürdürülebilir Mühendislik Uygulamaları ve Teknolojik Gelişmeler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/smutgd/issue/70374/993652
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1967490

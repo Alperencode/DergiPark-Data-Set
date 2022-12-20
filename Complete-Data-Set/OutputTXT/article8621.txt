@@ -1,0 +1,7 @@
+Makale Başlığı: Selecting an Alternative Concrete Batching Plant Location Using IT2 Fuzzy ANP Methodology
+Özet: The use of Ready-Mixed Concrete started to be used after the 1970s and its importance has gradually increased in recent years. The rapid development of the construction industry in our country in recent years has contributed to the rapid development of Ready-Mixed Concrete plants. Because of this reason, in this study the concrete plant's location is tried to be determined using the Interval Type-2 Fuzzy Analytic Network (IT2 FANP) methodology. As a result of this methodology, the ranking of the alternative concrete plant's location is found as Basaksehir, Ikitelli, and Bagcilar, respectively. To the authors’ knowledge, this is the first study in the literature that searches an alternative concrete batching plant location using Interval Type-2 (IT2) Fuzzy Multi-Criteria Decision Making (MCDM) techniques. The advantage of this study is that it enriches this aspect, which is seen as missing in the literature, and is a pioneer in the studies to be done in this field.
+Yazar isimleri: ['Kemal Gökhan NALBANT', 'Şahika ÖZDEMİR', 'Yavuz ÖZDEMİR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: İstatistik ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsas/issue/70765/1091307
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2323998

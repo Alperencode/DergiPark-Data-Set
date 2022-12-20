@@ -1,0 +1,7 @@
+Makale Başlığı: A New Approach For Smarandache Curves
+Özet: 
+Yazar isimleri: ['Semra KAYA NURKAN', 'İlkay GÜVEN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1004423
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2008699

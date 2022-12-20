@@ -1,0 +1,7 @@
+Makale Başlığı: Covid-19 Salgını Hisse Senedi Piyasalarını Etkiledi Mi? Seçilen Ülkelerden Kanıtlar
+Özet: Bu çalışma, COVID-19 salgınının hisse senedi piyasaları üzerindeki etkisini araştırmaktadır. Bu kapsamda, hisse senedi getiri ve risklerinin 1 Şubat 2020 – 31 Temmuz 2020 (COVID-19 dönemi) ile 1 Şubat 2019 – 31 Temmuz 2019 dönemleri (COVİD-19 öncesi dönem) arasında farklılaşıp farklılaşmadığını tespit etmek için Wilcoxon İşaretli Sıra testi kullanılmıştır. Yapılan analizler neticesinde, COVID-19 döneminde piyasalar arasındaki korelasyonların genellikle artış sergilediği bulunmuştur. Ayrıca, aynı dönemde piyasalarda standart sapmaların yükseldiği ve ortalama getirilerin düştüğü (DSEX, JSE, KSE, MERV hariç) gözlemlenmiştir. Wilcoxon testi sonuçları, hisse senedi getirileri ve standart sapmalar açısından dönemler arasındaki farkların istatistiksel olarak anlamlı olduğunu kanıtlamaktadır. Bu bulgular, COVID-19 salgınının hisse senedi piyasalarını olumsuz etkilediğini işaret etmektedir.
+Yazar isimleri: []
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Anadolu Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ausbd/issue/72754/1181541
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2677094

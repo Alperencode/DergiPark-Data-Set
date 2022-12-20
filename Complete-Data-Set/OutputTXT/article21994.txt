@@ -1,0 +1,7 @@
+Makale Başlığı: Kesit alan geometri etkisinin PEM yakıt hücresinin performansı üzerine incelenmesi
+Özet: Bu çalışmada, düşük sıcaklıklarda çalışan tek kanallı bir proton değişim membranlı yakıt hücresi modellenmiştir. Hazırlanan model deneysel verilerle karşılaştırılmış ve doğruluğu kanıtlanmıştır. Bu model kullanılarak, kanal yüksekliği sabitken kanal genişliğindeki değişimin hücre performansına etkisi ve kanal kesit alanı sabitken kanal geometrisindeki değişim araştırılmıştır. Reaktantın difüzyon tabakası ile temas ettiği alanın büyütülmesinin performans artışı sağladığı tespit edilmiştir. Ancak düşük voltajlarda çalışırken taban açısı ve kanal genişliğinin artmasıyla artan konsantrasyon kayıplarının azaldığı gözlemlenmiştir.
+Yazar isimleri: ['Anil Can TÜRKMEN', 'İsmet TIKIZ', 'Veli ÇELİK', 'Doç. Dr. Cenk ÇELİK']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: Uluslararası Yakıtlar Yanma Ve Yangın Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fce/issue/60446/993508
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1966851

@@ -1,0 +1,7 @@
+Makale Başlığı: Elektrikli Araç Şarj İstasyon Yerlerinin Akış Yakıt İkmal Yer Modeli Kullanılarak Belirlenmesi
+Özet: Dünyada elektrikli araçlara olan talebin artması ve elektrikli araçların gelişmekte olan bir pazar olması nedeniyle şarj istasyon konumlarının planlanmasını optimize etmek büyük önem arz etmektedir. Elektrikli araçların kullanımının yaygınlaştırılması için ihtiyaç duyulan şarj istasyonları, özellikle Türkiye gibi gelişmekte olan ülkelerde bir sorun haline gelmektedir.  Elektrikli araç şarj istasyonlarının en az maliyet ile en çok hizmeti sağlayacak şekilde konumlandırılması gerekmektedir. Bu çalışmada Sakarya ili için elektrikli araçların şarj istasyon yerlerinin belirlenmesi problemi üzerinde durulmuştur. Problemde şarj istasyon kurulum maliyetleri en az, ilçeler arası tüm yolların akışı ise en çok olacak şekilde akış yakıt ikmal yer modeline dayanan çok amaçlı karışık tamsayılı doğrusal programlama modeli geliştirilmiştir.  Çok amaçlı modelin çözümünde literatürde sıkça kullanılan ağırlıklı toplam metodu kullanılmıştır.
+Yazar isimleri: ['Sena DÖRTKÖŞE', 'Harun Reşit YAZGAN', 'Serap ERCAN CÖMERT']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/1113808
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2416138

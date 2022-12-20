@@ -1,0 +1,7 @@
+Makale Başlığı: Uluslararası Rezervlerin Gelişme Yolundaki Ekonomilerde Ekonomik Büyüme Üzerindeki Uzun Dönem Etkisi
+Özet: Bu çalışma, 1970-2019 döneminde 41 gelişmekte olan ülkede uzun dönemde uluslararası rezervlerdeki büyümenin ekonomik büyüme üzerindeki etkisini ampirik olarak incelemeye çalışmaktadır. Bu amaçla, panellerdeki olası heterojenliği ve yatay kesit bağımlılığını hesaba katmak için CS-ARDL ve CS-DL tahmin edicileri ile geleneksel panel veri tahmincileri olan DFE ve MG tahmincileri kullanılmıştır. Ampirik bulgular, seçilen ülke örnekleminde, enflasyonun iktisadi büyüme üzerindeki negatif etkisini ve uluslararası rezervlerin uzun dönem ekonomik büyüme üzerindeki pozitif etkisini doğrulamaktadır.
+Yazar isimleri: ['Muhammed BENLİ', 'Aykut EKİNCİ', 'Bilal ORHAN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguiibf/issue/73390/1145526
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2545341

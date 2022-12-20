@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Gelir Dağılımının Belirleyicileri
+Özet: Bu çalışmanın temel amacı Türkiye için gelir dağılımının iktisadi ve kurumsal belirleyicilerini araştırmaktır. Gelir dağılımını temsilen Gini katsayısının bağımlı değişken olarak kullanıldığı bu çalışmada, bağımsız değişken olarak ekonomik büyüme, işsizlik ve sosyal transfer harcamaları gibi iktisadi faktörler ve demokrasi ve yolsuzluk gibi kurumsal faktör kullanılmıştır. ARDL sınır testinin ve 1988-2016 dönemini kapsayan yıllık verilerin kullanılması ile elde edilen ampirik bulgular şöyle sıralanabilir: i) Değişkenler arasında uzun dönemli bir ilişki mevcuttur ii) Uzun dönemde demokrasi ve sosyal transfer harcamalarındaki artışlar gelir dağılımı eşitsizliğini azaltmaktadır. iii) Uzun dönemde ekonomik büyüme ve işsizlikteki artışlar ve yolsuzluktaki iyileşme gelir dağılımı eşitsizliğini arttırmaktadır. Bu nedenle Türkiye'deki politika yapıcılar işsizliği azaltacak, sosyal transfer harcamalarının toplam kamu harcamaları içindeki payını, demokrasiyi ve beşeri sermayeyi artıracak politikalar tasarlamalıdır.
+Yazar isimleri: ['Güray AKALİN']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Anadolu İktisat ve İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anadoluiid/issue/73076/1177438
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2659710

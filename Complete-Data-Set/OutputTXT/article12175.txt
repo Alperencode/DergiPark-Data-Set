@@ -1,0 +1,7 @@
+Makale Başlığı: Fotovoltaik Panel Yüzey Sıcaklığının Denizli İli için Çıkış Gücü ve Verim Üzerindeki Etkisinin İncelenmesi
+Özet: Günümüzde sürekli artan enerji ihtiyacı ve bu enerji ihtiyacının ülkemizde çoğunlukla dışa bağımlı kaynaklardan karşılanması, hem ekonomik hem de çevresel etkiler açısından olumsuzluklara yol açmaktadır. Yenilenebilir enerji kaynaklarından güneş, iyi bir güneş enerji potansiyeline sahip ülkemizde ilk akla gelen kaynak olmasına rağmen elektrik üretimindeki kullanım payı oldukça düşüktür. Teknoloji ve malzeme alanındaki gelişmelerle birlikte fotovoltaik paneller de sürekli geliştirilmekte ve verimlerinde iyileştirmeler yapılmaktadır. Fotovoltaik panel verimine etki eden pek çok faktörden biri de panel yüzey sıcaklığıdır. Bu çalışmada, Denizli ili için bir yıllık çevre sıcaklığı ve güneş ışınımı değerlerine bağlı olarak panel yüzey sıcaklığı hesaplaması yapılmıştır. Panel yüzey sıcaklığının panel çıkış gücüne ve verime etkisi ortaya konmuştur. Panel yüzey sıcaklığının yükselmesiyle verimin doğrusal olarak düştüğü görülmüş ve bu düşüşün her 5 ºC’lik sıcaklık artışında yaklaşık %0,3 değerinde olduğu bulunmuştur.
+Yazar isimleri: []
+Yayın Yılı: 9 Haziran 2022
+Dergi ismi: Mühendis ve Makina
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muhendismakina/issue/70148/1127373
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2472292

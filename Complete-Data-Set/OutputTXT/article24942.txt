@@ -1,0 +1,7 @@
+Makale Başlığı: How Does Volatility of Characteristics-sorted Portfolios Respond to Macroeconomic Volatility?
+Özet: This paper investigates how volatility of characteristics-sorted portfolios respond to macroeconomic volatility based on Egyptian data covering the period July 2002 – June 2015. The paper uses three characteristics, namely size, book-to-market ratio and financial leverage to sort the most active stocks into corresponding characteristics mimicking portfolios. We examine how volatility of single characteristic mimicking portfolios as well as double characteristics mimicking portfolios respond to volatility in macroeconomic variables. The results indicate that the money supply volatility is the dominant source of volatility for the characteristics-sorted portfolios, followed by the inflation volatility. Both investors and policy makers should consider the volatility of money more than the interest rate channel in rebalancing their portfolios and formulating policies. Arguably, the low-frequency volatility of many portfolios tend to decrease during periods of global financial crisis and political uncertainty post the Egyptian revolution in 2011.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353552
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364583

@@ -1,0 +1,7 @@
+Makale Başlığı: A multi-criteria approach to rating Metaverse games
+Özet: Non-Fungible Tokens (NFTs) took the already profitable gaming industry to a whole new level. Before that, people would pay to buy games, and there were also some in-game purchases. But now every item in games is an NFT, and different NFTs have different prices. A lot of users consider NFT metaverse games an investment opportunity. Therefore, it is vital to evaluate these metaverse games and rate them to find the most attractive investment opportunities. In this paper, we develop a framework for rating NFT metaverse games by considering their various risks and potential upsides through the PROMETHEE II method. Specially, we design a flip ratio that can take into account both the opportunity to flip another cryptocurrency and the risk of being flipped by another cryptocurrency. Our new flip ratio could be a very useful measure of risk-opportunity analysis. We also analyze the crash risk of NFT game tokens' prices through a non-parametric value at risk analysis, which is compatible with the volatile nature of cryptocurrency prices.
+Yazar isimleri: ['Jalal SEİFODDİNİ']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Journal of Metaverse
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jmv/issue/71114/1053778
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2176358

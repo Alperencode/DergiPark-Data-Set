@@ -1,0 +1,7 @@
+Makale Başlığı: Modeling Single Diode PV using Particle Swarm Optimization (PSO ) Techniques
+Özet: 
+Yazar isimleri: ['Alkhansa OSMAN MOHAMMED ABDALLA']
+Yayın Yılı: 11 Mayıs 2022
+Dergi ismi: Gaziosmanpaşa Bilimsel Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gbad/issue/69693/1058453
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2194610

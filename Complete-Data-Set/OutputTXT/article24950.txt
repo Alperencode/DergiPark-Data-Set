@@ -1,0 +1,7 @@
+Makale Başlığı: A Demand Determinants Model for Public Spending in Spain
+Özet: In this paper an attempt is made to analyze the causes of growth of public government considering a demand model. The main contribution is the elaboration of a comprehensive and synthetic model in which economic-structural and political-institutional variables are included. To our knowledge, it is the first work that attempts this kind of model as it considers such a high number of variables, which implies great difficulties upon conducting the corresponding analysis. We consider the public expenditure in Spain in the period 1958-2014 where there are structural points. Then we use unit root and cointegration tests in a structural breaks context.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353565
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364596

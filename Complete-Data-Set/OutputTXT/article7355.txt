@@ -1,0 +1,7 @@
+Makale Başlığı: On the Differential Geometry of Coframe Bundle with Cheeger-Gromoll Metric
+Özet: In this paper we introduce the Cheeger-Gromoll type metric on the coframe bundle of aRiemannian manifold and investigate the Levi-Civita connection, curvature tensor, sectionalcurvature and geodesics of coframe bundle with this metric.
+Yazar isimleri: ['Habil FATTAYEV']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1071782
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2247033

@@ -1,0 +1,7 @@
+Makale Başlığı: Ekonomik Büyüme ve İşsizlik Oranı Arasındaki İlişki: Kesirli Frekanslı Fourier ARDL Sınır Testi Yaklaşımı
+Özet: Bu çalışmanın amacı, Türkiye’de ekonomik büyüme ve işsizlik oranı arasındaki ilişkiyi araştırmaktır. 2005:Q1-2021:Q1 dönemine ait üç aylık zaman serilerinin kullanıldığı çalışmada, ilk olarak değişkenlerin durağanlık durumları kesirli frekanslı Fourier Genişletilmiş Dickey–Fuller birim kök testi ile incelenmiştir. Birim kök testi, değişkenlerin ekonomik  büyüme  için  I(0)  ve  işsizlik  oranı  için  I(1)  olduğunu  göstermiştir.  Daha  sonra,  değişkenler  arasındaki  uzun  dönemli  ilişkinin  varlığını  sınamak  amacıyla  kesirli  frekanslı  Fourier  ARDL  sınır testi kullanılmıştır. Fourier bootstrap ARDL prosedüründen elde edilen bulgulara göre hem uzun hem de kısa dönemde büyümeden işsizliğe doğru tek yönlü negatif bir ilişki bulunmaktadır. Ekonomik büyümede meydana gelen bir birimlik artış işsizlik oranının uzun dönemde  1.48  birim,  kısa  dönemde  0.09  birim  azalmasına  yol  açmaktadır.  Son  olarak,  kesirli  frekanslı  Fourier  Toda-Yamamoto  nedensellik testi uygulanmış ve Fourier ARDL testinden elde edilen bulguları destekleyen sonuçlara ulaşılmıştır.
+Yazar isimleri: ['Mustafa Orhan ÖZER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: İstanbul İktisat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/istjecon/issue/68938/1020006
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2067157

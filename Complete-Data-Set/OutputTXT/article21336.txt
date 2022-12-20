@@ -1,0 +1,7 @@
+Makale Başlığı: olyhydroxyalkanoate accumulation in Streptomyces coelicolor affected by SCO7613 gene region
+Özet: Polyhydroxyalkanoate (PHA) is stored as an important carbon and energy source in bacterial cells. For biomedical applicati-ons, gram-positive bacteria can be better sources of PHAs, since they lack outer membrane lipopolysaccharide. Although gram-positive Streptomyces coelicolor A3(2) has been indicated as a high potential PHA producer, phaC gene that encodes the key enzyme PHA syntha-se in the metabolic pathway is not determined in its genome. BLAST search results of the GenBank database argued that SCO7613 could specify a putative polyhydroxyalkanoate synthase (PhaC) responsible for PHA biosynthesis. Deduced amino acid sequence of SCO7613 showed the presence of conserved lipase box like sequence, 555GASAG559, in which serine residue was present as the active nucleophile. Present study describes deletion of putative S.  coelicolor  phaC gene via PCR dependent method. We showed that SCO7613 is not an essential gene in S. coelicolor and its deletion affected PHA accumulation negatively although it is not ceased. Transcomplementation abolished the mutant phenotype, demonstrating that the decrease in PHA resulted from the deletion of SCO7613.
+Yazar isimleri: []
+Yayın Yılı: 23 Haziran 2021
+Dergi ismi: Turkish Journal of Biology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkbiology/issue/64217/973639
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1888831

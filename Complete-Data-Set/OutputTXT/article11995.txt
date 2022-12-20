@@ -1,0 +1,7 @@
+Makale Başlığı: TFRS 9 ve BDDK DÜZENLEMELERİNİN BANKALARIN KREDİ KARŞILIKLIĞI AYIRMADAKİ ETKİLERİNİN ANALİZİ
+Özet: 1 Ocak 2018 tarihiyle yürürlüğe giren TFRS 9 kapsadığı yeni uygulamalar özellikle bankalar için önem teşkil etmekle beraber yatırımcılar, analistler, düzenleyici ve denetçiler açısından da gündem konulardan biri olmuştur. TFRS 9 uygulamasının yürürlüğe girmesiyle beraber “beklenen kredi zararı” ve “ömür boyu beklenen kredi zararı” tanımları değiştirilmiş ayrıca finansal durum tablolarında da gösterilme şekilleri yeniden düzenlenmiştir. Bu çalışmada TFRS 9 kapsamında bankaların finansal tablolarında oluşan değişikliklerden kredi sınıflandırmaları ve bunlar için ayrılacak karşılıkların, TFRS 9’a geçmeden önce ve sonrasında meydana gelen değişiklikler incelenmiştir. Çalışmanın sonucunda bankaların donuk alacakları için ayırdıkları karşılıkların TFRS 9’un uygulamaya geçildiği yılda önemli ölçüde azaldığı ancak sonraki yıllarda tekrar yükseldiği, standart ve yakın izlemede kredi gruplarına ait karşılıklarda da artışın yüksek olduğu görülmüştür. 
+Yazar isimleri: ['Asuman ERBEN YAVUZ', 'Adalet HAZAR', 'Şenol BABUŞCU']
+Yayın Yılı: 6 Eylül 2022
+Dergi ismi: Muhasebe ve Denetime Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mdbakis/issue/72490/1083000
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2290672

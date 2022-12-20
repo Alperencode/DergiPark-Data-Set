@@ -1,0 +1,7 @@
+Makale Başlığı: SCADA System: Control and Automation of Lighting System of Urban and Inter-Urban Roads
+Özet: Supervisory Control and Data Acquisition (SCADA) systems are used in various areas such as the automation of oil and water distribution, energy automation, and the automation of water treatment systems. In this study, Visual Studio C#.NET program-based SCADA system software is designed to monitor and control the lighting system for urban and inter-urban roads. In the designed SCADA software, the monitoring and control of all the events of the lighting system of the urban and inter-urban roads are carried out in the form of animated color graphics. These events include how sensors such as light intensity and fault detection in the field and lighting pole equipment work and how they are related. In addition, the designed SCADA software includes daily data of the lighting system of urban and inter-urban roads, alarm management, security management, data archive, and reporting processes. As a result, it has been proven that the SCADA system software designed with the application in the city of Iraq-Kirkuk works simultaneously, error-free, and efficiently in the control of the lighting system of urban and interurban roads.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190273
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2713204

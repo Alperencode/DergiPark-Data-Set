@@ -1,0 +1,7 @@
+Makale Başlığı: Covid 19 Pandemisi ve Deliryum
+Özet: Covid 19 pandemisi ciddi akut solunum ve organ yetmezlikleri ile seyreden mortalite ile sonuçlanabilen bir salgın olarak tarihe geçmektedir. Covid 19 enfeksiyonuna yakalanan bu hastalarda ciddi bir izolasyonun yanı sıra medikal tedavi de uygulanması hatta mekanik ventilatör ihtiyacı da doğmaktadır. Hastalar Covid 19 enfeksiyonunun santral sinir sistemine yapmış olduğu etkilerden dolayı da deliryum tablosuna girebilmektedir. Deliryumun önlenmesi ve tedavisi hem ortamın hasta açısından düzenlenmesi hem de medikal tedavinin uygulanması ile sağlanabilir. Bu hastalarda oluşan deliryuma yaklaşım multidisipliner olmalı ve öncelik deliryumun önlenmesi amaçlanmalıdır. Çünkü gelişen deliryum ile hastanede kalış süresi, sekonder enfeksiyonlar ve mortalite artabilmektedir. Bu derlemenin amacı Covid 19 salgını ile deliryumun önlenmesi ve yönetimini yorumlamaktır.
+Yazar isimleri: ['Ebru BİRİCİK', 'Yasemin GÜNEŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Arşiv Kaynak Tarama Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aktd/issue/70182/1055896
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2184320

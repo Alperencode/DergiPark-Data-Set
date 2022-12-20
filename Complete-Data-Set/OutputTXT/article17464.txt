@@ -1,0 +1,7 @@
+Makale Başlığı: LITERATURE REVIEW: THE ROLE OF EARTHWORMS IN BIOREMEDIATION OF TREATED WOOD
+Özet: In testing for the efficacy of earthworm's capability to remove heavy metals from wood protected with chromium, copper, and arsenate (CCA) chemical wood preservative, California red worm Eisenia fetida was exposed to a substrate made from a mixture of cow dung and wood sawdust made from yellow pine CCA-treated utility pole. The period of exposure of the experiment spanned twelve weeks. The study was done to ascertain whether earthworms bioremediating the substrate into their tissue would have any effect on their reproduction and total biomass development. As the new bioremediation methodology of using earthworm species to remove heavy metals from a medium in ecotoxicology study was also utilised to determine the number of heavy metals Eisenia fetida could extract from the mixture of cow dung and CCA-treated wood sawdust. At the end of the study, the calculation of bioaccumulation factor (BAF) values for chromium, copper, and arsenic revealed arsenic to have been significantly bioaccumulated in earthworm tissue than chromium and copper.
+Yazar isimleri: ['Abdul-rafiq MOHAMMED', 'Turan YUKSEK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Wood Industry and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/wie/issue/73260/1006274
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2015865

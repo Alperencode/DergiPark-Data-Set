@@ -1,0 +1,7 @@
+Makale Başlığı: Automated Cell Viability Analysis in Tissue Scaffolds
+Özet: 
+Yazar isimleri: ['Tansel UYAR', 'Aykut ERDAMAR', 'Menemşe GÜMÜŞDERELİOĞLU', 'Mehmet Feyzi AKŞAHİN', 'Osman EROĞUL']
+Yayın Yılı: 1 Ocak 2023
+Dergi ismi: Hacettepe Journal of Biology and Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hjbc/issue/72949/868396
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1533724

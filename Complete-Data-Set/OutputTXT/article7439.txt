@@ -1,0 +1,7 @@
+Makale Başlığı: Improving level measurement techniques and measurement accuracy in vehicle fuel tanks
+Özet: Measuring the level and accurate transmission of the amount of fuel in vehicle fuel tanks are important in many ways. In vehicle warehouse designs, very different geometric shapes are encountered. Vehicle geometry and equipment placement cause warehouses to be produced in very different geometries. It is very important that information about the amount of fuel is transmitted to the driver in the most accurate way so that the driving safety and the car can travel safe distances. Shaking the fuel in the tank on a flat road, slope or off-road conditions may affect the display of the correct amount of fuel. In the study, the maximum and minimum production tolerance and geometry of the vehicle tanks, known as the mathematical model, the turbulence caused by acceleration of the float fuel measurement system in contact with the liquid placed in the tank, as well as the accuracy of the Up/Down movement of the level measurement float and the measurement of the fuel level as a result of the turbulence, were examined. The study focused on the oscillation of the measuring part on the float and the preventive geometries.
+Yazar isimleri: ['Öner ATALAY', 'Buse BELLİ', 'Oğuz SEZGİN']
+Yayın Yılı: 2 Ekim 2022
+Dergi ismi: International Journal of Automotive Engineering and Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijaet/issue/72891/1029794
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2104475

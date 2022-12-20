@@ -1,0 +1,7 @@
+Makale Başlığı: On the variational curves due to the ED-frame field in Euclidean 4-space
+Özet: In this study, we define a variational field for constructing a family of Frenet curvesof the length l lying on a connected oriented hypersurface and calculate the length of the variational curves due to the ED-frame field in Euclidean 4-space. And then, we derive the intrinsic equations for the variational curves and also obtain boundary conditions for this type of curves due to the ED-frame field in Euclidean 4-space.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783652
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

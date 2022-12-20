@@ -1,0 +1,7 @@
+Makale Başlığı: Bolu, Bursa ve İzmir şehirleri ve Ege Denizi’ndeki Değirmenlik (Milos) adası boyunca Kuzey Anadolu Fay Zonu güney kolunun sismotektoniği
+Özet: Kuzey Anadolu Fay Zonu’nun kuzey koluna ait segment dağılımı Marmara Denizi altında sismik yansıma çalışmaları ile güvenilir olarak tanımlanmıştır. Bununla birlikte, denizle kaplı olmamasına rağmen güney Marmara ve batı Anadolu’da Kuzey Anadolu Fay Zonu’nun kaç kolu olduğu ve bunların konumları hakkında fikir birliği bulunmamaktadır. Bu makalede yüksek çözünürlüklü uydu görüntüleri yardımıyla morfotektonik çalışmalar gerçekleştirilerek, sismik etkinlik ve belirgin depremlerin odak mekanizması çözümleri ile diri fayların segment dağılımlarının doğru şekilde belirlenmesine çalışılmıştır. Böylece güney Marmara bölgesinde Kuzey Anadolu Fay Zonu’nun orta ve güney kollarının ayrımı yapılmış ve güney kolun Bolu’dan başlayan, Bursa, Balıkesir, İzmir üzerinden Ege Denizinde Değirmenlik (Mlos) adasına kadar uzanan güzergahı ayrıntıları ile ortaya konmuştur. Bunun yanı sıra sonuçlarımız daha önceki yayınlarda güney Marmara ve batı Anadolu’da diri fay desenini açıklamak için önerilen “büklüm modeli” ve “İzmir-Balıkesir Transfer Zonu” fikrinin geçerli olmadığını göstermektedir.
+Yazar isimleri: ['Gürol SEYİTOĞLU', 'Korhan ESAT', 'Bülent KAYPAK', 'Begüm ÇIVGIN']
+Yayın Yılı: 28 Temmuz 2022
+Dergi ismi: Yerbilimleri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yerbilimleri/issue/71223/948130
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1807757

@@ -1,0 +1,7 @@
+Makale Başlığı: Mavi Işık Tehlikeli midir?
+Özet: Mavi ışık insan gözünün görebildiği, görünür ışık spektrumunun bir parçasıdır. 380 ile 500 nanometre aralığında titreşen, görünür ışık spektrumunda en kısa dalga boyuna ve en yüksek enerjiye sahip olan bu ışık, görünür ışığın yaklaşık üçte birini oluşturur.Mavi ışık bilgisayarlarda, telefonlarda, tabletlerde, televizyonlarda bulunan bir ışıktır. Bu gibi elektronik aletlerin dışında ise güneşte de mavi ışık bulunur. Mavi ışığın iyi ve kötü olmak üzere iki türü vardır. Bilgisayardan, telefondan, tabletten ve televizyon gibi cihazlardan alınan mavi ışık zararlı iken güneşten aldığımız mavi ışık ise belirli miktarda alındığı zaman faydalıdır.Mavi ışık özellikle gözün retina tabakası için toksik olabilmektedir. Mavi ışığa maruz kalmak özellikle retinada fototoksiteye neden olarak yaşa bağlı maküla hastalığına (sarı nokta hastalığı olarak da bilinir) yol açar. Korunma için, mavi ışık filtrelemesi içeren ekran koruyucular, gözlükler, intraoküler lensler kullanılmaktadır ve bu konu ile ilgili çalışmalar devam etmektedir.
+Yazar isimleri: ['Aykut PELİT']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Arşiv Kaynak Tarama Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aktd/issue/70182/1119190
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2438611

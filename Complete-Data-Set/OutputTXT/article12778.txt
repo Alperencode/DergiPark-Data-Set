@@ -1,0 +1,7 @@
+Makale Başlığı: Survey on LED Light Source Solar Simulators
+Özet: In this study; LED light source solar simulators, which test photovoltaic devices and whose use has been increasing in recent years, have been examined. For this purpose, the definition and necessity of solar simulators are explained by emphasizing the importance of solar energy one of the renewable energy sources, in the introduction part. In the next chapters, the details of sunlight are specified and other light sources used in solar simulators are examined, and the differences between LED light sources compared to others are revealed. For LED Solar simulators, the performance criteria specified in ASTM E927-10 and IEC-60904-9 standards have been detailed and the values in determining these criteria are formulated. Again, in line with the same standards, scientific studies on LED solar simulators were examined and detailed chronologically. At the end of the study, the advantages and disadvantages of light sources used in solar simulators are presented in a table. After the comparison, the importance and necessity of LEDs used as light sources in solar simulators are emphasized.
+Yazar isimleri: ['Ali Samet SARKIN', 'Taner DİNDAR', 'Vedat ESEN', 'Yasin CENGİZ']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1123341
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2455695

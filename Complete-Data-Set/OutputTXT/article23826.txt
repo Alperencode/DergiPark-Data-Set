@@ -1,0 +1,7 @@
+Makale Başlığı: Living in the Meta Immersive Smart 21st Century and Beyond: A Digital Transformation in Open and Distance Learning (ODL)
+Özet: Open and distance learning system is now well-established serving millions of students globally. The technological developments in the 4th industrial revolution era have impacted open and distance learning system. Artificial intelligence, blockchain, 3D printing, computer vision, internet of things, internet of behaviour etc. have introduced smart services in teaching, learning, curriculum design, learning design, user experience, instructional delivery and evaluation and assessment systems. In this paper we discuss how such technologies have brought the digital transformation to open and distance learning. We also examine the meta immersive smart future of open education.
+Yazar isimleri: ['Gülsün KURUBACAK', 'Serap UĞUR']
+Yayın Yılı: 1 Kasım 2022
+Dergi ismi: TAM Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tamde/issue/73915/1220374
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2837281

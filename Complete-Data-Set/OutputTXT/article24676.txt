@@ -1,0 +1,7 @@
+Makale Başlığı: Free Vibration Analysis of Multi-span Timoshenko Beams on Elastic Foundation Using Dynamic Stiffness Method
+Özet: In this study, the exactfirst five natural frequencies of three-span Timoshenko beams on Winklerfoundation are calculated using dynamic stiffness formulation. Differentelastic foundation spring constants and different beam cross-sections are usedto reflect their effects on natural frequencies. Moreover, the naturalfrequencies are also calculated via structural analysis software SAP2000 andtabulated with exact results. It is seen that the influence of elasticfoundation spring stiffness in inner span is high in comparison with outerspans. The cross-section of the beam plays an important role on naturalfrequencies of multi-span Timoshenko beams on Winkler foundation.
+Yazar isimleri: ['Baran Bozyigit', 'Yusuf Yesilce']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/372696
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826665

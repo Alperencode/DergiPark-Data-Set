@@ -1,0 +1,7 @@
+Makale Başlığı: Monel K-500 Alaşımının Isı Destekli İşlenmesi Üzerine Sayısal Bir Çalışma
+Özet: Bu çalışma, sonlu elemanlar analizi aracılığı ile Monel K-500 alaşımının sıcak işlenmesinde kesme kuvveti ve talaş oluşum sürecinin incelenmesini sunmaktadır. Sonlu elemanlar analizi için ThirdWave AdvantEdge yazılımı kullanılmıştır. Sayısal analizler için 300 m/dak kesme hızı (Vc), 0,1 mm/dev ilerleme miktarı (f) ve 1 mm talaş derinliği (a) kesme parametreleri olarak seçilmiştir. Sıcak işlemenin etkisini belirleyebilmek için simülasyonlar oda sıcaklığı (24°C) ve dört farklı ısıtma sıcaklığında (150°C, 300°C, 450°C ve 600°C) gerçekleştirilmiştir. Nümerik analiz sonuçlarına göre oda sıcaklığı koşullarına kıyasla sıcak işleme koşullarında kesme kuvvetlerinin azaldığı ve oda sıcaklığı koşullarında talaş dilimli talaş şeklinde oluşur iken sıcak işleme koşullarında ise sürekli talaş şeklinde oluştuğu görülmüştür. En düşük kesme kuvveti değeri 600°C sıcak işleme şartında gerçekleştirilen sayısal analizlerde 315 N olarak ölçülmüştür. Dahası, kuru kesme şartına göre bu ısıtma sıcaklığında kesme kuvvetinin yaklaşık %34,14 azaldığı tespit edilmiştir.
+Yazar isimleri: ['Mahir AKGÜN']
+Yayın Yılı: 30 Nisan 2022
+Dergi ismi: Uluslararası Teknolojik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/utbd/issue/70014/1063676
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2215494

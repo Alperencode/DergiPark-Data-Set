@@ -1,0 +1,7 @@
+Makale Başlığı: Kürek Sporunda Takım Senkronizasyonunun Uzaktan Algılama ile İzlenmesi
+Özet: Bu araştırma kapsamında kürek ergometresi ve Kinect kamera kullanılarak kürekçilerin birbirleri arasındaki senkronizasyonunu sayısal güvenirlilik ile ölçen bir alt yapı kurgulanmıştır. Bu araştırmaya iki çifte tekne sınıfında yarışmış 2 lisanslı milli erkek kürekçi ve 2 lisanslı kadın kürekçi dahil edilmiştir. Kürekçilerden 1000 m mesafeyi kürek ergometresi kullanarak birbirlerine senkronize bir şekilde 32-34 tempo aralığında kat etmeleri istenmiştir. Sporcular arası senkronizasyon Concept 2 kürek ergometresi ve Microsoft Kinect V2 kamerası kullanılarak ilgili anatomik birleşme bölgelerinin sanal sensörler ile işaretlenmesi sonucu sporcuların birbirileri arasında zamanda değişen senkronizasyonları görüntülenip, analiz edilmiştir. Anatomik birleşme noktalarının ortalaması alınarak ekip içi senkronizasyonu gösteren bir senkronizasyon kat sayısı oluşturularak, koordinasyon dinamiği izlenmiştir. Kadın iki çifte ve erkek iki çifte ekibinin birbirleri ile olan senkronizasyonları anlamlı derecede yüksek bulunurken erkek ekibin, kadın ekibe kıyasla senkronizasyonları düşük bulunmuştur.
+Yazar isimleri: ['İrem Naz AKSOY']
+Yayın Yılı: 16 Eylül 2022
+Dergi ismi: Spor Eğitim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/seder/issue/71337/1160990
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2592341

@@ -1,0 +1,7 @@
+Makale Başlığı: BROADBAND MULTI-SECTION STEPPED TAPERED MICROSTRIP TRANSFORMERS DESIGN USING SEEKER OPTIMIZATION ALGORITHM
+Özet: 
+Yazar isimleri: ['Uğurcem HASAR', 'Mona ALFAQAWI']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: The International Journal of Materials and Engineering Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tijmet/issue/72047/1041149
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2148933

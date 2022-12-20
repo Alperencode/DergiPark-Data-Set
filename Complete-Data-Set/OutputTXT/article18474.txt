@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of prevalence and dimension of Pineal Gland Calcification by cone-beam computed tomography (CBCT)
+Özet: AbstractObjective: This study aimed to investigate the prevalence and dimensions of pineal gland calcification using cone-beam computed tomography (CBCT) in patients undergoing dental treatment.Materials and Methods: CBCTs that localized pineal gland in the fov range was selected in this retrospective study. The presence of pineal gland calcification (PGC) was noted. Vertical, horizontal and areal measurements were made by a single observer (M.S). Variables such as age, gender for each patient were recorded using previous clinical examination data. Results: The prevalence of pineal gland calcification was 33.64% (female to male ratio 3:2). The difference between males and females was not significant (p>0.05). PGC was highly seen in older patients when compared with younger patients (p:000). The average vertical and horizontal dimension of PGC was 2,56±0,98mm and 3,39±1,29 mm respectively.  The average total calcified area was 5,45±3,75 mm2. Conclusion: This study did not find any correlation between age, gender, and linear measurements. However, the average calcified are in men was found to be significantly higher than in women.
+Yazar isimleri: ['Muazzez SUZEN', 'Emrah DİLAVER', 'Sina UÇKAN']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Cumhuriyet Dental Journal
+Yayın sayfa url: http://cdj.cumhuriyet.edu.tr/tr/pub/issue/72850/1111722
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2407979

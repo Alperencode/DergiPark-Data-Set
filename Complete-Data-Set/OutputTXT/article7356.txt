@@ -1,0 +1,7 @@
+Makale Başlığı: m-quasi Einstein Metric and Paracontact Geometry
+Özet: The object of the upcoming article is to characterize paracontact metric manifolds conceding $m$-quasi Einstein metric. First we establish that if the metric $g$ in a $K$-paracontact manifold is the $m$-quasi Einstein metric, then the manifold is of constant scalar curvature. Furthermore, we classify $(k,\mu)$-paracontact metric manifolds whose metric is $m$-quasi Einstein metric. Finally, we construct a non-trivial example of such a manifold.
+Yazar isimleri: ['Krishnendu DE', 'U.c. DE', 'Fatemah MOFARREH']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1100147
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2360536

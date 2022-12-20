@@ -1,0 +1,7 @@
+Makale Başlığı: Bir Akıl Yürütme Yöntemi Olarak Analojinin Değeri
+Özet: Dedüksiyon, indüksiyon ve analoji olarak kategorize edilen akıl yürütme metodlarından dedüksiyon ve indüksiyon birçok çalışmaya konu olduğu gibi, birçok alanda da yöntem olarak işlevini sürdürmektedir. Oysa halihazırda analojik akıl yürütme, Aristoteles’in analojiye bakış açısı dolayısıyla klasik gelenekte yeterince itibar görmemiş ve bu sebeple oldukça sınırlı sayıda esere konu edilerek etraflıca üzerinde durulmamıştır. Diğer bir deyişle analojik akıl yürütme, oldukça kapsamlı ve pratik bir çıkarım modeli olsa da verdiği olumsal sonuçtan dolayı geleneksel mantıkta pek rağbet görmemiş dolayısıyla hakkında yeteri kadar çalışma yapılmamıştır. Özellikle ülkemizdeki klasik mantık çalışmalarına baktığımızda, bu eserde de bahse konu olduğu üzere analojik akıl yürütmenin "Eğer X ve Y bir takım ortak özelliklere sahipse, X’de bulunan diğer özelliklerin Y’de de bulunması muhtemeldir." gibi basit bir karakterde olduğunu görmekteyiz. Oysa Batı’da özellikle 1980’lerde bilişsel psikolojiyle başlayan analoji çalışmaları, diğer alanlarda da artarak devam etmiştir. Batıda analoji çalışmaları neredeyse bütün alanlarda yoğun bir şekilde yapılırken, ülkemizde çok fazla çalışma yapılmamış olması bu eseri oldukça önemli kılmaktadır.
+Yazar isimleri: ['Zehra ORUK AKMAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Mantık Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mader/issue/71034/1137858
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2515280

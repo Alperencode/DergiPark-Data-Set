@@ -1,0 +1,7 @@
+Makale Başlığı: KONUT FİYATLARINDA ETKİLİ OLABİLECEK GÖSTERGELERİN ARDL YAKLAŞIMI İLE ANALİZİ
+Özet: Piyasa katılımcıları elde edilen getiriyi maksimize etmek ve riskleri en aza indirmek için, finansal piyasalarda etkili olduğu kabul edilen alternatif yatırım araçlarını yatırım fırsatı olarak görebilmektedirler. Bu bağlamda, çalışmanın amacı 2008 Mortgage konut krizi sonrası konut fiyatları ile seçilmiş makroekonomik göstergelerin nedensel ilişkisini Türkiye için ekonometrik yöntemlerle analiz etmektir. Çalışmada bağımlı değişken konut fiyatları; bağımsız değişkenler ise gayrisafi yurtiçi hasıla, enflasyon ve döviz kuru olarak belirlenmiştir. ARDL sınır testi ile gerçekleştirilen analizde 2010Q1-2021Q1 dönemini kapsayan veriler kullanılmıştır. Analiz sonucunda, uzun dönemde konut fiyatları ile dolar kuru arasındaki ilişkinin yönü aynı olmasına rağmen konut fiyatları ile enflasyon ve gayrisafi yurtiçi hasıla (GSYH) arasındaki ilişkinin yönü ters olarak görülmüştür. Elde edilen bulgular Türkiye açısından konut fiyatları üzerinde enflasyon, GSYH ve dolar kurunun etkili olduğunu göstermektedir.
+Yazar isimleri: ['Salim Sercan SARI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Stratejik Yönetim Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/syad/issue/72871/1163937
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2604047

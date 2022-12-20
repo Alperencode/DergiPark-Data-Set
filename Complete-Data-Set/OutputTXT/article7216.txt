@@ -1,0 +1,7 @@
+Makale Başlığı: Electrical Characterization of the GaxOyNz/p-Si Diode Structure Manufactured by Electrodeposition Method Under Illumination
+Özet: In this study, GaxOyNz films were deposited onto p-Si (100) substrates by using electrodeposition technique under illumination. A mixture of gallium nitrate, ammonnium nitrade and distilled water was utilized as electrolyte. Platinum and p-Si were used as anode and cathode, respectively. After the deposition process of GaxOyNz/p-Si structure, temperature dependent Current-Voltage (I-V) measurements were performed and characterized between 20 oC and 100 oC in 10 oC steps to analyses of two dimensional density of interface states of the device. Characteristics show that GaxOyNz/p-Si device structure exhibits rectification behavior.
+Yazar isimleri: ['Özcan BİRGİ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jist/issue/73493/1115556
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2423366

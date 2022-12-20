@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of Publications in The Field of Agri-Food Supply Chain by Bibliometric Analysis Method
+Özet: Agri-food supply chain is a concept that has been in the focus of attention of researchers in recent years and has found a lot of space, especially in foreign literature. The aim of this study is to evaluate scientific publications on the agricultural food supply chain in terms of bibliometrics. For this purpose, 805 articles were compiled as data by accepting the keyword "agri-food supply chain" in the Web of Science (WoS) database and international index as an observation unit between 1997-2021. The VOSviewer program, which was developed for the bibliometric analysis method, was used in the research. At the same time, this study is limited to articles that are open to access. After the determination of the articles to be used, the change in the number of articles by years, article distribution and general information about the articles in the field of agricultural food supply chain are given and descriptive statistics of the studies are included.
+Yazar isimleri: ['Hülya Tuğçe ÜLGER', 'Yeşim Tuba ÜLGER']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Bartın Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bartiniibf/issue/73457/1175363
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2651110

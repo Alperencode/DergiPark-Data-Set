@@ -1,0 +1,7 @@
+Makale Başlığı: Quantum Mechanics Approach for Appropriately Chosen Hamiltonian
+Özet: Risk theory has always played a significant role in mathematical finance and actuarial sciences. A novel approach to the risk theory of non-life insurance is quantum mechanics. To compute finite-time non-ruin probability, I introduce the quantum mechanics formalism in discrete space and continuous space with the appropriately chosen Hamiltonian. By using the quantum mechanics approach and the stochastic method, the non-ruin operator is defined, and tensor products of operator concepts are presented for several examples.In this paper, Dirac notations are operated to find the Hamiltonian matrix with the eigenvector basis for two and three-state cases, and its tensor product version with a change of basis.
+Yazar isimleri: ['Ahmet KAYA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Aksaray University Journal of Science and Engineering
+Yayın sayfa url: http://asujse.aksaray.edu.tr/tr/pub/issue/68039/999472
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1989753

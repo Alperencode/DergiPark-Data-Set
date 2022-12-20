@@ -1,0 +1,7 @@
+Makale Başlığı: Sürdürülebilir Gıda ve Tarımsal Atık Yönetimi
+Özet: İnsan nüfusu artış hızına bağlı olarak gıda üretim hızı da yükselmektedir. Hızlı bir şekilde artan gıda üretimi nedeniyle, hem tarımsal atık miktarlarında benzer oranda bir artış meydana gelmekte, hem de bu durum sınırlı olan doğal kaynakların tüketilmesine ve kirletilmesine neden olmaktadır. Bu bağlamda, özellikle sürdürülebilir gıda üretim politikalarını benimsemeyen paydaşların yüksek israf miktarları, ekonomik maliyet, çevre ve gıda güvenliği konularına ciddi zararlar vermektedir. Bu çalışma kapsamında; atık, israf, atık yönetimi ile gıda üretiminde sürdürülebilirlik kavramları hakkında bilgi verilmiştir. Ayrıca, gıda israfı üzerine etkili olan faktörlerden, gıda tedarik zincirinde meydana gelen olası gıda kayıp ve atıklarından, doğal kaynakların tüketilmesinin önlenmesi ve sürdürülebilirliğin sağlanması amacıyla uygulanması gereken eylemlerden bahsedilmiştir. Bunların yanı sıra, tarımsal atıkların, karbonhidrat, yağ, protein ve biyoaktif bileşen gibi katma değeri yüksek ürünlere dönüştürülmesi ve geri kazanılan bu ürünlerin kullanım alanları konusunda gerçekleştirilen çalışmalar derlenmiştir.
+Yazar isimleri: ['Gülay ÖZKAN', 'Büşra GÜLTEKİN SUBAŞI', 'Senem KAMİLOĞLU BEŞTEPE', 'Esra ÇAPANOĞLU GÜVEN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Çevre İklim ve Sürdürülebilirlik
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/itucis/issue/70227/1117028
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2429285

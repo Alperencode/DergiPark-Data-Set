@@ -1,0 +1,7 @@
+Makale Başlığı: Mining Housing Features to Classify Housing Unit Price
+Özet: In data mining, classification builds an interdisciplinary field upon from statistics, computer science, mathematics and many other disciplines. There are numerous statistical applications where parametric and non-parametric methods are frequently used to train data to estimate mapping function. In this study, two of the most widely used techniques are applied to a real dataset. The goal of the study is to compare the classification success of ordinal logistic regression and the classification trees and to predict a categorical response. For this purpose, the potential factors affecting the housing unit price for sale as being the dependent variable with three classes in Eskişehir were examined. The real data set was split into three as train, validation and test groups. The classification performance of the techniques was demonstrated with 5-fold cross validation technique. According to the results, a more successful classification was made with the classification trees algorithm.
+Yazar isimleri: ['Betül KAN KILINÇ']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufenbed/issue/73792/1073504
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2253221

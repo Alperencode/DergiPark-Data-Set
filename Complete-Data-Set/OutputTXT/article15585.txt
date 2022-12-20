@@ -1,0 +1,7 @@
+Makale Başlığı: Some New Inequalities via Berezin Numbers
+Özet: The Berezin transform $\widetilde{T}$ and the Berezin radius of an operator$T$ on the reproducing kernel Hilbert space $\mathcal{H}\left(  Q\right)  $over some set $Q$ with the reproducing kernel $K_{\eta}$ are defined,respectively, by\[\widetilde{T}(\eta)=\left\langle {T\frac{K_{\eta}}{{\left\Vert K_{\eta}\right\Vert }},\frac{K_{\eta}}{{\left\Vert K_{\eta}\right\Vert }}%}\right\rangle ,\ \eta\in Q\text{ and }\mathrm{ber}(T):=\sup_{\eta\inQ}\left\vert \widetilde{T}{(\eta)}\right\vert .\]We study several sharp inequalities by using this bounded function$\widetilde{T},$ involving powers of the Berezin radius and the Berezin normsof reproducing kernel Hilbert space operators. We also give some inequalitiesregarding the Berezin transforms of sum of two operators.
+Yazar isimleri: ['Mualla Birgül HUBAN', 'Hamdullah BAŞARAN', 'Mehmet GÜRDAL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1014841
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2046808

@@ -1,0 +1,7 @@
+Makale Başlığı: Effects of heat treatment on surface roughness and bonding strength of wood material
+Özet: The purpose of this paper is to determine the effects of heat treatment on some properties of black pine (Pinus nigra A.) and larex (Larix decidua), woods. For this purpose, test samples were heat treated at 140, 160, 180 and 200°C for 2 and 5 hours. The air-dried density, equilibrium moisture content (EMC), surface roughness and bonding strengths of the test samples were analyzed. The average surface roughness parameter (Ra) was analyzed parallel to the grains. The results indicated significant differences depending on the wood species, heat treatment temperatures and treatment times. Based on the findings in this study, all parameters decreased depending on the heat treatment conditions. The density and EMC values of the control specimens were higher than the heat-treated samples. Also the surface roughness values obtained in black pine samples were higher than larex samples. On the other hand, bonding strength values obtained in larex samples were significantly higher than that of black pine samples. These parameters should be taken into account in the application areas of heat-treated wood material, the usage amount of which is constantly evolving in the woodworking industry.
+Yazar isimleri: ['Osman PERÇİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Mobilya ve Ahşap Malzeme Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mamad/issue/70474/1119735
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2440852

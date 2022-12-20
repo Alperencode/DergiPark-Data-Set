@@ -1,0 +1,7 @@
+Makale Başlığı: Classification of Autism Spectrum Disorder for Adolescents Using Artificial Neural Networks
+Özet: 
+Yazar isimleri: ['Sümeyye ÇELİK', 'Melike ŞİŞECİ ÇEŞMELİ', 'İhsan PENÇE', 'Özlem ÇETİNKAYA BOZKURT']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Alphanumeric Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alphanumeric/issue/71050/1031513
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2111651

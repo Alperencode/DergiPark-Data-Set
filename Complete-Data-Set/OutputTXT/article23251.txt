@@ -1,0 +1,7 @@
+Makale Başlığı: Yapay Zeka Kullanımının İş Piyasasına Etkisi
+Özet: Yapay zeka, makina öğrenimi ve otomasyonun hızlı gelişmesi birçok işin yerini yapay zeka uygulamalarının alacağı sonucunu doğurmaktadır. Yapay zekanın hakim olacağı birçok alandaki uygulama neticesinde ise süregelen mevcut meslekler fonksiyonunu yitireceğinden iş kayıpları meydana gelecektir. İnovasyon gelişmeleri sonucunda azalan üretim maliyetleri, yeni alanlarda robotların imalat, paketleme, inşaat, bakım ve tarım alanlarında artan bir dizi manuel görevi üstlenmesine yol açacaktır. Dolayısıyla çalışanlar teknolojik gelişmedeki her dalga boyutunda işsizlik ile karşılaşmaktadır. Çalışmanın amacı yapay zekanın gelişimini anlayarak işgücü piyasasındaki gelişmeleri ve dönüşümleri bir araya toplamaktır. Çalışmada yapay zeka kullanımının işgücü piyasasında ve müşteri hizmetleri üzerindeki etkisi literatür incelemesi yapılarak açıklamaya çalışılmıştır. Teknolojideki gelişmenin işsizliği doğurduğu bilinmekle beraber, yapay zeka gelişim süreci yeni meslek ve uzmanlık alanlarını doğuracağı bununla birlikte yeni istihdam olanaklarını artacağı öngörülmektedir.
+Yazar isimleri: ['Masoud SHEIKHI']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Journal of Economics and Political Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jep/issue/72918/1187581
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2702262

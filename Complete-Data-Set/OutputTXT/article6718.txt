@@ -1,0 +1,7 @@
+Makale Başlığı: Homological aspects of formal triangular matrix rings
+Özet: Let $T=\biggl(\begin{matrix} A&0\\U&B\end{matrix}\biggr)$ be a formal triangular matrix ring, where $A$ and $B$ are rings and $U$ is a $(B, A)$-bimodule. We first give some computing formulas of projective, injective, flat and $FP$-injective  dimensions of special left $T$-modules. Then we establish some formulas of (weak) global dimensions of $T$. It is proven that (1) If $U_{A}$ is flat and $_{B}U$ is projective, $lD(A)\neq lD(B)$, then $lD(T)={\rm max}\{lD(A),lD(B)\}$; (2) If $U_{A}$ and $_{B}U$ are flat, $wD(A)\neq wD(B)$, then $wD(T)={\rm max}\{wD(A),wD(B)\}$.
+Yazar isimleri: ['Lixin MAO']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1014028
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2043592

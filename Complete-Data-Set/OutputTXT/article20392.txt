@@ -1,0 +1,7 @@
+Makale Başlığı: Development of New Die Design in Towing Hook Production
+Özet: In this study, a new design has been developed for towing hook dies used in hot forging processes. For this objective, analysis studies were carried out with different process parameters and methods for new designs in dies for both hot forging process and product. After the analysis, the die designs were determined that produced the prototype products at the optimum speed, efficiency and quality. While designing a special die for hot forging operation, a new die design has been developed in which both processes can be performed using a single die with two stages, pre-shape and final shape.  Compared to the dies studied for hook groups in the literature and our old dies currently being worked, it is aimed to eliminate the errors caused by the inability to calibrate the final shape such as early wear, short die life, burr residue formation. Such a technics specific to the part as specific to the towing hook was performed for the first time, and with the die design developed by comparing the results of analysis studies, field trials and prototype studies in the Q-Form simulation program, the production of towing hook at optimum efficiency was achieved.
+Yazar isimleri: ['Ebru SAĞ', 'Burak BAHAT', 'Dilara YALÇIN', 'Hakan AYDIN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: International Journal of Advances in Engineering and Pure Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jeps/issue/72838/1018443
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2061013

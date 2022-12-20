@@ -1,0 +1,7 @@
+Makale Başlığı: Petrol Fiyat Volatilitesinin Ülke Ekonomik Göstergelerine Etkisinin Ekonometrik Analizi: Türkiye Örneği
+Özet: Ham petrol fiyatlarındaki gelişmeler dünya piyasalarında yakından izlenmekte ve dünya ekonomik konjonktürünü önemli ölçüde etkilemektedir. En temel enerji kaynağı olan petrol, diğer sektörlere girdi sağlamadaki rolü nedeniyle büyük önem taşımaktadır. Dolayısıyla petrol fiyatlarındaki dalgalanmaların girdi fiyatlarına yansıması yoluyla girdi fiyatları ve üretim genel düzeyini etkileme potansiyeline sahip olduğu söylenebilir. Bu çalışma ile petrol fiyatlarında oluşan dalgalanmaların Türkiye ekonomisi üzerindeki etkilerinin araştırılması hedeflenmektedir. Bu çalışmada kullanılan veriler 2008-2019 yıllarını kapsamaktadır. Çalışmada kullanılan makroekonomik değişkenler GSYIH, enflasyon, işsizlik ve Cari Açık/GSYIH oranlarıdır. Petrol fiyatlarında gözlemlenen volatilitenin, makroekonomik faktörler üzerindeki etkisinin tahmininde VAR modeli kullanılmaktadır. Analiz sonuçlarına göre petrol fiyatlarında gözlemlenen volatiltenin gecikmeli değerlerinin, ülke enflasyon düzeyi üzerinde etkili olduğu görülmüştür. Bunun yanı sıra ülke işsizlik oranlarının gecikmeli değerlerinin, cari cari açık ve ekonomik büyüme oranları üzerinde etkili olduğu saptanmıştır.
+Yazar isimleri: ['Merve ARSLAN', 'Hamide ARSLAN', 'İsmail Erkan ÇELİK']
+Yayın Yılı: 23 Eylül 2022
+Dergi ismi: Muhasebe Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/meder/issue/72927/1105715
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2383307

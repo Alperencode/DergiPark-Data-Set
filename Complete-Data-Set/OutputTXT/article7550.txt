@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı koşullar altında ultrasonik ön işlemden sonra sığır gübresinin anaerobik sindirimi
+Özet: Ultrasonik ön arıtma (UP), biyogaz üretiminde uygulanan yaygın ön arıtma teknolojilerinden biridir. Bu çalışmada sığır gübresine (CM) farklı yoğunluk ve farklı aralıklarla UP uygulanmıştır. UP, 0.1, 0.5, 1.0, 3.0, 5.0 ve 10.0 W/mL'lik yoğunluğa ve sırasıyla her bir ön-muamele yoğunluğu için 5, 10, 20, 30 60 dakika boyunca uygulandı. Biyogaz üretimi, kesikli reaktörlerde mezofilik koşullar (30 ± 2 °C) ve % 5.0 toplam katı madde (TS) altında gerçekleştirilmiştir. UP'nin bir sonucu olarak, çözünür kimyasal oksijen ihtiyacının giderilmesi %41.0'dan maksimum %67.0'a yükseldi. Bu reaktördeki biyogaz üretimi 270.6 mL/g TS idi. Böylece %59,0 artımlı biyogaz üretimi gerçekleştirilmiştir. Bu reaktörde selüloz ve hemiselüloz giderimi sırasıyla %20,6 ve %16,9 olmuştur. UP, anaerobik sindirim aşamasında suda selüloz ve hemiselüloz moleküllerinin çözünmesine yol açtı. 0.1, 0.5, 1.0, 3.0, 5.0 ve 10.0 W/mL ön işlemlerin optimum süreleri belirlendi. Tüm reaktörler, değiştirilmiş Lojistik modeline ve değiştirilmiş Von Bertalanffy modeline başarıyla uydu.
+Yazar isimleri: ['Halil ŞENOL']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: International Journal of Engineering and Innovative Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeir/issue/73173/1165272
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2609217

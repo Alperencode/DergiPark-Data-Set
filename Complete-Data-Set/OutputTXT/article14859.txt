@@ -1,0 +1,7 @@
+Makale Başlığı: Development of Temperature and pH Responsive Smart Cotton Fabrics by P(NIPAM–co-MAM) Copolymer Finishing
+Özet: In this study, fabrication of dual responsive smart polymer and cotton fabrics with thermo-responsive and pH responsive properties was aimed. For this aim, poly(N-isopropylacrylamide-co-methacrylamide) P(NIPAM-co-MAM) copolymers containing different ratio of NIPAM/MAM monomers were synthesized. Analysis results showed that the copolymers were synthesized successfully by free radical addition polymerization method and their LCST values ranges from 33°C to 41°C. A selected sample of the synthesized copolymers was applied to fabric via double-bath impregnation method and thermo-responsive wetting property of the fabric was examined via wetting time and water uptake tests, contact angle measurement. The test results indicated that hydrophilic character of the fabric changed to the hydrophobic character reversibly depending on change in temperature. The fabric could manage water vapor permeability via changing pore size as well as their hydrophilic character depending on temperature. Besides, it was concluded that the fabrics had strong antibacterial activity against S.aureus bacteria.
+Yazar isimleri: ['Sennur ALAY AKSOY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Tekstil ve Konfeksiyon
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tekstilvekonfeksiyon/issue/72837/979303
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1910905

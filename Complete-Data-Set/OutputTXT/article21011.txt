@@ -1,0 +1,7 @@
+Makale Başlığı: YAPAY SİNİR AĞLARI VE ZAMAN SERİLERİ YÖNTEMİ İLE DEMİR ÇELİK İTHALATI TAHMİNİ
+Özet: Türkiye’de demir çelik sektörü ekonomik ve sosyal anlamda önemli bir sektördür. Bu çalışmada demir çelik ithalatının tarihsel süreç içerisinde gelişiminin incelenmesi ve Yapay Sinir Ağları yöntemi ile demir çelik ithalatı tahmin edecek en iyi mimariyi belirlemek amaçlanmaktadır. Bu bağlamda ithalat yapısal olarak analiz edilmiş, diğer makro ekonomik değişkenlerle ilişkisi irdelenmiş ve demir çelik ithalatının Yapay Sinir Ağları yöntemi ile tahmin edilebilirliğine yönelik analiz yapılmıştır. YSA ile farklı mimarilerde denemeler gerçekleştirilmiştir. Elde edilen sonuçlar, demir çelik ithalatının tahmininde YSA yoluyla yüksek, tahmin sonuçlarının tutarlı bir öngörü performansına sahip modelleme tekniği olduğunu göstermiştir.
+Yazar isimleri: ['Şeyma Nur GÜNER', 'Hüseyin Utku DEMİR']
+Yayın Yılı: 17 Eylül 2022
+Dergi ismi: Sakarya İktisat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sid/issue/72576/1098260
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2352301

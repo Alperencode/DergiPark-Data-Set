@@ -1,0 +1,7 @@
+Makale Başlığı: “C” Tipi Geçmeli Bağlantıların Sağlamlığının Geliştirilmesinde Taguchi Yöntemi ile Tasarım Parametrelerinin Optimizasyonu
+Özet: İstatistiksel yaklaşımlar kullanılarak endüstriyel ürün tasarımları hızlı ve güvenilir bir şekilde optimize edilebilir. Taguchi yöntemi, süreç parametrelerini optimize etmemize ve işçilik ve maliyet açısından zamandan tasarruf etmemize yardımcı olan istatistiksel bir yaklaşımdır. Bu çalışmada, endüstrinin birçok alanında kullanılan esnek bağlantı elemanlarından biri olan C tipi geçmeli bağlantı tasarımı için Taguchi yöntemi kullanılarak tasarım parametrelerinin optimizasyonu araştırılmıştır. Çalışmanın tasarımı ve analizi ANSYS yazılımı kullanılarak yapılmıştır. Yapılan çaışma ile tasarım parametreleri optimize edilmiş ve etkin parametreler belirlenmiştir. Etkili parametreleri belirlemek için ANOVA analizi yapılmıştır. Ayrıca, kullanılan yöntemi doğrulamak için tam faktöriyel analizi yapılmıştır. Örneğin, Taguchi dizisi ile elde edilen optimum normal gerilme değeri H1=0.4;R1=3;α1=40;α2=89;y=6 ve malzeme PLA'nın kombinasyonu için elde edilmiştir. Şekil 4'teki tabloyu incelediğimizde 729 test sonucu arasından 328740.27 sonucu ile Taguchi setindeki parametrelerin sonucunun eşleştiğini görebiliriz.
+Yazar isimleri: ['Fulya ERDEMİR']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/1076061
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2263401

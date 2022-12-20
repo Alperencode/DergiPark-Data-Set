@@ -1,0 +1,7 @@
+Makale Başlığı: Bicomplex numbers with respect to the geometric calculus and some inequalities
+Özet: In this paper, we deal with complex and bicomplex numbers with respect to the geometric calculus, and we obtain the set of complex numbers with respect to the geometric calculus C(GC)  is a field and the set of bicomplex numbers with respect to the geometric calculus BC(GC)  is a vector space on the field C(GC)  by defining addition and multiplication operations on the sets of such numbers. Also, we give the concepts of norm, metric, sequence, convergence of a sequence, Cauchy sequence and completeness in the settings  C(GC) and BC(GC) . Moreover, we discuss bicomplex versions with respect to geometric calculus of some well-known inequalities. This paper is a new and important addition to the current literature thanks to its applications in different areas and the obtained results unify, private and complement the corresponding results.
+Yazar isimleri: ['Nilay DEĞİRMEN', 'Birsen SAĞIR DUYAR']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/1091532
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2324930

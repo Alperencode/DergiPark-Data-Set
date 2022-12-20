@@ -1,0 +1,7 @@
+Makale Başlığı: Yenilenebilir enerji potansiyeli ve veri madenciliği tekniklerine dayalı enerji aktarım sistemlerinin geliştirilmesi
+Özet: Son zamanlarda, enerji talebi, çoğu ekonominin fosil yakıtlara dayanması nedeniyle sektörlerini etkileyen bir artış göstermiştir. Çalışmanın amacı, Beyrut limanında farklı kaynaklardan enerji üreten bir enerji üretim sisteminin geliştirilmesinin etkinliğinin belirlenmesidir. artan enerji talebinin karşılanmasında farklı enerji kaynaklarının kullanılması.
+Yazar isimleri: ['Ahmad OMAİS', 'Zafer ASLAN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Anadolu Bil Meslek Yüksekokulu Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/abmyoder/issue/73621/1128371
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2476614

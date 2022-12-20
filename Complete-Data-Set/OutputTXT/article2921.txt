@@ -1,0 +1,7 @@
+Makale Başlığı: Kritik Hammaddelerin Geri Dönüşüm ile Döngüsel Ekonomiye Kazandırılması
+Özet: Endüstri 4.0 devrimi ve Nesnelerin İnterneti (IoT) gibi teknolojilerle dijitalleşme, kaynaklarımızın ve ekonomilerimizin döngüsel olmasını gerektirmektedir. Başta Avrupa Birliği olmak üzere tüm ülkeler, kritik hammaddelerin sorumlu tüketiminin, üretiminin ve geri dönüşümünün sürdürülebilir kalkınma hedeflerine ulaşmanın bir yolu olarak çok önemli olduğu konusunda hemfikirdir. Ömrünü tamamlamış ürünlerden kritik hammaddelerin geri kazanılması için uygun maliyetli bir geri dönüşüm yöntemi, madencilikten çok daha az çevresel etkiye sahiptir. Biyo & hidrometalurjik yöntemler, kritik hammaddelerin, özellikle nadir toprak elementlerinin (NTE) çıkarılması için hızlı gelişen, seçici, çevre dostu ve uygun maliyetli teknolojilerdir. Bu makale, ikincil kaynaklara genel bir bakış sağlamakta ve kritik hammaddelerin kazanımı için ekonomik bir yol olarak hizmet edebilecek bazı umut verici yöntemlerin kullanımına ilişkin yürütülen çalışmaların senaryosunu özetlemektedir.
+Yazar isimleri: ['Ata AKÇIL', 'Ceren ERÜST ÜNAL', 'Mediha Demet OKUDAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bilimsel Madencilik Dergisi
+Yayın sayfa url: http://www.mining.org.tr/tr/pub/issue/72907/982123
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1922051

@@ -1,0 +1,7 @@
+Makale Başlığı: Betonarme Binalarda Zemin-Yapı Etkileşiminin Sismik Tasarım Parametrelerine Etkileri
+Özet: Yapıların deprem davranışı birbirlerine bağlı olan zemin, temel ve yapı alt-sistemleri arasındaki etkileşim nedeniyle değişebilmektedir. Genellikle temel, yapının bir bölümü olarak kabul edilir ve bu etkileşim zemin-yapı etkileşimi (ZYE) olarak anılır. ZYE, rijit (ankastre) temel yaklaşımından farklı olarak esnek zemin-temel sistemi, temel sönümü ve yapıya iletilen yer hareketinin filtrelenmesi gibi faktörleri kapsar. Esnek zemin-temel sistemi ve temel sönümüne bağlı olarak sırasıyla ortak sistem periyodunun uzaması ve sönüm oranının artması eylemsizlik etkileşiminin sonuçlarıdır. Öte yandan, serbest saha hareketinin temel girdi hareketinden farklılaşması kinematik etkileşim olarak değerlendirilir. Bu çalışmanın amacı esnek zemin-temel sistemi nedeniyle bina periyodunda gerçekleşen uzamayı farklı yapı sistemlerine sahip binalar ve yerel zemin sınıflarında ortaya koymaktır. Ayrıca periyoda bağlı olan spektral ivme ve deplasman, taban kesme kuvveti ve tepe deplasmanı gibi bazı sismik tasarım parametrelerinin değişimi de gösterilmiştir. ZYE ile elde edilen sismik parametreler, ZYE etkilerinin zayıf zeminler üzerinde yer alan rijit binalar için daha belirgin olduğunu ortaya koymaktadır.
+Yazar isimleri: ['Mehmet ÖZGÜR', 'Kanat Burak BOZDOĞAN']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/966259
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1868172

@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship of Tax Revenue and Economic Growth: An Empirical Investigation on Selected OECD Countries
+Özet: Tax is the most important source of revenue of the state. There is a relationship between economic growth, which is one of the main macroeconomic variables, and tax revenue. In this study, the relationship between tax revenue and economic growth for the selected 10 OECD countries (Denmark, France, Belgium, Finland, Sweden, Italy, Austria, Greece, Norway and Germany) with the highest tax revenues has been discussed with empirical methods. In the study, annual tax revenue and economic growth data for the period of 1995-2019 were used. Unit root level of the variables were tested with LLC and Fisher ADF unit root tests. As a result of the panel unit root test, the cointegration relationship between the variables was handled with Kao cointegration analysis. After determining the cointegration relationship between the variables used in the model, FMOLS and DOLS methods, which are long-term coefficient estimators, were used. According to the results of FMOLS and DOLS methods, increases in tax revenues reduce economic growth across the panel.
+Yazar isimleri: ['Bahar OĞUL']
+Yayın Yılı: 25 Haziran 2022
+Dergi ismi: Uşak Üniversitesi Uygulamalı Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/usakuyg/issue/70452/1090153
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2319271

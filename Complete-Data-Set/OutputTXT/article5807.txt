@@ -1,0 +1,7 @@
+Makale Başlığı: THE IMPACT OF SELECTED MACROECONOMIC VARIABLES ON STOCK MARKET: THE CASE OF TURKEY
+Özet: The role of information in financial markets is an area that has been researched for many years. Financial asset prices can be affected by many rational and irrational factors. Macroeconomic indicators are one of these factors. For this reason, the relationship between macroeconomic variables and capital markets is a subject that is frequently examined in the literature. The aim of this study is to determine the relationships between macroeconomic indicators and BIST-100 index between 2005:1 and 2019:12 in Turkey. Time series analysis was used in the study. The stationarity of the series was investigated by ADF and PP unit root tests. The relationships between the variables were tested with cointegration, vector error correction model and granger causality tests. As a result of the study, it has been determined that the time series move together in the long run, but this relationship is quite limited.
+Yazar isimleri: ['Esra DURGUT', 'Nuray DEMİREL ARICI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Finans Ekonomi ve Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fesa/issue/72711/1137773
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2514927

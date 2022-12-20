@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Blood Glucose Level and Body Temperature on Prognosis in Pediatric Head Traumas
+Özet: Pediatric head injuries is one of the most important etiological causes of mortality and morbidity in childhood. The early decision for the prognosis due to the parameters in the emergency department admission can be warning for treatment and close follow-up. The aim of this study is to evaluate the effect of blood glucose level and body temperature on prognosis at the time of admission by using the Modified Rankin Score. 301 cases between the ages of 0-16 who applied to the Bursa Uludağ University Faculty of Medicine Emergency Department were included in this study. A negative correlation was found between the Glasgow Coma Score and the blood glucose level. In addition, a negative correlation was observed between Glasgow Coma Score and Modified Rankin Score, while a weak positive correlation was found between blood glucose level and Modified Rankin Score. It was observed that the hyperthermia detected at the time of admission had no effect on the prognosis. These results showed that, the high blood glucose level may be important in determining the prognosis in addition to the Glasgow Coma Score.
+Yazar isimleri: ['Ayşen ÇAKIR', 'Vahide Aslıhan DURAK', 'M Özgür TAŞKAPILIOĞLU', 'Güven ÖZKAYA', 'Nevzat KAHVECİ']
+Yayın Yılı: 15 Eylül 2022
+Dergi ismi: Uludağ Üniversitesi Tıp Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uutfd/issue/72578/1066850
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2227450

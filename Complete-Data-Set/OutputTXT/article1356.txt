@@ -1,0 +1,7 @@
+Makale Başlığı: Box-Jenkins Yöntemiyle Turizm Talebinin Tahmin Edilmesi: Türkiye Örneği
+Özet: Türkiye’nin en önemli gelir kaynaklarından biri olan turizm sektöründe gelecek dönemlerdeki olası turizm talebinin belirlenmesi; kaynakların dağıtılması ve planlanması, doğru fiyat politikalarının tespit edilmesi ve uygun pazarlama tekniklerinin seçilmesi açısından önem arz etmektedir. Bu nedenle, bu çalışmada Ekim 2021 ve Eylül 2022 (2021:10 – 2022:09) tarihlerindeki Türkiye’ye yönelik turizm talebinin tahmin edilmesi amaçlanmıştır. Bu bağlamda turizm talebinin tahmin edilmesinde vekil değişken olarak 1990:01 - 2021:09 zaman aralığında Türkiye’ye gelen turist sayıları verileri kullanılmıştır. Belirtilen dönemde gerçekleşmesi beklenen turizm talebinin tahmin edilmesinde Box-Jenkins yöntemi altında ele alınan ARIMA (entegre otoregresif hareketli ortalama modeli) ve SARIMA (mevsimsel entegre otoregresif hareketli ortalama modeli) modelleri uygulanmıştır. Çalışmanın sonucunda en iyi uyum gösteren modelin, SARIMA (2,1,2)(2,1,0) modeli olduğu belirlenmiştir. Çalışmada ayrıca gelecek 12 aya yönelik öngörü yapılmıştır.
+Yazar isimleri: ['Kurtuluş BOZKURT', 'Aytaç PEKMEZCİ', 'Hatice ARMUTCUOGLU TEKİN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Anatolia: Turizm Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atad/issue/68201/1087573
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2308590

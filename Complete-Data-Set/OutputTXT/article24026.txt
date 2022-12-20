@@ -1,0 +1,7 @@
+Makale Başlığı: Metal Malzeme Yüzeylerine Atmosferik Basınçlı Plazma Uygulamasının Yapıştırma Bağlarına Etkisi
+Özet: Vakum altında yapılan plazma uygulamasının etkileri uzun zamandır bilinmesine karşın nispeten daha yeni süreçler olan atmosferik basınçlı plazma (ABP) uygulamaları günümüzde birçok alanda ön plana çıkmaya başlamıştır. ABP uygulamaları hem hızlı hem de kolay-stabil şekilde malzeme yüzeylerine yapılabilmektedir. ABP ile malzemelerin yüzey enerjileri arttırılmakta ve yapıştırma, yüzey boyama, kaplama, hijyen sağlama gibi uygulamalar daha uygun ve yüksek dayanımlı olarak ortaya konulabilmektedir. Özellikle metal malzemelerin yapıştırılması işleminde daha detaylı araştırmalar yapılarak süreç  parametrelerinin ortaya konulmasına ihtiyaç duyulmaktadır. Bu çalışmada da H300LAD (galvaniz kaplamalı) ve H300LA (kaplamasız)malzemeler üzerinde, yapışma dayanımının ABP uygulaması sonucundaki değişimi araştırılmıştır. Deneyler öncesinde metal yüzeylerin enerjilerinin değişimleri su damlası ve mürekkep denemeleri ile ortaya konulmuştur. Sonuçlar, ABP uygulamasının metal yapıştırma işleminde iyileşmeler sağlayabileceğini göstermektedir.
+Yazar isimleri: ['Öyküm KANBİR', 'Emel TAŞYAKAN', 'Kadir ÇAVDAR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Bilim Teknoloji ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/istd/issue/71031/1138828
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2518837

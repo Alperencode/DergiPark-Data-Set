@@ -1,0 +1,7 @@
+Makale Başlığı: Some Notes on Geodesics of Vertical Rescaled Berger Deformation Metric in Tangent Bundle
+Özet: In this paper, we study the geodesics on the tangent bundle $TM$ with respect to the vertical rescaled Berger deformation metric over an anti-paraK\"{a}hler manifold $(M, \varphi, g)$. In this case,  we establish the necessary and sufficient conditions under which a curve be geodesic with respect to this.  Finally, we also present certain examples of geodesic.
+Yazar isimleri: ['Abderrahım ZAGANE']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1079349
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2276078

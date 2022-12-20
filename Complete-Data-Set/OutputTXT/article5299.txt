@@ -1,0 +1,7 @@
+Makale Başlığı: BRICS-T Ülkelerinde Ar-Ge Harcamaları ve Ekonomik Büyüme Arasındaki İlişki
+Özet: Teknolojik gelişmenin temel belirleyicilerinden olan Ar-Ge ülkeler arasında gelişmişlik farklarının belirlenmesinde kritik bir role sahiptir.  Gelişmiş ülkelerin yanı sıra gelişmekte olan ülkelerin de Ar-Ge harcamalarına daha fazla fon ayırmaya başlaması, bu konudaki literatürün güncelliğini korumasına yol açmaktadır. Bu çalışmanın amacı, 2000-2018 döneminde Ar-Ge harcamaları ve büyüme arasındaki ilişkiyi Brezilya, Rusya, Hindistan, Çin, Güney Afrika ve Türkiye (BRICS-T) için incelemektir. Bu kapsamda panel VAR yaklaşımıyla birlikte Dumitrescu-Hurlin (2012) nedensellik testi, Etki-Tepki ve Varyans Ayrıştırma analizleri kullanılmıştır. Dumitrescu-Hurlin (2012) nedensellik testine göre BRICS-T ülkelerinde Ar-Ge harcamaları ile büyüme arasında çift yönlü nedensellik ilişkisi vardır.
+Yazar isimleri: ['Yüksel BAYRAKTAR', 'Necip DÜNDAR', 'Ayfer ÖZYILMAZ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguiibf/issue/73390/1151022
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2565801

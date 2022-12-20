@@ -1,0 +1,7 @@
+Makale Başlığı: Obtaining the Electrical Characteristics of a Photovoltaic Array with DC-DC Converters
+Özet: With the increasing use of Photovoltaic modules in daily life, knowing the performance parameters of these modules has become important in terms of usage, design and efficiency studies. DC-DC converters are power electronics circuits used in almost the majority of photovoltaic systems. Since these circuits can also be used as a load emulator, they also offer the opportunity to obtain the electrical characteristic curves of photovoltaic modules. In this study, the electrical characteristics of a photovoltaic array are demonstrated using different types of DC-DC converters. The system was simulated in the Matlab-Simulink environment, and the results were examined both in uniform irradiation and in different partial shade scenarios. Then, it is explained how these characteristics can be used in maximum power point tracker methods by comparing them by considering the converter type used.
+Yazar isimleri: ['Koray PARLAK']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: International Journal of Innovative Engineering Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiea/issue/70503/1034743
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2124448

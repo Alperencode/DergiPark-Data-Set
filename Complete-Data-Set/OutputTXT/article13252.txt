@@ -1,0 +1,7 @@
+Makale Başlığı: A modified parallel monotone hybrid algorithm for a finite family of $\mathcal{G}$-nonexpansive mappings apply to a novel signal recovery
+Özet: 
+Yazar isimleri: ['Kunrada KANKAM', 'Prasit CHOLAMJİAK', 'Watcharaporn CHOLAMJİAK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1122092
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2450374

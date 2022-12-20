@@ -1,0 +1,7 @@
+Makale Başlığı: Ultrason RF Sinyallerinden Göğüs Kanserinin Derin Öğrenme Tabanlı Yaklaşımlarla Tespit Edilmesi
+Özet: Göğüs kanseri kadınların en çok yakalandığı kanser türüdür. Bu hastalıkta erken teşhis çok önemlidir. Erken teşhis için kullanılan en önemli tıbbi teknolojiler arasında Manyetik Rezonans (MR) ve Ultrason (US) yer almaktadır. US ile teşhis MR ile teşhise göre daha az maliyetlidir fakat daha fazla deneyim gerektirir. Gelişen teknoloji ile yapay zekâyı kullanan otomatik karar destek sistemleri son derece popüler hale gelmiştir. Bu noktada bu çalışmada US RF sinyallerini kullanarak derin öğrenme tabanlı bir yaklaşımla göğüs kanseri otomatik teşhis edilmeye çalışılmıştır. Çalışmada kullanılan örnek sayısı fazla olmadığı için önceden eğitilmiş bir ESA modeli olan MobileNetV2 öznitelik çıkarmak için kullanılmıştır. Sınıflandırma aşamasında ise bir topluluk sınıflandırıcısı olan ensemble RUSBoosted Tree (ERBT) algoritması tercih edilmiştir.
+Yazar isimleri: ['Fatih DEMİR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1142207
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2531966

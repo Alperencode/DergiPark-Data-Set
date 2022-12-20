@@ -1,0 +1,7 @@
+Makale Başlığı: ANALYSIS OF PHYSIOLOGICAL LOAD WITH METABOLIC RATE MODELLING IN REPETITIVE MANUAL TASKS
+Özet: It is the responsibility and goal of those working in the field of ergonomics to ensure that job demands do not exceed the abilities of employees and to keep a job at a level that can be done all day long. The employee, who is expected to work constantly above the performance limit, gets tired. Fatigue can create negative effects in terms of work efficiency, health, safety and psychological balance of employees. Metabolic energy expenditure rate is a physiological measurement used to determine the maximum work intensity that can be performed continuously without accumulating excessive physical fatigue. In this study, the evaluation of metabolic rate and energy load in the logistics department of a rubber hose manufacturing enterprise was achieved using the metabolic rate expenditure model for manual material handling works. In the current situation, the metabolic energy expenditure rate of the employee was found to be 6,564 kcal/min. With the new conveyor system developed, the metabolic energy expenditure rate was reduced to 4.872 kcal/min and it was kept below the limit value.
+Yazar isimleri: ['Betül YILDIZ', 'Nuh Mete AKIN', 'Ferdi AYDIN', 'Tülin GÜNDÜZ', 'Besim Türker ÖZALP']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Endüstri Mühendisliği
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/endustrimuhendisligi/issue/72166/1054341
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2178625

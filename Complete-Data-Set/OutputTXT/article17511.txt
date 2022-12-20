@@ -1,0 +1,7 @@
+Makale Başlığı: DİKDÖRTGEN MİKROŞERİT YAMA ANTENDE KISMİ TOPRAK DÜZLEM YAPININ BAND GENİŞLİĞİ VE ANTEN KAZANCINA ETKİSİNİN İNCELENMESİ
+Özet: Bu çalışmada 2,45GHz çalışma frekansına sahip yarıklı dikdörtgen mikroşerit yama anten tasarımı yapılmıştır. Anten tasarımında 66x101x1,6mm boyutlarında FR4 alttaş malzeme kullanılmış ve antenin yansıma katsayısı, toplam kazancı ve Bant Genişliği değerleri hesaplanmıştır. Antenin toprak düzleminin üç taraftan parametrik olarak indirgenmesiyle oluşturulan kısmi toprak düzlemlerinin antenlerin yansıma katsayısı S11, Toplam Kazanç ve Bant Genişliği değerlerine etkileri incelenmiş ve ilk durumlarla karşılaştırılmıştır. Bu işlemler için Ansoft HFSS ve CST Microwave Studio simulasyon programları kullanılmıştır. HFSS programında 2.45GHz çalışma frekansında yansıma katsayısı -21,43dB değerinden -30,6dB’ye, bant genişliği değeri 41,1MHz’den 290Mhz’e ve kazanç değeri de 2.15dB’den 3,56dB’e kadar iyileşmeler gözlenmiştir. CST programında ise 2.45GHz çalışma frekansında yansıma katsayısı -19,85dB’den -35,7dB’ye, band genişliği 43,1MHz’den 229,8MHz’e ve kazanç değeri 6,98dB’den 7,27dB’ye kadar iyileşmeler gözlenmiştir. Benzer olumlu etkiler farklı anten boyutları için gözlenmiştir.
+Yazar isimleri: ['Orhan ARMAĞAN']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Yalvaç Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yalvac/issue/72335/1170325
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2629639

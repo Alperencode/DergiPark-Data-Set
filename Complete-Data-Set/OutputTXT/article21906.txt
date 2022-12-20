@@ -1,0 +1,7 @@
+Makale Başlığı: PAZARLAMADA KAMPANYA YÖNETİMİ VE YAPAY ZEKÂ KULLANIMI
+Özet: Dijital çağın yükselişi ve son yıllarda yapılan başarılı pazarlama çalışmalarının da katkısıyla yapay zekâ teknolojilerinin önemi her geçen gün daha da artmakta ve söz konusu teknolojiler birçok sektörde işlev kazanmaktadır. Günümüzde, işletmeler günden güne artan rekabet sonucunda mevcut ve potansiyel tüketicilere ulaşmak için bilgi teknolojileri tabanlı sistemleri kullanmaktadırlar. Bu çalışmanın amacı, pazarlama kampanya yönetiminde yapay zekâ araçlarının kullanım alanlarını ve ne tür pratikler üzerinde işlerlik kazandığını incelemek, pazarlama ve bilgi işlem profesyonellerinin konuya dair düşüncelerini ortaya koymaktır. Araştırmada derinlemesine mülakat yöntemi kullanılmıştır. Çalışmanın sonucu olarak pazarlama ve bilgi işlem profesyonellerinin kampanya yönetiminde yapay zekâ teknolojisi kullanmasının şirketlerin başarısını pozitif yönde etkilediği belirlenmiştir. İşletmeler tarafından hayata geçirilen çeşitli pazarlama faaliyetlerinin düzenlenmesi, iş akışı süreçlerinde verilerin otomatik toplanması, analiz edilmesi ve çıktıların hızlı biçimde ortaya konması açısından yapay zekâ kullanımının kampanya çalışmalarında olumlu sonuçları olduğu tespit edilmiştir.
+Yazar isimleri: ['Burcu SARİOGLU', 'Evrim İldem DEVELİ']
+Yayın Yılı: 13 Ekim 2022
+Dergi ismi: Uluslararası Halkla İlişkiler ve Reklam Çalışmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hire/issue/73002/1119840
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2441260

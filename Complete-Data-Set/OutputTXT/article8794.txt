@@ -1,0 +1,7 @@
+Makale Başlığı: Impact of Economic Growth, Technological Innovation, and Globalization on Environmental Degradation in an Emerging Market
+Özet: This current study reveals a new understanding of the dynamic impact of globalization, technological innovation, economic growth on environmental degradation in South Africa by utilizing innovative analyses. This research applied wavelet-based techniques for datasets between 1980 and 2017. The empirical outcomes establish proof of a connection between CO2 emissions (CO2E) and technological innovation, economic growth, and globalization over time and frequency. Additionally, from the viewpoint of frequency-domain, this paper shows impressive wavelet coherence and robust lead/lag interaction. The empirical findings indicate that technological innovation, globalization, and economic growth depreciate the level of environmental quality in South Africa in the short and medium-term. The findings highlight the importance of having coordinated policies by lawmakers and government officials to prevent environmental degradation that has taken place in South Africa for many decades.
+Yazar isimleri: ['Derviş KIRIKKALELİ', 'Tomiwa ADEBAYO', 'Mehmet KONDOZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: JOEEP: Journal of Emerging Economies and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joeep/issue/66260/1090654
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2321299

@@ -1,0 +1,7 @@
+Makale Başlığı: Consequences of Oil and Food Price Shocks on the Ecuadorian Economy
+Özet: In this study, I investigated the short run impact on macroeconomics variables in Ecuador, economic growth and inflation specifically, due to world oil price and global food price shocks, considered these last two, as external variables. The model used to explain the dynamic of variables was the structural vector autoregression (SVAR), with annual data from 1980 to 2015. I concluded that oil price shocks affect positively to economic growth in Ecuador during two consecutive years, and then it returns to its natural state gradually. No enough statistically significant evidence was found, to conclude the global food index affect economic growth or inflation in Ecuador. Inflation neither showed significant response to oil price shocks. Considering the small sample in this study, due to unavailability of domestic economic data, the model resulted stable, and it is in line with arguments from other authors. Oil price shocks are a very important variable to keep watching, as Ecuador still depends on it, any government macroeconomic policy should be focus to it.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351234
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361775

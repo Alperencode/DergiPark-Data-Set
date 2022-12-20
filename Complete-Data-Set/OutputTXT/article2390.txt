@@ -1,0 +1,7 @@
+Makale Başlığı: Perturbe edilmiş Radhakrishnan-Kundu-Lakshmanan denklemi için soliton çözümler
+Özet: Denklemin bazı soliton çözümlerini bulmak için perturbe edilmiş Radhakrishnan-Kundu-Lakshmanan (RKL) denklemi ele alınmıştır.  Bu amaç için lineer olmayan evrim denklemleri (NLEEs)’nin çözüm yöntemlerinden biri olan GKM (genelleştirilmiş Kudryashov metodu), perturbe edilmiş RKL denklemine uygulanmıştır. İlk olarak ele alınan lineer olmayan kısmi diferansiyel denklem, hareketli dalga dönüşümü yardımıyla bir adi diferansiyel denkleme indirgenmiştir. Daha sonra denge prensibi ile elde edilen cebirsel denklem sistemi Wolfram Mathematica 12 yardımıyla çözülmüştür. Böylece ele alınmış olan denklemin bazı yeni soliton çözümleri elde edilmiştir.  Elde edilen bu yeni çözümlere birtakım değerler verilerek Wolfram Mathematica 12 yardımıyla hem 2 boyutlu hem de 3 boyutlu grafiklerin çizimleri yapılmıştır
+Yazar isimleri: ['Şeyma TÜLÜCE DEMİRAY', 'Uğur BAYRAKCI', 'Vehpi YILDIRIM']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1003398
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2004751

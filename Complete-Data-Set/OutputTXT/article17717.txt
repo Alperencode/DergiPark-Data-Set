@@ -1,0 +1,7 @@
+Makale Başlığı: An Application on the Source of Inflation in Turkey
+Özet: Enflasyonun yüksek olması makroekonomik olarak ülkelerin ekonomileri açısından istenmeyen durumlar arasındadır. Enflasyon ekonomilerde genellikle iki farklı sebep ile görülmektedir. Bunlar talebin çektiği ve maliyetin ittiği enflasyon olarak sıralanabilir. Çalışmanın amacı Türkiye’deki enflasyonun kaynağını araştırmaktır. Bu amaçla çalışmada Ocak 2006 ve Temmuz 2021 dönemine ait aylık üretici fiyat endeksi ve tüketici fiyat endeksi serileri kullanılmıştır. Değişkenlerin öncelikle Genelleştirilmiş Dickey Fuller Birim Kök Testi ile durağanlık durumları analiz edilmiştir. Ardından değişkenlere Granger Nedensellik Testi uygulanmıştır. Analiz sonucunda üretici fiyat endeksinden tüketici fiyat endeksine doğru tek yönlü nedensellik ilişkisi tespit edilmiştir. Bu durum Türkiye’de enflasyonun genellikle maliyetlerden kaynaklandığını göstermektedir. Bu sebeple enflasyonla mücadele için maliyet eksenli politikaların uygulanması, enflasyonun düşmesine daha fazla katkı sağlayacaktır.
+Yazar isimleri: ['Hasan AZAZİ']
+Yayın Yılı: 11 Ekim 2022
+Dergi ismi: Yönetim Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/comuybd/issue/72987/1075637
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2261753

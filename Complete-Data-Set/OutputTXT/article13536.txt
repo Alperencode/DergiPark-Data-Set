@@ -1,0 +1,7 @@
+Makale Başlığı: First Theoretical Identification of the Magnetic Dipole Moment of the 97.43 keV State in 153Eu
+Özet: Two alternative values, +3.21±0.22 μ_N and-0.52±0.22 μ_N, for the magnetic dipole (M1) moment of the excited [532] 5/2- state at 97.43 keV in 153Eu were reported in the Mossbauer-effect study. The Quasiparticle Phonon Nuclear Model (QPNM) has been used to determine the correct value of the magnetic moment of this state. According to the QPNM calculations, the experimental 97.43 keV level is the [532] 5/2- Nilsson state occurring at 79 keV. The QPNM predicted the magnetic moment of this state to be +3.2162 μ_N, which agrees well with one of the experimental values, i.e., +3.21±0.22 μ_N. Therefore, the correct value for the magnetic moment of the 97.43 keV level of 153Eu is most probably +3.21±0.22 μ_N. The measured value (+3.4717±0.006 μ_N) of the magnetic moment of 5/2- ground-state, which is probably a [532] Nilsson state according to our QPNM calculations, supports our prediction.
+Yazar isimleri: ['Emre TABAR', 'Elif KEMAH', 'Hakan YAKUT', 'Gamze HOŞGÖR']
+Yayın Yılı: 20 Ekim 2022
+Dergi ismi: Sakarya Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/saufenbilder/issue/73051/1123474
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2456270

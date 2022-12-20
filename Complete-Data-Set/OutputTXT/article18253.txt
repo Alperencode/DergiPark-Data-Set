@@ -1,0 +1,7 @@
+Makale Başlığı: Cinsiyetin Dijital Vatandaşlık Davranış Düzeyi Üzerindeki Etkisinin Meta Analiz Yöntemiyle Araştırılması
+Özet: Bu araştırmanın amacı cinsiyetin dijital vatandaşlık davranış düzeyi üzerindeki etkisini belirlemektir. Araştırma kapsamında Google Akademik, EBSCOhost, ERİC, ULAKBİM TR Dizin, YÖK Tez veri tabanlarında “vatandaş, dijital vatandaş, dijital vatandaşlık, e-vatandaşlık, sanal vatandaşlık, citizen, digital citizen, digital citizenship, e-citizenship, virtual citizenship” kelimeleri kullanılarak tarama yapılmış ve bu kapsamda 20 çalışmaya ulaşılmıştır. 2012-2020 yılları arasında yayınlanan bu çalışmalardan 14’ü makale, 4’ü ise tez türündedir. Çalışmaların etki büyüklükleri, heterojenlikleri ve yayın yanlılığı analizleri “Comprehensive Meta-Analysis” istatistik programı kullanılarak yapılmıştır. Araştırmaya dâhil edilen çalışmaların heterojen bir dağılım gösterdiği ve yayın yanlılığının olmadığı sonucuna ulaşılmıştır (Q=357,231, p<0,05; I2= 94,681). Araştırma sonuçlarına göre, cinsiyetin dijital vatandaşlık davranış düzeyi üzerinde önemsiz düzeyde bir etkiye sahip olduğu söylenebilir. Ortalama etki büyüklüğü değerinin negatif olması (-0,097), erkek öğrencilerin lehine bir değişikliğe işaret etmektedir.
+Yazar isimleri: ['Hafize ER TÜRKÜRESİN']
+Yayın Yılı: 25 Eylül 2022
+Dergi ismi: Bayburt Eğitim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/befdergi/issue/72631/799791
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1308852

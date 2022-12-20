@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of the Sample Disturbance Effects on Consolidation Parameters Obtained from Conventional Oedometer Tests
+Özet: This study explores the effects of sample disturbance on the compression curves obtained from oedometer tests and the inferred effective preconsolidation stress (sp'). The samples were systematically disturbed by removing different fractions of the soil ranging from 10%, 20%, 30%, 40%, and 50% and remolding them back into place to reach the same initial void ratio. It was found that when the rate of disturbance was increased, it became more difficult to determine the sp' values on the compression curve; the typical bending point on the compression curve became increasingly indistinct, and negligible changes occurred in the sp' values of the disturbed soil samples up to a disturbance rate of 40%. If the soil samples whose consolidation parameters such as preconsolidation stress can’t be determined are subjected to disturbances greater than 40%, it is recommended that no consolidation parameter of such samples be specified.
+Yazar isimleri: ['Muharrem DUMANLILAR', 'Mustafa FENER', 'Mehmet Can BALCI']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1168588
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2622781

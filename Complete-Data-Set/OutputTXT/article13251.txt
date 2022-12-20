@@ -1,0 +1,7 @@
+Makale Başlığı: Note on the  convergence of fractional conformable diffusion equation  with linear source term
+Özet: In this paper, we study the diffusion equation with conformable derivative. The main goal is to prove the convergence of the mild solution to our problem when the order of fractional Laplacian tends to $1^-$. The principal techniques of our paper is based on some useful evaluations for exponential kernels.
+Yazar isimleri: ['Tien NGUYEN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1144709
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2541820

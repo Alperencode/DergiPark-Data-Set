@@ -1,0 +1,7 @@
+Makale Başlığı: The effect of local soil conditions on structure target displacements in different seismic zones
+Özet: The local soil conditions of the region where the structure is located are one of the important parameters taken into account in the evaluation and design of structures under the influence of earthquakes. In this study, the effect of different local soil conditions on target displacement values of reinforced-concrete (RC) structures in different seismic regions was investigated. For this purpose, four different settlements within each earthquake zone specified in the previous earthquake zone map were taken into account. Structural analyzes for a sample reinforced concrete structure using four different local soil conditions were performed for all residential units separately. The values predicted in the current earthquake hazard map for the considered locations were repeated for four different local soil classes. For the settlements, the predicted values in the last two maps were compared. As the soil properties improved as a result of the structural analysis, the displacement values predicted for the building performance level took lower values.
+Yazar isimleri: ['Fatih AVCIL', 'Ercan IŞIK', 'Aydın BÜYÜKSARAÇ']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: Gümüşhane Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumusfenbil/issue/72979/1107506
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2390690

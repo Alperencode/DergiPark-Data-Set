@@ -1,0 +1,7 @@
+Makale Başlığı: Sivil Havacılık Kabin Hizmetleri Programı Öğrencilerinde Sosyal Görünüş Kaygısı ve Yeme Tutumu İlişkisi
+Özet: Bu araştırmada sivil havacılık kabin hizmetleri programı öğrencilerinin sosyal görünüş kaygısı (SGK) ve yeme tutumları (YT) arasındaki ilişkiyi incelemek amaçlanmıştır. Araştırmanın örneklemini İstanbul’da vakıf üniversitelerinde öğrenim gören 117 sivil havacılık kabin hizmetleri programı öğrencisi oluşturmaktadır. Araştırmada katılımcılara Demografik Bilgi Formu, Sosyal Görünüş Kaygısı Ölçeği ve Yeme Tutumu Testi Google Forms aracılığı ile sunulmuştur. Analiz sürecinde verilerin normal dağılıma uygun olup olmadığı normallik analizi ile değerlendirilmiş ve normal dağılmadığı belirlenmiştir. Ölçek puanları arasında ilişki olup olmadığı Spearman Korelasyon Analizi ile incelenmiş olup bağımsız ikili grup karşılaştırmalarında Mann Whitney U Testi, ikiden fazla grubun karşılaştırılmasında Kruskal-Wallis Testi yapılmıştır. Sosyal görünüş kaygısının yeme tutumunu yordayıp yordamadığı basit doğrusal regresyon analizi ile incelenmiş olup sosyal görünüş kaygısının yeme tutumundaki değişikliğin %24.1’ini açıkladığı görülmüştür. Araştırma sonuçlarına göre SGK ve YT arasında istatistiksel olarak orta düzeyde anlamlı bir ilişki bulunmuştur (r=.328, p
+Yazar isimleri: ['Zehra Nur KURTOĞLU', 'Merve SEVEN KELEŞ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of Aviation Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jar/issue/72408/1106771
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2387735

@@ -1,0 +1,7 @@
+Makale Başlığı: Designing Sheikh Sabani Veli Cultural Route
+Özet: Purpose and Importance: In this study, we aimed to create a new cultural route in order to provide tourism diversity in the region.Methodology: In this study, the Sheikh Shaban-i Veli cultural route was created by using spatial technologies such as GPS and orthophoto maps. We created a 3D digital land model of Kastamonu province and its environs by using the district-owned satellite images, vector maps, orthophoto maps, digital elevation models of Turkey.Findings: The Sheikh Shaban-i Route is a complement to the Sufi Trail, both as content and a destination. The problems encountered during the formation of the Sheikh Shaban-i Veli route are the lack of restoration, written or visual materials, sign, camping places. this study, the route’s coordinates were determined, and the route planning was done.Originality/Value: Shaban-i Veli route can then be used as a development tool for marginal or rural areas. 
+Yazar isimleri: ['Canan TANRISEVER', 'Huseyin PAMUKCU', 'Nuri ERDEM']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turist Rehberliği Dergisi (TURED)
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tured/issue/70781/1087102
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2306738

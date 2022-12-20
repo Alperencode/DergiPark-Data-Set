@@ -1,0 +1,7 @@
+Makale Başlığı: Human Capital Investment and Economic Growth in Saudi Arabia: Error Correction Model
+Özet: To examine the relationship between investment in human capital and economic growth in the Kingdom of Saudi Arabia for the period 1970-2014. Quantitative research design has been implemented. Granger Causality approach has been employed, followed by error correction model. The data stationarity and integration order have been tested, using the Augmented Dickey-Fuller. Any long-run or short-run causality was not observed between expenditure on education and economic growth (per capita GDP). 73.6% variation has been indicated by fixed capital formation of GNP, which is considered as an effective aspect. The results indicated that results are statistically significant with p-value (0.000) at 5% level of significance. Investment in human capital, with the right policy assessments and rehabilitation, can be translated into an essential element of growth in the Saudi economy.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353521
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364547

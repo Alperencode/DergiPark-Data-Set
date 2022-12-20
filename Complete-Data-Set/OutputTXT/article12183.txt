@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis of Linear Antenna Arrays with Physics Based AOA, CryStAl and LA Algorithms
+Özet: In this article, 10, 16, and 24-Element of Linear Antenna Arrays (LAAs) synthesis are carried out with 3 different novel physics-based metaheuristic methods. These methods are called Archimedes Optimization Algorithm (AOA), Crystal Structure Algorithm (CryStAl), and Lichtenberg Algorithm (LA). In order to prevent electromagnetic interference from other systems operating in the same frequency band, the Sidelobe Level (SLL) of the radiation patterns of the LAA has been suppressed as much as possible. While performing the LAA synthesis, Half Power Beam Width (HPBW), which is related to the directivity of the antenna, is also taken into account. The methods proposed in this study are run independently 30 times to obtain the statistical values of LAA synthesis. The minimum, maximum, median, and standard deviation values of the SLL and HPBW of the radiation patterns obtained as a result of these runs are tabulated. The performances of these three proposed novel physics-based optimization methods are given comparatively. In all simulation studies, the CryStAl method generally showed the best performance.
+Yazar isimleri: ['Ali DURMUŞ']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1120048
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2442065

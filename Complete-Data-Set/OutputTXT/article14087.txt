@@ -1,0 +1,7 @@
+Makale Başlığı: Yeraltı Madenciliğinde Meydana Gelen Gürültü Şiddetinin İncelenmesi
+Özet: Ülkemizde madencilik iş gücü kapasitesinin büyük olduğu sektörlerden birisidir. İşçiler sektörde zaman ve ekonomik değerlerin ön planda olması, aynı zamanda çalışma şartlarının ağırlığı yeraltı madenciliğinde güçlü iş makine ve ekipmanlarının da işçiler ile aynı iş sahasında olmasını zorunlu kılmaktadır. Günümüz madencilik sektöründe kullanılan maden makinelerinin aşırı seviyede gürültü kirliliği oluşturduğu ve işçilerin bu gürültüyle maruz kalmaları en sık karşılaşılan meslek hastalıklardan birisi olan işitme kaybı riskini doğurmaktadır. 	Yeraltı maden ocakları işçilerinin etkisi altında kaldıkları gürültü seviyesini, seviyenin yaşam kalitesi üzerindeki olumsuz etkilerini ve gürültü etki seviyesinin standartlara uygunluğunu değerlendiren çalışmalar ülkemizde yok denecek kadar azdır. Bu çalışmada yeraltı madenciliğinde gürültü kaynaklarının şiddeti her bir frekans değeri için ayrı ayrı belirlenmiş ve işçi sağlığı ve güvenliği için ele alınmıştır.
+Yazar isimleri: ['Ayla TEKİN', 'Mustafa Oğuz NALBANT', 'Mustafa ORHAN', 'Fırat TEKİN', 'Fatih SUVAYDAN', 'Kemal BERKİ', 'Sami GÜMÜŞ', 'Aslı Aydın SAVRAN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Soma Meslek Yüksekokulu Teknik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/somatbd/issue/71302/1110492
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2403357

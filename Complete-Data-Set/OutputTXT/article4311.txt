@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF SUEZ CANAL BLOCKAGE ON SUPPLY CHAINS
+Özet: The purpose of supply chain risk management is to understand the risks and their impacts, to take preventive actions and to determine plans to be implemented when risk events occur. Even if supply chain risks appear to be a minor risk event that was initially ignored, they can cause billions of dollars in costs and long-term supply chain disruptions at the macro level. The ship named Ever Given, which blocked the canal by accident during transportation in the Suez Canal on March 29, 2021, caused significant adverse effects in the supply chains, but also caused a break in the supply chain. In this study, the occurrence of the event is examined in terms of past marine accidents and supply chain risk management. In addition, alternative scenarios that occurred during the accident were examined, their effects on supply chains were determined, and suggestions were made against such accidents in the future. Furthermore, in the conclusion part of the study, the changes it will bring about in the supply chain approaches are included.
+Yazar isimleri: ['Özden ÖZKANLISOY', 'Erkut AKKARTAL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Dokuz Eylül Üniversitesi Denizcilik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/deudfd/issue/70725/933816
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1755096

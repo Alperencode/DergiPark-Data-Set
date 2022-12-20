@@ -1,0 +1,7 @@
+Makale Başlığı: Efficiency analysis of BLDC motor for variable magnetic field
+Özet: 
+Yazar isimleri: ['Yıldırım ÖZÜPAK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: MANAS Journal of Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mjen/issue/70586/1097668
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2349647

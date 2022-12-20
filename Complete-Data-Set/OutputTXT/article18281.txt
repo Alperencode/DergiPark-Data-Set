@@ -1,0 +1,7 @@
+Makale Başlığı: USE OF ARTIFICIAL INTELLIGENCE TECHNIQUES IN INTRUSION DETECTION SYSTEMS
+Özet: With the widespread use of technology, it has been observed that there are multiple connection points to the internet and other networks, and threats from different channels have increased. In existing systems, the inadequacy of firewall and encryption techniques used to detect and eliminate threats has led to the use of different detection and prevention systems in existing network systems, and Intrusion Detection Systems have been designed based on this need. Signature and anomaly- based Intrusion Detection Systems, which we can call traditional, have remained stagnant in the face of changing and developing technological developments, it has gained importance to switch to a system that can work more instantaneously, can detect attacks faster and at higher rates, and where the human factor is less. It has been inevitable for intelligence technologies to take an active role in the design of Intrusion Detection systems.
+Yazar isimleri: []
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Beykoz Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/beykozad/issue/71287/1142825
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2534500

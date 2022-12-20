@@ -1,0 +1,7 @@
+Makale Başlığı: Yerel Yönetimlerde Elektronik İhale (E-İHALE) Sistemleri ve Yapı Bilgi Modellemesi(YBM) Entegrasyonu
+Özet: Diğer devlet kurumlarında olduğu gibi, yerel yönetimlerde de ihale yöntemi olarak, Türkiye Elektronik Kamu Alımları Platformu (EKAP) denilen bir uygulama kullanılmaktadır. Yapılan bu çalışma kapsamında da EKAP konusunda uzmanların yapmış olduğu çalışmalar incelenmiş, kullanmış olduğumuz bu uygulamaya benzer olarak dünya üzerinde E-ihale uygulamaları konusunda sofistike bir uygulama olan Güney Kore E-ihale uygulaması (KONEPS) ile EKAP karşılaştırılmıştır. Sonuç olarak ise EKAP ve Yapı Bilgi Modellemesi (YBM) entegrasyonu hakkında çalışmalara yer verilmiştir.
+Yazar isimleri: ['Ömer Galip PINAR']
+Yayın Yılı: 26 Temmuz 2022
+Dergi ismi: Yapı Bilgi Modelleme
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ybm/issue/70322/1112607
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2411275

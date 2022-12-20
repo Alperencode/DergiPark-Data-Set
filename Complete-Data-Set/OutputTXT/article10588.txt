@@ -1,0 +1,7 @@
+Makale Başlığı: Energy Consideration of a Capacitor Modelled Using Conformal Fractional-Order Derivative
+Özet: Fractional order circuit elements have become important parts of electronic circuits to model systems including supercapacitors, filters, and many more. The conformal fractional derivative (CFD), which is a new basic fractional derivative, has been recently used to model supercapacitors successfully. It is essential to know how electronic components behave under excitation with different types of voltage and current sources. A CFD capacitor is not a well-known element and its usage in circuits is barely examined in the literature. In this research, it is examined how to calculate the stored energy of a CFD capacitor with a series resistor supplied from a DC voltage source. The solutions given in this study may be used in circuits where supercapacitors are used.
+Yazar isimleri: ['Utku PALAZ', 'Reşat MUTLU']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Kocaeli Journal of Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kojose/issue/72606/966342
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1868404

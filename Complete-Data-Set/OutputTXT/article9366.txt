@@ -1,0 +1,7 @@
+Makale Başlığı: Artemisinin Yield and Cyto/Genotoxic Properties of Naturally Grown Artemisia Annua L. In Uludag, Turkey
+Özet: Artemisia annua L. known as sweet wormwood in ancient literature is an essential oil bearing and medicinal aromatic plant and belongs to Asteraceae family. It has been used for many years in traditional eastern medicine especially in the treatment of malaria and some parasitic diseases, and it gives successful results. Recently, it has been addressed with its potential effect against coronavirus. In this study, naturally growing Artemisia annua L. sample in Uludag, in Bursa province of Turkey, was used as raw drug. The aim of this study is to determine the yields of artemisinin in three different solvent phase extracts using High Performance Liquid Chromatography (HPLC) and examine cytotoxic/genotoxic effect of total ethanol extract on epithelial cells isolated from human bronchial epithelium. The highest amount of artemisinin was found as 0.19 mg/g in ethanol extract. As a result of cell toxicity assay, no cytotoxicity or genotoxicity effect was observed at doses less than 500 µg/mL.
+Yazar isimleri: ['Belkıs YAŞA', 'Naile ANGIN', 'Murat ERTAŞ', 'Sibel TUNA', 'Aycan ÇINAR']
+Yayın Yılı: 8 Haziran 2022
+Dergi ismi: Journal of Innovative Science and Engineering
+Yayın sayfa url: http://jise.btu.edu.tr/tr/pub/issue/68623/1033063
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2117440

@@ -1,0 +1,7 @@
+Makale Başlığı: Forecasting Precipitation by Machine Learning Algorithms to Adapt Climate Change
+Özet: Throughout history, the water has been the main affection to choose settlement for living beings and civilizations. Indeed, there are many advanteges to be closer to water basins such as less transportation needs, wealthy crops, energy savings for delivery of water. However, there are some disadvantegous as well such as flooding, erosions. Therefore, it has been an aim to accurate prediction of precipitaion due to taking necessary measures before any hazardous events. In this study, precipitation prediction is investigated by implementing several machine learning algorithm in Python. The data used in this study is for two distict cirites of Turkey. The results show that random forest regression algorithm performs more accurate than other regression models, which are used in the present study.  Moreover, the prediction of next 4 years are illustrated that it should be expected more rainfall and should be stored in either ground by directing the rainfall to the green areas or harvesting the rainfall for dry seasons. While the climate change occurs dramatically and changes dry and wet seasons duration, the prediction of precipitation amount will help us to adapt the change more gently.
+Yazar isimleri: ['Erman ÜLKER']
+Yayın Yılı: 5 Eylül 2022
+Dergi ismi: JENAS Journal of Environmental and Natural Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jenas/issue/72259/1150975
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2565646

@@ -1,0 +1,7 @@
+Makale Başlığı: NESNELERİN İNTERNETİ GÜVENLİĞİ: EV AĞI GÜVENLİK İNCELEMESİ VE DEĞERLENDİRMESİ
+Özet: Evrensel Tak ve Çalıştır (Universal Plug and Play, UPnP) ve IoT iletişim protokolleri sayesinde cihazların birbirleriyle ve ağ ile bağlantıları çok daha kolay ve hızlı yapılabildiğinden ev ağındaki bağlantı sayısı da artmıştır. Akıllı televizyonlar ve temizlik robotları gibi akıllı cihazlar, yaşam konforumuzu artırmakta ve ev ağı üzerinden tüm dünyaya bağlantı sağlar hale gelmiştir. Bu nedenle, ev ağının internete bağlı olduğu gerçeği ağdaki akıllı cihazların güvenlik durumlarının sorgulanması ihtiyacını ortaya çıkarmıştır. Bu çalışmada, ev ağı içerisindeki popüler cihazların güvenlik seviyelerinin analiz edilmesi sağlanmıştır. Ev Ağı içerisinde UPnP zafiyetine sahip cihazların varlığını tespit etmek için Python yazılım dili kullanılarak uygulama geliştirilmiştir. Geliştirilen uygulama kullanılarak ev ağı içerisindeki 15 adet cihazdan 3 adet cihazın UPnP açıklığına sahip olduğu görülmüştür. Bir senaryo içerisinde UpNP açıklığı kullanılarak saldırı uygulaması gerçekleştirilmiştir. Bu çalışma ile evdeki ağ ve iletişim yöntemleri güvenliğinin yanında her bir IoT cihazın güvenliğinin sağlanmasının gerekliliği ayrıntılı olarak sunulmuştur.
+Yazar isimleri: ['Murat Osman KANDIR', 'Esra YOLAÇAN', 'Şahin IŞIK']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uludağ Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uumfd/issue/71647/1068960
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2235618

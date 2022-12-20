@@ -1,0 +1,7 @@
+Makale Başlığı: Değişken üslü Lebesgue uzaylarında konvolüsyonların bazı özellikleri
+Özet: Bu çalışmada değişken üslü Lebesgue uzaylarında konvolüsyon tanımlandı ve Steklov ortalamalarının sonlu lineer birleşimleri ile yaklaşımının mümkün olduğu kanıtlandı. Ayrıca yaklaşım birimi ile oluşturulan özel konvolüsyonlar dizisinin başlangıç fonksiyonuna yakınsadığı gösterildi.
+Yazar isimleri: ['Daniyal M. İSRAFİLZADE', 'Elife GÜRSEL']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1078377
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2272440

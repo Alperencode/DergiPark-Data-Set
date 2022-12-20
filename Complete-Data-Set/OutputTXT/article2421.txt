@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of critical factors affecting the adoption of blockchain technology in the banking industry with the fuzzy PIPRECIA method
+Özet: Blockchain technology, which has a very high potential to be used by the banking industry all over the world in the future, has many advantages in the banking industry. Blockchain can completely change banking services due to its high security and ability to process transactions more efficiently. With blockchain technology, many financial institutions improve their transactions in the banking sector and have a more competitive position. This study aims to evaluate the criteria that are effective in the adoption of blockchain technology, which is still in the early stage for the banking sector, with the fuzzy PIPRECIA method. The findings of the study showed that “high security” is the highest important criterion and that “government support” is the least important criterion. Another aim of the study is to demonstrate the successful application of the fuzzy PIPRECIA method.
+Yazar isimleri: ['Kevser ARMAN', 'Nilsen KUNDAKCI']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Balıkesir Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunsobed/issue/70843/975891
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1897519

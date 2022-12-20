@@ -1,0 +1,7 @@
+Makale Başlığı: Application and Economic Contribution of The Solar Energy System in Agricultural Plants: Using Pvsyst Software
+Özet: In the developing world, the importance of energy is increasing every year. In the developing world we will see that, our need for electrical energy will not only increase in industrial enlightenment and heating, but also will increase in the transportation sector. Developed countries give importance to renewable energy sources, which are environmentally friendly, in their energy production and consumption. Electricity production from solar energy, one of the renewable energy sources, has been a very important topic for engineers, architects and scientists. Turkey is located in a great geography in terms of sun ray. In this article, a feasibility study has been done about using the solar energy potential on a breeding farm with an empty roof by using PV simulation software. With this work, the efficiency of an agricultural production that even produces energy from its roof will increase. It will also help other users.
+Yazar isimleri: ['Yusuf DOĞAN', 'Meral KORKMAZ']
+Yayın Yılı: 27 Nisan 2021
+Dergi ismi: Engineering Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nwsaeng/issue/62039/932135
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1748806

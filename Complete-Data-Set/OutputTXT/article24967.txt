@@ -1,0 +1,10 @@
+Makale Başlığı: Reconstruction of Financial Performance to Manage Gap
+between Value Added Intellectual Coefficient (VAICTM) and
+Value of Company in Banking Company Listed in Indonesia
+Stock Exchange
+Özet: This study aims to analyze the effect of Value Added Intellectual Coefficient (VAIC™) on value of company (MtBV) and financial performance (ROA) as mediating variable. This study used Value Added Intellectual Coefficient (VAIC™) to measure the efficiency of three components i.e. Value Added Capital Employed (VACA), Value Added Human Capital (VAHU), and Structural Capital Value Added (STVA). This study is a quantitative research using 20 banking companies listed in Indonesia Stock Exchange (BEI) as samples. Data were analyzed using path analysis with AMOS program version 22. The results of this study indicate that the Value Added Intellectual Coefficient (VAIC™) has positive and significant effect on financial performance (ROA), but it has immediate positive and non-significant effect on company value (MtBV). Furthermore, it can be proven that VAIC™ has indirect positive and significant effect on MtBV with ROA as a mediating variable.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353594
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364629

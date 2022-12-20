@@ -1,0 +1,7 @@
+Makale Başlığı: Ridge regression parameter selection: Turkey's example of foreign direct investment
+Özet: In this study, some criteria such as Akaike Information Criteria (AIC), Bayes Information Criteria (BIC), Mallow's Cp, Cross Validity (CV) and Generalized Cross Validity Measure (GCV) that will help the selection parameter for the Ridge regression method, which is used as an alternative to the Least Squares (Least Squares) method in cases where the multiple linear regression model has multiple linear connections between the independent variables, are compared. The performances of the model selection criteria used were compared using the Monte Carlo simulation study and econometric data, with the help of mean squares error (MSE) and prediction error (PE) criteria. As a result of the numerical studies, it was found that the Ridge regression methods, whose adjustment parameter was selected with the suggested criteria in cases of multicollinearity, showed superior performance with lower MSE and PE values.
+Yazar isimleri: ['Bahadır YÜZBAŞI', 'Mustafa PALA']
+Yayın Yılı: 2 Temmuz 2022
+Dergi ismi: İstatistikçiler Dergisi:İstatistik ve Aktüerya
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jssa/issue/70774/1126717
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2469569

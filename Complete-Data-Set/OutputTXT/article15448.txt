@@ -1,0 +1,7 @@
+Makale Başlığı: Mathematical Creativity Test (MCT) development for middle school students
+Özet: This study presents the development of a mathematical creativity test and exploration of its psychometric properties. The study was conducted in six public schools and a high ability center between 2015 and 2018. The sample of the study included 1129 middle school students. The Mathematical Creativity Test (MCT) consists of problem posing, making conjecture, and proof subtests. Each test has two items. The scores of the MCT are composed of fluency, flexibility, and creativity quotient. For construct validity, EFA yielded a 3-factor solution, namely, problem posing, making conjecture, and proof subtests. CFA confirmed the 3-factor solution, and all fit indices were found to be good. For criterion validity, one-way ANOVA for independent samples was conducted in different classes, and it showed that there was a significant difference, and Pearson's correlation coefficient was investigated between MCT scores and the report card grades of the mathematics lesson. There was a strong and positive correlation between the two variables. The internal consistency and the interrater reliability of the test scores were high.
+Yazar isimleri: ['Bilge BAL SEZEREL', 'Uğur SAK']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Turkish Journal of Education
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turje/issue/73299/1037694
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2136564

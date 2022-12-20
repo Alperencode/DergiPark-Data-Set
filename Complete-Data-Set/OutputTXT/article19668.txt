@@ -1,0 +1,7 @@
+Makale Başlığı: Does Tax Planning Affect R&D Expenditures? A Study of Borsa Istanbul (BIST) Manufacturing Sector
+Özet: Tax planning, which has an important place in financial planning, is the systematic way of avoiding tax in accordance with the laws. In this process, R&D expenditures constitute a tax shield for firms to decrease their tax base. The purpose of this study is to examine whether tax planning affects R&D expenditures. The sample includes 564 firm-year observations over the period 2008-2019 for listed firms operating in the BIST-Manufacturing sector and spending R&D. As the past values of R&D expenditures have an effect on current period expenditures, the dynamic relationship between variables was analyzed by the Generalized Method of Moments (GMM) and System GMM. The findings show that tax planning has a positive effect on R&D expenditures. However, the change in firm size negatively affects R&D expenditures. The study focuses only on certain firms listed in the BIST-Manufacturing sector that made R&D and hence the results might have a limited explanatory capacity for the other sectors. Nevertheless, the findings highlight the need for firms to establish units to carry out tax planning practices that can reduce the tax burden through various means, especially R&D incentives.
+Yazar isimleri: ['Yaşar BAYRAKTAR', 'Asiye TÜTÜNCÜ']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Istanbul Business Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ibr/issue/69031/995585
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1974892

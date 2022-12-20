@@ -1,0 +1,7 @@
+Makale Başlığı: Propagation of flexural waves in beams with periodic lumped mass
+Özet: In this study, dispersion analysis is carried out in the Euler-Bernoulli beam with periodic lumped mass, and periodicity effects are investigated. First, the dispersion relation is derived using the propagator matrix method for an infinitely long periodic beam with lumped mass. The banded frequency spectrum is given depending on the mass ratio. Then, in the case of a finite number of periodic lumped masses, the effect on wave propagation was investigated and the transmission function was obtained. Finally, the displacement mode shapes of the barrier consisting of these lumped masses were obtained for the pass and stop band frequency values. The results show that it is possible to use designs made with periodic lumped masses as wave barriers.
+Yazar isimleri: ['Aydın ÖZMUTLU']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1114041
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2417014

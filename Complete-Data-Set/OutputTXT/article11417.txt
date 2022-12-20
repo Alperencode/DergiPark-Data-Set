@@ -1,0 +1,7 @@
+Makale Başlığı: Diffusion MRI Evaluation of Vitreous Humor Changes in Diabetic Retinopathy Patients
+Özet: In our article titled “Diffusion MRI Evaluation of Vitreous Humor Changes in Patients with Diabetic Retinopathy” published in Medical Records Journal 2022;4(2):187-90, the word ‘Mizah’ in the Turkish title is misspelled. Corrected Turkish title “Diyabetik Retinopatili Hastalarda Vitreus Humor Değişikliklerinin Difüzyon MRG ile Değerlendirilmesi “
+Yazar isimleri: ['Serkan ÜNLÜ']
+Yayın Yılı: 22 Eylül 2022
+Dergi ismi: Medical Records
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/medr/issue/72317/1174807
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2648739

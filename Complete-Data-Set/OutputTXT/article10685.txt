@@ -1,0 +1,7 @@
+Makale Başlığı: Two Effective Numerical Approaches for Equal Width Wave (EW) Equation Using Lie-Trotter Splitting Technique
+Özet: In this work, approximate solutions of the EW equation are obtained by two influential  numerical schemes. For the first and second method, after splitting equal width wave (EW) equation in time, it is solved by Lie- Trotter  splitting technique via quintic B-spline Collocation and cubic B-spline Lumped Galerkin FEMs and the suited finite difference approaches for space and time discretizations respectively. Stability analysis of schemes is shown and both schemes are implemented to two example. The acquired numerical results are compared with those in the literature with the help of the error norms and conservation features. It is seen that  the error norms  are quite small, the present conservation constants  are consistent according to the results compared.
+Yazar isimleri: ['Melike KARTA']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1089470
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2316417

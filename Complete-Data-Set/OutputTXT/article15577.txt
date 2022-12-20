@@ -1,0 +1,7 @@
+Makale Başlığı: Intuitionistic Fuzzy Hypersoft Separation Axioms
+Özet: In the present paper, we introduce the notion of $T_{i}$ $(i=0,1,2,3,4)$ separation axioms in intuitionistic fuzzy hypersoft topological spaces and discuss some of its properties. By using this notions, we also give some basic theorems of separation axioms in intuitionistic fuzzy hypersoft topological spaces. Finally, we present hereditary property of intuitionistic fuzzy hypersoft topological spaces.
+Yazar isimleri: ['Adem YOLCU', 'Elif KARATAŞ', 'Taha Yasin ÖZTÜRK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/920681
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1717279

@@ -1,0 +1,7 @@
+Makale Başlığı: Analysing the Effect of Oil Price Shocks on Asset Prices: Evidence from UK Firms
+Özet: This study examines the responses of some of the UK transportation, travel and leisure, and oil and gas firms to oil price changes. Fama-French-Carhart's (1997) four-factor asset pricing model is augmented with the oil price risk factor to study the association of oil and stock prices of 25 firms over the period from January 1998 to December 2012. The extent of the exposure of UK firms to oil price changes is heterogeneous, asymmetric and differs according to the economic situation. These results should be of interest to financial analysts, corporate executives, regulators and policy makers.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353573
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364603

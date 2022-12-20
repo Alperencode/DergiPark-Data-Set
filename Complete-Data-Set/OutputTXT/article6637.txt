@@ -1,0 +1,7 @@
+Makale Başlığı: Turizm Nöropazarlamasında Bilişsel Aktivite Ölçüm Yöntemlerinin Kullanımına Yönelik Bir Betimsel Analiz
+Özet: Turizm genellikle soyut kavramlar üzerine pazarlama faaliyetlerini gösteren bir endüstridir. Ancak geleneksel pazarlama araştırmaları tüketicilerin bilinç düzeyinde verdiği cevaplar üzerine kurgulanmakta ve bu durum yanıltıcı sonuçlar elde edilmesine neden olabilir. Nöropazarlama ise tüketicilerin genişletilmiş ve yüksek doğruluklu bir bakış açısıyla değerlendirilmesine olanak sağlar. Bu çalışmanın amacı turizm alanında nöropazarlama araştırmalarında bilişsel aktivitelerin ölçülmesine yönelik veri sağlayan Elektroensefelografi (EEG) ve fonksiyonel yakın kızıl ötesi spektroskopisi (fNIRS) yöntemlerinin uygulama alanlarını değerlendirilmesidir. Bu bağlamda nitel araştırma yöntemlerinden betimsel analiz yapılarak veriler raporlanmıştır. Araştırmanın sonuçlarına göre EEG ve fNIRS yöntemleri pazarlama çalışmalarında kullanım sayısı artış göstermekle beraber yüksek maliyet, zaman ve mekân gibi kısıtlarından dolayı turizm alanında son derece az tercih edilmektedir. Bununla birlikte turizm alanında yapılacak nöropazarlama çalışmalarındaki artış pazarlama faaliyetlerine ve tüketicilere geniş bir bakış açısı sağlayabilir.
+Yazar isimleri: ['Akın AKPUR', 'Burhanettin ZENGİN']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Güncel Turizm Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/guntad/issue/72737/1114070
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2417158

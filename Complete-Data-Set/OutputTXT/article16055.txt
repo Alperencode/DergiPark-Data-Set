@@ -1,0 +1,7 @@
+Makale Başlığı: Bitişik Nizam İmar Adalarında Kümeleme Yöntemine Göre İmar Çapı Belirlenmesi
+Özet: İmar planlarında birden fazla farklı özellikteki adalardan biri de bitişik yapı özelliğine sahip imar adalarıdır. Bu adalarda bulunan parsellere ilişkin arazi üzerinde yapılacak her işlem kendi özelliğine göre belirlenir. Bitişik yapı nizamlarında özellikle parsel üzerindeki yapı izni için doğru zemin çekmelerini göstermek gerekir. Bitişik nizamlarda özellikle TAKS (Taban Alan Katsayısı) olmayan sadece toplam emsal üzerinden genellikle inşaat yeri verilen nizam tipidir. Çalışmamızda, yönetmelik ve plan notları doğrultusunda matematiksel bir yaklaşımla nasıl zemin alanının doğru çıkarımı yapılacağının incelemesi yapıldı. Yöntem olarak içsel kümeleme tekniği ile çekim mesafeleri gösterildi. Nasıl çeşitli bölgelerde yaklaşık çap verileceği örneklendi.
+Yazar isimleri: ['Selim TAŞKAYA']
+Yayın Yılı: 5 Mayıs 2022
+Dergi ismi: Türkiye Arazi Yönetimi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tayod/issue/69801/1023054
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2079388

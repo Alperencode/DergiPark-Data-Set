@@ -1,0 +1,7 @@
+Makale Başlığı: Dealing with Intolerance of Uncertainty: Mediator Role of Online Social Support in Case of Psychological Inflexibility
+Özet: Intolerance of uncertainty (IU) is a cognitive bias toward the experience of events. Given that, one’s psychological inflexibility (PI) would be very much related to how one will be tolerant to unexpected events (i.e., pandemic, restricted social isolation). Considering their relationship, the aim of this study is to highlight the effect of online social support (OSS) on the relationship between PI and IU. Sample consisted of 238 university students from Turkey, aging from 18 to 27. Participants were completed Intolerance of Uncertainty Scale-12, Online Social Support Scale, Acceptance and Action Questionnaire-II. Mediation analysis performed by the PROCESS software revealed that the indirect effect of PI on IU was statistically significant. Results indicated that when controlling the effect of perceived OSS, PI remained to be a significant predictor of IU but with rather slight reduction in the unstandardized regression coefficient. Results also provided support for theoretical models of social support in that changing structure of social interaction does not necessarily indicate a labefaction in the function of it.
+Yazar isimleri: ['Durmuş ÜMMET', 'Şeyda ÇETİNTAŞ']
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Gümüşhane Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumus/issue/73042/1047632
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2158108

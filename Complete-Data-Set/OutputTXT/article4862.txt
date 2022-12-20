@@ -1,0 +1,7 @@
+Makale Başlığı: Sendikalı Olma ve Örgütsel Bağlılık
+Özet: Örgütsel bağlılık, işletmelerin rekabet üstü kalmasında önemli bir faktör olan insan kaynaklarının örgüte katkısını belirlemede önemli bir etkendir. Bu nedenle işletmelerde bu başarıya katkı sağlayacak olan sendikaların rolünün ne olduğunun belirlenmesi önemlidir. Bu katkının belirlenmesi amacıyla aynı sektördeki sendikalı ve sendikasız çalışanların örgütsel bağlılıkları ölçülmüştür. Araştırmanın evreni Bursa ili metal işkolunda çalışan işyerleridir. Bu evrenden 364 sendikalı ve 385 sendikasız toplam 749 kişiden veri elde edilmiştir. Veriler t-testi ile analiz edilmiştir. Araştırmanın temel hipotezi örgütlerde sendikalı olarak çalışanların sendikasız çalışanlara göre daha yüksek bağlılığa sahip olduğudur. Veriler, anket tekniği ile toplanmıştır. Verilerin toplanmasında Allen ve Meyer’in (1990) üç boyutlu örgütsel bağlılık ölçeği kullanılmıştır. Araştırma sonucuna göre sendikasız çalışanların duygusal bağlılıklarının sendikalı çalışanlara göre göreceli olarak daha yüksektir. Sendikalı çalışanların ise hem genel örgütsel bağlılıklarının hem de devam ve normatif bağlılıklarının sendikasız çalışanlara göre göreceli olarak daha yüksek olduğu tespit edilmiştir.
+Yazar isimleri: ['Mehmet Murat TUNÇBİLEK', 'Ebru HACIOĞLU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Ekonomi İşletme ve Yönetim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jebm/issue/70872/1139243
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2520355

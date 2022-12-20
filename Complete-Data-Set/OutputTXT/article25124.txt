@@ -1,0 +1,7 @@
+Makale Başlığı: COMPARISON OF SIMULATED ANNEALING AND GENETIC ALGORITHM APPROACHES ON INTEGRATED PROCESS ROUTING AND SCHEDULING PROBLEM
+Özet: 
+Yazar isimleri: ['Ahmet Reha Botsalı']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/267358
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/233961

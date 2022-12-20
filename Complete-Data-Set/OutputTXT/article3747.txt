@@ -1,0 +1,7 @@
+Makale Başlığı: Prostat biyopsi ve radikal prostatektomide Gleason skor konkordansının değerlendirilmesi
+Özet: Introduction:Prostate cancer is being diagnosed and graded by examining needle biopsies. As needle biopsies may represent the low percentage of general tumor histology, downgrading or upgrading can cause problems in radical prostatectomy (RP) specimens. Our aim in this study was to put forth the concordance between needle biopsy and RP Gleason scores.Methods:The biopsy pathology results, and post-RP pathology results of 112 patients diagnosed as prostate cancer and underwent RP were revised and the concordance of the biopsy and RP Gleason score was analyzed by kappa statistics in addition to percentages of downgrading or upgrading rates.Results: The mean age, and PSA values of the patients were 64,4 (±6,2) years, and 11,7 (±9,2) ng/mL, respectively. There was a moderate agreement between biopsy and prostatectomy gleason scores(κ=0,452) and between Gleason groupsConclusion: It is important for the urologists to be aware of the variety of Gleason score between biopsy results and prostatectomy specimens as needle biopsies represent small areas of tumors
+Yazar isimleri: ['İlker AKARKEN', 'Yelda DERE', 'Hüseyin TARHAN', 'Hayrettin ŞAHİN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Çukurova Anestezi ve Cerrahi Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jocass/issue/72208/1122307
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2451410

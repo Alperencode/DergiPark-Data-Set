@@ -1,0 +1,7 @@
+Makale Başlığı: Kripto para piyasasında spekülatif balonlar: Bitcoin’den kanıtlar
+Özet: Ekonomik ve sosyal olayların finansal piyasalarda spekülatif hareketleri doğurduğu geçmişte fazlaca görülmektedir. Bu çalışmanın amacı, ekonomik ve sosyal olayların finansal piyasa araçlarından Bitcoin üzerinde balon oluşumu olup olmadığı araştırmaktır. 6/06/2019- 6/06/2022 dönemini içeren 1097 orijinal günlük Bitcoin açılış fiyatları üzerinde SADF ve GSADF testleri Eviews12 yazılımında Rtadf eklentisi kullanılarak analiz edilmiştir. SADF testi sonucunda 6 adet baloncuk olduğu görülmüştür. Birinci baloncuk 194 günlük büyük olup KOVİD-19 pandemisi başlangıç dönemine denk gelmektedir. GSADF testi sonucunda ise, 13 adet baloncuk olduğu görülmüştür. Sekizinci baloncuk 41 gün ve dokuzuncu baloncuk 85 gün olup diğer baloncuklar küçük boyuttadır. Sonuç olarak, Bitcoin serisinde spekülatif baloncuk oluşumları vardır. Büyük balon oluşum dönemleri küresel ekonomik ve sosyal olaylarla açıklanabilirken, küçük balon oluşumlarının spekülatif eylemlere bağlı olduğu şeklinde yorumlanabilir.
+Yazar isimleri: ['Muhammet Sait IŞILDAK']
+Yayın Yılı: 9 Kasım 2022
+Dergi ismi: Business Economics and Management Research Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bemarej/issue/73285/1146556
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2549584

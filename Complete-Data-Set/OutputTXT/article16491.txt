@@ -1,0 +1,7 @@
+Makale Başlığı: MODEL BİR ŞEV İLE DEPREM ÖZELLİKLERİNİN ŞEV STABİLİTESİNE ETKİLERİNİN İNCELENMESİ
+Özet: Bu çalışmada, geoteknik mühendisliğinin başlıca konuları arasında yer alan güvenli şevlerin tasarımı konusu incelenmiştir. Güvenli şevlerin tasarımı için dikkat edilmesi gereken statik yükler kadar önemli bir diğer etken ise, sismik yüklerdir. Sismik yükler altında şev davranışının irdelenmesi niyetiyle tasarlanmış olan model şeve farklı özellikteki depremler etki ettirilerek sonlu eleman yazılımı ile bir dizi şev stabilite analizleri yapılmıştır. Bu kapsamda tasarlanan model şev, farklı özelliklerdeki senaryolar ile çeşitli bölgelerde meydana gelmiş, çok sayıda istasyon ölçümleri bulunan 12 adet gerçek deprem kayıt verisi ile analiz edilmiştir. Sonuç olarak, bu depremlerin tasarlanmış olan model şevin stabilitesine olan etkileri ortaya koyulmuş ve elde edilen veriler doğrultusunda şev tasarımında daha güvenli ve daha ekonomik sonuçlar alınması için dikkat edilmesi gereken hususlara değinilmiştir.
+Yazar isimleri: ['İnan KESKİN', 'Fatih KARATAŞ', 'Selman KAHRAMAN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uludağ Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uumfd/issue/71647/1098502
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2353365

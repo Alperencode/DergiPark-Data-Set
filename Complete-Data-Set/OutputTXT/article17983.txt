@@ -1,0 +1,7 @@
+Makale Başlığı: PERFORMANCE ANALYSIS OF MACHINE LEARNING ALGORITHMS USED TO DETECT HEART DISEASES
+Özet: Heart diseases have an important place among the diseases that people face. There can be many reasons for the occurrence of heart diseases and it can affect the person very much. However, there are treatments that can prevent people from ending life due to heart disease. At this point, early diagnosis is of great importance. For this reason, the subject of the study was chosen as the performance analysis of the detection of heart diseases using machine learning algorithms. Although the research on this subject is limited, there are some researches with machine learning method. From machine learning methods; support vector machines, random forest algorithms, artificial neural networks, Naive Bayes and k-NN  were compared and analyzed in this study.
+Yazar isimleri: ['Elif ÇİL', 'Ali GÜNEŞ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Anadolu Bil Meslek Yüksekokulu Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/abmyoder/issue/73621/1133212
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2496661

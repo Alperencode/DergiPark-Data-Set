@@ -1,0 +1,7 @@
+Makale Başlığı: Numerical determination of the production rate and cumulative production in the constant pressure outer boundary condition
+Özet: 
+Yazar isimleri: []
+Yayın Yılı: 28 Ekim 2022
+Dergi ismi: Firat University Journal of Experimental and Computational Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fujece/issue/73242/1195989
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2736667

@@ -1,0 +1,7 @@
+Makale Başlığı: A population based simulated annealing algorithm for capacitated vehicle  routing problem
+Özet: The Vehicle Routing Problem  VRP  is one of the most discussed and researched topics nowadays. The VRP  is briefly defined as the problem of identifying the best route to reduce distribution costs and improve the quality of  service provided to customers. The Capacitated VRP  CVRP  is one of the most commonly researched among the VRP  types. Therefore, the CVRP was studied in this paper and a new population based simulated annealing algorithm was  proposed. In the algorithm, three different route development operators were used, which are exchange, insertion and  reversion operators. It was tested on 63 well-known benchmark instances in the literature. The results showed that the  optimum routes could be determined for the 23 instances.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739687
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110690

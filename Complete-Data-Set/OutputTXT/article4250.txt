@@ -1,0 +1,7 @@
+Makale Başlığı: THE RELATIONSHIP OF EXPORT, ENERGY AND ECONOMIC GROWTH: CAUSALITY ANALYSIS FOR ADVANCED AND DEVELOPING NUTS 2 REGIONS
+Özet: The purpose of this study is to determine the causality relationships between economic growth, exports and energy in NUTS 2 regions. Since the 26 sub-regions have different levels of development, the analyzes have been made by dividing them into developed and developing regions. Unidirectional causality from economic growth to exports and from economic growth to electricity consumption and bidirectional causality between exports and electricity consumption were found in developed NUTS 2 regions. Thus, the conservation hypothesis was supported in the developed regions. In developing NUTS 2 regions, a unidirectional causality relationship from exports to economic growth has been found and the validity of the export-led growth hypothesis has been proven.
+Yazar isimleri: ['Ömer DORU', 'Melike ATAY POLAT']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Doğuş Üniversitesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/doujournal/issue/71547/1074686
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2257961

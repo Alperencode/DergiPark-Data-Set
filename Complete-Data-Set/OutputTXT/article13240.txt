@@ -1,0 +1,7 @@
+Makale Başlığı: Existence Uniqueness and Stability of Nonlocal Neutral Stochastic Differential Equations with Random Impulses and Poisson Jumps
+Özet: This manuscript aims to investigate the existence, uniqueness, and stability of non-local random impulsiveneutral stochastic differential time delay equations (NRINSDEs) with Poisson jumps. First, we prove theexistence of mild solutions to this equation using the Banach fixed point theorem. Next, we prove thestability via continuous dependence initial value. Our study extends the work of Wang and Wu [15] wherethe time delay is addressed by the prescribed phase space B (defined in Section 3). An example is given toillustrate the theory.
+Yazar isimleri: ['Dimplekumar CHALİSHAJAR', 'Ramkumar KUMARK', 'K. RAVİKUMAR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/973653
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1888877

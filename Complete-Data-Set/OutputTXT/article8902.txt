@@ -1,0 +1,7 @@
+Makale Başlığı: Growth of harmonic functions on biregular trees
+Özet: On a biregular tree of degrees $q+1$ and $r+1$, we study the growth of two classes of harmonic functions. First, we prove that if $f$ is a bounded harmonic function on the tree and $x$, $y$ are two adjacent vertices, then $|f(x)-f(y)|\leq 2 (qr-1)\|f\|_\infty/((q+1)(r+1))$, thus generalizing a result of Cohen and Colonna for regular trees. Next, we prove that if $f$ is a positive harmonic function on the tree and $x$, $y$ are two vertices with $d(x,y)=2$, then $f(x)/(qr)\leq f(y)\leq qr\cdot f(x)$.
+Yazar isimleri: []
+Yayın Yılı: 13 Mayıs 2022
+Dergi ismi: Journal of Algebra Combinatorics Discrete Structures and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jacodesmath/issue/69711/1056555
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2187098

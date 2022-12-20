@@ -1,0 +1,7 @@
+Makale Başlığı: JEOTERMAL VE RÜZGAR ENERJİSİ SANTRALLERİNDE YER SEÇİMİ PROBLEMİNİN ANALİTİK AĞ SÜRECİ İLE ÇÖZÜLMESİ
+Özet: Son yıllarda Analitik Ağ Süreci (ANP)’nin özellikle seçim ve karar verme problemlerininçözümünde çok yaygın olarak kullanıldığını görmekteyiz. Çalışmamızda iseyenilenebilir enerji kaynaklarından jeotermal ve rüzgâr enerjisi santrallerininkuruluş yeri seçimi problemleri ele alınmıştır. Öncelikli olarak her birproblem için seçim problemini etkileyen ana kriterler, alt kriterler vealternatifler belirlenerek ağ modeli oluşturulmuştur. Sonraki aşamada ise, anakriterler ve alt kriterler arasındaki etkileşimler belirlenmiştir. Kriterlerinher bir alternatif seçeneği dikkate alınarak ikili karşılaştırmalarınıntamamlanmasıyla, alternatifler arasından en uygun olanı belirlenmiştir. Yapılanbu çalışmanın ülkemizde kurulması düşünülen yenilenebilir enerji kaynaklarınınkuruluş yerlerinin belirlenmesinde yol gösterici olacağını düşünüyoruz.
+Yazar isimleri: ['Fatma TARAF', 'Harun Reşit YAZGAN']
+Yayın Yılı: 30 Kasım 2018
+Dergi ismi: Anka E-Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anka/issue/40703/427378
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/584766

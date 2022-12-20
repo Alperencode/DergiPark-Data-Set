@@ -1,0 +1,7 @@
+Makale Başlığı: The Investigation of Mechanical Properties of Polycrystalline Nb Nanowire Under Applied Tensile Deformation by Molecular Dynamics Simulation
+Özet: In this study, the change in the mechanical properties of Niobium (Nb) nanowire with different grain numbers under applied uniaxial tensile deformation was tried to be investigated by Molecular Dynamics (MD) simulation method. The Embedded Atom Method (EAM), which includes many-body interactions, was used to determine the force interactions between atoms. To determine the effect of grain number on the mechanical properties of Nb nanowire, stress-strain curve, young modulus, yield strain and atomic images obtained from the common neighbor analysis method (CNA) were used. It has been determined that necking and breaking of the model nanowire occur at the grain boundaries, however, the number of grains has important effects on the mechanical properties.
+Yazar isimleri: ['Sefa KAZANÇ', 'Canan AKSU CANBAY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1099063
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2355858

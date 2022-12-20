@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRKİYE’DE FAALİYET GÖSTEREN MEVDUAT BANKALARININ YÖNETİM KURULU YAPILARI VE FİNANSAL PERFORMANS İLİŞKİSİ: BİR PANEL VERİ ANALİZİ
+Özet: Bu çalışmanın amacı, bankaların yönetim kurulu yapılarının finansal performansları üzerinde etkisi olup olmadığını incelemektir. Bu bağlamda, Türkiye’de faaliyet gösteren 16 mevduat bankasının 2018-2020 tarihlerini kapsayan yıllık verileri kullanılarak bir panel veri analizi gerçekleştirilmiştir. Finansal performans göstergesi olarak alınan bağımlı değişken öz sermaye kârlılığı; yönetim kurulu yapılarını temsil eden bağımsız değişkenler ise bağımsız üyeler, uzman üyeler ve kadın üyelerden oluşmaktadır. Analiz sonucunda, bağımsız üyeler ve uzman üyelerle banka finansal performansları arasında istatistiksel olarak anlamlı ilişkiler tespit edilmiştir.
+Yazar isimleri: ['Damla EKER']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Journal of Research in Business
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jrb/issue/70563/994982
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1972721

@@ -1,0 +1,7 @@
+Makale Başlığı: 3D modeling of historical theodolite with photogrammetric techniques and accuracy analysis
+Özet: As historical artifacts are the common heritage of all humanity, preserving historical artifacts is very important in keeping the cultural heritage alive and passing it on to generations.  Creating scale models of these works and transferring them to digital media is a useful method for reproduction and documentation. In this study, an experiment on 3D modeling of historical artifacts exhibited in the Museum of Geomatics Engineering Department of Istanbul Technical University using photogrammetry and 3D scanning methods is presented. Theodolite (19th century) in the museum were modeled in 3D using photogrammetry and 3D scanning methods, and accuracy analysis was performed. For real values, length measurements were made with calipers over the models. According to the results obtained, the accuracy is 7.3 mm photogrammetric model and 1.3 mm for the 3D scanner model.
+Yazar isimleri: ['Muhammed Enes ATİK', 'Zaide DURAN', 'Mustafa YANALAK', 'Dursun Zafer SEKER']
+Yayın Yılı: 9 Temmuz 2022
+Dergi ismi: Cultural Heritage and Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cuhes/issue/71227/1123585
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2456747

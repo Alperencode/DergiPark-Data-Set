@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 AŞILANMA HIZININ KATILIM 30 VE BİST30 ENDEKS GETİRİLERİ ÜZERİNDEKİ ETKİSİ
+Özet: Bu çalışmada 2020 yılı aralık ayı başında Çin’de ortaya çıkan ve tüm dünya ülkelerine yayılan ve 2021 yılı mart ayında Türkiye’de ortaya çıkan COVID-19 pandemi sürecindeki yeni aşılamanın, BİST 100 ve Katılım 30 endeks getirilerine etkileri araştırılmıştır. Endekslerin getirileri için kurulan EGARCH modelleri yardımı ile BİST 100 ile Katılım 30 endekslerinin pandemi sürecinde yeni aşılanmaya verdikleri tepkiler analiz edilmiştir. Sonuçlar, aşılanma hızının Katılım 30 endeksi getirilerini negatif yönde etkilerken BİST100 endeks getirileri yönünden herhangi bir ilişki bulunamamıştır. Endeksler arasında elde edilen bu farklı bulguların, Katılım 30 ve BİST100 endekslerine ait yatırımcıların irrasyonel davranışlarından kaynaklanabileceği ve bu durum üzerinde özellikle muhafazakarlık eğiliminin etkisinin olmuş olabileceği akıllara gelmektedir. Çalışmanın Katılım 30 ve BİST100 endekslerinin yeni aşılanmaya verdikleri tepkileri incelemesi ve farklılıkları ortaya koymaya çalışması açısından literatüre katkı sağlayabileceği düşünülmektedir.
+Yazar isimleri: ['Dr. Muhammed Hadin ÖNER']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Muhasebe ve Finans İncelemeleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mufider/issue/72704/1135511
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2506089

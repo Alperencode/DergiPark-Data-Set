@@ -1,0 +1,7 @@
+Makale Başlığı: Some New Results for the J-Iterative Scheme in Kohlenbach Hyperbolic Space
+Özet: In the present paper, we study the J-iterative scheme of Bhutia and Tiwary (J. Linear Topol. Algebra, 8(4), (2019), 237-250) in Kohlenbach hyperbolic space. We prove the weak w^2-stability and data dependence theorems of  this iterative scheme for contraction mappings. We also give some △-convergence and strong convergence theorems for generalized α-nonexpansive mappings and finite families of total asymptotically nonexpansive mappings using J-iterative scheme. The results presented here can be viewed as a generalization of several well-known results in CAT(0) space and uniformly convex Banach space.
+Yazar isimleri: ['Aynur ŞAHİN', 'Metin BASARIR']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1067267
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2229041

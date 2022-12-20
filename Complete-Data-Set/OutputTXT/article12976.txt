@@ -1,0 +1,7 @@
+Makale Başlığı: The Causality Relationship in Participation Banking and Economic Growth
+Özet: The aim of the study is to reveal the causality relationship between the share of participation banking loan volumes in traditional banking loan volumes and economic growth in Turkey.For this purpose, since the descriptive statistics of the data set created within the scope of the quarterly participation and traditional banking loan volumes and Gross Domestic Product data for the period 2005Q1-2020Q1 show the existence of structural breaks during the research period, the Bai-Perron Structural Break test was first applied to the series, and then the series was tested. Depending on the two significant breaks determined, the Lee-Strazich Unit Root Test, which takes into account the binary breaks, was carried out, and according to the results of the last applied Toda-Yamamoto causality test, a one-way causality relationship from the share of participation banking loan volumes in traditional banking loan volumes to economic growth was determined.
+Yazar isimleri: ['Muhammet Fatih VURAL', 'Dündar KÖK']
+Yayın Yılı: 2 Temmuz 2022
+Dergi ismi: Pamukkale Üniversitesi İşletme Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/piar/issue/71093/1116451
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2426905

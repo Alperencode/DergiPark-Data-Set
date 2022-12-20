@@ -1,0 +1,7 @@
+Makale Başlığı: Kayan Kipli Kontrol (KKK) Yöntemleriyle Haptik-Teleoperasyon Sisteminin Kontrolü
+Özet: Haptik-Teleoperasyon sistemleri, insan-robot etkileşiminde önemli rol oynayan sistemlerdir. Bu sistemlerin kontrolünde temel amaç iki yönlü kesintisiz etkileşim elde etmektir. Fakat bu kesintisiz etkileşim hedefini olumsuz yönde etkileyen problemler vardır. Bunlardan biri sistemi oluşturan robotların dinamik belirsizlikleridir ve bu problem sistemlerin performansını önemli ölçüde olumsuz etkilemektedir. Bu çalışmada bu belirsizliklerin üstesinden gelmek için Kayan Kipli Kontrol (KKK) yöntemi tercih edilmiştir. Ancak bilindiği üzere KKK yönteminde kullanılan işaret (signum) fonksiyonu çatırmada problemine neden olmaktadır. Bu çalışmada çatırdama probleminin de giderilmesi için saturasyon ve quasi tabanlı KKK yöntemleri önerilmiş ve uygulanmıştır. Sistemin iki yönlü kontrolü, önerilen yöntemler kullanılarak benzetim ortamında gerçekleştirilmiştir. Performans kriterleri (Ortalama Karesel Hata (MSE) ve Ortalama Mutlak Hata (MAE)) kullanılarak sayısal sonuçlar elde edilmiştir. Elde edilen sonuçlar grafikler ve tablolar halinde verilmiş, karşılaştırılmış ve irdelenmiştir.
+Yazar isimleri: ['Tayfun ABUT', 'Servet SOYGÜDER']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Muş Alparslan Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/maummfd/issue/70760/1103833
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2375792

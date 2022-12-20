@@ -1,0 +1,7 @@
+Makale Başlığı: AB ÜLKELERİNDE DOĞALGAZ TÜKETİMİ VE EKONOMİK BÜYÜME: İKİ YÖNLÜ PANEL VERİ MODELİ
+Özet: Bu çalışmada 2000-2020 dönemi için 25 AB ülkesinde doğalgaz tüketimi ve ekonomik büyüme arasındaki ilişki iki yönlü panel veri modeli kullanılarak iki farklı ekonometrik model yardımıyla analiz edilmiştir. Ekonomik büyümenin, bağımlı ve doğalgaz tüketiminin ise bağımsız değişken olduğu Model 1’e ilişkin sonuçlarda; doğalgaz tüketimi arttıkça, ekonomik büyümenin arttığı, buna karşın doğalgaz tüketimi azaldıkça ise, ekonomik büyümenin azaldığı gözlemlenmiştir. Ekonomik büyümenin, bağımlı; doğalgaz tüketimi, fiziki yatırımlar, ihracat ve nüfus serilerinin, bağımsız değişkenler olduğu Model 2’ye ilişkin bulgularda da tüm bağımsız değişkenlerin, bağımlı değişken üzerinde pozitif yönlü bir etki bıraktığı saptanmıştır. Ele aldığımız konu itibariyle ifade edecek olursak; Model 2’ye ilişkin bulgularda da benzer olarak doğalgaz tüketimi arttıkça, ekonomik büyümenin arttığı, buna karşın doğalgaz tüketimi azaldıkça ise, ekonomik büyümenin azaldığı gözlemlenmiştir.
+Yazar isimleri: ['Tufan SARITAŞ']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Balkan Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsbd/issue/70989/1107120
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2389119

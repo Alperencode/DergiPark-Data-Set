@@ -1,0 +1,7 @@
+Makale Başlığı: Fen Bilimleri Dersi “Kuvvet ve Enerji” Ünitesine Yönelik Başarı Testinin Geliştirilmesi
+Özet: Bu çalışmada, fen bilimleri dersi 2018 yılı öğretim programı çerçevesinde 7. sınıf “Kuvvet ve Enerji” ünitesine yönelik geçerli ve güvenilir bir başarı testinin geliştirilmesi amaçlanmıştır. Bu amaçla, öğretim programındaki kuvvet ve enerji ünitesinde yer alan kazanımlardaki bilgilerin çoğunlukla üst düzey bilişsel süreçlerle ölçüleceği 34 çoktan seçmeli madde hazırlanmıştır. Testin uygulama çalışması, 2018-2019 eğitim öğretim yılında öğrenim gören 144 öğrenci ile yapılmıştır. Oluşturulan test maddelerinin anlaşılırlığı, zaman yeterliği, maddelerdeki bilgilerin bilimsel doğruluğu için alanında uzman kişilerin görüşleri alınarak gerekli düzeltmeler yapılmıştır. Testin uygulanmasından sonra toplanan cevaplara göre her bir maddeye ilişkin madde ayırt edicilik ve madde güçlük indeksleri hesaplanmıştır. Madde analizinden sonra 12 madde testten çıkartılmış ve 22 sorudan oluşan Kuvvet ve Enerji Başarı Testi elde edilmiştir. Kuvvet ve Enerji Başarı Testinin ortalama madde güçlüğü 0.41, ortalama madde ayırt ediciliği 0.39 olarak hesaplanmıştır.
+Yazar isimleri: ['Ferhat ERMİŞ', 'İbrahim KARAMAN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Çukurova Üniversitesi Eğitim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cuefd/issue/72356/1059186
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2197430

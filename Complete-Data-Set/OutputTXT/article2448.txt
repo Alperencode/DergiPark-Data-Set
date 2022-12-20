@@ -1,0 +1,7 @@
+Makale Başlığı: Drowsiness Detection System Based on Machine Learning Using Eye State
+Özet: Drowsiness is one of the major causes of driver-induced traffic accidents. The interactive systems developed to reduce road accidents by alerting drivers is called as Advanced Driver Assistance Systems (ADAS). The most important ADAS are Lane Departure Warning System, Front Collision Warning System and Driver Drowsiness Systems. In this study, an ADAS system based on eye state detection is presented to detect driver drowsiness. First, Viola-Jones algorithm approach is used to detect the face and eye areas in the proposed method. The detected eye region is classified as closed or open by making use of a machine learning method. Finally, the eye conditions are analyzed at time domain with PERcentage of eyelid CLOsure (PERCLOS) metric and drowsiness conditions are determined by Support Vector Machine (SVM), kNN and decision tree classifiers. The proposed methods tested on 7 real people and drowsiness states are detected at 99.77%, 94.35%, and 96.62% accuracy, respectively.
+Yazar isimleri: ['Ayhan KÜÇÜKMANİSA', 'Oğuzhan URHAN']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/1028110
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2098516

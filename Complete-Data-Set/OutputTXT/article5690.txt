@@ -1,0 +1,7 @@
+Makale Başlığı: Moleküler Kenetleme (Docking) Yöntemi ile Bakteriyel Bir Sinyal Kompleksi ve Peonidin Molekülü Etkileşiminin İncelenmesi
+Özet: Gram-negatif bakterilerinden olan Pseudomonas aeruginosa, özellikle bağışıklık sistemi baskılanmış hastalarda önemli bir enfeksiyon sebebidir. Biyofilm oluşturma özelliği olan P.  aeruginosa bu özelliği sebebi ile çoklu antibiyotik direncine sahiptir ve eredikasyonu güçtür. Üçlü bir sinyal dizisi olan YFiBRN, periplazmada alınan sinyallere cevap olarak yüzey adaptasyonu, biyofilm oluşumu gibi hücresel süreçlerde etkili olan c-di-GMP seviyelerini modüle eder. Antosiyaninler grubunda bulunan peonidin ise antibakteriyel özelliğe sahiptir. Bu çalışmada moleküler kenetleme (docking) metodu kullanılarak YFiR-YFiB (59-168) ile peonidin arasındaki etkileşim araştırılmıştır.
+Yazar isimleri: ['Arzu ÖZGEN', 'Nihan ÜNLÜ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fufbd/issue/72741/1162861
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2599611

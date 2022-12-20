@@ -1,0 +1,7 @@
+Makale Başlığı: Testing Cost Stickiness By Panel Data Analysis By BIST Real Estate Investment Trust Sector
+Özet: According to the traditional cost assumption, there is a symmetrical relationship between sales amounts and costs. According to this approach, sales and costs should increase or decrease at the same rate. In the asymmetric cost approach, it is observed that the costs do not change at the same rate during periods of increase or decrease in sales. This is called cost stickiness. In this study, the data of companies operating in the Real Estate Investment Trust sector in Borsa Istanbul were examined and the existence of cost stickiness was investigated. . For this purpose, two different hypotheses and three different models were developed to test the validity of cost stickiness and the models were tested with panel data analysis. The first finding that emerged from the results of the analysis obtained is that there is no cost stickiness, valid in all three different cost categories that explain the cost behavior of the sample firms. From these findings, it was concluded that the expression of cost stickiness in Turkey is not valid for real estate investment companies traded in Borsa Istanbul, and traditional cost behavior is valid.
+Yazar isimleri: ['Hatice KAÇAR', 'Şuayyip Doğuş DEMİRCİ']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: Yalova Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yalovasosbil/issue/72655/1164850
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2607635

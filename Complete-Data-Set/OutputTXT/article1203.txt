@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’ de Para Talebinin Asimetrik Eşbütünleşme Modellemesi: Sınır Testi Yaklaşımı
+Özet: Bu çalışma Türkiye’de dar para talebi fonksiyonunun istikrarlılığını ve para talebi ile para talebinin belirleyicileri arasındaki asimetrik uzun dönem ilişkisini 2010:Ocak ve 2021:Aralık dönemine ait aylık veri seti ile doğrusal dışılığı dikkate alan geleneksel olmayan gecikmesi dağıtılmış otoregresif modeli kullanarak incelemiştir. Uuzn dönemli ilişkiyi tespit etmek üzere kurulan para talebi modelinde bağımlı değişken olan reel para talebinin göstergesi olarak M1 kullanılırken açıklayıcı değişkenler olarak reel özel tüketim harcamaları, TL mevduatları için uygulanan ağırlıklı ortalama faiz oranı ve döviz kuru kullanılmıştır. Doğrusal dışılık dikkate alındığında söz konusu dönem için tahmin edilen para talebi fonksiyonuna ait katsayıların istikrarlı olduğu CUSUM ve CUSUMQ testleri ile tespit edilmiştir. Geleneksel gecikmesi dağıtılmış otoregresif model ile tahmin yapıldığında para talebi ile para talebinin belirleyicileri arasında uzun dönemli ilişkinin var olmadığı gözlemlenmişken doğrusal dışılığı dikkate alan geleneksel olmayan modein tahmin edilmesiyle para talebi ile para talebinin belirliyecileri arasında uzun dönemli ilişki tespit edilmiştir.
+Yazar isimleri: ['Ahmet USTA']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Anadolu İktisat ve İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anadoluiid/issue/73076/1179084
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2666556

@@ -1,0 +1,7 @@
+Makale Başlığı: Atık Seramik Tozu İçeren Betonun Kapilaritesi
+Özet: Beton yapıların durabilitesi, permeabilitesiyle (geçirgenlik) doğrudan ilişkilidir. Kapiler su emme deneyi, betonların permeabilitesi hakkında yorum yapmak için yaygın olarak kullanılan bir test yöntemidir. Bu çalışmada, çimento ikame malzemesi olarak kullanılan atık seramik tozu içeriği ile beton karışımlarına ait kapiler su emme kapasitesi arasındaki ilişki ele alınmıştır. Bu amaçla Portland çimentosu %0, %10, %20 ve %30 olmak üzere dört farklı oranda seramik atığı tozu ile ikame edilmiştir. Her bir beton karışımının kapiler su emmesi 5, 10, 15, 30, 45 ve 60 dakikalık zaman periyotlarının sonunda hesaplanmıştır. Test sonuçlarından, kapiler su absorpsiyonunun kontrol beton sonucuna göre %10'a kadar yer değiştirme ile azaldığı, %20 ve %30 olan diğer ikame oranlarında ise arttığı görülmüştür. Bu, atık seramik tozunun,  betonun kılcal gözeneklerini azaltmak, beton mikro yapısının yoğunluğunu ve geçirimsizliğini arttırmak ve suyun beton içinde serbest hareketini kısıtlamak için çimento ile %10 seviyesine kadar değiştirildiğinde daha iyi bir dolgu özelliği gösterebileceğine bağlanmaktadır.
+Yazar isimleri: ['Muhammed TANYILDIZI']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Muş Alparslan Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/msufbd/issue/68818/1078690
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2273499

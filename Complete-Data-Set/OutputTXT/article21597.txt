@@ -1,0 +1,7 @@
+Makale Başlığı: Feline İnfeksiyöz Peritonitise Genel Bakış ve Antiviral Yaklaşımlar
+Özet: Feline Enfeksiyöz peritonitis (FIP) kedilerde coronavirusların sebep olduğu bir enfeksiyondur. Virusun iki serotipi iki biyotipi tanımlanmıştır. Dünya çapında baskın olan serotipi FCoV-1 dir.  FIP tüm dünyadaki kedilerde görülen enterik coronavirusdaki spesifik mutasyonlarla ortaya çıkar. Kalabalık ortamlarda barındırılan hayvanlarda hastalığın görülme riski artar. Efüziv formun tanısı non efüziv forma göre daha kolaydır ancak yine de hastalığın kesin teşhisi zordur. Etkili antiviral çalışmaları hala devam etmektedir
+Yazar isimleri: ['Hanne Nur KURUÇAY', 'Semra GÜMÜŞOVA']
+Yayın Yılı: 3 Eylül 2021
+Dergi ismi: Turkish Veterinary Journal
+Yayın sayfa url: http://tvj.cumhuriyet.edu.tr/tr/pub/issue/64824/721722
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1056347

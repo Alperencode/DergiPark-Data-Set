@@ -1,0 +1,7 @@
+Makale Başlığı: Malmquist Index Analysis of Total Factor Productivity of Eastern European Countries
+Özet: The Malmquist index is used to calculate the Total Factor Productivity. The data of 25 different countries, including Turkey, located in the Eastern European region under consideration are obtained from Penn World Table 9.1 and it is aimed to analyze them for the period 1999-2017. An analysis is aimed at deciphering the differences in productivity between countries and the general situation. The result of this analysis will be included in the study to determine the technological development of the countries as well as to make policy recommendations. It is seen that the distribution of the technical efficiency values obtained in the countries considered is balanced. This causes the data set technical efficiency value to be 0.583. When the cost effectiveness average of the countries was examined, it was found to be 0.207 on average. In addition, the allocation efficiency considered in the average of the countries is higher than the technical efficiency and less than the cost effectiveness. The mentioned figure was found to be 0.393.
+Yazar isimleri: ['Onur AKKAYA']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Enderun
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/enderun/issue/72947/1118442
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2435532

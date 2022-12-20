@@ -1,0 +1,7 @@
+Makale Başlığı: Effects of Welfare Indicators on Economic Growth in Turkiye
+Özet: Debates over economic growth generally focus on factor supply, especially capital accumulation, labor stock and skill, natural resources, and technological capacity. Quality of human life, as well as distribution of national income among citizens are evaluated in terms of their effects on growth performance, in this study. The relationship between economic growth, human development, and income distribution in Turkiye is analyzed with ARDL test using the data of 1990-2017 period. Findings indicate that the series are cointegrated. A long run relationship was determined between Gross Domestic Product per capita (GDP), and human development index (HDI) and the measure of income distribution, namely the Gini coefficient (GINI). Granger causality test indicates a unidirectional causality from HDI to GDP. Based on the long-run estimation results, it has been observed that there is a positive and statistically significant relationship between GDP and HDI, while there is a negative and statistically significant relationship between GDP and GINI, in the long-run.
+Yazar isimleri: ['Yusuf BAYRAKTUTAN', 'Erdal ALANCIOĞLU']
+Yayın Yılı: 10 Kasım 2022
+Dergi ismi: İzmir İktisat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ije/issue/72493/1040649
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2147886

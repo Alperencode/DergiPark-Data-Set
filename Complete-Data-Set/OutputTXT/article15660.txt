@@ -1,0 +1,7 @@
+Makale Başlığı: Apoptosis in cancer
+Özet: Apoptosis is a programmed cell death mechanism, with its presence and absence, directs the progression of most diseases and is targeted in disease treatments. Many factors are influential in the cell's pathway to apoptosis. The defects in these pathways may transform the cell become malignant, and the organism may face a lethal outcome such as cancer. Understanding apoptosis will provide clues in guiding the pathogenesis of diseases. Two main pathway leading to apoptosis, intrinsic and extrinsic, take an active role. Another route is activated by enzymes and enzymes secreted by immune cells such as T and NK. With their initiator and enforcer roles, many caspase molecules are active at critical points in the cell's apoptosis process. In cancer treatments, activation of molecules in these pathways and repair of disrupted pathways are among the target approaches. This review discuss target strategies for inhibiting apoptotic pathways and molecules in cancer cells and the activation of these apoptotic pathways.
+Yazar isimleri: ['Melisa BEYHAN YILMAZ', 'Dilek MUZ']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Turkish Journal of Veterinary Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjvr/issue/73416/1121211
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2446810

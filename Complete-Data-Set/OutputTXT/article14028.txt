@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis and Characterization of Proton Salts of Sulfanilamide Containing Maleic Acid and Aminopyridine Derivatives
+Özet: In this study, maleic acid containing sulfanilamide (E)-3-(4-sulfamoylphenylcarbamoyl) acrylic acid (1) was synthesized from the reaction of maleic anhydride (mal) and sulfanilamide (sa) with the method found in the literature. Then, proton transfer salts (6-9) were obtained. The structures of the obtained salts were suggested by elemental analysis, 1H and 13C Nuclear Magnetic Resonance Spectroscopy (NMR), Fourier Transform Infrared Spectroscopy (FT- IR) and charge balance. According to the results of this analysis, the acid:base ratio of salts was found to be 1:1. In this study, it was aimed to synthesize chemical substances that can be dissolved in water and have different activity properties.
+Yazar isimleri: ['Halil İLKİMEN', 'Cengiz YENİKAYA']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Sinop Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sinopfbd/issue/70731/1069649
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2238571

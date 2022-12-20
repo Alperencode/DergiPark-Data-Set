@@ -1,0 +1,7 @@
+Makale Başlığı: Orta Doğu’da Ekonomik Büyüme ve Terörizm: Bir Heterojen Panel Nedensellik Yaklaşımı
+Özet: Bu çalışmanın amacı, 2003-2019 yılları arasını kapsayan dönem için on beş Orta Doğu ülkesi için terörizm ve ekonomik büyüme arasındaki ilişkiyi incelemektir. Panel veri analizi, tek ülkeli zaman serisi analizlerine kıyasla verilerde daha fazla değişkenlik, daha fazla bilgi ve daha az çoklu doğrusallık sağlama gibi avantajlar sağlamaktadır. Bu avantajlarına rağmen, terörizm ve ekonomik büyüme literatüründeki ülkeler arası panel veri çalışmalarının çoğu, terörist faaliyetlerin ülkeler arasında homojen olduğunu varsaymaktadır. Bu kapsamda, ekonomik büyüme ve terörizm arasındaki ilişkiyi inceleyen panel veri çalışmalarının pek çoğunda göz ardı edilen kesitler arası heterojeniteyi dikkate alarak Dumitrescu-Hurlin tarafından geliştirilen panel nedensellik analizi yapılmıştır. Analiz sonuçları, Orta Doğu’da terörizmden ekonomik büyümeye doğru tek yönlü bir nedensellik ortaya koymaktadır. Ülkeler bazında ayrıştırılmış nedensellik sonuçları ise, bu tek yönlü nedenselliğin, esas olarak Irak gibi terör faaliyetlerinin yoğun olduğu bir ülke tarafından domine edildiğini ortaya koymaktadır.
+Yazar isimleri: ['Yusuf ÜNSAL', 'İbrahim Tuğrul ÇINAR']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Ekonomik ve Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/esad/issue/70716/1100031
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2360003

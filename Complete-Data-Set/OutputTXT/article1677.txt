@@ -1,0 +1,7 @@
+Makale Başlığı: Monkeypox and other zoonotic poxviruses
+Özet: Poxviruses have caused the most important diseases for humanity for a long time. An important triumph was achieved with the eradication of smallpox, defined by the World Health Organization in 1979. Poxviruses include significant agents that cause important animal diseases that are non-zoonotic and zoonotic. While humanity has been battling COVID-19, a new battle against monkeypox has recently emerged due to an increase in case numbers and the outbreak's global spread. The other points of the 2022 monkeypox outbreak that make it more serious than previous outbreaks are severe clinical outcomes such as encephalitis and death, and also the higher transmission rate, which occurs at approximately 99% in men, especially those who have sex with men. The 2022 monkeypox virus outbreak has focused public and scientific attention on poxviruses and potential bioterrorism risks posed by poxviruses. Therefore, it is aimed at writing a review that compiles information about monkeypox, cowpox, vaccinia, bovine papular stomatitis, orf, pseudocowpox, gray seal pox, and red deerpox viruses.
+Yazar isimleri: ['Ahmet Kürşat AZKUR', 'Emel AKSOY', 'Cezmi AKDİŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Ankara Üniversitesi Veteriner Fakültesi Dergisi
+Yayın sayfa url: http://vetjournal.ankara.edu.tr/tr/pub/issue/72819/1146405
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2549020

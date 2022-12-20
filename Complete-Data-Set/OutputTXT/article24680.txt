@@ -1,0 +1,7 @@
+Makale Başlığı: Effects of SiO2/Water Nanofluid Flow in a Square Cross-Sectioned Curved Duct
+Özet: Forced convection SiO2/waternanofluid flow and heat transfer was numerically performed in 180-degreethree-dimensional curved duct with square cross section under steady andlaminar flow conditions in this investigation. Dean number was changed from 102to 898. All surface of curved duct was exposed to uniform and constant heatflux. Nanoparticle volume fractions was ranged1.0%-4.0%. The average Nusselt number and average Darcy friction factor weredetermined for each nanoparticle volume fractions. Velocity and temperatureprofiles and secondary flows were analyzed in detail. In addition, numericalstudy results are expressed with engineering correlations as changing averageNusselt number and average Darcy friction factor with Dean number andnanoparticle volume fraction.
+Yazar isimleri: ['Kamil Arslan']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/370577
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826682

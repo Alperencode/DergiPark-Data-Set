@@ -1,0 +1,7 @@
+Makale Başlığı: Pano Yangınları Önlenebilir mi?  YaRDeS (Nesnelerin İnterneti ve Smart Uç Bazlı Sigorta Kaynaklı Yangın Risk Değerlendirme Sistemi)
+Özet: YARDES, yangınların elektrik panosu kaynaklı çıkıp çıkmadığı konusunda veri elde edilmesi yanında, yangın riskinin anlık değerlendirilmesi sonucu ilgili birimlerin ve alarm sistemlerinin tetiklenmesini sağlayan bir yangın öncesi algılama sistemidir. Elektrik panolarına eklenecek cihaz ve toplanan verileri raporlayabilen merkezi bir sistemden oluşacak şekilde tasarlanmıştır. Sahada kullanılacak cihaz devreleri ile fazlardaki akım-gerilim-harmonik değerlerinin gerçek zamanlı ölçümleri gerçekleştirilerek; cihaza bağlı sensörler vasıtası ile sıcaklık ve pano içi sıcaklık-nem-toz, O2-CO-CO2 seviyeleri ve topraklama değerlerinin ölçümü yapılmaktadır. Bu şekilde yangın sonrası olay yeri inceleme faaliyetlerinde yangının elektrik kaynaklı olup olmadığına dair incelemelerde verilerin elde edilmesi sağlanmaktadır. Projenin ticarileşme aşamasında, yangın öncesi algılama ve yangına erken müdahale olanağı tanıyacak şekilde sistemin geliştirilmesi yapılmaktadır.
+Yazar isimleri: ['Hakan Serhad SOYHAN', 'Muhammed Fatih PEKŞEN']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: Uluslararası Yakıtlar Yanma Ve Yangın Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fce/issue/60446/942902
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1788292

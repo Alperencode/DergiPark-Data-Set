@@ -1,0 +1,7 @@
+Makale Başlığı: Are Tax Incentives Given to The Automotive Industry in Turkey Effective? An Econometric Analysis
+Özet: The automotive sector has strategic importance in the economies of both developed and developing countries. The automotive sector, one of the most critical sectors in Turkey, is considered a priority sector in macroeconomic policies included in medium-term programs. Since it is a strategic and leading sector for economic growth, some tax incentives, which are one of the fiscal policy tools in the recession periods of the economy, are applied to the automotive sector. This study analyzes the effectiveness of tax reduction and scrap incentive policies applied to the automotive sector in Turkey between 2006 and 2020 by considering the sales figures in the automotive sector. We find that tax incentive is significantly associated with the increase in the sales of automobiles and light commercial vehicles; however, it does not affect the sales of trucks. The most significant increase was seen in automobiles with higher price elasticity of demand. In addition, a negative relationship was found between automotive sales and loan interest rates and a positive relationship with national income.
+Yazar isimleri: ['Yasin ACAR']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: International Journal of Public Finance
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijpf/issue/70677/1049960
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2163104

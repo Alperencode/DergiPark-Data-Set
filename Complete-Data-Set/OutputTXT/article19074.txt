@@ -1,0 +1,7 @@
+Makale Başlığı: Impact of International Environmental Agreements on Procyclicality of Carbon Dioxide Emissions and Business Cycles
+Özet: The relationship between cyclic components of carbon dioxide (CO2) emissions and gross domestic product (GDP) growth is procyclical for a typical economy. Potential effects of a policy decision on the environment require policymakers to consider the impact of GDP growth on CO2 emissions for a country. This paper investigates the changing dynamics of procyclicality of CO2 emissions with respect to GDP growth following the Kyoto protocol which represents a strong commitment for a green economy by the industrialized countries. We compare two time periods (1970-2005 and 2006-2017) before and after the Kyoto Protocol by calculating the Pearson correlation coefficients and using linear regression models for 48 countries which produced 79% of the world total CO2 emissions in 2017. Our study finds that the procyclicality of the CO2 emissions and GDP growth decreased in 29 countries and increased in 19 countries in the period 2006-2017 following the Kyoto Protocol. We extract the cyclical components by Hodrick-Prescot filter.  We also build VAR models and compute impulse response functions, which agree with the statistical findings.
+Yazar isimleri: ['Bige KUCUKEFE', 'Nilüfer KAYA KANLI']
+Yayın Yılı: 14 Eylül 2022
+Dergi ismi: Fiscaoeconomia
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fsecon/issue/72567/1072528
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2249579

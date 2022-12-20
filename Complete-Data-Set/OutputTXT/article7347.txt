@@ -1,0 +1,7 @@
+Makale Başlığı: Half-Lightlike Submanifolds of Metallic semi-Riemannian Manifolds
+Özet: The aim of the present paper is to study half-lightlike submanifolds of a semi-Riemannianmanifold endowed with a metallic structure. We introduce a special half-lightlike submanifoldcalled screen semi-invariant half lightlike submanifold in metallic semi-Riemannian manifoldsand give an example. We present necessary and sufficient conditions for the distributionsincluded in the definition of such half lightlike submanifolds to be integrable. Moreover, weanalyze geometry of a screen semi-invariant half lightlike submanifold in a locally metallic semi-Riemannian manifold when it is totally geodesic and screen conformal.
+Yazar isimleri: ['Bilal Eftal ACET', 'Feyza Esra ERDOĞAN', 'Selcen YÜKSEL PERKTAŞ']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1085596
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2301030

@@ -1,0 +1,7 @@
+Makale Başlığı: Nano Ozonized Oil Trigger ROS Production and ɣH2AX Cell Positivity of B-16 Melanoma and OV-90 Ovarian Cells
+Özet: Tumor hypoxia is a restrictive factor for cancer treatment. Ozone therapy, used to decrease or prevent the hypoxia in tumor. In thisstudy, it is aimed to use ozonized oil nanoemulsions (OZNEs) to overcome the limitations of ozone therapy in cancer research. Theinfluence of OZNE against cancer cell lines is evaluated by Reactive Oxygen Species (ROS) and ɣH2AX assays. For both B-16melanoma and OV-90 cell lines, ROS production levels increased due to the increase in OZNE doses (0.85% to 14.88% and 1.94%to 58.58% for B-16 and OV-90 cell lines, respectively). 5-fold higher ɣH2AX cell positivity’s determined in OV-90 cells compared toB-16 melanoma cells. OZNE treatment could provide a new effective method to damage cancer cells in the future.
+Yazar isimleri: ['Yeliz YALÇIN', 'İshak Özel TEKİN', 'Rahime  Seda TIĞLI AYDIN']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Karaelmas Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/karaelmasfen/issue/70131/985125
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1934549

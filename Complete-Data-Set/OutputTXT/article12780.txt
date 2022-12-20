@@ -1,0 +1,7 @@
+Makale Başlığı: Mechanical Behavior of Composite Filled Teeth Under Compression Load
+Özet: In this study, the equivalent (von Mises) stresses and total deformation values occurring in the composite restored upper right premolar tooth with three different cavity areas subjected to compression load were examined. The model was based on the finite element method and analyses were performed using the ANSYS Workbench package program. As a result of the study, it was determined that the stress values of the teeth applied to the chewing force were close values in the teeth with three different cavities and permanent damage to the teeth did not occur. It has been observed that the stress generated on the teeth is concentrated in the hills where the force is applied and in the area of the junction of the crown and the root. It has been determined that the region where the cavity is opened affects the stress and deformation that will occur in the tooth.
+Yazar isimleri: ['Kadir DOĞAN', 'İsmail Yasin SÜLÜ']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1090242
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2319635

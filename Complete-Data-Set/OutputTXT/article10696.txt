@@ -1,0 +1,7 @@
+Makale Başlığı: Some Spectrum Estimates of the $ \alpha q$-Cesaro Matrices with $0<\alpha ,q<1$ on $c_{0}$
+Özet: The main purpose of the this paper is to investigate the spectrum, the fine spectrum, the approximate point spectrum, the defect spectrum, and the compression spectrum of the genaralized $\alpha q$-Ces\`{a}ro matrix $% C_{q}^{\alpha }$ with $\alpha ,q\in \left( 0,1\right) $ on the sequence space $c_{0}$.
+Yazar isimleri: ['Merve Esra TÜRKAY']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1152399
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2569952

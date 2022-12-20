@@ -1,0 +1,7 @@
+Makale Başlığı: MESAFENİN TÜRKİYE’NİN İHRACATINA ETKİSİNDE ALTERNATİF BİR YAKLAŞIM: TAŞIMA MODLARI
+Özet: Çekim modelleri taşıma maliyetlerinin uluslararası ticarete etkisini ticaret ortakları arasındaki mesafeleri dikkate alarak tahmin etmektedir. Geleneksel olarak, uzaklık değişkeni dâhil edilirken ülkelerin başkentleri veya en kalabalık şehirleri arasındaki uzaklığı esas alan CEPII verisi kullanılmaktadır. Son çalışmalar, ticaretin başladığı yerden gümrük çıkış kapılarına kadar olan yurt içindeki mesafeyi kısaltacak veya ulaşımı kolaylaştıracak altyapı yatırımlarının uluslararası ticareti olumlu etkilediğini göstermiştir. Bu çalışmada, CEPII verilerinden farklı olarak ve iller bazında hesaplanan yurt içindeki uzaklıkların eklendiği Çekim Modelinde mesafenin Türkiye’nin ihracatına etkisi incelenmiştir. Kara, deniz, hava ve demir yolu için ayrı ayrı yapılan tahmin sonuçları mesafenin ihracata etkisinin taşıma yöntemlerine göre CEPII sonuçlarından farklı olduğunu göstermektedir.
+Yazar isimleri: ['Ömer Tarık GENÇOSMANOĞLU', 'Tahamuhammet SÜLEYMAN']
+Yayın Yılı: 26 Mart 2022
+Dergi ismi: Uygulamalı Ekonomi ve Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jeess/issue/69057/1057179
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2189529

@@ -1,0 +1,7 @@
+Makale Başlığı: Removal of Cu (II), Co (II) and Ni (II) Ions from Aqueous Solutions Using Modified Sporopollenin
+Özet: In this study, (E)-2-((2-hydroxynaphthalen-1-yl)methyleneamino)pyridin-3-ol(HNMAP) compound was immobilized on sporopolleninof Lycopodium clavatum spores. The obtained structure was characterized by infrared spectroscopy(IR) and scanning electron microscopy (SEM). This newly synthesized compound has been used as an adsorbent inthe separation of heavy metals. Batch method was used to separate Cu (II), Co(II) and Ni (II) ions from waste waters. Inaddition, different experimental parameters such as pH, concentration, durationof interaction and concentration were selected to effectively separate heavymetals from aquous solution and waste waters. The experimental results wereapplied to Langmuir, Freundlich and Dubinin-Radushkevich (D-R) isothermequations. Thermodynamic parameters such asfree energy (∆G0), entropy (∆S0) and enthalpy (∆H0)were  calculated from the experimentalresults to explain the mechanism of the sorption. As a result, this adsorbenthas been successfully used to separate Cu (II), Co (II) and Ni (II) fromaqueous solutions and waste water.
+Yazar isimleri: ['Ali BİLGİÇ', 'Aysel ÇİMEN']
+Yayın Yılı: 26 Aralık 2018
+Dergi ismi: Journal of Applied Biological Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jabs/issue/41666/420734
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/608246

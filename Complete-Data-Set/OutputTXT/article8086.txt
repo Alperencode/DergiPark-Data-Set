@@ -1,0 +1,7 @@
+Makale Başlığı: Financial Performance Evaluation of Transportation and Storage Businesses Traded on The BIST by AHP (Analytic Hierarchy Process) integrated GRA (Grey Relational Analysis)
+Özet: The study aims to view to variation of the profit-oriented financial performance of 8 Transport and Storage businesses, that traded in BIST as component of XULAS index, in covid-19 period and also obtain a ranking by evaluating their performance via the AHP integrated Gray Relational Analysis (GRA) method. 15 cash flow-based ratios were considered as "financial performance criteria" that belongs to the financial statements of the 2018-2020 period. After the hierarchical structure of criteria were created via AHP, financial performance ranking was evaluated for each year with GRA method, utilizing the weights obtained from AHP. According to the findings, TLMAN has shown the best financial performance in the 3-years period and THYAO has taken the last place in the ranking.
+Yazar isimleri: ['Şakir SAKARYA', 'İlyas SAÇKES']
+Yayın Yılı: 29 Ekim 2022
+Dergi ismi: İktisadi İdari ve Siyasal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iktisad/issue/72676/1088186
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2311010

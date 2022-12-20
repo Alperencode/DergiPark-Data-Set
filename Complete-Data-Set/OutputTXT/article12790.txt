@@ -1,0 +1,7 @@
+Makale Başlığı: Elektrikli Araçların Şarjı ile Güç Şebekesine Aşırı Yüklenilmesinin Ayrık Denetleyici Sentezi ile Önlenilmesi
+Özet: Bu çalışma elektrikli araçların şarjı ile güç şebekesine aşırı yüklenilmesinin önlenebilmesi için ayrık denetleyici sentezi yöntemi ile bir modelleme çerçevesi önermektedir; burada, modeller senkron veri akış dilleri ailesi ile sembolik olarak sistematik bir şekilde inşa edilmiştir. Çalışmada, şebekeye aşırı güç yüklenilmesinin önüne geçecek adımların nasıl belirlendiği, belirtilen mevcut sorunun nasıl ayrık olayların kontrol problemi olarak ele alındığı ve nihayetinde ortaya çıkan sentezlenen bir denetleyicinin elektrikli araçlar şebeke şarj yöneticisi olarak nasıl kullanıldığı detaylandırılır. Son olarak, çalışma kapsamında sunulan modelleme ve sentez algoritmaları deneysel bir uygulama ile doğrulanır.
+Yazar isimleri: ['Mete ÖZBALTAN']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1071666
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2246542

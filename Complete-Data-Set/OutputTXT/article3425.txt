@@ -1,0 +1,7 @@
+Makale Başlığı: $\mathcal{I}_2$-Uniform Convergence of Double Sequences of Functions In $2$-Normed Spaces
+Özet: In this work, we discuss various types of $\mathcal{I}_2$-uniform convergence and equi-continuous for double sequences of functions. Also, we introduce the concepts of $\mathcal{I}_2$-uniform convergence, $\mathcal{I}_2^*$-uniform convergence, $\mathcal{I}_2$-uniformly Cauchy sequences and $\mathcal{I}_2^*$-uniformly Cauchy sequences for double sequences of functions in $2$-normed spaces. Then, we show the relationships between these new concepts.
+Yazar isimleri: ['Sevim YEGÜL GÜZEY', 'Erdinç DÜNDAR', 'Mukaddes ARSLAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Communications in Advanced Mathematical Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cams/issue/72815/1177174
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2658535

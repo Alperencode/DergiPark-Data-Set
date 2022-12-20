@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF BORROWING COSTS, LEVERAGE RATIOS AND BUSINESS SIZE ON AUDIT QUALITY / Denetim Kalitesi Üzerinde Borçlanma Maliyetleri, Kaldıraç Oranları Ve İşletme Büyüklüğünün Etkisi
+Özet: This study aims to determine the effect of borrowing costs, leverage ratios and firm sizes on the audit quality of enterprises. In this context, data on the profit/loss statement and financial position statements of the companies traded in the BIST and the independent audit reports published at the end of the period for 2012 and 2021 were used. The data obtained in this context were analyzed with the logistic regression method. According to the results obtained from the research, it was determined that there was positive and significant relationship between the audit quality of enterprises and their borrowing costs. According to this relationship, it had been determined that the borrowing costs of the companies audited by BIG 4 audit companies were hıgher than the companies that were not audited. While it was observed that there was a negative and significant relationship between audit quality and firm size, no significant relationship was found between audit quality and leverage ratios.
+Yazar isimleri: ['Yusuf KURT']
+Yayın Yılı: 10 Ekim 2022
+Dergi ismi: Uluslararası Ekonomi İşletme ve Politika Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ueip/issue/72701/1135879
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2507504

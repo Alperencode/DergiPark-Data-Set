@@ -1,0 +1,7 @@
+Makale Başlığı: Impact of Macro Economic Variables of India and USA on Indian Stock Market
+Özet: The key objective of the present study is to investigate the impact of changes in selected macroeconomic variables on Indian Stock Market (NIFTY 50 INDEX). To estimate the relationship, Multivariate Regression Model computed on Standard Ordinary Linear Square (OLS) method have been used. The time period examined is 2001-2016 and all the tests are conducted based on monthly data. Based on estimated regression coefficients and t-statistics, it is found that Nifty 50 index is significantly affected by US GDP, S&P index, gold prices, Indian WPI, its fiscal deficit, IPI and exchange rate.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353502
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364527

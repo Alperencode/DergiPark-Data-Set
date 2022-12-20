@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of the Specific Heat and Calculation of the Entropy, Enthalpy, and Free Energy Close to the Lower Phase Transition in Imidazolium Perchlorate
+Özet: The abnormal behavior of the specific heat of Imidazolium Perchlorate (Im-ClO4) was analyzed in terms of the power-law formula (including critical exponent α and fitting parameter JA) derived from the Ising model around the lower phase transition temperature of TC = 247 K. Moreover, the temperature dependence of some thermodynamic functions such as entropy, enthalpy, and the Gibbs free energy were calculated using the values of α and 𝐽𝐴 extracted from the observed specific heat data of Im-ClO4.
+Yazar isimleri: ['Nazan KARA', 'Ali KİRACI', 'Hamit YURTSEVEN']
+Yayın Yılı: 1 Kasım 2022
+Dergi ismi: Cankaya University Journal of Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cankujse/issue/73259/1075158
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2259857

@@ -1,0 +1,7 @@
+Makale Başlığı: Polimer grupları içeren yeni bir boronik asit ve boronat esterleri: spektroskopik özelliklerinin sentezi ve araştırılması
+Özet: Bor elementini içeren kimyasal bileşiklerin gün geçtikçe artan önemi ile özgün çalışmalara yer verilmiştir. Bu amaçla ilk olarak metoksipolietilen glikol amin ve 4-formilfenilboronik asit reaksiyonu ile polimer grupları içeren yeni bir boronik asit ve boronat esterleri sentezlendi. Daha sonra yeni boronik asit içeren polimer grubunun çeşitli diollerle dehidrasyon reaksiyonu sonucunda polimer grupları içeren boronat esterleri elde edilmiştir. Ortaya çıkan yeni bor katkılı polimerlerin yapısı başarıyla sentezlendi. Bu polimerlerin yapıları NMR (1H, 13C ve 11B), LC-MS/MS spektrometresi, IR, UV-Vis absorbans spektroskopisi ve floresan spektroskopisi ile aydınlatıldı.
+Yazar isimleri: ['Rahime SÖYLEMEZ', 'Ahmet KILIÇ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bor Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/boron/issue/72782/1093323
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2332222

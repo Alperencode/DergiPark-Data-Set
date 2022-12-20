@@ -1,0 +1,7 @@
+Makale Başlığı: Karınca Koloni ve Genetik Algoritma Yöntemleri Kullanarak En iyi Sayaç Okuma Güzergahının Tespit Edilmesi
+Özet: 
+Yazar isimleri: ['Murat TAŞYÜREK', 'Mehmet ERAT']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Dicle Üniversitesi Mühendislik Fakültesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dumf/issue/72718/1072010
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2247771

@@ -1,0 +1,7 @@
+Makale Başlığı: Text2Price: Deep Learning for Price Prediction
+Özet: 
+Yazar isimleri: ['Beyzanur SARAÇLAR', 'Birol KUYUMCU', 'Selman DELİL']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Artificial Intelligence Theory and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aita/issue/72862/1140482
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2525048

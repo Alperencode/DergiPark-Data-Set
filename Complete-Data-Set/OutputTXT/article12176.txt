@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of Resistance Spot Welding Parameters on Porosity Formation of the TWIP/Martensitic Steel Joints
+Özet: In this study, the porosity problem that occurs during the joining of TWIP and Martensitic steels, which are two important steels from the AHSS steel family, was investigated. The effects of welding current and welding duration on the formation of porosity were investigated. Macro and microscopic examination of the porosity was made and the amount of formation of the porosity as an area was graphically created in terms of welding parameters. According to the results, the amount of porosity increased as the welding time and welding current increased. The highest porosity amount was 16.2% in 30 period welding time and 12 kA welding current.
+Yazar isimleri: []
+Yayın Yılı: 9 Haziran 2022
+Dergi ismi: Mühendis ve Makina
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muhendismakina/issue/70148/1127360
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2472244

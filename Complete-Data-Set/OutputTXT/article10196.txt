@@ -1,0 +1,7 @@
+Makale Başlığı: Callinectes sapidus’un (Mavi Yengeç) Hepatopankreas Esteraz (E. C. 3.1.1.1) Aktivitesine Metal İyonlarının (Zn+2, Co+2, Cd+2, Ni+2) in Vitro Etkilerinin Belirlenmesi
+Özet: Bu çalışmada insanlar tarafından besin olarak tüketilen bir yengeç türü olan Callinectes sapidus (Rathbun, 1896)’nın hepatopankreasesteraz (E. C. 3.1.1.1) aktivitesine çinko (Zn), kobalt (Co), kadmiyum (Cd), nikel (Ni) metallerinin etkileri in vitro olarak belirlenmiştir.Elde edilen sonuçlara göre; araştırılan tüm metal iyonlarının hepatopankreas esteraz aktivitesi üzerine inhibisyon etkisi sergilemeklebirlikte, IC50 değerlerinin 0.83 mM (Cd) ile 32.21 mM (Co) arasında değişim gösterdiği bulunmuştur. Metal iyonlarının inhibisyontipleri değerlendirildiğinde, Zn ve Co un-kompetitif inhibisyona neden olurken, Cd ve Ni karışık tip inhibisyon sergilemişlerdir. Eldeedilen veriler, çevresel metal kirliliğinin belirlenmesinde mavi yengecin rolüne biyokimyasal veriler sunmaktadır.
+Yazar isimleri: ['Salih GÖRGÜN']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Karaelmas Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/karaelmasfen/issue/70131/960789
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1854468

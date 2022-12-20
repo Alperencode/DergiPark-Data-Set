@@ -1,0 +1,7 @@
+Makale Başlığı: Kentsel Atıksu Arıtma Tesislerinin İyileştirilmesine Yönelik Güncel Yaklaşım ve Uygulamalar
+Özet: Kentsel atıksu arıtma tesislerinin (AAT) hizmet ettiği nüfus oranı arttıkça işletim maliyetlerinde ve çıkış suyu kalitesinde iyileştirmelerin gerekliliği araştırmacıları optimizasyon çalışmalarına yöneltmiştir. Fiziksel, kimyasal ve biyolojik birçok işlem ve prosesin yer aldığı AAT’de verimliliğin artırılmasının yanı sıra alıcı ortam kalitesinin korunması veya geri kazanım için birçok kirletici türünün etkin şekilde dönüşümü ve su ortamından uzaklaştırılması dikkate alınmaktadır. Bu süreçler yüksek maliyet gerektirmektedir ve sürdürülebilir atıksu yönetimi için su ve faydalı madde kazanımı optimize edilirken enerji ve kimyasal sarfiyatının azaltılmasını sağlayacak yöntemler geliştirilmektedir. Bu çalışmada kentsel AAT’lerde arıtım verimini artırma ve maliyetleri azaltma   yönünde ana hat biyolojik arıtım, yan akım biyolojik azot arıtımı ve çamur hattı işletimi üzerinde araştırılan ve uygulanan yöntemler derlenmiştir. Uygulanabilirlik açısından en gerçekçi verilerin sunulması amaçlanmış ve bu kapsamda ağırlıklı olarak pilot ve gerçek ölçekli uygulamalar incelenmiştir.
+Yazar isimleri: ['Dilek ERDİRENÇELEBİ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Çevre İklim ve Sürdürülebilirlik
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/itucis/issue/70227/1080743
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2281534

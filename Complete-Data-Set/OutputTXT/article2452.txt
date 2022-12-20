@@ -1,0 +1,7 @@
+Makale Başlığı: The New HEMS Modelling of Human Heart
+Özet: 
+Yazar isimleri: ['Ertem KIZILKAPLAN', 'Fikret YALÇINKAYA']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/1061718
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2207529

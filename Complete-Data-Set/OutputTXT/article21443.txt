@@ -1,0 +1,7 @@
+Makale Başlığı: A special cone construction and its connections to structured tensors and their spectra
+Özet: In this work we construct a cone comprised of a group of tensors  hypermatrices  satisfying a special condition, and we study its relations to structured tensors such as M-tensors and H-tensors. We also investigate its applications to spectra of certain Z-tensors. We obtain an inequality for the spectral radius of certain tensors when the order m is odd.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783634
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

@@ -1,0 +1,7 @@
+Makale Başlığı: THE OBLIGATION TO INFORM IN PROCESSING PERSONAL HEALTH DATA
+Özet: Personal data concerning health is deemed to be special personal data according to Personal Data Protection Code Art 6. It is prohibited to process special categories of personal data without the explicit consent of the data subject. In Art 6/3 exceptions that such data can be processed without explicit consent are regulated. One of the conditions for processing personal data is explicit consent which should be given after being informed. The obligation of the data controller to inform is regulated in Art. 10. This obligation is compulsory not only for explicit consent but also for the application of other related rights such as correction, deletion or objection rights of the data subject. The details of obligation of data controller to inform is regulated in Communique On Principles And Procedures To Be Followed In Fulfilment Of The Obligation To Inform. In this study, the obligation of the data controller to inform before processing of health data, form of the obligation and the legal sanctions of the breach of the obligation will be examined in the aspects of the Personal Data Protection Law and the Communique.
+Yazar isimleri: ['Miray ÖZER DENİZ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Erciyes Akademi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesakademi/issue/72599/1150085
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2562403

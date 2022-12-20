@@ -1,0 +1,7 @@
+Makale Başlığı: COVİD 19 SALGINI DÖNEMİNDE BORSA İSTANBUL’DA İŞLEM GÖREN İLAÇ FİRMALARININ FİNANSAL PERFORMANSLARININ ANALİZİ
+Özet: Bu çalışmanın amacı Covid 19 salgını döneminde Borsa İstanbul’da işlem gören ilaç firmalarının finansal performanslarının karşılaştırılarak analiz edilmesidir. Çalışmada Borsa İstanbul’da işlem gören 7 ilaç firmasının 2019,2020 ve 2021 yıllarına ait yıllık finansal  performans kriterleri dikkate alınmıştır. Performans kriterleri belirlenirken incelenen literatür çerçevesinde likidite, varlıkların etkin kullanımı, finansal yapı ve karlılık oranlarından oluşan 8 finansal oran belirlenmiştir. Yıllık finansal durum tablolarından hesaplanan finansal performans kriterleri önce Entropi yöntemi ile ağırlıklandırılmış ve bu ağırlıklandırma ile TOPSIS yöntemi kullanılarak yıllık finansal performans sıralamaları elde edilmiştir. Elde edilen bulgulara göre 2019 yılında SELEC, 2020 yılında RTALB ve 2021 yılında yine SELEC şirketleri en iyi finansal performans gösteren şirketler olurken her üç yılda da en düşük finansal performans gösteren şirket MPARK olarak tespit edilmiştir. Covid 19 salgını döneminde finansal performansı yükselen şirketin ise RTALB olduğu belirlenmiştir.
+Yazar isimleri: ['Ali AKGÜN', 'Akbar AHMADZADA']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Muhasebe ve Finans İncelemeleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mufider/issue/72704/1092168
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2327677

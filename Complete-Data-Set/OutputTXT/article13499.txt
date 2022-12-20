@@ -1,0 +1,7 @@
+Makale Başlığı: Malware Detection Method Based on File and Registry Operations Using Machine Learning
+Özet: 
+Yazar isimleri: ['Ömer ASLAN', 'Erdal AKİN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Sakarya University Journal of Computer and Information Sciences
+Yayın sayfa url: http://saucis.sakarya.edu.tr/tr/pub/issue/72246/1049798
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2162519

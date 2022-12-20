@@ -1,0 +1,7 @@
+Makale Başlığı: Detection of risk factors of PCOS patients with Local Interpretable Model-agnostic Explanations (LIME) Method that an explainable artificial intelligence model
+Özet: 
+Yazar isimleri: ['İpek BALIKÇI ÇİÇEK', 'Zeynep KÜÇÜKAKÇALI', 'Fatma Hilal YAĞIN']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: The Journal of Cognitive Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcs/issue/65819/1004847
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2010208

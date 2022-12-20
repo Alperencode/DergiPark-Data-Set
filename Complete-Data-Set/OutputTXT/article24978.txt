@@ -1,0 +1,7 @@
+Makale Başlığı: Statistical Arbitrage Pairs Trading with High-frequency Data
+Özet: In recent years, more sophisticated techniques for analyzing data and exponential increase in computing power allow high-frequency trading. This paper provides a detailed overview on pairs trading in the context of intraday data and applies different strategies to minute-by-minute prices of the S&P 500 constituents from 1998 to 2015. In the back-testing study, the best performing pairs trading approach produces statistically and economically significant returns of 50.50 percent p.a. and an annualized Sharpe ratio of 8.14 after transaction costs. Although most algorithms show declining returns over time, there still exist pairs trading strategies with favorable results in the recent past.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353612
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364651

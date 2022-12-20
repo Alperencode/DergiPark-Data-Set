@@ -1,0 +1,7 @@
+Makale Başlığı: Utilization of deep learning architectures for MIMO detection
+Özet: Applications of deep learning in communications systems are becoming popular today with their powerful solutions to complex problems. This study considers the utilization of deep learning detectors for small-scale multiple-input multiple-output systems. Deep neural network, long short-term memory, and one-dimenisonal convolutional neural network architectures are discussed and the bit error rate performances of these deep learning based detectors are compared with the optimal maximum likelihood and sub-optimal minimum mean square error detectors. Simulation results show that the deep neural network architecture has the best detection performance among the discussed deep learning detectors and may outperform the sub-optimal minimum mean square error detector. For small-scale multiple-input multiple-output systems, the performance of the deep learning based detector is close to that of the optimal detector.
+Yazar isimleri: ['Sümeye Nur KARAHAN', 'Aykut KALAYCIOĞLU']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A2-A3 Physical Sciences and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aupse/issue/72231/1140193
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2523852

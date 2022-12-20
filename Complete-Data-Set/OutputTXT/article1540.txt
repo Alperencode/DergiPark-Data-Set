@@ -1,0 +1,7 @@
+Makale Başlığı: Karar Verme Davranışından Sorumlu Beyin Yapıları: Derleme
+Özet: İnsanlar hayatlarında belirdikleri amaçlarına ulaşmak için devamlı olarak seçim işlevi ile karşılaşırlar. Bu seçim işlevi bir karar verme durumudur. Karar verme, insan davranışının sonucunda ortaya çıkan ve tekrarlayan bir bilişsel süreçtir. Belirli kriterlere göre, bir dizi süreçten sonra bir karar verilir. Sinir bilim yöntemleri, karar verme süreçleri sırasında beynimizde meydana gelen olaylar hakkında bilgi edinmemizi sağlar. Beynimizin belirli bölgeleri ve bu bölgeler arasındaki bağlantılar, karar verme sürecinde görev almaktadır. Bu süreçler esnasında beynin birçok bölgesi (anterior cingulate korteks, medial prefrontal korteks, orbitofrontal korteks, dorsolateral prefrontal korteks, nucleus accumbens ve substantia nigra vb.) birbiriyle iletişim halindedir. Karar verme sürecinde beyindeki bu yapıların nöronal ağ bağlantılarının sağlanmasında nörotransmitterler de görev alır. Serotonin, frontal korteksin ventromedial ve orbital alanlarıyla ilişkili karar verme işlevlerini düzenlemede aracı bir görev yapmaktadır. Bu derlemenin amacı, çeşitli durumlardaki karar verme sürecinde ilgili beyin yapılarının görevleri ve bu süreçte rol oynayan nörotransmitterler hakkında bilgi vermektir.
+Yazar isimleri: ['Güldane DİNÇ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Ankara Sağlık Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ausbid/issue/70974/930025
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1741062

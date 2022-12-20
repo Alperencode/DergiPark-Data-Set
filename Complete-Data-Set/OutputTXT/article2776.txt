@@ -1,0 +1,7 @@
+Makale Başlığı: Çatlaklı Kompozit Plakaların Dinamik Kararlılığı
+Özet: Bu çalışmada, sonlu elemanlar yöntemi kullanılarak periyodik eksenel yüklemeye maruz kalan çatlaklı kompozit plakaların dinamik kararsızlık bölgesi sayısal olarak incelenmiştir. Klasik laminasyon teorisine dayanan kompozit plaka, sonlu elemanlar yöntemi kullanılarak modellenmiştir. Kompozit plakanın sınır şartlarının bir taraftan sabitlendiği, diğer tarafların serbest olduğu varsayılmaktadır. Kompozit plaka, her biri dört düğüme sahip kare plaka elemanlarına bölünmüştür. Her düğümün bir vektörel ve iki dönme serbestlik derecesine sahiptir, bu yüzden bu kare plaka elemanlar on iki serbestlik derecesine sahiptir. Plakanın dinamik kararsızlık bölgesi hesaplamak için kullanılan Mathieu-Hill tipi hareket denklemi, Lagrange denkleminden elde edilen enerji ifadeleri kullanılarak oluşturulmuştur. Geliştirilen MATLAB sonlu elemanlar kodu kullanılarak çatlağın kompozit plakalar için dinamik kararsızlık bölgesi üzerindeki etkisi incelenmiştir. 
+Yazar isimleri: ['Özgür SAYER', 'Hasan ÖZTÜRK', 'Emine Çınar YENİ', 'Aysun BALTACI', 'Rafet Can ÜMÜTLÜ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1003607
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2005492

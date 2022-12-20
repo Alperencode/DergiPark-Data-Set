@@ -1,0 +1,7 @@
+Makale Başlığı: THE RELATIONSHIP BETWEEN COUNTRY RISK PREMIUM AND MAIN MACROECONOMIC INDICATORS
+Özet: Along with the global risk factors, the economic indicators of the countries play a crucial role in determining the CDS premiums that are accepted as an indicator of the country's bankruptcy risk. Because the fact that Turkey's CDS score has never fallen below 100, even during the last fifteen years, when the global conjuncture was relatively stable, shows how effective the internal dynamics are on Turkey's CDS premiums. From this point of view, within the scope of the study, primarily the relations between the primary macroeconomic factors that are thought to be effective on the CDS premium and CDS premiums were evaluated. As a result of the comparative analysis, it was concluded that economic growth, inflation rate, unemployment rate, interest rate, and exchange rate variables should be followed carefully as internal factors in understanding the changes in CDS premium in Turkey. The most important external risk factors that may impact Turkey's CDS premiums are the outbreak of the Russia-Ukraine war, the pandemic has not entirely ended, and the interest rate hikes by developed countries due to the pressure these put on global markets.
+Yazar isimleri: ['Serkan GÖKSU', 'Ali BALKI']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Dumlupınar Üniversitesi İİBF Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dpuiibf/issue/70376/1126054
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2466801

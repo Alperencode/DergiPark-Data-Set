@@ -1,0 +1,7 @@
+Makale Başlığı: Mekanik Alaşımlanmış AlCuCrFeNi Yüksek Entropili Alaşımının Fiziksel Buhar Biriktirme Tekniği İle Kaplanabilirliğinin İncelenmesi
+Özet: Yüksek entropili alaşımlar sahip oldukları üstün özellikleri sayesinde süper alaşımlara alternatif olarak önerilmektedir. Yüksek entropili alaşımlar araştırılmaya devam ettikçe ortaya çıkan özgün ve üstün özellikleri sayesinde geniş alanlarda kullanılabilir olmasıyla birlikte önemi gittikçe artmaktadır. Bu çalışmada mekanik alaşımlama tekniği ile AlCuCrFeNi tozları sentezlenmiştir. Sentezlenen tozlarda YMK (Yüzey Merkezli Kübik), HMK (Hacim Merkezli Kübik) ve B2 fazları tespit edilmiştir. Tozlar peletlendikten sonra fiziksel buhar biriktirme (FBB) tekniği ile Monel 400 altlık malzeme üzerine biriktirilmiştir. Üretilen kaplamanın mikroyapısal özellikleri incelenmiştir. Üretim sonrası homojene yakın bir ince film tabakası üretilmiştir.
+Yazar isimleri: ['Yunus Emre ŞİMŞEK', 'Sefa Emre SÜNBÜL', 'Kürşat İCİN']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: İmalat Teknolojileri ve Uygulamaları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mateca/issue/72384/1124722
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2461314

@@ -1,0 +1,7 @@
+Makale Başlığı: Detection and Modeling of Long-Term (1984–2020) Land-Use Change (2035) Analysis of Gölcük District
+Özet: Land-use change analysis and future models were used to examine environmental degradation and control unplanned development. This study aimed to reveal the temporal changes in Gölcük district, identify improper land uses by analyzing the changes, develop future modeling, and predict future trends using the Modules for Land-Use Change Evaluation plug-in. Accordingly, land uses produced by the unsupervised classification method using Landsat satellite images were used for change analysis from 1984 to the present. The modeling for 2035 was obtained from this perspective. The results of land-use changes are illustrated using change maps, loss/gain graphs, and statistical data. Rapid urban growth in the Gölcük district has also affected other important land-use types such as agriculture. Based on modeling results, the settlement was expected to cover 9.77% (2025.90 ha) of the total area in 2020 and is expected to cover 13.53% (2808 ha) of the total area in 2035. It has been discovered this growth has opened up agricultural areas to settlement, and it has been modeled that cultivated areas will be lost in the future. These areas are remarkable because of their high earthquake risk.
+Yazar isimleri: ['Sultan DURAN', 'Mesut DOĞAN']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Coğrafya Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iucografya/issue/71353/997334
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1982010

@@ -1,0 +1,7 @@
+Makale Başlığı: Macroeconomic Prognosis of Employment in the Czech Republic
+Özet: The article is focused on employment policy in the Czech Republic, its success and development, stated goals, and whether it is possible to reach 75% employment by 2020. In the context of comparison with another country, Austria has been chosen. Total employment, women’s employment, men´s employment and age groups from 55 to 64 years will be compared. Employment is a comprehensive indicator, which requires economic and social definition. For prognosis processing, the ordinary least squares (OLS) method, so called OLS, was used. Multiple regression analysis generates a regression econometric equation which could be, after the substitution of variables, used as an instrument of the prognosis of employment development for medium term forecasts. The OLS econometric model requires an econometric verification, which shows the conditions under which the model works and is valid.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353625
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364665

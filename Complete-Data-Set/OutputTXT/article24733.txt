@@ -1,0 +1,7 @@
+Makale Başlığı: MASTERCAM PROGRAMI İLE DİK İŞLEM MERKEZLİ FREZE TEZGÂHINDA HELİSEL DİŞLİLERİN İMALATI
+Özet: Dişli çarklar, uzun zamandan beri farklıuygulamalarda kuvvet ve hareket ileten eleman olarak kullanıl-maktadır. Sonyıllarda bu dişlilerin imalatları konusunda birçok metot geliştirilmiştir.Bunlar arasında en yaygını olanı ise nümerik kontrollü tezgahlarla yapılanüretimlerdir.  Nümerik kontrollü tezgahlar bilindiğiüzere fonksiyonu bilinen eğrileri de işleyebilmektedir. Bunun için dişlilerindişlerinin eğri fonksiyonlarının elde edilmesi gerekmektedir. Eğrifonksiyonları belirlendikten sonra fonksiyona uygun eğrilerin bir çizim veyagrafik programında elde edilmesi gerekir. Bu açıdan CAD ve CAM programlarıhayli kullanışlıdır. Bu çalışmada AUTOCAD ve MASTERCAMprogramları kullanılarak gerekli çizimler ve işleme parametrelerigerçekleştirilerek DYNA 2900 MYTE marka nümerik kontrollü freze tezgahındasilindirik helisel bir dişli imal edildi.
+Yazar isimleri: ['Faruk KARACA']
+Yayın Yılı: 30 Nisan 2011
+Dergi ismi: Fırat Üniversitesi Doğu Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fudad/issue/47204/594728
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/766709

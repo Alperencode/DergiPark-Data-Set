@@ -1,0 +1,7 @@
+Makale Başlığı: Akım Modlu Logaritmik Tabanlı AB Sınıfı Dördüncü Derece Chebyshev Alçak Geçiren Süzgeç Tasarımı
+Özet: Bu çalışmada akım modlu durum uzay sentez metodu kullanılarak, dördüncü derece fark alıcı AB sınıfı logaritmik ortam Chebyshev alçak geçiren filtre tasarlanmıştır. Önerilen filtrenin kesim frekansı 50Mhzdir. Tasarımda sadece npn tipi transistör , topraklı kapasitör ve 2.5 V besleme kaynağı kullanılarak çalışılmıştır. Süzgeç parametreleri kolayca değiştirilerek kesim frekansı ayarlanabilmektedir. Bu ayarlama akım değeri değiştirilerek yapılmaktadır. Literatürde bulunan Chebyshev süzgeçlere göre yüksek frekanslarda çalışıyor olması en büyük üstünlükleri arasında yer almaktadır. Teorik analiz sonuçları SPICE yardımıyla doğrulanmıştır. Tasarlanan filtre için ideal BJT ve AT&T CBIC-U2 tip transistör kullanılmıştır.
+Yazar isimleri: ['Ali KIRÇAY', 'Derya Barış KÖROĞLU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Dicle Üniversitesi Mühendislik Fakültesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dumf/issue/72718/1125727
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2465334

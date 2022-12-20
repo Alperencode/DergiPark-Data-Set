@@ -1,0 +1,7 @@
+Makale Başlığı: Solution of a Solvable System of Difference Equation
+Özet: 
+Yazar isimleri: ['Ali GELİŞKEN', 'Murat ARI']
+Yayın Yılı: 23 Eylül 2022
+Dergi ismi: Ikonion Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ikjm/issue/68769/1050493
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2164891

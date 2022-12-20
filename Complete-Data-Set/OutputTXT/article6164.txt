@@ -1,0 +1,7 @@
+Makale Başlığı: Sıra bağımlı hazırlık süreli özdeş paralel makine çizelgeleme problemi için yeni çözüm gösterimleri
+Özet: Makine çizelgeleme problemleri teorik olarak ve uygulamada sıklıkla karşılaşılan problemler arasındadır.  Bu konuda literatürde yer alan çalışmaların önemli bir bölümünde problemin tek amaçlı olarak ele alındığı görülmektedir. Tek amaçlı yaklaşım teorik anlamda problemlerin daha kolay çözülebilmesini sağlasa da gerçek hayat problemlerinin hemen hepsinin çok amaçlı özellik göstermesinden dolayı çoğu zaman gerçekçi çözümler sunamamaktadır. Bu çalışmada, ilişkisiz paralel makine çizelgeleme problemi çok amaçlı olarak ele alınmıştır. Ele alınan amaçlar son işin tamamlanma zamanının ve toplam gecikmenin enküçüklenmesidir. Amaçların birleştirilmesinde genişletilmiş E-kısıt ve sözlüksel ağırlıklandırılmış Tchebycheff yöntemleri kullanılmıştır. Elde edilen çözümler kullanılarak yöntemlerin performansı karşılaştırılmıştır.
+Yazar isimleri: ['Tuğba SARAÇ']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazimmfd/issue/72928/815942
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1362247

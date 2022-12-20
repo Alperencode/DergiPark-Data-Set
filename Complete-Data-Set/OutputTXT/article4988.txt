@@ -1,0 +1,7 @@
+Makale Başlığı: ÇALIŞMA ARKADAŞLARI ETKİLEŞİMİNİN ÖRGÜTSEL BAĞLILIĞA ETKİSİ
+Özet: Bu araştırmada, çalışma arkadaşları etkileşiminin, örgütsel bağlılığı ne derece etkilediğinin tespit edilebilmesi amaçlanmıştır. Bu amaca ulaşabilmek için çalışmada ilişkisel tarama modeli kullanılmıştır. Araştırmanın örneklemini, bir devlet üniversitesinde idari personel olarak görev yapan 221 kamu personeli oluşturmuştur. Veriler kolayda örneklem yöntemiyle anketle toplanmıştır. Verilerin analizinde yüzde, frekans, aritmetik ortalama ve standart sapma kullanılmıştır. Değişkenler arasındaki ilişkiyi tespit edebilmek için pearson korelasyon katsayısı, etki değerinin saptanması için ise basit doğrusal regresyon analizinden faydanılmıştır. İstatistiksel analizlerde SPSS 22.0 programı kullanılmıştır. Araştırma sonucunda, çalışma arkadaşları etkileşiminin örgütsel bağlılığı pozitif yönde istatistiksel olarak etkilediği ortaya çıkmıştır. Araştırma sonucu ortaya çıkan bulgular, alanyazın kapsamında tartışılmıştır.
+Yazar isimleri: ['Muhammet TORTUMLU', 'Hasan Hüseyin UZUNBACAK']
+Yayın Yılı: 8 Ekim 2022
+Dergi ismi: Elektronik Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/esosder/issue/70796/1103087
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2372768

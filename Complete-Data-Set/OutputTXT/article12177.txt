@@ -1,0 +1,7 @@
+Makale Başlığı: Döşeme Donatısının Betonarme Tablalı Kirişlerin Eğilme Momentine Katkısı
+Özet: Bir betonarme binanın kiriş dayanımı hesabında, açıklıkta kirişe döşeme betonunun katkı verdiği ancak, mesnetlerde kirişe paralel döşeme donatısının ihmal edildiği bilinmektedir. Birçok ülke yönetmeliklerinde, ihmal edilen bu donatıların dikkate alınması hususunda önerilerde bulunulurken, ulusal yönetmeliklerimizde böyle bir ifade bulunmamaktadır. Bu ihmalin kirişlerde mafsallaşmayı önceleyen güçlü kolon-zayıf kiriş yani sistem mekanizmalaşması koşulunu riske atacağından paralel döşeme donatılarının kısmen/tamamen hesaba katılması büyük önem arz etmektedir. Bu çalışma ile kiriş mesnet bölgesinde etkili tabla genişliği içerisinde yer alan kirişe paralel döşeme donatılarının kirişin yük taşıma kapasitesine katkısı araştırılmıştır. Bu kapsamda, tabla kalınlığı 10 cm, genişliği 125 cm olan 25x45 cm boyutunda 1/1 ölçekli bir tablalı ve aynı ebatlarda iki tablasız olmak üzere toplam 3 adet betonarme kiriş üretilerek, statik üç noktalı eğilme deneyine tabi tutulmuştur. Yapılan bu çalışma sonucunda, TS 500 (2000)’e uygunluğu belirlenen etkili tabla genişliği içerisindeki döşeme donatılarının neredeyse tamamının kiriş donatısı gibi moment taşıma kapasitesine katkı verdiği tespit edilmiştir
+Yazar isimleri: ['Yunus GENÇ', 'Orhan DOGAN']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1077189
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2267817

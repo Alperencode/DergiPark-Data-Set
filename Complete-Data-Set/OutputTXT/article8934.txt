@@ -1,0 +1,7 @@
+Makale Başlığı: Zebra Midye (Dreissena polymorpha)'de Malathionun Akut Toksisitesi (LC50)’nin Belirlenmesi
+Özet: Sunulan çalışmada, zebra midye (Dreissena polymorpha) bireyleri, LC50 değerlerinin belirlenmesi için, konsantrasyon düzeyleri farklı olan, malathion etken maddesini içeren pestisitin bu organizma üzerindeki akut toksik etkisi araştırılmıştır. Bu amaçla aralık belirleme ve deneysel tasarım kurgulanmıştır. Tüm deneyler (aralık belirleme dahil) 2 litre hacimli cam akvaryumlar içerisine 1 litre su katılmıştır. Her akvaryum içerisine, 10’ar adet D. polymorpha bireyi eklenerek, deneme çalışması hazırlanmıştır. LC50 değerinin belirlenmesi için Gözlem periyodu olarak, 24 saatlik zaman dilimindeki D. Polymorpha bireylerinin canlılık durumları incelenerek kayıt altına alınmıştır. Canlılık özelliğini yitiren D. polymorpha bireyleri deneme ortamından çıkarılmıştır. Bu şekilde 3 tekrarlı olarak yürütülen çalışmada, malathion etken maddeli pestisitin D. polymorpha için LC50 değeri 120,11 ± 19,32 mg/l olarak belirlenmiştir.Anahtar Kelimeler: Malathion, Pestisit, Letal Konsantrasyon, Zebra Midye.
+Yazar isimleri: ['Neşe AKÇANAL ÖDÜN', 'Osman SERDAR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Anatolian Environmental and Animal Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jaes/issue/72468/1116241
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2426088

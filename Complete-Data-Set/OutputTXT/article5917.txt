@@ -1,0 +1,7 @@
+Makale Başlığı: Employing the exp $(-\varphi(z))$ - Expansion Method to Find Analytical Solutions for a (2+1)-dimensional Combined KdV-mKdV Equation
+Özet: In this paper, we obtain exact solutions of the (2+1)-dimensional combined KdV-mKdV equation by using a symbol calculation approach. First, we give some background on the equation. Second, the exp$(-\varphi(z))$-expansion method will be introduced to solve the equation. After, using the exp$(-\varphi(z))$-expansion method to solve the equation, we can get four types of exact solutions, which are hyperbolic, trigonometric, exponential, and rational function solutions. Finally, we can observe the characteristics of the exact solutions via computer simulation more easily.
+Yazar isimleri: ['Yongyi GU']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Fundamental Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fujma/issue/72663/1125858
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2465983

@@ -1,0 +1,7 @@
+Makale Başlığı: Temperature Compensation of FBG Sensors via Sensor Packaging Approach for Harsh Environmental Applications
+Özet: Fiber Bragg Gratings (FBGs) are one of the most preferred high technology sensors in the sensor market. Although, FBG based strain sensors are widely used they are most likely to get affected by climate changes such as temperature. Thereby, most of the time they have to be used along with a reference temperature sensor. Otherwise, one should be ensuring that the FBG sensor is isolated from the climate changes which requires more effort and is a less reliable approach as compared to using an additional temperature sensor. In this study, a novel design of temperature compensated FBG sensor package, manufacturing of polyimide coated FBG sensors, and finally montaging of the manufactured FBG sensors to the corresponding package with an appropriate adhesive is presented. In addition, the designed package has been tested under discrete and continuous loading conditions. Obtained results showed that with the designed package it is possible to measure the strain change in terms of sensing capability of 1.2 microstrains (με) up to 80℃ with an extensive compensation ratio. 
+Yazar isimleri: ['Mehmet Mücahit ARSLAN', 'Gökay BAYRAK']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/981290
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1918735

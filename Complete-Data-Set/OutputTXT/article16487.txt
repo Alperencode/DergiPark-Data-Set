@@ -1,0 +1,7 @@
+Makale Başlığı: HEMZEMİN KAVŞAK İYİLEŞTİRMELERİNİN KAVŞAK PERFORMANSI VE TAŞIT EMİSYONLARI ÜZERİNE ETKİLERİNİN İNCELENMESİ: BURSA ÖRNEĞİ
+Özet: Kavşaklar farklı yönlerden gelen trafik akımlarının ortaklaşa kullanıldığı alanlardır. Bu nedenle araç gecikmeleri, kuyruk uzunluğu, bekleme süreleri gibi trafiğe etki eden faktörlerin en yoğun yaşandığı yerler kavşaklar olmaktadır. Bu durum, kavşakların trafiğin performansı üzerinde önemli etkiye sahip olduğunu göstermektedir. Öyleyse kavşak optimizasyonları trafiğin etkin ve verimli kullanılması için trafik iyileştirme çalışmalarının başında gelmektedir. Bu çalışmada Bursa ili Nilüfer ilçesinde bulunan sinyalize dönel kavşak olarak hizmet veren Durmazlar Kavşağı incelenmiştir. Kavşağın mevcut durumu ve mevcut durum üzerinde uygulanan farklı geometrik iyileştirmeler VISSIM simülasyon programı ile analiz edilmiştir. Yapılan iyileştirmeler sonucunda kavşak geometrisinin kavşak performansı üzerinde etkili olduğu görülmüştür. Nihayetinde seyahat süresi, durma sayıları ve kuyruk uzunluklarının azaldığı, araç hızlarının arttığı bunlara bağlı olarak kavşak hizmet seviyesinin iyileştiği ve emisyon miktarlarının azaldığı görülmüştür.
+Yazar isimleri: ['Alphan KAYACAN', 'Bahadır YILMAZ', 'Mehmet RİZELİOĞLU']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uludağ Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uumfd/issue/71647/1056004
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2184770

@@ -1,0 +1,7 @@
+Makale Başlığı: Directs estimates and  a Voronovskaja-type formula for  Mihesan operators
+Özet: We present an estimate for the rate of convergence of Mihesan operators in polynomial weighted spaces. A Voronovskaja-type theorem is included.
+Yazar isimleri: ['Jorge BUSTAMANTE']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Constructive Mathematical Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cma/issue/73315/1169884
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2627822

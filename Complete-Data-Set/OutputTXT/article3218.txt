@@ -1,0 +1,7 @@
+Makale Başlığı: Elma Dilimlerinin Konvektif Kurutulmasında Enerji Özelliklerine Etki Eden Faktörlerin Yanıt Yüzeyi Yöntemi ile Değerlendirilmesi
+Özet: Bu çalışmada, konvektif kurutma yönteminin iki farklı elma çeşidinin (Granny Smith ve Red Delicious) kurutulmasında, kurutma sıcaklığı (50, 55 ve 60°C), numune kalınlığı (5, 7 ve 9 mm) ve kuruma süresi (8, 9 ve 10 saat) gibi bağımsız değişkenlerin özgül enerji tüketimi, özgül nem çekme oranı, enerji verimliliği, termal etkinlik ve efektif nem difüzyonu özelliklerine etkisi incelenmiştir. Bulgulara göre, ikinci derece polinom denklemlerinin yanıt değişkenlerini temsil etmede başarılı olduğu tespit edilmiştir. Ayrıca ANOVA sonuçlarına göre bağımsız değişkenlerin yanıt değişkenleri üzerinde istatistiksel olarak önemli seviyede etkili olduğu belirlenmiştir (p<0.05). Tüm kontrol faktörleri dikkate alındığında optimum koşulların, Granny Smith çeşidi için 50ºC, 7.31 mm ve 8.00 saat (arzu edilebilirlik=0.801), Red Delicious için ise 50ºC, 9.00 mm ve 8.00 saat (arzu edilebilirlik=0.847) olduğu belirlenmiştir. Optimizasyon sonuçları, konvektif kurutmanın, elma dilimleri için iyi bir performans gösterdiğini ortaya koymuştur.
+Yazar isimleri: ['Necati ÇETİN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Bursa Uludağ Üniversitesi Ziraat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bursauludagziraat/issue/73469/1051109
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2166785

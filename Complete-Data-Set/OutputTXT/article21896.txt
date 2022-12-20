@@ -1,0 +1,7 @@
+Makale Başlığı: Kişi Başına Gelir ve Fosil Yakıt Tüketiminin Co2 Emisyonu Üzerindeki  Etkisi: Türkiye İçin Eşbütünleşme Analizi
+Özet: Bu çalışmanın amacı, 1965-2015 arası yıllık verileri kullanarak Çevresel Kuznets Eğrisi hipotezinin Türkiye için geçerliliğini araştırmaktır. Kişi başına gelir düzeyi ve fosil yakıt tüketiminin CO2 emisyonu üzerinde bir etkisinin olup olmadığı Gregory Hansen eşbütünleşme testi kullanılarak analiz edilmiştir. Test sonuçlarına göre, CO2 emisyonu, kişi başına gelir düzeyi ve fosil yakıt tüketimi arasında uzun dönemli ilişkinin varlığı tespit edilmiştir. Başka bir deyişle, fosil yakıt tüketiminin uzun dönemde çevre kirliliğini artırdığı sonucuna varılmıştır.
+Yazar isimleri: ['Nesibe VAROĞLU']
+Yayın Yılı: 5 Ekim 2022
+Dergi ismi: Uluslararası Ekonomik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ead/issue/72917/982863
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1925163

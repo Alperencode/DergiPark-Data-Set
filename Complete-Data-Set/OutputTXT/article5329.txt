@@ -1,0 +1,7 @@
+Makale Başlığı: Karıştırmalı Bilyalı Değirmende K-Feldspatın Öğütülebilirliğini Etkileyen Faktörlerin Tam Faktöriyel Tasarımla Analizi
+Özet: Bu çalışmanın amacı, karıştırmalı bir bilyalı değirmende K-feldspatın dar tane boyutu aralığında yaş ve kuru öğütülebilirliğini araştırmaktır. Öğütme işleminin değerlendirilmesinde, seçilen parametrelerin bağımlı değişken üzerindeki etkilerini gözlemlemek için tam faktöriyel tasarım kullanılmıştır. Dar tane boyutu aralığında öğütmede bilye çapı, karıştırma hızı, öğütme süresi ve ara doldurma oranı gibi parametre etkileri incelenmiştir. Deneysel sonuçlar, K-feldspatın, dar tane boyutu aralığında (1-10 mikron) karıştırmalı bir bilyalı değirmen ile verimli bir şekilde öğütülebileceğini göstermiştir.
+Yazar isimleri: ['Kemal BİLİR', 'Prof. Dr. Halil İPEK']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Mühendislik ve Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogummf/issue/72210/1009481
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2026178

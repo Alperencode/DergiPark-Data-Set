@@ -1,0 +1,7 @@
+Makale Başlığı: Causal Effects and Dynamic Relationship between Exchange Rate Volatility and Economic Development in Liberia
+Özet: Studies envisioned to inform on major policy issues are paramount for Liberia’s economic recovery. Therefore, we employ an unrestricted vector autoregressive model to analyze the dynamic associations between exchange rate volatility (ERV) and Liberia’s real gross domestic product (RGDP). The empirical results show no significant relationship between ERV and Liberia’s RGDP in the short-run, but variance decomposition analysis reveals that innovations to Liberia’s RGDP lead to fluctuations in ERV in the long-run. Hence, we recommend that Liberia’s policymakers should exert stronger monetary policy control to ensure the existence of single currency regime in the long-run. Also, technological innovation is required to boost domestic production in order to offset the negative effect of ERV on trade.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353523
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364549

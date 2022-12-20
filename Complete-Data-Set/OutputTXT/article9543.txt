@@ -1,0 +1,7 @@
+Makale Başlığı: Factorable Surfaces in Pseudo-Galilean Space with Prescribed Mean and Gaussian Curvatures
+Özet: We study the so-called factorable surfaces in the pseudo-Galilean space, the graphs of the product of two functions of one variable. We then classify these surfaces when the mean and Gaussian curvatures are functions of one variable.
+Yazar isimleri: ['Sezin AYKURT SEPET', 'Hülya GÜN BOZOK', 'Muhittin Evren AYDIN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of New Theory
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnt/issue/72878/1137525
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2513966

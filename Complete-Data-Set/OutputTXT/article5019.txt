@@ -1,0 +1,7 @@
+Makale Başlığı: Çift Kafesli Rotorda Alüminyum ve Bakırın Birlikte Kullanımının Asenkron Motor Verimine Etkisinin İncelenmesi
+Özet: Son yıllarda artan sanayileşme ve hızlı nüfus artışı sebebiyle elektrik enerjisinin kullanımı artmaktadır. Dünya üzerinde kullanılan elektrik enerjisinin büyük bir bölümü elektrik motorlarına aittir. Bu sebeple ülkemizde ve dünyada asenkron motor verim sınıfının yükseltilebilmesi amacıyla farklı çalışmalar yapılmaktadır. Bu çalışmalara bir örnek olması amacıyla, bu makalede 7.5kW, 4 kutuplu, IE2 verim sınıfında, sincap kafesli bir asenkron motor referans alınarak, 6 farklı çift kafesli rotor oluk geometrisi için, alüminyum ve bakır iletkenleri birlikte kullanılarak verim analizleri yapılmıştır. Çalışmada Ansys Maxwell programı kullanılarak, rotor oluk şekilleri modellenmiş ve her bir tasarımın sonlu elemanlar yöntemi ile analizleri gerçekleştirilmiştir. Analizde; kalkış parametreleri, tork, akım, kayıplar vb. elde edilmiş, her bir tasarımın verim analizleri yapılmış ve sonuçlar karşılaştırmalı olarak verilmiştir. Ayrıca motor tasarımları ağırlık ve maliyet yönünden de karşılaştırılmış ve sonuçta verim sınıfı yükseltilmiş optimum bir tasarım elde edilmiştir.
+Yazar isimleri: ['Mert AKÇOMAK', 'Sibel ZORLU PARTAL']
+Yayın Yılı: 11 Aralık 2022
+Dergi ismi: EMO Bilimsel Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/emobd/issue/73772/1182567
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2681329

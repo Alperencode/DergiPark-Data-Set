@@ -1,0 +1,7 @@
+Makale Başlığı: Kanonik Huffman kod sözcükleri uzunluklarının evrim stratejileri algoritması ile belirlenmesi
+Özet: 
+Yazar isimleri: ['M. Mustafa AŞŞIK', 'Mustafa ORAL']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazimmfd/issue/72928/882745
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1586629

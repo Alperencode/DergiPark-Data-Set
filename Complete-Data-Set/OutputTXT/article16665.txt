@@ -1,0 +1,7 @@
+Makale Başlığı: SOCIOECONOMIC ASPECT OF REGIONAL DIFFERENCES IN DECLINING FERTILITY BEHAVIOR IN TURKEY / Türkiye'de Doğurganlık Davranışının Azalmasında Bölgesel Farklılıkların Sosyoekonomik Boyutu
+Özet: Türkiye'de doğurganlık hızı son yıllarda azalış göstersede bölgelere göre farklılık göstermeye devam etmektedir. Bu nedenle çalışmada, doğurganlık hızı ortalamanın üzerinde olan bölgelerde doğurganlık davranışı olasılığını etkileyen sosyoekonomik faktörlerin belirlenmesi amaçlanmaktadır. Bu kapsamda çalışmada doğurganlık davranışının sosyoekonomik boyutu, 2009-2020 dönemi için Türkiye İstatistik Kurumu’nun ikinci düzey İstatistiki Bölge Birimleri Sınıflandırması (İBBS2) verileri (Türkiye’nin 26 alt bölgesi) kullanılarak lojistik panel regresyon analiziyle araştırılmıştır. Analiz sonucuna göre doğurganlık hızı ortalamanın üzerinde olan bölgelerde doğurganlık davranışında bulunma olasılığına kadınların istihdam oranı, kişi başına gayri safi yurt içi hasıla, enflasyon oranı ve lise mezunu kadınların sayısının negatif yönde etkisi bulunmaktadır. Söz konusu bölgelerde doğurganlık davranışında bulunma olasılığına yüksekokul ve fakülte mezunu kadınların sayısı ve kentleşme oranının pozitif yönde etkisi bulunmaktayken, kadınların ortalama ilk evlenme yaşının etkisi bulunmamaktadır.
+Yazar isimleri: ['Özlem DÜNDAR']
+Yayın Yılı: 10 Ekim 2022
+Dergi ismi: Uluslararası Ekonomi İşletme ve Politika Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ueip/issue/72701/1152770
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2571168

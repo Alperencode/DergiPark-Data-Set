@@ -1,0 +1,7 @@
+Makale Başlığı: EVALUATION OF THE EFFECT OF GLOBALIZATION ON THE EURO AREA COUNTRIES’ ECONOMIC GROWTH WITH PANEL DATA ANALYSIS
+Özet: This study aims to determine whether globalization affects economic growth in Euro Area countries or not and the direction of the affect. The data used are annually and cover the period from 2000 to 2017. In the study, economic growth which is the dependent variable represents the annual GDP growth rate, and globalization which is the independent variable represents KOF globalization. Variables other than globalization that affect economic growth are included in the model as instrumental variables. These instrumental variables are labour force participation rate, foreign direct investments, external balance of goods and services and gross fixed capital formation. Eberhardt and Teal’s (2012) Augmented Mean Group Estimator (AMG) was conducted to foresee long-term coefficients. Consequently, globalization has not same effects on economic growth in each euro area country. Globalization has increasing effects on the economic growth in Italy, Portugal, Slovenia, and Spain but decreasing effect in Ireland, Lithuania and Luxembourg.
+Yazar isimleri: ['Eylül KABAKÇI GÜNAY']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Ekonomi Maliye İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/emid/issue/71146/1111894
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2408578

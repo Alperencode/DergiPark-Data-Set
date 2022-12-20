@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF CORPORATE GOVERNANCE MECHANISMS ON RESEARCH AND DEVELOPMENT COSTS: AN EXAMINATON ON BORSA ISTANBUL
+Özet: The aim of this study is to examine the impact of corporate governance mechanisms on researchand development expenditures. For this purpose, in the study, using the observation year data of 645companies operating in Borsa Istanbul between the years 2012-2020, the size of the board of directors,the ratio of independent members, the ratio of female members, the ratio of foreign members, corporateownership, managerial ownership, foreign ownership and free float which are eight different corporategovernance indicators were used. In addition, return on assets, market value/book value, debt ratio, firmsize and firm age were added as control variables in the research model. As a result of the empiricalanalysis, a negative and statistically significant relationship was obtained between the size of the boardof directors and research and development expenses; On the other hand, positive and statisticallysignificant relationships were found between return on assets, debt ratio and firm size, which are usedas control variables, and research and development expenses. 
+Yazar isimleri: ['Gamze SEVİMLİ ÖRGÜN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Batı Karadeniz Sosyal ve Beşeri Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baksoder/issue/70200/1107502
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2390673

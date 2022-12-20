@@ -1,0 +1,7 @@
+Makale Başlığı: Application of Efficiency Factors from the Industry 4.0 Perspective in Logistics with Bayesian Network Model
+Özet: Industry 4.0 is an application with a high potential that can lead to significant developments in the logistics sector, as in all sectors. It is a fact that Industry 4.0 has been studied very little in the studies related to the logistics sector until today. The benefits of monitoring market efficiency and creating innovative initiatives in order to stand out in the industry, to achieve the sustainability and gain a competitive advantage are far from any discussion. In the implementation of these creative initiatives, Industry 4.0 principles will help to come up with more suitable and realistic ideas for the conditions of the day. In order to create a Bayesian Network structure decision tree, the survey responses were evaluated, the probability values obtained were uploaded to the Netica software, case scenarios were created and analysed. The results obtained with the use of Bayesian Network technique will help the spread of Industry 4.0 applications in the logistics sector and will pave the way for up-to-date, realistic and controllable initiatives. 
+Yazar isimleri: ['İrem DUZDAR ARGUN', 'Gülşah OCAKLI']
+Yayın Yılı: 10 Haziran 2022
+Dergi ismi: Dicle Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dufed/issue/68454/1022602
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2077512

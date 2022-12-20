@@ -1,0 +1,7 @@
+Makale Başlığı: Bell Regresyon Modelinde Liu tipi Tahmin Edici
+Özet: Bu çalışmada, sayım verilerini modellemek için kullanılan Poisson regresyonmodeline alternatif olarak tanımlanan Bell regresyon modelinde çoklu iç ilişkiolması durumunda kullanılan yanlı tahmin edicilere alternatif bir tahmin ediciönerilmiştir. Bell regresyon modeli aşırı yayılım probleminin çözümü için kullanılanbir modeldir. Bell regresyon modelinin parametreleri genellikle en çok olabilirlik(EÇO) tahmin edicisi kullanılarak tahmin edilmektedir. Fakat, çoklu iç ilişkiproblemi olması durumunda EÇO tahmin edicisinin performansı düşmektedir. Busebeple, Bell Liu-tipi tahmin edicisi önerilmiştir. Önerilen Bell Liu tipi tahminedicinin performansı Bell Ridge ve Bell Liu tahmin edicileri ile Monte Carlosimülasyon çalışması yardımıyla karşılaştırılmıştır. Ayrıca, simülasyon çalışmasınadesteklemek için gerçek veri örneği verilmiştir.
+Yazar isimleri: ['Melike IŞILAR', 'Y. Murat BULUT']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufenbed/issue/73792/1119370
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2439354

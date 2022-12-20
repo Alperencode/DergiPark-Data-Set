@@ -1,0 +1,7 @@
+Makale Başlığı: Montmorillonit kili ile basic orange 2  boyar maddesinin adsorpsiyon kinetiği
+Özet: Bu çalışmada, BO2 (Basic Orange2) boyar maddesinin montmorillonit kili üzerinde adsorpsiyon kinetiği araştırılmıştır. Deneyler kesikli modda gerçekleştirilmiştir. Adsorpsiyon kinetiği çalışmaları başlangıç boyar madde konsantrasyonu, başlangıç pH değeri, karıştırma hızı, adsorbent dozu ve iyon konsantrasyonu gibi parametrelerin etkisi altında araştırılmıştır. Deneysel verilerin yalancı birinci mertebe, yalancı ikinci mertebe, Elovich ve parçacık içi adsorpsiyon kinetik modellerine uyumluluğu araştırılmıştır. Montmorillonit yüzeyinde BO2 boyar maddesinin adsorpsiyon kinetiğini verilerinin yalancı ikinci mertebe kinetiğine uyum gösterdiği belirlenmiştir. Adsorpsiyon hızının artan pH, karıştırma hızı ve iyon konsantrasyonu ile arttığı, başlangıç boyar madde konsantrasyonu ve adsorbent dozu ile azaldığı belirlenmiştir.  Montmorillonitin BO2 gibi katyonik boyar maddelerin uzaklaştırılması için uygun düşük maliyetli adsorbent olduğunu ortaya koymaktadır.
+Yazar isimleri: ['Baybars Ali FİL']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1064819
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2219849

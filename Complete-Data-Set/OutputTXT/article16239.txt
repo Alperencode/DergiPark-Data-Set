@@ -1,0 +1,7 @@
+Makale Başlığı: Investigating the Possibilities of Using Terrestrial Laser Scanners in Reverse Engineering Applications; Classic Car Example
+Özet: Reverse engineering is the process of understanding and analyzing in detail the physical structure and working principles of an object or mechanism. The main purpose of accessing data in reverse engineering is to obtain a scaled three-dimensional (3D) digital model of the object. With the developing technology, the use of terrestrial laser scanning systems in reverse engineering applications has become increasingly common. With terrestrial laser scanning systems, high precision numerical data of the object can be obtained easily. In this study, 3D modeling of a classic car was carried out with a terrestrial laser scanner. Using the obtained point cloud data, the technical drawings of some car body parts were completed and the use of terrestrial laser scanners in reverse engineering applications was investigated.
+Yazar isimleri: ['Doğa FİDAN', 'Mücahit Emre ORUÇ', 'Seda Nur Gamze HAMAL', 'Şafak FİDAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Türkiye Lidar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/melid/issue/70473/1109529
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2399408

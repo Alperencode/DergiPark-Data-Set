@@ -1,0 +1,7 @@
+Makale Başlığı: The effect of block-based game development activities on the geometry achievement, computational thinking skills and opinions of seventh-grade students
+Özet: The aim of study to investigate the effects of block-based game development activities carried out on the goal-based scenario approach on the geometry achievement and computational thinking skills of seventh-grade students and to reveal their opinions regarding the process. The study used a one-group pretest-posttest experimental model an experimental research design. Overall, 43 seventh-grade students from a district of the province of Van, Turkey, during the 2021–2022 academic year constituted the participants of the study. The participants were determined using the criterion sampling technique a purposeful sampling technique. Within the scope of the study, a goal-based scenario about the topic of polygons was presented to the students, and implementations were carried out. The Computational Thinking Skills Scale, polygons achievement test and a structured interview form were used to collect data. The quantitative data obtained were analyzed using t-test, and the qualitative data were analyzed using content analysis. The results revealed that the block-based game development activities carried
+Yazar isimleri: ['Filiz DİKKARTIN ÖVEZ']
+Yayın Yılı: 10 Aralık 2022
+Dergi ismi: Journal of Educational Technology and Online Learning
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jetol/issue/72940/1151170
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2566220

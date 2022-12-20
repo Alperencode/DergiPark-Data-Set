@@ -1,0 +1,7 @@
+Makale Başlığı: Internet Usage, Electricity Consumption and Economic Growth: Evidence from a Panel of Developing-8 Countries
+Özet: This paper attempts to estimate the short- and long-run effects of Internet usage and economic growth on electricity consumption using Developing-8 (D-8) countries panel data for the period of 1990–2013. The paper employs panel unit root test, panel cointegration test, the Pooled Mean Group (PMG) Regression technique and Dumitrescu–Hurlin (DH) causality test. The results show that Internet usage effect on electricity consumption only in the long-run. However, economic growth effects on electricity consumption in both the short- and long-run. Causality results imply that Internet use causes electricity consumption. It is clear that with the expansion of Internet usage in D-8 countries in the long-run, the electricity demand will rise as evident from our findings. Therefore, D-8 countries to response for increasing demand for electricity need to improve electricity generation efficiency. In addition, D-8 countries should consider the increasing demand for electricity and subsequently its increasing consumption will raise the level of CO2 emissions.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351235
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361776

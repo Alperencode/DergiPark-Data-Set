@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Sağlık Harcamalarının Turizm Gelirleri ve BIST Sağlık Endeksi Üzerine Etkisi
+Özet: Bu çalışmanın amacı Türkiye’de sağlık harcamalarının turizm gelirleri ve BIST Sağlık Endeksinde yer alan firmaların hisse değerleri üzerine etkisini araştırmaktır. Çalışma sağlık harcamaları bağımsız değişken, turizm gelirleri ve BIST’ te faaliyet gösteren sağlık firmalarının getirileri bağımlı değişken olarak kullanılmıştır. Bu amaçla iki farklı model oluşturulmuştur. Bu amaçla BIST’te faaliyet gösteren 4 firmanın Nisan 2011'den Temmuz 2021'e kadar aylık verileri kullanılmıştır. Çalışmada yöntem olarak ARDL uygulanmıştır. Analiz sonucunda; eşbütünleşme testi ile her iki modelde de değişkenler arasında eşbütünleşik ilişki olduğu sonucu ortaya çıkmıştır. Ayrıca uzun ve kısa dönemli katsayı tahminci sonuçlarına göre sağlık harcamaları hacmindeki genişlemenin sektördeki firmaların hisse değerlerine olumlu katkı sağladığı, sağlık harcamaları değişkenindeki artışın turizm gelirleri üzerinde azaltıcı bir etkiye neden olduğu görülmektedir.
+Yazar isimleri: ['Ahmet ŞİT', 'Nuri HACIEVLİYAGİL', 'Berna DOĞAN BAŞAR']
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: Journal of Business and Trade
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinbat/issue/70498/1034346
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2122646

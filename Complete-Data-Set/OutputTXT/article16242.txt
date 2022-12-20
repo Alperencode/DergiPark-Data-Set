@@ -1,0 +1,7 @@
+Makale Başlığı: A research on the scanning resolution of Terrestrial Laser Scanners: An indoor example
+Özet: Terrestrial laser scanning (TLS) method is a powerful method used for the collection of spatial data. With this method, fast, contactless and precise measurement of objects is ensured. Terrestrial laser scanning systems display the strength of the backscattered laser scanning signal of each point recording the 3D (3D) coordinates and an intensity value. Density values vary according to the characteristics of the measured object and the parameters of the environment. The strength of the backscattered electromagnetic signal is affected by the reflectivity of the scanned object surface, the angle of incidence, the distance between the laser scanner and the object, and the atmospheric and system-specific setting of the YLT measurement, respectively. Model-based approaches are impractical, as the details of the inter-system variation of the signal are often unknown to the user. In this study, the combination of point cloud data obtained by using different scanning options with different aggregation methods and the data quality of these data were examined.
+Yazar isimleri: ['Ceyda ULVİ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Türkiye Lidar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/melid/issue/70473/1130366
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2484963

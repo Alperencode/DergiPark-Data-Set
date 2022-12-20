@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship between Energy Consumption, Economic Growth and Carbon Dioxide Emission: The Case of South Africa
+Özet: This paper investigates the relationship between energy consumption, carbon dioxide emission, economic growth, trade openness and urbanisation for South Africa. The annual data for the period between 1971 and 2013 is employed. The results of Johansen test of co-integration show that there is a long run relationship between energy consumption, carbon dioxide emission, economic growth, trade openness and urbanization in South Africa. The results for the existence and direction of Vector Error Correction Model (VECM) Granger causality indicates that there is bidirectional causality flowing between energy consumption and economic growth in the long run. The VECM results further found a unidirectional causality flowing from carbon dioxide emissions, economic growth, trade openness and urbanisation to energy consumption and from energy consumption, carbon dioxide emissions, trade openness and urbanisation to economic growth. These results posit a fresh perspective for creating energy policies that will boost economic growth in South Africa.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351229
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361770

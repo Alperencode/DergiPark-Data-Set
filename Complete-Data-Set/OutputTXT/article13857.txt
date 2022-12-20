@@ -1,0 +1,7 @@
+Makale Başlığı: Eşya Kavramını Yeniden Düşünmek: NFT’lerin Eşya Niteliği Ve Eşya Hukuku Bakımından Geleceği Üzerine Bir İnceleme
+Özet: Blokzinciri teknolojisindeki gelişmeler kısaca NFT olarak adlandırılan ve benzeri olmayan dijital varlıkları meydana getirmiştir. Genellikle dijital sanat eserleri olarak anlaşılsa da, NFT’lerin kullanılma potansiyeli olan alanlar bununla sınır-lı değildir. NFT’lere olan yoğun ilgi, beraberinde muhtelif hukuki tartışmaları getirmektedir. Bu tartışmalar içerisinde NFT’lerin eşya sayılıp sayılamayacakları meselesi başı çekmektedir. Bunun yanında, taşınır ve taşınmaz eşyaların tokenler ile temsil edildiği bir dijital mülkiyet tasavvuru öngören “tokenizasyon” kav-ramı da hızla gündemdeki yerini almaktadır. Almanya ve İsviçre’de kıymetli evrak hukuku alanında kripto tokenlerin önünü açan düzenlemelerden sonra, eşya hukuku alanında da bunun mümkün olup olamayacağı üzerine fikir yürütülmeye başlanmıştır. Ayrıca Lihtenştayn’ın mülkiyet hakkının tokenizasyonuna izin veren bir yasal düzenlemeye gitmesi dikkat çekicidir. Bununla birlikte, mevcut hukuk kurallarının gerek NFT’lerin eşya sayılması gerekse de mülkiyet hak-kının tokenizasyonu için elverişli olup olmadığı üzerinde durmak gerekmektedir.
+Yazar isimleri: ['Numan TEKELİOĞLU']
+Yayın Yılı: 15 Eylül 2022
+Dergi ismi: Selçuk Üniversitesi Hukuk Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/suhfd/issue/72475/1124648
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2461007

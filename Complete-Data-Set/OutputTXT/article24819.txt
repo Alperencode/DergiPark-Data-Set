@@ -1,0 +1,7 @@
+Makale Başlığı: GPS-PPP ve GPS/GLONASS-PPP Yöntemlerinin Konum Belirleme Performanslarının Ölçü Süresine Bağlı Olarak Değerlendirilmesi
+Özet: Bu makalede, Hassas Nokta Konumlama (Precise Point Positioning - PPP) yönteminin yüksek duyarlıklı konumbilgisi gerektiren çalışmalarda ölçü süresine bağlı konum belirleme performansının hem GPS ölçüleri hem deGPS/GLONASS ölçüleri kullanılarak araştırılması hedeflenmiştir. Bu amaçla, düşük (ekvator), orta ve yüksek(kutup) enlem olmak üzere 3 farklı enlem bölgesinde seçilen 3 IGS noktasına ilişkin 30 günlük ardışık 24 saatlik(günlük) RINEX verileri kullanılmıştır. Her bir noktaya ilişkin 24 saatlik RINEX verileri 1, 2, 3, 4, 8 ve 12 saatlikdilimlere ayrılarak yeni veri setleri elde edilmiştir. Daha sonra tüm veri setleri yalnızca GPS ve GPS/GLONASSölçüleri, web tabanlı online CSRS-PPP yazılımı kullanılarak değerlendirilmiştir. Tüm veri setlerine ait GPS-PPPve GPS/GLONASS-PPP sonuçları hem doğruluk hem de tekrarlılık açısından ölçü süreleri de dikkate alınarakkarşılaştırmalı bir yaklaşımla değerlendirilmiş ve yorumlanmıştır
+Yazar isimleri: ['Cemal Özer YİĞİT']
+Yayın Yılı: 30 Nisan 2016
+Dergi ismi: Harita Teknolojileri Elektronik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hartek/issue/17324/180939
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/160345

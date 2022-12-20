@@ -1,0 +1,7 @@
+Makale Başlığı: SAĞLIK KURUMLARINDA MEDİKAL MUHASEBE SÜREÇLERİ
+Özet: Sağlık sektöründe artan rekabet nedeniyle sağlık yöneticileri daha çok hastane giderlerini azaltmaya ve ticari değeri olan sağlık hizmeti sunumuna odaklanırken, sunulan sağlık hizmetlerinin tam ve eksiksiz bir şekilde geri ödeme kurumlarına fatura edilip edilmediği yeterince analiz edilmemektedir. Hâlbuki, hizmet üretiminde kullanılan kaynakların tam karşılığını yansıtmayan bir gelir tahakkuku, giderlerin oluşturduğu ekonomik kayıplardan daha fazla zarara neden olabilmektedir. Bu çalışmanın amacı, sağlık kurumlarının yönetim muhasebesi alanında yeni bir kavram olarak duyulmaya başlanan “Medikal Muhasebe”nin önemine vurgu yaparak, sağlık hizmeti sunumu ile ilgili faaliyetlerin Sağlık Uygulama Tebliği (SUT) ve faturalama kurallarına uygun bir şekilde muhasebeleştirilmesi ve gelir kayıplarının önlenebilirliği noktasında sağlık yöneticilerinin farkındalığını artırmak ve böylece başarılı bir sağlık yönetimi için katkı sunmaktır
+Yazar isimleri: ['Özer ARIK', 'Fatma Özlem YILMAZ']
+Yayın Yılı: 16 Ağustos 2021
+Dergi ismi: Necmettin Erbakan Üniversitesi Sağlık Bilimleri Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/neufhsj/issue/64506/800511
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1311276

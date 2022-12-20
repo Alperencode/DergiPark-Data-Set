@@ -1,0 +1,7 @@
+Makale Başlığı: An Investigation on Fatty Acid Compositions of Three-Generation Biodiesel Fuels
+Özet: Biodiesel’s fuel properties affecting engine performance, combustion and emission characteristics significantly depend on the feedstock from which it is produced. The most important parameter which influences the feedstock properties is its fatty acid composition. Fatty acid chain length, unsaturation level, and the type of unsaturated bonds have significant impacts on the feedstock and therefore on biodiesel fuel properties. Biodiesel is generally divided into three generations, depending on its feedstock. In this experimental study, twelve different biodiesel fuels covering three generations were produced, their fatty acid distributions were determined and compared with each other. It has been determined that the biodiesel obtained from coconut oil had quite different fatty acid distribution compared to other biodiesel fuels. Coconut biodiesel, palm biodiesel and cottonseed oil biodiesel fuels were in the first three order in terms of saturated fatty acid content, while algal oil biodiesel had the lowest saturation level.
+Yazar isimleri: ['Hüseyin ŞANLI', 'Fevzi YAŞAR']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of the Turkish Chemical Society Section B: Chemical Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jotcsb/issue/70634/1192434
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2722174

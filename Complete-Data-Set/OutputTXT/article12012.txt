@@ -1,0 +1,7 @@
+Makale Başlığı: ÇEVRESEL KUZNETS EĞRİSİ HİPOTEZİ’NİN TÜRKİYE’DE GEÇERLİLİĞİNİN TESTİ
+Özet: Bu çalışmada Çevresel Kuznets Eğrisi Hipotezi’nin Türkiye’de 1967-2015 yılları arasında geçerliliği fourier temelli analizlerle test edilmiştir. Veri seti olarak ekonomik büyümeyi temsilen reel gayri safi yurt içi hasıla, çevresel bozulmayı temsilen karbon emisyonu değerleri kullanılmıştır. Analiz sonuçlarına göre ekonomik büyüme ve çevresel bozulma ilişkisinin ters U formunda olduğu Türkiye’de Kuznetz Eğrisi hipotezinin geçerli olduğu kanıtlanmıştır.
+Yazar isimleri: ['Semra DEMİR GÜLBAHAR', 'Sevinç ŞAHİN DAĞLI', 'İsmail ÇELİK']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Muhasebe ve Finans İncelemeleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mufider/issue/72704/1133427
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2497513

@@ -1,0 +1,7 @@
+Makale Başlığı: Classification of Chest X-ray COVID-19 Images Using the Local Binary Pattern Feature Extraction Method
+Özet: Background and Purpose: COVID-19, which started in December 2019, caused significant loss of life and economic losses. Early diagnosis of the COVID-19 is important to reduce the risk of death. Therefore, studies have increased to detect COVID-19 with machine learning methods automatically. Materials and Methods: In this study, the dataset consists of 15153 X-ray images for 4961 patient cases in three classes: Viral Pneumonia, Normal and COVID-19. Firstly, the dataset was preprocessed. And then, the dataset was given to the Cubic Support Vector Machine (Cubic SVM), Linear Discriminant (LD), Quadratic Discriminant (QD), Ensemble, Kernel Naive Bayes (KNB), K-Nearest Neighbor Weighted (KNN Weighted) classification methods as input data. Then, the Local Binary Model (LBP) texture operator was applied for feature extraction. Results: These values were increased from 94.1% (without LBP) to 98.05% using the LBP method. The Cubic SVM method's highest accuracy was observed in these two applications. Conclusions: This study demonstrates that the performance of the presented methods with LBP feature extraction is improved.
+Yazar isimleri: ['Narin ASLAN', 'Sengul DOGAN', 'Gonca ÖZMEN KOCA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1092676
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2329768

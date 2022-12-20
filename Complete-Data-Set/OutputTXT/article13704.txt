@@ -1,0 +1,7 @@
+Makale Başlığı: DENETİMDE DİJİTAL DÖNÜŞÜM: BİLİMETRİK BİR İNCELEME
+Özet: COVID-19 pandemisinin de etkisiyle teknolojik gelişmelerin hızlandığı ve hayatın hemen her alanında ciddi değişimlere yol açtığı bir dönemde denetim mesleği de kaçınılmaz olarak bu değişimden etkilenmektedir. Özellikle son yıllarda hız kazanan dijital dönüşüm, denetimin kapsamını, metodolojisini ve denetçilerin rolünü büyük ölçüde yeniden şekillendirmektedir. Bu çalışmanın amacı, denetimde dijital dönüşüm üzerine yapılan akademik makaleleri analiz ederek, gelişmenin yönünü ve temel dinamiklerini ortaya koymaktır. Çalışmada bilimetrik ve içerik analizi yaklaşımları birlikte kullanılarak Scopus veri tabanından elde edilen veriler değerlendirilmiş ve VOSviewer programı aracılığıyla görselleştirilmiştir. Bilimetrik analiz yöntemiyle hem yayın hem de atıf açısından kıyaslamalar yapılmış; içerik analizi sonucunda ise teknolojik yenilik, bilgi teknolojisi, denetim, veri analitiği, sürekli denetim, raporlama ve yönetişim olmak üzere yedi araştırma alanının ön plana çıktığı tespit edilmiştir. Ayrıca son birkaç yılda teknolojik yeniliklerin hız kazanmasından dolayı, akademisyenlerin de denetimde dijital dönüşümü merkezi bir konuolarak görmekte olduğu sonucuna ulaşılmıştır
+Yazar isimleri: ['Gül YEŞİLÇELEBİ']
+Yayın Yılı: 21 Ekim 2022
+Dergi ismi: Sayıştay Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sayistay/issue/73158/1143867
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2538674

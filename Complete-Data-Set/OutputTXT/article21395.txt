@@ -1,0 +1,7 @@
+Makale Başlığı: Implicit relation-based question answering to answer simple questions over  DBpedia
+Özet: RDF-based question answering systems give users the capability of natural language querying over RDF data.  In order to respond to natural language questions, it is necessary that the main concept of the question be interpreted  correctly, and then it is mapped to RDF data. A natural language question includes entities, classes, and implicit and  explicit relationships. In this article, by focusing on identification and mapping of implicit relationships in the question   in addition to the explicit relationships , the mapping step has been improved. In the proposed solution  IRQA , entities  and implicit/explicit relationships are identified by means of the provided rules and then will be presented as a graph.  In the next phase, according to the determined priority of graph nodes, unknown nodes and their adjacent relationships  are mapped to their peers in the RDF dataset. The proposed solution is evaluated on the QALD-3 test set. The results  prove that the proposed work has improved performance in mapping implicit relationships and reveals higher precision  and F-measure values.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739709
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110719

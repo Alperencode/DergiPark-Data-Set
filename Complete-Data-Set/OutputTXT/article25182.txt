@@ -1,0 +1,7 @@
+Makale Başlığı: A Dual Operation of PV-Statcom as Reactive Power Compensator and Active Power Injector in Grid Tie System: Power Quality
+Özet: The Green Energy Resources like Solar and Wind energy sources are playing a vital role to reach the capital power demand. The distribution system consist almost all reactive and sensitive loads, which may cause the power quality concerns like reactive power demand, low power factor, harmonic currents and etc. in power system. Reactive power is a determinant factor for efficient and effective operation of electric power system, so that the power engineers are concentrating to manage the reactive power at desired level. This article describes the dual operation of PV Solar plant as PV-Statcom for active power (P) and reactive power (Q) injection and absorption for power quality improvement in grid integrated proposed system. The PV-Statcom control pattern for enlarging quality of power is simulated in MATLAB/Simulink.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167882
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/147985

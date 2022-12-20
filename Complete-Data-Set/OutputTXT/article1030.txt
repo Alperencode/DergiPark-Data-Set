@@ -1,0 +1,7 @@
+Makale Başlığı: The Myth of the Environmental Kuznets Curve: Second Generation Panel Approach for MIST Countries
+Özet: The focus of the empirical analysis in this paper is to investigate the orthodox idea of “grow first, clean next” promoted by the Environmental Kuznets Curve hypothesis. In this respect, we examined the relation between CO2 emissions and economic growth for MIST countries for the period spanning from 1971 to 2016. With the help of second-generation panel data techniques, we employed the PANICCA unit root test, Durbin-Hausman Panel Cointegration test, and used the AMG estimator approach. The results strongly support a monotonously increasing relationship between CO2 emissions and economic growth. For the entire group and individually for Indonesia and Turkey, CO2 emissions per capita rise perilously as real GDP per capita increases.
+Yazar isimleri: ['Sevginaz IŞIK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1018273
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2060353

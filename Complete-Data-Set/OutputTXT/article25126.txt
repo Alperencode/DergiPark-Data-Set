@@ -1,0 +1,7 @@
+Makale Başlığı: Network Traffic Classification via Kernel Based Extreme Learning Machine
+Özet: 
+Yazar isimleri: ['Fatih Ertam', 'Engin Avcı']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/267522
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/234126

@@ -1,0 +1,7 @@
+Makale Başlığı: Borik Asit (H3BO3) Kullanılarak Üretilen Saf Çinko ve Çinko Alaşımı (ZA27) Köpük Malzemelerin Basma Davranışlarının İncelenmesi
+Özet: Bu çalışmada, toz metalürjisi yöntemi kullanılarak ağırlıkça %50 boşluk oluşturucu olarak borik asit (H3BO3) ilavesiyle üretilen saf Zn ve Zn alaşımı (ZA27) köpük malzemelerin, makro yapısal ve mikro yapısal karakterizasyonu yanı sıra basma mukavemetleri araştırılmıştır. Köpük malzemelerden saf Zn köpükler, 300, 420 ve 630 MPa'lık farklı basınçlarda, Zn alaşımı köpük malzemeleri 630 MPa basınçta preslenmiş ve 70 dk boyunca 350 ° C'de sinterlenerek elde edilmişlerdir. Bu köpüklerden başarılı olarak elde edilen köpük malzemelerin 0.5 mm/dk basma hızındaki mekanik davranışları incelenmiştir. Sonuçlar, ZA27 alaşımı köpük malzeme için akma geriliminin ve plato geriliminin sırasıyla 7 MPa ve 6 MPa aralığında olduğunu göstermektedir. %40 ve %46 gözeneklilik içeren saf Zn ve ZA27 alaşımı köpük numuneleri 85 μm ve 600 μm ortalama hücre boyutlarıyla başarıyla üretilmiştir. Köpük numunelerdeki fazların morfolojisi ve kimyasal bileşimi, Taramalı Elektron Mikroskopisi (SEM), Enerji Dağılımlı X-ışını Spektroskopisi (EDX) ve X-ışını kırınımı (XRD) kullanılarak araştırılmıştır.
+Yazar isimleri: ['Neşe ÖZTÜRK KÖRPE', 'Seda KİREMİTCİ']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/991967
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1960436

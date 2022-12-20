@@ -1,0 +1,7 @@
+Makale Başlığı: ANALYSIS OF LARGE-SCALE PATH LOSS MODEL AT 33 GHZ IN INDOOR LABORATORY ENVIRONMENT
+Özet: In this study, two important large-scale path loss models, which are Close-In (CI) model with free space reference distance and Float Intercept (FI) model, were compared in indoor laboratory scenario for fifth-generation (5G) radio systems. Comparisons are conducted using a ray-tracing-based simulation environment at ten different measurement points, at 33 GHz center frequency, and distances between 1,5 to 9 m. According to the results obtained, the one-parameter CI model is simpler and more consistent than the two-parameter FI model. CI model offers better simulation accuracy, greater simplicity, and better iterability between experiments, besides better adaptation to both line-of-sight and non-line-of-sight conditions. In addition, the CI model exhibit high stability at wide frequency ranges.
+Yazar isimleri: ['Cihat ŞEKER', 'Muhammet Tahir GUNESER']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ticaretfbd/issue/70676/954475
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1832004

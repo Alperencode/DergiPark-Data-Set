@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship Between Age Dependency Ratio and Imports: VAR and Granger Causality Analysis for Türkiye
+Özet: Although Türkiye's age dependency ratio drops annually, a decrease in birth rate may increase the economic pressure on young and adults. In this context, the relationship between imports and age dependency ratio was examined in the study. Considering the expectation that the age dependency ratio will increase, determining how it will affect foreign trade is the focus of the study. In this scope, the causal relationship was examined through econometric analysis. In the first stage, correlogram examination and stationarity analysis was performed. The optimal lag length is then determined by the Vector Otoregression (VAR) analysis. Finally, the relationship between the variables was tested by using Granger causality procedure. The study concluded that there was a one-way relationship from imports to age dependency. Although import can affect the age dependency ratio, it increases the foreign trade deficit. For this, policymakers can implement policies that encourage the domestic production of imported products.
+Yazar isimleri: ['Görkem YILDIRIM']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Anadolu İktisat ve İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anadoluiid/issue/73076/1165965
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2612024

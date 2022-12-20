@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of Deposition Temperature on the Properties of Copper-Zinc Sulphide Thin Films using Mixed Copper and Zinc Dithiocarbamate Precursors
+Özet: The influence of deposition temperatures on the structural, elemental, optical and electrical properties was investigated. The Rutherford backscattering (RBS) and scanning electron microscopy (SEM) were used to measure the elemental and morphological properties of the films. The RBS confirms that the stoichiometry was controlled by the deposition temperatures with a thickness that ranged between 51.00 to 63.00 nm. SEM data of the deposited films show different morphologies with several grains that increased with deposition temperature. Optical characterization shows that the films exhibited a direct transition with an energy gap that varies from 1.79 to 2.10 eV. For copper-zinc sulphides (CZS) film deposited at 470 ᴼC, the maximum electrical conductivity was 7.38 × 10-2 (Ω.cm)-1and minimum electrical resistivity was 1.35 × 101 (Ω.cm). The results confirm the possibility of using copper and zinc dithiocarbamate precursors in depositing high-quality CZS thin films with comparable properties.
+Yazar isimleri: ['Joseph EMEGHA', 'Bolutife OLOFİNJANA', 'Kingsley UKHUREBOR', 'Uyiosa AİGBE', 'Samuel AZİ', 'Marcus ELERUJA']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/887025
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1602820

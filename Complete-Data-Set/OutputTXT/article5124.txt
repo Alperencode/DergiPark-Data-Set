@@ -1,0 +1,7 @@
+Makale Başlığı: Cilt Kanseri Görüntü Sınıflandırması için Görüntü Ön İşlemenin Evrişimsel Sinir Ağları Performansı Üzerindeki Etkileri
+Özet: Cilt kanseri, dünya çapında yaygın olarak karşılaşılan kanser türleri arasındadır. Günümüzde pek çok kanser vakasının yanlış ya da geç teşhisi sonucunda, hasta ölümleri de dahil olmak üzere ciddi problemler yaşanmaktadır. Bu çalışmada, evrişimli sinir ağlarını kullanarak cilt kanseri sınıflandırması problemini ele almaktayız. Çalışmadaki temel amacımız farklı öğrenme mimarilerini karşılaştırmak yerine, görüntüleri farklı ön işlemlere tabi tutup, bu işlemin kullanılan mimari performansına etkisini incelemektir. Bu amaç doğrultusunda, ISIC 2018 Cilt Görüntü Analizi Yarışması’na ait veri seti kullanılarak, iki farklı görüntü ön işleme yöntem dizisi ResNet50 mimarisi için uygulanmıştır. Bunlardan birincisinde sırasıyla ikili ve otsu eşikleme, CLAHE dönüşümü uygulanırken, ikincisinde morfolojik filtreleme, renk normalizasyonu ve dolgu işlemleri uygulanmıştır. F1 Puanı başta olmak üzere farklı performans metrikleri baz alındığında, cilt kanseri görüntüleri üzerinde ikinci ön işleme yöntem dizisinin performans iyileştirmesi yapabildiği gösterilmiştir.
+Yazar isimleri: ['Beyhan ADANUR DEDETURK', 'Kasım TAŞDEMİR', 'Burcu BAKİR-GUNGOR']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/1114928
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2420701

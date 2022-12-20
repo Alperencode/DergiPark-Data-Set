@@ -1,0 +1,7 @@
+Makale Başlığı: OLEG A. TRETYAKOV’UN SON ÇALIŞMASININ BİR UZANTISI: SI BİRİM SİSTEMİNDE YENİ BİR DALGA DENKLEMİ FORMATI
+Özet: Profesör Oleg Alexandrovich Tretyakov, radyofizik alanında Elektromanyetik Teoriye Evrimsel Yaklaşım’ın (ETEY) kurucusu olarak tanınmaktadır. Frekans domeni metodlarına bir alternatif olarak kabul edilen Tretyakov’un analitik zaman domeni metodu, kavite ve dalga kılavuzu problemlerine başarıyla uygulanmıştır. Son yıllarında, elektrik ve manyetik alan şiddet vektörlerinin bir bölü metre'lik ortak bir fiziksel boyuta sahip olduğu, SI birimler sisteminde yeni bir Maxwell denklemler formu önermiştir. Bu makalede, istisna kariyerine ve bilime yaptığı katkılara özel bir saygı sunarak önerdiği yeni formdaki Maxwell denklemler sisteminden faydalanarak SI birimler sisteminde yeni bir dalga denklemi formu öneriyoruz.
+Yazar isimleri: ['Fatih ERDEN', 'Ahmet Arda ÇOŞAN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of Naval Sciences and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnse/issue/73602/1180061
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2670559

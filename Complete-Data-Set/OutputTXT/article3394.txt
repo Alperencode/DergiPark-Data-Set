@@ -1,0 +1,7 @@
+Makale Başlığı: Ideal convergence of a sequence of Chebyshev radii of sets
+Özet: In this paper, we investigate the diameters, Chebyshev radii, Chebyshev self-radii and inner radii of a sequence of sets in the normed spaces. We prove that if a sequence of sets is I -Hausdorff convergent to a set, the sequence of Chebyshev radii of that sequence is I-convergent. Similar relations are showed for the sequence of diameters, Chebyshev self-radii and inner radii of that sequence.
+Yazar isimleri: ['Hüseyin ALBAYRAK']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/1123739
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2457375

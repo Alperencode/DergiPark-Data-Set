@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation Of Financial Performance Indicators Affecting Corporate Sustainability of Participation Banks
+Özet: The aim of this study is to determine the financial characteristics of participation banks with good sustainability performance by examining the financial performance indicators. Data of 30 banks/year covering the years 2015-2020 of 5 participation banks operating in Turkey were used. As a result of the analysis made with the panel data method, the financial performance ratio, which has the highest impact on the corporate sustainability of participation banks, is the ratio of profit before tax to assets. In addition, there is a statistically significant and positive relationship between the corporate sustainability of participation banks, the profitability of active resources and the size of participation banks. Therefore, as the profitability and size of participation banks increase, their sustainability increases.
+Yazar isimleri: ['Fatih AKBAŞ', 'Ferudun KAYA']
+Yayın Yılı: 27 Nisan 2022
+Dergi ismi: Maliye ve Finans Yazıları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mfy/issue/69611/1069368
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2237317

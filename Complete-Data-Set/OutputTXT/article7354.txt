@@ -1,0 +1,7 @@
+Makale Başlığı: B.-Y. Chen's Inequality for Kähler-like Statistical Submersions
+Özet: In this paper, we first define the notion of Lagrangian statistical submersion from a K\"ahler-like statistical manifold onto a statistical manifold. Then we prove that the horizontal distribution of a Lagrangian statistical submersion is integrable. Next, we establish Chen-Ricci inequality for Lagrangian statistical submersions from K\"ahler-like statistical manifolds onto statistical manifolds and discuss the equality case of the obtained inequality through a basic tensor introduced by O'Neill that plays the role of the second fundamental form of an isometric immersion. At the end, we give a nontrivial example of a K\"ahler-like statistical submersion.
+Yazar isimleri: ['Aliya Naaz SIDDIQUI', 'Siraj UDDİN']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1006287
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2015923

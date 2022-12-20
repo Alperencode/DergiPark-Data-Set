@@ -1,0 +1,7 @@
+Makale Başlığı: ANALYSIS OF THE CORRELATION BETWEEN CRYPTO CURRENCIES, S&P500 AND US 10-YEAR TREASURY BOND INDEX WITH GRANGER CAUSALITY TEST
+Özet: 
+Yazar isimleri: ['Cem KARTAL', 'Ümran ÖZTÜRK CAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Yönetim ve Ekonomi Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yead/issue/72052/1080595
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2280946

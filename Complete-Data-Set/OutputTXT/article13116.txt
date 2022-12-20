@@ -1,0 +1,7 @@
+Makale Başlığı: İklim Değişikliğinin Su Kaynaklarına Etkisinin Çok Zamanlı Uydu Görüntüleri ile İncelenmesi
+Özet: Son zamanlarda iklim değişikliğinin bir sonucu olarak gelişen kuraklığın, tarımsal ve hidrolojik etkileri sonucu meydana gelen sosyo ekonomik kuraklığın tüm hayatı olumsuz etkilediği görülmektedir. Bu araştırma makalesinde; Türkiye’de bulunan göl ve barajların belli bir zaman içerisinde yüzeyden verdikleri su kaybı veya kazancı ve genel yüzölçümlerinin değişimi incelenmiştir. Araştırmada örnek olarak ele alınan Düden Gölü, Gölköy Baraj Gölü, Bademli Baraj Gölü ve Burdur Gölü olmak üzere toplam dört göl incelenmiştir. İnceleme Google Earth Pro uygulaması üzerinden yapılmıştır. 2011, 2015 ve 2021 yıllarındaki yüzölçümler karşılaştırılmıştır. Yapılan ölçüm sonucunda elde edilen bulgulara göre Düden Gölünün son on bir yıldaki su kaybının %3.4, Gölköy Baraj Gölünün son yedi yıldaki su kaybının %24.6, Burdur Gölünün son yedi yıldaki su kaybının %10.3 ve Bademli Baraj Gölünün son on bir yıldaki su kaybının %73.1 seviyelerine ulaştığı tespit edilmiştir.
+Yazar isimleri: ['Gürdoğan DOĞRUL', 'Murat ALKAN']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/1169913
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2627938

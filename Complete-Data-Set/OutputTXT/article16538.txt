@@ -1,0 +1,7 @@
+Makale Başlığı: ROC Analizi ve R Yazılımı ile Verilerin Sınıflama Doğruluklarının Karşılaştırılması
+Özet: ROC analizi, bir tanı testi olarak, bir sınıflandırıcıyı temsil eden sürekli bir değişkenin ayırt edici performansını değerlendirmek için sıkça kullanılır. Verilerin sınıflandırılmasında, kümelenmesinde kullanımı artan bir diğer program ise R Studio ortamıdır. Bu araştırmada her iki istatistiksel analizden yararlanarak, daha önceden var olan kesme puanlarla aynı veri grubu üzerinde aynı özelliği belirlemedeki sınıflandırma doğruluklarının incelenmesi amaçlanmıştır. Programlama diline de uygun olan ve araştırmacı tarafından üretilen simülatif veri üzerinden araştırma yürütülmüştür. Araştırma, 1500 kişilik veri seti üzerinden ROC ve R ortamında gerçekleştirilmiştir. Ayrıca, veri grubundan çekilen 25 kişilik bir yargıcı grubu üzerinden de veriler tekrar ikinci bir analizle incelenmiştir. Yargıcıların sınıflama doğruluklarına Öklid uzaklığı ile bakılmıştır. Araştırma sonucunda AUC=0.73 olarak hesaplanmıştır (p
+Yazar isimleri: ['Fazilet TAŞDEMİR']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Ulusal Eğitim Akademisi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uead/issue/73165/1166987
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2615957

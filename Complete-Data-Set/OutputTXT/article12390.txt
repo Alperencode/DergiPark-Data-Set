@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’deki Ulaşımda Enerji Talebinin Sağlam İstatistiksel Yöntemler İle Araştırılması
+Özet: Toplumların nüfuslarının ve kalkınma düzeylerinin artması buna bağlı olarak, taşıt sayılarının ve seyahat eden kişi sayılarının da artmasıyla, dünyadaki enerji talebi de artmaktadır. Türkiye’nin enerji kaynaklarının sınırlı olması sebebiyle, sürekli artan enerji talebini ve tüketimini karşılaması gerekmektedir. Türkiye, petrol ve sıvı yakıt ithalatı ile enerji talebini ve tüketimini karşılamaktadır. Enerji ile ilgili talep ve tüketim modellerinin kurulması önemli bir adım olarak karşımıza çıkmaktadır. Bu çalışmada, regresyon analizi tekniği yaklaşımlarından olan sağlam regresyon analiziyle, Türkiye’nin ulaşıma enerji talebi değerlendirilmiştir. Tüm yöntemler içinde, en iyi yöntemin Kantil regresyonu 0.50 olduğu belirlenmiştir. EKK yöntemine göre, Ton-Km, Araç-Km, Yolcu-Km ve Petrol fiyatı değişkenlerinin ulaşım enerjisini açıklama oranının %85,6 olduğu belirlenmiştir. Kantil regresyonu 0.50 yöntemi uygulandığında, Ton-Km, Araç-Km, Yolcu-Km ve Petrol fiyatı değişkenlerinin ulaşım enerjisini açıklama oranının %90,5 olduğu görülmektedir.
+Yazar isimleri: ['Ebru GÜNDOĞAN AŞIK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Nicel Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nicel/issue/70428/1010981
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2031561

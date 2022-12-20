@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF SPORTS TEAM REPUTATION ON PSYCHOLOGICAL COMMITMENT: EXAMPLE OF HANDBALL SPECTATORS
+Özet: The purpose of this research is to examine the Effect of Sports Team Reputation on Psychological Commitment. The research team consisted of the spectators of the teams competing in the Turkish handball league, and the sample consisted of 487 people, 168 women and 319 men. Developed by Mahony et al. (2000) and Eskiler et al. (2011) adapted into Turkish by the Team Psychological Commitment Scale and Wonseok et al. (2015) and adapted into Turkish by Yavuz Eroğlu and Eroğlu (2020) Audience Based Sports Team Reputation Scale was used. Team Psychological Commitment Scale and Spectator-Based Sports Team Reputation Scale is a 7-point Likert type scale. R, an open source statistical software program, was used in all statistical analyzes. Descriptive statistical analysis, t test, ANOVA test and multiple correlation analysis were used in the analysis of the data. As a result of the research, a significant difference was found between team reputation and gender of handball fans. In addition, it was determined that there was a negative relationship between the psychological commitment of the fans to their team and their age.
+Yazar isimleri: ['Ahmet DİNÇ', 'Selami KARUÇ', 'Ahmet Nusret BULGURCUOĞLU', 'Nevzat DİNÇER']
+Yayın Yılı: 22 Ağustos 2022
+Dergi ismi: Beden Eğitimi ve Spor Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsd/issue/72189/1149829
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2561433

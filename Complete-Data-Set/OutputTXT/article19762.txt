@@ -1,0 +1,7 @@
+Makale Başlığı: BIBLIOMETRIC ANALYSIS OF STUDIES ON RURAL TOURISM WITH A CRITICAL PERSPECTIVE
+Özet: Rural tourism is one of the most studied issues by researchers in recent years. In this study, articles on rural tourism published in journals on the Dergipark in Turkey were examined by bibliometric analysis method. Research data were collected from journals published until 30 June 2021 on the Dergipark platform. “Title”, “Scope” or “Keywords” of articles were used to collect data. A total of 152 articles, 142 in Turkish and 10 in English, related to the words “rural tourism” in Turkish or English, in accordance with the specified criteria, were reached. The data were analyzed with descriptive analysis technique within the scope of content analysis. As a result, by considering the findings, critical comments and reviews were revealed.
+Yazar isimleri: ['Mahmut DEMİR', 'Serap ARACI']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Applied Tourism Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jator/issue/68723/1053831
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2176602

@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Antigenotoxic Effects of Althaea officinalis L. in Drosophila Melanogaster
+Özet: In this study, the antigenotoxic effect of Althaea officinalis L., which is a medicinal plant and is widely used in the treatment of many diseases, was studied. For this reason, the Drosophila wing spot test (SMART), an in vivo test that measures somatic mutation and recombination, was used. The antigenotoxic effect of A. officinalis against the mitomycin C (MMC) mutagen was investigated. After application studies, it was determined that 5 mg, 15 mg and 45 mg doses of dried herba of A. officinalis, could suppress DNA damage caused by MMC. As a result of the application of 5mg, 15mg and 45mg doses it was determined that the total number of spots induced by MMC was inhibited by 3.66%, 1.83% and 2.03%, respectively. According to the data obtained, it is thought that A. officinalis contains some antigenotoxic factors.
+Yazar isimleri: ['Aygül KILIÇ KARABULUT']
+Yayın Yılı: 14 Kasım 2022
+Dergi ismi: İnönü Üniversitesi Sağlık Hizmetleri Meslek Yüksek Okulu Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/inonusaglik/issue/73147/1065686
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2223050

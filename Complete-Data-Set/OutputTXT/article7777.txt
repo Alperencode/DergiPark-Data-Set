@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı Oranlarda Fe2O3 (Maghemit) Nanopartikülleri Kullanılarak Hazırlanan Poli Vinil Klorür Kompozitlerinin Manyetik Özelliklerinin İncelenmesi
+Özet: Polivinil klorür (PVC) ve farklı oranlarda Fe2O3 nanoparçacıkları kullanılarak kompozitler hazırlandı. Tüm kompozitler FT-IR spektroskopisi ile karakterize edildi. Ardından, %1 ve %10 oranlarında hazırlanan kompozitlerin termal özellikleri incelendi. Fe2O3 nanopartikül ilavesi ile hazırlanan PVC kompozitlerin başlangıç bozunma sıcaklığı (Ti) değerlerinin saf PVC'ye göre daha düşük olduğu görüldü. Titreşimli numune manyetometresi (VSM) ile kompozitlerin manyetik özellikleri incelendi. %1 ve %10 Fe2O3 kullanılarak hazırlanan PVC kompozitlerin doygunluk manyetizasyon değerleri sırasıyla 2,77 ve 7,06 emu/g bulundu.
+Yazar isimleri: ['Mustafa Ersin PEKDEMİR', 'Mehmet Fatih COŞKUN', 'Demet COŞKUN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Pure and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijpas/issue/70506/993988
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1968778

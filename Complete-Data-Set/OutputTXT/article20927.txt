@@ -1,0 +1,7 @@
+Makale Başlığı: THE RELATIONSHIP BETWEEN THE EUROPEAN UNION AND THE UNITED STATES OF AMERICA’S AIRCRAFT ACCIDENTS STATISTICS
+Özet: Purpose- The motivation of this research is to determine whether there is a relationship between the number of accidents in the European Union and the United States.Methodology- In the study, transparently published data from the United States of America and the European Union were examined and used. In the evaluation of the data, independent samples t-test analysis method was used. The data covers the period from 2009 until 2018 so that the crisis created by the pandemic in the aviation sector does not adversely affect the results of the study. Due to the difficulty of obtaining data, the use of only EU and USA data is a limitation in the study.Findings- As a result of the independent samples t test, no statistically significant difference was found between the number of accidents in the EU and the USA. Conclusion- There was no significant difference between the two groups as a result of the independent sample t-test applied in line with the purpose of the study. The reason for this is that the two groups have similar characteristics in terms of education, qualified workforce, technology and economic power.
+Yazar isimleri: []
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: PressAcademia Procedia
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/pap/issue/71641/1153281
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2572870

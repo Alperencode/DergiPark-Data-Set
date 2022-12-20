@@ -1,0 +1,7 @@
+Makale Başlığı: Mapping of the Mine Site by Photogrammetric Method with the Help of Unmanned Aerial Vehicle
+Özet: The data produced with the help of remote sensing and photogrammetry techniques are used in every field. With the development of technology, data started to be produced with unmanned aerial vehicles (UAV) as a different platform. Reasons such as repeatable flight capability, speed, high resolution and low cost play an important role in being preferred especially in small areas. In addition, UAVs are used effectively in areas where human transportation is difficult, in rocky areas and in areas with very high slopes. By eliminating optical errors (such as curvature, rotation and height difference) with photogrammetry technique and transforming them into vertical projection, 3-dimensional, coordinated numerical data are produced. In this study, UAV-based mapping application was made in the open pit mine and the advantages of UAV applications were given. In this context, mapping of the open pit mine was carried out with the help of orthophoto mapping and Digital Elevation Model (DEM) data produced by UAV photogrammetry.
+Yazar isimleri: ['Adem KABADAYI']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Türkiye İnsansız Hava Araçları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tiha/issue/70924/1130929
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2487247

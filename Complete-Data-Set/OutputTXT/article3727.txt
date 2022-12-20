@@ -1,0 +1,7 @@
+Makale Başlığı: Multipl Sklerozlu Hastalarda Servikal Spinal Kord Atrofisinin Manyetik Rezonans Görüntüleme ile Değerlendirilmesi:
+Özet: Amaç: Multipl skleroz (MS), beyin ve spinal kord (SK) demiyelinizasyon ve nörodejenerasyona yol açan inflamatuar bir hastalığıdır. MS hastalarında servikal kord atrofisi ile maluliyet arasındaki ilişki gösterilmiştir.Yöntemler: Muayeneler MR-Philips Medical System 1.5 tesla cihazı ile sagital ve aksiyel planda T1-WI ve T2-WI ile yapıldı. Görüntüler deneyimli iki radyolog tarafından hastane görüntü arşiv sistemi aracılığıyla değerlendirildi.Bulgular: C3 vertebra seviyesinden sagital düzlem ölçümünde MS grubundaki hastaların ortalama SK ölçümü 7,3 ± 0,7 milimetre (mm), kontrol grubunun ortalaması ise 8,3 ± 0,6 idi. C6 vertebra seviyesinden sagital düzlem ölçümünde MS grubundaki hastaların ortalama SK ölçümü 6.9 ± 0.7 mm, kontrol grubunun ortalaması 7.8 ± 0.5 idi. Tüm seviyelerde yapılan ölçümlerde MS grubu hastalarda kontrol grubuna göre SK kalınlıkları daha düşüktü ve bu azalma istatistiksel olarak anlamlıydı.Sonuç: Günlük pratikte MS hastalarında servikal omurilik ölçümleri iki boyutlu konvansiyonel MRG ile kolay ve hızlı bir şekilde yapılabilmektedir.
+Yazar isimleri: ['Mehmet AKÇİÇEK', 'Mehtap ILGAR', 'Serkan ÜNLÜ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Çukurova Anestezi ve Cerrahi Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jocass/issue/72208/1109857
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2400724

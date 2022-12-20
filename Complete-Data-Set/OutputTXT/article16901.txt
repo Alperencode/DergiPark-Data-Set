@@ -1,0 +1,7 @@
+Makale Başlığı: Orta Gerilim Yer Altı Elektrik Şebekesi İçin Kablo Arıza Tespit Cihazı Tasarımı ve Gerçek zamanlı Uygulaması
+Özet: Bu çalışmada orta gerilimli yer altı kablolu elektrik dağıtım şebekelerinde oluşan arızıları tespit etmek amacıyla yer altı kablo arıza teşhis cihazı tasarlanmıştır. Bu cihazla Darbe Yansıma Metodu kullanılarak 40 kV’a kadar darbe jeneratörü ile arızanın yerini noktasal olarak tespit edilmesi amaçlanmıştır. Bunun için 0-8 kV, 0-16 kV ve 0-32 kV’luk, aralıklarında 2.000 Joule enerjiye sahip bir darbe jeneratörü tasarlanmıştır. Arızalı fazın tespiti yapıldıktan sonra, arıza noktasının tespiti için Ark Yansıma Metodu (ARM) ile arıza noktasının uzaklığı, metre olarak tespit edilebilmektedir. Arızalı yerin noktasal tespiti için; 0-8 kV, 0-16kV ve 0-32kV’luk ve 2.000 Joule enerjiye sahip yerli ve yeni bir darbe jeneratörü, kontrol ünitesi, yazılımları ve kullanıcı arayüzleri bu çalışma kapsamında tasarlanıp gerçeklenmiştir. Çalışmada gerçeklenen cihaz, yine proje kapsamında düzenlenen bir araç içerisine uygun şekilde yerleştirilmiş ve çalıştırılmıştır.
+Yazar isimleri: ['Ali Rıza KALELİ', 'Andaç KILIÇ', 'Mehmet MUNĞAN', 'Mehmet Akif AK', 'Ertuğrul ÇAM']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1137861
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2515293

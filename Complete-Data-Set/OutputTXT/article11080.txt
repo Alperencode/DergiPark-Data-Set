@@ -1,0 +1,7 @@
+Makale Başlığı: A glance at blockchain technology and cryptocurrencies as an application
+Özet: Blockchain technology, which includes cryptocurrencies such as Bitcoin, Ethereum,…etc [1,2] which has been evaluated as an investment tool by many people all over the world in recent years, needs to be examined in details, both mathematically and conceptually [8,9]. In fact, it can be said that blockchain technology, which is characterized as an accounting system and database based on distributed ledgers in its most basic form, is extremely secure in terms of copying data or attacking. For this reason, we can say that technology has a more effective security mechanism than any central state-of-the-art authoritative system used today. However, as it is almost impossible to bring all of the security, speed and cost parameters to their full extend in a system at the same time, as in any cryptosystem, the security parameter from the distributed ledger structure in blockchain technology adversely affects the speed and cost parameters. In this article, we discuss the cryptographic working principles of cryptocurrencies, which is an application field of blockchain technology, together with blockchain technology and the features and structures of the blocks contained.
+Yazar isimleri: ['Turgut HANOYMAK', 'Ömer KÜSMÜŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: MANAS Journal of Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mjen/issue/70586/1034912
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2124996

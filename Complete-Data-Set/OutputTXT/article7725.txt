@@ -1,0 +1,7 @@
+Makale Başlığı: 2-(2- İyodofenil)isoindolin-1,3-dion) Molekülünün Hesaplamalı Kimya Yöntemiyle Yapısal Analizi
+Özet: Bu çalışmanın amacı daha önce yapı çözümü x-ışını kırınımı ile gerçekleştirilmiş olan  2-(2-iyodofenil)isoindolin-1,3-dione, C14H8INO2 [1], molekülünün hesaplamalı kimya yöntemiyle yeniden incelenmesini kapsamaktadır. Molekülün teorik hesaplamaları Yoğunluk Fonksiyoneli Kuramı (YFK) ve Lee-Yang-Par, korelasyon enerjili 3 parametreli Becke karma modeli olan B3LYP yöntemi ve 6-311++G(d,p) temel baz seti kullanılarak yapılmıştır. Molekülün sınır orbitalleri ve bunlardan türetilmiş parametreler, Mulliken ve doğal yük analizleri (NPA), Moleküler Elektrostatik Potansiyel (MEP) haritaları belirlenmiştir. İlave olarak moleküle ait Hirsfeld Yüzey analizi yapılarak molekülün elektrofilik ve nükleofilik bölgeleri belirlenmiştir.
+Yazar isimleri: ['Gonca ÖZDEMİR TARI', 'Güneş DEMİRTAŞ']
+Yayın Yılı: 20 Temmuz 2022
+Dergi ismi: International Journal of Multidisciplinary Studies and Innovative Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijmsit/issue/69913/1125151
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2463077

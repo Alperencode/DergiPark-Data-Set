@@ -1,0 +1,7 @@
+Makale Başlığı: A Determination of the Corrosion and Microstructure Properties of AlSi10Mg Material Produced by Different Direct Metal Laser Sintering (DMLS) Process Parameters
+Özet: Additive Manufacturing (AM) has been developing with increasing interest in recent years. The development in this technology will accelerate with the increase in material, process, and product quality. It is therefore essential to investigate these shortcomings of additive manufacturing products. In this study, the microstructure and corrosion properties of the material (AlSi10Mg) were investigated by changing the production parameters in the Direct Metal Laser Sintering (DMLS) process. Energy density was considered in parameter selection. The corrosion, topography, and mechanical properties of the DMLS-AlSi10Mg material were investigated in detail, depending on the process parameters. It has been determined that the corrosion resistance and hardness of the material are directly related to the porosity level in the structure.
+Yazar isimleri: ['Mustafa Safa YILMAZ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bitlis Eren Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bitlisfen/issue/72854/1102823
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2371683

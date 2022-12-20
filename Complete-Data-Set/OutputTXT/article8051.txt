@@ -1,0 +1,7 @@
+Makale Başlığı: Büyükşehir Belediyelerinin Yerel Yönetim Sistemine Ait Yapısal Sorunları ve Çözüm Önerileri
+Özet: Mevcut yerel yönetim sistemimiz liyakate dayalı hiyerarşik iki kademeden oluşmaktadır. Şöyle ki, ilçe belediyesi yalnızca kendi hakimiyet alanındaki halkın ihtiyacı olan hizmetleri yürütmekte iken, büyükşehir belediyesi il hudutları içerisinde    (ilçeler de dahil) bütün il halkının ortak hizmetlerinin tamamından sorumludur. Örneğin: üst ölçekli bütün planların yapımı, su, yol, kanalizasyon, ulaşım, toplu taşıma, arıtma tesisinden, çöp bertaraf etme tesislerinden, bütün il halkına hizmet edecek yeşil alanlardan, kent içi trafik düzenlemelerinden, şehir halkının kültürel ve sanatsal faaliyetlerinden, kırsal kesimdeki tüm köy (şimdi mahalle), belde ve ilçelerin tarım ve hayvancılık hizmetlerinin geliştirilmesi büyükşehir belediyelerine görev olarak verilmiştir.
+Yazar isimleri: ['Yılmaz BÜYÜKERŞEN']
+Yayın Yılı: 14 Kasım 2022
+Dergi ismi: İDEALKENT
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/idealkent/issue/72507/1133124
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2496313

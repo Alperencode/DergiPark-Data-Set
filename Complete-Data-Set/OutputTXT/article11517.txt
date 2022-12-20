@@ -1,0 +1,7 @@
+Makale Başlığı: Döviz Kurları ve CDS Primi Oynaklığının BIST Endekslerine Yayılım Etkisi
+Özet: Finansal piyasalar ve bu piyasalarda yer alan araçların volatilitesi ile ilgili araştırmalar son yıllarda gerek ulusal gerekse uluslararası literatürde çok fazla kendine yer bulmuştur. Küreselleşmenin de etkisiyle birlikte finansal piyasaların ve araçların fiyat oynaklıkları birçok durumda diğer finansal varlıkları da etkileyebilmektedir. Bunun sonucu olarak sermaye sahipleri ve yatırımcılar açısından bu konular önem arz etmektedir. Bu çalışmanın amacı Dolar, Euro, CDS ile BIST 30, BIST Banka ve BIST Sigorta değişkenleri arasındaki volatilite etkileşimi, aktarımı ve korelasyonunun CCC-GARCH modeli kullanılarak incelenmesidir. Çalışmada ilgili değişkenlerin 02.01.2017-31.12.2021 dönemlerine ait günlük açılış değerleri kullanılmıştır. Araştırma sonucunda Dolar ve Euro’nun BIST değişkenleri ile volatilite ve korelasyon ilişkisine rastlanırken, CDS primi ile BIST değişkenleri arasında volatilite ilişkisi olup, korelasyon ilişkisine rastlanılmamıştır.
+Yazar isimleri: ['Hüseyin Başar ÖNEM']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makuubd/issue/72757/1117597
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2431783

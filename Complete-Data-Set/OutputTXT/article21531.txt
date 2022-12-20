@@ -1,0 +1,7 @@
+Makale Başlığı: INFLUENCE OF GAMMA-RADIATION ON CURRENT DENSITY AND VOLT-AMPERE CHARACTERISTICS OF METALLIC ZIRCONIUM
+Özet: The effect of preliminary radiation-oxidative treatment on the current density and current-voltage characteristic of metallic zirconium has been studied. The contribution of preliminary radiation-oxidative treatment to the change in the electro-physical characteristics during thermal and radiation-thermal tests in the contact of zirconium with water is revealed.
+Yazar isimleri: ['Gunel IMANOVA']
+Yayın Yılı: 7 Temmuz 2022
+Dergi ismi: Turkish Journal of Nuclear Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjns/issue/71200/1077119
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2267597

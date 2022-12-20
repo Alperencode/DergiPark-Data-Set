@@ -1,0 +1,7 @@
+Makale Başlığı: On the Solution of a Nonhomogeneous Fisher-Kolmogorov Equation
+Özet: Bu makalede, homojen olmayan Fisher-Kolmogorov denkleminin sayısal çözümünü elde etmek için yeni bir yöntem olarak Bernoulli sıralama yöntemi tanıtılmaktadır. Fisher-Kolmogorov denkleminin üç farklı durumu için Bernoulli sıralama yöntemi kullanılmıştır. Elde edilen sayısal sonuçlar tablolar ve grafik formlarda sunulmuştur.
+Yazar isimleri: ['Kenan YILDIRIM']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1118288
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2434917

@@ -1,0 +1,7 @@
+Makale Başlığı: BREAST CANCER DIAGNOSIS BASED ON THERMOGRAPHY IMAGES USING PRE-TRAINED NETWORKS
+Özet: 
+Yazar isimleri: ['Hasan UCUZAL', 'Muhammet BAYKARA', 'Zeynep KÜÇÜKAKÇALI']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: The Journal of Cognitive Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcs/issue/65819/990948
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1956654

@@ -1,0 +1,7 @@
+Makale Başlığı: CHARACTERIZATIONS OF CONTACT PSEUDO-SLANT SUBMANIFOLDS OF A PARA-KENMOTSU MANIFOLD
+Özet: In this paper, the geometry of contact pseudo-slant submanifolds of a para Kenmotsu manifoldhowe been studied. The necessary and sufficient conditions for a submanifolds to be a contact pseudoslantsubmanifolds of a para Kenmotsu manifold are given.
+Yazar isimleri: ['Süleyman DİRİK', 'Ümit YILDIRIM']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Amasya University the Institute of Sciences and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jauist/issue/70944/1124012
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2458410

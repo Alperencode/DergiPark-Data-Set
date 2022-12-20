@@ -1,0 +1,7 @@
+Makale Başlığı: DOLAYLI VERGİ GELİRLERİ VE ENFLASYON İLİŞKİSİ: TÜRKİYE ÜZERİNE BİR ARAŞTIRMA
+Özet: Ekonomiye pek çok maliyeti olan enflasyonun vergi düzeni ve mali sistem üzerinde de son derece önemli maliyetleri söz konusudur. Enflasyonun, iktisadi kararları etkilemesinin yanı sıra, reel gelir düzeyleri ve vergi yükü üzerinde etkili olduğu bilinmektedir. Diğer yandan, devletin yaptığı vergi uygulamaları da özellikle maliyet enflasyonunun oluşumunda rol oynamaktadır. Bu çerçevede, enflasyon ve vergiler arasındaki ilişkinin çok yönlü niteliği ekonominin tüm bileşenleri açısından önem arz etmektedir. Çalışmamızda, dolaylı vergi gelirleri ile enflasyon arsındaki ilişkinin yönü ve niteliğini ampirik açıdan incelemek amacıyla, Türkiye örneğinde dolaylı vergi gelirleri ile tüketici fiyat endeksi (TÜFE) arasındaki ilişki eşbütünleşme ve nedensellik analizi çerçevesinde araştırılmaktadır. Çalışmadan elde edilen bulgulara göre, Türkiye için TÜFE vergi gelirlerinin nedeni olmakla birlikte, vergi gelirlerinden TÜFE'ye doğru bir nedenselliğin varlığı tespit edilememiştir.
+Yazar isimleri: ['İpek YURTTAGÜLER', 'Sinem KUTLU HORVATH']
+Yayın Yılı: 5 Ekim 2022
+Dergi ismi: EKEV Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosekev/issue/72929/1125595
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2464755

@@ -1,0 +1,7 @@
+Makale Başlığı: Kobilerde Dijital Dönüşüm Üzerine Bilim Haritalama Analizi
+Özet: İşletmeler piyasa koşullarına uygun, düşük maliyetlerle ürünler üretebilmeleri için teknolojik yatırımlarda bulunurlar. Aynı rekabet ortamında finansal olanakları büyük işletmelere göre dezavantajlı olan KOBİ’ler için dijital dönüşüm yatırımları ulaşılması zor ama kaçınılmaz yatırımlardır. Dijital dönüşümde yer alan araçların temini, adaptasyonu bu işletme grubu için maliyet ve uzman bilgi yetersizliği nedeniyle sıkıntılı süreçlerdir. Bu çalışmada KOBİ’lerin dijital dönüşümüne odaklı akademik çalışmaların incelenerek, dönüşümün odak noktaları belirlenmeye çalışılmıştır. Bu anlamda ikincil veriler (akademik yayınlar) belge incelemesi ile incelenmiş ve bibliyometrik analiz ile çözümlenmiştir. Yayınlar, yazarlar, yayın merkezleri yıl, eğilim, kümelenme gibi çeşitli açılardan bibliyometrik olarak ele alınmıştır. İş dünyasının teknolojiyi işlerine entegre etmesinin öneminin artması ve dijital dönüşümde yaşanan artış ile dijital dönüşüm alanındaki akademik yayınların, yönetim odaklı sürdürülebilirlik ve süreç odaklı yenilik alanlarda yoğunlaştığı tespit edilmiştir.
+Yazar isimleri: ['Kamil TAŞKIN']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Bucak İşletme Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bifd/issue/73265/1183061
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2683197

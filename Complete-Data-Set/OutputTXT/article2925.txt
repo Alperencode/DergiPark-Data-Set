@@ -1,0 +1,7 @@
+Makale Başlığı: TTK’DA UYGULANAN ÖN GERİLMELİ AHŞAP DOMUZDAMI SİSTEMİ
+Özet: Bu çalışmada Türkiye Taşkömürü Kurumu (TTK)’da ahşap domuzdamı sistemine alternatif olarak geliştirilen ve 2007 yılında kullanılmaya başlanan Ön Gerilmeli Ahşap Domuzdamı (ÖGADD) sistemi incelenmiştir. Yeni bir domuzdamı tasarımı ve ayak içi tahkimatı olan bu sistem 2007 yılında “Mehmet Kemal Dedeman Araştırma ve Geliştirme Proje Yarışması”nda ödül almıştır. Sistemin irdelenmesi amacıyla yapılan kişisel görüşmeler ve yerinde yapılan inceleme ve gözlemler ışığında; domuzdamlarının söküm aşamalarının ahşap tahkimat sisteme göre daha kısa sürede gerçekleştirildiği, tavan ve taban taşlarının sağlam olması ve ayrıca ayak ilerleme hızının yüksek olması koşuluyla sistemin istenilen performansı sağlayacağı sonucuna varılmıştır. Sistemin en önemli parçası olan hava yastıklarında karşılaşılan sorunlar ve yeraltında seçilen bir ayakta domuzdamlarına gelen yükler incelenmiştir. Ayrıca sistemin bir diğer elemanı olan hazır ahşap domuzdamı malzemeleri hakkında incelemeler yapılmıştır.
+Yazar isimleri: ['Esma Hacer EVKAYA', 'Erdoğan KAYMAKÇI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bilimsel Madencilik Dergisi
+Yayın sayfa url: http://www.mining.org.tr/tr/pub/issue/72907/991741
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1959514

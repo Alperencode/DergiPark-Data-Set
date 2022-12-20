@@ -1,0 +1,7 @@
+Makale Başlığı: Klormetiyazol’ün Partisyon Katsayısının Tahmin Edilmesi İçin Hesaplamalı Yöntemlerin Kıyaslama Çalışması
+Özet: Bu çalışma, kuantum kimyasal hesaplama teknikleri kullanılarak Klormetiazol molekülünün lipofiliklik tahmini, HOMO-LUMO analizi ve elektrostatik yüzey özelliklerinin değerlendirmelerini içermektedir. Tüm geometrik optimizasyonlar, enerji ve frekans hesaplamaları, Hartree-Fock (HF) yöntemi ve iki farklı Yoğunluk Fonksiyonel Teori (YFT) fonksiyoneli B3LYP ve B3PW91 seçilerek altı farklı temel set ile gerçekleştirilmiştir. Çözücü etkisini araştırmak ve ayrıca bölme katsayılarını tahmin etmeye yardımcı olan Gibbs solvasyon serbest enerjilerini elde etmek için tüm hesaplamalar su ve n-oktanol fazları için SMD solvasyon modeli kullanılarak tekrarlanmıştır. Sonuç olarak, uygulanan teorik yöntemler arasında deneysel logP değeri ile en iyi uyum HF/6-31G(d,p) yöntemi ile elde edilmiştir. Ayrıca hesaplamalı yöntemlerin tahmin performansının HF> B3LYP> B3PW91 sırasıyla azaldığı sonucuna varılmıştır.
+Yazar isimleri: ['Sümeyya SERİN', 'Ali BAYRİ']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/978741
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1908686

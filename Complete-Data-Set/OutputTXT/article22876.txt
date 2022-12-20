@@ -1,0 +1,7 @@
+Makale Başlığı: ACC Enziminin Metabolik Hastalıklarda Terapötik Hedef Olarak Değerlendirilmesi
+Özet: Perifer dokularda aşırı yağ birikimi ile meydana gelen lipotoksisite, metabolik hastalıklara neden olan en önemli faktörlerden biridir. Lipid metabolizmasının anahtar enzimlerinden olan Asetil-KoA karboksilaz (ACC), yağ asitlerinin biyosentezinin ve oksidasyonunun düzenlenmesinde önemli fonksiyonlara sahiptir, aşırı yağ konsantrasyonunun azaltılmasına yönelik stratejiler ile diyabet, non-alkolik yağlı karaciğer hastalığı, kanser, mikrobiyal enfeksiyon, metabolik sendrom, obezite, gibi hastalıkların tedavisinde büyük bir ilgi görerek dikkat çekici bir hedef hâline gelmiştir. Onlarca yıllık araştırmalar sonucunda, ACC enziminin çok sayıda inhibitörü keşfedilmiştir ve yeni inhibitörlerin tasarlanmasına yönelik çalışmalar günümüzde de devam etmektedir. Bu çalışmada ACC enziminin yapısı, fonksiyonu ve katalitik mekanizmasının anlaşılmasına yönelik güncel bilgilere değinilmiştir ve ACC enzim inhibisyonunun moleküler temelleri incelenerek, güçlü ACC inhibitörleri ile ilgili son gelişmeler özetlenmiştir.
+Yazar isimleri: ['Mehtap ŞAHİN', 'Özlem YILDIRIM']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Gazi Üniversitesi Fen Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/guffd/issue/73526/1097147
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2818227

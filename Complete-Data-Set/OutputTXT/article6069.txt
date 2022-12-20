@@ -1,0 +1,7 @@
+Makale Başlığı: In silico Analyzes of miRNAs Associated with Root and Tuber in S. commersonii
+Özet: Potato is an industrial plant that is produced and consumed globally due to its cheapness, high yield in the unit area, high nutritional values. It is used in many different fields. It has been stated that wild species with various characteristics can be used in studies to increase productivity because they have greater rate of genetic variation than their domesticated relatives. One of the wild species of potato found in nature is S. commersonii Dunal. It is more resistant to many stresses than cultivated potato S. tuberosum L. Also, its tuber has better quality due to the fact that it contains a higher proportion of dry matter. With the aim of determining the effects of miRNAs in tuber production and root characteristics relation we aimed to detect miRNAs in two transcriptome libraries of S. commersonii. In this study miRNAs were evaluated for the first time in the wild potato transcriptome data using in silico analysis. A number of miRNAs were identified, and their potential roles in tuber were discussed.
+Yazar isimleri: ['Aysel Özgül KORAL', 'Mine TÜRKTAŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi University Journal of Science Part A: Engineering and Innovation
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsa/issue/72855/1142153
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2531779

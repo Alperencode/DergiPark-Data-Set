@@ -1,0 +1,7 @@
+Makale Başlığı: BAŞHOCA İSHAK EFENDİ’NİN MECMÛA-İ ULÛM-I RİYÂZİYE ADLI ESERİNİN ANALİTİK GEOMETRİ AÇISINDAN DEĞERLENDİRİLMESİ
+Özet: Modern matematiğin Osmanlılar’a girdiği ilk kaynak olma özelliğine sahip Başhoca İshak Efendi’nin Mecmûa-i Ulûm-ı Riyâziye (1258/1842) adlı eserinde, René Descartes’ın analitik geometri çalışmalarından bahsedilmemiştir. Ancak söz konusu eserde, analitik geometrinin kullanıldığı tarafımızca tespit edilmiştir. İntegral kalkülüs hesabında olduğu gibi, analitik geometriyi de Osmanlılar’a ilk tanıtan kişi Başhoca İshak Efendi olmuştur. Ayrıca eldeki bu makalede, Mecmûa-i Ulûm-ı Riyâziye (MUR) günümüzdeki ve Osmanlıca yazılan diğer analitik geometri kitapları ile konuların işlenişi ve kullanılan terminoloji açısından karşılaştırılacaktır.
+Yazar isimleri: ['Semiha Betül BAYAM TAKICAK']
+Yayın Yılı: 6 Haziran 2022
+Dergi ismi: Dört Öge
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dortoge/issue/72934/1024817
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2086103

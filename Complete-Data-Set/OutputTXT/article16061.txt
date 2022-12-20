@@ -1,0 +1,7 @@
+Makale Başlığı: Nesnelerin İnterneti Yaklaşımıyla Konvoy Araçların Yönetimi
+Özet: Toplu taşıma sistemleri farklı üreticilerin sağladığı donanım ve yazılım birimleriyle etkileşim içerisinde çalışmaya başlamıştır. Sistemin çalışır hale gelmesiyle otomatik olarak ağ ayarlarının yapılması ve çalışan servislerin sistem içerisinde yayınlanması gereksinimi karmaşık cihaz yönetimi problemini ortaya çıkartır. Farklı tür donanım ve yazılım birimlerini bütünleşik yönetebilmek için toplu taşıma filoları için ITxPT birliği tarafından geliştirilen mimari standartlaşmaya başlamıştır. Mimari içerisinde yazılım servisleri ve bu servislerin birbirleriyle etkileşimi belirli protokoller altında tanımlanmıştır. Çalışma içerisinde değerlendirilen mimari genişletilerek konvoy araçların da nesnelerin interneti yaklaşımına uygun olarak yapılandırılıp yönetilmesi planlanmıştır
+Yazar isimleri: ['Can ÖZ', 'Yasemin TOPALOĞLU']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbbmd/issue/70571/1050239
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2164030

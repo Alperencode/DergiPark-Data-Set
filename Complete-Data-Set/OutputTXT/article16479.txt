@@ -1,0 +1,7 @@
+Makale Başlığı: TEKİL YÜK ETKİSİ ALTINDA EKSANTRİK MESNETLİ KİRİŞLERİN İNCELENMESİ
+Özet: Klasik kiriş teorilerinde kirişler bir boyutlu kabul edilir. Bu teoriye göre mesnetler tarafsız eksendedir. Ancak pratik uygulamalarda kirişler tarafsız eksenlerinden farklı noktalardan mesnetlenmektedir. Literatürde üniform yük etkisinde eksantrik mesnetlenme durumuna sahip kirişler için düzenlenmiş kiriş teorisi geliştirilmiştir. Bu çalışmada tekil yük altındaki eksantrik mesnetli kirişler MacLaurin serileri kullanılarak analitik olarak çözülmüştür. Eksantrik mesnetlerin kirişin eğilme rijitliği üzerindeki etkileri araştırılmıştır. Elde edilen analitik denklemler, mesnetlerin kiriş derinliğinde farklı konumlarında (eksantrisite) kirişlerin eğilme analizi üzerindeki etkisini araştırmak için kullanılmıştır. Bulgular, kirişlerin eğilme rijitliğinin eksantrik mesnet durumundan önemli ölçüde etkilendiğini göstermektedir. Elde edilen sonuçlar Sonlu Eleman çözümleri ile karşılaştırılmıştır.
+Yazar isimleri: ['Hakan T. TÜRKER']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uludağ Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uumfd/issue/71647/1085826
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2301934

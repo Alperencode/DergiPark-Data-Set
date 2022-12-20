@@ -1,0 +1,7 @@
+Makale Başlığı: Türk Katılım Sigortacılığı Sektörünün SD-Waspas Modeliyle Analizi
+Özet: Sigorta sektörü, ülke ekonomilerinin gelişmesinde hayati bir rol oynamaktadır. Sermaye piyasasının ve ekonomik altyapının gelişmesi için uzun vadeli tasarruf sağlayan ve kaynak yaratan, dolayısıyla ekonominin büyümesine istikrar sağlayan bir sektördür. Bu çalışmada ülkemizde son yıllarda önemli bir büyüme trendi yakalayarak gelişme gösteren, toplam sigortacılık prim üretimi içerisindeki payı her geçen gün artan katılım sigortacılığı sektörünün 2021 yılı 4 çeyrek dönem performanslarının hibrit bir çok kriterli karar verme (ÇKKV) yöntemi ile değerlendirilmesi amaçlanmıştır. Bu amaçla ilk olarak SD ağırlıklandırma yöntemi ile kriterlere ait önem ağırlıkları belirlendikten sonra WASPAS yöntemi ile alternatifler sıralanmıştır. Analiz sonucunda katılım sigorta şirketlerinin performansının belirlenmesinde genel olarak en önemli kriterin kısa vadeli borçlar / toplam aktifler kriteri olduğu tespit edilmiştir. Bereket Katılım Hayat A.Ş.’nin ele alınan dönemlerde istikrarlı bir şekilde finansal performans sıralamasında ilk sırada yer aldığı tespit edilmiştir.
+Yazar isimleri: ['Mehmet Zafer TAŞCI', 'Esra AYDIN ÜNAL']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Selçuk Üniversitesi Sosyal Bilimler Meslek Yüksekokulu Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/selcuksbmyd/issue/73640/1196951
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2740544

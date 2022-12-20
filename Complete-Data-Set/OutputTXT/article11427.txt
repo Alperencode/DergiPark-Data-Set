@@ -1,0 +1,7 @@
+Makale Başlığı: Metal tolerance of Spirulina platensis
+Özet: Microorganism-based bioremediation is a well-sought after method for industrial wastewater treatment and forms the primary stage. The current research suggests using Spirulina platensis as an organism of choice for bioremediation. This study provides an insight into the potential use of primary-treated wastewater as the growth media for Spirulina platensis. The tolerance of S. platensis was confirmed for metals such as mercury (Hg), cadmium (Cd), manganese (Mn), zinc (Zn), and copper (Cu) by using media enriched with these metals. S. platensis was most tolerant to Hg followed by Cd and Cu. Further, it is suggested that the biomass and bioactive compounds extracted from S. platensis be tested for their application in animal and aquaculture feed, supplements, and pharmaceuticals.
+Yazar isimleri: ['Amruta PADGAONKAR', 'Additiya PARAMANYA', 'Payal POOJARİ', 'Ahmad ALİ']
+Yayın Yılı: 2 Aralık 2022
+Dergi ismi: Mediterranean Agricultural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mediterranean/issue/73655/1097816
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2350304

@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of Transactions on Crypto Assets from Law of Obligations and Property Law Perspective
+Özet: The proliferation of the blockchain technology, especially the developments around web3 and metaverse, make a closer examination of tokens from a legal perspective inevitable. In fact, numerous transactions take place on various blockchain platforms every day. The aim of this study is to examine these transactions from a legal perspective. In this regard, the legal nature of tokens is first established. Based on this, transactions on blockchain networks are classified and evaluated from the perspective of obligation transactions and disposal transactions. The fact that tokens are not things in the property law sense leads to numerous questions in this context. In particular, the type of contract and impairments of performance are examined in this context. In the case of extrinsic tokens, on the other hand, the question of whether a simultaneous transfer of ownership of a thing located outside the blockchain is possible at all through the transfer of the token will be investigated. Finally, various legal systems were examined as examples and possible solutions were presented.
+Yazar isimleri: []
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: İstanbul Medipol Üniversitesi Hukuk Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/imuhfd/issue/69681/1111043
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2405480

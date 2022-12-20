@@ -1,0 +1,7 @@
+Makale Başlığı: An Investigation of the Threshold Hypothesis Using ASIS Intelligence Scale and Creative Imagination Cards
+Özet: In this study, it was aimed to examine the relation-ships between creative imagination and intelligence and to test the threshold hypothesis with younger students. The sample included 492 students aged 5-7 years. The Anadolu Sak Intelligence Scale was used to measure intelligence and Creative Imagination Cards were used to measure creativity. Firstly the relationship between intelligence and creative imagination scores were analyzed, and then the correlation values of the lower and upper groups were compared. To determine the threshold at other IQ levels, different from 120 IQ, segmented regression analysis were performed. A weak relationship was found between intelligence and creative imagination. The results showed that the threshold theory was not supported in younger children. Even, according to the segmented regression analysis, inverse threshold effect was observed between creative imagination scores and general intelligence scores around 120 IQ. This is interpreted as the fact that in contrast to the threshold hypothesis, intelligence level above the 120 IQ, provides an advantage in the creative imagination process for young age groups.
+Yazar isimleri: ['Gözde YILMAZ', 'Bahadır AYAS', 'Uğur SAK']
+Yayın Yılı: 11 Ocak 2021
+Dergi ismi: Talent
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/talent/issue/59610/831465
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1415646

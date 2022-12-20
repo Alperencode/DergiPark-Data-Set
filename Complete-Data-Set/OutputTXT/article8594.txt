@@ -1,0 +1,7 @@
+Makale Başlığı: Keyboard Behavior Analysis in Cyber Security
+Özet: Covid-19 epidemic which is emerged in China in 2019 and affected the whole world and the need to make changing working conditions on information systems a safer environment has increased. This need has led us to develop a verification system that confirms that the person using information systems is a real person. With the Keyboard Behavior Analysis program we have developed, the data of users with different habits are collected and the determined examples are analyzed for use in artificial intelligence with deep learning. When the results of these analyzes are used by malicious attackers who have hijacked their computers, they contribute to the literature in detecting them with the authentication method. Multiple authentication is a method of confirming the identities of users in information systems with different combinations. The aspect of multiple authentication is to secure system vulnerabilities that can be described by single authentication. The aim of this study is to analyze the keyboard behavior of users with a good deep learning method in addition to this, it is to authenticate the logins to the information systems.
+Yazar isimleri: ['Nurgül AKŞİT', 'Muhammed Ali AYDIN', 'Abdül Halim ZAİM']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Teknoloji ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/icujtas/issue/68686/1037624
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2136294

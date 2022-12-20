@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of Spatial Distribution of Basic Properties of The Arsuz Plain Soils with Geostatistical Methods
+Özet: The aim of this study is to determine the basic chemical properties of the Arsuz plain soils and to create the local distribution maps of these properties in the area. A total of 80 soil samples were taken from a depth of 0-30 and 30-60 cm in the Arsuz plain and pH, electrical conductivity (EC), lime, organic matter (OM), particle size distribution (% sand, clay and silt) and exchangeable sodium contents have been determined. According to the t-test results, there were differences between the mean values of all the properties depending on the depth. However, these differences were not significant. The most suitable semivariogram models were Guassian and Exponential in most of soil properties. All soil properties showed a strong or moderate spatial dependency. The results have shown that the maximum distances that soil properties have autocorrelation was between 850-7776 m.
+Yazar isimleri: ['Necat AĞCA']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1085309
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2299955

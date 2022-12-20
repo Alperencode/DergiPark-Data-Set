@@ -1,0 +1,7 @@
+Makale Başlığı: AN INVESTIGATION ON COMPARATIVE FİNANCIAL PERFORMANCES OF DEPOSIT AND PARTICIPATION BANKS IN TURKEY
+Özet: In this research, the financial performances of deposit and participation banks operating in the banking sector in Turkey between 2010 and 2020 were analyzed comparatively. In the research, a total of 8 financial ratios, especially the capital adequacy ratio, which is one of the most basic indicators, were used. The banks and participation banks that are the subject of the research are categorized according to the grouping made by the Banking Regulation and Supervision Agency (BDDK). One-Way Analysis of Variance (ANOVA) and Tukey, Tamhane and LSD Tests from post-hoc tests were used to determine the difference between bank groups in the analysis study conducted in the research. According to the results of the research, it has been determined that the capital adequacy ratios of foreign capital banks are stronger than public and participation banks. On the other hand, the NPL ratios of foreign banks differ statistically from public and domestic private banks. This situation reveals that non-performing loans are higher in foreign banks
+Yazar isimleri: ['Levent SEZAL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Hacettepe Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/huniibf/issue/72799/963354
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1863070

@@ -1,0 +1,7 @@
+Makale Başlığı: Sismik İzolatörlü Yapıların Tasarımına Etki Eden Faktörlerin İncelenmesi
+Özet: Bu çalışmada, yalıtım sisteminin tasarımı, Türkiye Bina Deprem Yönetmeliği 2018’de (TBDY-2018) tanımlanan Etkin Deprem Yükü Yöntemi kullanılarak gerçekleştirilmiştir. TBDY-2018 kriterleri dikkate alınarak, 4 katlı betonarme bir yapı altında kurşun çekirdekli kauçuk izolatörün tasarımı yapılmış olup farklı zemin sınıfları için karakteristik dayanım oranı (Q/W) ile izolasyon periyodu (T) değişiminin sismik izolatör davranışa etkisinin belirlenmesi amaçlanmıştır. Ayrıca, fay hattından uzaklığın etkisi incelenmiş, bu amaçla Sakarya ilinde biri fay hattına yakın (Arifiye), diğeri fay hattından uzak (Karasu) olmak üzere iki lokasyon seçilmiştir. Sismik izolasyon seviyesinde oluşan yerdeğiştirme, kesme kuvveti ve ivme-yerdeğiştirme tepki spektrumları belirlenmiştir. Tasarımcıların izolasyon sisteminin tasarım parametrelerini hızlı bir şekilde belirlemelerini sağlamak amacıyla taban kesme oranı-deplasman grafikleri elde edilmiştir. Araştırmada, fay hattından uzaklığın, zemin sınıfının, izolasyon periyot değerinin ve karakteristik dayanımının, maksimum izolatör deplasmanı ve maksimum izolatör kuvveti değerlerini önemli ölçüde etkilediği sonucuna varılmıştır.
+Yazar isimleri: ['Hakan ÖZTÜRK']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/1089421
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2316208

@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of the Optimal Number of Neuron in One-Hidden-Layer Artificial Neural Networks
+Özet: In this paper, optimal number of neurons in one-hidden-layer artificial neural networks is investigated. Theoretical and statistical studies are carried out for this goal. Finding the global minimum is necessary in order to determine the optimal number of neurons. However, since the training of artificial neural networks is a non-convex problem, it is difficult to find a global minimum with optimization algorithms. In this study, an augmented cost function is proposed to find the global minimum, hence the optimal number of neurons. It is shown that the optimal number of neurons is produced by the artificial neural network model, which gives the global minimum with the aid of the augmented cost function. Additionally, the XOR and circle datasets are used to test the augmented cost function, and 99% success was achieved on the XOR dataset and 97% on the circle dataset. The optimal number of neurons is determined for these datasets.
+Yazar isimleri: ['Tayfun ÜNAL', 'Ünver ÇİFTÇİ', 'Nurkut Nuray URGAN']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1056018
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2184829

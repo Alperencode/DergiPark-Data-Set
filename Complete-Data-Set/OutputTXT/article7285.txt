@@ -1,0 +1,7 @@
+Makale Başlığı: Predicting acceptance of the bank loan offers by using support vector machines
+Özet: Loans are one of the main profit sources in banking system. Banks try to select reliable customers and offer them personal loans, but customers can sometimes reject bank loan offers. Prediction of this problem is an extra work for banks, but if they can predict which customers will accept personal loan offers, they can make a better profit. Therefore, at this point, the aim of this study is to predict acceptance of the bank loan offers using the Support Vector Machine (SVM) algorithm. In this context, SVM was used to predict results with four kernels of SVM, with a grid search algorithm for better prediction and cross validation for much more reliable results. Research findings show that the best results were obtained with a poly kernel as 97.2% accuracy and the lowest success rate with a sigmoid kernel as 83.3% accuracy. Some precision and recall values are lower than normal ones, like 0.108 and 0.008 due to unbalanced dataset, like for 1 true value, there are 9 negative values (9.6% true value). This study recommends the use of SVC in banking system while predicting acceptance of bank loan offers.
+Yazar isimleri: ['Mehmet Furkan AKÇA', 'Onur SEVLİ']
+Yayın Yılı: 15 Ağustos 2022
+Dergi ismi: International Advanced Researches and Engineering Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iarej/issue/72165/1058724
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2195620

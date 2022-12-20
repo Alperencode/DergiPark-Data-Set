@@ -1,0 +1,7 @@
+Makale Başlığı: SIFT ve Şablon Eşleme ile Lastik İzi Desenlerinin Tanınması
+Özet: Lastik izi desenlerinin tanınması hem suç olay mahallerinin araştırılmasında hem de trafik kazalarında kazaya karışan araçların belirlenmesinde önemli role sahiptir. Taşıdığı zengin doku bilgisi nedeniyle lastiklerden alınan desen görüntülerinin tanınmasında doku öznitelikleri kullanılmaktadır. Fakat olay yerlerinden alınan lastik izlerinin tanınması konusu yeterince çalışılmamıştır. Bu çalışmada lastik izi/iz parçası görüntülerinin tanınması amacıyla SIFT tabanlı öznitelikler ve şablon eşleme yöntemleri kullanılmıştır. Deneylerde temiz izlerden alınan kesitlerin kirli izlerin ve kirli izlerden alınan kesitlerin, temiz izlerle eşleştirilmesi işleminde state of art yöntemlere göre daha yüksek tanıma başarımı elde edilmiştir.
+Yazar isimleri: ['Asuman GÜNAY YILMAZ', 'Nasif NABİYEV']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/990247
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1954067

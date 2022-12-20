@@ -1,0 +1,7 @@
+Makale Başlığı: Drought Analysis and Impact of Drought on Crop Yield in Nevşehir City
+Özet: Turkey is one of the most sensitive regions to climate change. Drought events triggered by climate change occur frequently in the region and cause important environmental problems. The agricultural sector and crop yield are among the areas that are adversely affected. In this study, meteorological and hydrological drought situation and precipitation trend is studied with SPI and SPEI methods by using Nevşehir Center and Ürgüp stations. Besides, the severity and duration of long-lasting strong droughts in the region are studied. The most important negative effects of drought events are seen in the agricultural sector on crop production. In order to analyze this effect, the yield values of agricultural products grown in the region were obtained from Turkish Statistical Institute (TUIK) and standardized with Z-Score method. Afterwards, the impact of drought events on the yield of agricultural products grown in the region are examined
+Yazar isimleri: ['Kahraman OĞUZ', 'Gülten ÇAMALAN', 'Muhammet Ali PEKİN']
+Yayın Yılı: 8 Aralık 2022
+Dergi ismi: Nevşehir Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nevbiltek/issue/73743/1180084
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2670654

@@ -1,0 +1,7 @@
+Makale Başlığı: On Eigenvalue And Eigenvector Perceptions of Undergraduate Pre-service Mathematics Teachers
+Özet: Analysis of systems that can be expressed in matrices is very important in the field of application. Whether such a system works properly is determined by eigenvalues of the matrix representing the system. Eigenvalue and eigenvector concepts are taught within the scope of linear algebra course at undergraduate level.  In this study, perceptions of undergraduate students who took the linear algebra course about the eigenvalue-eigenvector concepts are investigated. The research is conducted with the participation of 95 students from the Faculty of Education, Department of Mathematics Education. A scale measuring the students’ approached about eigen theory was developed. For the reliability of the scale, Kuder-Richardson 20 (KR-20) reliability analysis was done and 0,72 was obtained. To see the relationship between learning outcomes and academic achievement is used the chi-square test and descriptive analysis are made in the study. Problems arising in the perception of eigenvalue and solutions are presented.
+Yazar isimleri: ['Şerife YILMAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Necatibey Eğitim Fakültesi Elektronik Fen ve Matematik Eğitimi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/balikesirnef/issue/70286/1076124
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2263686

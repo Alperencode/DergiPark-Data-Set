@@ -1,0 +1,7 @@
+Makale Başlığı: Experimental Investigation of the Effects of UV-C Irradiation Air Disinfection Device on Pathogens
+Özet: In this study, an air purification device was designed by using UV-C lamp, EU4, EU9 and carbon filter in order to eliminate organisms that harmful to human health such as viruses, bacteria, mold and fungi and to increase indoor air quality. The efficiency of the experimental device on different types of pathogens likely to be found in the office environment has been calculated. Experimental studies have been carried out to measure the effectiveness of the device. The tests were carried out within the scope of TS EN ISO / IEC 17025 standards. Test content is planned within the scope of EN ISO 14698-1: 2003 standards. As a result of the 1 hour operation of the device, a 23% reduction in the amount of pathogens in the environment was observed. Consistent results were obtained when the calculated values were compared with the experimental results.
+Yazar isimleri: []
+Yayın Yılı: 9 Haziran 2022
+Dergi ismi: Mühendis ve Makina
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muhendismakina/issue/70148/1127349
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2472202

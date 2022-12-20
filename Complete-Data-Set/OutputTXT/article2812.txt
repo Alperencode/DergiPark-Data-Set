@@ -1,0 +1,7 @@
+Makale Başlığı: A General Review of the Methods Used Financial Time Series Forecasting
+Özet: As in the past, it is very important for investors to be able to predict the trend of financial data and to create a financial strategy using this information. However, nowadays, rapid access to financial data with fast Internet connections, developments in informatics, and cloud systems, the use of artificial intelligence algorithms for financial forecasting increase competition in this field. The share of artificial intelligence applications in areas such as portfolio management in Fintech is increasing. The aim of this study is to compile previous academic studies to predict financial time series data, to explain artificial intelligence algorithms used to predict time series, and to examine some predicted financial data types and their dependencies. At the end of the study, inferences were made such as the adequacy of the techniques used in the articles examined and which method could yield more successful results for which data type.
+Yazar isimleri: ['Nuh YURDUSEVEN', 'Ahmet Anıl MÜNGEN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1087654
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2308910

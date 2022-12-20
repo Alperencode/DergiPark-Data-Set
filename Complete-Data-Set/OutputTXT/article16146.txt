@@ -1,0 +1,7 @@
+Makale Başlığı: 3D Documentation of Diyarbakır Mardin Gate by Terrestrial Photogrammetry Method
+Özet: Diyarbakir is one of the important archaeological and touristic cities of Turkey, which is located in the Upper Mesopotamian part of the Fertile Crescent region and has a history of 9 thousand years. For this reason, it is very important to record and document the artifacts in this region where the cultural heritage is quite intense. With the developing technology, it has become easier to document historical artifacts and transfer them to future generations. In this direction, historical artifacts can be recorded easily and accurately with the photogrammetry technique, which is one of the important tools offered by the developing technology. With this method, a detailed model of the historical artifact can be created and recorded in the digital environment. In this study, the point cloud and 3D model of the Mardin Gate, which is a gate of the Diyarbakır Walls, located in the center of Diyarbakır, was produced and documented by terrestrial photogrammetry method. As a result of the study, the importance of documenting important archaeological and cultural artifacts and transferring them to future generations was emphasized.  
+Yazar isimleri: ['Halil İbrahim ŞENOL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Türkiye Fotogrametri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tufod/issue/70555/1099940
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2359634

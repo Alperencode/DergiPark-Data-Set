@@ -1,0 +1,7 @@
+Makale Başlığı: Deep Learning Approaches for Classification of Breast Cancer in Ultrasound (US) Images
+Özet: 
+Yazar isimleri: ['İshak PACAL']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jist/issue/73493/1183679
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2685777

@@ -1,0 +1,7 @@
+Makale Başlığı: Yüksek Yoğunluklu Polietilen (HDPE)/Atık Üre Formaldehit Polimer Karışımlarının Mekanik Özellikleri
+Özet: Bu çalışmada, yüksek yoğunluklu polietilen matris içerisine ağırlıkça % 5, 10, 20 ve % 30 oranlarında öğütülmüş üre formaldehit tozu katılmış ve ekstrüde edilmiştir. Daha sonra elde edilen karışımlar kurutulmuş ve enjeksiyon makinesinde standartlara uygun olarak test numuneleri basılmıştır. Test numuneleri testlere tabi tutularak oluşturulan polimer karışımında üre formaldehit toz oranının artmasıyla elastiklik modül değeri, kopma mukavemeti, akma mukavemeti, % uzama miktarı, sertlik değeri ve yoğunluk değerlerinin nasıl değiştiği belirlenmiştir. Ayrıca üre formaldehit partiküllerinin yüksek yoğunluklu polietilen matris içerisinde nasıl dağıldığını belirlemek için SEM mikroyapı fotoğrafları çekilerek mikroyapı analizleri yapılmıştır.
+Yazar isimleri: ['Münir TAŞDEMİR']
+Yayın Yılı: 25 Haziran 2021
+Dergi ismi: International Periodical of Recent Technologies in Applied Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/porta/issue/63024/834449
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1425998

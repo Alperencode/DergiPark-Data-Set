@@ -1,0 +1,7 @@
+Makale Başlığı: Neden Herkes Aşı Olmuyor? Covid-19 Aşı Tutumu ile İlişkili Değişkenler
+Özet: Bu çalışmada, Covid-19 aşısına yönelik tutumları etkileyen bazı değişkenler incelenmektedir. Çalışmaya 314’ü kadın, 130’u erkek toplam 444 yetişkin katılmıştır. Olumlu ve olumsuz aşı tutumları, cinsiyete göre farklılık göstermezken, eğitim düzeyi açısından her iki tutum için de gruplar arasında anlamlı bir fark gözlenmiştir. Lisansüstü eğitim grubundaki katılımcıların olumlu aşı tutum puan ortalamaları lisans mezunu gruptan yüksek, olumsuz aşı tutum puan ortalamaları da daha düşüktür. Yaş, Sinovac ve BioNTech aşılarına güven, Covid-19 tehlikelilik ve bulaşıcılık algısı ve Covid-19 nedenlerine yönelik komplo inancının aşı tutumları ile ilişkisi çoklu regresyon analizi kullanılarak incelenmiştir. Olumlu aşı tutumlarını yordayan model toplam varyansın %49’unu açıklarken, olumsuz aşı tutumlarını yordayan modelin açıkladığı toplam varyans %42’dir. Son olarak komplo inancının eğitim düzeyi ile aşı tutumu arasındaki ilişkiye aracılık ettiği, artan eğitim düzeyinin komplo inançlarını azaltarak Covid-19 olumlu aşı tutumunu güçlendirdiği gözlemlenmiştir.
+Yazar isimleri: ['Elif EMİR ÖKSÜZ']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: HUMANITAS - Uluslararası Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/humanitas/issue/73028/1058039
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2192866

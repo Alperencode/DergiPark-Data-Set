@@ -1,0 +1,7 @@
+Makale Başlığı: ON NEW INTUITIONISTIC FUZZY(\ep,η)-NEGATION AND (\ep,η)-IMPLICATION
+Özet: The concept of an Intuitionistic Fuzzy Set (IFS) was introduced in 1983 in \cite{ITKR} and again there in it, the first definition of operation intuitionistic fuzzy negation over IFS was introduced. Later, in \cite{IFPC}, two forms of the operation intuitionistic fuzzy implication were introduced. As of the 2000s, more than 200 different implications and more than 50 different negations arise and in [5 -- 21, 23, 24], their basic properties were discussed. In \cite{e,ee}, two negations, namely $\ep$-negation and $(\ep,\eta)$-negation, were introduced and over their bases $\ep$- and $(\ep,\eta)$-implications were defined, respectively. It was shown that the $(\ep,\eta)$-negation and $(\ep,\eta)$-implication are extensions of the $\ep$-negation and $\ep$-implication, respectively.
+Yazar isimleri: ['Krassimir T. ATANASSOV']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Journal of Universal Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jum/issue/71609/1134441
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2501770

@@ -1,0 +1,7 @@
+Makale Başlığı: DENTOMAKSİLLOFASİYAL RADYOLOJİDE YAPAY ZEKA UYGULAMALARININ ROLÜ: BÖLÜM 2
+Özet: Dijital teknoloji alanındaki gelişmeler; gerek medikal gerekse dental alanda tanı ve tedavi planlamasında yararlanılacak yapay zeka (YZ) uygulamalarına hız vermiştir. YZ, makinelerin insan beyninin çalışmasını taklit ederek karar verme ve tahmin etme gibi çözülmesi zor olan problemlerin çözümüne imkân tanıyan bir alandır. Medikal görüntüleme; yapay zekânın bir alt dalı olan makine öğrenmesi yöntemlerinin en popüler olduğu alanlar içerisinde yer almaktadır. Günümüz medikal araştırma alanlarının başında gelen yapay zeka uygulamaları, radyoloji ve dişhekimliği alanlarında tanı ve tedavi basamaklarının daha düşük maliyet ve daha yüksek doğrulukla gerçekleşmesini sağlamıştır. Bu derlemenin amacı; yapay zekâ uygulamaları içerisinde yer alan farklı ağ mimarileri ve öğrenme algoritmalarının dental disiplinlerdeki mevcut ve potansiyel kullanım alanlarını irdelemektir.
+Yazar isimleri: ['Elif ŞENER', 'Güniz BAKSİ ŞEN']
+Yayın Yılı: 24 Ağustos 2022
+Dergi ismi: Selcuk Dental Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/selcukdentj/issue/72290/855538
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1493578

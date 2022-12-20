@@ -1,0 +1,7 @@
+Makale Başlığı: Sosyal Bilgiler Öğretiminde Bilgi İletişim Teknolojilerinin Akademik Başarıya Etkisi: Meta Analiz Çalışması
+Özet: Bu çalışmanın amacı Türkiye’de Sosyal Bilgiler Öğretimi kapsamında Bilgi İletişim Teknolojileri ve geleneksel öğretim yöntemlerinin öğrencilerin akademik başarı puanları üzerindeki etkilerini incelemektir. Bu amaç doğrultusunda alanda yapılmış araştırmalara ait nicel veriler meta analiz yöntemiyle incelenmiş ve elde edilen sonuçlar yorumlanmıştır. Çalışma 47 adet lisansüstü teze ait nicel veriler üzerinden yürütülmüştür. Çalışma kapsamında rastgele etkiler modeline göre E++= 1.062 olarak hesaplanmıştır. Etki büyüklüğü geniş aralıkta olarak yorumlanmaktadır. Rastgele etkiler modeline göre p değeri 0.05’ten küçük olduğu sonucuna ulaşılmış ve anlamlı düzeyde farkın olduğuna ulaşılmıştır. Çalışma sonucunda Bilgi İletişim Teknolojilerinin öğrenci akademik başarıları üzerinde geleneksel yöntemlere karşı daha etkili olduğu, Bilgi İletişim Teknolojileri ve akademik başarı arasında pozitif yönde geniş ölçüde etki yarattığı sonucuna ulaşılmıştır.
+Yazar isimleri: ['Metin AŞÇI']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Manisa Celal Bayar Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cbayarsos/issue/72696/1115818
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2424453

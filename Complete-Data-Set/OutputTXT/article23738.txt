@@ -1,0 +1,7 @@
+Makale Başlığı: Feature extraction for DNA capillary electrophesis signals based on discrete wavelet transform combined with multi-scale permutation entropy
+Özet: 
+Yazar isimleri: []
+Yayın Yılı: 9 Ekim 2022
+Dergi ismi: Sigma Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sigma/issue/72968/1178811
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2665435

@@ -1,0 +1,7 @@
+Makale Başlığı: Spatial Distribution of Aquifer Parameters from Petrographic, Vertical Electrical Sounding and Remote Sensing Data in Batang-Babete Locality, West-Cameroon
+Özet: The aim of this work is to determine, using petrographic, geophysical and remote sensing studies, the spatial distribution of aquifers in the locality of Batang-Babete. The petrographic study reveals the existence of volcanic rocks (olivine basalt) throughout the study area. 1D inversion of Vertical Electrical Sounding (VES) using the Schlumberger type device highlights a multilayer aquifer system characterized by 13 types of anomalies: KH, HKH, KQ, QH, H, HK, AH, A, Q, AKH, K, KQH, KHKH, KHKH and HKH. The resistivity values given by VES and aquifer layer thicknesses have enabled spatial distribution of hydraulic parameters, parameters in front of conditioning the installation of water supply. The visible surface lineaments from Shuttle Radar Telecommunication Mission (SRTM) images reflect poor drainage in the study area. However, it follows from these lineaments two major directions which would correspond to the work of local tectonics N0-10° E and N160-170° E.
+Yazar isimleri: []
+Yayın Yılı: 4 Temmuz 2022
+Dergi ismi: International Journal of Earth Sciences Knowledge and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeska/issue/71147/1140625
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2525589

@@ -1,0 +1,7 @@
+Makale Başlığı: Meslek yüksekokulu öğrencilerinin ve akademisyenlerin radyasyon bilgi düzeylerinin değerlendirilmesi
+Özet: Amaç: Bu çalışma bir üniversitenin meslek yüksekokulunda sağlık programlarında öğrenim gören öğrenciler ile bu üniversiteye bağlı meslek yüksekokullarında çalışan akademisyenlerin radyasyon bilgi düzeylerini değerlendirme amacıyla yapıldı.  Yöntem: Tanımlayıcı tipte planlanan araştırma Şubat 2022- Mart 2022 tarihleri arasında, 163 öğrenci ve 100 akademisyen ile tamamlandı. Veri toplama formu olarak “Öğrenci Tanıtıcı Bilgi Formu”, “Akademisyen Tanıtıcı Bilgi Formu” ve “Radyasyon Tutum Ölçeği” kullanıldı. Veriler elektronik ortamda (Google Formlar) online olarak toplandı. Veri analizi SPSS 25.0 paket programında yapıldı. İstatistiksel anlamlılık için p<0.05 değeri kabul edildi.Bulgular: Öğrencilerin yaş ortalaması 20.87 yıl, %67.5’i kadın ve %75.5’i Akdeniz Bölgesinde yaşamaktaydı ve Radyasyon Tutum Ölçeğinden almış oldukları toplam puan 120.98±14.75 olarak bulundu. Akademisyenlerin ise yaş ortalaması 34.68 yıl, %60’ı erkek ,%63’ünün en uzun süre yaşadığı bölge Akdeniz ve Radyasyon Tutum Ölçeği toplam puanları 123.92±13.26 olarak belirlendi. Sonuç: Öğrenci ve akademisyenlerin radyasyon bilgi düzeylerinin orta seviyede olduğu sonucuna ulaşıldı.
+Yazar isimleri: ['Turan ŞAHMARAN', 'Sümeyye AKÇOBAN']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Mustafa Kemal Üniversitesi Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mkutfd/issue/73508/1100586
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2362394

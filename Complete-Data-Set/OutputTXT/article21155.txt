@@ -1,0 +1,7 @@
+Makale Başlığı: Su Jetlerinde Oyulmanın Karakteristiklerinin Deneysel İncelenmesi
+Özet: Oyulma, hidrolik yapıların emniyeti açısından büyük önem taşımaktadır. Su jetlerinden dolayı mansapta oluşan oyulma, hidrolik yapının ağır hasar görmesine sebep olabilmektedir. Bu çalışmada, dairesel ağızlıktan çıkan su jetlerinin eğimli bir şekilde mansap havuzuna çarpması sonucu oluşan oyulmanın karakteristiklerini belirlemek amacıyla bir dizi deneyler yürütülmüştür. Deneyler; üç adet jet çarpma açısı, üç adet ağızlık çapı, üç adet ağızlık çıkış hızı ve iki farklı çarpma mesafesi için yürütülmüştür. Dairesel su jeti nedeniyle çarpma havuzunda oluşan denge zamanındaki oyulma detaylı bir şekilde incelenmiştir. Su jeti nedeniyle oluşan oyulma  karakteristikleri; çarpma açısı (), boyutsuz çarpma mesafesi (H/d),  denismetrik Froude sayısı(F0), ağızlık çapı (d) ve jetin ağızlıktan çıkış hızı dikkate alınarak incelenmiştir. Aynı koşullar altında çarpma açısı küçüldükçe oyulma çukuru karakteristiklerinin (maksimum oyulma derinliği tepe yüksekliği, oyulma çukuru uzunluğu, oyulma çukuru genişliği, vb.)arttığı özellikle büyük çıkış hızlarına sahip jetlerde bu durum daha da belirginleşmiştir.
+Yazar isimleri: ['Veysi KARTAL', 'M. Emin EMİROĞLU']
+Yayın Yılı: 30 Mart 2021
+Dergi ismi: Su Kaynakları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/su/issue/61087/875726
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1560762

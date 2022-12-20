@@ -1,0 +1,7 @@
+Makale Başlığı: Simulation Study on Power Factor Correction Controlling Excitation Current of Synchronous Motor with Fuzzy Logic Controller
+Özet: 
+Yazar isimleri: ['Ahmet GANİ', 'Ökkeş Fatih KEÇECİOĞLU', 'Hakan AÇIKGÖZ', 'Mustafa ŞEKKELİ']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/270575
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/237168

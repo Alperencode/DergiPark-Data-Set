@@ -1,0 +1,7 @@
+Makale Başlığı: SANATIN YENİ TEKNOLOJİSİ: NFT ÖZGÜN VE ÖZGÜR MÜ?
+Özet: Bu çalışma hem günümüzde bir çeşit kolay para kazanma hem de blockchain teknolojisi ile “geleceğin sanatı” olarak mitselleştirilmiş NFT (takas edilemez belirteç) olgusunu tarihsel ve toplumsal bağlamlarına oturtma girişimidir. Akıllı sözleşmelere dayanan yapısı nedeniyle NFT’ler bugün dijital ortamda kopyalanabilirliğin önüne geçen bir sistem olarak anlaşılmaktadır. Dolayısıyla literatürde NFT’lerin dijital ortamda sanat için özgün ve özgür bir ortam sağlayıp sağlamayacağı tartışılmaktadır. Bu çalışmada Theodor W. Adorno ve Walter Benjamin’in sanatın mekanikleşmesi üzerine yaptıkları tartışmanın izleri NFT’ler özelinde aranmıştır. Henüz yeni bir alan olan kripto sanat ile ilgili literatür taraması gerçekleştirilmiş ve NFT’ye atfedilen özellikler tematik analiz ile irdelenmiştir. Telif/patent, fikri mülkiyet, piyasaların sanatçılar üzerindeki hegemonyası çerçevesinde NFT’lerin özgünlüğü; merkezileşme, şeffaflık, maliyetlerin düşüşü bağlamında ise NFT’lerin özgürlüğü tartışılmıştır. NFT’lerin alanda sağlayacağı yeniliklerin yanı sıra birçok yeni tartışmaya da kapı aralayacağı anlaşılmaktadır.Anahtar Kelimeler: NFT, Blockchain, Theodor W. Adorno, Walter Benjamin, kripto sanat
+Yazar isimleri: ['Can CENGİZ', 'Özge CENGİZ']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Moment Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/moment/issue/70570/1080670
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2281248

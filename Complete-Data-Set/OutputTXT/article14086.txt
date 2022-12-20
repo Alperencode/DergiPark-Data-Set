@@ -1,0 +1,7 @@
+Makale Başlığı: MÜHENDİSLİK PROBLEMLERİNİN MATLAB SIMULINK PROGRAMI DESTEĞİYLE MATEMATİKSEL MODELLENMESİ
+Özet: Bir mühendis yüklendiği tüm görevlerin her aşamasında oluşturduğu modellerin çözümleri için basit ya da karmaşık hesaplamalar yapar. Bu hesaplamaları yaparken basit bir hesap makinasından faydalandığı gibi bir takım bilgisayar programlarından da faydalanabilmektedir. Çeşitli mekanizmaların, problemlerin ve uygulamaların; Matlab Simulink üzerinden; statik modelleme, dinamik modelleme, sürekli modelleme, kesikli modelleme, açık döngü modelleme, kapalı döngü modelleme, basit sarkaç, çift sarkaç, Krank-Biyel modelleme çalışmaları yapılmış ve tasarlanan mekanizma ve uygulamalar için bir ara yüz oluşturulmuştur.
+Yazar isimleri: ['Hikmet İMAMOĞLU', 'Süleyman Murat BAĞDATLI']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Soma Meslek Yüksekokulu Teknik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/somatbd/issue/71302/1112039
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2409134

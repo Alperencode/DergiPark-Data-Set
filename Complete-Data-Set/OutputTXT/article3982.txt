@@ -1,0 +1,7 @@
+Makale Başlığı: Müşteri şikâyet yönetiminde firmaların performanslarının değerlendirilmesi: Kümeleme analizi incelemesi
+Özet: Müşteri memnuniyetinde, hizmet ve ürünün kalitesi kadar müşteri şikayetlerinin dikkate alınması ve etkili bir şekilde yönetilmesi de oldukça önemli rol oynar. Günümüzde online ortamlarda şikayet daha fazla tercih edilmektedir. Bu çalışmanın amacı, kümeleme analizini kullanarak internet ortamında firmaların aldığı müşteri şikayetlerini ve bunları yönetim performanslarını değerlendirmektir. Bu amaca yönelik Sikayetvar.com internet sitesinden elde edilen veriler, CRISP-DM (Cross Industry Standard Process for Data Mining; Çapraz Endüstri Veri Madenciliği Standart Süreci) adımları baz alınarak iki aşamalı kümele analizi yöntemiyle analiz edilmiş ve elde edilen firma kümeleri profillenmiştir. Ayrıca elde edilen sonuçlar sektör bazlı olarak değerlendirilmiştir. Bu çalışmada önerilen yaklaşım ile firmalar şikayet yönetim performanslarını tespit edebilecek, diğer firmalar içindeki yerini görebilecek ve bu bağlamda başarılı firma profillerini baz alarak kendilerini geliştirebileceklerdir.
+Yazar isimleri: ['Serhat PEKER']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Dicle Üniversitesi Mühendislik Fakültesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dumf/issue/72718/1126199
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2467420

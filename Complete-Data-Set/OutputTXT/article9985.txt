@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Analysis of Systemic Important Banks with IDOCRIW and CoCoSo Methods: Example of Turkey
+Özet: The function of banks in financial markets is developing day by day. The risk potential increases in proportion to the importance of the sector in the economy. In particular, the impact of the 2008 financial crisis on the global economy prompted the supervision and surveillance mechanisms to be more careful. Performance measurements of banks are among the topics that are frequently examined in the literature. In this study, it is aimed to examine the performance of banks in terms of CAMELS variables. Accordingly, to determine the weights of the variables, the IDOCRIW method, one of the Entropy-based objective criterion weighting methods; CoCoSo method was used for financial performance ranking. Within the scope of the research, 8 banks, called systemic banks, were preferred. In this direction, annual bank data for the period 2010-2020 were evaluated using 20 variables. It has been observed that Ziraat Bank, İşbank and Garanti Bank are in an increasing trend in terms of performance scores, while Halkbank is in a decreasing trend in terms of calculated performance scores.
+Yazar isimleri: ['Malik Ejder ÇİFTASLAN', 'Ömer Faruk RENÇBER']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ksusbd/issue/73214/1135258
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2505114

@@ -1,0 +1,7 @@
+Makale Başlığı: Kendinden Helisel Kanatlı Boruların Isı Transfer Performansını Artırmaya Yönelik  Yeni Bir Yaklaşım
+Özet: Bu çalışmada, kendinden helisel kanatlı boruların ısı transfer performanslarını artırmak için borunun cidar kalınlığı inceltilerek kanat yüksekliğini artırma uygulamasına gidildi. Bu amaç için başlangıçta 3 mm et kalınlığına sahip standart bir boru seçildi ve bu borunun malzemesi ve çalışma koşulları dikkate alınarak boru mukavemet bağıntısı ile borunun et kalınlığı yeniden hesaplandı. Hesaplama sonucunda boru et kalınlığı 1,077 mm olarak bulundu ve bu değerin standart olarak seçilen boru et kalınlığından (3 mm) daha ince olduğu görüldü. Bu şekilde bir uygulama ile boru cidar kalınlığı azalırken başlangıçta standart boru için seçilen 5 mm’ lik kanat yüksekliğinin ise 6,923 mm ye artırılması sağlandı. Daha sonra her iki boru 10, 20 ve 30 mm’ lik hatvelerde Solidwork ortamında tasarlandı. Tasarımları yapılan boruların ısıl performansları ise Ansys Fluent ortamında farklı Reynolds (Re) sayıları (5000, 10000 ve 15000) kullanılarak incelendi. Bu analiz sonuçlarına göre ısı transferi açısından en iyi performans 5000 Re değerinde ve cidar kalınlığı 1,077 mm olan boruda elde edildi.
+Yazar isimleri: ['Cihan ÖZEL', 'Cevher Kürşat MACİT', 'Ali TAŞKIRAN', 'Meral ÖZEL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fufbd/issue/72741/1125874
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2466049

@@ -1,0 +1,7 @@
+Makale Başlığı: Spectroscopic Characterization and DFT Calculations on 1H-benzimidazole-2-carboxylic acid monohydrate Molecule
+Özet: After first determining the optimized geometry of the 1H-benzimidazole-2-carboxylic acid monohydrate (1HBCM) molecule using the B3LYP/6-311+ + G (d, p) basis set, we investigated the spectroscopic properties, electronic properties and optical band gap of the molecule. We presented the fitted values of the vibrational frequencies of the molecule both as a table and as a spectrum and compared them with the experimental data. While the band gap energy (E) values of the molecule were calculated using HOMO and LUMO energies, the optical band gap (Eg) values of the molecule were obtained from the Tauc equation. We have given the Eg values of the molecule calculated for direct and indirect transmission by comparing them with the experimental data. In the article, we have also calculated and presented the data of the 1HBCM molecule such as MEP, Mulliken, and DOS.
+Yazar isimleri: ['Emine BABUR ŞAŞ', 'Songül ÇİFÇİ', 'Mustafa KURT']
+Yayın Yılı: 20 Ekim 2022
+Dergi ismi: Sakarya Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/saufenbilder/issue/73051/1100391
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2361592

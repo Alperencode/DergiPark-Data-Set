@@ -1,0 +1,7 @@
+Makale Başlığı: Cyclamen cilicium’un farklı kısımlarının antioksidan ve anti-proliferatif aktiviteleri
+Özet: Bu çalışma Cyclamen cilicium türünün farklı kısımlarının (toprak üstü ve toprak altı kısımları) aseton, metanol ve su ekstraklarının antioksidan ve anti-proliferatif aktivitelerini araştırılması için tasarlanmıştır. Antioksidan aktivite için DPPH, ABTS serbest radikal giderim aktiviteleri belirlenmiştir. Ekstrelerin Caco-2 kolon kanseri hücrelerindeki anti-proliferatif aktiviteleri XTT testi ile belirlenmiştir. İçeriklerin belirlenmesi için toplam fenolik, flavonoid ve tanen içerikleri belirlenmiştir ve sırasıyla 3.69 ± 0.13 (mg GAE/g-ekstrakt), 18.48 ± 0.12 (mg QE/g-ekstrakt), 41.17 ± 0.44 (mg CE/g-ekstrakt) bulunmuştur. C. cilicium ekstreleri, Caco-2 kolon kanseri hücrelerinde anti-proliferatif aktivite sergilemiştir. Toprak üstü kısmının metanol ve su ekstreleri ve toprak altı kısmının su ekstresinin IC50 değerleri 24 saatte sırasıyla 35.3276 μg/mL, 42.1831 μg/mL and 64.6144 μg/mL bulunmuştur. Sonuçlar, C. cilicium’un doğal antioksidanların bir kaynağı olduğu ve ilaç, sağlık, biyoteknoloji ve tarımsal endüstrilerde potansiyel kullanımlara sahip olabileceğini göstermiştir.
+Yazar isimleri: ['Murat TURAN', 'Mücahit SEÇME', 'Ramazan MAMMADOV']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/925496
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1726301

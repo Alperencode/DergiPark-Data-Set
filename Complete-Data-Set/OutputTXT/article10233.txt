@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye'de Sosyo-Ekonomik Değişkenler ve Sera Gazı Emisyonları Arasındaki İlişkinin Gen İfade Programı ile Belirlenmesi
+Özet: Ekonomik kalkınmanın en önemli göstergelerinden biri çevre kalitesidir. Çevre kirliliği ve iklim değişikliğinin en önemli kaynaklarından biri sera gazı emisyonlarıdır. Bu çalışmada, enerji tüketimi, ekonomik kalkınma (GSYİH) ve nüfusa bağlı olarak sera gazı (GHG) emisyonlarını tahmin etmek için Gen İfade Programlamasına (GEP) dayalı yeni bir yaklaşım kullanılmıştır. GEP modelinin güvenilirliği, çeşitli istatistiksel göstergeler kullanılarak belirlenmiştir. Enerji tüketimi-GSYİH-nüfus ve GHG emisyonları arasındaki ilişkide R2, MAPE ve RMSE değerleri sırasıyla 0.99337, 0.06987 ve 7.1355 olarak bulunmuştur. Duyarlılık analizi sonucunda enerji tüketiminin sera gazı emisyonları üzerinde en yüksek etkiye sahip olduğu görülmüştür. Elde edilen sonuçlar, Gen İfade Programlamanın sera gazı emisyonlarını modellemek için başarılı bir şekilde kullanılabileceğini göstermektedir.
+Yazar isimleri: ['Derya ŞENCAN', 'Erkan DİKMEN']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Karamanoğlu Mehmetbey Üniversitesi Sosyal Ve Ekonomik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kmusekad/issue/70427/1047519
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2157649

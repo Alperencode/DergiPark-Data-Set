@@ -1,0 +1,7 @@
+Makale Başlığı: Bearing Capacity of Hollowed Shallow Foundation on Cikarang Expansive Clays – An Alternative Foundation for Light Weight Structures
+Özet: An 800 mm x 800 mm dimension shallow foundation is proposed as an alternative to bear light-weight structure. Unlike the conventional shallow foundation which is installed in-situ, the proposed foundation system is precast concrete and predesigned with void within inner part of the foundation body to accommodate the predicted heave as it is installed on expansive soil layer. Full-scale load test was conducted to study its bearing capacity performance. The site is located in Cikarang – a town in West Java, Indonesia – that is widely known as expansive clay deposit. The field test shows allowable bearing capacity of the proposed hollowed foundation reached 16.4 ton despite smaller contact area due to void. In addition, a finite element model is used for comparison and to furthermore estimate soil stiffness parameter. Through this study, it is suggested that the proposed foundation is considered feasible as an alternative to conventional footing foundation to bear light-weight structure.
+Yazar isimleri: []
+Yayın Yılı: 4 Temmuz 2022
+Dergi ismi: International Journal of Earth Sciences Knowledge and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeska/issue/71147/1140620
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2525567

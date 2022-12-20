@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF SETTING OFF DEFERRED TAX ON FINANCIAL RATIOS
+Özet: Deferred tax reflects the difference between tax payable on accounting profit and tax payable on taxable profit. According to International Financial Reporting Standards (IFRS), deferred tax must be presented in financial statements. Deferred tax is presented in the statement of financial position as “Deferred Tax Asset” and “Deferred Tax Liability”. However, it is also possible to set off deferred tax, provided that certain conditions are met. This study aims to investigate the effect of deferred tax on financial ratios in cases where it is presented with or without offsetting. With this aim, the data in the financial reports of 29 companies that set off the deferred tax in the Borsa Istanbul (BIST) Chemicals, Pharmaceutical, Petroleum, Rubber and Plastic Products sectors were analysed. The ratios that will be most affected when the deferred tax is set off are determined as financial leverage, equity to debt ratio, the ratio of long-term liabilities to total liabilities and return on assets. It has been determined that the ratio of long-term liabilities to total liabilities is the most affected one among the ratios.
+Yazar isimleri: ['Vildan Evrim ALTUK ÖZTÜRK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Finans Ekonomi ve Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fesa/issue/72711/1166003
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2612153

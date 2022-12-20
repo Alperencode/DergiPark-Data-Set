@@ -1,0 +1,7 @@
+Makale Başlığı: Hyperbolic Number Forms of the Euler-Savary Equation
+Özet: This study deals with hyperbolic number forms of the Euler-Savary Equation (ESE) that find one of the four points on a pole ray, provided the other three are known. These hyperbolic number forms are examined under one-parameter planar hyperbolic motions that are examined according to the osculating circles contacting through three infinitesimally close points. The hyperbolic number approach gives more detailed information than the traditional method. Thus, it eliminates sign errors and provides convenience in the application. As a final part, examples are given to show the utility of the practical way in the application.
+Yazar isimleri: ['Duygu ÇAĞLAR', 'Nurten GÜRSES']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1127959
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2474849

@@ -1,0 +1,7 @@
+Makale Başlığı: CIVETS Borsa Endekslerinin Dinamik Etkileşimi
+Özet: Bu çalışmada, CIVETS ülkeleri pay senedi piyasa endeksleri; COLCAP (Kolombiya), IDX Composite (Endonezya) VN (Vietnam), EGX 30 (Mısır), BIST 100 (Türkiye) ve TOP 40 (Güney Afrika) arasındaki dinamik etkileşim araştırılmıştır. Ocak 2011 ile Aralık 2020 arası dönemi kapsayan ve haftalık verilerin kullanıldığı çalışmada, CIVETS ülke borsaları arasındaki volatilite yayılımı ve ortak hareket ilişkisi köşegen BEKK GARCH modeli ve Sabit Koşullu Korelasyon (CCC) GARCH modeli kullanılarak incelenmiştir.Çalışmanın deneysel sonuçları, Vietnam piyasası ve Türkiye piyasası dışında CIVETS ülke piyasaları arasında eş zamanlı volatilite yayılma etkisinin olduğunu göstermiştir. Ortak hareket ilişkisi açısından, CIVETS ülkelerinin piyasaları arasında Endonezya, Güney Afrika ve Kolombiya piyasaları arasında yüksek düzeyde ve Vietnam, Mısır ve Türkiye piyasaları arasında düşük düzeyde ortak hareket ilişkisi olduğu ortaya çıkmıştır. Her iki modelin sonuçları, CIVETS piyasalarında oynaklık kümelenmesi olduğunu ve önceki dönemdeki yurt içi şokların ve önceki dönemin oynaklığının cari dönem oynaklığını etkilediğini göstermiştir.
+Yazar isimleri: ['İsmail ŞENCAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Econder Uluslararası Akademik Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/econder/issue/70783/943472
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1790286

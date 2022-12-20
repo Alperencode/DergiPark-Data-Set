@@ -1,0 +1,7 @@
+Makale Başlığı: Alüminyum Köpük Malzemenin Plastik ve Alüminyum Kılıf ile Kullanılmasının Çarpışma Kutularındaki Enerji Emilimine Etkisi
+Özet: Araçlarda en önemli güvenlik elemanlarından biri ön çarpışma traversidir. Çarpışma traversleri aracın ön veya arkasına bağlantı elemanlarıyla montajlanan yapılardır. Görevleri; çarpışma esnasında gelen yükleri sönümleyerek önemli bileşenlere (motor ve motor boşluğunda bulunan parçalar, gövde vb.) zarar verilmesini önlemek, aynı zamanda sürücü ve yolcu kabinine zarar gelmemesi için sönümleme sonrasındaki kuvvetleri aracın şase kollarına aktarmaktır. Çarpışma traverslerindeki en önemli elemanlar çarpışma kutularıdır. Çarpışma kutuları enerjinin büyük oranda emilimini sağlamaktadırlar. Bu makalede, çarpışma kutularında alüminyum köpüğün plastik kılıf ve alüminyum kılıf ile kullanılmasının enerji emilimine etkisi incelenmiştir. Alüminyum köpüğün enerji emilimi davranışında kılıf olarak kullanılan malzemenin önemli bir etkisi olduğu ve alüminyum kılıf malzemenin plastik kılıf malzemeye göre daha üstün olduğu görülmüştür.
+Yazar isimleri: []
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Bilim Teknoloji ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/istd/issue/71031/1138842
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2518876

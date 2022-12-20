@@ -1,0 +1,7 @@
+Makale Başlığı: Generation and Transmission of Action Potential in Nerve Cells and Neuron Populations Based on the Realistic Hodgkin-Huxley Neuron Model
+Özet: 
+Yazar isimleri: ['Ramazan TEKİN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bitlis Eren Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bitlisfen/issue/72854/1141741
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2530211

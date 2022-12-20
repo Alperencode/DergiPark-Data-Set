@@ -1,0 +1,7 @@
+Makale Başlığı: NOVEL MONONUCLEAR METAL-PHOSPHINITE COMPOUNDS AND CATALYTIC PERFORMANCE IN TRANSFER HYDROGENATION OF KETONES
+Özet: Since the obtained chiral alcohols are rather useful as well as biologically active compounds, reduction of ketones to their respective alcohols is a crucial topic in synthetic chemistry. Thus, a new phosphinite ligand was synthesized by the interaction of cationic species N-vinyl imidazolium (1) with PCy2Cl. This phosphinite ligand in combination with [Ru(η6-p-cymene)(µ-Cl)Cl]2 and Ir(η5-C5Me5)(μ-Cl)Cl]2 gave active catalytic systems for transfer hydrogenation reaction. Under optimum circumstances, ruthenium complex (3) showed rather high conversion reduction reaction of acetophenone. Reversibility of the transfer hydrogenation reaction was found to be low under these reaction circumstances.
+Yazar isimleri: ['Uğur IŞIK', 'Murat AYDEMİR']
+Yayın Yılı: 17 Haziran 2022
+Dergi ismi: Middle East Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mejs/issue/70342/1077805
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2270223

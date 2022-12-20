@@ -1,0 +1,7 @@
+Makale Başlığı: Bakır Bara ve Flex Örgü Birleşiminde Kullanılan Direnç Nokta Kaynağı Optimizasyonu
+Özet: Bu çalışmanın amacı enerji iletim sektöründe ki bakır bara ve flex örgü birleşiminde kullanılan direnç nokta kaynağında parametre optimizasyonu yapmaktır. Bu sayede meydana gelebilecek olan enerji iletim kayıplarını da en aza indirmek mümkün olabilecektir. Bu kapsamda şalterlerde kullanılan bara ve flex örgülerin kaynak işlemleri 500 kVA’lık elektrik direnç nokta kaynak makinesinde gerçekleştirilmiştir. Kaynak akım şiddeti ve kaynak süresinin elde edilen bağlantıların dayanımına olan etkileri incelenmiştir. Sonuçta kaynak akım şiddetinin aşırı yüksek olması halinde malzemede hasar oluştuğu, kaynak süresinin düşük seviyede olması halinde ise yetersiz kaynak nüfuziyeti oluştuğu gözlemlenmiştir. Elde edilen kaynaklı bağlantıların çekme testleri yapılarak kopma dayanımları ile kaynak parametreleri arasındaki ilişki belirlenmiştir. Belirtilen işlemlerin ardından optimum kaynak işlemi için çalışmalar devam etmiş ve birleştirme için yeni kaynak parametreleri üretimde uygulanmaya başlanmıştır.
+Yazar isimleri: ['Burak ÇAKIR', 'Hakan AVCI']
+Yayın Yılı: 20 Haziran 2022
+Dergi ismi: Journal of Marine and Engineering Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinmet/issue/70407/1117300
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2430453

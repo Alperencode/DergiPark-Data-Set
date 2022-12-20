@@ -1,0 +1,7 @@
+Makale Başlığı: Optimal Clutch Control of a One-way Clutch Assistant Transmission for Electrical Vehicles
+Özet: 
+Yazar isimleri: ['Zhi GENG', 'Gang LI']
+Yayın Yılı: 3 Ekim 2022
+Dergi ismi: International Journal of Automotive Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijastech/issue/72201/1119271
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2438963

@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of optimum design parameters of glow plug and experimental verification
+Özet: In Diesel Engines, the heat energy obtained from the glow plug increases the engine's ability to start up in cold climatic conditions and significantly reduces emissions of harmful gases leaving the exhaust. In cold climatic conditions, before the start off of diesel vehicles it is necessary to wait for about 10 s the cylinder block heating. This period negatively affects driving comfort. In this study, the mathematical results of the processes to optimize the time required for the glow plug to reach the required temperature have been experimentally proven. A test apparatus was developed to confirm experimentally the theoretical results. Thanks to these improvements concerning the manufacture of the glow plug, the time period to reach 850 ° C has been reduced by approximately 5 s. The proposed design is in accordance with the glow plug present in the market. Currently the whole glow plug must be changed at the end of lifetime, with our improvement only the inner tube resistance can be easily changed involving a cost reduction by about 60%.
+Yazar isimleri: ['Muciz ÖZCAN', 'M. Fahri ÜNLERŞEN', 'Mehmet ŞEN']
+Yayın Yılı: 15 Nisan 2023
+Dergi ismi: Turkish Journal of Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tuje/issue/69578/1062681
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2211430

@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Mutluluğa Etki Eden Faktörlerin İncelenmesi
+Özet: Bu çalışmanın amacı, Türkiye’de yaşayan bireylerin mutluluk düzeylerini etkileyen faktörlerin neler olduğunu araştırmak ve bu faktörlerin değişimini karşılaştırmalı olarak iki farklı dönemde takip etmektir. Bu amaç için TÜİK tarafından uygulanan Yaşam Memnuniyeti Araştırması’nın verileri, 2004-2012 ve 2013-2019 şeklinde havuzlanarak iki farklı dönemde kullanılmış ve bu veri setleri genelleştirilmiş sıralı logit model ile tahmin edilmiştir. Analiz bulgularına göre, her iki dönemde bireylerin mutluluğu arttıran ortak faktörler; yüksek gelire sahip olmak, evli olmak, çalışmak, sağlıktan ve aylık gelirden memnun olmak ve evde güvenli hissetmek olarak belirlenmiştir. Ayrıca 2013-2019 döneminde diğer dönemden farklı olarak gelirin artması, tasarruf yapmak mutluluğu olumlu etkilerken, ucuz ürün tüketmek ve borçlanmak mutluluğu olumsuz etkilemiştir. Öte yandan sadece 2004-2012 döneminde kentte yaşayan, gelecekte hayatın ve mali durumun iyi olmasını bekleyen kişiler daha mutlu yaşamaktadırlar.
+Yazar isimleri: ['Keziban ALTUN ERDOĞDU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1014680
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2046134

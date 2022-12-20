@@ -1,0 +1,7 @@
+Makale Başlığı: Alitame hesapsal Raman spektrumu
+Özet: Alitame yapay bir tatlandırıcıdır ve diğer birçok tatlandırıcı gibi yiyecek ve içeceklerde tatlı bir tat vermek için kullanılır. Bu tatlandırıcılar moleküler yapılarına ve işlevlerine göre farklı tatlılık skalası sergilerler. Ayrıca birçok yapay tatlandırıcının çok detaylı titreşim spektrumları olmadığı için hem deneysel hem de hesaplamalı verilerin elde edilmesi ve bu tür bileşikler üzerinde toplanmasına ihtiyaç vardır. Bu çalışmada, Raman spektrumları Gaussian09 yazılımı ile DFT/6-311 ++ G(2df,2p) yöntemi ve baz seti ile hesaplanmıştır. Titreşim modları atanmış ve alitamın 100-3600 cm-1 aralığındaki hesaplamalı Raman spektrumu ilk kez burada sunulmuştur. Bu nedenle, titreşim verilerinin ortaya çıkarılması ve bu tür bileşikler üzerindeki moleküler titreşimler ile yapı-aktivite ilişkileri arasında sağlam bağlantılar kurulması, gelecekte olası bir spektroskopik tatlılık ölçeği oluşturularak tatlandırıcıların tatlı tatlarının doğasını anlamanın yolunu açacaktır.
+Yazar isimleri: ['Bergüzar YILMAZ', 'Ozan ÜNSALAN']
+Yayın Yılı: 23 Ekim 2022
+Dergi ismi: Journal of Spectroscopy and Molecular Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsms/issue/68561/1049819
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2162594

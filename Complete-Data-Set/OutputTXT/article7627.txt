@@ -1,0 +1,7 @@
+Makale Başlığı: Pirimidin-5-Karbonitril Türevlerinin ve Farklı Şekilde İkame Edilmiş Karbazollerin Işık Yayan Özellikleri: Teorik Bir Hesaplama
+Özet: Bu çalışmada 4,6-Di (9H-karbazol-9-il) pirimidin-5-karbonitril (C1), 4,6-bis (3,6-di-tert-butil-9H-karbazol-9-il ) pirimidin-5-karbonitril (C2), 4,6-bis (3,6-dimetoksi-9H-karbazol-9-il) pirimidin-5-karbonitril (C3) bileşikleri B3LYP / 6-31G (d ) seviyesi. Sınır moleküler orbitallerin enerji yoğunlukları moleküler özellikleri incelenmiştir. Dikey iyonlaşma potansiyelleri (IPv), adyabatik iyonizasyon potansiyeli (IPa) (eV cinsinden), dikey elektron afinitesi (EAv), adyabatik elektron afinitesi (EAa), delik yeniden organizasyon enerjisi (h) ve elektron yeniden organizasyon enerjisi (e) hesaplandı (eV cinsinden) C1, C2 ve C3 bileşikleri için. C1 ve C3 bileşiklerinin e değerleri 0.29 ve 0.30 eV ve h değeri sırasıyla 0.18 ve 0.20 eV'dir. C1 ve C3 bileşiklerinin e değerleri 0,276 eV'den büyük ve h değeri 0,290 eV'den küçük olduğu için elektron taşıyan tabakalar (ETL) malzemesi olarak uygun olmadığı söylenebilir, bu nedenle delik yatak katmanları (HTL) için uygun bir malzemedir. C2 bileşiği hem ETL hem de HTL malzemeleri için uygundur.
+Yazar isimleri: ['Necdet KARAKOYUN', 'Sultan ERKAN']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: International Journal of Innovative Engineering Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiea/issue/70503/935455
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1761418

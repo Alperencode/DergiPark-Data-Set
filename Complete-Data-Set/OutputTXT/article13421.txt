@@ -1,0 +1,7 @@
+Makale Başlığı: REAL TIME ANALYSIS OF IMPEDANCE ALTERATIONS BY THE NEUROTOXICITY OF SCOPOLETIN ON SHSY5Y NEUROBLASTOMA CELLS
+Özet: Plant coumarins are important components of the human diet and a number of them are considered to possess chemopreventive and therapeutic properties against cancer. Scopoletin, a natural coumarin component has been shown to inhibit the growth of many cancer cells. In this study, the cytotoxic activity of scopoletin was studied against human neuroblastoma cells SHSY5Y. The activity of scopoletin was evaluated by Sulphorhodamine B (SRB) assay and xCELLigence system. It was demonstrated that scopoletin reduced human SHSY5Y neuroblastoma cell viability. Scopoletin inhibited the growth of the cell line and the IC50 values were 91.82 and 79.19 μM for 48 h and 72 h, respectively. The findings from this study demonstrated that the growth inhibitory and cytotoxic effects of scopoletin on SHSY5Y cells may prove essential in the development of novel treatment regimens for neuroblastoma cancer.
+Yazar isimleri: ['Ayşe Kübra KARABOĞA ARSLAN', 'Aysun ÖKÇESİZ', 'Leyla PAŞAYEVA']
+Yayın Yılı: 11 Ağustos 2022
+Dergi ismi: Sağlık Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/eujhs/issue/71449/1026861
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2093605

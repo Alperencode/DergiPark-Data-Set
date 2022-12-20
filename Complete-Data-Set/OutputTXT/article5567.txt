@@ -1,0 +1,7 @@
+Makale Başlığı: Memkapasitör ve Konformal Fraksiyonel Dereceli Kondansatörün Bir Araya Getirildiği İki Kapasitör Problemi
+Özet: Kesirli mertebeli kondansatörler ve memkapasitörler son yıllarda önemli bir araştırma alanı haline geldi. Her iki devre elemanının analog uygulamaları giderek yaygınlaşmaktadır. Literatürde, uyumlu kesirli türev (UKT), kullanımı ve anlaşılması kolay olması nedeniyle çok ilgi görmektedir. Bazı süperkondansatörler zaten uyumlu kesirli türev ile modellenmiştir. İki kondansatör problemi fizikte önemli bir problemdir. Son zamanlarda, bir UKT kondansatörü ve bir lineer zamanla değişmeyen (LZD) kondansatörü ile bir iki kondansatör problemi incelenmiştir. Bildiğimiz kadarıyla, literatürde henüz bir UKT kondansatör ve bir memkapasitörden oluşan bir devre incelenmemiştir. Bu çalışmada, literatürde ilk kez simülasyonlar kullanılarak bir UKT kondansatörü ve bir memkapasitörden oluşan bir devre, bir - iki kondansatörlü bir problem incelenmiştir. Devrenin sürekli geçici rejimde olduğu görülmüştür.
+Yazar isimleri: ['Utku PALAZ', 'Reşat MUTLU']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: European Journal of Engineering and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejeas/issue/71559/1115102
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2421415

@@ -1,0 +1,7 @@
+Makale Başlığı: Teknostres ve İş Performansı İlişkisinde Örgütsel Sinizmin Aracılık Rolü: Öğretmenler Üzerinde Bir Çalışma
+Özet: Bu çalışmanın temel amacı, teknostres ve iş performansı arasındaki ilişkide örgütsel sinizmin aracılık rolünü incelemektir. Veriler Türkiye'de resmi ve özel okullarda görev yapan 234 öğretmenden elde edilmiştir. Çalışmada korelâsyon ve regresyon analizleri ile değişkenler arası ilişkiler ve etkileri belirlenmiş, yapısal eşitlik modeli ile de ölçeklere doğrulayıcı faktör analizi uygulanmıştır. Ayrıca, çalışmada aracılık rolü Process modülünde önyükleme testi ile incelenmiştir. Bulgular, yaygın olarak kullanılan geçerlik ve güvenirlik analiz yöntemlerinin sonuçlarıyla ölçeklerin geçerlilik ve güvenirliğinin sağlandığını göstermektedir. Bulgular, teknostres ve örgütsel sinizmin iş performansını azalttığını ve teknostresin örgütsel sinizmi önemli ölçüde artırdığını göstermektedir. Daha ileri aracılık analizi, teknostres ve iş performansı arasındaki ilişkide örgütsel sinizmin kısmi aracılık rolü olduğunu ortaya koymaktadır.
+Yazar isimleri: ['Rukiye CAN YALÇIN', 'Yunus GÖKMEN', 'Haluk ERDEM', 'Ufuk TÜREN']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1027874
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2097597

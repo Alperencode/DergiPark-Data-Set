@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of weld defects and mechanical properties of dissimilar friction stir spot welded dual phase (DP600) steel and aluminum alloy (AA 7075-T6) plates
+Özet: DP600 steel and AA7075-T6 aluminium alloy plates were joined using the friction stir spot welding process. The effects of different tool rotational speeds on the mechanical properties, intermetallic compound formation and interface microstructure of welded joints were investigated. The highest lap shear tensile load was obtained from the samples joined at a rotational speed of 1040 rpm (6.5 kN). It was determined that the tensile load of the welded joint decreased with increasing tool rotational speed. XRD analysis performed on broken surfaces, the intermetallic phase was determined to be Al13Fe4. As a result of Vickers microhardness tests, the samples joined at 1320 rpm and 1500 rpm, in the structure of which intermetallic compounds were determined by XRD analysis, displayed higher hardness values. In addition, when scanning electron microscope images were examined, it was determined that the cracks observed in the samples and the porosity both increased with increasing tool rotational speed.
+Yazar isimleri: ['Ahmet ÇAKAN', 'Mustafa UĞURLU']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: European Mechanical Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ems/issue/73507/1161862
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2595740

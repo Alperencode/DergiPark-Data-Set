@@ -1,0 +1,7 @@
+Makale Başlığı: DEFAULT RİSKİNE DAYALI OLARAK TÜRKİYE’DE KONUT FİYAT KÖPÜKLERİNİN VARLIĞININ ANALİZİ: TRA 1 BÖLGESİNDEN KANITLAR
+Özet: Bu çalışma, konut piyasasında fiyat köpüklerinin varlığını default riski ölçeğinde belirleme amacına sahiptir. Araştırma, Türkiye'de bölgesel sınıflandırma da Kuzeydoğu Anadolu Bölgesi yer alan ve Erzurum, Erzincan ve Bayburt illerini kapsayan TRA1 bölgesi örnekleminde gerçekleştirilmiştir. 2013-2020 inceleme dönemine sahip araştırmada aylık veriler kullanılmıştır. İki aşamalı bir araştırma içeriğine sahip olan araştırmada öncelikle  şehirler özelinde konut piyasası arz ve talep dengesi incelenmiştir. Araştırma döneminde Erzincan ilinde ciddi arz fazlalığı göze çarparken, Erzurum ve Bayburt illerin talep fazlalığının yaşandığı görülmüştür. Araştırmanın ikinci aşamasında TRA1 bölgesindeki iller için konut varlık köpüğünün olup olmadığı ARDL test istatistiğine dayalı olarak araştırılmıştır. Bölge için yapılan ekonometrik ve istatistiksel analizler sonucunda 96 aylık dönem için fiyat köpüğü gözlenmemiştir. Buna göre, araştırma dönemi için konut fiyatlamasının piyasa şartlarına göre belirlendiğini söylemek mümkündür.
+Yazar isimleri: ['Oğuzhan ECE']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Erzincan Binali Yıldırım Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ebyuiibfdergi/issue/70881/1055441
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2182625

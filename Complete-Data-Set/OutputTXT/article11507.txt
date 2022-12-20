@@ -1,0 +1,7 @@
+Makale Başlığı: TRANSPORTATION TYPE SELECTION WITH AHP AND TOPSIS METHODS IN VACCINE TRANSPORTATION SYSTEM IN TURKEY
+Özet: Vaccination application in Turkey has started to be an activity that tends to increase in recent years. This situation also raises the problems of vaccine transport. The most important application in vaccine transport is the cold chain application.  Cold chain can be defined as the low temperature storage of the product from the production stage to the application stage. The transport equipment used is of great importance to maintain the temperature required for the vaccine. In this study, the most suitable vaccine transportation alternative was selected by using Multi-Criteria Decision Making (MCDM) methods. In the study, Analytical Hierarchy Process (AHP) and Technique for Order Preference by Similarity to an Ideal Solution (TOPSIS) methods were used. The selection criteria of the equipment used in the vaccine cold chain were weighted with the AHP method. The alternatives determined by the TOPSIS method were evaluated and ranked. As a result, it has been determined that the most suitable alternative is a refrigerator specially prepared for vaccines.
+Yazar isimleri: ['Tuğba DANIŞAN', 'Gülşen GÜMÜŞ', 'Zeynep ERCAN', 'Emel GÜVEN', 'Tamer EREN']
+Yayın Yılı: 24 Kasım 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makusobed/issue/73476/1114144
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2417442

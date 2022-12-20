@@ -1,0 +1,7 @@
+Makale Başlığı: The Pedagogical Alignment of Computational Thinking to Architecture Education for the 21st Century Learners
+Özet: For the 21st century learners, Millennials and Gen-Z students, the concept of Computational Thinking (CT) has been inclusively affirmed in higher education with different teaching methods and strategies. However, it has been almost a decade that Generation Z students form the main bulk of students in classrooms. And their distinct characteristics from the Millennials have necessitated rethinking educational practices, pedagogies and teaching approach to provide an optimal and holistic learning environment that meets their learning needs. In this regard, by scrutinizing the contemporary approach to the concept of Computational Thinking, this article discusses the pedagogical alignment of CT in architecture education by addressing its cognitive contributions as a mental tool for the 21st century learners. It highlights the challenges of teaching computational thinking within the current pedagogical framework in architecture education by regarding the learning preferences and attributes of Generation-Z.
+Yazar isimleri: ['Elif ÖKSÜZ UNCU', 'Gülen ÇAĞDAŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Computational Design
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcode/issue/72866/1146123
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2547807

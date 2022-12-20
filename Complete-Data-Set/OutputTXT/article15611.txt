@@ -1,0 +1,7 @@
+Makale Başlığı: Determination Some Physical Properties of Ground NiMnCoSn Magnetic Shape Memory Alloy Powders
+Özet: In this study, NiMnCoSn alloy was produced in the arc melting furnace and then grounded into small powder particles. After this procedure, particles of alloys were pelletized and heat treatment was applied to pellet alloys for 3 different temperatures (500 oC,700 oC and 900 oC). Differential scanning calorimetry (DSC), X-ray diffraction (XRD) and physical property measuring system (PMMS) were used for determining physical properties of samples. The biggest feature of NiMn-based shape memory alloys is that they are magnetically based. The feature that distinguishes magnetic shape memory alloys from traditional ones is that the shape memory effect is magnetic. For this reason, studies of NiMn-based alloys are becoming very popular. It was observed that, grounding procedure is effected all physical properties of NiMnSnCo shape memory alloys, seriously.
+Yazar isimleri: ['Ecem ÖZEN ÖNER', 'Muhammed KANCA', 'Yakup SAY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1070478
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2241918

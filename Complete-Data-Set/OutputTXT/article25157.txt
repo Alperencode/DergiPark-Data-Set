@@ -1,0 +1,7 @@
+Makale Başlığı: A Hybrid Genetic Algorithm for Mobile Robot Shortest Path Problem
+Özet: 
+Yazar isimleri: ['Eşref BOĞAR', 'Selami BEYHAN']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/270295
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/236822

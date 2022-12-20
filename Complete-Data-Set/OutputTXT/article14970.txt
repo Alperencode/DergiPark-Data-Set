@@ -1,0 +1,7 @@
+Makale Başlığı: Heart disease classification based on performance measures using a deep learning model
+Özet: 
+Yazar isimleri: ['İpek BALIKÇI ÇİÇEK', 'Zeynep KÜÇÜKAKÇALI']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: The Journal of Cognitive Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcs/issue/65819/1015210
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2048378

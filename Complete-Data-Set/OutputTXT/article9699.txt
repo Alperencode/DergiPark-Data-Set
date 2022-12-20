@@ -1,0 +1,7 @@
+Makale Başlığı: Electrochemistry, DFT Calculations, and Antioxidant Capability of Cobalt Cefazolin Complex
+Özet: The synthesis, characterization, electrochemistry, theoretical investigation and antioxidant capability of cobalt cefazolin [Co(Cefaz)Cl] complex are reported here. Electrochemical characterization of the complex was carried out by using cyclic voltammetry (CV) and Linear Sweep Voltammetry (LSV) methods. Two irreversible oxidative responses and one quasi-reversible reduction couple were observed for the complex on the voltammograms. The ground state energies of the molecules have been estimated using B3LYP functional with LanL2DZ basis set based on time dependent density functional theory (TD-DFT). According to the theoretical calculation, [Co(Cefaz)Cl] complex can be expected to exhibit greater reactivity from Cefazolin (Cefaz) ligand, and the higher antioxidant properties were observed for the complex. The experimental results are in good agreement with the theoretical calculations.
+Yazar isimleri: ['Elif TURKER ACAR']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of the Turkish Chemical Society Section A: Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jotcsa/issue/72258/1171945
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2636527

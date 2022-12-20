@@ -1,0 +1,7 @@
+Makale Başlığı: A template-based code generator for web applications
+Özet: The importance and usage of web applications grow every day. Today from small businesses to large-scale  corporations, many institutions prefer web applications for both their internal and external services. Code size and  complexity of these kinds of applications grow rapidly. This brings up the question of how to improve the development  process of web applications. A solution can be to use code generators. This paper introduces a template-based code  generator to improve the development process of web applications. The code generator was developed and integrated  into a real-life web application. Today, the web application together with the code generator is actively used in industry.  This proves that an effective integration of a template-based code generator into a real-life large-scale web application  can be achieved. In addition, the effectiveness of automatic code generation to manual implementation was shown with  experimentation. Throughout the experiments, bug-free code generation was observed. Also, 98.95% improvement in  average development time, 93.97% improvement in average test run count, and 49.37% improvement in average code size  was achieved.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739727
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110736

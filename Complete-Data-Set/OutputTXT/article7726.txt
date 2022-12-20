@@ -1,0 +1,7 @@
+Makale Başlığı: Makine Öğrenimi ile Uzun Kuyruk Ürünler için İyileştirilmiş Sonraki Öğe Önerisi
+Özet: Elektronik ticaret platformlarında birçok farklı ürün türü müşterilerin nerede olduklarından bağımsız olarak satılabilmektedir. Bu platformlarda bulunan öneri sistemi kullanıcılar için ilgi çekici ürünlerin seçilmesi ve görüntülenmesinde kritik rol oynamaktadır. Yapılan bu çalışmada elektronik ticaret platformlarında bulunan müşterilere bir sonraki alacakları ürünlerin en doğru şekilde tavsiye edilmesi için makine öğrenmesi algoritmaları kullanılmış sonuçlar karşılaştırılmıştır. Tekil değer ayrışımı (Singular value decomposition-SVD) yönteminin daha başarılı sonuçlar elde ettiği gösterilmiştir.
+Yazar isimleri: ['Ahmet ZENCİRLİ', 'Harun ÇETİN', 'Nedim TUĞ', 'Engin SEVEN', 'Tolga ENSARİ']
+Yayın Yılı: 20 Temmuz 2022
+Dergi ismi: International Journal of Multidisciplinary Studies and Innovative Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijmsit/issue/69913/1136162
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2508803

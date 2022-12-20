@@ -1,0 +1,7 @@
+Makale Başlığı: A New Supervised Epidemic Model for Intelligent Viral Content Classification
+Özet: 
+Yazar isimleri: ['Abdulkerim ŞENOĞLU', 'Uraz YAVANOĞLU', 'Suat ÖZDEMİR']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/271029
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/243554

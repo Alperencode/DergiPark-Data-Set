@@ -1,0 +1,7 @@
+Makale Başlığı: The Impact of Nationalist Action Party’s Realignment with The Ruling Party on the Demography and Ideological Self-Placement of the Nap Voters: Comparison of the (June) 2015 and the 2018 Parliamentary Elections
+Özet: The Nationalist Action Party realigned itself with the ruling Justice and Development Party after November 2015 parliamentary elections. Considering the typical radical right voters in European democracies, this study analyzes the impact of the change in the NAP’s stance on the overlap between radical right voters in Europe and Turkey. Using CSES dataset and employing a binomial logistic regression analysis the study compares demographic and ideological characteristics of the NAP’s voters in June 2015 and 2018 parliamentary elections.  The analysis concludes that electoral profiles of voters who voted for NAP in 2018 elections were closer to those of typical radical right voters in Western European countries than those of voters who supported the party in June 2015 elections.
+Yazar isimleri: ['Mustafa Çağatay ASLAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Marmara Üniversitesi Siyasal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/marmarasbd/issue/72775/1073547
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2253370

@@ -1,0 +1,7 @@
+Makale Başlığı: Elektro Eğirme Yöntemiyle ZnO Nanofiberlerin Üretilmesi ve Karakterizasyonu
+Özet: Bu çalışmada 1D ZnO nanofiberleri, çinko asetat ve polivinil alkol (PVA) öncü çözeltisinden elektro eğirme tekniği kullanılarak sentezlenmiş ve ardından atmosfer ortamında 400°C'de 2 saat kalsinasyon yapılmıştır. Elektron mikroskop analizleri (SEM) tavlama sonrasında nanofiber yapıların pürüzlü yüzeyini, EDX analizleri ise Zn: O atomik oranın 1:1 olduğunu ve safsızlığını göstermiştir. XRD karakterizasyonu polikristalin yapıyı ortaya koymuş ve RAMAN spektrumu optik fonon modlara işaret etmiştir. FTIR ile ZnO fonksiyonel grup analizleri belirlenmiştir.
+Yazar isimleri: ['Deniz Kadir TAKCI']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/1158475
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2582187

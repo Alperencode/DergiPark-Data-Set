@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship Between Economic Growth, Exchange Rate and Foreign Trade in Developing Countries for the Period 1996-2020: Panel Data Analysis
+Özet: Many developing countries have aimed to finance their foreign trade deficits in order to ensure macroeconomic stability, development and growth. Fluctuations in exchange rates due to capital inflows and outflows have a significant impact on foreign trade. In this study, it is aimed to determine whether the exchange rate and growth influence foreign trade in developing countries, and if so, in which direction this relationship is. In this respect, there are 17 developing countries (Turkey, Brazil, Argentina, Hungary, Indonesia, Mexico, Czech Republic, China, India, Chile, Egypt, Poland, Russia, South Africa, Pakistan and Thailand, Philippines) that are economically similar to each other, such as per capita income and openness. The data of these countries covering the years 1996-2020 were analyzed. In the study, foreign trade is represented by export and import series whereas growth is represented by GDP series. In the study, the relationship between real exchange rate, economic growth and foreign trade was analyzed using panel data method.
+Yazar isimleri: ['Özlem ZEYBEK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Giresun Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/guiibd/issue/70507/1096509
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2344948

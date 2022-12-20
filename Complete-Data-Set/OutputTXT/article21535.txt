@@ -1,0 +1,7 @@
+Makale Başlığı: The investigation of the complex dielectric and electric modulus of Al/Mg2Si/p-Si Schottky diode and its AC electrical conductivity in a wide frequency range
+Özet: The Al/Mg2Si/p-Si Schottky diode was fabricated using spin coating. The real (ε′) and imaginary (ε′′) components of complex dielectric (ε*), the real (M′) and imaginary (M′′) components of complex electric modulus (M*) and AC electrical conductivity (σ AC ) of the fabricated Al/Mg2 Si/p-Si Schottky diode (SD) were examined by using the impedance spectroscopy (IS) measurements in a wide frequency range of 1 kHz-1 MHz. The ε ′ and ε ′ ′ were obtained using the value of measured capacitance and conductance while the values of dielectric loss tangent (tanδ, M′, M′′ and σAC were obtained using the value of ε′ and ε′′. While the values of ε′, ε′′ and tanδ are almost independent of the frequency in the inversion and accumulation region, their value changes with the frequency, especially in the depletion region. The σAC was examined depending on the frequency and it was seen that its value increased with increasing frequency especially in depletion and accumulation region. The experimental results showed that the Mg2 Si can be used instead of conventionally used dielectric materials (SnO2 , SiO2 ).
+Yazar isimleri: []
+Yayın Yılı: 28 Haziran 2021
+Dergi ismi: Turkish Journal of Physics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkphysics/issue/63651/964099
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1865239

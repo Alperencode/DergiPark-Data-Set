@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Shelf Life for Door Seal Mixture in Automotive Industry
+Özet: The door seals for vehicles in automotive industry, which are one of the most important components, provide insulation and damping. Quality of the product highly depends on the shelf life of the seal compound under required temperature. The most important parameters of the compound are its viscosity and scorch values. The aim of this study is to determine the most suitable shelf life in manufacturing and storage processes for seal compound. For stating the important factors affecting shelf life of frequently used main two types of seal compound, interviews are made with the producing firm. Then for both types of compound, series of controlled experiments are performed, and linear estimation models are developed with the help of the results of these experiments. In this study, the results of generated multi variable regression models are presented. It is seen that the generated estimation models can be employed by the producers, and the results of the experiments are overlapping with the results of studies performed in the literature.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190606
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2714468

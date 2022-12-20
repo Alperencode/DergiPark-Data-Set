@@ -1,0 +1,7 @@
+Makale Başlığı: Design of A 3-DOF Thrust Control System for Rocket Engines
+Özet: 
+Yazar isimleri: ['Haktan YAĞMUR', 'Sinan ŞEN', 'Can BAYAR', 'Kasım SERBEST']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Journal of Smart Systems Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinssr/issue/70714/1125717
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2465283

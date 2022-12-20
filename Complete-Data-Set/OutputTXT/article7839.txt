@@ -1,0 +1,7 @@
+Makale Başlığı: International Migration in the Framework of Neoclassical Macro Migration Theory: An Analysis of the Countries Receiving the Most Immigration
+Özet: International migration theories generally focus on labor migration from the first theory developed. According to these theories, the flow of immigrants creates a labor supply within the economic system. This labor supply brings along the demand for labor. Migration theories focus on the differences in wage levels, income differences, employment opportunities among the countries that are important factors that motivate migration. Based on the economic differences between the countries, this study deals with the immigration factors of the countries that receive the most immigration according to the International Migration Institute within the framework of the Neo-classical Macro Migration Theory. The study includes annual data for the period 1990-2017. Dumitrescu-Hurlin causality test, which is a heterogeneous panel causality test, was used. According to the findings obtained as a result of the application, it has been determined that there is a bidirectional causality between migration, GDP per capita, employment rates and average annual wage.
+Yazar isimleri: ['Şeyma BOZKAYA', 'Hakan KUM']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Social Inquiry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijsi/issue/71029/1007970
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2020093

@@ -1,0 +1,7 @@
+Makale Başlığı: Semi-conductor Applications to Printed Circuits on Flexible Surfaces
+Özet: The most common type of identification system today is RFID. RFID circuits are used as covered with plastic. With the increase in usage areas, it is also used on metal, wood, paper, and plastic product. In this study, the behavior of the same circuit on different surfaces was investigated. The surface impedance and signal reflection coefficients of RFID tag antennas were investigated based on paper, plastic, and textile surfaces. According to the results of the electrical and mechanical tests, the best results in terms of reflectance coefficients and surface impedances of RFID tags are on PET surfaces. The surface impedance and the reflection coefficients were high on paper surfaces. The lowest values were measured on textile surfaces. According to the results, it has been seen that RFID antenna application on plastic, paper, and textile surfaces is possible and usable.
+Yazar isimleri: ['Nazmi EKREN', 'Ali Samet SARKIN']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/1094805
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2338258

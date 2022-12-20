@@ -1,0 +1,7 @@
+Makale Başlığı: Eksenel Akılı Senkron Relüktans Motorun Termal Analizi
+Özet: Elektrik motoru tasarım sürecinde manyetik tasarıma ek olarak doğru mekanik ve termal tasarımın da yapılması oldukça önemlidir. Bu çalışmanın amacı manyetik ve mekanik tasarımı Sonlu Elemanlar Yöntemi (SEY) ile optimize edilmiş ve deneysel olarak doğrulanmış Eksenel Akılı Senkron Relüktans Motorun (EA-SynRM) farklı yüklerde termal davranışın ortaya çıkarılması ve deneysel olarak doğrulanmasıdır. Bu kapsamda 2.2 kW, 1500 d/d EA-SynRM termal modeli oluşturulmuş ve 3D SEY analizi ile motorun termal davranışı ortaya konulmuştur. Elde edilen sonuçlar deneysel sonuçlarla karşılaştırıldığında yüksek oranda tutarlılık elde edilmiştir. Yenilikçi rotor yapısına sahip EA-SynRM’nin farklı uygulamalarda kullanılabilirliği manyetik, yapısal ve termal olarak hem SEY hem de deneysel olarak doğrulanmıştır.
+Yazar isimleri: ['Mehmet AKAR', 'Harun Serhat GERÇEKCİOĞLU']
+Yayın Yılı: 11 Mayıs 2022
+Dergi ismi: Gaziosmanpaşa Bilimsel Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gbad/issue/69693/1080387
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2280118

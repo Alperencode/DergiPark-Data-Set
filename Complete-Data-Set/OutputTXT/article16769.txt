@@ -1,0 +1,7 @@
+Makale Başlığı: KÜMÜLATİF ETKİ-TEPKİ FONKSİYONLARI ÇERÇEVESİNDE İKTİSADİ ŞOKLARIN SÜREKLİLİĞİ: TÜRKİYE UYGULAMASI
+Özet: Bu çalışmada 1990:I-2022:I dönemi Türkiye ekonomisi için kümülatif etki-tepki fonksiyonları yardımıyla iktisadi şokların reel üretim düzeyi üzerindeki etkilerinin sürekli olup olmadığının tespit edilmesi amaçlanmıştır. İktisadi şoklarda süreklilik kavramına ilişkin yapılan gerek teorik gerekse ampirik tartışmaları Türkiye ekonomisi kapsamında değerlendirmek amacıyla çalışmada, iktisadi şokların reel üretim düzeyi üzerinde sürekli bir etkiye neden olup olmadığı test edilmiştir. İktisadi şokların reel üretim düzeyi üzerinde geçici mi yoksa kalıcı bir etkiye mi neden olduğu yani iktisadi şokların sürekliliği, 1990-2022 dönemi Türkiye ekonomisi için Campbell ve Mankiw (1987a) tarafından uygulanan kümülatif etki-tepki fonksiyonları yardımıyla tespit edilmiştir. Elde edilen ampirik bulgular, Türkiye ekonomisinde herhangi bir nedenle ortaya çıkan bir iktisadi şokun, ekonomi üzerindeki etkilerinin en fazla 3-6 ay gibi bir süre devam ettiği, bu sürenin sonunda şokların etkisinin azalarak kaybolduğu yönünde olmuştur.
+Yazar isimleri: ['Banu TANRIÖVER', 'Nebiye YAMAK']
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: Uluslararası İktisadi ve İdari İncelemeler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ulikidince/issue/73302/1154082
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2574949

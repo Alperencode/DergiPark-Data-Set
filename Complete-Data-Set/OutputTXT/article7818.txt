@@ -1,0 +1,7 @@
+Makale Başlığı: Carbohydrate active enzyme system in rumen fungi: a review
+Özet: Hydrolysis and dehydration reactions of carbohydrates, which are used as energy raw materials by all living things in nature, are controlled by Carbohydrate Active Enzyme (CAZy) systems. These enzymes are also used in different industrial areas today. There are different types of microorganisms that have the CAZy system and are used in the industrial sector. Apart from current organisms, there are also rumen fungi within the group of candidate microorganisms with the CAZy system. It has been reported that xylanase (EC3.2.1.8 and EC3.2.1.37) enzyme, a member of the glycoside hydrolase enzyme family obtained from Trichoderma sp. and used especially in areas such as bread, paper, and feed industry, is more synthesized in rumen fungi such as Orpinomyces sp. and Neocallimastix sp. Therefore, this study reviews Neocallimastixsp., Orpinomyces sp., Caecomyces sp., Piromyces sp., and Anaeromyces sp., registered in the CAZy and Mycocosm database for rumen fungi to have both CAZy enzyme activity and to be an alternative microorganism in the industry. Furthermore the CAZy enzyme activities of the strains are investigated. The review shows thatNeocallimax sp. and Orpinomyces sp. areconsidered as candidate microorganisms.
+Yazar isimleri: ['Kübra EKİNCİ']
+Yayın Yılı: 26 Eylül 2022
+Dergi ismi: International Journal of Secondary Metabolite
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijsm/issue/72260/1075030
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2259318

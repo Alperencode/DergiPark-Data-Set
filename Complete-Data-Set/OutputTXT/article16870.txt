@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 PANDEMİSİ SÜRECİNDE BIST PERAKENDE TİCARET SEKTÖRÜNDE FAALİYET GÖSTEREN ŞİRKETLERİN FİNANSAL PERFORMANSLARININ GELİŞTİRİLMİŞ ENTROPİ TEMELLİ TOPSIS YÖNTEMİ İLE BELİRLENMESİ
+Özet: Bu çalışmada, COVID-19 pandemisinin Borsa İstanbul (BIST)’da işlem gören perakende ticaret sektörü şirketlerinin 2017-2020 yılları arasındaki finansal performansları üzerindeki etkilerini nakit akım oranları ve çok kriterli karar verme yöntemlerinden TOPSIS yöntemiyle değerlendirilmesi amaçlanmıştır. Değerlendirme kriterleri olan nakit akım oranlarını ağırlıklandırmada Geliştirilmiş Entropi yönteminden yararlanılmıştır. Çalışmada; 2017 yılından 2020 yılına kadar finansal performans açısından en başarılı şirketlerin sırasıyla MIGROS, SOKM, MIGROS, MIGROS olduğu sonucuna ulaşılmıştır. Finansal performans açısından en başarısız şirketlerin ise sırasıyla CRFSA, CRFSA, SOKM, CRFSA olduğu sonucuna ulaşılmıştır. Çalışmada şirketlerin finansal performanslarının yanı sıra hisse senedi getiri performansları da araştırılmış ve finansal performansları ile karşılaştırılmıştır. Buna göre, finansal performans açısından en başarılı şirketlerin hisse senedi getirilerinin de her zaman en yüksek olmadığı sonucuna ulaşılmıştır.
+Yazar isimleri: ['Muhammet Yasir BUDAK', 'Şakir SAKARYA']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Uluslararası Muhasebe ve Finans Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijafr/issue/70794/1054271
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2178408

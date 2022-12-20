@@ -1,0 +1,7 @@
+Makale Başlığı: Brakial pleksopatide klinik, EMG ve MR nörografi bulgularının değerlendirilmesi
+Özet: Amaç: Çalışmanın amacı brakial pleksopatide MR nörografi sonuçlarını elektrodiagnostik test ile birlikte değerlendirmek ve MR nörografinin yararlığını saptamaktır. Yöntem: Brakial pleksopati şüphesi bulunan ve elektrodiagnostik test yapılan 50 hasta çalışmaya dahil edildi. MR nörografide Brakiyal pleksusun kök, gövde ve kord seviyesinde seyri, kalibrasyonu, sinyal yoğunluğu ve devamlılığı 2 bağımsız radyolog tarafından değerlendirildi. Bulgular: Elektrodiagnostik test altın standart tanı testi kabul edilerek yapılan analizde MR nörografinin tanısal doğruluk, duyarlılık, özgüllüğü; 1. okuyucu için sırasıyla %64, %45.16, %94.73; 2. okuyucu için sırasıyla %74, %67.74, %84.21 idi. Okuyucular arası tutarlılık %78 idi. Sonuç: Brakial pleksopati klinik şüphesi bulunan hastalarda MR’ın duyarlılığı ve okuyucular arasındaki uyum orta derecede bulundu. MR nörografi brakial pleksopatiyi gösterebilir ancak pleksusun normal görünümü pleksopati tanısını dışlamamalıdır.
+Yazar isimleri: ['Sinem KARAZİNCİR', 'Ayşe Dicle TURHANOĞLU', 'Esra OKUYUCU', 'Gülen BURAKGAZİ']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Mustafa Kemal Üniversitesi Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mkutfd/issue/73508/971518
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1880987

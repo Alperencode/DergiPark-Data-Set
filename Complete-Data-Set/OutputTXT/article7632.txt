@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Thermal Behavior and Microstructure of Carbon Added NiTi Shape Memory Alloys
+Özet: The aim of this study is to perform thermal and microstructural analysis of NiTiC1 and NiTiC2 shape memory alloys (SMAs), produced by arc-melting method. Changing the concentration of Ti and C elements did not change the phase transformation of the alloy as one-stage B2↔B19', but it was observed that the hysteresis temperature, enthalpy, entropy and Gibbs free energies changed depending on the transformation temperatures. Increasing the amount of C element caused a decrease in the grain size and thus a decrease in the elastic energy amount of the alloy. The presence of martensite transformation observed under room temperature in DSC analyzes was not observed in SEM and XRD analyzes taken at room temperature. The presence of B2 austenit, Ni4Ti3 precipitate and TiC phases were detected in XRD analyzes and the presence of these phases was supported by SEM-EDX analysis. Apart from the determined phases, grain boundaries were also clearly seen.
+Yazar isimleri: ['Ercan ERCAN']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: International Journal of Innovative Engineering Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiea/issue/70503/1066657
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2226778

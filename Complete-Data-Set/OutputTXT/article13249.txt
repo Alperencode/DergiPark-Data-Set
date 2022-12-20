@@ -1,0 +1,7 @@
+Makale Başlığı: Existence of Solution for a Nonlinear Fractional Order Differential Equation with a Quadratic Perturbations
+Özet: In this work, we prove the existence  of a solution for the initial value problem of nonlinear fractional differential equation with quadratic perturbations involving the Caputo fractional derivative  ( cDα0+−ρt cDβ0+)(x(t)f(t,x(t)))=g(t,x(t)),t∈J=[0,1],1<α<2,0<β<α( cD0+α−ρt cD0+β)(x(t)f(t,x(t)))=g(t,x(t)),t∈J=[0,1],1<α<2,0<β<α		with conditions x0=x(0)f(0,x(0))x0=x(0)f(0,x(0)) and \\x1=x(1)f(1,x(1))x1=x(1)f(1,x(1)). Dhage's fixed-point		the theorem was used to establish this existence. As an application, we have given		example to demonstrate the effectiveness of our main result.
+Yazar isimleri: ['Ahmed KAJOUNI', 'Najat CHEFNAJ', 'Khalid HİLAL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1124961
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2462340

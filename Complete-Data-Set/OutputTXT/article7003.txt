@@ -1,0 +1,7 @@
+Makale Başlığı: Et Kalitesi ve Hayvan Besleme arasındaki İlişkiler
+Özet: Et kalitesi, etin üretim koşullarının da dahil edildiği kompleks ve çok değişkenli özellikleri dikkate alınarak bu derlemede incelenmiştir. Üretim koşullarını ise yönetim sistemi, yetiştirme, genotip, besleme, kesim öncesi bekletme ve bayıltma, kesim yöntemi, soğutma ve depolama koşulları oluşturmaktadır. Et kalitesi yem, besleme kalitesi, sütten kesim yaşı, kastrasyon, kesim yaşı, vb. pek çok faktöre bağlı olarak değişir. Günümüzde, hayvan besleme bilim insanları hem kanatlı hem de küçük ve büyükbaş hayvanlardan elde edilen etlerinin besin madde kompozisyonunu değiştirerek et kalitesini iyileştirmeye yönelik besleme stratejileri geliştirmiştir. Ayrıca, hayvan beslenmesi, yağ hücrelerinin farklılaşmasını ve çoğalmasını değiştiren epigenetik etkilerle hayvandaki gen ekspresyonunu etkileyebilir. Bilim insanları, hedef genlerin ifadesini değiştirmek ve et kalitesini artırmak için farklı yemleri kullanabilirler.
+Yazar isimleri: ['Sibel SOYCAN ÖNENÇ', 'Mürsel ÖZDOĞAN']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Hayvansal Üretim
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hayuretim/issue/70931/756528
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1163488

@@ -1,0 +1,7 @@
+Makale Başlığı: BİST’de İşlem Gören Bilişim Sektörü Şirketlerinin Pandemi Öncesi ve Pandemi Dönemi Finansal Performanslarının Promethee Yöntemi İle Ölçülmesi
+Özet: Bu çalışmanın amacı, pandemi döneminden olumlu etkilendiği düşünülen BİST Bilişim sektöründe yer alan şirketlerin finansal verileri kullanılarak PROMETHEE yöntemiyle bu şirketlerin 2019 ve 2020 yılı finansal başarı ölçümlerini yapmaktır.  Performans değerlendirmede Satışların Maliyeti / Hasılat, Esas Faaliyet Giderleri / Hasılat, Esas Faaliyetlerden Diğer Giderler / Hasılat, Finansman Giderleri / Hasılat olmak üzere 4 maliyet oranı ile Esas Faaliyet Karı yada Zararı / Hasılat, Vergi Öncesi Kâr yada Zarar / Hasılat ve Dönem Kârı yada Zararı / Hasılat olmak üzere 3 kârlılık oranı kriter olarak kullanılmıştır. Araştırma sonucunda, 2019 ve 2020 yılındaki en başarılı 3 şirket sırasıyla ARDYZ, LİNK VE FONET;  performans sıralamasında son iki şirket ise her iki yıl için de ARMDA ve NETAŞ olmuştur. 2019 yılında 15. sırada yer alan ALCTL şirketinin 2020 yılında büyük bir performans göstererek 5. sırada yer alması ise en dikkat çekici sonuç olmuştur. Ayrıca pandemi öncesine (2019) göre, pandemi dönemi (2020) tüm şirketlerin, tüm kârlılık oranlarının ortalamalarında büyük bir artış yaşandığı sonucuna da ulaşılmıştır.
+Yazar isimleri: ['Öznur AKTAŞ']
+Yayın Yılı: 15 Eylül 2022
+Dergi ismi: İşletme
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/isletme/issue/65927/1129538
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2481392

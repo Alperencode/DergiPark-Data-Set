@@ -1,0 +1,7 @@
+Makale Başlığı: AŞIRI KİLOLU AMPUTE HASTALAR İÇİN TASARLANMIŞ PROTEZ ÖLÇÜ ALMA CİHAZININ EKONOMİK ANALİZİ
+Özet: Giriş ve Amaç: Protez kullanmaya hazır olan bireyler için tasarlanmış olan ölçü alma cihazları serbest piyasada çeşitli özelliklerde bulunmaktadır. Bu gibi cihazların kullanım açısından ergonomisi önemli olmakla beraber fiyatları da değişkenlik göstermektedir. Ürün kalitesi ve özelliklerine bağlı olarak düşük maliyetler de rakiplere karşı avantaj elde edilmesini sağlamaktadır. Bu çalışmada Aşırı kilolu ampüte hastalarda sağlıklı bir şekilde ölçü alınması için tasarlanan cihazın piyasada satış için yer bulabilmesi ve en uygun üretim maliyetinin çıkarılması gerekçesiyle maliyet ve başabaş noktası analizleri yapılmıştır. Yönetici olarak 1 mühendis ve çalışan olarak 1 işçi ile çalışması planlan küçük bir işletmede yaklaşık olarak 175. cihaz üretiminden sonra işletme kârlılık durumuna geçmeye başlamıştır. Maliyetlerin minimumda tutulmasına rağmen işletme giderlerinin fazla olmasından dolayı üretim adedi yüksek olmaktadır. İşletme giderleri düşürülebilirse daha düşük sayıdaki üretimlerde kârlılık artabilir.
+Yazar isimleri: ['Ali Koray ÖZGÜN', 'Orhan ERDEN']
+Yayın Yılı: 30 Aralık 2020
+Dergi ismi: Mesleki Bilimler Dergisi (MBD)
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mbd/issue/59248/671209
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/920982

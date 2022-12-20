@@ -1,0 +1,7 @@
+Makale Başlığı: Başlığında “Data Science” İfadesi Geçen Uluslararası Kongrelerde Sunulan Bildiri Özetlerinin Metin Madenciliği Yöntemleri İle İncelenmesi
+Özet: Veri Bilimi kavramının ortaya çıkması ile birlikte, veriye dayalı karar verme süreçleri ve bu süreçlerde kullanılan yöntemler, klasik istatistiksel yöntemlerin yanı sıra bilişim teknolojilerinin sağladığı olanakların kullanıldığı makine öğrenme, derin öğrenme vb. algoritmaların gelişmesini sağlamıştır. Günümüzde veriyi elde etmeden daha çok, hızla artan bir veri yapısı için veriyi anlama, örüntülerini ortaya koyma, işlevsel biçimde modelleme ve sonuçlarının üretilmesi önem kazanmıştır. Bu nedenle “Veri Bilimi” kavramı istatistik kongrelerinin adı ve içeriğinde de değişime neden olmuştur. Bu çalışma, metin madenciliği kullanılarak istatistik kongrelerinde geçen “Veri Bilimi” kavramının incelemesine odaklanmıştır. Bu kongrelerde sunulan ve bildiri kitaplarında basılan bildirilerin özet içeriklerinin incelenmesi ve eğilimlerinin belirlenmesi, veri biliminde önemli bir yere sahip olan metin madenciliği yöntemleri bakımından incelenmiştir. Bu çalışma, veri bilimi kavramı ile birlikte kongrelerde yer alan bildiri özetlerinin içeriklerindeki eğilimleri ortaya koymaktadır.
+Yazar isimleri: ['Hande KONŞUK ÜNLÜ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Nicel Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nicel/issue/70428/1075225
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2260167

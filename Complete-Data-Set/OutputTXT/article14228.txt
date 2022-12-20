@@ -1,0 +1,7 @@
+Makale Başlığı: The Impact of Deliberative and Egalitarian Democracy on Economic Growth: A Club Convergence Analysis on OECD Countries
+Özet: This study explains the relationship between democracy and economic growth in OECD countries. In line with this purpose, in this study covering the period 1996-2020, the relationship between democracy and economic growth in OECD countries, which are divided into three different groups according to per capita income level by club convergence analysis, was examined by a panel cointegration and panel causality methods. According to the analysis results, in which deliberative and egalitarian democratic regime definitions are used to represent democracy, in the long run, the causality relationship between democracy and economic growth differs according to the per capita income levels and the implementation of the democratic regime of the countries.
+Yazar isimleri: ['Aykut YAĞLIKARA', 'Bersu BAHTİYAR']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1052829
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2172564

@@ -1,0 +1,7 @@
+Makale Başlığı: SPI ve SPEI Yöntemleri ile Kuraklık Araştırması: Kırıkkale Örneği
+Özet: Kuraklık, çeşitli sosyal ve çevresel etkileri olan en önemli doğal afetlerden biridir. Bu nedenle, kuraklığı izlemek için özellikle uygun bir indeks seçmek çok önemlidir. Standartlaştırılmış Yağış İndisi (SPI) ve Standartlaştırılmış Yağış Evapotranspirasyon İndisi (SPEI) kuraklık izlemede yaygın olarak kullanılmaktadır. Bu çalışmada, yarı kurak özelliklere sahip Kırıkkale ilinde kuraklığın gelişimini ve özelliklerini incelemek amacıyla SPI ve SPEI yöntemleri kullanılarak kuraklık analizi yapılmıştır. Kırıkkale meteoroloji istasyonundan 1963-2018 yılları arasında aylık yağış ve sıcaklık verileri kullanılarak 1, 3, 6, 9 ve 12 aylık zaman ölçeklerinde SPI ve SPEI değerleri hesaplanmıştır. SPEI hesaplamasında potansiyel evapotranspirasyon (PET) değerleri hesaplanırken Thornthwaite ve Hargreaves modelleri kullanılmış ve iki farklı SPEI değeri elde edilmiştir. Sonuç olarak aynı zaman ölçeğinde tüm endeksler arasında yüksek korelasyon değerleri elde edilmiştir. SPI ve SPEI yöntemlerinin çalışma alanında kuraklığın tespiti ve izlenmesinde uygulanabilir olduğu sonucuna varılmıştır
+Yazar isimleri: ['Gaye AKTÜRK', 'Utku ZEYBEKOĞLU', 'Osman YILDIZ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1100886
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2363751

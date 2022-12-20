@@ -1,0 +1,7 @@
+Makale Başlığı: Üniversite Öğrencilerinin Akademik Umutsuzluk ve Kadercilik Eğilimi Düzeylerinin Belirlenmesi Üzerine Bir Araştırma
+Özet: Bu çalışmanın amacı; üniversite öğrencilerinin akademik umutsuzluk ve kadercilik eğilimlerini tespit ederek bu iki algı arasındaki ilişki durumunu ortaya koymak ve bu algıların belirlenmesinde demografik faktörlerin rolünü ortaya çıkarmaktır. Bu kapsamda 446 üniversite öğrencisinden anket yolu ile veri toplanmıştır. Toplanan veriler Jamovi (version 2.3.2) analiz programı yardımıyla analiz edilmiştir. Öncelikle toplanan veriler analize hazırlanmış, bu kapsamda güvenilirlik (cronbach alpha) ve geçerlilik (keşfedici ve doğrulayıcı faktör analizi) değerleri incelenmiştir. Sonrasında korelasyon analizi ve parametrik testler uygulanarak elde edilen bulgular raporlanmıştır. Her iki ölçeğin alt boyutlarının birbirleri ile anlamlı ilişkili olduğu görülmüştür. Akademik umutsuzluk ve kadercilik eğilimlerinde dinî ve kültürel unsurların belirleyici olabileceği tahmin edilmektedir.
+Yazar isimleri: ['Ali Davut ALKAN', 'Salim KURNAZ']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Selçuk Üniversitesi Akşehir Meslek Yüksekokulu Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akmyosb/issue/71096/1120918
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2445585

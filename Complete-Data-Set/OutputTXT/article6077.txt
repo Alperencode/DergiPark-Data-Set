@@ -1,0 +1,7 @@
+Makale Başlığı: Certain Finite Sums Pertaining to Leibnitz, Harmonic and Other Special Numbers
+Özet: The present manuscript deals with some certain finite sums and identities pertaining to some special numbers. Using generating functions methods, some relations and identities involving the Apostol type Euler and combinatorial numbers, and also the Fubini type numbers and polynomials, are given. Then, by using some certain classes of special finite sums involving the following rational sum which is defined by Simsek (2021b): y(r,ϑ)=∑_(b=0)^r▒〖(-1)^r/((1+b) ϑ^(b+1) 〖(ϑ-1)〗^(r-b+1) ),〗many new certain finite sums and formulas related to the Leibnitz, Harmonic, Changhee, and Daehee numbers are obtained. Moreover, some applications of these results are presented.
+Yazar isimleri: ['Neslıhan KILAR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi University Journal of Science Part A: Engineering and Innovation
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsa/issue/72855/1134534
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2502191

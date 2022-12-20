@@ -1,0 +1,7 @@
+Makale Başlığı: Two novel radar detectors for spiky sea clutter with the presence of thermal noise and interfering targets
+Özet: In the context of noncoherent detection and high-resolution maritime radar system with low grazing angle,  new Constant False Alarm Rate  CFAR  decision rules are suggested for two Compound Gaussian  CG  clutters namely:  The K distribution and the Compound Inverse Gaussian  CIG  distribution, which are considered among the most  appropriate models for sea clutter. The proposed decision rules are then modified to deal with the presence of thermal  noise and interfering targets. The proposed detectors are investigated on the basis of synthetic data as well as real data  of the IPIX radar database. The obtained results exhibit a high probability of detection as well as an excellent false  alarm rate regulation especially for spiky clutter.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739717
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110727

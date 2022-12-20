@@ -1,0 +1,7 @@
+Makale Başlığı: Asymptotic behavior of a laminated beam with nonlinear delay and nonlinear structural damping
+Özet: Our concern in the present work is a Timoshenko laminated beam system with nonlinear delay and nonlinear structural damping acting in the equation describing the dynamics of slip. The aim is to establish an explicit and general energy decay rates of the solution under suitable assumptions on the weight of delay and speeds of wave propagation. To achieve our desired stability results, we exploit some properties of convex functions, coupled with the multiplier technique, which involves constructing an appropriate Lyapunov functional equivalent to the energy of the system.
+Yazar isimleri: ['Kassimu MPUNGU']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/947131
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1803749

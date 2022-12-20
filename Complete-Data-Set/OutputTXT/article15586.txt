@@ -1,0 +1,7 @@
+Makale Başlığı: Existence Results for Hybrid Stochastic Differential Equations Involving  $\psi$-Hilfer Fractional Derivative
+Özet: In this paper, we discuss the existence of solutions for hybrid stochastic differential equations (HSDEs) with the $\psi$-Hilfer fractional derivative. The main tool used in our study is associated with the technique of fixed point theorems due to Dhage.
+Yazar isimleri: ['Dvivek VİVEK', 'Elsayed ELSAYED', 'Kangarajan K.']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/987414
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1943209

@@ -1,0 +1,7 @@
+Makale Başlığı: Reliability Assessment of Power System Network:  A Detailed Review
+Özet: Due to an increase in technological advancement and population, there is also a corresponding increase in the demand of electrical energy within Nigeria. Utility is presently characterized by suppressed demand due to the poor reliability inherent in the system. Utility, therefore, considers load shedding as a way out to ensure that the available power from each of the feeders from a network gets to its respective customers at any giving time they choose for the customer while the time the customers choose for themselves remains immaterial. However, in recent times, increased in downtime has been observed as a result of various faults and failures noticeable on the network and this has led to outrage by the customers who only considered protests as the only way out in expressing their dis-satisfaction with the system. This anomaly, therefore, arouses the interest for this study to carry out a detailed approach to carry out a review on the state of the reliability of the power system network in Nigeria and juxtaposing it with what is tenable outside the country with a view to determine the present state of the network and how it has fared with respect to time.
+Yazar isimleri: ['Abel AIROBOMAN']
+Yayın Yılı: 5 Eylül 2022
+Dergi ismi: International Journal of Engineering Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijet/issue/68057/952933
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1826175

@@ -1,0 +1,7 @@
+Makale Başlığı: Radar range profile processing using Green’s function
+Özet: In this study, a useful method for synthesizing range profiles to be used in ultra-wideband radar operations is discussed. One-dimensional transmission-reflection geometry of the radar scenario, which consists of a single receiver and single transmitter, is formulated by using the Green’s function. A one-dimensional time domain Green’s function is employed in the formulation and the impulsive characteristic of this function, which provides focus on the target position, has been determined. This characteristic represents the impulse response of the propagating medium to the electromagnetic wave. The resulting derivation offers a framework that can also be used in higher dimensional and complex radar problems by taking the advantage of its flexibility. Proposed method has been detailed and tested on an exemplary implementation and successful results that provide good focus on the target positions are shown in the conclusions. Finally, outcomes and benefits are discussed. 
+Yazar isimleri: ['Rıdvan Fırat ÇINAR', 'Aşkın DEMİRKOL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: International Journal of Applied Mathematics Electronics and Computers
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijamec/issue/71644/1058257
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2193753

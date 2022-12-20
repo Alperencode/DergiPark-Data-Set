@@ -1,0 +1,7 @@
+Makale Başlığı: Transfer of Analogies in Traditional Programming Languages to Teaching VHDL
+Özet: 
+Yazar isimleri: ['Halit ÖZTEKİN', 'Ali GÜLBAĞ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Sakarya University Journal of Computer and Information Sciences
+Yayın sayfa url: http://saucis.sakarya.edu.tr/tr/pub/issue/72246/1133435
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2497562

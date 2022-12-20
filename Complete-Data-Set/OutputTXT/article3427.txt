@@ -1,0 +1,7 @@
+Makale Başlığı: Solar-hydrogen supply chain network design
+Özet: In this study a supply chain network for the solar-hydrogen energy generation is designed. The objective of the network design is accelerating the use of hydrogen as energy source by achieving a wider coverage of the supply chain to cover distant areas and versatile applications. A mixed integer nonlinear programming model is formulated with the objective of maximization of energy flow through the supply chain reaching the demand points of several applications. The model is formulated under production, storage, and transportation constraints, and is solved using optimization software. The solved problems provide validation of the model to effectively represent the solar-hydrogen supply chain. The resultant designed networks of different scenarios are efficient in fulfilling the objective of maximizing power delivered to demand points, including ones in distance areas. Distance demand points simulate rural areas that are usually deprived of energy provision due to complications of power supply. The study emphasizes the importance of robust supply chain network designs to increase the dependability and reliability of renewables and hydrogen storage to provide required power and energy by different communities.
+Yazar isimleri: ['Marwa MEKKY M.']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: Computers and Informatics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ci/issue/64530/953060
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1826636

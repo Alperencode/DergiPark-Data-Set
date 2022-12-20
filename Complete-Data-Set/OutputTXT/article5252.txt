@@ -1,0 +1,7 @@
+Makale Başlığı: Generalized k-Order Fibonacci Hybrid Quaternions
+Özet: 
+Yazar isimleri: ['Kübra GÜL']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Erzincan Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erzifbed/issue/72358/1132164
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2492382

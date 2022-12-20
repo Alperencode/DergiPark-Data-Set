@@ -1,0 +1,7 @@
+Makale Başlığı: Destek Vektör Makinelerinin Wi-Fi Tabanlı İç Mekan Lokalizasyon Tespitinde Kullanımı ve Çekirdek Fonksiyon Seçiminin Sınıflandırma Performansına Etkisi
+Özet: Son yıllarda çocuk güvenliğinde yaşanan kazaların artması nedeniyle iç mekanlarda çocukların yerini tespit etme çalışmaları önem kazanmıştır. Bu çalışmada kablosuz sinyal gücü ve Destek Vektör Makineleri sınıflandırma algoritması kullanılarak iç mekanlarda farklı odalarda bulunan insanların konumları tespit edilmiştir. Algoritmanın performansının arttırılması için farklı çekirdek fonksiyonları denenmiş ve çekirdek fonksiyonu seçiminin algoritmanın sınıflandırma performansına etkisi incelenmiştir. Performans ölçüm yöntemi olarak 10 kat çapraz doğrulama yöntemi kullanılmıştır. Performans değerlendirmesi, çapraz doğrulama öncesi ve sonrası sınıflandırma performansları karşılaştırılarak yapılmıştır. Yapılan performans değerlendirmesi sonucu iç mekanda konum belirlemede Destek Vektör Makineleri algoritması kullanılırken doğrusal çekirdek fonksiyonunun seçimi uygun görülmüştür.
+Yazar isimleri: ['Ebru EFEOĞLU']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1057825
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2191975

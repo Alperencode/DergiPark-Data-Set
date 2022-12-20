@@ -1,0 +1,7 @@
+Makale Başlığı: Classification of Hotspots in Photovoltaic Modules with Deep Learning Methods
+Özet: 
+Yazar isimleri: ['Hakan AÇIKGÖZ', 'Deniz KORKMAZ', 'Çiğdem DANDIL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1158854
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2583637

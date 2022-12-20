@@ -1,0 +1,7 @@
+Makale Başlığı: MODELING THE DEPENDENCE STRUCTURE OF FINANCIAL DATA WITH A COPULA: ELECTRICITY INDEX – AN EXAMPLE OF THE DOLLAR  EXCHANGE RATE
+Özet: Copulas are used to reveal the dependency structure between random variables. Measuring dependency with copula functions in both parametric and non-parametric situations, methods that can be an alternative to many methods and allow much simpler calculation of these calculations have been proposed. In this study, the dependency structure between the electricity index and the dollar rate was examined and interpreted using the copula function. The relationship between the two indices was made with MSE, AIC and BIC calculations. In the results of these calculations, it was determined that the most appropriate modeling according to MSE is with Clayton, and when viewed according to AIC and BIC, the most appropriate modeling will be done with Gumbel.
+Yazar isimleri: ['Tuğba ÜNAL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: AYBU Business Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/abj/issue/71019/1103758
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2375410

@@ -1,0 +1,7 @@
+Makale Başlığı: FAN TOKENLAR İLE KRİPTO PARALAR ARASINDAKİ İLİŞKİ: AMPİRİK BİR BULGU
+Özet: Son yıllarda kripto varlıkların tüm dünya genelinde giderek popülerleşmesi sonucu her geçen gün artan sayıda yenilikçi kripto varlıklar piyasaya çıkmaktadır. Bir “utility token” türü olan Fan Tokenlar da bu kapsamda öne çıkan bir kripto varlık olarak ele alınmıştır. Kripto para ve spor sektöründeki gelişmeler fan tokenlara olan ilgiyi her geçen gün arttırmakta olduğundan sistemin finansal hacmi de sürekli olarak büyümektedir. Büyüyen hacimle birlikte Fan Token satın alanların aldıkları riskler artmaktadır. Literatürde kripto varlıkların risklerine dair çalışmalar bulunmakla birlikte Fan Tokenlar özelinde konu ele alınmadığından tarafımızca incelenmeye değer görülmüştür. Fan Tokenların fiyat hareketleri ile başat kripto varlıkların hareketlerinin arasındaki ilişki irdelenmiştir. Araştırmada yapılan regresyon ve korelasyon analizleri ile kriptopara borsalarındaki hareketlerin, Fan Token borsaları üzerinde etkiye sahip olduğu tespit edilmiştir. Bu nedenle Fan Token alım satım işlemlerinde kriptopara borsalarındaki gelişmelerin özellikle ve dikkatle takip edilmesi gerektiği sonucuna ulaşılmıştır.
+Yazar isimleri: ['Mehmet Ali DEMİR', 'Ramazan AKTAŞ']
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: Uluslararası İktisadi ve İdari İncelemeler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ulikidince/issue/73302/1112054
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2409186

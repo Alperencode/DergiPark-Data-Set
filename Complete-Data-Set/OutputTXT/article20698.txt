@@ -1,0 +1,7 @@
+Makale Başlığı: Brokoliden (Brassica oleracea L. var. italica) biyoaktif bileşen ekstraksiyonu ve Taguchi yöntemi ile optimizasyonu
+Özet: Yapılan çalışmada brokoliden klasik ekstraksiyon metodu kullanılarak biyoaktif bileşen ekstraksiyonu yapılmıştır. Klasik ekstraksiyon yönteminde, belirlenen en yüksek toplam fenolik madde, antioksidan aktivite değeri ve askorbik asit miktarı, sırasıyla 690.94 mg GAE/kg kuru madde (20°C/15dk), 5.08 mg/ml (20°C/15 dk) ve 66.74 mg/100g (20°C/15 dk) olarak tespit edilmiştir. Yapılan ekstraksiyonda Taguchi yöntemi kullanılarak ekstraksiyon koşulları belirlenmiştir. Buna göre  ekstraksiyonda  toplam fenolik madde, antioksidan aktivite ve askorbik asit değerinin en iyi olduğu proses koşulları 20°C/15dk olarak Taguchi metodu ile de kanıtlanmıştır. Renk değerleri incelendiğinde brokoli ekstrakstında elde edilen renk değerleri üzerinde sıcaklığın önemli bir etkisinin olduğu tespit edilmiştir.
+Yazar isimleri: ['Cem BALTACIOĞLU']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1120580
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2444301

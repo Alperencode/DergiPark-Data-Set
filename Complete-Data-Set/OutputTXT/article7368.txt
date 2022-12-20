@@ -1,0 +1,7 @@
+Makale Başlığı: SMART DOOR LOCK DESIGN WITH INTERNET OF THINGS
+Özet: 
+Yazar isimleri: ['Samed KAYA', 'Elmas AŞKAR AYYILDIZ', 'Mustafa AYYILDIZ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: International Journal of 3D Printing Technologies and Digital Industry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ij3dptdi/issue/71295/1074468
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2257024

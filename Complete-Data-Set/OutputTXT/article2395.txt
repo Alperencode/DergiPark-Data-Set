@@ -1,0 +1,7 @@
+Makale Başlığı: Production of Nostoc commune loaded pH sensitive carrier microspheres and analysis of release kinetics at different pH values
+Özet: Microspheres are carriers used for controlled drug release, carrying the active substance in the form of particles at the molecular level, and their diameters can vary from a few microns to millimeters. Microspheres can make controlled release depending on the pH change. In this study, pH sensitive drug carrier microspheres were produced using natural gelatin and sodium alginate polymers.  N. commune extract, which has been reported to have anticancer effects in the literature and to be used as an antitumor agent in colon cancer, was prepared and loaded with approximately 0.12 mg per cell.   In order to examine the microsphere fragmentation and drug release properties in the gastrointestinal system, spectrophotometric release kinetics studies were carried out in different pH environments.  In conclusion, it was observed that the release of the extract is fastest at the pH of the colon and the microspheres have the potential to be used in colon cancer therapy for drug targeting.
+Yazar isimleri: ['Cankız Gizem DELİBALTA', 'Ezgi EREN BELGİN', 'Cansu KORKMAZ', 'Hilal GÖNEN', 'Hüseyin ÇİÇEK']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/987447
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1943357

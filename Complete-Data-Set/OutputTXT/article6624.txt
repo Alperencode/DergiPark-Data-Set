@@ -1,0 +1,7 @@
+Makale Başlığı: Turist Rehberlerinin Akademiye Geçme Motivasyonları ve İş Doyumları
+Özet: Çalışma, rehber akademisyenlerin rehberlikten akademiye geçme motivasyonlarını belirlemek ve hem rehberlik hem de akademisyenlik mesleklerine yönelik iş doyumlarını ölçmek amacıyla nicel olarak tasarlanmıştır. Araştırma evrenini temsil eden 52 akademisyenden gönüllülük esası ile 36 akademisyene ulaşılıp, katılımcılara anket uygulanmıştır. Örneklem sayısının az olması sebebiyle parametrik olmayan Mann Whitney U ve Spearman korelasyon testlerinden yararlanılmıştır. Akademiye geçme gerekçeleri ile kategorik değişkenler arasındaki ilişki ise Ki-kare test ile incelenmiştir. Araştırma sonucunda, akademiye geçme gerekçelerinde en fazla yer verilen ifadelerin bilim insanı olma arzusu, gençlere öğretme arzusu ve özlük hakları olduğu, en yüksek etki puanına sahip olan ifadenin ise gençlere öğretme arzusu ifadesi olduğu görülmüştür. Genel iş doyum ve memnuniyetlerinin ise akademisyenlik mesleğinde daha yüksek puanlara sahip olduğu saptanmıştır. Bununla birlikte iş doyumu ve iş memnuniyetleri arasındaki ilişki incelendiğinde, genel doyum ve iş memnuniyetleri arasında anlamlı bir ilişki olduğu ortaya çıkmıştır.
+Yazar isimleri: ['Sibel KÖZ', 'Canan TANRISEVER']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Güncel Turizm Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/guntad/issue/72737/993069
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1964953

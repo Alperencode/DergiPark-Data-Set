@@ -1,0 +1,7 @@
+Makale Başlığı: YOLOv3, YOLOv4 ve YOLOv5 algoritmalarının Performans Karşılaştırması: Kümes Hayvan Tanıma İçin Bir Vaka Çalışması
+Özet: Bu çalışmanın amacı, görüntüleri sınıflandırmak için kullanılan popüler evrişim sinir ağı modellerinin arasındaki performans farklılıklarını bulmaktır. Bunun için, YOLO modelinin farklı versiyonları üzerinde bir vaka çalışması yürütüldü. Bu çalışma için yeni bir veri seti oluşturulmuştur. Oluşturulan veri setinde, 918 adet tavuk, horoz ve civciv görüntülerini içeren kümes hayvanı fotoğrafları bulunmaktadır. Veri kümesinin % 80'i eğitim % 20 test olarak ayrılmıştır. Eğitim ve test veri kümelerindeki kümes hayvanlarının görüntüleri manuel olarak etiketlendi.  Eğitim veri kümelesindeki görüntüler YOLOv3-tiny, YOLOv3, YOLOv4-tiny, YOLOv4, YOLOv5s, ve YOLOv5x modelleri kullanılarak eğitim tamamlandı. Kümes hayvanı tespiti için YOLOv5' modeli ile elde edilen sonuçlar diğer popüler CNN mimarisi sahip olan YOLOv3 YOLOv4 modelleri ile karşılaştırılmıştır. Sonuç olarak YOLOv5x(XLarge Depth(derinlik)) modeli  0,5 IOU'da %99,5 ortalama hassasiyetle en yüksek doğruluk oranı bulunmuştur.
+Yazar isimleri: ['Oğuzhan KIVRAK', 'Mustafa Zahid GÜRBÜZ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1111288
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2406452

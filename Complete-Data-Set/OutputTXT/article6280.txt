@@ -1,0 +1,7 @@
+Makale Başlığı: Optimization of Bioactive Components in Fresh Red Watermelon Juice of Ultrasound Assisted Extraction Conditions With Response Surface Methodology
+Özet: In this study, optimization of bioactive components in fresh red watermelon juice which was applied ultrasound for different amplitude and time with response surface methodology (RSM) was performed. As a result of the optimization, lycopene, ascorbic acid, total phenolic content and DPPH were determined as 28.74 mg/100 mL, 4.34 mg/100 mL, 122.2 mg GAE/L and 54.26%, respectively. When compared to the fresh red watermelon juice samples applied ultrasound with control samples, it was found that lycopene, total phenolic content and DPPH values increase and ascorbic acid content decreased.
+Yazar isimleri: ['Okan LEVENT', 'Doç. Dr. .seydi YIKMIŞ', 'Nazan TOKATLI DEMİROK']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Gaziosmanpaşa Üniversitesi Ziraat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gopzfd/issue/72521/1138189
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2516483

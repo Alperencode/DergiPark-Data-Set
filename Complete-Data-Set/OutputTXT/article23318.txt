@@ -1,0 +1,7 @@
+Makale Başlığı: Piezoelectric Fans: A Narrative Review
+Özet: 
+Yazar isimleri: ['Hamid ASADİ DERESHGİ', 'Hüseyin DAL', 'Rabia Güzide AL']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Journal of Smart Systems Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinssr/issue/70714/1122737
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2453334

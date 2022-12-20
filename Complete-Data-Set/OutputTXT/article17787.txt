@@ -1,0 +1,7 @@
+Makale Başlığı: Fuzzy Based Tool Wear Monitoring of the CNC Milling Machine
+Özet: In machining systems, cutting tool wear causes errors in precision manufacturing processes. It causes a waste of raw material processed in faulty production and a waste of time spent in vain. Continuous monitoring of tool wear and generating an automatic warning in case the wear value falls outside the tolerance value will resolve these issues. Vibration values and the powers drawn by the motors provide important clues in the non-contact monitoring of cutting tool wear during production. In this study, thanks to the use of low-cost sensors and the applied fuzzy decision mechanism , the cutting tool status could be detected online with an accuracy of 90.17 percent. The RMS value of the power drawn by the spindle motor, average value of fiber optic sensor output voltage, and the average values of selected fiber optic sensor output wavelet transformations are the inputs of the designed system. The output of the system is the cutting tool wear value estimated by the fuzzy decision mechanism.
+Yazar isimleri: ['İsmet GÜCÜYENER']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Yüzüncü Yıl Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yyufbed/issue/71465/1067638
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2230467

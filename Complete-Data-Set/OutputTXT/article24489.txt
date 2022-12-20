@@ -1,0 +1,7 @@
+Makale Başlığı: On Integral Transforms of Some Special Functions
+Özet: In this study, known integral transforms such as Fourier and Hartley are studied and these integral transforms are studied in detail for bicomplex numbers. In addition, the properties of the bicomplex Hartley transform have been investigated. Also, the relation between Hartley and Fourier transform for bicomplex numbers is given. Also, the relation between Hartley and Fourier transform for bicomplex numbers is given.
+Yazar isimleri: ['Serpil HALICI', 'Şule ÇÜRÜK']
+Yayın Yılı: 28 Aralık 2020
+Dergi ismi: Conference Proceedings of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cpost/issue/58603/817349
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1367251

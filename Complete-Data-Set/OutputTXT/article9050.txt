@@ -1,0 +1,7 @@
+Makale Başlığı: Fen Bilgisi Öğretmenlerinin Ters Yüz Öğretim Modeli Hakkındaki Görüşleri
+Özet: Bu çalışmanın amacı; fen bilgisi öğretmenlerinin Ters Yüz Öğretim Modeli (TYÖM) hakkındaki görüşlerini belirlemektir. Araştırma, bir durum çalışması olarak desenlemiştir. Verilerin toplanması sürecinde yarı-yapılandırılmış sorulardan oluşan görüşme formu kullanılmıştır. Araştırma, 2020-2021 eğitim-öğretim yılında Güneydoğu Anadolu bölgesinde bulunan bir il merkezindeki sekiz farklı ortaokulda görev yapan, derslerinde dijital araçları kullanan dokuz fen bilgisi öğretmeni ile yürütülmüştür. Verilerin analizinde içerik analizi ve betimsel analiz kullanılmıştır. Araştırmada, ders öncesi etkinliklerin ders başarısını artıracağı, öğrencilerin derse hazırlıklı gelmelerini sağlayacağı, TYÖM’nin etkili ve gerekli olduğu sonucuna ulaşılmıştır. Araştırma sonucunda modelin öğretmenler tarafından bütünüyle bilinmediği ortaya çıkmıştır. Bunun yanında TYÖM’in kullanımında teknolojik alt yapı yetersizliğinin fırsat eşitsizliği oluşturacağına dair bulgular da elde edilmiştir. Modelin uygulanması durumunda ise katılımcılar modelin genel anlamda öğrenmeyi kolaylaştıracağı, öğrencilerin ders başarılarını ve ilgilerini artırabileceğini ifade etmişlerdir.
+Yazar isimleri: ['Ayşe ARSLANHAN', 'Hasan BAKIRCI', 'Nebi ALTUNOVA']
+Yayın Yılı: 23 Nisan 2022
+Dergi ismi: Journal of Computer and Education Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcer/issue/69325/1017574
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2057662

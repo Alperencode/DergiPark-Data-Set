@@ -1,0 +1,7 @@
+Makale Başlığı: Detection of Benign and Malignant Skin Cancer from Dermoscopic Images using Modified Deep Residual Learning Model
+Özet: 
+Yazar isimleri: ['Mustafa Said KARTAL', 'Özlem POLAT']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Artificial Intelligence Theory and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aita/issue/72862/1134338
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2501334

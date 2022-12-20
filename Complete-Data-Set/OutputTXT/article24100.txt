@@ -1,0 +1,7 @@
+Makale Başlığı: BANKALARIN REKLAM STRATEJİLERİ ÜZERİNE BİR UYGULAMA
+Özet: Ticari bankalar, ürettikleri hizmetleri mevcut ve potansiyel müşterilerine tanıtmak, hedef kitle tarafından tercih edilebilmek ve bu sayede sektörel rekabet güçlerini artırabilmek için reklam ve benzeri tanıtım çabalarını bir araç olarak kullanırlar. Reklam, bir plan doğrultusunda firmanın sunduğu ürün ve hizmetlere karşı potansiyel alıcıların olumlu düşünmesini ve davranmasını sağlayan ve bu sayede daha fazla kar yapma imkânı veren tanıtım faaliyetidir. Bu çalışmada bankaların reklam harcamaları ile finansal rasyoları arasında ilişki olup olmadığı Türkiye'de faaliyet gösteren 21 ticari banka örnekleminden hareketle incelenmiştir. Banka reklamlarının finansal performans üzerindeki etkisini ölçmeye yönelik yedi farklı model (2007-2017 dönemini kapsayan çeyreklik veri seti) ikinci nesil panel veri metodolojisi ile analiz edilmiştir. Nedensellik testinin sonuçları incelendiğinde reklam harcamalarından mevduatlara doğru, tek yönlü bir nedensellik ilişkisi olduğu belirlenmiştir. Ticari bankaların reklam yapma nedenlerinin finansal getiriden çok piyasa payını koruma amacı taşıdığı düşünülmektedir.
+Yazar isimleri: ['Hande AYDIN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Sosyal ve Ekonomik Çalışmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gsijses/issue/72555/1174163
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2645949

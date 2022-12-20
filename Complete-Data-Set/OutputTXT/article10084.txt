@@ -1,0 +1,7 @@
+Makale Başlığı: KAMU POLİTİKALARINDA DÜRTME YAKLAŞIMI VE YAPAY ZEKÂNIN KULLANIMI
+Özet: Günümüzde kamu politikalarının geliştirilmesinde yapay zekânın sunduğu olanaklardan giderek daha fazla faydalanılmaya başlanmıştır.  Yapay zekâ, kamu yönetiminin örgütlenişi, işleyişi ve kamu politikalarının yapımının büyük ölçüde değişmesine sebep olan önemli bir araçtır. ‘Bireyin bilişsel yetersizliklerinden kaynaklanacak davranışlardan uzak durması ve bireyin nihai amaçlarına ulaşması için politika yapıcılar tarafından yönlendirilmesi’ anlamına gelen dürtme yaklaşımı da yapay zekâya eklemlenerek politikaların geliştirilmesine önemli bir katkı sağlamış ve her iki alan birbirini beslemiştir. Dürtme yaklaşımı ve yapay zekâ, hükümetlerin sunduğu hizmetlerin kalitesinin, etkinliğinin ve hızının artırılması için önemli araçlar sunmaktadır. Ancak her iki alan da kamu politikalarının geliştirilmesinde önemli fırsatlar sunmakla birlikte çeşitli zorlukları da bünyesinde barındırmaktadır. Bu makalede kamu politikalarının geliştirilmesinde yapay zekânın sunduğu fırsatlar örnekler temelinde incelenecektir. Yine, bu yaklaşımın bünyesinde barındırdığı zorlukların üstesinden gelinebilmesi için çeşitli öneriler sunulacaktır.
+Yazar isimleri: ['Ayça KUŞSEVEN']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Kamu Yönetimi ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kaytek/issue/73022/1097905
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2350762

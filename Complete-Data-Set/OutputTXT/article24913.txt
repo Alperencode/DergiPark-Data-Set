@@ -1,0 +1,7 @@
+Makale Başlığı: Does Exchange Rate Volatility Deter Trade in Sub-Saharan Africa?
+Özet: This study investigates the effects of exchange rate volatility on trade in 39 selected SSA countries for the period 1995 to 2012. Export and import models were estimated using panel data econometric technique. Three measures of volatility are used. These are standard deviation, GARCH and HP-Filter. The results suggest that the effect of exchange rate volatility on trade is dependent of the type of volatility measure used. This reflects the importance of not solely relying on a unique measure of volatility. The results revealed that exchange rate volatility (measured with standard deviation and HP filter) depresses exports, suggesting that SSA exporters are susceptible to reduce their export activities when exchange rates become volatile. However, the fact that the degree of the impact of exchange rate volatility on trade is relatively weak, suggest that should SSA’s policy makers decide to pursue a policy intended to reduce exchange rate volatility in order to boost trade, it might be of little or no value. The results also indicate that exchange rate volatility is associated with a reduction in imports.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353513
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364539

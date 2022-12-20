@@ -1,0 +1,7 @@
+Makale Başlığı: Corporate Cash Holding and Monetary Policy
+Özet: Firma nakit tutma davranışı, firmaları yönetim ve karar verme biçimleri açısından anlamak için önemlidir ve finans literatürü kurumsal nakit tutmanın belirleyicileri hakkında çeşitli görüşler sunmaktadır. Bu çalışmada, nakit tutma kararı makroekonomik bir perspektiften incelenmekte ve para politikasının firmaların nakit tutma kararlarını etkileyip etkilemediği araştırılmaktadır. Türkiye'de borsada işlem gören finansal olmayan firmalara dayalı analizimiz, son ampirik kanıtların aksine, para politikasının kurumsal nakit tutma üzerinde etkisi olmadığını göstermektedir. Bu bağlamda sonuçlar, para politikası ile literatürde daha önce kurulmuş olan nakit tutma kararları arasındaki ilişkinin genellenemeyeceği sonucunu göstermektedir.
+Yazar isimleri: ['Baki Cem ŞAHİN', 'Selçuk GÜL']
+Yayın Yılı: 27 Nisan 2022
+Dergi ismi: Maliye ve Finans Yazıları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mfy/issue/69611/1044804
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2153989

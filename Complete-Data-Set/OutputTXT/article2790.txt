@@ -1,0 +1,7 @@
+Makale Başlığı: An Error Correction Structure for DH-PIM Transmission Method
+Özet: In the study, the performance analysis of error correction structures has been investigated for the DH-PIM method which is proposed for optical communication systems. A suitable system model for erasure and false alarm errors are obtained to join the Visible Light Communication (VLC) Systems. A theoretical framework is given for the model in this paper. New digital circuit based architecture is improved for erasure error structure in a FPGA (Field Programmable Gate Arrays) complier Quartus. The results are investigated in the Modelsim-Altera simulator in terms of the time chart. According to obtained results, it is shown that proposed digital circuit based architecture can successfully correct the error slots. Additionally, the performance of slot error rate has been analyzed for both erasure and false alarm errors of which the theoretical frameworks are obtained. It is shown from results that erasure error correction system (S-DHPIM) has better slot error rate performance than that of traditional DH-PIM (G-DHPIM). Addition to this, it is indicated that DH-PIM with erasure and false alarm correction structure (SY-DHPIM) gives better slot error performance compared with the S-DHPIM.
+Yazar isimleri: ['Mehmet SONMEZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1062002
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2208568

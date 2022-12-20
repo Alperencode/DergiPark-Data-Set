@@ -1,0 +1,7 @@
+Makale Başlığı: Third Part Reverse Logistics Service Provider Selection Using the Spherical Fuzzy TOPSIS Method
+Özet: The relevance of reverse logistics is increasing day by day as a result of the recycling of used goods, which is required for environmental reasons and seen as a competitive advantage by enterprises. The profitability of enterprises increases and their image in the eyes of consumers improves as a result of changes achieved in reverse logistics systems. Reverse logistics services are typically outsourced to 3PRLP by businesses. Choosing an inappropriate 3PRLP for a firm will diminish resource efficiency, increase operational hazards, and potentially harm the company's long-term growth. As a result, proper 3PRLP evaluation and selection may entail a variety of criteria, group decision-making, and diverse levels of uncertainty. For this reason, the TOPSIS technique based on spherical fuzzy sets has been proposed in this study for the selection and evaluation of 3PRLP, which takes into account a broader preference area and degrees of indecision and can be used by firms in their daily work and In the aluminum sector, the proposed approach has been applied results are shared.
+Yazar isimleri: ['Fulya ZARALI']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/1095825
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2342225

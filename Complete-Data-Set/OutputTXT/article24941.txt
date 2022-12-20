@@ -1,0 +1,7 @@
+Makale Başlığı: Assessing the Triple Deficit Hypothesis for Major South Asian Countries: A Panel Data Analysis
+Özet: The paper examines the “triple deficit hypothesis” - An extension of the “twin deficit hypothesis” with inclusion of private saving gap for a panel of five South Asian countries, namely India, Pakistan, Bangladesh, Srilanka and Nepal for the period 1985-2015. The results based on first and second generation panel cointegration tests indicate long-run relationship among budget balance (BB), current account balance (CAB) and private saving gap. The long-run coefficients obtained using mean group (MG)-dynamic ordinary least square, MG-fully modified ordinary least squares and common correlated effect MG indicate positive impact of BB and private saving gap on CAB thus confirming triple deficit hypothesis. The causality analysis reveals feedback relationship between CAB and BB implying that improvement in CAB requires fiscal austerity but fiscal adjustment is not fully policy controlled and requires adjustment in current account. Further, the causation also runs from saving gap to CAB and BB implying that plugging the saving gap would help improve both current account and BB.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353550
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364579

@@ -1,0 +1,7 @@
+Makale Başlığı: YABANCI YATIRIMCILARIN BORSA İSTANBUL ÜZERİNDEKİ ETKİLERİNİN MAKİ YAPISAL KIRILMALI EŞBÜTÜNLEŞME TESTİ İLE ANALİZİ
+Özet: Yabancı yatırımlar, özellikle finansman ihtiyacı yüksek olan gelişmekte olan ülkeler için büyük önem taşımaktadır. Gelişmekte olan ülkelerin makroekonomik göstergeleri, kendileri için sermaye akımı fırsatı olarak görülen yabancı portföy yatırımlarından etkilenmektedir. Yabancı portföy yatırımlarının etkilediği makroekonomik faktörlerden biri de sermaye piyasalarıdır. Çalışmada Türkiye’ye yönelik yabancı portföy yatırımlarının İstanbul Menkul Kıymetler Borsası üzerine etkisinin olup olmadığı incelenmiştir. Bu bağlamda, 2010-2022 dönemi için BİST100 endeksi, yabancı yatırım hacmi ve yabancı portföy değeri aylık verileri kullanılarak oluşturulan model, Maki (2012) tarafından geliştirilen ve beş kırılmaya kadar izin veren eşbütünleşme testi ile analiz edilmiştir. Maki eşbütünleşme testine göre değişkenler arasında eşbütünleşme ilişkisi olduğu bulunmuştur. FMOLS uzun dönemli katsayı tahmincisinden elde edilen bulgulara göre yabancı yatırımcı sayısının toplam yatırımcılar içindeki payındaki artışın BİST100 endeksini olumsuz etkilediği ancak yabancı yatırımların toplam yatırımlar içindeki payının artmasının BİST100 endeksini olumlu etkilediği sonucuna ulaşılmıştır.
+Yazar isimleri: ['İnci Merve ALTAN']
+Yayın Yılı: 17 Eylül 2022
+Dergi ismi: Sakarya İktisat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sid/issue/72576/1174806
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2648738

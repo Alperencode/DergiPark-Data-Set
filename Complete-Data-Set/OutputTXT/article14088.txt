@@ -1,0 +1,7 @@
+Makale Başlığı: MOTOR YAĞI ANALİZ YÖNTEMİ İLE MOTOR YAĞI KULLANIM SÜRELERİNİN İYİLEŞTİRİLMESİ
+Özet: Yağ analiz yöntemi, yağlama yağları, hidrolik yağlar ve greslerdeki aşınma parçacıklarını inceleyen koruyucu bir bakım tekniğidir. Bu yöntem, yağ özelliklerinin sürekli incelenmesi, aşınma parçacıklarının miktarını, cinsini ve aynı zamanda aşınmanın tipini belirlemede kullanılır. Bu yöntem bir makinenin veya motorun yağlanan elemanlarının durumu hakkında önemli bilgiler sağlayabilir. Yağların numune alınarak sürekli olarak özelliklerinin incelenmesi ve analizi sayesinde, kullanım ömürleri arttırılabilir. Toz girişi, yağa su veya yakıt karışması gibi çok ciddi problemler teşhis edilebilir.Bu çalışmada, Soma ELİ’nde kullanılan kamyon motor yağları incelenmiş ve motor yağlarının kullanım zamanıyla kimyasal ve fiziksel değişimleri gözlemlenmiştir. Standartlara uygun olarak alınan yağ numuneleri analiz cihazlarında incelenmiştir. Aşınmalar nedeniyle yağ içerisinse oluşan farklı element miktarları ve yağ özellikleri kontrol edilerek, olası arıza hakkında karar verilmektedir. Bu yöntemle motorların yağ kullanım süresi uzamış ve işletme verimliliği artışı sağlanmıştır.
+Yazar isimleri: ['Tamer CEBECİ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Soma Meslek Yüksekokulu Teknik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/somatbd/issue/71302/1106365
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2386070

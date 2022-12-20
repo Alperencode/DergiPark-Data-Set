@@ -1,0 +1,7 @@
+Makale Başlığı: Saponin Bileşeninin Biyolojik Aktiviteleri, Kullanım Alanları ve Etkileri
+Özet: Tarih boyunca bitkiler insanlar tarafından birçok hastalığın tedavisinde kullanılırken, son yıllarda yapılan çok sayıdaki in vivo, in vitro ve in silico çalışmalarda, bitkilerin yapısında tıbbi olarak yararlı etkiler gösteren çeşitli bileşenler olduğu bilimsel olarak da ortaya konmuştur. Saponinler, geniş bir farmakolojik ve endüstriyel potansiyele sahip olan bitkilerin sekonder metabolit ürünleridir. Uzun yıllar boyunca saponinlerin sağlığa zararlı etkilerinin olduğu düşünülmüş olmasına rağmen, yapılan çalışmalarda uygulama dozu ve uygulama sıklığına bağlı olarak yararlı etkilerinin olabileceği belirlenmiştir. Farmakolojik araştırmalar, saponinlerin antidiyabetik, sitotoksik, antibakteriyel, kolesterol düşürücü, antifungal ve anti-inflamatuar aktiviteler sergilediğini ve birçok farklı alanda faydalı olduğunu ortaya koymuştur. Oluşturulan bu derleme, saponin bileşeni hakkında bilgi vermek ve bu bileşeninin biyolojik aktiviteleri ile saponin içeren bitki ve gıdaların kullanımının sağlık üzerinde meydana getirdiği etkiler, yapılan bilimsel çalışmalar örnek gösterilerek açıklanmak üzere hazırlanmıştır.
+Yazar isimleri: ['Emine OKUMUŞ', 'Mehmet Ali TEMİZ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Van Sağlık Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/vansaglik/issue/72402/1028378
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2099612

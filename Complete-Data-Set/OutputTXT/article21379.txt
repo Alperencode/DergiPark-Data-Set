@@ -1,0 +1,7 @@
+Makale Başlığı: Comparisons of extreme learning machine and backpropagation-based i-vector  approach for speaker identification
+Özet: The extreme learning machine  ELM  is one of the machine learning applications used for regression and  classification systems. In this paper, an extended comparison between an ELM and the backpropagation neural network   BPNN -based i-vector is given in terms of a closed-set speaker identification task using 120 speakers from the TIMIT  database. The system is composed of the mel frequency cepstal coefficient  MFCC  and power normalized cepstal  coefficient  PNCC  approaches to form the feature extraction stage, while the cepstral mean variance normalization   CMVN  and feature warping are applied in order to mitigate the linear channel effect. The system is utilized with  equal numbers of speakers of both genders with 120 speakers with eight dialects from the TIMIT database. The results  demonstrate that the combination of the i-vector with the ELM for different features has the highest speaker identification  accuracy  SIA  compared with the combination of the BPNN with the i-vector. The results also show that the i-vector  with ELM approach is faster than the BPNN-based i-vector and it has the highest SIA.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739688
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110691

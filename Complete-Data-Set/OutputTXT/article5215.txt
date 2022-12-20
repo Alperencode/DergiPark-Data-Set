@@ -1,0 +1,7 @@
+Makale Başlığı: Umut ve Azime Dayalı Müdahale Programının Ergenlerin Öz Yeterliklerine Etkisi
+Özet: Bu araştırmanın amacı, umut ve azime dayalı müdahale programının ergenlerin öz yeterliklerine etkisini incelemektir. Araştırmada yöntem olarak 2x2’lik ön-son test kontrol gruplu deneysel desen kullanılmış olup, çalışma grubunu 2019-2020 öğretim yılında XXX ilindeki bir ortaokulda öğrenim gören 18 öğrenci oluşturmuştur. Katılımcılar, seçkisiz olarak deney (n=9) ve kontrol grubuna (n=9) atanmışlardır.  Katılımcılara ön ve son testte Genel Öz Yeterlik Ölçeği uygulanmıştır. Deney grubuna, haftanın iki günü olmak üzere yedi oturumluk umut ve azime dayalı müdahale programı uygulanmıştır. Oturumlar, 40-50 dakika arasında değişen sürelerde gerçekleştirilmiştir. Verilerinin analizinde bağımsız gruplar için t-testi ve tekrarlanmış ölçümler için iki yönlü ANOVA kullanılmıştır. Araştırma bulguları, programa katılan ergenlerin son test öz yeterlik puan ortalamalarının hem deney grubu ön test puanlarına göre hem de kontrol grubundaki ergenlerin son test puanlarına göre anlamlı olarak daha yüksek olduğunu göstermektedir. Sonuç olarak, umut ve azime dayalı müdahale programının ergenlerin öz yeterliklerini arttırmada etkili olduğunu göstermektedir.
+Yazar isimleri: ['Mehmet ŞAM', 'Ramin ALİYEV']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Erzincan Üniversitesi Eğitim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erziefd/issue/73343/1003054
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2003434

@@ -1,0 +1,7 @@
+Makale Başlığı: Global Existence and General Decay of Solutions for Quasilinear System with Degenerate Damping Terms
+Özet: 
+Yazar isimleri: ['Erhan PİŞKİN', 'Fatma EKİNCİ']
+Yayın Yılı: 28 Aralık 2020
+Dergi ismi: Conference Proceedings of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cpost/issue/58603/832435
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1418918

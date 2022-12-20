@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of Carbon Footprint with IPCC Tier 1 and DEFRA Methods: The Case Study of Erzincan Binali Yıldırım University
+Özet: In this study, the carbon footprint of Erzincan Binali Yıldırım University for 2019 and 2020 was calculated first with the IPCC Tier 1 approach and then using the DEFRA conversion factors. The primary carbon footprint of EBYU has been calculated as 2753,2 tCO2e for 2019 and 2383,74 tCO2e for 2020, with the IPCC Methodology Tier 1 approach. Compared to 2019, there is a 13,42% decrease in the amount of emissions. With DEFRA conversion factors, 2314,53 tCO2e emissions for 2019 and 1826,54 tCO2e emissions for 2020 were calculated. Compared to 2019, there is a 21,08% decrease in the amount of emissions. This difference between the IPCC Tier 1 approach and DEFRA is due to the fact that the emission factors used in the IPCC Tier 1 approach calculations are general and DEFRA uses national data from the UK. It is thought that the decrease in carbon dioxide emissions is due to the mild climate in 2020 compared to 2019 and, as well as the doing online education in 2020 due to the Covid-19 pandemic process.
+Yazar isimleri: ['Aslıhan KURNUÇ SEYHAN']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufenbed/issue/73792/1061021
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2204719

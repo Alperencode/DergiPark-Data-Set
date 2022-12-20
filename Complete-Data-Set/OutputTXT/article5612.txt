@@ -1,0 +1,7 @@
+Makale Başlığı: An autonomous hydrogen production system design based on the solid chemical hydride
+Özet: This paper develops a hydrogen generator prototype that is for fuel cell systems used in portable applications. This generator is designed based on the use of solid-state hydrides with high hydrogen storage capacity in the catalytic hydrolysis reaction. Some using problems such as unstable hydrogen production, one-off service life, heavy or large-volume storage system, and short duty time can be avoided in moveable applications when the use of the produced prototype. In addition, A simulation model and an autonomous control algorithm, which evaluates the hydrogen generation and temperature responses of the prototype, are developed. The results confirm that the performance of a portable and autonomous prototype with 4 parts and 1-hour hydrogen production capacity is enough for small fuel cell applications.
+Yazar isimleri: ['Kaan BALTACIOĞLU', 'Çağlar CONKER', 'Hasan Hüseyin BİLGİÇ']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: European Mechanical Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ems/issue/73507/1056942
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2188586

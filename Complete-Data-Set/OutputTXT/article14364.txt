@@ -1,0 +1,7 @@
+Makale Başlığı: Sınıf yönetimi araştırmalarının bibliometrik analizi
+Özet: Bu araştırmanın amacı, sınıf yönetimi araştırmalarını bibliyometri yöntemini ile bilimsel haritalama analizine tabi tutmaktır. Araştırmanın verileri 1982-2020 yılları arasında yazılan eğitim yönetiminde sınıf yönetimi çalışmalarından elde edilmiştir. Araştırmanın sonuçlarına göre, sınıf yönetimi çalışmalarına araştırmacılar tarafından çok fazla ağırlık verilmediği söylenebilir. Çalışmaların büyük bir kısmının yurt dışında ve özellikle ABD’de yapıldığı görülmektedir. En çok atıf alan ve çalışma yapan yazarların ABD’de çalıştığı görülmektedir. Yapılan çalışmalarda “sınıf yönetimi”, “disiplin”, “öğrenci davranışları”, “destek” ve “kültür” anahtar kelimelerinin sıkça kullanılmıştır. Sınıf yönetiminde ülkemizden sadece bir çalışma yapıldığından, araştırmacılar bu alana yöneltilmelidir.
+Yazar isimleri: ['Kıvanç BOZKUŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Studies in Educational Research and Development
+Yayın sayfa url: http://serd.artvin.edu.tr/tr/pub/issue/70332/1012973
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2039433

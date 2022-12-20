@@ -1,0 +1,7 @@
+Makale Başlığı: BULANIK MANTIK TABANLI SICAKLIK DENETİM GERÇEKLEMESİ
+Özet: Çalışmada ortamsıcaklığını istenilen referans düzeyinde tutan Bulanık Mantık tabanlı sıcaklıkdenetim gerçeklemesi yapılmıştır. Çalışma arduino uno üzerindengerçekleştirilmiştir. Ortam sıcaklığı verilen referans değerin üzerinde isehataya göre denetleyici çıkış üretir. Darbe Genişlik Modülasyonu (DGM) ilefanın hızlı veya yavaş çalışması sağlanarak referans sıcaklık değerineulaşılır. 
+Yazar isimleri: ['Seda POSTALCIOĞLU']
+Yayın Yılı: 31 Aralık 2019
+Dergi ismi: İleri Teknoloji Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/duzceitbd/issue/51527/642714
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/918828

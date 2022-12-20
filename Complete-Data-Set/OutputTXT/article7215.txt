@@ -1,0 +1,7 @@
+Makale Başlığı: Polar Olmayan ZnO/BeMgZnO Kuantum Kuyularında Altbantlar Arası Geçişler: Fiziksel Boyut, Konsantrasyon ve Donör Seviyesinin Etkileri
+Özet: Polar ve semipolar yönlerde büyütülen BeMgZnO bariyer tabakaları üzerindeki ZnO kuyu katmanlarının polarizasyon özellikleri araştırıldı. Gevşemiş ve gerilmiş bariyer katmanların durumları göz önünde bulunduruldu. Arayüzlerdeki polarizasyon farkının, kuyu tabakası içinde 8 MV cm^(-1) büyüklüğünde yerleşik bir elektrik alanına yol açtığı bulundu. Polar olmayan ZnO/BeMgZnO kuantum kuyuları, altbantlar arası geçişler açısından incelendi. Hesaplamalar Be ve Mg konsantrasyonlarını sırasıyla 0.18 ve 0.5'e kadar kapsamaktadır. 50 ila 700 meV arasında değişen altbantlar arası geçiş (ISBT) enerjilerinin mümkün olduğu bulundu. Bariyer kalınlığının ISBT enerjileri üzerindeki etkisi incelendi. Sonuçlar, enerjilere kıyasla ISBT enerjilerinde önemsiz değişiklikler olduğunu göstermektedir.
+Yazar isimleri: ['Hasan YILDIRIM', 'Raşit ÇAKIR']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jist/issue/73493/1112545
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2411066

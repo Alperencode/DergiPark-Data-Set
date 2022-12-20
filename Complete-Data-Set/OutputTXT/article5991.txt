@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of Turkey's Base Metal Ore Exports by Herfindahl Hirschman Concentration Index
+Özet: Turkey produces underground resources through mining activities and brings them into the economy. Some of the produced minerals are exported. One of the most important of these minerals is base metal ores. Base metal ores are mainly exported to China, and its demand for raw materials is constantly increasing. These ores are also sent for re-import after processing to Belgium, which hosts the important smelters of Europe. However, the weight of these countries in the export markets has greatly increased. Therefore they are negatively affecting the market diversity of exports and increasing the risk of market concentration. The Herfindahl Hirschman concentration index was used to investigate and determine the extent of these risks and their impact on metallurgical raw material exports. The results showed that Turkey's base metal exports are moderately and highly concentrated and vulnerable to the risk of monopsony. In addition, it has been determined that increasing concentration levels increase the volume of raw material trade.
+Yazar isimleri: ['Mikail BAŞYİĞİT', 'Elif UZUN KART']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Gazi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gmbd/issue/72442/1064405
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2218189

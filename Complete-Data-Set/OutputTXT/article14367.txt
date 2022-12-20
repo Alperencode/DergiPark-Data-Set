@@ -1,0 +1,7 @@
+Makale Başlığı: Development of MoSe2-based Electrochemical Sensor for Detection of Dopamine and Uric Acid
+Özet: In the recent years, two-dimensional (2D) transition metal dichalcogenide (TMD) materials have attracted much attention due to their unique properties. In this work, molybdenum diselenide (MoSe2), as an important member of TMD materials, was synthesized via hydrothermal method and characterized in terms of structural and morphological analyses. The characterization results exhibited that MoSe2 was formed in few layers. Then, the obtained MoSe2 was used in electrode modification and applied for electrochemical simultaneous determination of dopamine (DA) and uric acid (UA). Differential pulse voltammetry (DPV) studies exhibited linear detection ranges of 9.98 – 155 μM and 19.96 – 310 μM for DA and UA, respectively. Moreover, the developed sensor is not affected by ascorbic acid (AA) interference and showed high stability and reproducibility.
+Yazar isimleri: ['Sadık ÇOĞAL']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufenbed/issue/73792/1022551
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2077334

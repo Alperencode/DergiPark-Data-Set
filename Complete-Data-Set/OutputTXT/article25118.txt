@@ -1,0 +1,7 @@
+Makale Başlığı: Only One Neuron either N-bit Parity Rule Based Modified Translated Multiplicative or McCulloch-Pitts Models for Some Machine Learning Problems
+Özet: 
+Yazar isimleri: ['Mehmet Melih İNAL']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/267039
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/233567

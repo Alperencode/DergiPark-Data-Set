@@ -1,0 +1,7 @@
+Makale Başlığı: Determinants of Growth in SADC Countries: A Fixed Effect Vector Decomposition Approach
+Özet: This paper studies the determinants of economic growth for the Southern African Development Community (SADC) countries over the period of 1995-2011.  A Fixed effect Vector Decomposition estimator (FEVD), which allows the estimation of the coefficient of the time-invariant and account for unobserved heterogeneity is employed to estimate the determinants of economic growth. The analysis also applies a Fixed Effects Two-Stage Least Squares estimator (FE-2SLS) to account for a possible endogeneity bias due to reverse causation between economic growth and government spending or other forms of endogeneity problem. Using the Fixed effect Vector Decomposition estimator we find that democracy, education – measured by enrolment rate, government expenditure, foreign direct investment, trade openness have the expected positive impact on economic growth. The results seem to hold fairly well when endogeneity of government spending is taken into account— the signs or directions of the above-mentioned estimated coefficients remain in line with our benchmark results.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353627
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364667

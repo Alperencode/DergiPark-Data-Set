@@ -1,0 +1,7 @@
+Makale Başlığı: KAMU SOSYAL HARCAMALARININ YOKSULLUK RİSKİ ÜZERİNDEKİ ETKİSİNİN EKONOMETRİK ANALİZİ
+Özet: Yoksulluk olgusu genel olarak az gelişmiş ülkelere özgü bir sorun olarak algılansa da, gelişmiş ülkeler için de önemli bir problem olmaya devam etmektedir. Bu sebeple, gelişmiş ülkelerde de yoksullukla mücadele devlete atfedilen görevler arasında kabul edilmektedir. Bu çalışmada, Avrupa Birliği ve Türkiye’de kamu sosyal harcamalarının yoksulluk üzerindeki etkileri belirlenmeye çalışılmıştır. Bunun için 23 ülkenin 2005-2019 dönemine ait yoksulluk riski ile kamu sosyal harcamaları, kamu sağlık harcamaları, vergi yükü ve enflasyon oranının yıllık verileri kullanılarak yoksulluk ile kamu sosyal harcamalar arasındaki ilişki panel veri analiziyle tahmin edilmiştir. Analiz sonuçlarında AB ülkeleri ve Türkiye’de kamu sosyal harcamaları ile yoksulluk arasında literatüre uygun olarak negatif yönlü bir ilişki olduğu sonucu elde edilmiştir. Elde edilen sonuçlara göre sosyal harcamalardaki 1 birimlik artışın, yoksulluk riskini 0.194 birim azalttığı belirlenmiştir. Özellikle Covid-19 gibi salgın dönemlerinde yoksullukla mücadelede sosyal harcamaların etkin bir araç olarak kullanılabileceği belirlenmiştir.
+Yazar isimleri: ['Şaban ERTEKİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Sosyal Bilimler Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gopsbad/issue/71153/1072734
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2250149

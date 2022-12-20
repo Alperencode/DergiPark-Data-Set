@@ -1,0 +1,7 @@
+Makale Başlığı: Finite element analysis of force distribution of shopping carts on human joints
+Özet: Shopping carts are essential parts used in shopping. There are differences between shopping carts used today. The most prominent of these differences is that some carts have only the front two free rolling wheels, the rear two wheels are fixed rolling wheels, and some carts have four free rolling wheels. In this study, the effects of this difference in shopping carts on joints of the human body under different conditions were simulated using analysis software and the results were compared. As a result, it has been determined that European style shopping carts with four free rolling wheels need more force when going straight than other type of shopping carts with two free rolling wheels and need less force in case of rotation. In addition, when these forces are applied on the human model and gravity is neglected, it has been determined that the reaction of the joints is close to each other.
+Yazar isimleri: ['Adil KILINÇ', 'Tarık AKGÜL', 'Uğur KEMİKLİOĞLU', 'Ahmet Zafer ŞENALP']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Pure and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijpas/issue/70506/1018909
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2062830

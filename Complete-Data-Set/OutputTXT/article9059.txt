@@ -1,0 +1,7 @@
+Makale Başlığı: 11. Sınıf Rehberlik Programının Öğrenci Görüşlerine Göre Değerlendirilmesi
+Özet: Bu araştırma, ortaöğretim 11. sınıf rehberlik programına ilişkin öğrenci görüşlerini belirlemek amacıyla yapılan tarama modelinde betimsel bir çalışmadır. Araştırmanın örneklemi, 863 ortaöğretim 11. sınıf öğrencisinden oluşmaktadır. Araştırmada veri toplama aracı olarak, Topçu (2014) tarafından geliştirilen “Okul Rehberlik Programı Değerlendirme Ölçeği” kullanılmıştır. 11. sınıf öğrencilerinin okul psikolojik danışma ve rehberlik programına ilişkin görüşlerinin cinsiyet, lise türü, not ortalaması, okul danışmanlık hizmetinden yararlanma, kardeş sayısı, baba ve anne eğitim düzeylerine göre farklılaşıp farklılaşmadığının tespiti amacıyla t-testi, Mann Whitney U, tek yönlü varyans analizi (ANOVA) ve Kruskal-Wallis testi yapılmıştır. Öğrencilerin görüşlerinin tüm alt boyutlarda orta düzeyde olduğu görülmektedir. Öğrencilerin demografik değişkenlerine göre rehberlik programına ilişkin alt boyutların karşılaştırılması analizlerinde, öğrencilerin daha önce rehberlik ve psikolojik danışmanlık biriminden hizmet alıp almama durumu, lise türü, not ortalaması ile anne ve baba eğitim düzeyi bakımından anlamlı ölçüde farklılaştığı bulunmuştur.
+Yazar isimleri: ['Mehtap SARAÇOĞLU']
+Yayın Yılı: 23 Nisan 2022
+Dergi ismi: Journal of Computer and Education Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcer/issue/69325/1066003
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2224232

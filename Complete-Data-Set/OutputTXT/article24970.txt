@@ -1,0 +1,7 @@
+Makale Başlığı: The Effects of Global Commodity Prices on Domestic Prices in Saudi Arabia
+Özet: This paper evaluates the impacts of global commodity prices on domestic prices in Saudi Arabia with aid of econometric techniques and monthly data over the period 2000:01-2016:09. We find evidence suggesting the influential role of global commodity prices on Saudi domestic prices over long run. In particular, we find that non-fuel commodity prices have more impacts on domestic prices than energy prices. Likewise, we find evidence, based on Granger causality analysis, suggesting that global commodity prices are useful indicators in capturing the movements in domestic prices.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353599
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364637

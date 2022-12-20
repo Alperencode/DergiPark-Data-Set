@@ -1,0 +1,7 @@
+Makale Başlığı: Spectrum and the Jost Solution of Discrete Impulsive Klein-Gordon Equation with Hyperbolic Eigenparameter
+Özet: Let L denote the quadratic pencil of difference operator with boundary and impulsive conditions generated in l_2 (N) by△(a_(n-1)△y_(n-1) )+(q_n+2λp_n+λ^2 ) y_n=0 ,    n∈N∖{k-1,k,k+1},y_0=0,(■(y_(k+1)@△y_(k+1) ))=θ(■(y_(k-1)@▽y_(k-1) )); θ=(■(θ_1&θ_2@θ_3&θ_4 )),{θ_i }_(i=1,2,3,4)∈Rwhere {a_n }_( n∈N), {p_n }_( n∈N), {q_n }_( n∈N) are real sequences, λ=2 cosh⁡(z/2) is a hyperbolic eigenparameter and △, ▽ are respectively forward and backward operators. In this paper, the spectral properties of L such as the spectrum, the eigenvalues, the scattering function and their properties are investigated. Moreover, an example about the scattering function and the existence of eigenvalues is given in the special cases, if∑_(n=1)^∞▒n(|1-a_n |+|p_n |+|q_n |) <∞.
+Yazar isimleri: ['Turhan KÖPRÜBAŞI']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/881459
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1581721

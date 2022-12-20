@@ -1,0 +1,7 @@
+Makale Başlığı: Some Results On Silver Riemannian Structures
+Özet: Our aim in this paper is to study of silver Riemannian structures on manifold and bundle. An integrability condition and curvature properties for silver Riemannian structure are investigated via the Tachibana operator. Twin silver Riemannian metric is defined and some properties of twin silver Riemannian metric are investigated. Examples of silver structure are given on tangent and cotangent bundles.
+Yazar isimleri: ['Rabia ÇAKAN AKPINAR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1024700
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2085567

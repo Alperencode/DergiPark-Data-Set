@@ -1,0 +1,7 @@
+Makale Başlığı: Yapay Zekȃ Sōseki’yi Nasıl Okur? - Eyleyenler Modeli Oluşturma ve Duygu Analizi Denemesi-
+Özet: Bu çalışmada Japon Yazar Natsume Soseki’nin “Dai Nana Ya (Yedinci Gece)” adlı kısa öyküsü yapay zekâ aracılığıyla incelenmiştir. Çalışmanın amacı yapay zekânın anlatı izlencesini ve eyleyenler modelini ortaya koyup koyamadığını test etmek ve anlatıdaki duygu akışını nasıl gösterdiğini belirlemektir. Araştırma sorusu “Bir yazarın eserini incelemek, verdiği mesajı duymak için yazarın öz yaşamını bilmek gerekir mi?” olarak belirlenmiştir. Buna göre öncelikle “Yedinci Gece” adlı kısa öykü Greimas’ın Eyleyenler Modeline göre incelenerek bir eyleyenler şeması çıkarılmış, anlatı izlencesi ortaya konmuştur. Ardından KH Coder metin madenciliği yazılımı kullanılarak eser hakkında edebiyat bilimcilerin öne sürdüğü görüşler ile yapay zekâ çıktıları karşılaştırılmıştır. Araştırma sonucunda, yapay zekânın anlatının yüzey yapı çözümlemesinde araştırmacıya büyük kolaylık sağladığı ancak derin yapıda özellikle metaforik anlatılarda bağlam kontrolünde şimdilik insana ihtiyaç duyduğu anlaşılmıştır.
+Yazar isimleri: ['Zeynep GENÇER BALOĞLU']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: HUMANITAS - Uluslararası Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/humanitas/issue/73028/1147658
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2553420

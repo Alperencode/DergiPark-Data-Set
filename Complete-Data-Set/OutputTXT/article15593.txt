@@ -1,0 +1,7 @@
+Makale Başlığı: Grüss Type Integral Inequalities For Generalized $\eta -$ Conformable Fractional Integrals
+Özet: Our aim in this paper is to establish new $\eta -$conformable fractional integral. For this purpose new inequalities are obtained by using generalized $\eta -$conformable fractional integral with the help of Grüss type integrals. The inequalities that exist in the literature are obtained in case of some special choices, which shows that the inequality we achieve is a more general inequality.
+Yazar isimleri: ['Seda KILINÇ', 'Hüseyin YILDIRIM']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/816174
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1363131

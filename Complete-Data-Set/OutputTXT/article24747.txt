@@ -1,0 +1,7 @@
+Makale Başlığı: Vergi Yapısı ile Ekonomik Büyüme Arasındaki Nedensellik İlişkisi: Türkiye Örneği
+Özet: Bir maliye politikası aracı olarak vergilerin ekonomik büyümeyle karşılıklı bir ilişkisinden söz etmek kuramsal olarak mümkündür. Ekonomik büyüme vergi tabanını genişleterek vergi gelirini etkileyebilmekte; vergilerdeki değişim de milli gelir dinamikleri yoluyla ekonomik büyümeyi etkileyebilmektedir. Ancak bu kuramsal kabulün ampirik olarak test edilmesi gerekmektedir. Bu nedenle çalışmamız Türkiye’nin 1980-2015 dönemi verileriyle, vergi yapısını oluşturan vergi türleri ile ekonomik büyüme arasındaki ilişkiyi Granger, Toda-Yamamoto ve Breitung-Candelon Frekans Alanı nedensellik testlerinden yararlanarak test etmiştir. Sonuçlar, toplam vergi gelirleri, dolaysız vergiler, dolaylı vergiler ve gelir vergileri ile ekonomik büyüme arasında uzun dönemli bir ilişkinin varlığına işaret etmektedir. Diğer taraftan, elde edilen bulgular, toplam vergi gelirleri, dolaysız vergiler ve gelir vergisi ile ekonomik büyüme arasında nedensellik ilişkisi olduğunu göstermektedir
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2018
+Dergi ismi: Finans Politik ve Ekonomik Yorumlar
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fpeyd/issue/47979/607023
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/787450

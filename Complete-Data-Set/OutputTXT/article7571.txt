@@ -1,0 +1,7 @@
+Makale Başlığı: Spatial and Temporal Variation of Total Column Ozone over Turkey with MERRA-2
+Özet: The main aim of this study is to analyse spatial and temporal variation of total column ozone as well as the trend over Turkey with MERRA-2 Reanalysis for the period 1980-2019. First of all, MERRA-2 total column ozone is compared with Brewer Spectrophotometer located in Ankara in this study. As a result, it is found that MERRA-2 total column ozone agrees quite well (R2=0.9781) with that from the Brewer Spectrophotometer. The trend analysis over Turkey indicates statistically significant decreasing trend in the 1980-1999 period, non-significant decreasing trend in the 2000-2009 period and non-significant increasing trend in the 2010-2019 period. The highest annual average total column ozone are found in Istanbul, Canakkale and Samsun cities with the values of 326.3±6.9 DU, 324.0±6.7 DU and 322.2±6.6 DU, respectively. Total column ozone are the highest in spring, followed by winter, and the lowest in summer and autumn seasons over Turkey.
+Yazar isimleri: ['Kahraman OĞUZ', 'Mithat EKİCİ']
+Yayın Yılı: 8 Eylül 2022
+Dergi ismi: International Journal of Environment and Geoinformatics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijegeo/issue/68801/1039383
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2143446

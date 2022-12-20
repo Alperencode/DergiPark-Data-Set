@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı Sürtünmeli Sarkaç Tipi İzolatörlerin  Yapı Sismik Davranışına Etkileri
+Özet: Bu çalışmada farklı sürtünme yüzeyi sayısına sahip sarkaç tipi izolatörler kullanılarak deprem yalıtımı sağlanan bir yapının zaman tanım alanında dinamik analizleri gerçekleştirilerek sürtünme yüzeyi sayısının yapı davranışı üzerindeki etkileri incelenmiştir. Bu amaçla beş katlı basit bir yapı ile birlikte tek, çift ve üç sürtünme yüzeyli sarkaç izolatörler ABAQUS sonlu eleman programı yardımıyla üç boyutlu elemanlar kullanılarak modellenmiştir. Dinamik analizler sismik yalıtımlı ve ankastre mesnetli yapılar için bir deprem kaydı dikkate alınarak gerçekleştirilmiştir. Maksimum kat göreli yer değiştirmeleri, kat ivmeleri ve kolon taban kesme kuvvetleri gibi yapı tepkileri farklı izolatör tipleri ve ankastre mesnetli durum için karşılaştırılarak yapının deprem davranışı üzerindeki etkileri incelenmiştir. Elde edilen sonuçlara göre izolatörlerin kullanıldığı yapılarda oluşan tepkilerin ankastre mesnetli yapılara göre önemli oranlarda azaldığı görülmüştür. Farklı sürtünme yüzeyi sayısına sahip izolatörler karşılaştırıldığında ise tüm bu tepkiler için üç sürtünme yüzeyli sarkaç izolatörün diğer izolatörlerinden daha iyi performans gösterdiği sonucuna varılmıştır. 
+Yazar isimleri: ['Ali İhsan KARAKAŞ']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/960841
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1854706

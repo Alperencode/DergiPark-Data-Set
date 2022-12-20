@@ -1,0 +1,7 @@
+Makale Başlığı: Multi-objective driver scheduling problem in public transportation: a case study in Kırşehir
+Özet: The number of passengers traveling in the city is increasing day by day with the rapidly increasing population. The most used transportation method in the city is buses. To ensure the public's satisfaction in urban transportation and to ensure the efficiency of the enterprise to be optimal, it is necessary to make proper pre-planning by the management. In this article, the vehicle and driver scheduling stages of Kırşehir public transportation operations are discussed. Scheduling has been created using the goal programming method to increase operational efficiency and ensure that the person has a fair working environment.
+Yazar isimleri: ['Emre YAZICI', 'Hacı Mehmet ALAKAŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Turkish Operations Management
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jtom/issue/70951/950068
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1815189

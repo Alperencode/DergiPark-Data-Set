@@ -1,0 +1,7 @@
+Makale Başlığı: Oluş veya Kılış Fiili Olmada Anlamın Etkisi: Git- Fiili Örneği
+Özet: Dilde fiiller varlık ilgisi bakımından temelde oluş ve kılış olmak üzere iki kategoride ele alınır. Bu aynı zamanda fiillerin dildeki oluş veya kılışların karşılıkları olmalarının bir gereğidir. Bu itibarla, dildeki fiillerin bir kısmı gerçekleşmek için bir yapana ihtiyaç duyarken bir kısmı ise bir yapana ihtiyaç duymaz. Bu durum, aslında fiillerin temel anlamlarıyla ilgilidir. Ancak zamanla ortaya çıkan yan anlamlarda aynı durum söz konusu olmayabilir. Yani, cümlede temel anlamıyla kullanılan bir fiil, kılış bildirirken yan anlamlarından biriyle kullanımında oluş bildirebilir, oluş bildiren bir fiil ise yan anlamlarından biriyle kullanımında kılış bildirebilir. Bu da fiillerin oluş veya kılış bildirmelerini dilin yatay boyutunda ortaya çıkan anlamların belirlediğini gösterir. Bu çerçevede Türkçenin kullanım sıklığı yüksek olan git- fiili Türkçedeki anlamları esas alınarak oluş veya kılış bildirme bakımından değerlendirilmiştir. Değerlendirme neticesinde git- fiilinin bazı anlamlarıyla oluş fiili, bazı anlamlarıyla ise kılış fiili özelliği gösterdiği ortaya konmuştur.
+Yazar isimleri: ['Ahmet Turan DOĞAN']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Manisa Celal Bayar Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cbayarsos/issue/72696/1099806
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2359041

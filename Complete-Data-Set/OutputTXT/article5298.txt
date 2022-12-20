@@ -1,0 +1,7 @@
+Makale Başlığı: Determinants of Sustainability Reporting and Independent Assurance Decisions
+Özet: This study aims to investigate the factors that affect the firms' decision to release sustainability reports and to have external assurance for these reports, specific to the firms that are traded in the BIST ALL Index in Borsa Istanbul. The investigation period of the study covers the period of 2010-2020 and difference tests and logistic regression methods are utilized. The findings reveal that firm size, leverage, profitability, board size, board gender diversity and sustainability performance significantly increase the probability of releasing sustainability report. As for external assurance, it is observed that firm size, leverage, board gender diversity and sustainability performance positively affect the probability of having external assurance for the sustainability reports of the firms.
+Yazar isimleri: ['Hüseyin TEMİZ', 'Yasin ŞEKER', 'Fevzi Serkan ÖZDEMİR']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguiibf/issue/73390/1147346
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2552497

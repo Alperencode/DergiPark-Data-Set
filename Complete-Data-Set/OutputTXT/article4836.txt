@@ -1,0 +1,7 @@
+Makale Başlığı: Ekonomik Büyüme ile Kişi Başına Düşen Sağlık Harcamalarını Arttırılabilir miyiz? Türkiye Örneği
+Özet: Birçok iktisatçı, sağlıklı bireylerin verimliliği artırdığını vurgulayarak, sağlık sistemine yapılan yatırımların ekonomik büyümeye olumlu katkıda bulunduğuna işaret etmektedir. Benzer şekilde, sağlık harcamaları gelirin bir fonksiyonudur; gelir arttıkça sağlık harcamaları artmaktadır. Bu çalışmada, temel olarak, gelişmekte olan bir ülkede, ekonomik büyümenin sağlık harcamaları üzerinde etkisi olup olmadığı sorusu cevaplanmaya çalışılmaktadır. Dolayısıyla, bu çalışmanın amacı, Türkiye’de, ekonomik büyüme ile kişi başına düşen sağlık harcamaları arasındaki ilişkinin 1999-2018 dönemi için analiz edilmesidir. Analizde, serilerin durağanlığının test edilmesi amacıyla, geleneksel ADF testine ek olarak, RALS (Residual Augmented Least Squares) ADF birim kök testi uygulanmaktadır. Ekonomik büyüme ve kişi başına sağlık harcamaları arasındaki uzun dönemli ilişkinin test edilmesi amacıyla ise, Engle-Granger ve RALS Engle-Granger kointegrasyon testlerinden yararlanılmaktadır. Analiz sonuçları, ekonomik büyümenin kişi başına düşen sağlık harcamaları üzerinde uzun dönemde etkisi olduğuna işaret etmektedir.
+Yazar isimleri: ['Esra N. KILCI']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Ekoist: Journal of Econometrics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ekoist/issue/68492/982652
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1924326

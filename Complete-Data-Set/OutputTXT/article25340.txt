@@ -1,0 +1,7 @@
+Makale Başlığı: Denence Testi ve H0 Denencesinin Reddedilememesinin Dayanılmaz Ağırlığı
+Özet: Sonuç olarak şunlar söylenebilir:·        Eğer fark bekleniyorken çıkmamışsa, çalışmanızdaöncelikle yukarıda ele alınan noktalarda ölçümlerinize hata karışıpkarışmadığını irdelemeniz gerekir. Eğer olanağınız varsa bu hata kaynaklarınıve eksikliklerini giderip çalışmanızı tekrar etmeniz en doğrusudur. Eğerolanağınız yoksa, ki çoğu tez çalışmasında yoktur, farkına vardığınız bueksiklikler ve hatalar konusunda bu çalışmayı okuyup başka çalışmalar yapacakolanları uyarmalısınız. Ancak fark çıkmadı diye verilerle vb oynayarak zorladenence doğrulatma yoluna asla başvurmamalısınız! Asıl yanlış olan budur!·        Eğer, yukarıda ele alınan eksik ve hatalaryoksa, (araştırma kurgusu ve probleminin yanlış olması dışında) hiçendişelenmeyin, doğru olduğu sanılanların doğru olmayacağına ilişkin bir bilgiüretmiş olabilirsiniz. Çünkü, denencelerinizin doğrulanmaması da önemli bir bilgidir.Herkesin doğru olarak bildiği bir bilginin yanlış olduğunun gösterilmesibeklentilerinizin doğrulanmasından daha da önemlidir: “Saçı uzun, ama aklı dauzun!”
+Yazar isimleri: ['Adnan ERKUŞ']
+Yayın Yılı: 16 Ağustos 2017
+Dergi ismi: İlköğretim Online
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ilkonline/issue/31371/358921
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/372431

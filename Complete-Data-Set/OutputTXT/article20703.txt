@@ -1,0 +1,7 @@
+Makale Başlığı: İstatistiklerle ülkemizdeki açık hat demiryolu ulaşımındaki gelişmeler
+Özet: Bu makalede ülkemizde açık hatlar üzerinde ve özellikle hemzemin geçitlerde meydana gelen kazalar incelenerek değerlendirilmiştir. Ülkemizde demiryolu altyapı işletmecisi olan Türkiye Cumhuriyeti Devlet Demiryolları (TCDD) Genel Müdürlüğü son yıllarda hemzemin geçitlerde iyileştirme çalışmalarını hızlandırmıştır. Bunun içinde geçitlerde gerek koruma sistemleri yönünden, gerek kaplama cinsi yönünden hızlı bir dönüşüm başlatılmıştır. Özellikle hemzemin geçitlerde ölümlü kazaların önüne geçmek, trafikte seyir halindeki araçların tren beklemelerini azaltmak için modernizasyon çalışmaları yapılmaktadır. Makalede TCDD tarafından tutulan istatistikler incelenerek yapılan modernizasyon çalışmalarının kaza ve olaylara nasıl yansıdığı elde edilen verilere göre değerlendirilmiştir.
+Yazar isimleri: ['Recep Koray KIYILDI']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1142613
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2533633

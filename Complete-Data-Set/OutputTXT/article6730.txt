@@ -1,0 +1,7 @@
+Makale Başlığı: Uniformly continuous cosine families properties around weak demicompactness concept
+Özet: In this paper, we use the concept of weak demicompactness in order to give  some properties for the uniformly continuous cosine families. Our theoretical results will be illustrated by investigating the spectral inclusion for a uniformly continuous cosine family for an upper semi-Fredholm spectrum.
+Yazar isimleri: ['Dr Hedi BENKHALED', 'Professor DR.']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1035373
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2127131

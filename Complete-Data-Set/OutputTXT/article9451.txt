@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison of Recent Meta-Heuristic Optimization Algorithms Using Different Benchmark Functions
+Özet: Meta-heuristic optimization algorithms are used in many application areas to solve optimization problems. In recent years, meta-heuristic optimization algorithms have gained importance over deterministic search algorithms in solving optimization problems. However, none of the techniques are equally effective in solving all optimization problems. Therefore, researchers have focused on either improving current meta-heuristic optimization techniques or developing new ones. Many alternative meta-heuristic algorithms inspired by nature have been developed to solve complex optimization problems. It is important to compare the performances of the developed algorithms through statistical analysis and determine the better algorithm. This paper compares the performances of sixteen meta-heuristic optimization algorithms (AWDA, MAO, TSA, TSO, ESMA, DOA, LHHO, DSSA, LSMA, AOSMA, AGWOCS, CDDO, GEO, BES, LFD, HHO) presented in the literature between 2021 and 2022. In this context, various test functions, including single-mode, multi-mode, and fixed-size multi-mode benchmark functions, were used to evaluate the efficiency of the algorithms used.
+Yazar isimleri: ['Mahmut DİRİK']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Journal of Mathematical Sciences and Modelling
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jmsm/issue/73450/1115792
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2424348

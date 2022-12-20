@@ -1,0 +1,7 @@
+Makale Başlığı: Determining the Factors Affecting the Levels of Need for Public Social Assistance of Households: Insights from the District of Konyaaltı, Antalya - TURKEY
+Özet: The main purpose of the study is to determine the levels of need of the householdsfor public social assistance and the main factors affecting it. The study datawere collected through a face-to-face survey with the beneficiaries of public socialassistance and multinomial logistic regression model was used for data analysis.The results revealed that the households would be needy rather than less needyof social assistance if they receive family benefits rather than if they receive eldersand disabilities benefits, but this probability would decrease if the monthly incomeof the individuals in the household increases by 1 TRY-Lira. In addition, thehouseholds would be more likely to move to the level of “highly needy” rather than“less in need” of social assistance if the age of the head of the household increasesby one year, the number of individuals in the household increases by one personand if the households receive family benefits instead of elderly and disabled benefits.The findings of study would enable policymakers to improve public socialassistance practices in Turkey.
+Yazar isimleri: ['Hamidou Taffa ABDOUL-AZİZE', 'Cengiz SAYIN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Middle Black Sea Journal of Communication Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mbsjcs/issue/73616/1109905
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2400978

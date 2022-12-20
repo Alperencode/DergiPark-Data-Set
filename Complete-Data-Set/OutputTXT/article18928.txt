@@ -1,0 +1,7 @@
+Makale Başlığı: Hybrid Ranking Proposal Based on Spatial Econometrics: An Example of European Economic Freedoms
+Özet: Data sorting and index research are any processesthatinclude arranging data in a meaningful orderto aid comprehension, analysis, or visualization. When working with research data, sorting is a frequent strategy for displaying data in a way that makesthe story that the data tells more understandable. In thisresearch, a hybrid method involving spatial econometrics, fuzzy clustering analysis, and multicriteria decision making was proposed for a unified measure ranking of the quality of political–economic institutions in different jurisdictions such as economic freedoms. The suggested technique was calculated and compared using the Heritage Foundation economic freedom statistics for the years 2019, 2020, and 2021. Between the derived findings and original results, a correlation coefficient of 92% was computed. The proposed strategy is effective in comparable socioeconomic ranking and index research.
+Yazar isimleri: ['Serkan Cahit DİNÇ', 'Necati Alp ERİLLİ']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Ekoist: Journal of Econometrics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ekoist/issue/68492/1024567
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2085025

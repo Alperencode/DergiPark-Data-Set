@@ -1,0 +1,7 @@
+Makale Başlığı: Modeling and spillover of BIST 100 index return volatility with Dollar and Euro exchange rates: an application with GARCH and MGARCH models
+Özet: In this study, the volatility modeling of the USD-EURO exchange rates and the BIST 100 index return series and to reveal the volatility spillover between them is analyzed. The data were considered weekly for the period 2000-2019. Volatility structure of the were firstly determined by ARCH-GARCH models and then the volatility spillover among them was determined by MGARCH models. Looking at the analysis result, it is determined that GARCH(1,1) model is suitable for USD and EURO series and EGARCH(1,1,) model is suitable for BIST 100 index return series in volatility modeling. Was concluded that the highest correlation level was between the USD-EURO series.   
+Yazar isimleri: ['Emre Esat TOPALOĞLU']
+Yayın Yılı: 8 Aralık 2022
+Dergi ismi: Ardahan Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aruiibfdergisi/issue/73708/1172633
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2639528

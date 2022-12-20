@@ -1,0 +1,7 @@
+Makale Başlığı: Downregulation of Tetraspanin 8 and Carbonic Anhydrase 9 gene expression sensitized pancreatic cancer cells to cisplatin.
+Özet: In this context, we used the combined siRNA and chemotherapeutic drug treatment strategy for minimizing the side effects of chemotherapy agents in pancreatic cancers. We used the gene silencing approach with siRNA to target CA9 and TSPAN8 genes, which are overexpressed in pancreatic cancer. Then expression of the targeted CA9 and TSPAN8 genes were determined by western blot analysis. Effect gene silencing on the proliferation of Panc-1 and MiaPaca-2 cells were detected by MTT assay after transfection with Control siRNA, CA9 siRNA, and TSPAN8 siRNA. MTT cell proliferation assay was also performed to determine the effect the combined siRNA and chemotherapeutic drug treatment as to evaluate cisplatin and epirubicin sensitivity. The results demonstrated that targeted CA9 siRNA and TSPAN8 siRNA have increased the sensitivity of pancreatic cells to cisplatin and epirubicin that can conclude; CA9 and TSPAN8 silencing may be a suitable candidate for therapeutic applications.
+Yazar isimleri: ['Merve KARAMAN']
+Yayın Yılı: 26 Aralık 2018
+Dergi ismi: Journal of Applied Biological Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jabs/issue/41666/417799
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/608235

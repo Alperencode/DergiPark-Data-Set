@@ -1,0 +1,7 @@
+Makale Başlığı: Tam Ranklı Olmayan Modellerin Çözümü: Bingöl’de Erik Üretimi  Üzerine Bir Uygulama
+Özet: Bu çalışmada, tek yönlü varyans analizinde tam ranklı olmayan model için çözüm geliştirilmiştir. Bingöl iline ait rasgele belirlenen 5 ilçedeki ağaç başına erik üretim miktarı verileri üzerine genelleştirilmiş ters matris ile varyans analizi uygulanmıştır. Varyans analizinin hesaplanmasında Y=Xβ+ε lineer modeline göre, β parametresini tahmin etmek için 〖β ^=(X^' X)〗^(-1) X'Y denkleminde tam ranklı olmayan X’X matrisinin genelleştirilmiş tersi alınmıştır. Genelleştirilmiş ters matris ile varyans analizi yapılmıştır. Varyans analizi sonucunda ilçelere göre erik miktarı arası farklılık önemli bulunmuştur (p<0.001). Farklılığın hangi ilçeler arasında olduğunu belirlemek için çoklu karşılaştırma testlerinden Dunn-Sidak testi uygulanmıştır.
+Yazar isimleri: []
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Uluslararası Gıda Tarım ve Hayvan Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijfaa/issue/73040/1190193
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2712893

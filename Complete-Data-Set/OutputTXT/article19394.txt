@@ -1,0 +1,7 @@
+Makale Başlığı: A New Arabic Coding Scheme
+Özet: In this paper, we designed a new Arabic letter encoding scheme based on the characteristics of the Arabic language to solve many Arabic coding problems, especially those related to formulation problems. In the proposed coding scheme, we were able to represent the Arabic letter and its accent marks using one byte instead of two, thus, the size of the Arabic text was reduced in half. The suggested coding scheme can be used as a bilingual coding scheme instead of ASCII in an Arabic platform environment or as a text compression scheme.
+Yazar isimleri: []
+Yayın Yılı: 31 Aralık 2019
+Dergi ismi: International Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijens/issue/62962/1006065
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2015010

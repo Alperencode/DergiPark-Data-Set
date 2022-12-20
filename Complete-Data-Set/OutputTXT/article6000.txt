@@ -1,0 +1,7 @@
+Makale Başlığı: The Effects of Different Surface Treatments before Coating on Corrosion Properties of Aluminum Alloy Coated with Graphene Oxide
+Özet: In this study, the effects of four different surface treatments applied on the AA5754 aluminum alloy surface before graphene oxide coating on the corrosion behavior were investigated. Before the coating process, surface preparation was performed with SiC based grindingpapers with 180, 320, 800 and 1200 grit numbers on four different sample groups. Graphene oxide coating was made by electrophoretic deposition process by applying 5 V potential and 5 minutes to aluminum alloy samples. Electrochemical corrosion tests in salt water solution were applied to four different groups of samples that were coated. Polarization and Tafel polarization curves were obtained by using the potentiodynamic method in electrochemical corrosion tests. According to the results of the corrosion experiments, it was determined that the corrosion rate decreased and the corrosion resistance increased as the grindingpaper grain number increased, that is, as the grindingpaper grain size decreased, in the grinding process on the aluminum alloy surface before graphene oxide coating.
+Yazar isimleri: ['Kubilay KARACİF', 'Duygu CANDEMİR']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Gazi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gmbd/issue/72442/1078008
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2270964

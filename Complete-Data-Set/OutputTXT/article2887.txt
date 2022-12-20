@@ -1,0 +1,7 @@
+Makale Başlığı: Robotic Process Automation in Turkey
+Özet: This study is a compilation study of Robotic Process Automation, which is one of the developing technological trends in the world, its definition, its development from past to present, its benefits at the point where it is today and its predictions about what can happen in the future.While explaining Robotic Process Automation, which is a technological innovation that provides efficiency in terms of both time and cost by working without errors, non-stop, repetitive large-volume and rule-based works through software robots, a different and visionary perspective has been tried to be presented by making use of various studies. The studies and impressions about the point this technology has reached in Turkey and how much it is preferred by the sectors in Turkey are mentioned and suggestions for the future are made.
+Yazar isimleri: ['Hatice ÖZDEM', 'Muazzez Pınar BORA']
+Yayın Yılı: 1 Ağustos 2022
+Dergi ismi: Bilgisayar Bilimleri ve Teknolojileri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bibted/issue/66615/1008340
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2021557

@@ -1,0 +1,7 @@
+Makale Başlığı: Electricity Prices and Stock Market Performance: Evidence from Borsa Istanbul
+Özet: In this study, the effects of electricity prices on the change of the closing price of the Borsa Istanbul 100 index and its sub-sector price indexes are analyzed with non-linear autoregressive distributed lag models by using the Turkish monthly data for the June 2006 to February 2018 period. The findings suggest that there is an asymmetric relationship between the changes in electricity prices and the Borsa Istanbul price index. The dynamic effects of electricity price changes on the Borsa Istanbul and its sub-sector price indexes reveal that all price indexes demonstrate significantly rapid and strong responses to negative changes in a period of about 3 months while introducing considerably stronger responses to positive changes in a period of generally 9 months. Therefore, a negative shock in electricity prices conducts to a rise in price indexes in the short-run. However, a positive shock in electricity prices dominates in the long-run for all price indexes except Technology.
+Yazar isimleri: []
+Yayın Yılı: 14 Nisan 2022
+Dergi ismi: Journal of Sustainable Economics and Management Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecoman/issue/68868/1103671
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2375095

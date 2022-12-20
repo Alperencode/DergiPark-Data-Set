@@ -1,0 +1,7 @@
+Makale Başlığı: A Numerical Method for Solving Singularly Perturbed Quasilinear Boundary Value Problems on Shishkin Mesh
+Özet: In this paper, singularly perturbed quasilinear boundary value problems are taken into account. With this purpose, a finite difference scheme is proposed on Shishkin-type mesh (S-mesh). Quasilinearization technique and interpolating quadrature rules are used to establish the numerical scheme. Then, an error estimate is derived. A numerical experiment is demonstratedto verify the theory.
+Yazar isimleri: ['Hakkı DURU', 'Mutlu DEMİRBAŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1010528
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2030076

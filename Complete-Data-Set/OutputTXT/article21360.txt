@@ -1,0 +1,7 @@
+Makale Başlığı: Fabrication and characterization of amidoxime-functionalized silica decorated with copper: a catalytic assembly for rapid reduction of dyes
+Özet: In this study, amidoxime-functionalized silica decorated with copper (AFS-Cu) was fabricated and tested for its catalytic application. Fourier transform infrared spectroscopy, scanning electron microscopy, energy dispersive X-ray spectroscopy, and X-ray diffraction were employed to characterize its structure and morphology. The application of AFS-Cu as a catalyst for the catalytic reduction of methylene blue (MB) in aqueous media using NaBH4 as reductant was evaluated. The ability to reuse as well as the effect of catalyst dose and pH of solution on the catalytic activity was investigated. The reduction of MB followed pseudo-first-order kinetics and the rate constant (k) was 0.6224 min(-1). AFS-Cu was found to be a highly effective catalyst for MB reduction reaction and can be easily recovered and reused several times with no appreciable loss of catalytic activity.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944735
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1794978

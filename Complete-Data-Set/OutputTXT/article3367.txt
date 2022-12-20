@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Nodal Bölgelerin Tespiti: Yer-Sis Projesi Arayüzü Temelli Ampirik Bir Yaklaşım
+Özet: Geçmişte Türkiye için birçok bölgesel çalışma yapılmıştır. Ancak günümüze kadar gelen süreçte nodal bölgeler ile ilgili kapsamlı bir çalışma yapılmamıştır. Bununla birlikte küreselleşme, teknolojik gelişmeler, kentsel nüfus artışı, sosyo-ekonomik değişmeler bölge yaklaşımının ve yerleşimler arası ilişkilerin tanımının yeniden kurgulanmasını gerektirmiştir. Bu kapsamda yerleşmelerin kademelenmesi ve nodal bölgelerin tespiti alanında ilk bölgesel çalışma olan YER-SİS Türkiye’de Kentsel ve Kırsal Yerleşim Sistemleri Araştırması çalışması yapılmıştır. Çalışmada idari kurumlardan il/ilçe verileri toplanmıştır ve kentsel merkez yerleşimleri ve bunlara bağlanan yerleşimlerin birbirleri ile olan ilişkilerine daha ayrıntılı bakabilmek için il komşuluğu, hizmet oranı, mesafe ve üst derece merkeze bağlanabilirlik gibi çeşitli ek kısıtlar getirilmiş, ortaya çıkan nodal bölgeler ve bunlara bağlanan yerleşim sayıları bu kısıtların farklı varyasyonları uygulanarak incelenmiştir. Bunun sonucunda, belirlenen kısıtların olduğu durumlarda farklı nodal bölgeler ve bunlara bağlı yerleşimler ortaya çıkmış, kısıtlar değiştikçe nodal bölgelere bağlanan yerleşim sayıları da değişmiştir.
+Yazar isimleri: ['Ezgi TÜKEL', 'K. Mert ÇUBUKÇU', 'Emrah EREN']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Coğrafi Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aucbd/issue/72680/1107260
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2389730

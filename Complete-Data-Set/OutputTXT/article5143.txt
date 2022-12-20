@@ -1,0 +1,7 @@
+Makale Başlığı: TRAIL bağlı altın nanoparçacıkların glioblastoma TRAIL direncindeki etkisinin incelenmesi
+Özet: Glioblastomalar, cerrahi tedavideki gelişmelere rağmen, kemoterapiye ve radyoterapiye direnç gösterdikleri için alternatif tedavi yaklaşımlarına büyük ihtiyaç duyulmaktadır. Glioblastomalarda hayatta kalma ve apoptoz mekanizması aynı madalyonun iki farklı yüzü olarak görüldüğünde, mevcut tedavi stratejilerinin doğru tümör hücre popülasyonlarını hedef alıp almadığı sorusu gündeme gelmektedir. TRAIL, sadece tümör hücrelerinde apoptozu indükleyen en iyi ajanlardan biridir ancak tümör hücreleri TRAIL'e farklı duyarlılık göstermektedir. Bu çalışmada, TRAIL, altın nanoparcaçıklar yüzeyinde aktive edilip, TRAIL'e duyarlı ve dirençli glioblastoma hücrelerde canlılığı, ve kaspaz aktivitesini nasıl etkilediği araştırılmıştır. Bu çalışmanın sonuçları, gelecekte glioblastoma icin etkili tedavilerin tasarımında faydalı olacaktır.
+Yazar isimleri: ['İlknur SUR ERDEM']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/1126924
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2470436

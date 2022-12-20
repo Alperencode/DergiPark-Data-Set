@@ -1,0 +1,7 @@
+Makale Başlığı: MAKİNE MÜHENDİSLİĞİ ANABİLİM DALLARININ VE ÇALIŞMA ALANLARININ İNCELENMESİ
+Özet: Makinemühendisliği, her türlü mekanik sistemin tasarımı, analizi, imalatı ve testsürecini  inceleyen bir bilim dalıdır.Avrupa’da mechanical engineering yani mekanik mühendisliği ismiyle anılırken Türkçe’demakine mühendisliği terimi olarak karşılık bulmuştur. Bu çalışmada makinemühendisliği lisans ve yüksek lisansta öğrenim görmek isteyen veya makinemühendisliği mesleğinde bilgi sahip olmak isteyenler hedef kitle alınarakalınarak, makine mühendisliğinin anabilimdalları ve çalışma alanları incelenmiştir.
+Yazar isimleri: ['Emre YILMAZ']
+Yayın Yılı: 30 Aralık 2020
+Dergi ismi: Mesleki Bilimler Dergisi (MBD)
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mbd/issue/59248/641949
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/846802

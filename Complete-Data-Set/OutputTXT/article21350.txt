@@ -1,0 +1,7 @@
+Makale Başlığı: Enhanced ethanol sensing properties of WO3 modified TiO2 nanorods
+Özet: Pristine and WO3 decorated TiO2 nanorods (NRs) were synthesised to investigate n-n-type heterojunction gas sensing properties. TiO2 NRs were fabricated via hydrothermal method on fluorine-doped tin oxide coated glass (FTO) substrates. Then, tungsten was sputtered on the TiO2 NRs and thermally oxidised to obtain WO3 nanoparticles. The heterostructure was characterised by X-ray diffraction (XRD), scanning electron microscopy (SEM), and energy-dispersive X-ray (EDX) spectroscopy. Fabricated sensor devices were exposed to VOCs such as toluene, xylene, acetone and ethanol, and humidity at different operation temperatures. Experimental results demonstrated that the heterostructure has better sensor response toward ethanol at 200 degrees C. Enhanced sensing properties are attributed to the heterojunction formation by decorating TiO2 NRs with WO3.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944717
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1794919

@@ -1,0 +1,7 @@
+Makale Başlığı: Havalandırma Oranı ve Başlangıç Karbon/Azot Oranının Alkaloid İşleme Katı Atıklarının Tavuk Gübresi İle Kompostlamasında Enerji Tüketimine Etkisi
+Özet: Bu çalışma; havalandırma oranı ve başlangıç C/N oranının alkaloid işleme katı atıklarının tavuk gübresi ile kompostlamasında, havalandırma nedeniyle tüketilen enerji miktarına etkisini belirlemek amacıyla yürütülmüştür. Denemede 15 adet 100 litrelik otomatik kontrollü kompost reaktörleri kullanılmıştır. Kompostlama sıcaklığının kontrolü havalandırma fanlarının sıcaklık geri beslemeli kontrolü ile gerçekleştirilmiştir. Çalışma iki farklı denemeden oluşmaktadır. I. deneme, havalandırma oranının (beş farklı havalandırma debisi ve üç farklı açık/kapalı süreleri) kompostlama sisteminin enerji tüketimine etkisini belirlemek için yapılmıştır. II. deneme ise başlangıç C/N oranın enerji tüketimine etkisini belirlemek için (beş farklı başlangıç C/N oranı) gerçekleştirilmiştir. Çalışma sonuçları en düşük seviyede enerji tüketiminin, havalandırma debisinin 1.5-2 m3 h-1 olduğu uygulamalardan elde edildiğini göstermiştir. Diğer taraftan en düşük seviyede enerji tüketimi, C/N oranının yaklaşık olarak 21 ile 31 arasında değiştiği uygulamalardan elde edilmiştir.
+Yazar isimleri: ['Barbaros KUMBUL', 'Kamil EKİNCİ', 'İsmail TOSUN']
+Yayın Yılı: 18 Ekim 2022
+Dergi ismi: Türk Tarım ve Doğa Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkjans/issue/73036/1057479
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2190709

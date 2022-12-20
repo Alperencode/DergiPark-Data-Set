@@ -1,0 +1,7 @@
+Makale Başlığı: A Note on 2-Normed Grand Sequence Spaces
+Özet: In this paper, we define 2-normed grand sequence space by inspiration of (Gunawan, 2001) and (Rafeiro et. al., 2018). Also, we give some basic properties of these spaces.
+Yazar isimleri: ['Oğuz OĞUR']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1031895
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2113142

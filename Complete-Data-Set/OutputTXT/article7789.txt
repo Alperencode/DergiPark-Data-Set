@@ -1,0 +1,7 @@
+Makale Başlığı: Karışmaz PMMA/PS harmanlarının optik özelliklerine uyumlulaştırıcı etkisi
+Özet: Karışmayan polimetil metakrilat/polistiren (PMMA/PS) harmanları değişik maleik anhidrit-stiren-metil metakrilat (MAStMMA) uyumlaştırıcı oranı (0, 2, 4, 6, 8 ve 10) eklenerek çözeltiden döküm yoluyla elde edilmiştir. Spektral sonuçlar, kırılma indisi (n), sönüm katsayısı (k) ve absorpsiyon katsayısı (µ) gibi optik sabitlerin terpolimer bazlı uyumlaştırıcı ilavesiyle arttığını göstermiştir. Diğer yandan optik enerji boşluğu Eg, anılan optik sabitlere göre zıt bir eğilim göstermiştir. Gözlenen en düşük enerji boşluğu %8 ila %10 uyumlaştırıcı oranı arasında belirlenmiştir.
+Yazar isimleri: ['Ersen YILMAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Pure and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijpas/issue/70506/1054866
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2180655

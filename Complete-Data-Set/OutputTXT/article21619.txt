@@ -1,0 +1,7 @@
+Makale Başlığı: Fonksiyonlar Konusunun Öğretiminde Graph Yazılımının Kullanımı: Azerbaycan Örneği
+Özet: Bu çalışmada matematik derslerinde kullanılan Graph 4.4 yazılımının özellikleri tanıtılmakta ve bu yazılımın fonksiyonların grafiklerinin öğretiminde kullanılması sonucunda öğrencilerin fonksiyon grafiklerini oluşturma ve yorumlama becerilerindeki gelişim incelenmektedir. Çalışma deneysel bir çalışma olarak tasarlanarak yürütülmüştür. Örneklemi 46. (n=24 deney grubu, n=22 kontrol) 8. sınıf ortaokul öğrencileri oluşturmaktadır. Deney grubunda fonksiyonlar konusu Graph 4.4 yazılımı kullanılarak işlendi. Uygulamanın sonunda her iki gruba cevaplamaları için grafik oluşturmayı ve yorumlamayı gerektiren 2 soru soruldu. Öğrencilerin yazılı cevapları doğru, kısmen doğru ve yanlış şeklinde üç kategoride puanlanarak analiz edilmiştir. Yapılan karşılaştırmada deney grubunun ortalamalarının daha yüksek olduğu belirlenmiştir. Bulgular matematik derslerinde dinamik cebir yazılımlarının kullanılmasının öğrencilerin grafik becerilerini geliştirdiğini ortaya çıkarmıştır. Küçük bir örneklemden elde edilen bu sonuç genellenemese bile, bu çalışma matematik derslerinde Graph 4.4 yazılımı kullanımının temel öğretim araçlarından biri olabileceğini göstermektedir.
+Yazar isimleri: ['Melahet ABDULLAYEVA']
+Yayın Yılı: 5 Şubat 2021
+Dergi ismi: Türk Bilgisayar ve Matematik Eğitimi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkbilmat/issue/60213/673284
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/926884

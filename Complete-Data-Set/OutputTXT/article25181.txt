@@ -1,0 +1,7 @@
+Makale Başlığı: Solar Irradiance Estimation of Photovoltaic Module based on Thevenin Equivalent circuit Model
+Özet:    Abstract— This Paper presents an accurate method for estimation of solar irradiance of a PV module. The solar irradiance estimation method is derived using the efficient approximation of a PV model based on  Thevenin equivalent circuit . The short linear combination of exponential function is used for constructing a mathematical function that is used to express the Thevenin voltage source of a PV panel. The proposed algorithm for estimation of solar irradiance use Newton Raphson method based on extensively analysis of a photovoltaic mathematical model and it is applied for a wide range of operating point variations . The proposed method has the ability to estimate the parameters, which are required for constructing  the mathematical model of a PV in addition to estimate the solar irradiance . The accuracy and effectiveness of the proposed algorithm  is demonstrated in MATLAB for a photovoltaic  panel by using experimental data which is obtained from data sheet  under different operating conditions.   Index Terms— photovoltaic modeling; pyranometer;  solar irradiance Photovoltaic Model; Thevenin equivalent circuit System; Exponential sum models.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167881
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/147984

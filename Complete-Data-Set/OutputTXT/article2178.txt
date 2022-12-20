@@ -1,0 +1,7 @@
+Makale Başlığı: Multi-Criteria Decision Making Method for Subcontractor Selection in Indigenization Activities
+Özet: In this study, a survey-based multi-criteria decision-making methodology has been developed for the subcontractor selection problem. The survey is carried out in the relevant main business areas under the work type of the subcontractor company. These areas are evaluated according to the determined main dimensions. For the developed methodology, initially, the FUCOM weighting method is used to calculate the relative importance of the main business areas and main business dimensions. Then, a ranking method for selecting subcontractors based on TOPSIS, VIKOR, MABAC, and Compromise Programming techniques used in multi-criteria decision-making is presented, considering the survey results and the calculated results weights
+Yazar isimleri: ['Şeyda TOPALOĞLU YILDIZ', 'Mertcan ÖZÇELİK', 'Semih AKABA', 'Soner ALTAN', 'Nisa Yağmur BİLGİ', 'Kaan BODUR', 'Mehmet Erdem ÇORAPÇIOĞLU']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1079723
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2277539

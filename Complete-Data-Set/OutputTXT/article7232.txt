@@ -1,0 +1,7 @@
+Makale Başlığı: Iğdır Merkez ve Bazı Köy Okullarında İnsan Sağlığı Üzerinde Zararlı Etkisi Olduğu Düşünülen Uçucu Organik Bileşiklerin Analizi
+Özet: İş sağlığı ve güvenliği kapsamında, okullarda çalışanların ve öğrencilerin maruz kaldıkları ve insan sağlığı üzerinde etkisi olduğu düşünülen uçucu organik bileşiklerin ölçümü yapılmıştır. Bu çalışmanın değerlendirilmesinde ilgili mevzuat ve standartlarda belirlenen sınır değerleri referans alınmıştır. Çalışma kapsamında elde edilen numuneler Gaz kromatografisi-kütle spektrometresi (GC/MS) ile ölçüme tabii tutulmuştur. Ölçüm için Iğdır ili ve çevresinde belirlenen 10 okulda pasif hava örnekleme izleme cihazı 12 günlük bir zaman dilimi için bırakılmıştır. Elde edilen bulgulara göre toluen (6.8 µppm), aseton (5.4 µppm) ve etanol (39.5 µppm) değerleri okulların koordinatlarına göre farklılık göstererek diğer bileşiklere kıyasla yüksek bulunmuştur. Bu değerler kabul edilebilir referans aralıklarında olup, daha hassas cihaz ve yöntemlerle ileri ölçümler önerilmektedir.
+Yazar isimleri: ['Erkan MERT', 'Abdülmelik ARAS']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jist/issue/73493/1104961
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2380109

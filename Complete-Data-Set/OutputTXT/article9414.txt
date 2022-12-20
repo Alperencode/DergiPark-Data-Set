@@ -1,0 +1,7 @@
+Makale Başlığı: How do viruses use oxidative stress?
+Özet: Oxygen is a vital element for all living beings to continue their life activities and is the main component of oxidant–antioxidant metabolism, which should be in balance. The free radicals formed as a result of this metabolic process in the organism constitute a source of oxidants; external factors (radiation, exposure to sunlight, environmental pollution,  cigarettes, etc.), inflammation and microbial agents also cause the formation of oxidants. Oxidative stress occurs when the balance between free radicals and antioxidants (which have an eliminating effect against them) shifts in favour of free radicals. Many studies have reported that oxidative stress may affect the virulence of pathogens during infection. Viruses use a pathological pathway that causes the production of reactive oxygen species (ROS) and the consumption of antioxidants. Thus, after viral infections, higher levels of ROS are often formed. Not only DNA-containing but also RNA-containing viruses were found to be associated with severe oxidative stress supporting DNA damage, high mutagenicity, initiation and/or progression of neoplasia. This review focuses on the relationship between oxidative stress and viruses.
+Yazar isimleri: ['Ece ADIGÜZEL', 'Tuba Çiğdem OĞUZOĞLU']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of Istanbul Veterinary Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/http-www-jivs-net/issue/70287/1117825
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2432899

@@ -1,0 +1,7 @@
+Makale Başlığı: PHOTOMETRIC OBSERVATIONS of FOUR W UMA BINARIES
+Özet: In this work, the light curves of NSVS2175434, V783 And, ASAS J020753+2034.1 and NR CAM W Uma type eclipsing binary star systems were obtained by using 0.5 meter ATA50 telescope in Atatürk University Astrophysics Research and Application Center (ATASAM). The orbital period variations of the systems were analyzed using the "timing" method. Only the O-C diagram of NR Cam was performed because the eclipse times of the other systems in the literature are not sufficient. When the O-C diagram of the NR Cam system is examined, no clear change has been observed for the time being. However, more observational data are needed to understand whether changes will occur in the future.
+Yazar isimleri: ['Hüseyin ER', 'Engin Zafer SÖNMEZ', 'Muhammet Emir KENGER', 'Necip KARAMAN', 'Emre AKKAYA', 'İmam Can ÖZKESEN', 'Ahmet POLATOĞLU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Anatolian Physics and Astronomy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/japa/issue/70659/1094654
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2337645

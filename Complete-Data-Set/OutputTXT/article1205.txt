@@ -1,0 +1,7 @@
+Makale Başlığı: Bulut Muhasebesi ve Seçilmiş Nijerya İmalat Sanayi Firmalarının Performansı
+Özet: Küreselleşme çağında, bilgiye dünyanın her yerinden ve her zaman erişme ihtiyacı bir zorunluluk haline gelmiştir. Verilerin bulutta işlenmesi, bu tür verilere konum ve zamandan bağımsız olarak yalnızca kimlik bilgileriyle kısıtlanan erişime izin vermektedir. Bir bulut muhasebe modelinin benimsenmesi, maliyet yönetiminin yanı sıra başarıya da yardımcı olmaktadır. Ayrıca, geleneksel muhasebe yaklaşımlarının yetersizlikleri nedeniyle bulut muhasebesi ilgi görmektedir. Bu çalışma, bulut muhasebesinin Nijerya'daki listelenen üretim işletmelerinin performansı üzerindeki etkisini hem birincil hem de ikincil verileri kullanarak incelemektedir. Araştırma, 10 imalat firmasının tesadüfi bir örneğini değerlendirmektedir ve bulut muhasebesi ve bulut muhasebesi maliyetlerinin halka açık imalat sanayi firmalarının performansı üzerinde önemli bir etkiye sahip olduğunu göstermektedir. Çalışma, bulut muhasebesi maliyetlerini düşürmek için kurumsal inisiyatiflerin uygulanmasını ve farklı bulut muhasebesi maliyet bileşenlerinin imalat sanayi işletmelerinin maliyet yapısı ile uyumlu hale getirilmesi için muhasebe düzenlemelerinin geliştirilmesini tavsiye etmektedir.
+Yazar isimleri: ['Wisdom OKERE']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Anadolu İktisat ve İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anadoluiid/issue/73076/1169423
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2626002

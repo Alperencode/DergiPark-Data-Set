@@ -1,0 +1,7 @@
+Makale Başlığı: Ekonomik Büyümenin Kamu Yatırımları ve Faiz Oranları ile İlişkisi:2006-2018 Türkiye Örneği
+Özet: Ekonomik büyüme; ekonomistlerin üzerinde yoğun çalışmalar yaptıkları kavramlardan biridir. 1960’lardan sonra yoğunlaşan çalışmaların kısmen başarılı oldukları söylenebilir. Ancak; 1980’lerdeki yeni teorik dalgalanmalarda hane halkı, firma, devlet üçlüsünün ekonomik büyümeye katkıda bulunduğu vurgulanmaktadır. 1990’lara gelindiğinde GSMH’yi artırırken çevrenin yıkımıyla birlikte, ekonomik büyüme oranının da yükseldiği görülmektedir. 2000’li yıllarda ülkelerde GSMH artışları görülse de yüksek büyüme oranları tek amaç değildir. Bunun yerine sürdürülebilir büyüme standartları dikkat çekmektedir. Ekonomik büyüme oranı, tüm faktör girdileri, finansman kaynakları, kamu desteğiyle sağlanan bilgi, teknolojik gelişme ve AR-GE çalışmalarıyla artırılmaktadır. 2006-2018 yıllarını kapsayan bu çalışmada, değişkenlerin yıllık verileri kullanılarak iktisadi ve ekonometrik analizler yapılmış, sisteme Granger anlamında ekonomik büyümenin faiz oranları, kamu yatırımları ve GSMH’deki ilişki ve etkileşimin varlığını ortaya koyma amaçlanmıştır. Çalışmada tümdengelim yönteminin yanısıra, önceki çalışmalardaki bulgular da incelenmiş, sonuç ve değerlendirmelerde, araştırmanın temel ögeleriyle bağlantılar kurulmuştur.
+Yazar isimleri: ['Oğuz BAL']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: MANAS Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mjss/issue/73111/1013640
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2042029

@@ -1,0 +1,7 @@
+Makale Başlığı: UZAKTAN EĞİTİM YOLUYLA MUHASEBE EĞİTİMİNDE BİREYSEL YENİLİKÇİLİK, ÖZ YETERLİLİK VE ÖZ MOTİVASYONUN MEMNUNİYETE ETKİSİ
+Özet: Covid-19 pandemi sürecinden önce yükseköğretimdeki muhasebe eğitimi genellikle geleneksel yöntemlerle yürütülmekteydi. Ancak, pandemi süreci yükseköğretimin hemen hemen tüm alanlarında olduğu gibi, muhasebe eğitiminin de uzaktan eğitim yoluyla yapılmasını zorunlu kıldı. Pandemi sona erse bile pandemiden önceki duruma dönüşün mümkün olamayacağı yönünde görüşler dikkate alındığında, bu süreç muhasebe eğitimi açısından belki de uzun vadeli değişimin bir başlangıcı olabilir. Bu nedenle, uzaktan eğitimde memnuniyete etki eden faktörleri belirlemek son derece önemlidir.	Bu çalışma,  uzaktan eğitim yoluyla muhasebe eğitimi alan öğrencilerin bireysel yenilikçilik, öz yeterlilik ve öz motivasyonlarının memnuniyetleri üzerindeki etkisini belirlemeye yöneliktir. Bu amaçla en az bir dönem uzaktan eğitim yoluyla muhasebe eğitimi almış 393 üniversite öğrencisi ile yapılan anket sonuçları SPSS 25.0 ve AMOS 23 paket programları ile analiz edilmiştir. Araştırma sonucunda bireysel yenilikçilik boyutlarından değişime direnç ve değişime açıklığın, öz yeterliliğin ve öz motivasyonun uzaktan eğitim memnuniyetinin önemli yordayıcısı oldukları tespit edilmiştir.
+Yazar isimleri: ['İsmail ATABAY']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Muhasebe ve Finans İncelemeleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mufider/issue/72704/1105373
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2381932

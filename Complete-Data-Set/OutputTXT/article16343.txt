@@ -1,0 +1,7 @@
+Makale Başlığı: Arabidopsis thaliana'daki ath-mir156 Gen Ailesinin in Siliko Analizi
+Özet: MikroRNA (miRNA), gen ekspresyonunun transkripsiyon sonrası düzenlenmesinde işlev gören küçük (~ 22 nükleotid) kodlamayan bir RNA molekülüdür. Önceki çalışmalar, miRNA’nın bitkilerin olumsuz koşullara karşı direnç kabiliyetinde önemli bir rol oynadığını göstermiştir. Bu araştırmada, önemli bir model organizma olan Arabidopsis thaliana’da  miR156 ailesine dizilerin olgun, öncül ve promotor dizi karakterizasyonu yapılmıştır. Biyoinformatik yaklaşımı kullanarak, ath-miR156 gen promotörlerinde öngörülen cis düzenleyici elementleri ve aynı anda miR156 hedefli genleri tahmin edilmiştir. Sonuçlar, olgun ath-miR156 dizilerinde yüksek koruma olduğunu, ancak öncü dizilerde olmadığı görülmüştür. ath-miR156 gen promotörlerinde bulunan çeşitli cis düzenleyici elementlerin olduğu tespit edilmiştir.
+Yazar isimleri: ['Merve BALABAN', 'Behcet İNAL']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Türkiye Teknoloji ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tubid/issue/73186/1163011
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2600284

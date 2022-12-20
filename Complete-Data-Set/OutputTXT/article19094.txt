@@ -1,0 +1,7 @@
+Makale Başlığı: Finans Kapitalizminin Görünen Eli: Türkiye Ekonomisinde Kredi Genişlemesi, Borçluluk ve Grevler Arasındaki İlişkiler
+Özet: Bu çalışma, Türkiye’de finansal kapitalizmin gelişimi ile borçluluk ve grevler arasında bir ilişki olup olmadığına ve eğer varsa söz konusu ilişkinin niteliğine odaklanmaktadır. Bu amaçla çalışmada nicel analiz yöntemlerinden dinamik eşik modeli kullanılmakta ve Türkiye ekonomisinin 1989-2017 dönemi söz konusu modelle incelenmektedir. Bu incelemede kullanılan değişkenlerden öne çıkanlar ise şunlardır: grevlere katılan işçi sayısında bir önceki yıla göre değişim, ücretlilerin kullandığı tüketici ve konut kredilerinin bir önceki yıla göre değişimi, yıllık asgari ücretin bir önceki yıla göre değişimi, yıllık toplam çalışma süresinin bir önceki yıla göre değişimi, sendikalaşma oranı, işsizlik oranı ve dış borçların gayrı safi yurtiçi hasıla içindeki payı. Çalışmanın öne çıkan sonuçları ise şöyle sıralanabilir: kredi genişlemeleri grevler üzerinde pozitif yönlü etkilere kıyasla çok daha güçlü negatif yönlü etkilerde bulunmaktadır. Gerek kısa gerekse uzun dönemde çalışma saatlerinin artması grev olasılığını artırmakta, enflasyon artışı, işsizlik ve eşitsizlik düzeyleri ise grevleri baskılayıcı diğer unsurlar olarak öne çıkmaktadır.
+Yazar isimleri: ['Merter AKINCI', 'Çağatay Edgücan ŞAHİN']
+Yayın Yılı: 14 Eylül 2022
+Dergi ismi: Fiscaoeconomia
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fsecon/issue/72567/1089619
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2317065

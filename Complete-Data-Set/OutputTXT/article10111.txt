@@ -1,0 +1,7 @@
+Makale Başlığı: N-Bishop Çatısına Göre Regle Yüzeylerin Bazı Karakterizasyonları
+Özet: Bu çalışmada, doğrultmanı N-Bishop çatısının elemanlarından ve dayanak eğrisi ise asli normalinin integral eğrisinden oluşan yeni bir regle yüzey tanımlaması yapılmıştır. Daha sonra, tanımlanan bu yeni regle yüzeyin dağılma parametresi, sitriksiyon çizgisi, Gauss ve ortalama eğriliği gibi diferansiyel geometrik özellikleri incelenmiştir. Çalışmanın sonunda ise bu yeni regle yüzey ile ilgili çeşitli örnekler verilmiştir.
+Yazar isimleri: ['Hatice KUSAK SAMANCI', 'Mustafa SEVİNÇ']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/937683
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1769971

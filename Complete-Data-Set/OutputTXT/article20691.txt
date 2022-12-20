@@ -1,0 +1,7 @@
+Makale Başlığı: 5G iletişim sistemlerinde ÇGÇÇ sistemlerin dizin kazanç analizleri
+Özet: Son on yılda, mobil iletişim ağlarında spektrum verimliliğini artırmak ve kullanılan iletim gücünü azaltmak için Çoklu Giriş Çoklu Çıkış (ÇGÇÇ) algoritmaları geliştirilmiştir. Spektrum verimliliğini artırmak ve kullanılan iletim gücünü azaltmak Beşinci Nesil Yeni Radyonun (5G YR) da Temel Performans Göstergelerinden olduğundan MIMO algoritmalarının 5G YR spesifikasyonlarına uygunluğu araştırılmaktadır. Bu çalışmanın amacı, 5G YR Fiziksel Aşağı Yönlü Bağlantı Paylaşımlı Kanalında (FAYBPK) çoklu verici antenler ve çoklu alıcı antenler kullanılarak elde edilen dizin kazançlarını incelemektir. Çalışma, Tekli Giriş Çoklu Çıkış (TGÇÇ) ve Çoklu Giriş Tekli Çıkış (ÇGTÇ) dizin kazanımlarını inceler, ardından 5G YR FAYBPK ÇGÇÇ sisteminde verici ve alıcı çeşitliliklerini birleştirir. Dizin kazanımları, Tekil Değer Ayrıştırma (TDA) ile elde edilen ön kodlama ve birleştirme vektörlerini kullanılarak elde edilir. Çalışma sonuçlara göre teorik dizi kazanımları baştan-uca 5G YR aşağı bağlantı kanallarında elde edilebilmektedir.
+Yazar isimleri: ['Ural MUTLU', 'Yasin KABALCI']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1088264
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2311327

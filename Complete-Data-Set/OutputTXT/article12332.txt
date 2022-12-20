@@ -1,0 +1,7 @@
+Makale Başlığı: Cloud Point Extraction Of Pb (II)-Vitamin B6 Complex In Aqueous Samples
+Özet: This study mainly centered on the preconcentration and flame atomic absorption spectrometric determination of lead ions by cloud point extraction (CPE) procedure. Complexation of Pb2+ and vitamin B6 prior to its preconcentration by cloud point extraction was achieved in the method. The solution pH, surfactant and vitamin B6 concentrations, interfering ions, incubation temperature and sample volume were optimized. The limit of quantication (LOQ) and limit of detection (LOD) values of the method were found as 7.88 and 25.99 respectively. The validation of the CPE method was achieved by the analyte adding (known concentration of Pb2+) to water samples such as natural spring waters and mineral waters.
+Yazar isimleri: ['Yavuz SÜRME']
+Yayın Yılı: 8 Aralık 2022
+Dergi ismi: Nevşehir Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nevbiltek/issue/73743/1192873
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2723877

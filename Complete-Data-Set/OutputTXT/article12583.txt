@@ -1,0 +1,7 @@
+Makale Başlığı: Küresel Değer Zincirinin Belirleyenleri
+Özet: Çalışmada gelişmiş ve gelişmekte olan ülkeler bazında küresel değer zincirine katılımın bileşenleri olan yurtiçi (Domestic Value Added - DVA) ve yurtdışı katma değeri (Foreign Value Added FVA) etkileyen faktörler belirlenmeye çalışılmıştır. Bu bağlamda sermaye boyutunu temsil eden doğrudan yabancı sermaye yatırımları, beşeri sermayeyi temsil eden insani gelişme endeksi ve teknoloji düzeyini temsil eden ar-ge harcamalarının GSYH içindeki payı bağımsız değişkenler olarak analize dahil edilmiştir. Çalışmada panel veri şeklinde düzenlenen 56 ülkenin 2005-2016 dönemi yıllık verileriyle genelleştirilmiş momentler yöntemi (Generalized Method of Moments-GMM) kullanılarak analizler gerçekleştirilmiştir. Gelişmiş ülkelerde doğrudan yabancı sermaye yatırımları ve arge/GSYH ile DVA ve FVA arasında doğru yönlü bir ilişki olduğu; gelişmekte olan ülkelerdeyse farklı olarak ar-ge/GSYH ile FVA arasında ters yönlü bir ilişki olduğu sonucuna ulaşılmıştır. Ayrıca insani gelişmişlik düzeyi ile DVA arasında doğru yönlü, FVA arasında ters yönlü bir ilişki saptanmıştır.
+Yazar isimleri: ['Erdem ATEŞ', 'Selim ŞANLISOY']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Optimum Ekonomi ve Yönetim Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/optimum/issue/70270/1045481
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2154873

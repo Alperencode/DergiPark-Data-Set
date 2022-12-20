@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Auxetic Performance and Various Physical Properties of Fabrics Woven with Braid Yarns
+Özet: In this study, the auxetic performance and various physical properties of fabrics woven with braid yarn were examined. Fabrics were woven in plain weave with conventional warp and braid weft yarn. Experimental results showed that fabrics woven with braid weft yarn exhibited an auxetic behavior by giving Negative Poisson's Ratio (NPR) up to a certain elongation value under tension in the warp direction. In addition, it was observed that the NPR of fabric was affected by the thickness of the braid yarn and the tightness (compactness) of the fabric. It was found that the use of braid yarn in woven fabric improved various physical properties such as tensile strength, thermal resistivity and abrasion resistance. Use of braid yarns increased the tensile strength in the weft direction where braid yarns were used, increased thermal resistivity values at the fabric woven with thick and bulky braid yarns and also increased abrasion resistance.
+Yazar isimleri: ['Mine AKGÜN', 'Fatih SÜVARİ', 'Recep EREN', 'Tuğba YURDAKUL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Tekstil ve Konfeksiyon
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tekstilvekonfeksiyon/issue/72837/1033681
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2120076

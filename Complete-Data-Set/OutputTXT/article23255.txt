@@ -1,0 +1,7 @@
+Makale Başlığı: VALIDITY OF THE PHILLIPS CURVE IN THE G8 COUNTRIES: PANEL CAUSALITY ANALYSIS
+Özet: Inflation and unemployment  are among the important macroeconomic indicators. The existence of dec relationship between unemployment and inflation in the economic literature is explained with the help of the Phillips Curve. Deconstructing the existence of a negative relationship between inflation and unemployment, this approach suggests that there is an exchange between inflation and unemployment. In this study, the world's most developed economy and industry in the field of eight countries known as the G8 (Canada, France, Germany, Italy, Japan, Russia, UK and USA) in the countries of the annual period 1993-2020 unemployment and inflation, using data for the validity of the Phillips curve is examined. As an econometric method, Konya (2006) Panel Causality analysis is used. The findings obtained for the panel as a whole show that the Phillips Curve is valid in the G8 countries. This result shows that governments should make policies to minimize inflation and unemployment rates in the economy.
+Yazar isimleri: ['Tuba İSPİR', 'Dilek ATILGAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Economics and Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jer/issue/72768/1070060
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2240191

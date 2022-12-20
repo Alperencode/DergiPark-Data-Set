@@ -1,0 +1,7 @@
+Makale Başlığı: Classification of Structural MRI for Detecting Alzheimer’s Disease
+Özet: 
+Yazar isimleri: ['Ayşe DEMİRHAN']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/270708
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/237444

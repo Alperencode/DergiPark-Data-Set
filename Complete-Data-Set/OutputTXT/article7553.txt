@@ -1,0 +1,7 @@
+Makale Başlığı: Motorsuz araçları tespiti için CNN tabanlı GUI geliştirilmesi
+Özet: Günümüzde trafik yoğunluğuna çeşitli çözüm önerileri sunulmaktadır. Bu önerilerden birisi de motorsuz araçlar sınıfında yer alan bisiklet kullanımının yaygınlaştırılmasıdır. Bunun için öncelikle bisiklet yollarının yapılması gerekmektedir. Bisklet yollarının kullanımı ya da normal trafikteki bisiklet kullanım oranı önemli bir veridir. Bu verinin elde edilmesi için son yıllarda popüler olan derin öğrenme tekniklerinden yararlanılabilir. Bu çalışmanın amacı çeşitli convolutional neural networks mimarileri kullanılarak bisiklet tespit eden bir model ortaya koymaktır. Öncelikle internet ortamından elde edilen 962 adet bisiklet görüntüsü etiketlenmiştir. Bunun için YOLOv3, YOLOF, Faster R-CNN ve Sparse R-CNN mimarileri ile eğitimler gerçekleştirilmiştir. Eğitimler sonucunda Faster R-CNN ile 0.92 mAP değerine ulaşılmıştır. Çalışma sonunda bir GUI tasarlanarak gerçek zamanlı olarak bisiklet tespiti yapan bir yazılım ortaya koyulmuştur.
+Yazar isimleri: ['Sinan UĞUZ']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: International Journal of Engineering and Innovative Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeir/issue/73173/1178790
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2665365

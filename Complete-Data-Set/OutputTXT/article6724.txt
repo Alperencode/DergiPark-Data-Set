@@ -1,0 +1,7 @@
+Makale Başlığı: On duality in convex optimization of second-order differential inclusions with periodic boundary conditions
+Özet: 
+Yazar isimleri: ['Sevilay DEMİR SAĞLAM', 'Elimhan MAHMUDOV']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1056259
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2185868

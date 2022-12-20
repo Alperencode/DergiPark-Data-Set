@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis and biological activities of new hybrid chalcones with benzoic acid ring
+Özet: A series of E-4-(3-oxo-3-(substituted)prop-1-en-1-yl)benzoic acid derivatives (1-5) were synthesized by the Claisen-Schmidt condensation of various ketones with 4-formylbenzoic acid. The anticholinesterase (AChE and BChE), tyrosinase, and urease inhibition activities of the synthesized compounds (1-5) were examined. It was found that the most active compound against AChE enzyme in anticholinesterase inhibition activity was compound 1. Compound 4 was the most active compound in tyrosinase inhibition activity, while compound 3 was the most active compound in urease psychological activity.
+Yazar isimleri: ['Bedriye Seda KURŞUN AKTAR', 'Yusuf SICAK', 'Emine Elçin ORUÇ-EMRE']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: International Journal of Chemistry and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijct/issue/69466/1003871
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2006520

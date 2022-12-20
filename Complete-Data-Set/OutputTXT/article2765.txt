@@ -1,0 +1,7 @@
+Makale Başlığı: Bir Simülasyon Çalışması ile Cezalı Regresyon Yöntemlerinin Karşılaştırılması
+Özet: Veri kümesinde çoklu iç ilişki problemi olması durumunda kararlı katsayı tahminleri elde etmek için sıklıkla cezalı regresyon yöntemleri kullanılır. Ayrıca bu yöntemler uygulanan ceza teriminin yapısına bağlı olarak otomatik değişken seçimi de yapabilmektedir. Bu çalışmada literatürde yaygın kullanım alanı bulan ridge, LASSO, elastik net ve uyarlanabilir LASSO cezalı regresyon yöntemlerinin gerçek katsayı vektörünün yapısına bağlı olarak simülasyon çalışmaları yoluyla performanslarının ayrıntılı olarak karşılaştırılması yapılmıştır. Çalışmada karşılaştırma kriteri olarak test kümesi üzerinde hata kareler ortalaması, yanlış sınıflama oranı, yanlış pozitif oranı ve aktif küme büyüklükleri kullanılmıştır. Simülasyon çalışmaları, gerçek katsayı vektörünün yapısının yöntemlerin ortaya çıkardığı model performansı üzerinde önemli etkisinin olduğunu göstermektedir.
+Yazar isimleri: ['Murat GENÇ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/994181
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1969464

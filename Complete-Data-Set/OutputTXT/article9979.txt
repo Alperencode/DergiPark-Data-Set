@@ -1,0 +1,7 @@
+Makale Başlığı: TERMOGRAVİMETRIK ANALİZ İLE FARKLI KÖMÜRLERİN YANMA PROSESİNİN İNCELENMESİ
+Özet: Bu çalışmada üç farklı kömürün hava atmosferinde yanma prosesleri termal analiz (TG-DTG/DSC) cihazı ile incelendi. Termogravimetrik analiz deneyleri için 25°C’den 1000°C’ye kadar hava atmosferinde 10°C/dak ısıtma hızında çalışıldı. TG-DTG/DSC verilerinden faydalanarak örneklerin hem ana yanma bölgesi için gerekli olan aktivasyon enerjileri hesaplandı, hem de kendiliğinden ısınma sıcaklıkları belirlendi. Yanma kinetiği için modele bağlı (model fitting) metotlardan olan Ortega metodu uygulandı. Buna göre EK kömürünün ana yanma bölgesine ait olan aktivasyon enerjisi 69.49 kJ/mol, TK kömürünün 86.77 kJ/mol ve YK kömürünün ise 77.34 kJ/mol’ dür. TK ve EK linyitlerinin kendiliğinden ısınma sıcaklıklarının oldukça düşük, YK kömürünün ise oldukça yüksek olduğu belirlendi. EK kömürünün düşük karbon, yüksek kül içeriğinden dolayı diğer kömürlere göre daha düşük tutuşma ve yanma sıcaklıklarına sahip iken YK kömürünün yüksek karbon ve düşük kül içeriğinden dolayı yüksek tutuşma ve yanma sıcaklıklarına sahip olduğu anlaşıldı.
+Yazar isimleri: ['Jale NAKTİYOK', 'Abdulkadir ÖZER']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1159136
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2584790

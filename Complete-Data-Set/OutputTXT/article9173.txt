@@ -1,0 +1,7 @@
+Makale Başlığı: Lean manufacturing application in the frozen goods industry
+Özet: The long-standing producer's market, in which the selling price was the sum of costs and desired profit, has been transformed by globalization into a buyer's market, where profit is the difference between the realized selling price and the production costs. Therefore, every company must approach the reduction of operating costs and the optimal use of the resources at its disposal. Lean thinking can help companies in reducing business costs and increasing productivity. Lean companies can improve their processes and increase their competitiveness in the market. The paper aims to present lean thinking implementation in manufacturing companies to improve procedures and increase competitiveness. Based on proposed improvements to business processes, Frozen Ltd. saved time and costs, making it more competitive in the market and confirming the hypothesis that the lean methodology can help a company perform its business processes better. The company needs to continue with its efforts to use lean since this is not a single event but a journey.
+Yazar isimleri: ['Aleksandar ERCEG']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Journal of Ekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ekonomi/issue/70173/1182631
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2681534

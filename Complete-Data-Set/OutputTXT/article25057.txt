@@ -1,0 +1,7 @@
+Makale Başlığı: The Impact of Fossil and Renewable Energy Consumption on the Economic Growth in Brazil, Russia, India, China and South Africa
+Özet: The energy consumption of the developing countries such as Brazil, Russia, India, China and South Africa (BRICS) continues to rise as the economic growth increases. The aim of this study was to analyze the effect of the consumption of the fossil fuels (coal, petroleum, and natural gas) and the renewable energy to the economic growth in the five BRICS countries. The analysis tool used was multiple linear regression using Fixed Effect Model (FEM) Method and panel data on time series from 1995 to 2014.The results showed that the consumption of fossil energy, especially coal energy, positively and significantly affects the economic growth in the BRICS countries. However the renewable energy consumption a negatively affects the economic growth in the BRICS countries.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351239
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361780

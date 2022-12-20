@@ -1,0 +1,7 @@
+Makale Başlığı: CFD analysis of using umbrella shaped turbulators to improve heat transfer in a horizontal pipe
+Özet: Heat transfer in pipes has an important place in the industry. For this purpose, many studies have been carried out toinvestigate the effects of elements with different geometries placed in the pipe on the heat transfer characteristics. In this study, the effects of umbrella-shaped turbulators  with  different  angles  (45o,  60o  and  75o)  on  the  heat  transfer  characteristics,placed  in  a  horizontal  pipe  with  a  constant  20000  W/m2  heat  flux  from  its  surface,  were investigated numerically. When the  results of the  study  were  examined, it  was determined that the heat transfer was higher in cases where the umbrella opening was higher than in other cases. The maximum Nusselt number obtained in the study was determined to be 171.25 in the  case  of  the  45  degree  turbulator  and  15000  Reynolds  number.  In  addition,  it  was concluded  that  turbulent  kinetic  energy  is  an  important  parameter  inincreasing  the  heat transfer.
+Yazar isimleri: []
+Yayın Yılı: 15 Temmuz 2022
+Dergi ismi: International Journal of Innovative Research and Reviews
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/injirr/issue/71377/1147841
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2553965

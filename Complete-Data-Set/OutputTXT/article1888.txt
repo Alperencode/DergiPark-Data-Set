@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 SALGINININ TÜRKİYE’DE ENERJİ TÜKETİMİNE ETKİSİ
+Özet: Bu çalışmada COVID-19 salgınının insan sağlığına karşı oluşturduğu riskler sonucu ekonomik ve sosyal hayatta meydana getirdiği etkilere değinilmiş ve Türkiye’de enerji tüketimine etkisi incelenmiştir. Bu kapsamda sektör bazında enerji tüketim miktarları ile net elektrik üretim ve tüketim miktarlarına ait verilere tablolarda yer verilmiş, enerji türleri bazında nihai enerji tüketim miktarları ile  2019 ve 2020 yılında iç piyasaya sunulan elektrik miktarları grafiklerle gösterilmiştir. İncelemede, salgının Türkiye’de ilk görülmeye başladığı 2020 Mart ayından itibaren elektrik tüketim miktarında bir önceki yıla göre azalış eğilimi başlamış ve tam kapanmanın uygulandığı aylarda elektrik tüketiminde yaklaşık %16 oranında azalış meydana geldiği tespit edilmiştir. Kapanma önlemlerinin uygulandığı aylarda konutlarda enerji tüketimi artmış ancak sanayi, ulaşım, hizmet gibi sektörlerde faaliyet gösteren işletmelerin çalışmalarının durdurulmasıyla enerji talebinde azalış olmuştur.
+Yazar isimleri: ['Baki ATEŞ']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: Artuklu Kaime Uluslararası İktisadi ve İdari Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/artuklu/issue/68418/1103646
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2375006

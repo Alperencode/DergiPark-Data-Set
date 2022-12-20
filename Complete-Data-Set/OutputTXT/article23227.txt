@@ -1,0 +1,7 @@
+Makale Başlığı: Yönetim Kurulunda Kadın Üye Varlığının Şirket Performansına Etkisi
+Özet: Bu çalışmada, yönetim kurullarında kadın üye varlığının şirketin muhasebe ve piyasa bazlı performansına olan etkisi araştırılmıştır. Bu amaca yönelik olarak Borsa İstanbul’da BIST 100 endeksinde yer alan şirketlerden finansal kurumlar, gayrimenkul yatırım ortaklıkları ve holdingler dışındaki 66 şirketin 2007 ilâ 2020 yılları arasındaki verileri kullanılmıştır. Muhasebe bazlı performans ölçütü olarak aktif kârlılığı ve piyasa bazlı performans ölçütü olarak da Tobin Q oranı kullanılmış olup, analizler panel veri regresyon yöntemiyle gerçekleştirilmiştir. Yapılan analizler sonucunda, şirketlerin yönetim kurulunda kadın üye bulunmasının muhasebe bazlı şirket performansına olumlu etkisi olmasına karşın, aynı etkinin piyasa bazlı performansta görülmediği, diğer bir ifadeyle yönetim kurullarında kadın üye varlığının piyasa tarafından fiyatlanmadığı sonucuna varılmıştır.
+Yazar isimleri: ['Nurcan ÖCAL']
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: Journal of Business and Trade
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinbat/issue/70498/1022331
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2076482

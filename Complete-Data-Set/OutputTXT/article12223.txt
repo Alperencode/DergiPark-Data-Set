@@ -1,0 +1,7 @@
+Makale Başlığı: FARKLI DUVAR MALZEMELERİNE SAHİP YIĞMA BİR BİNANIN 2007 VE 2018 DEPREM YÖNETMELİKLERİNE GÖRE KARŞILAŞTIRILMASI
+Özet: Bu çalışmada Nevşehir ili Nevşehir Hacı Bektaş Veli Üniversitesi kampüs alanı içerisinde olduğu kabul edilen 2 katlı yığma bir binanın dayanıma göre tasarım, şekil değiştirmeye göre değerlendirme ve tasarım esaslı analizleri, StatiCAD-Yığma paket programı yardımıyla 2007 ve 2018 Türkiye Bina Deprem yönetmelikleri kullanılarak yapılmıştır. Duvarlarda farklı iki malzeme (Tuğla ve Gazbeton) kullanılmasının sonuçlara etkisi incelenmiştir. Çalışma kapsamında aynı örnek bina SAP2000 programı kullanılarak analiz edilerek StatiCAD-Yığma ile SAP2000 sonuçlarının uyumluluğu araştırılmıştır. SAP2000 ile analizde duvarlar Shell eleman olarak modellenmiştir.  Çalışma sonucunda 2007 Deprem Yönetmeliği ile hesaplanan taban kesme kuvveti TBDY 2018’e göre hesaplanan kesme kuvvetinden tuğla binada %176, gazbeton binada %190 fazla bulunmuştur. TBDY 2018’de ise modal analiz ve ampirik formül ile tespit edilen taban kesme kuvvetlerinde yaklaşık %25 fark tespit edilmiştir.
+Yazar isimleri: ['Bilal BARAN', 'Kanat Burak BOZDOĞAN', 'İsmail İsa ATABEY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Mühendislik Bilimleri ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesd/issue/72809/989947
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1952998

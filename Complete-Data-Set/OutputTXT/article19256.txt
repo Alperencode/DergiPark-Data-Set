@@ -1,0 +1,7 @@
+Makale Başlığı: Blok Zincir ve Çapraz Zincir Teknolojilerinin Gelecek Muhtemel Uygulama Alanları
+Özet: “Şansölye Bankalar için İkinci Kurtarma Planının Eşiğinde”. Bitcoin’in “Genesis Blok” olarak adlandırılan ilk bloğunda yer alan bu ilginç mesajın neden yerleştirdiğini halen bilinmemektedir. Buna rağmen Bitcoin ile ilgili bildiğimiz kesin bir şey varsa o da, başta finansal konular olmak üzere birçok sektöre getirdiği yenileşimci başarımlardır. İlgi, halen ağırlıklı olarak Bitcoin’in üzerinde olmasına rağmen, Bitcoin’in altında yatan Blok zinciri ve onun farklı endüstri ve iş kolları arasında aracılık hizmeti sağlayan Çapraz zincir teknolojisi, dünya gündemini bir hayli meşgul etmektedir. Eşsiz bir yapıya sahip olan blok zinciri teknolojisi şüphesiz insanlığın geleceğinin kaçınılmaz bir parçasıdır. Bu inceleme yazısında; Bitcoin’in altında yatan Blok zinciri teknolojisi ve tamamlayıcısı olarak geliştirilen Çapraz zincir teknolojisinin mevcut ve gelecek kulanım alanlarına değinilerek gelecek beklentilerinin neler olduğu tartışılmaktadır. Araştırmanın nihai amacı olarak,  Blok ve Çapraz zinciri teknolojilerinin gündelik hayatta olası ve gelecek kullanım alanları üzerinden bir farkındalık yaratma düşüncesi benimsenmiştir.
+Yazar isimleri: ['Tibet Tebriz URMAK']
+Yayın Yılı: 9 Aralık 2022
+Dergi ismi: Haliç Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/husbd/issue/73770/1146812
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2550498

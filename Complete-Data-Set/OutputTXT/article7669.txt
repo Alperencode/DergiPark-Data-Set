@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of The Potential Inhibitor Effects Of Lycorine On Sars-Cov-2 Main Protease (Mpro) Using Molecular Dynamics Simulations and MMPBSA
+Özet: 
+Yazar isimleri: ['Barış KURT']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: International Journal of Life Sciences and Biotechnology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijlsb/issue/68678/1110761
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2404457

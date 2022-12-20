@@ -1,0 +1,7 @@
+Makale Başlığı: SOSYAL MEDYA ANALİZİ: SOSYAL HİZMET TWEETLERİNDE COVID-19
+Özet: Amaç: Sosyal medya analizinin amacı sosyal hizmet kavramıyla birlikte kullanılan COVID-19 paylaşımlarının duygu analizini gerçekleştirmek ve analiz sürecini adım adım aktarmaktır. Yöntem: Araştırma nitel araştırma yöntemine sahip olup ikincil veri analizidir. Belirlenmiş tarih aralığında İngilizce yayınlanan Twitter’daki paylaşımların günü, türü, en sık kullanılan kelimeleri ve yapılan paylaşımların duyguları analiz edilmiştir. Verilerin toplanması, analizi ve raporlanmasında bilgisayar destekli nitel veri analizi programı MAXQDA20 kullanılmıştır. Bulgular: “Social work” ve “COVID-19” terimleri Twitter’da analiz edildiğinde en çok paylaşımın salı günleri yapılmış olduğu, en çok tweetin yine Salı günü atılmış olduğu; “social work” ve “COVID-19” kelimelerinden sonra en çok “health” kelimesi kullanıldığı ortaya çıkmıştır. Ayrıca paylaşımların çoğunun duygusu “kısmen pozitiftir”. Sonuç: Sosyal hizmet bilim ve mesleği için, toplulukların genel kanısını araştırmak ve güncel konuların sosyal hizmet ile bağlantısını araştırmak için sosyal medya analizi önemli yer tutmaktadır.
+Yazar isimleri: ['Melike TEKİNDAL', 'Seda ATTEPE ÖZDEN', 'Mustafa Agah TEKİNDAL']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Ufkun Ötesi Bilim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uobild/issue/71533/1136565
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2510347

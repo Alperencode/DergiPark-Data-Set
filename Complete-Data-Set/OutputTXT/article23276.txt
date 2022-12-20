@@ -1,0 +1,7 @@
+Makale Başlığı: Binalarda Kullanılan MR Damperli Yarı Aktif Kütle Sönümleyicisinin Performans Analizi
+Özet: Bu çalışmanın amacı, yapısal titreşim kontrolünde kullanılan MR damperli yarı-aktif ayarlı kütle sönümleyicisinin (YAKS) performansını, çok serbestlik dereceli (ÇSD) bir bina modeli üzerinde incelemektir. YAKS’nin sistem cevaplarına etkisi binanın en üst katına ve birinci katına yerleştirilerek test edilmiştir. MR damperler yarı aktif kontrol elemanlarıdır. İletilen gerilime göre, sisteme uyguladıkları kuvvet değişir. Bu sebeple MR dampere iletilen gerilimi belirlemede, gerek basitliği gerekse performansı nedeniyle Groundhook kontrol algoritması kullanılmıştır. Sonuçlar, her YAKS’nin her iki yerleşiminde de sistem performansının iyileştirdiğini, en iyi performansın binanın en üst katına yerleştirilmesiyle elde edildiğini ortaya koymuştur.
+Yazar isimleri: ['Hüseyin AGGÜMÜŞ']
+Yayın Yılı: 20 Haziran 2022
+Dergi ismi: Journal of Marine and Engineering Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinmet/issue/70407/1125640
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2464915

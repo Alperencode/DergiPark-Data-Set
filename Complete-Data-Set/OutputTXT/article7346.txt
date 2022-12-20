@@ -1,0 +1,7 @@
+Makale Başlığı: All Dehn Fillings of the Whitehead Link Complement are Tetrahedron Manifolds
+Özet: In this paper we show that Dehn surgeries on the oriented components of the Whitehead link yield tetrahedron manifolds of Heegaard genus $\le 2$. As a consequence, the eight homogeneous Thurston 3-geometries are realized by tetrahedron manifolds of Heegaard genus $\le 2$. The proof is based on techniques of Combinatorial Group Theory, and geometric presentations of manifold fundamental groups.
+Yazar isimleri: ['Alberto CAVİCCHİOLİ', 'Fulvia SPAGGİARİ']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1102753
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2371371

@@ -1,0 +1,7 @@
+Makale Başlığı: Pharmacologically Active Molecules Bearing the Pyridazinone Ring as Main Scaffold
+Özet: Pyridazines are organic compounds in which benzene has nitrogen atoms instead of two carbon atoms. The pyridazine structure is one of the heteroaromatic rings that can be developed for drug design. Pyridazinone analogues are found in the structure of drugs with different activities. This core is of interest to medicinal chemists because of its diverse pharmacological activities. In this review, some of the antibacterial and antifungal, analgesic and anti-inflammatory, anticancer, cardiovascular and anticholinesterase compounds with pyridazinone structure are mentioned.
+Yazar isimleri: ['Zeynep ÖZDEMİR', 'Mehmet Abdullah ALAGÖZ', 'Gülnur ARSLAN', 'Azime Berna ÖZÇELİK']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Gazi Üniversitesi Sağlık Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/guhes/issue/72420/1120139
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2442487

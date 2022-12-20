@@ -1,0 +1,7 @@
+Makale Başlığı: NaxSy Nanokümelerinin Elektronik ve Yapısal Özellikleri
+Özet: Bu çalışmada, NaxSy (x+y=5) nanokümelerinin yapısal ve elektronik özellikleri yoğunluk fonksiyonel teorisi (DFT) ile araştırılmıştır. Na-S, pil teknolojilerinde potansiyeli olan bir malzemedir. Bu nedenle Na ve S alaşımlarının en küçük konfigürasyonları nanoteknolojideki uygulamalar için önemlidir. Elektronik özellikler geometrik yapıya bağlı olduğundan minimum enerji konfigürasyonları detaylı olarak sunulmuştur. En kararlı sistemler S5 ve NaS4 olarak belirlenmiştir. En yüksek HLG değerine Na2S3 nanokümesinin sahip olduğu belirlenmiştir.  Saf elementlerden oluşan kümelerde Na ve S atomunun artmasıyla HLG değerlerinin azaldığı görülmüştür. Na kümelerine, S atomlarının veya S kümelerine, Na atomlarının eklenmesi genel olarak HLG değerlerini azalma meydana gelmiştir. Ayrıca kümelerin iyonlaşma potansiyeli ve elektron afinite değerleri de sunulmuştur.
+Yazar isimleri: ['Eşe AKPINAR']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1089379
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2316022

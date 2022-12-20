@@ -1,0 +1,7 @@
+Makale Başlığı: Application with deep learning models for COVID-19 diagnosis
+Özet: 
+Yazar isimleri: ['Fuat TÜRK', 'Yunus KÖKVER']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Sakarya University Journal of Computer and Information Sciences
+Yayın sayfa url: http://saucis.sakarya.edu.tr/tr/pub/issue/72246/1085625
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2301158

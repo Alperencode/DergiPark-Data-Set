@@ -1,0 +1,7 @@
+Makale Başlığı: An improved Trudinger--Moser inequality and its extremal functions involving $L^p$-norm in $\mathbb{R}^2$
+Özet: Let $W^{1,2} \mathbb{R}^2 $ be the standard Sobolev space. Denote for any real number $p>2$  \begin{align*}\lambda_{p}=\inf\limits_{u\in W^{1,2} \mathbb{R}^2 ,u\not\equiv0}\frac{\int_{\mathbb{R}^{2}} |\nabla u|^2+|u|^2 dx}{ \int_{\mathbb{R}^{2}}|u|^pdx ^{2/p}}.  \end{align*}  Define a norm in $W^{1,2} \mathbb{R}^2 $ by  \begin{align*}\|u\|_{\alpha,p}=\left \int_{\mathbb{R}^{2}} |\nabla u|^2+|u|^2 dx-\alpha \int_{\mathbb{R}^{2}}|u|^pdx ^{2/p}\right ^{1/2}\end{align*}  where $0\leq\alpha2$ and $0\leq\alpha
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783623
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

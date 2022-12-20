@@ -1,0 +1,7 @@
+Makale Başlığı: Microgrid Design and Control Using a Discrete Proportional Resonant Controller
+Özet: The Microgrid is a power system network which assumes a cluster of loads and microsources operating as a single controllable system providing both power and heat to its local area. This paper presents a Proportional Resonant (PR) controller design in discrete domain for regulating the active and reactive power output for a three-phase AC Micro-Grid system. The PR controller reduces the steady state error and help in synchronous d-q transformation in three phase system. It employs a Voltage Sourced Converter (VSC) which is configured to operate as a current source through an interface L-filter. The power is controlled indirectly by controlling the inverter’s output current. This paper also presents a comparison of THD between Proportional Integral (PI) and Proportional Resonant (PR) controllers and indicates that the THD using Proportional Resonant (PR) controller is less than the Proportional Integral (PI) controller by more than 2%. The complete work is designed and implemented in MATLAB/SIMULINK.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167890
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/147993

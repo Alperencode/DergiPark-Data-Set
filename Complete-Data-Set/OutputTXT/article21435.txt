@@ -1,0 +1,7 @@
+Makale Başlığı: A new solution to the discontinuity problem on metric spaces
+Özet: We study on the Rhoades' question concerning the discontinuity problem at fixed point for a self-mapping T of a metric space. We obtain a new solution to this question. Our result generalizes some recent theorems existing in the literature and implies the uniqueness of the fixed point. However, there are also cases where the fixed point set of a self-mapping contains more than 1 element. Therefore, by a geometric point of view, we extend the Rhoades' question to the case where the fixed point set is a circle. We also give a solution to this extended version.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783624
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

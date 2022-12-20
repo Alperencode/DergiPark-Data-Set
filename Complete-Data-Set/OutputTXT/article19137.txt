@@ -1,0 +1,7 @@
+Makale Başlığı: The Impact of Environmental, Social, and Governance (ESG) News on Financial Performance of Firms: Evidence From Borsa İstanbul
+Özet: The increasing awareness about sustainability leads companies to consider the sustainability factors, namely environmental, social, and governance (ESG hereafter), in every decision they make and in every step they take. In this study, how the ESG news about companies trading in BIST are perceived by the market is examined using the stock returns of these companies with the event study methodology. While the results show that only about 10% of negative ESG news about companies cause abnormal returns, they also present that the rate of news that causes negative abnormal returns in ESG news is twice as much as the percentage of news that causes positive abnormal returns. It would be fair to say that investors still consider only the future financial performances of the companies as the main indicator in their investing decisions for some BIST companies in Turkey, and that despite the increasing awareness of sustainability and ESG literacy, news about sustainability has not yet had a major impact on abnormal returns.
+Yazar isimleri: ['Erdinç AKYILDIRIM', 'Ali COŞKUN', 'İsmail ÇELİK', 'Arife ÖZDEMİR HÖL']
+Yayın Yılı: 27 Ağustos 2022
+Dergi ismi: Ankara Hacı Bayram Veli Üniversitesi İktisadi ve İdari Bilimler Fakültesi  Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ahbvuibfd/issue/72340/1090499
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2320654

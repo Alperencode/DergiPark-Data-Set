@@ -1,0 +1,7 @@
+Makale Başlığı: Relative Fix Points of a Certain Class of Complex Functions
+Özet: We introduce the idea of relative iterations of three functions and using this, extend a theorem on fix point of complex functions involving exact factor order.
+Yazar isimleri: ['Dibyendu BANERJEE']
+Yayın Yılı: 29 Haziran 2015
+Dergi ismi: İstanbul University Science Faculty The Journal Of Mathematics Physics and Astronomy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iusfjm/issue/9495/118577
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/100661

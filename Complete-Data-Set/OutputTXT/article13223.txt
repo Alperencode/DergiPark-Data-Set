@@ -1,0 +1,7 @@
+Makale Başlığı: Learning Capabilities of AI Methodologies on Multi-Class Datasets
+Özet: Machine Learning (ML) methods have numerous kinds of application areas up to now. Since they generally have remarkable success in learning, study areas and research field have diversified drastically. Neural networks seem to be appropriate for such a learning capability. The study discusses and examines several ML methodologies to decide the output. Since binary classification is another interesting area, the study focuses on multi-class classification problems. Datasets are chosen from a commonly known and accepted repository to avoid fakeness. Totally four different classifiers have been used to understand and know the different output classes in four different datasets. The classifiers use various arguments to work with and these will be shown and explained in detail. Two of the datasets are newly added and medium-sized, this is preferred to show that there is almost no time of execution difference among all. The system developed gives remarkable success rates and eliminates the differences among the classes using a neural networks system. It is believed that ML methods will have a wide range of application fields as researchers widen their point of view for academic studies.
+Yazar isimleri: ['Ender SEVİNÇ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Researcher
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/researcher/issue/71582/1102901
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2371995

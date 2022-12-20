@@ -1,0 +1,7 @@
+Makale Başlığı: Farey graph and rational fixed points of the extended modular group
+Özet: Fixed points of matrices have many applications in various areas of science and mathematics. Extended modular group ¯¯¯¯ΓΓ¯ is the group of 2×22×2 matrices with integer entries and determinant ±1±1. There are strong connections between extended modular group, continued fractions and Farey graph. Farey graph is a graph with vertex set ^Q=Q∪{∞}Q^=Q∪{∞}. In this study, we consider the elements in ¯¯¯¯ΓΓ¯ that fix rationals. For a given rational number, we use its Farey neighbours to obtain the matrix representation of the element in $\overline{\Gamma}$ that fixes the given rational. Then we express such elements as words in terms of generators using the relations between the Farey graph and continued fractions. Finally we give the new block reduced form of these words which all blocks have Fibonacci numbers entries.
+Yazar isimleri: ['Bilal DEMİR']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/1089480
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2316467

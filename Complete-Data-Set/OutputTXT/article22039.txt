@@ -1,0 +1,7 @@
+Makale Başlığı: Uzaktan Algılama ve Coğrafi Bilgi Sistemi Teknolojilerinin Kentsel Büyümenin İzlenmesi Süreçlerinde Kullanımı: Manisa Örneği
+Özet: Günümüzde kentlerin büyümesi birçok sorunu beraberinde getirmişve bu sorunların çözülebilmesi adına bilgi teknolojilerinin kullanılması kaçınılmazhale gelmiştir. Bu alanda kullanılan teknolojilerden bir tanesi olanuzaktan algılama tekniği; uydular vasıtasıyla yeryüzü hakkında bilgi edinilmesinisağlayan bir teknolojidir. Uzaktan Algılama ile kentlerin büyümesüreçlerinin takibi, hava kirliliği, su kaynaklarının izlenmesi, tarımsal rekoltetahminleri, arazi kullanım türlerinin belirlenmesi, kent planlama gibi çoksayıda uygulama etkin ve verimli bir biçimde gerçekleştirilebilmektedir. Buçalışmada, Uzaktan Algılama tekniğinin Coğrafi Bilgi Sistemi tabanlı olarakkullanılmasıyla, Manisa kentinin son 15 yıllık mekânsal büyüme süreci belirlenerekarazi kullanım sınıflandırılmalarına göre tematik haritaların nasılüretilebileceği gösterilmekte, ayrıca kentin gelecekte nasıl bir yayılım izleyebileceğiöngörülmeye çalışılmaktadır.
+Yazar isimleri: ['Doç.dr.uluç ÇAĞATAY']
+Yayın Yılı: 12 Nisan 2016
+Dergi ismi: Yerel Politikalar
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yerelpolitikalar/issue/37984/438628
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/497328

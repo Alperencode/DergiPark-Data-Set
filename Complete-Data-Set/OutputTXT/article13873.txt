@@ -1,0 +1,7 @@
+Makale Başlığı: Kurumsal Yönetim İle Şirket Karlılığı Arasındaki İlişki: Irak Borsası’nda Bir Uygulama
+Özet: Şirketlerin iyi yönetilmesine yönelik çabalar kurumsal yönetim kavramı ile ifade edilmekte ve iyi bir kurumsal yönetimle oluşturulan etkili bir yönetim yapısının, şirketlerde karlılığı arttırdığına yönelik çalışmalar bulunmaktadır. Bu çalışmanın amacı, Irak’ta kurumsal yönetim faktörlerinin etkili olup olmadığını ve şirketlerin karlılığını arttıran kurumsal yönetim faktörlerini tespit etmektir. Bu amaçla 2011-2019 yıllarında Irak Borsası’nda işlem gören 51 şirketin 9 dönemlik verileri ile oluşturulan 459 şirket/yıl verisi kullanılmıştır. Yapılan panel veri analizi sonucunda Irak’ta şirketlerin karlılığını arttıran kurumsal yönetim faktörleri yönetim kurulunda yer alan kadın üyelerin oranı ve halka açıklık oranı olarak tespit edilmiştir.
+Yazar isimleri: ['Şerife ÖNDER', 'Abdulrahman ALDOORI']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Selçuk Üniversitesi Sosyal Bilimler Meslek Yüksekokulu Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/selcuksbmyd/issue/73640/1117326
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2430558

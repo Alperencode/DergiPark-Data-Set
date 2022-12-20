@@ -1,0 +1,7 @@
+Makale Başlığı: THIRD EYE IN EVALUATION PROCESSES OF VISUAL COMMUNICATION DESIGN EDUCATION: AN ARTIFICIAL INTELLIGENCE MODEL
+Özet: Artificial intelligence (AI) increases its presence in the field of design, as in almost every area. AI inthe design discipline is seen by the changes the designers have brought about in their professional life withthe application or software that automate the design process. It is essential to think about the potential of AIin design education and open it up for discussion, based on the question “Can AI evaluate a design product?”In this study, an artificial intelligence model with CoreML framework was created using supervised learningwith a classified data set containing logotypes designed by students of the visual communication design andgraphic design department. The model was tested by creating a control group with unclassified logotypes thatdid not exist in the data set, and explained the result of the experiment. The potential of AI to make aestheticinferences by learning the design principles and their role in the assessment and evaluation processes in designeducation is mentioned.
+Yazar isimleri: ['Murat ERTÜRK']
+Yayın Yılı: 22 Haziran 2022
+Dergi ismi: Sanat ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sanattasarim/issue/70459/1133850
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2499302

@@ -1,0 +1,7 @@
+Makale Başlığı: Testing the equality of treatment means in one-way ANOVA: Short-tailed symmetric error terms with heterogeneous variances
+Özet: We propose two tests based on fiducial and generalized $p$-value approaches for testing the equality of treatment means in one-way analysis of variance (ANOVA). Modified maximum likelihood (MML) estimators are used in the proposed tests. In contrast to least squares (LS) estimators, MML estimators are highly efficient and robust to plausible deviations from an assumed distribution and to mild data anomalies. In this study, error terms are assumed to have short-tailed symmetric (STS) distributions with heterogeneous variances. The performances of the proposed tests are compared with the fiducial based test using bias-corrected LS estimators via an extensive Monte Carlo simulation study. Finally,  two real  datasets are analyzed for illustrative purposes.
+Yazar isimleri: ['Gamze GUVEN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1055277
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2182017

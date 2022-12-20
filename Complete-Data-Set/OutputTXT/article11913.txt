@@ -1,0 +1,8 @@
+Makale Başlığı: Geri Çekildi:
+                                                                        KILCAL DAMAR DOLUM SÜRESİ ÖLÇÜM CİHAZI
+Özet: Kapiler dolum zamanı,çevresel dokulardaki kan akışını değerlediren hızlı klinik bir test olaraktanımlanabilir. Şokun tanı ve tedavi rehberlerinde kapiller geri dolum zamanı(Capillary Refill Time, CRT) monitorizasyonunun önemi belirtilmektedir.Hâlihazırda CRT manuel olarak ölçülmekte ve uygulanması ölçüm yapan personelegöre değişmektedir. Kılcal damarlardaki kanlanmayı tespit etmek için uygulanankuvveti ve baskı süresini standardize eden ticari cihaz mevcut değildir.Kapiler dolum zamanını ölçmek için mikroişlemci tabanlı bir cihaztasarlanmıştır. Işık kaynağı olarak kızılötesi bir LED kullanılmıştır. Ayrıcaparmak ucuna belirli bir süre bilinen bir kuvvet uygulamak için bir lineeraktüatör kullanılmıştır. Tasarımımızı, bir sağlıklı ve bir talesemi taşıyıcısıgönüllü üzerinde 30 ölçüm gerçekleştirmek suretiyle değerlendirdik. Talesemitaşıyıcılarının daha uzun CRT’ye sahip olduğu bilinmektedir. Önerilen tasarımlayapılan ölçümler de bu durumu doğrulamıştır.
+Yazar isimleri: ['Ufuk Bal']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Mugla Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muglajsci/issue/69906/1125264
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2463462

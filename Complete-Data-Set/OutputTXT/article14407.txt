@@ -1,0 +1,7 @@
+Makale Başlığı: Slater Tipi Orbitaller Bazında Bir- ve İki-Merkezli Coulomb İntegrallerinin   Özellikleri
+Özet: Bu çalışmada, aynı ve farklı perdeleme sabitlerine sahip iki elektronlu bir- ve iki-merkezli Coulomb integralleri, Fourier dönüşüm yöntemi kullanılarak reel Slater tipi orbitaller (STO) bazında sayısal olarak incelenmiştir. Momentum uzayında ilk olarak atomik, yani tek-merkezli, Coulomb integralleri için hesaplama yapılmış ve analitik ifadeler binom katsayıları cinsinden elde edilmiştir. Daha sonra, iki-merkezli Coulomb integrallerinin çözümleri, ikinci tür modifiye edilmiş Bessel fonksiyonları ile yapılmış ve sonuçlar binom ve Gaunt katsayıları, düzensiz katı harmonikler ve STO’ların sonlu toplamı cinsinden ifade edilmiştir. Programlamaya son derece uygun olan analitik ifadelerin doğruluğunu belirlemek için MATHEMATICA dilinde bir bilgisayar programı yazılmıştır. Programdan elde edilen sayısal sonuçlar tablolarda verilmiş ve sonuçların literatür ile uyumlu olduğu gösterilmiştir.
+Yazar isimleri: ['Selda AKDEMİR']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1165376
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2609571

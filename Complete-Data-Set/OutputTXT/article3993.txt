@@ -1,0 +1,7 @@
+Makale Başlığı: Determining the Causes of Fluctuation in Productivity in Construction Projects
+Özet: Construction projects are sophisticated in nature and require close attention and project management techniques to complete projects on time by monitoring and controlling the project resources. Productivity is one of the significant factors affecting the project life-cycle in terms of time and cost. In this study, actual productivities of construction tasks such as gypsum board, suspended ceiling, ceramic, gypsum plaster, satin plaster, paint and thermal insulation board were determined at one of the Research and Training Hospitals in Istanbul. The site records were obtained from the daily reports reported in February, March, April and May. The laborers working for the concerning tasks worked 8 hours a day. Afterwards, the actual unit man-hour data for each activity obtained from the project reports were compared with the planned man-hours and unit man-hour data provided by the Ministry of Environment and Urbanization. In the wake of the comparison of planned, actual and ministry data, the factors affecting productivity were examined and necessary suggestions were made in order to improve productivity domain in the practice
+Yazar isimleri: ['Murat CEVİKBAS']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Dicle Üniversitesi Mühendislik Fakültesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dumf/issue/72718/1074842
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2258581

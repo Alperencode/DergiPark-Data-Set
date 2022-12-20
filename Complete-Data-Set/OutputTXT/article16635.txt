@@ -1,0 +1,7 @@
+Makale Başlığı: Bir Turboprop Motorda Kirlenmenin ve Yıkama Yöntemlerinin Deneysel İncelenmesi
+Özet: Bu çalışmada, T56-A-15 turboprop motorun servis sürecinde bünyesinde meydana gelen kirlenme ve motor yıkamasının deneysel incelemesi gerçekleştirilmiştir. Meydana gelen kirlenmeler ile bu kirlenmeler sonucunda fiziksel dayanımı zayıflayan malzemelerin hasarlanması sorunu, bünyesel anlamda ele alınmıştır. Yapılan yanma odası ve türbin yıkaması ile sıcak bölge hasarlarının azaltılması, malzeme ömrünün ve motor revizyon süresinin arttırılması amaçlanmıştır. Motor yıkaması yapılırken kompresör yıkamasının yanında yanma odası ve türbin yıkamasının da etkili olduğunu görülmüştür. T56 turboprop motoruna ait Tork, Türbin giriş sıcaklığı ve performans parametreleri analiz edilmiştir. Yakıt nozulları vasıtasıyla yapılan motor yıkaması sayesinde yıkama sıvısının kompresör haricinde yanma odası ve türbin kanatçıklarına etkin ulaştığı görülmüştür. Motor tork değerinin artması sonucu motor performans değerleri artmıştır. Kompresör ve yakıt nozulları ile yıkamada yıkamasız duruma göre yaklaşık %3,39 iyileşme elde edilmiştir. Yapılan araştırmanın gaz türbin motorlarında yapılacak motor yıkama analizi çalışmalarına referans olacağı düşünülmektedir.
+Yazar isimleri: ['Muhammet ÖZBEK', 'Bilge ALBAYRAK ÇEPER']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Uluslararası Doğu Anadolu Fen Mühendislik ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeased/issue/71538/1081563
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2284649

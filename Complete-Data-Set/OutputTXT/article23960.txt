@@ -1,0 +1,7 @@
+Makale Başlığı: Değişken Sinterleme Protokollerinin Zirkonyanın Optik ve Mekanik Özellikleri Üzerindeki Etkisi
+Özet:  Son yıllarda yaygınlaşan bilgisayar destekli tasarım ve bilgisayar destekli üretim (CAD/CAM) sistemleri ve tek randevulu hasta başı tedaviler ile hem hekimlerin hemde hastaların estetik beklentisi artmıştır. Daha estetik ve daha dayanıklı restorasyonlar üretmek için zirkonyanın optik ve mekanik özelliklerinin iyileştirilmesiyle birlikteüretim aşamalarını kısaltacak, hızlandırılmış sinterleme protokolleri geliştirilmiştir. Kullanıma sunulan yeni sinterleme protokollerinin amacı zaman tasarrufu sağlamanın yanı sırazirkonyanın optik ve mekanik özelliklerini de geliştirmektir, ancak sinterleme hızı ve sıcaklığının değişmesi zirkonyanın fiziksel özellikleri üzerinde değişken etkiler oluşturduğundanzirkonya restorasyonların klinik başarısını doğrudan etkiler. Bu derlemede, sinterleme parametrelerindeki değişikliklerin zirkonyanın mikro yapısı ile optik ve mekanik özellikleriüzerindeki etkileri hakkında bilgi verilmiştir
+Yazar isimleri: ['Dilara DOĞAY', 'Duygu SARAÇ']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Türk Diş Hekimliği Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkishjdentres/issue/73842/1201158
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2758572

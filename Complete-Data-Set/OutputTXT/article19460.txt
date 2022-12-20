@@ -1,0 +1,7 @@
+Makale Başlığı: BANKALARA ÖZGÜ FAKTÖRLERİN BANKA KARLILIĞINA ETKİSİ: TÜRKİYE BANKACILIK SEKTÖRÜ ÜZERİNE PANEL VERİ ANALİZİ
+Özet: Bu çalışmada, mevduat bankalarının karlılıklarına etki eden içsel faktörlerin panel veri analizi yöntemi ile incelenmesi amaçlanmıştır. Çalışma, Türkiye’de faaliyet gösteren 20 mevduat bankasının 2009-2018 dönemine ait yıllık verilerini kapsamaktadır. Çalışmada, bankalara özgü faktörlerin banka aktif karlılıkları, özsermaye karlılıkları ve net faiz marjlarına olan etkiler ayrı modeller ile incelenmiş ve karşılaştırılmıştır. Çalışma sonucunda, sermaye yeterliliği, mevduatlar, finansal varlık ve kredi yatırımları, kısa vadeli borçları ödeyebilme ve giderleri gelirlere dönüştürebilme kabiliyeti faktörlerinin karlılık üzerinde pozitif etkiye sahip olduğu; alınan krediler, likit aktifler ve personel giderleri faktörlerinin ise negatif etkiye sahip olduğu tespit edilmiştir. Çalışmada ayrıca, sermaye yeterlilikleri, kredi yatırımları, giderleri gelirlere dönüştürülebilme kabiliyeti, pazar payları ve personel giderlerinin net faiz marjı üzerinde pozitif etkiye sahip olduğu; mevduatların ise negatif etkiye sahip olduğu tespit edilmiştir.
+Yazar isimleri: ['Serdar YAMAN']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: İktisadi ve İdari Yaklaşımlar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jeaa/issue/67560/1027154
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2094753

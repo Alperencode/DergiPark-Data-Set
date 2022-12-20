@@ -1,0 +1,7 @@
+Makale Başlığı: ANALYSIS OF THE DEGREE OF COMPLIANCE WITH TAS 1 PRESENTATION OF FINANCIAL STATEMENTS ON BORSA ISTANBUL (BIST)
+Özet: The aim of this study is to gauge the compliance of select companies operating in health, energy, tourism and information technology by examining their respective annual reports and test their compliance to TAS 1 within the agency and signal theories. In this study, year 2019 annual reports of 39 listed companies on Borsa Istanbul (BIST) have been examined on an industry level. Annual reports have been graded based on indices derived from TAS 1. Profitability, leverage, liquidity ratios and company size have been taken as indicators of disclosure and their correlations with such TAS 1 indices have been analysed. The results of the analysis revealed that average compliance is 98 percent in the energy and tourism sectors; and 97 percent in the information technology sector. In the energy sector, a positive correlation has been observed between TAS 1 and leverage and company size; whereas, in the information technology sector, a positive correlation with the profitability indicator has been observed.
+Yazar isimleri: ['Faruk FIRAT', 'Neslihan ALTUNEL']
+Yayın Yılı: 6 Eylül 2022
+Dergi ismi: Muhasebe ve Denetime Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mdbakis/issue/72490/1073077
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2251488

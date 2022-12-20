@@ -1,0 +1,7 @@
+Makale Başlığı: Financial Failure Forecast with Altman Model: An Application in Companies Operating In BIST Wood, Paper and Printing Index
+Özet: The aim of thisstudy is to apply the Altman Z Score Model developed by Edward I. Altman and used to predict financial failures of businesses, and to apply on companies operating in Borsa IstanbulWood, Paper and Printing Index. In order to make the application, the necessary financial ratios for the model application were calculated by using the balancesheets and income statements of the companies included in the index, which is the subject of the research, between 2016-2020. By multiplying the calculated financial ratios with the coefficients applied in the model, the Z Scores of each company for the research years were determined and financial failure was predicted. As a result of the study, it was estimated that 7 out of 15 companies included in the index had a high risk of bankruptcy.
+Yazar isimleri: ['Selcuk KENDİRLİ', 'Fatma ÇITAK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Econder Uluslararası Akademik Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/econder/issue/70783/1077823
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2270296

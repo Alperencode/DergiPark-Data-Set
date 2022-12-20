@@ -1,0 +1,7 @@
+Makale Başlığı: Actuaries Climate Index: An Application for Turkey
+Özet: The aim of this paper is to propose a Turkish application of the Actuaries Climate Index (ACI), which is a measure of changes in extreme weather and sea levels. The index periodically provides data and information to scientists, practitioners and policy makers working with the risks caused by climate change in order to help them analyze the financial effects of these risks. For this aim, we calculate ACI for Ankara province using data obtained from standard databases. When the application suggested in this article is extended to the entire country, the recommended calculation will help the involvement of Turkey in addition to all European countries included in the European ACI, which is the continuation of the ACIs developed primarily in Canada and the USA.
+Yazar isimleri: ['Ezgi NEVRUZ', 'Raif Yakup ATICI', 'Kasirga YİLDİRAK']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: İstatistik Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsstr/issue/73878/1196515
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2738843

@@ -1,0 +1,7 @@
+Makale Başlığı: 7-hidroksi-8-[4-metil-piperazin-1-yl)metil]2H-kromen-2-on Molekülünün Kimyasal Aktivite ve Moleküler Kenetlenme Çalışmaları
+Özet: Bu çalışmada7-hidroksi-8-[4-metil-piperazin-1-yl)metil]2H-kromen-2-on molekülünün molekül yoğunluk fonksiyonel kuramı (YFK), B3LYP modeli ve 6-311G(d,p) baz seti kullanılarak optimize edilmiştir.  Optimize edilen molekülün kimyasal aktivite parametreleri olan sertlik ve yumuşaklık analizleri, moleküler elektrostatik potansiyeli (MEP) ve Fukui fonksiyon analizleri gerçekleştirildi. İkinci dereceden lineer olmayan optik özellikleri incelenerek optik bir materyal olma eğilimi tartışıldı. Elektrofilik merkezli yük transferi (ECT) yöntemini kullanarak DNA bazları ile incelenen yapının yük transferi etkileşimleri elde edildi. Bunların yanı sıra moleküler kenetlenme yöntemi ile PDB:2YCF proteinin liganda (incelenen molekül) en iyi bağlanma bölgesi tespit edilerek bağlanma enerjisi ve etkileşim durumları incelendi.
+Yazar isimleri: ['Zeynep DEMİRCİOĞLU']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/983751
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1928923

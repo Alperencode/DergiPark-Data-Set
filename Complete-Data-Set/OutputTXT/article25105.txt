@@ -1,0 +1,7 @@
+Makale Başlığı: A Performance Comparison of Graph Coloring Algorithms
+Özet: 
+Yazar isimleri: ['Murat ASLAN', 'Nurdan Akhan BAYKAN']
+Yayın Yılı: 15 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/273053
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/254140

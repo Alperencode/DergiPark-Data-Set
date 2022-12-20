@@ -1,0 +1,7 @@
+Makale Başlığı: Time Path of Capital-Labor Ratio and Steady-State Conditions of the Solow Long-Run Growth Model
+Özet: This paper proposes a general solution to Solow’s original differential equation explaining the rate of change of capital-labor ratio. Determining the time path of capital-labor ratio, we obtain novel general conditions under which the capital-labor ratio can reach a stable steady-state value. Finally, we apply our findings to the Solow’s CES production function example and we demonstrate that in addition to identification of steady-state conditions, we can obtain exact time period when the economy can reach its stable steady-state capital per labor magnitude. Our results state some policy implications that can be outlined as follows. First, in economies where elasticity of substitution between capital and labor is lower than unity, the economic policies should be different than those implemented in economies where elasticity is greater than unity. Second, the main source of uncertainty in perspective of policy makers is not to determining exactly when the economy activity would reach a stable steady-state path and our findings aim to shed light on this uncertainty.
+Yazar isimleri: ['Ata ÖZKAYA']
+Yayın Yılı: 14 Eylül 2022
+Dergi ismi: Fiscaoeconomia
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fsecon/issue/72567/1110010
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2401442

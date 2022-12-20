@@ -1,0 +1,7 @@
+Makale Başlığı: Yumuşatıcı tipinin çözgülü örme battaniyelerinin ısıl konfor ve performans özellikleri üzerine etkisi
+Özet: Bu çalışmada, Raschel çözgülü örme makinesi ile akrilik hav ipliği ile üretilen battaniyelerin performans özellikleri araştırılmıştır. Örnek battaniyelerin hav iplikleri için iki farklı iplik numarası ve üç farklı yoğunluk kullanılmıştır. Ayrıca battaniyeler üç farklı yumuşatıcı ile işlem görmektedir. On sekiz numunenin yapısal özellikleri, termal konforu, yumuşaklığı ve dayanıklılığı uluslararası standartlara göre test edilmiştir. Çalışmanın amacı, kış mevsimine uygun battaniyeler için optimum yumuşatıcı tipinin seçilmesidir. Bu nedenle, çalışma verileri hem grafikler hem de istatistiksel yöntemlerle analiz edilir. Daha sonra istatistiksel paket programı ile optimizasyon tekniği ile en uygun battaniye seçilir. Literatürde çözgülü örme battaniyeler ile ilgili detaylı çalışmaların olmaması bu çalışmanın en önemli özelliğidir.
+Yazar isimleri: ['Züleyha DEĞİRMENCİ', 'Mehmet TOPALBEKİROĞLU']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/974718
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1892874

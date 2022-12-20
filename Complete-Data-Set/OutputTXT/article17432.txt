@@ -1,0 +1,7 @@
+Makale Başlığı: DETERMINING THE EFFICIENCY OF HEALTH EXPENDITURES IN DEVELOPING COUNTRIES WITH THE MALMQUIST INDEX
+Özet: Purpose:  This study aims to measure the health expenditure efficiency of fifteen developing countries, including Türkiye.Methodology: In the study Data Envelopment Analysis (DEA) based Malmquist Index (MI) method is used and fifteen developing countries are determined as decision making units (DMU). The data of 5 inputs and 2 outputs were used in the analyses the period of 2000-2018. Data belonging to DMUs were analyzed using the DEA Solver LV(v8) Excel extension.Findings: According to the MI results approximately 50% of the developing countries achieved an increase in their Total Factor Productivity Change (TFPC) value and it is determined that these countries are efficient in their health expenditures. Brasil, Türkiye and Egypt are top three countries in TFPC value.Originality:  The first difference of this study from other studies is the use of DEA-based MI method in comparing the efficiency of health expenditures in Türkiye with developing countries. The second important difference is that the analysis period (19 years) is quite long compared to other studies using DEA and MI methods.
+Yazar isimleri: ['Resul TELLİ', 'Zehra  Vildan SERİN']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Verimlilik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/verimlilik/issue/73178/1056742
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2187865

@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of Digital Transformation Risks at Airports
+Özet: Systems that have started to gain momentum recently and are concerned with creating a virtual copy of the physical system are called digital transformation. Digital transformation has become a concept that affects productivity and creates competitive advantage. As in all sectors, the importance of digitalization is increasing with the increasing competition in the aviation sector. In this study, the digital transformation elements used in airports were examined and the risks affecting this process were examined with the analytical network process method, which is one of the multi-criteria decision-making tools. The problems encountered and their causes were revealed with the fishbone diagram, and then the criteria that emerged were ranked and evaluated according to their importance with the analytical network process method. As a result of the evaluations, it was concluded that the creation of a multidisciplinary working environment is of great importance in the digital transformation at airports.
+Yazar isimleri: ['Fatma Şeyma YÜKSEL', 'Melek IŞIK']
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190433
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2713739

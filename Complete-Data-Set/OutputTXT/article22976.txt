@@ -1,0 +1,7 @@
+Makale Başlığı: Can the Loss of Mineralized Tissues of the Teeth Caused by Caries be Quantitatively Measured by CBCT?
+Özet: As it is known, the mineral density of hard tissues can be measured with the help of Hounsfield Units (HU) scale in the computer software in the images obtained by three-dimensional cone beam computed tomography (CBCT), which is widely used in dentistry today.In our study, HU scale measurement values obtained from carious and healthy enamel-dentin tissues in 15 carious teeth selected from CBCT scan images obtained for various reasons were compared.In this preliminary study, it was determined that the mineralization density measurement of decayed tooth enamel and dentin tissues could be measured, so that decayed teeth could be compared in the light of quantitative values. However, due to the exposure of the patient to high radiation doses while obtaining CBCT images, it was thought that clinical examination and traditional imaging methods were sufficient for the detection of caries today.
+Yazar isimleri: ['Yasemin YAVUZ', 'Ebru AKLEYİN', 'Zeki AKKUŞ', 'Mehmet Emin DOĞAN']
+Yayın Yılı: 25 Ağustos 2022
+Dergi ismi: HRÜ Uluslararası Diş Hekimliği ve Oral Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijdor/issue/72253/1164270
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2605220

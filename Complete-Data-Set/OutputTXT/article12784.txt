@@ -1,0 +1,7 @@
+Makale Başlığı: The (n,2n), (n,p) and (n,a) cross section calculations of  the palladium isotopes using different level density models from the reaction threshold to 20 MeV
+Özet: In this study, reaction cross sections of Palladium isotopes (102,104,106,108,110Pd) (n,2n), (n,p) and (n,) were calculated for neutron energies from reaction threshold to 20 MeV by using Empire-3.2.3 (Malta) statistical model code. The calculations are performed by using four different nuclear level density models (Generalized Superfluid Model, Enhanced Generalized Superfluid Model, Gilbert-Cameron Model, and Hartree-Fock-Bogoliubov Microscopic Model). The obtained results from calculations are compared with the existing experimental data taken from EXFOR library and the evaluated nuclear data library of ENDF/B-VIII.0 (USA, 2018), TENDL-2019 (TALYS, 2019) and JENDL-5 (Japan, 2021) data taken from ENDF. Comparing with experimental and evaluated data around 14.5 MeV, results show generally consistent agreement.
+Yazar isimleri: ['Halide ŞAHAN', 'Muhittin ŞAHAN', 'Eyyup TEL']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1075375
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2260808

@@ -1,0 +1,7 @@
+Makale Başlığı: Afetlerde tetikleyen tehlikeler ve zarar görebilirlik
+Özet: Afet tehlikesi, afetlere neden olan insan ve doğa kaynaklı olaylardır. Afet tehlikeleri ya bir tek olay olarak ortaya çıkar ya da birbirini tetikleyerek peşi sıra gelişir. Afet tehlikeleri birbirini tetiklerse tehlikeler arası ilişkiler karmaşıklaşmakta, zarar görebilirliğin yönü ve boyutu değişmektedir. Tekli afet tehlikelerini bilimsel olarak incelemek oldukça zor iken, çoklu tehlikelerde bu zorluk daha da artmaktadır. Bu çalışma, afetlerde tetikleyen tehlikelerin ve zarar görebilirliğin karmaşık kavramsal yapısını aydınlatabilmek amacıyla gerçekleştirilmiştir. Çalışmada çoklu tehlike ilişkilerinin gösterimi yapılmış; tetikleyen tehlikeleri değerlendirme yöntemlerinden olay ağaçları, etkileşim matrisleri ve olasılıksal modeller tanıtılmıştır. Böylelikle afet risk yönetimi çalışmalarının önemli iki basamağını oluşturan tehlike ve zarar görebilirlik incelemesi tetikleyen tehlikeler kapsamında yapılmıştır.
+Yazar isimleri: ['Bekir TAŞTAN', 'Arif Çağdaş AYDINOĞLU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: lnternational Journal of Geography and Geography Education
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/igge/issue/72781/1124921
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2462153

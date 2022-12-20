@@ -1,0 +1,7 @@
+Makale Başlığı: İşletme Performansı Üzerinde Sosyal Medya Pazarlaması ve İnovasyonun Etkisinin Teknoloji Kabul Modeli ile Birlikte İncelenmesi
+Özet: Bu çalışmanın amacı, yiyecek ve içecek işletmelerinin performansı üzerinde sosyal medya pazarlaması ve inovasyonun etkisinin teknoloji kabul modeli ile birlikte incelemektir. Çalışma kapsamında saha uygulaması olarak anket yapılmıştır. Toplamda 163 yiyecek-içecek işletmesinden veri toplanmıştır. Hipotezlerin test edilmesinde AMOS programında yapısal eşitlik analizinden faydalanılmıştır. Analiz sonucunda, sosyal medya pazarlaması üzerinde, kolaylaştırıcı koşullar, uygunluk, algılanan kullanışlılık ve algılanan kullanım kolaylığının etkisinin olduğu maliyetin ise etkisinin olmadığı görülmüştür. Ayrıca işletme performansını sosyal medya pazarlaması ve inovasyonun etkilediği sonuçlarına ulaşılmıştır.
+Yazar isimleri: ['Murat KURNUÇ', 'Dilşad GÜZEL']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1052467
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2171301

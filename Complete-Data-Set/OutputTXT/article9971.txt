@@ -1,0 +1,7 @@
+Makale Başlığı: İŞLEVSEL DERECELENDİRİLMİŞ DAİRESEL BİR KANATÇIĞIN TERMOELASTİK DAVRANIŞININ SAYISAL İNCELENMESİ
+Özet: Bu çalışmada, mekanik ve ısıl özelliklerinin radyal eksen boyunca üstel bir fonksiyonla değiştiği varsayılan, eksenel simetrik, ince, dikdörtgen profilli dairesel bir kanatçıktaki sıcaklık dağılımı ve sıcaklık farklarından dolayı oluşan ısıl gerilmeler, pseudospectral Chebysev ve sonlu elemanlar yöntemleri ile ele alınmıştır. Chebyshev yöntemin doğruluğu literatürde mevcut analitik çözümle karşılaştırılarak test edilmiştir.  Kanatçık, ZrO_2/Ti-6Al-4V malzeme çifti ile derecelendirilmiş, uygulanan sınır koşulları altında sıcaklık dağılımı ve ısıl gerilmeler elde edilmiştir. Problem, pseudospektral Chebyshev ve sonlu elemanlar yöntemleri ile ayrı ayrı çözülmüş ve elde edilen sonuçlar grafiksel olarak karşılaştırılmıştır. Pseudospektral Chebyshev yönteminin sonlu elamanlar yöntemine göre daha az nokta sayısı ile yakın sonuçlar verdiği gözlemlenmiştir.
+Yazar isimleri: ['Ali YILDIRIM', 'Mehmet EKER', 'Durmuş YARIMPABUÇ', 'Volkan ARIKAN', 'Kerimcan ÇELEBİ']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1142771
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2534276

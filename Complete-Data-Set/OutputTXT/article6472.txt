@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Dolaysız Vergilerin Kaldıraç Etkisi
+Özet: Çalışma, Türkiye'de dolaysız vergilerin kaldıraç etkisini incelemeyi amaçlamaktadır. Dolaysız vergilerin kaldıraç etkisi analiz edilirken, doğrudan vergi gelirlerini de içeren kişisel gelir vergisi ve kurumlar vergisi dikkate alınmaktadır. Her iki vergi türü açısından yapılan ihtiyari düzenlemelerin vergi gelirlerine etkisini ölçmeyi amaçlayan çalışmada, Türkiye'deki 2012/3305 Sayılı Yatırımlarda Devlet Yardımları Hakkında Karar ile illerin sosyo-ekonomik gelişmişlik düzeyleri dikkate alınarak oluşturulan altı teşvik bölgesi kapsmaındaki iller dikkate alınarak yapılmıştır. Çalışma, bölgelerin vergi ile ilgili ihtiyari düzenlemelere tepkisinin tahmin edilebilmesi için söz konusu bölgelerde vergi kaldıraç etkisini hesaplamayı amaçlamaktadır. Çalışmada 2004-2019 yılları arasında AMG (The Augmented Mean Group estimator) yöntemi tercih edilmiştir. Çalışma sonuçlarına göre, dolaysız vergilerin kaldırma etkisi 0.30 katsayısı ile görece zayıf çıkmıştır.
+Yazar isimleri: ['Pınar Bengi KAYA', 'Gülsüm GÜRLER HAZMAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gümrük ve Ticaret Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumrukticaretdergisi/issue/72814/1114693
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2419774

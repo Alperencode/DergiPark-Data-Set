@@ -1,0 +1,7 @@
+Makale Başlığı: DBCK-cebirlerinin bazı çarpanları
+Özet: Bu çalışmanın amacı DBCK-cebirlerinin çarpanlarının bazı temel teorilerini geliştirmektir. Bu çalışmada DBCK-cebirlerinin sol ikili-çarpanları ve sağ ikili çarpanları tanıtılmıştır. Bu tanımlardan yola çıkarak DBCK cebirlerinde bu çarpanlara ilişkin çeşitli örnekler ve sonuçlar geliştirilmiştir. Sonrasında DBCK-cebirleri üzerinde ikili çarpanların iligili karakteristik özellikleri çalışılmış ve bazı özellikleri elde edilmiştir. DBCK-cebirlerinin elemanlarının DBCK-cebirleri üzerinde sol ikili-çarpanları ve sağ ikili çarpanları altında görüntüleri çalışılmıştır. DBCK-cebirileri üzerinde Kera(X) ve Fixa(X) kümeleri DBCK-cebirleri üzerinde ikili-çarpanlar aracılığı ile tanımlanmıştır. Bu kümelerin ilgili bazı temel özelliklerine yer verilmiştir.
+Yazar isimleri: ['Şule AYAR ÖZBAL']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1022448
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2076954

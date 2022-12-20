@@ -1,0 +1,7 @@
+Makale Başlığı: Samandağ İlçesinin Tarihi-Kültürel Mirasının Turizm Potansiyeli
+Özet: Kültürel miras sahalarından biri olan Hatay, Anadolu’yu Ortadoğu’ya bağlamaktadır. Samandağ ilçesi geçmişte liman şehri olarak yerleşme tarihine kaynaklık eden en eski mekânlardan biridir. Bu çalışmanın amacı, bir sit alanı olan Samandağ’ın tarihi-kültürel miraslarını belirleyerek turizm potansiyellerini ortaya çıkarmaktır. Samandağ’da nitel araştırmalardan etnografya tekniği kapsamında gezi-gözlemler yapılmış, araziden fotoğraflar çekilmiştir. Sahadaki kültürel miras potansiyelinin güçlü yönler, zayıf yönleri, fırsatları ve tehditleri tespit edilmiş ve bunlar SWOT analizine yerleştirilmiştir. Kültürel mirasların yerini gösteren harita, coğrafi bilgi sistemleri kapsamında olan ArcGIS Desktop programıyla hazırlanmıştır. Resmî kurumlardan alınan harita verileri ArcGIS Desktop programının ArcMap 10.3 sürümüyle çizilmiştir. Sonuçta, Samandağ’daki ortaya konan kültürel miras potansiyelinin turizm açısından değerlendirilip tanıtımının yapılması için öneriler sunulmuştur.
+Yazar isimleri: ['Tülay ÖCAL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Dünya Coğrafyası ve Kalkınma Perspektifi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jwgdp/issue/70735/1137281
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2513140

@@ -1,0 +1,7 @@
+Makale Başlığı: Experienced Problems with Online Shopping: The Case of Turkey
+Özet: This study’s objective is to investigate the sociodemographic and economic elements that are important in cases when people experience problems with their online purchases. A microdata set from the 2021 Information and Communication Technology Usage Survey in Households conducted by the Turkish Statistical Institute is used in the study. The factors connected to the problem individuals have with online purchases have been determined using binary logistic regression analysis. In the data set included in the analysis in this study, 52.4% of the men reported that they had encountered problems with their purchases made on the website or mobile application in the last three months. According to the study, 51.9% of individuals in the eastern region reported having difficulty with transactions made through a website or mobile application. As a result of the research, it has been discovered that education level, income level, age, gender, profession, family size, financial transactions conducted over the Internet, and regional characteristics are all linked to experiencing problems with online shopping.
+Yazar isimleri: ['Şeyda ÜNVER', 'Ömer ALKAN']
+Yayın Yılı: 9 Aralık 2022
+Dergi ismi: Toros Üniversitesi İİSBF Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iisbf/issue/73765/1152952
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2571751

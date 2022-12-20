@@ -1,0 +1,7 @@
+Makale Başlığı: A Comparative Study of Statistical and Artificial Intelligence based Classification Algorithms on Central Nervous System Cancer Microarray Gene Expression Data
+Özet: 
+Yazar isimleri: ['Mustafa Turan Arslan', 'Adem Kalinli']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/267094
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/233625

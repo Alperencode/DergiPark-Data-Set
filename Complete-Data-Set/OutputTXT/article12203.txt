@@ -1,0 +1,7 @@
+Makale Başlığı: ANALYSIS OF COMMONLY USED IMAGE STEGANOGRAPHY DATA HIDING TECHNIQUES IN SPATIAL DOMAIN
+Özet: Steganography is one of the methods used to ensure data security in digital data transmission. The aim of the steganography technique is to transmit data securely over the unsecured transmission channel. The extensive use of social media and its ease of application make image steganography, a branch of digital steganography, popular. In this article, the examination of Least Significance Bit, Pixel Value Difference, Using the Change Direction and Using Generalized Change Direction techniques commonly used in image steganography and application methods with examples are explained. The results were interpreted by calculating the Load Capacity, Peak Signal-to-Noise Ratio, and Structural Similarity Indexes of these methods. The aim of our study is to determine the superior and weak aspects of these methods compared to each other according to the data obtained, and to make recommendations regarding the selection of the method suitable for the purpose. In particular, LSB-3 bit method is a high-capacity but insecure method, while PVD, EMD and GEMD data hiding techniques are low-capacity but security and undetectable methods by third parties.
+Yazar isimleri: ['Murat UZUN', 'Serdar SOLAK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Mühendislik Bilimleri ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesd/issue/72809/960733
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1854270

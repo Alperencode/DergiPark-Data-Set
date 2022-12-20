@@ -1,0 +1,7 @@
+Makale Başlığı: An Implementation of Traffic Signs and Road Objects Detection Using Faster R-CNN
+Özet: Traffic signs and road objects detection is significant issue for driver safety. It has become popular with the development of autonomous vehicles and driver-assistant systems. This study presents a real-time system that detects traffic signs and various objects in the driving environment with a camera. Faster R-CNN architecture was used as a detection method in this study. This architecture is a well-known two-stage approach for object detection. Dataset was created by collecting various images for training and testing of the model. The dataset consists of 1880 images containing traffic signs and objects collected from Turkey with the GTSRB dataset. These images were combined and divided into the training set and testing set with the ratio of 80/20. The model's training was carried out in the computer environment for 8.5 hours and approximately 10000 iterations. Experimental results show the real-time performance of Faster R-CNN for robustly traffic signs and objects detection.
+Yazar isimleri: ['Emin GÜNEY', 'Cüneyt BAYILMIŞ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Sakarya University Journal of Computer and Information Sciences
+Yayın sayfa url: http://saucis.sakarya.edu.tr/tr/pub/issue/72246/1073355
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2252641

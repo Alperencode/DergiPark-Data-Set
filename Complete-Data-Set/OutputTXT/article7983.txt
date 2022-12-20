@@ -1,0 +1,7 @@
+Makale Başlığı: Evli Kadınların Toplumsal Cinsiyet Tutumları ve Benlik Saygıları Arasındaki İlişkinin
+Özet: Araştırmanın amacı; evli kadınların Toplumsal Cinsiyet Rolleri Tutumları (TCRT) ve Benlik Saygıları arasındaki ilişkiyi incelemektir. Araştırma nicel desenli bir çalışmadır. Araştırmanın gereçleri, TCRTÖ, Benlik Saygısı Ölçeği ve demografik soru formudur. Verilerin analizi için korelasyon, regresyon ve Anova analizleri kullanılmıştır. Buna göre TCRT’ları ve demografik özelliklerin benlik saygısı ile ilişkisini anlamak için yapılan korelasyon analizinde TCRTÖ alt boyutları, gelir ve öğrenim durumu arasında pozitif ve düşük bir ilişki bulunmuşken, evli kalma süresi ve çocuk sayısı arasında düşük düzey negatif bir ilişki bulunmuştur. TCRTÖ alt boyutlarının ve demografik özelliklerin benlik saygısı üzerinde yordama gücünü anlamak için yapılan hiyerarşik regresyon analizinde TCRTÖ alt boyutlarından evlilikte, geleneksel, eşitlikçi CRT değişkenlerinin evli kadınların benlik saygısı tutumlarını anlamlı ve orta düzeyde yordadığı evlilik yılı, çocuk sayısı, öğrenim durumu ve gelir değişkeninin ise benlik saygısı tutumlarını anlamlı ve düşük düzey yordadığı belirlenmiştir.
+Yazar isimleri: ['Merve ERCAN', 'Orhan KOÇAK', 'Fatümatü Zehra ERCAN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: İçtimaiyat
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ictimaiyat/issue/72966/1187299
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2701066

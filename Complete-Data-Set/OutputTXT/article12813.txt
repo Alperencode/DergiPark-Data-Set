@@ -1,0 +1,7 @@
+Makale Başlığı: Anli-Güngör Saçılma Fonksiyonu ile  Modifiye UN Metodu Kullanılarak Difüzyon Katsayılarının Hesaplanması
+Özet: Modifiye U1 yaklaşımı nötron transport denklemine uygulandı ve Anli- Güngör saçılması kullanılarak saçılma parametresinin bazı değerleri için difüzyon katsayıları hesaplandı. Analitik difüzyon katsayısı terimi verildi ve Modifiye U1 ve P1 yaklaşımından elde edilen sayısal sonuçlar farklı çarpışma ve t parametreleri için birbiri ile kıyaslandı.
+Yazar isimleri: ['Ahmet BÜLBÜL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Edebiyat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufed/issue/70870/1052708
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2172087

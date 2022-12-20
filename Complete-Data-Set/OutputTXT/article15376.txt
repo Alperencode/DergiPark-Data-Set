@@ -1,0 +1,7 @@
+Makale Başlığı: Theoretical analysis of ADP molecule in gas phase and aqueous solution: a DFT and PCM/TD-DFT study
+Özet: This paper has reported some theoretical results for the geometry optimization in ground state (S0) and the first excited state (S1), the frontier molecular orbitals, the global chemical reactivity descriptor, the excited states, the absorption and emission spectra in gas phase and aqueous solution of protonated Adenosine diphosphate molecule. Also, the excited state intramolecular proton transfer process was reported between O37-H38∙∙∙N13 bonds. Then, the results obtained have been compared with the experimental data reported and, therefore, available in literature. All calculations were carried out using density functional theory and time-dependent density functional theory method with B3LYP functional with 6-311+G (d, p) basis set.  As well as, the solvent effects were investigated using Polarizable Continuum Model. As a conclusion, it has been indicated that the theoretical results obtained in this work are all in well agreement with experimental counterparts taken from literature.
+Yazar isimleri: ['Yavuz EKİNCİOĞLU']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Turkish Computational and Theoretical Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tcandtc/issue/68423/1013238
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2040466

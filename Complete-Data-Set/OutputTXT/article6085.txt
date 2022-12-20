@@ -1,0 +1,7 @@
+Makale Başlığı: A Comparative Study of Different Grasshopper Plugins for Topology Optimization in Architectural Design
+Özet: 
+Yazar isimleri: ['Mariam SELMI', 'Zeynep Yeşim İLERİSOY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi University Journal of Science Part B: Art Humanities Design and Planning
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsb/issue/72742/1168442
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2622218

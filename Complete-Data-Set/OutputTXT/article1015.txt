@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship Between Selected Macroeconomic Variables and Borsa Istanbul Index: The Case of Turkey
+Özet: In this study, it is aimed to examine and test the long-term relationship between selected macroeconomic variables and Borsa Istanbul index. In the analysis covering the period 01.2009 – 09.2019 and using monthly data Turkish economy is examined with tests allowing for structural breaks. The model has been constructed by using the variables of interest rates, inflation and unemployment as macroeconomic variables in accordance with the literature. As a result of the analysis, a long-term relationship has been found between selected macroeconomic variables and the stock market index. In addition, one-way causality from the stock market index to interest rates and one-way causality from the stock market index to unemployment rate have been observed.
+Yazar isimleri: ['Seydi Vakkas KARACA', 'İbrahim ÇÜTCÜ', 'Yıldız ÖZKÖK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1123606
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2456847

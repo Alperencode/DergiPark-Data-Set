@@ -1,0 +1,7 @@
+Makale Başlığı: Digitization in Archaeology and Archaeology Education in Turkey
+Özet: This study evaluates the undergraduate curriculums in Turkey that include digital applicationsin archaeology, meaning all types of documentation, analysis, and interpretation usinginformation technologies in archaeological education. It highlights that digital applications havenot yet been systematically incorporated into all archaeology departments, however, undergraduate-level courses are taught throughout the country in various fields such as database management,geographic information systems, architectural and feature drawing in digital media, photogrammetry,and the use of drones. The COVID-19 pandemic and the resulting online undergraduateeducation have shown that access to technological devices and internet connectivity problemsin Turkey are issues that need to be overcome for students to receive a quality education. Whencreating a digital curriculum for undergraduate archaeology students, reviewing concepts such astechnology ownership, digital literacy, and technology leaps should help increase the efficiencyof the courses.
+Yazar isimleri: ['N. Pınar ÖZGÜNER']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: TARE: Türk Arkeoloji ve Kültürel Miras Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tare/issue/68891/1088030
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2310349

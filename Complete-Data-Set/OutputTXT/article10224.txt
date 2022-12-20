@@ -1,0 +1,7 @@
+Makale Başlığı: Gömülü Sistem Tabanlı Bluetooth Kontrollü Kayan Yazı Devre Tasarımı
+Özet: Bilgisayar teknolojisinde, tümleşik devre geliştirilmiş bu sayede çok yaygın olarak küçük boyutlarda üretilebilen mikrodenetleyiciler, bilimsel araştırmaların ve günlük yaşamın ayrılmaz parçaları haline gelmişlerdir. Bu çalışmada, gömülü sistem teknolojileri ile kablosuz veri iletimi kullanılarak düşük maliyetli, küçük boyutlu, düşük güç tüketimi ve aynı zamanda yüksek performansa sahip kayar yazı sistemi tasarlanmıştır. Bu tasarımın kontrolünde Arduino UNO kartı kullanılmıştır. Ön kısma yerleştirilen 2 adet dotmatrix led ile kayar yazı ekranı oluşturulmuştur. Gömülü sisteme HC-06 bluetooth modül kartı entegre edilmiştir. MIT App Inventor programı vasıtasıyla geliştirilen mobil uygulama ile sisteme mobil uygulama üzerinden bilgi aktarımı yapılmıştır.
+Yazar isimleri: ['Hasan Serdar MACİT', 'Kadir SABANCI']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Karamanoğlu Mehmetbey Üniversitesi Mühendislik ve Doğa Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kmujens/issue/70244/1086705
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2305274

@@ -1,0 +1,7 @@
+Makale Başlığı: BIST Gıda ve İçecek Endeksi ile Döviz Kuru Arasındaki Asimetrik İlişki Doğrusal Olmayan ARDL Yaklaşımı
+Özet: Bu çalışmada 2005:M1-2021:M10 dönemine ait aylık veriler kullanılarak Türkiye’de BIST Gıda ve İçecek Endeksi ile döviz kuru arasındaki asimetrik ilişki incelenmiştir. Bu kapsamda sanayi üretim endeksi ile döviz kurunun BIST Gıda ve İçecek Endeksi üzerindeki etkisi doğrusal olmayan ARDL yaklaşımı ile analiz edilmiştir. Yapılan sınır testi analizine göre, değişkenler arasında doğrusal olmayan eşbütünleşme ilişkisi tespit edilmiştir. Elde edilen uzun dönem bulgularına göre, döviz kurunda meydana gelen artışların BIST Gıda ve İçecek Endeksi’nde meydana getirmiş olduğu etki, döviz kurunda meydana gelen azalışların BIST Gıda ve İçecek Endeksi üzerindeki etkisinden daha düşük çıkmıştır. Yani döviz kurunda meydana gelen herhangi bir azalma, BIST Gıda ve İçecek Endeksi’ni daha fazla etkilemektedir. Dolayısıyla, Gıda ve İçecek sektör endeksinin döviz kurundaki dalgalanmaların etkisi altında olduğu sonucuna ulaşılmıştır. Ayrıca, yapılan Wald testi sonucuna gore, hem kısa hem de uzun dönemde döviz kuru ile BIST Gıda ve İçecek Endeksi arasında asimetrik bir ilişki tespit edilmiştir. 
+Yazar isimleri: ['Yunus YILMAZ']
+Yayın Yılı: 29 Ağustos 2022
+Dergi ismi: Bingöl Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/biibfad/issue/72366/1053657
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2175869

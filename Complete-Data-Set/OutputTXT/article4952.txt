@@ -1,0 +1,7 @@
+Makale Başlığı: Estimation of Torsional Moment of Reinforced Concrete Beams with Machine Learning Algorithms
+Özet: In this study, it is aimed to estimate the torsional strength values obtained from reinforced concrete beam tests with artificial intelligence algorithms without the need for experimental work. In this context, a data pool was created with the beam test data and machine learning regression algorithms were developed with these data. The beam dimensions, concrete compressive strength, stirrup strength, distance and spacing between stirrup arms, yield strength of stirrups and longitudinal torsion reinforcement, ratio of stirrups and longitudinal reinforcement, and longitudinal torsion reinforcement area data included in the experimental studies are input parameters for the algorithms, and the torsional strength value is output (target) selected as the parameter. Multiple Linear Regression, Support Vector Regression, Decision Trees and Random Forest algorithm models were chosen as regression algorithms. As a result, the Support Vector Regression model gave the best result with a prediction success rate of 97.59 % for the estimation of the torsional strength by knowing the material and section properties of reinforced concrete beams.
+Yazar isimleri: ['Gamze DOGAN']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/1031950
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2113367

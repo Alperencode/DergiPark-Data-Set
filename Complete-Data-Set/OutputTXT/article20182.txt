@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 Pandemi Sürecinde Bireylerdeki Anksiyete ve Umutsuzluk Düzeylerinin İncelenmesi
+Özet: Amaç: Çin’in Wuhan şehrinde ortaya çıkan COVID-19, kısa sürede tüm dünyayı etkisi altına alarak yeni yaşam koşullarını beraberinde getirmiştir. Bu çalışmanın amacı pandemi sürecinde bireylerin anksiyete ve umutsuzluk düzeylerini incelemektir.  Yöntem: Araştırma verileri 25 Mart-15 Nisan 2020 tarihleri arasında çevrimiçi anket yöntemiyle toplanmıştır. Araştırmaya, 491 (382 Kadın, 106 Erkek) kişi katılmıştır. Veri toplama aracı olarak Beck Anksiyete Ölçeği (BAÖ) ve Beck Umutsuzluk Ölçeği (BUÖ) kullanılmıştır. Bulgular: Araştırmaya katılan %76,8’inde (N=377) hafif, %11.4’ünde (N=56) orta ve %11,8’inde (N=58) yüksek derecede anksiyete olduğu tespit edilmiştir. Kadınların anksiyete düzeyinin erkeklere göre daha yüksek olduğu bulunmuştur. Anksiyete düzeylerinin yaşa göre farklılaştığı (X2= 7,596; p.05) saptanmıştır. Katılımcıların kronik hastalığı olup olmamasına göre anksiyete (U=10168,500; p>.05) ve umutsuzluk (U=10537,000; p>.05) düzeylerinin değişmediği tespit edilmiştir. Ancak, kronik hastalığı olan kişilerle yaşayanlar anksiyete düzeyi en yüksek olan bireylerdir (X=273,43).
+Yazar isimleri: ['Zeynep YILMAZ', 'Berna GÜLOĞLU']
+Yayın Yılı: 30 Aralık 2020
+Dergi ismi: Kriz Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kriz/issue/59100/766713
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1194013

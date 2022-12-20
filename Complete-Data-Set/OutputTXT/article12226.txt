@@ -1,0 +1,7 @@
+Makale Başlığı: MİKROPLASTİK KİRLİLİĞİNE SENTETİK ESASLI TEKSTİL ÜRÜNLERİNİN YIKAMA İŞLEMLERİNİN ETKİSİ
+Özet: Plastik ürünlerin kullanımı sırasında ve atıklarının birikimi konusunda bilinçli hareket edilmediğinde, mikroplastik tehlikesiyle karşılaşılması söz konusudur. Mikroplastikler genel olarak boyutu 1 nm ile 5 mm arasındaki partiküller olarak ifade edilmektedir. Tekstil ürünlerinin yıkanması sonucu salınan mikro ve nano boyutlu liflerin, toplam mikroplastiklerin önemli bir kısmını oluşturduğu çeşitli kaynaklarda gösterilmektedir. Sentetik liflerden üretilen tekstil ürünlerinin yıkanmasıyla çevreye salınan, mikroplastik kirliliğine ilişkin araştırmalar daha da önem kazanmıştır. Bu derlemede, yıkama sırasında salınan mikroplastik lif miktarına, yıkama parametrelerinin etkilerinin değerlendirildiği çalışmalar kapsamlı bir şekilde incelenmektir.
+Yazar isimleri: ['Fatma GÜNDÜZ BALPETEK', 'Aslı DEMİR', 'Esen ÖZDOĞAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Mühendislik Bilimleri ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesd/issue/72809/939996
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1778220

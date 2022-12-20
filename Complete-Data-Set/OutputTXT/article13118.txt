@@ -1,0 +1,7 @@
+Makale Başlığı: Pseudo Quaterniyonik Lorentzian Evolute and İnvolute Eğriler İçin Yeni Bir Yaklaşım
+Özet: Bu çalışmada asıl amaç LQ^3 üzerindeki pseudo kuaterniyonik Lorentzian evolut-involut eğrilerini elde etmektir.  Burada yapılması istenen, kuaterniyonları kullanarak 𝐿𝑄^4 deki kuaterniyonik time-like Lorentzian evolut-involut eğrilerini oluşturarak ve bu eğriler arasındaki bazı ilişkileri ortaya çıkarmaktır. Burada LQ^4 4-boyutlu Kuaterniyonik Lorenz Uzayını göstermektedir.
+Yazar isimleri: ['Müge KARADAĞ']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/936090
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1763857

@@ -1,0 +1,7 @@
+Makale Başlığı: A new formula for the minimum distance of an expander code
+Özet: An expander code is a binary linear code whose parity-check matrix is the bi-adjacency matrix of a bipartite expander graph. We provide a new formula for the minimum distance of such codes. We also provide a new proof of the result that  $2(1-\varepsilon) \gamma n$ is a lower bound of the minimum distance of the expander code given by an $(m,n,d,\gamma,1-\varepsilon)$ expander bipartite graph.
+Yazar isimleri: []
+Yayın Yılı: 13 Mayıs 2022
+Dergi ismi: Journal of Algebra Combinatorics Discrete Structures and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jacodesmath/issue/69711/1111379
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2406770

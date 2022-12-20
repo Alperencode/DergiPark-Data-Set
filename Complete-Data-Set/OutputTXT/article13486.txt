@@ -1,0 +1,7 @@
+Makale Başlığı: Biparametric Prostate MRI Shows Similar Diagnostic Accuracy Rates for Prostate Cancer Detection with Multiparametric MRI
+Özet: Objective: To compare the diagnostic accuracy of bp-MRI with standard mp-MRI in the diagnosis of prostate cancer.Material and Methods: We retrospectively evaluated the bp-MRIs in comparison with mp-MRIs at 3 Tesla. Sensitivity, specificity, positive and negative predictive values (PPV and NPV), for bp- and mp-MRIs were calculated and compared.Results: A total of 202 patients with a mean age of 62.4±11.8 years (range from 31 to 86 years) fulfilled the inclusion criteria.  In patients with PI-RADS 4 and 5 lesions; the sensitivity, specificity, PPV, NPV for bp-MRI versus mp-MRI were 95.4%, 77.2%, 53.8%, 98.3% and 97.7% vs 73.4%, 50.5%, 99.1%, respectively.Conclusion: Overall diagnostic accuracy was similar for the bp-MRI and the mp-MRI for PI-RADS 4 and 5 lesions.
+Yazar isimleri: ['Ayşegül GÖRMEZ', 'Osman Melih TOPCUOĞLU']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Sakarya Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/smj/issue/72629/1021146
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2071668

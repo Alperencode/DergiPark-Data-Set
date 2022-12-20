@@ -1,0 +1,7 @@
+Makale Başlığı: The Effects of COVID-19 on The Banking Industry: Evidence from Turkey
+Özet: The COVID-19 outbreak, which emerged at the beginning of 2020, had a significant impact on economies and financial markets. As all sectors were affected, the banking sector was also affected by the COVID-19 crisis, and the banking sector also assumed responsibility in preventing COVID-19. It was investigated that the effects of the COVID-19 crisis on the Turkish banking sector in this paper. It was used that Borsa Istanbul (BIST) banking sector index and daily COVID-19 cases for the period January 2020 - November 2021 in the study. In the study, in which the EGARCH method was applied, it was observed that COVID-19 had a limited positive effect on the BIST banking sector index returns, but negatively affected the volatility. In addition, it has been observed that the leverage effect, where negative news is more than positive news.
+Yazar isimleri: ['Zekai ŞENOL']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: Yalova Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yalovasosbil/issue/72655/1172683
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2639752

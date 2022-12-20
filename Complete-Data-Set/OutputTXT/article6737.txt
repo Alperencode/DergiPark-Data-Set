@@ -1,0 +1,7 @@
+Makale Başlığı: CDF estimation in multistage pair ranked set sampling
+Özet: 
+Yazar isimleri: ['Mahdi MAHDİZADEH', 'Ehsan ZAMANZADE']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1031349
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2110940

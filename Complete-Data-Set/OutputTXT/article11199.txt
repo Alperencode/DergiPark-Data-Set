@@ -1,0 +1,7 @@
+Makale Başlığı: Spatio-Temporal Distribution of Aquatic Biodiversity in Gorai Creek, Sub-Urban Mumbai, India
+Özet: This study was conducted to assess the faunal diversity in Gorai Creek of Mumbai, India from August 2019 to July 2020. The data collected month wise were pooled together and transformed into three seasons [Monsoon (June to September), Winter (October to February), and Summer (March to May)] and this seasonal data were used for the study of biodiversity pattern. Using the average seasonal species occurrence data as input the following biodiversity indices, S, N, d, J', H'(loge), 1-Lambda, Delta, Delta*, Delta+, sDelta+, Lambda+, Phi+ & sPhi+ were calculated by using PRIMER (v7.0). It revealed that 90 species of fauna under 70 genera, 50 families, 29 orders, 6 classes and 3 phyla were found to occur in the creek. The order-wise representation of identified fauna was found to be 7 ichthyofaunas, 4 pelecypods, 6 gastropods, 2 cephalopods, 1 shrimp and 1 stomatopod along with 8 avifauna. The present study results indicated that the Gorai Creek ecosystem is endowed with moderate biodiversity that needs to be conserved.
+Yazar isimleri: ['Sudhan CHANDRAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Marine Science and Technology Bulletin
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/masteb/issue/72839/1071967
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2247627

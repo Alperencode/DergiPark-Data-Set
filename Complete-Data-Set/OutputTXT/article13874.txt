@@ -1,0 +1,7 @@
+Makale Başlığı: Sürdürülebilirlik Performansı İle Finansal Performans İlişkisi Üzerine Bir Araştırma
+Özet: Bu çalışmanın amacı, finansal performansın sürdürülebilirlik performansı üzerine etkisini ortaya koymaktır. Bu amaç çerçevesinde Borsa İstanbul Sürdürülebilirlik Endeksi’ne kayıtlı imalat sanayi sektöründe faaliyet gösteren işletmelerin 2018-2020 yıllarına ait verilerinden yararlanılmıştır. Çalışmada, sürdürülebilirlik performansı bağımlı değişken; finansal performans bağımsız değişken; işletme büyüklüğü, aktif devir hızı ve kaldıraç oranı kontrol değişkenleri olarak kullanılmıştır. Sürdürülebilirlik performansı TOPSIS yöntemi ile elde edilen sürdürülebilirlik skorları ile ölçülmüştür. Finansal performansı ise aktif karlılık oranı ve fiyat/kazanç oranı temsil etmiştir. Elde edilen veriler panel veri regresyon analizine tabi tutulmuştur. Analiz sonucuna göre sürdürülebilirlik performansı ile finansal performans arasında istatistiksel olarak anlamlı bir ilişki bulunmamışken işletme büyüklüğü ile pozitif yönlü ve anlamlı bir ilişki saptanmıştır. İşletme büyüklüğünün sürdürülebilirlik performansı üzerine olumlu etkisi olduğu söylenebilir.
+Yazar isimleri: ['Selda KORGA', 'Suphi ASLANOĞLU']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Selçuk Üniversitesi Sosyal Bilimler Meslek Yüksekokulu Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/selcuksbmyd/issue/73640/1114641
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2419567

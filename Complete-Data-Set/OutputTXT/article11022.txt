@@ -1,0 +1,7 @@
+Makale Başlığı: Gelişmekte Olan Ülkelerde Döviz Kuru Değişimlerinin Enflasyona Etkisi
+Özet: Döviz kuru değişimleri, özellikle yabancı sermaye giriş ve çıkışlarının yoğun olduğu gelişmekte olan ülkeleri önemli ölçüde etkilemektedir. Yabancı sermayenin girdiği dönemlerde yerli para birimleri değerlenen gelişmekte olan ülkeler, yabancı sermayenin çıktığı dönemlerde ise yerli para birimleri değer kaybetmektedir. Döviz kurlarında meydana gelen bu değişimler makroekonomik göstergeleri de etkilemektedir. Bu bağlamda, bu çalışmanın amacı, gelişmekte olan ülkelerde yaşanan döviz kuru değişimlerinin enflasyona olan etkisini araştırmaktır. Çalışmada panel veri analizi içerisinde yer alan genelleştirilmiş momentler yöntemi kullanılmıştır.Reel efektif döviz kuru endeksinin; tüketici fiyatları endesine etkisinin Arjantin, Brezilya, Endonezya,Meksika, Rusya ve Türkiye için analiz edilmiştir. Sonuç olarak; bu ülkeler için reel efektif döviz kuru endeksindeki değişim bir dönem sonra enflasyon oranı oranını pozitif olarak etkilemektedir.
+Yazar isimleri: ['Alican UMUT']
+Yayın Yılı: 27 Nisan 2022
+Dergi ismi: Maliye ve Finans Yazıları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mfy/issue/69611/881771
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1582944

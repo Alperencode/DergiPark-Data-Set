@@ -1,0 +1,7 @@
+Makale Başlığı: CAUSALITY RELATIONSHIP BETWEEN STOCK PRICES, EXCHANGE RATE AND HOUSE PRICE INDEX
+Özet: In this study, the causal relationship between stock prices, exchange rates and house prices has been empirically analyzed in Turkey. The causality relationship was investigated with 107 monthly data covering the period 2013:M3 – 2022:M1 using BIST100 index, BIST Construction index, USD/TL rate and Housing Price index. The relationship between the selected variables was analyzed by Granger Causality analysis. According to the findings, bidirectional causality was found between BIST100 index and housing price index, between BIST Construction index and housing price index, and between dollar exchange rate and housing price index. No causal relationship was found between the dollar rate and the BIST100 index, between the dollar rate and the Construction index, and between the BIST100 index and the Construction index. It can be stated that policy makers who want to affect housing prices should also consider the dollar rate and stock prices.
+Yazar isimleri: ['Yunus YILMAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Akademik Yaklaşımlar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ayd/issue/71018/1109039
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2397179

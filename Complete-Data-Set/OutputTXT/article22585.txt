@@ -1,0 +1,7 @@
+Makale Başlığı: Production and Morphological Characterization of Gallic Acid Loaded Polyvinyl Alcohol Nanofibers via Electrospinning
+Özet: Adding of various active agents to polymer solutions is a common application in order to provide different functional properties to nanofibers produced by electrospinning method. Gallic acid, which is natural phenolic acid and found in various plants, can be used as additive for nanofibers due to its advantageous characteristics (anti-inflammatory, antioxidant etc.). In the study, polyvinyl alcohol/distilled water solutions containing gallic acid with different ratios were prepared and the solutions’ characteristics (surface tension, conductivity, viscosity) were measured. Then, the nanofibers were produced from those solutions via electrospinning method. The morphology of the electrospun nanofibers were investigated by field emission scanning electron microscopy (SEM). Also, average fiber diameter and variations were calculated via an image analysis software. Increasing of viscosity and decreasing of conductivity of the solutions were seen when GA ratio was increased. However, there was no effect of GA ratio on surface tension of the solutions. Additionally, increasing of GA ratio caused to increase of average fiber diameter.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1189928
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2711829

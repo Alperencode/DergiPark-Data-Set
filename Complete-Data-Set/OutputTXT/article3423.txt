@@ -1,0 +1,7 @@
+Makale Başlığı: Stability of Solutions for a Krichhoff-Type Plate Equation with Degenerate Damping
+Özet: We investigate a Kirchhoff type plate equation with degenerate damping term. By potential well theory, we show the asymptotic stability of energy in the presence of a degenerate damping.
+Yazar isimleri: ['Fatma EKİNCİ', 'Erhan PİŞKİN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Communications in Advanced Mathematical Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cams/issue/72815/1118409
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2435420

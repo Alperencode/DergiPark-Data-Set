@@ -1,0 +1,7 @@
+Makale Başlığı: A new approach to fuzzy partial metric spaces
+Özet: In this study, we aim to introduce the notion of fuzzy partial metric spaces which is a generalization of crisp partial metric spaces in the fuzzifying view with the distance between ordinary points. For this aim, we first present the concept of fuzzy partial metric spaces by considering the distance as non-negative, upper semi-continuous, normal and convex fuzzy numbers by giving examples. We obtain some useful inequalities under some restrictions in fuzzy partial metric spaces. Then we discuss the relationships with the other metric structures and we point out Banach's fixed point theorem as an application of the proposed properties and relations. Finally, we show that fuzzy partial metric spaces induce some $\alpha$-level topology, Lowen fuzzy topology, and fuzzifying topology.
+Yazar isimleri: ['Elif GÜNER', 'Halis AYGÜN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1115381
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2422635

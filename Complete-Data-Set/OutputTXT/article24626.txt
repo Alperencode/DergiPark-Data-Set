@@ -1,0 +1,7 @@
+Makale Başlığı: Seepage in Filyos Levees Whose Upstream Face is Covered
+Özet: Filyos River Basin covers an area of 13.000 km2 in the Western Black Sea Region in Zonguldak. The project area is 203 km in the east-west direction and 120km north-south direction and the slope of the river is quite small. The flood protection project of Filyos River included construction of a total 7km of levee. The aim of this study is to investigate the seepage on covered surface and under the levee when its surface is covered with various materials. The covered materials involve riprap (andesite rock), filter layer (uniform sand) and geocomposite (geomembrane and geotextile). The PlaxFlow module was used for this study and the points of the seepage on covered surface and under the levee are investigated with this software. In the sections at the drilling points, the piping condition expected to be under the levees was investigated. Besides, drilling was carried out at 11 different distances under the Filyos Levee. As a result of the analysis, the most critical cross-section of TSK-13 was found.
+Yazar isimleri: ['Aykut SEMERCİ', 'Gökmen TAYFUR', 'Hasan Fırat PULAT']
+Yayın Yılı: 27 Nisan 2021
+Dergi ismi: Engineering Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nwsaeng/issue/62039/883615
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1589820

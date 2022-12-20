@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of Equilibrium Warp Profiles of Maser Discs in Galactic Nuclei
+Özet: Maser discs surrounding supermassive black holes in galactic nuclei provide useful information on astrophysical problems such as determining the masses of their central black holes and investigating the accretion processes. Observations indicate that these discs are often not planar, and exhibit warping. We investigated the warped equilibria, where the discs precess with a single frequency throughout their radial ranges, for the maser discs in the galaxies NGC 2960, NGC 5765b, NGC 6323, UGC 3789 and NGC 6264, whose masses, and inner and outer radii are given by the observations. In our numerical calculations the discs are modelled as concentric, circular and mutually tilted rings, and the self-gravity of the discs is taken into account. Warped equilibria corresponding to certain precession frequencies for each maser disc are obtained. It is found that for the precession frequency for which the equilibrium is obtained, the total warp in the maser disc of NGC 5765b is about 17° while the warps in the other maser discs are less than 10°.
+Yazar isimleri: ['Ayşe ULUBAY']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1167825
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2619367

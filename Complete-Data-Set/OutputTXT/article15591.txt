@@ -1,0 +1,7 @@
+Makale Başlığı: Third Order Convergent Finite Difference Method for the Third Order Boundary Value Problem in ODEs
+Özet: 
+Yazar isimleri: ['Pramod PANDEY']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1014224
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2044377

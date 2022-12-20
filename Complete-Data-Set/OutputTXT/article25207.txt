@@ -1,0 +1,7 @@
+Makale Başlığı: A New Synchronous Rectification for Phase Shift Modulation LLC Resonant Converter
+Özet: This paper presents a new synchronous rectification (SR) for phase shift modulation (PSM) LLC resonant converters. The SR for PSM LLC resonant converter has difficulty because the secondary current is not in phase with both primary current and the voltage across the transformer. Furthermore, the open-loop SR for phase shift modulation does not perform well because the optimum pulse width is highly dependent on operating conditions such as the duty ratio of primary switches and the load current condition. The proposed SR utilizes the average load current to predict the optimum pulse width of SR so that the detection circuit for SR is not required. Effectiveness of the proposed SR is simulated and experimentally verified. 
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167907
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/148010

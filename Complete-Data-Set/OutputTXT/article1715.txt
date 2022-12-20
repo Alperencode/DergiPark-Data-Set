@@ -1,0 +1,7 @@
+Makale Başlığı: Aggregation of Nematode, Hysterothylacium aduncum in whiting, Merlangius merlangus
+Özet: Although aggregation of macroparasites characterized by unequal distribution of parasites on the host is a known axiom in marine fishes, aggregation of nematode, Hysterothylacium aduncum was not previously studied in whiting, Merlangius merlangus. Here, we investigated the host-related (fish condition factor) and parasite-related factors (parasite load) as well as the distribution pattern of H. aduncum in whiting to determine whether aggregation existed or not. The distribution of H. aduncum (third larval stage) in whiting has been shown to be aggregated. Aggregation of H. aduncum was assessed by Weibull distribution. The aggregation degree of nematode, H. aduncum in whiting was changed by the individual fish. The observed pattern of parasite distribution by the individual fish enabled the recognition of aggregation for the first time in whiting. The prediction of the intensity of H. aduncum in whiting improved the understanding of the host-parasite system, particularly for the dynamics of the parasite.
+Yazar isimleri: ['Hijran YAVUZCAN', 'Mehmetcan DEMİR', 'Faik Sertel SECER']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Aquatic Research
+Yayın sayfa url: http://aquatres.scientificwebjournals.com/tr/pub/issue/72048/1107301
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2389895

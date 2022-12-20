@@ -1,0 +1,7 @@
+Makale Başlığı: Examination of OECD Countries with Multiple Variable Statistical Analysis in Terms of Education
+Özet: This study aims to analyze 38 countries belonging to the Organization for Economic Co-operation and Development (OECD) with multivariate statistical analysis methods in terms of basic education indicators. In this context, clustering analysis, which provides high homogeneity within clusters and heterogeneity between clusters, and multidimensional scaling analysis, which provides mapping, were preferred. Analyzes were performed with SPSS (Statistical Package for the Social Sciences) v.25. As a result of the application, countries that are similar and different from each other in terms of basic education indicators were determined and the results were shared in a comparative way.
+Yazar isimleri: ['Ceren YAMAN YILMAZ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1064172
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2217415

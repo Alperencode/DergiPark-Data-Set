@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of Changes in Building Inventory with Using The Remote Sensing in A Decade in Kocaeli Province
+Özet: Earthquake risk can be defined as determining the possible economic, social and environmental effects of earthquakes in a specific time period. In risk studies, the hazard should be first defined, then the risk factors should be determined, and plans should be developed for risk control points. According to archival records, in Turkey earthquakes are the most common type of natural disasters where loss of life and property is experienced. Turkey is frequently exposed to earthquakes due to its tectonic and geological structure. In this study, Land use changes detection analyzes were carried out in the residential areas with the help of Landsat-OLI 8 satellite images of different years with the controlled classification method from Remote Sensing techniques. As a result, this study highlighted the importance of planned construction in regional and urban earthquake risk assessments. The results obtained with remote sensing techniques will constitute important base information for earthquake risk studies intended to be carried out in the region. It is also an important study to reduce physical and socio-economic losses due to potential earthquakes.
+Yazar isimleri: ['Senem TEKİN', 'Seyhan OKUYAN AKCAN', 'A. Can ZÜLFİKAR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Resilience
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/resilience/issue/68460/1106481
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2386534

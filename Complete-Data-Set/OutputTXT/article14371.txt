@@ -1,0 +1,7 @@
+Makale Başlığı: PETN Molekülünün Patlama Özelliklerine BTTN, TMETN and DEGDN Moleküllerinin Etkileri
+Özet: Moleküler modelleme deney yapmaksızın moleküllerin fiziksel ve kimyasal özellikleri hakkında değerli veriler sunan bir araçtır. Bu yöntem sentezlenecek enerjik moleküllerin performanslarının hesaplanmasına olanak sağlamaktadır. Çalışmada enerjik organik bileşik olan Pentaeritritol tetranitrat (PETN), Bütantriol trinitrat (BTNN), Trimetiloletan trinitrat (TMETN) ve Dietilen glikol dinatrat (DEGDN) moleküllerinin patlama parametreleri kuramsal olarak hesaplanmış ve bazı değerler literatür değerleriyle karşılaştırılmıştır. Ayrıca PETN ve diğer moleküller arasında farklı üç boyutlu moleküller modellenmiştir. Patlama özelliklerinin hesaplanması için B3LYP 6-31G (d,p) temel seti ile yoğunluk fonksiyonel teorisi (YFT) kullanılmıştır. Tüm moleküllerin PETN’ nin patlama parametrelerini artırıcı etkide bulunduğu sonucuna ulaşılmıştır.
+Yazar isimleri: ['Cihat HİLAL', 'Serhat VARIŞ', 'Mehmet Erman MERT', 'Müşerref ÖNAL', 'Yüksel SARIKAYA']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufenbed/issue/73792/1055889
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2184299

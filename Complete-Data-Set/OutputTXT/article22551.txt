@@ -1,0 +1,7 @@
+Makale Başlığı: Talaşlı imalatta kesme hızı, ilerleme ve kesme derinliği değişkenlerinin torna tezgâhı güç tüketimi üzerine etkileri
+Özet: Günümüzde üretim sektöründe enerji gereksinimleri gün geçtikçe artmaktadır. Bununla birlikte küresel ısınmadan dolayı doğal kaynaklarının azalması enerji üretim maliyetlerini artırmaktadır. Bu sebeple enerji tüketiminin azaltılması endüstri için kritik bir öneme sahiptir. Enerji tüketiminin azaltılması için yapılan çalışmalar sonucu azalan maliyetler ülke ekonomisine de doğrudan etki etmektedir. İmalat sektöründe üretim süreçlerde yapılan optimizasyonlar doğrultusunda enerji verimliliği artırılabilmektedir. Takım tezgâhı üreticileri de gelişmiş makineler üreterek bu konuya katkı sağlamaktadırlar. Bu çalışmada güç ölçüm sistemi tasarımı yapılmış ve sistem elemanları tanıtılarak, tasarlanan güç ölçüm sistemi kullanılarak Adamit malzemeden üretilmiş hadde merdanesi ürününün CNC Geminis GHT11 tezgâhında yatay tornalama işlemi yapılırken, kesme hızı, ilerleme hızı ve kesme derinliği miktarı parametrelerinin tezgâh güç tüketimi üzerine etkileri incelenmiştir. Sonuç olarak kesme hızı, kesme derinliği ve ilerleme hızı değerlerinin artmasıyla güç tüketimi değerleri artmaktadır.
+Yazar isimleri: ['Erhan YAVAŞCI', 'Kardökmak A.Ş.', 'Recep DEMİRSÖZ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Çelik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesred/issue/72095/1118426
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2435477

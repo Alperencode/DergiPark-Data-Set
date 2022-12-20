@@ -1,0 +1,7 @@
+Makale Başlığı: İntravenöz asiklovirin neden olduğu akut böbrek hasarı ve nörolojik toksisite
+Özet: Asiklovir, herpes simplex ve varicella-zoster enfeksiyonlarının tedavisinde etkili bir antiviral ajandır. Ancak ciddi yan etkilere neden olabilir. Bu makelede intravenöz asiklovir ile indüklenen, hem akut tübüler nekroz hem de nörotoksisite gelişen ve hemodiyaliz sonrasında klinik tablonun hızla düzeldiği bir hastayı sunuyoruz. Asiklovir ile tedavi edilen hastaların izlenmesinde dikkatli olunmalıdır. Bu hastaların başarılı tedavisi için erken tanı konulmalı ve asiklovirin elimine edilmesi için hızlıca hemodiyaliz uygulanmalıdır.
+Yazar isimleri: ['Cebrail KARACA', 'Nurhan SEYAHİ', 'Emire SEYAHİ']
+Yayın Yılı: 27 Eylül 2022
+Dergi ismi: Anadolu Kliniği Tıp Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anadoluklin/issue/72640/1062502
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2210752

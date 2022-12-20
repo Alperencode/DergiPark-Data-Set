@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis of Reduced Graphene Oxide (rGO) Supported Pt Nanoparticles via Supercritical Carbon Dioxide Deposition Technique for PEM Fuel Cell Electrodes
+Özet: In this work, the preparation of reduced graphene oxide (rGO) supported Pt nanoparticles by using the supercritical carbon dioxide (scCO2) deposition technique is investigated. For this purpose, firstly, graphite oxide synthesis was made similar to the literature reports and then two different reducing agents (DMF and hydrazine hydrate) were used to prepare rGO support materials, called as rGO1 and rGO2, respectively. Finally, Pt nanoparticles (NPs) were formed on the rGO support materials. The effect of the reducing agent type and also of the catalyst preparation technique on the fuel cell performance were examined with spectroscopic, microscopic, and electrochemical techniques. From the results obtained, it appears that the properties of rGO vary significantly depending on the reducing agent used. Moreover, the electrode containing Pt/rGO1 has exhibited better cell performance compared to the Pt/rGO2.
+Yazar isimleri: ['Elif DAŞ', 'Ayşe BAYRAKÇEKEN YURTCAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Anatolian Physics and Astronomy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/japa/issue/70659/1088548
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2312631

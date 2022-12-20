@@ -1,0 +1,7 @@
+Makale Başlığı: ZAYIF AC SİSTEMLERE BAĞLI VSC-HVDC’NİN VEKTÖREL KONTROLU
+Özet: Gerilim kaynaklı dönüştürücülere (VSC) dayalı yüksek gerilim-doğru akım (HVDC) güç sistemleri son yıllarda popüler bir konu haline gelmiştir. Bu makale, zayıf bir AC sistemi için çeşitli sistem hataları ve aşırı yükleme koşulları altında vektör kontrol tekniği ile VSC tabanlı bir VSC-HVDC sisteminin bir modelini ve kontrol performansını incelemektedir. VSC-HVDC sisteminin matematiksel modeli, sistem parametrelerini en uygun şekilde ayarlamak için kontrol edilen ve kontrol edilen değişkenlerin bir simülasyon modelini ilişkilendirmemize izin verir. Bu nedenle, DC bara gerilimini korumak amacıyla aktif ve reaktif gücü ayarlamak için uygun bir vektör kontrol tekniği kullanılır. Bu makalede sunulan  kontrol sistemi, sistem salınımını verimli bir şekilde söndürebilen ve sistem geçici ve kararlı durum kararlılığını sürdürebilen dış kontrol döngüsü ve iç kontrol döngüsünü içerir. Vektör kontrol yaklaşımı, zayıf bir 6 baralı AC iletim sisteminde test edilmiştir. Modelin verimliliğini ve kontrol yönteminin güç aktarım limitinin iyileştirilmesine uygulanabilirliğini göstermek ve doğrulamak için DIgSILENT PowerFactory 15.0 yazılımında dinamik simülasyonları yapılmıştır.
+Yazar isimleri: ['Kadir ABACI', 'Volkan YAMAÇLI', 'Aykan BÖLÜKBAŞI']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1138332
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2516997

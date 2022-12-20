@@ -1,0 +1,7 @@
+Makale Başlığı: Analog Artificial Neural Network Based Controller Design for MEMS Accelerometers
+Özet: In this study, a new artificial neural network-based analog controller is proposed for the uniaxial capacitive MEMS accelerometer. This controller is designed with one neuron in the input layer, six neurons in the hidden layer, and two neurons in the output layer. This controller was designed with Electric layout editor using AMI C5N 0.6 μm CMOS fabrication technology. The success of the designed controller was compared with the PID controller with various computer simulations. The simulation results showed that the proposed controller was more successful than the PID controller in terms of response time, overshoot and measurement range.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190279
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2713230

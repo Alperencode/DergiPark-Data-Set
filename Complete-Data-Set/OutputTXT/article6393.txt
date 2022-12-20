@@ -1,0 +1,7 @@
+Makale Başlığı: BUCKWHEAT STARCH-MYRISTIC ACID COMPLEX FORMATION: EFFECT OF REACTION TEMPERATURE AND MYRISTIC ACID CONCENTRATION ON DIGESTIBILITY PROPERTIES
+Özet: This study aimed to investigate the effect of different reaction conditions on the digestibility properties of buckwheat starch-myristic acid complex samples produced using different myristic acid concentrations and different reaction temperatures. Response Surface Methodology was used to investigate the effect of reaction temperature (60-90°C) and fatty acid concentrations (0.1-0.8 mmoL/g) on digestibility properties. Resistant starch (RS) contents of samples increased with an increase in reaction temperature. The reaction temperature affected the rapidly digestible starch (RDS) and slowly digestible starch (SDS) content of samples. The highest RS content (32.57%) was obtained using 0.45 mmoL/g myristic acid at 90°C. The F, p (<0.05), and R2 values indicated that the selected models were significant for the digestibility properties of samples. The complex formation of buckwheat starch with myristic acid seems promising to increase the RS content. Buckwheat appears to have the potential as an RS source, although the studies are quite new yet.
+Yazar isimleri: ['Betül OSKAYBAS', 'Ayşe ÖZBEY', 'Levent Yurdaer AYDEMİR', 'Kevser KAHRAMAN']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Gıda
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gida/issue/73077/1207044
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2782043

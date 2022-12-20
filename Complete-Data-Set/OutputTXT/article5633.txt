@@ -1,0 +1,7 @@
+Makale Başlığı: The Study of Whole Genome Sequencing in Monozygotic Twins with Autism Spectrum Disorder
+Özet: Objective:  Autism  spectrum  disorder  (ASD),  the  most  well-known  type  of  neurodevelopmental  disorder,  is  a  mental  development  disorder. Since there is no definitive biomarker for ASD, diagnosis is made based on the assessment of the patient's behavior. In addition to behavioral and social disorders, genetic factors are also important in ASD. Materials and Methods: In the study, variant analyses were performed by whole genome sequencing (WGS) method, as well as evaluating the clinical features of two monozygotic twin couples (one discordant and the other concordant). Results: According to the WGS results, thirteen high pathogenic variants were detected in twenty-nine novel candidate genes. Candidate genes include MEAF6, OR2T8, ABI2, PDE4D, GLIS3, DRD4, LPXN, FAM186A, NEK3, GOLGA8A, SSC5D, ARMCX4, ADAR, LRP1B, DAP, LYRM7, MUC12, CNTNAP3B, TCP11L1, OR8B3, KLRC3, and DPP9. Conclusion: We speculate that clinical evaluations and examination of genetic changes are important for understanding the disease in individuals with ASD and their families.
+Yazar isimleri: ['Ender COŞKUNPINAR', 'Ozlem BOZDAGI GUNAL']
+Yayın Yılı: 22 Ağustos 2022
+Dergi ismi: Experimed
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/experimed/issue/72252/1067169
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2228728

@@ -1,0 +1,7 @@
+Makale Başlığı: Membrane Filtration of Milk: Separation and Fractionation of Milk Proteins
+Özet: Whey is the major by-product of cheese industry which contains valuable organic materials. Further processes are needed before these organic materials can be used in food industry. Membrane filtration is a convenient alternative to traditional processes. Low energy consumption, reduced processing costs and enhanced quality of products are the main benefits of membrane filtration. Due to these advantages membrane filtration techniques have affected dairy industry in many aspects and become important part of the dairy processing. Pressure driven membrane filtration techniques namely, microfiltration (MF), ultrafiltration (UF), nanofiltration (NF) and reverse osmosis (RO) have found wide range of application areas to produce value-added dairy products. Depending on their application ranges, all the milk components can be separated and fractionated efficiently.  In this paper, a comprehensive review is presented on the researches and developments related to membrane separation and fractionation of milk proteins.
+Yazar isimleri: ['Kadir ÇINAR']
+Yayın Yılı: 8 Haziran 2022
+Dergi ismi: Journal of Innovative Science and Engineering
+Yayın sayfa url: http://jise.btu.edu.tr/tr/pub/issue/68623/951179
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1819355

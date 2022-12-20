@@ -1,0 +1,7 @@
+Makale Başlığı: BIM ile Bütünleşmenin LEED Sertifikasyon Sürecine Etkilerinin Enerji Kriteri Kapsamında İncelenmesi
+Özet: Yapı sektöründe yaygın olarak kullanılmaya başlayan Yapı Bilgi Modellemesi (Building Information and Modeling - BIM), yeşil bina değerlendirme sistemleri sürecinde de katkı sağlayabilmektedir. Bu makalede, BIM ortamında modellenmiş bir konut projesinin yeşil bina değerlendirme sistemlerinden yaygın olan LEED sertifikasından en yüksek puan değerine sahip olan “Enerji ve Atmosfer” kategorisine etkileri incelenecektir. Bu çalışmanın amacı, yapı sektöründe çalışan meslek gruplarına LEED sertifikası sürecinde enerji analizi işlemlerinde BIM kullanabilecekleri bir yaklaşım ortaya koymaktır.
+Yazar isimleri: ['Elif AK']
+Yayın Yılı: 26 Temmuz 2022
+Dergi ismi: Yapı Bilgi Modelleme
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ybm/issue/70322/1108267
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2393882

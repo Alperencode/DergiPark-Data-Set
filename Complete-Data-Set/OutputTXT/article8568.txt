@@ -1,0 +1,7 @@
+Makale Başlığı: FACTORS AFFECTING MARKET DOMINANCE IN THE TURKISH BANKING SECTOR: A PANEL DATA ANALYSIS
+Özet: In this study, it is aimed to determine the factors affecting market dominance in the banking sector of 37 banks operating in the Turkish banking sector between 1997-2020. After the literature review on the method and the subject, the data set of 37 banks operating in the 1997-2020 period, obtained from the Banks Association of Turkey (TBB), was analyzed using panel data regression models. In the findings obtained as a result of the analysis, it has been determined that there are econometrically significant variables that affect the market dominance rate in the Turkish banking sector.
+Yazar isimleri: ['Sami KÜÇÜKOĞLU', 'Elif GÜNEREN GENÇ']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Girişimcilik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tje/issue/70589/1093769
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2334018

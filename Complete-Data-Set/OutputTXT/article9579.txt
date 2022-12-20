@@ -1,0 +1,7 @@
+Makale Başlığı: The effects of duration of ultrasonication on the morphology and structural properties of Ni-doped hydroxyapatite structure
+Özet: This work aims to explain the effects of sonication periods, ranging from 0 to 4 h with a step of 1 h, on the morphology and structural properties of Ni-doped hydroxyapatites at a constant amount of 0.4 at.%. The lattice parameters, crystallinity, and crystallite size were affected by the sonication time. Among the sonicated samples, it was observed that the increasing sonication period reduced the c/a ratio. It was also found that the morphology was affected by the ultrasonication duration.
+Yazar isimleri: ['Tankut ATEŞ', 'Serhat KESER', 'Niyazi BULUT', 'Omer KAYGILI']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Journal of Physical Chemistry and Functional Materials
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jphcfum/issue/73784/1193117
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2724824

@@ -1,0 +1,7 @@
+Makale Başlığı: Local $T_0$ and $T_1$ quantale-valued preordered spaces
+Özet: In this paper, we characterize explicitly the separation properties $T_0$ and $T_1$ at a point p in the topological category of quantale-valued preordered spaces and investigate how these characterizations are related. Moreover, we prove that local $T_0$ and $T_1$ quantale-valued preordered spaces are hereditary and productive.
+Yazar isimleri: ['Samed ÖZKAN']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/1070240
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2240869

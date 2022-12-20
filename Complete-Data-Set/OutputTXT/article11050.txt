@@ -1,0 +1,7 @@
+Makale Başlığı: NFT Eserler ile Auranın Dönüşü: Dijital Çağda Kripto Sanat
+Özet: Kripto para piyasalarındaki ticaret hacmini giderek genişleten NFT’ler, sanat eserlerini dijital olarak sertifikalandırmaya yarayan sanal bir yatırım aracıdır. Kullandığı blokzincir teknolojisi vasıtasıyla eserleri şifreleyerek kullanıcılarına “biriciklik” vaadinde bulunan bu dijital varlıklar, Walter Benjamin’in yeniden üretim sanat yapıtları hakkındaki savını tekrar gündeme getirmiştir. Benjamin, -içinde bulunduğu dönem için- teknolojinin sanat eserleri üzerindeki etkisine değinerek, teknoloji vasıtasıyla yeniden üretilen sanat eserinin özel atmosferini (aurasını) yitirdiğini ileri sürmüştür. Bugünün bir teknolojisi olarak sunulan NFT ise, Benjamin’in artık yitip gittiğini ileri sürdüğü biricikliği ve aurayı yeniden geri getirebilecek niteliklere sahipmiş gibi gözükmektedir. Bu çalışmada teknolojik imkanlar “sayesinde” NFT formu olarak üretilen bu dijital sanat eserinin, Walter Benjamin’in işaret ettiği göstergeler ile tarihsel bağlamdan ve sanat eseri özelliklerinden kopup kopmadığı, bununla birlikte ise kaybolan aurasını yeniden kazanıp kazanmadığı konusu araştırılacaktır.
+Yazar isimleri: ['Gökhan KAYA', 'Nimet ÖNÜR']
+Yayın Yılı: 18 Temmuz 2022
+Dergi ismi: Maltepe Üniversitesi İletişim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iled/issue/71183/1087643
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2308878

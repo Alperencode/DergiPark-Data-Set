@@ -1,0 +1,7 @@
+Makale Başlığı: Measuring banks' earnings quality by market based methods: evidence from BIST
+Özet: The aim of this study is to measure the earnings quality of the Turkish banking sector within the framework of market-based models. For this purpose, 9 banks that are included in the BIST Banking Index (XBANKA) and whose data can be accessed completely were  examined. In the study, financial statements of the relevant banks for the quarter periods of 2010Q1 - 2020Q2 and historical share price data were used. In the measurement of earnings quality, conservatism, value relationship and timeliness measurement models, which are among the market-based models, were examined. According to the analysis results of the study; surveyed banks have a conservative attitude in terms of earnings quality; The results show that the level of value relationship, which is defined as the ability of banks to explain the market prices of their earnings, is low and the banking sector has a positive attitude in terms of timeliness.
+Yazar isimleri: ['Elif BEZİRGAN', 'Şakir SAKARYA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Balıkesir Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunsobed/issue/70843/1001801
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1998673

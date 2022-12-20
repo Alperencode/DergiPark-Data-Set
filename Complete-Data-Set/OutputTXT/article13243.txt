@@ -1,0 +1,7 @@
+Makale Başlığı: Solution of Fuzzy Volterra Integral  and Fractional Differential Equations via  Fixed Point Theorems
+Özet: 
+Yazar isimleri: ['Sushma BASİL', 'Santhi ANTONY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1089900
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2318174

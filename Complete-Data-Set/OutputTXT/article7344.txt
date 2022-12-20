@@ -1,0 +1,7 @@
+Makale Başlığı: Convex Hull of Extreme Points in  Flat Riemannian Manifolds
+Özet: We show that convex hull of extreme points of a closed convex subset of a compact flat Riemannian manifold is equal to the subset itself.
+Yazar isimleri: ['Reza MİRZAİE']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1046707
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2156492

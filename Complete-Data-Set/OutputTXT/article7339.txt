@@ -1,0 +1,7 @@
+Makale Başlığı: Correcting Fallacies about Validity as the Most Fundamental Concept in Educational and Psychological Measurement
+Özet: Validity is the most fundamental cerebration in educational and psychological testing. That is to say, validity is a crucial concept in psychometrics, but it is still misunderstood and misused. Validity has changed in the last 100 years, in other words, evolved. Validity is the degree to which evidence and theory support the adequacy and appropriateness of the proposed interpretations and uses of the scores obtained from the test or measurement instrument applied to a particular population or sample. In short, validity is not a property of a test or measurement instrument itself, but it is a property of the proposed interpretations and uses of the scores. Thus, such statements as ‘the test is valid’, ‘the validity of scale’ or ‘the scores are valid’ should not be used. The most authoritative source regarding the development and evaluation of educational and psychological tests is published by name of the Standards for Educational and Psychological Testing and briefly referred to as the Standards. The view of content validity, criterion-related validity and construct validity supported in 1966 Standards was quitted in 1999 Standards.
+Yazar isimleri: ['Vahit BADEMCİ']
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: International e-Journal of Educational Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejes/issue/73263/1140672
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2525799

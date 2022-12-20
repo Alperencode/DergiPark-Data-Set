@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of atmospheric pressure plasma treatment on the adhesive bonds of metal surfaces
+Özet: Atmospheric pressure plasma (APP) applications have started to come to the fore in many areas today because of their fast and easy-stable applicability to material surfaces and because they have many advantages compared to plasma applications made under vacuum. With APP, it is possible to improve the surface energies, adhesion behavior and surface mechanical properties of materials. In this context, there is a need to reveal the process parameters by making more detailed studies in the bonding process of metal materials. In this study, the effects of APP application on the adhesion strength of galvanized steels (H300LAD) and stainless steels (H300LA) were investigated. Two different materials (H300LAD and H300LA), two different adhesives (Marocol 18576 and Erde G-Force) and three different plasma application velocities (5 mm/s, 10 mm/s and 15 mm/s) were determined as experimental parameters. The results show that APP application provides improvements in metal bonding process.
+Yazar isimleri: ['Öyküm KANBİR', 'Emel TAŞYAKAN', 'Kadir ÇAVDAR']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazimmfd/issue/72928/1025228
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2087583

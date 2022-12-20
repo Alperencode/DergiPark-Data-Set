@@ -1,0 +1,7 @@
+Makale Başlığı: A note on trigonometric approximations of Bessel functions of the first kind, and trigonometric power sums
+Özet: 
+Yazar isimleri: ['Luca Guido MOLİNARİ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Fundamental Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fujma/issue/72663/1166846
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2615402

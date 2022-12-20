@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of Theoretical Fracture Criteria of Layered Elastic Composite Material by ANFIS Method from Artificial Intelligence
+Özet: 
+Yazar isimleri: ['Arzu ÇİLLİ', 'Murat BEKEN', 'Nursaç KURT']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: International Journal of Computational and Experimental Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijcesen/issue/69099/1077328
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2268376

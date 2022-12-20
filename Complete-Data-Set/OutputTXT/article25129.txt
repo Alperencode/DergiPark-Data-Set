@@ -1,0 +1,7 @@
+Makale Başlığı: A Genuine GLCM-based Feature Extraction for Breast Tissue Classification on Mammograms
+Özet: 
+Yazar isimleri: ['Semih Ergin', 'İdil Işıklı Esener', 'Tolga Yüksel']
+Yayın Yılı: 25 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/269453
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/264032

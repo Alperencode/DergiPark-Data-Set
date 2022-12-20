@@ -1,0 +1,7 @@
+Makale Başlığı: N,N’-[etan-1,2-dilbis(oksi)]bis(4-metilbenzen-sülfonamid) Molekülünün Elektronik ve Doğrusal Olmayan Optik Özelliklerinin Kuramsal Yöntemlerle Belirlenmesi
+Özet: X-ışınları kırınımı yöntemi ile yapısı daha önceden Meral ve ark. tarafından incelenmiş olan N,N’-[etan-1,2-dilbis(oksi)]bis(4-metilbenzen-sülfonamid molekülünün elektronik ve kimyasal yapısı kuantum kimyasal hesaplama yöntemleri kullanılarak incelenerek sonuçları karşılaştırıldı. Bu hesaplamalar Yoğunluk Fonksiyonel Kuramı (YFK), B3LYP Modeli ve 6-311G(d,p), 6-311G+(d,p) ve 6-311++(d,p) temel baz setleri ile yapılmıştır. Geometrik parametreler, moleküler enerji, yük dağılımları, dipol momentleri, moleküler elektrostatik potansiyel haritaları, sınır orbitalleri (HOMO-LUMO) ve kimyasal sertlik değerleri teorik hesaplamalardan elde edilmiştir. Böylece x-ışınları kırınımı yöntemi ile elde edilen sonuçlara hem yeni bilgiler eklenmiş hem de teorik çalışma ile deneysel sonuçlar desteklenmiştir.
+Yazar isimleri: ['Gonca ÖZDEMİR TARI']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1008650
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2022904

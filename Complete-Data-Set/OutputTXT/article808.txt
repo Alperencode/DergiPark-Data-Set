@@ -1,0 +1,7 @@
+Makale Başlığı: Isparta, Hatay ve Hakkâri illerinde yonca yaprak kıvırcıklığı virüsü (alfalfa leaf curl virus; ALCV)’nün PCR yöntemi ile araştırılması
+Özet: Amaç: Bu çalışmada; Isparta, Hatay ve Hakkâri illeri yonca üretim alanlarında yonca yaprak kıvırcıklığı virüsü (alfalfa leaf curl virus; ALCV)’nün bulunma durumunun moleküler yöntem ile ortaya konulması amaçlanmıştır. Materyal ve Yöntem: 2019-2020 yılları arasında Isparta Uygulamalı Bilimler Üniversitesi ile Hatay Mustafa Kemal Üniversitesi Ziraat Fakülteleri’nin yonca uygulama alanlarından ve Hakkâri ilinde (Otluca Köyü) bulunan doğal alanlardan temin edilen yonca örnekleri ile çalışma yürütülmüştür. Çalışmada ALCV ile enfekte olduğu düşünülen 50 yaprak örneği toplanmıştır. ALCV’nin varlığı polimeraz zincir reaksiyonu (Polymerase Chain Reaction: PCR) yöntemi kullanılarak araştırılmıştır. PCR uygulaması, ALCV’nin kılıf protein (Coat Protein: CP) genine spesifik 267 nükleotid uzunluğundaki gen bölgesinin çoğaltılması için gerçekleştirilmiştir. Araştırma Bulguları: PCR çalışmaları sonucunda incelenen örneklerde ALCV tespit edilememiştir. Sonuç: Bu çalışma, yonca bitkisinde ALCV’nin araştırılması bakımından ilk çalışma niteliğindedir.
+Yazar isimleri: ['Nevin AKDURA', 'Murat ŞEVİK', 'İsmail KARACA']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Akademik Ziraat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/azd/issue/71633/1008779
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2023491

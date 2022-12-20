@@ -1,0 +1,7 @@
+Makale Başlığı: Sağlık Göstergelerinin Birliktelik Kuralları ile Analizi
+Özet: Veri Madenciliği, büyük veri tabanlarından faydalı bilgileri keşfetmek için kullanılan bir tekniktir. Günümüzde veriden elde edilen bilginin değeri ile veri madenciliği alanına ilgi artmıştır. Veri madenciliği tekniklerinden biri de birliktelik kurallarıdır. Sağlık göstergeleri sağlık ve sosyal boyutu ile birçok çalışmanın temel parametreleridir. Bu çalışma ile ulusal literatürde son 10 yıl içerisinde sağlık göstergelerinin kullanıldığı araştırmalar değerlendirilmiştir. Araştırmalarda sağlık göstergeleri olarak sağlık harcamaları,  sağlık statüsü, sağlık kurumu ve sağlık çalışanı parametreleri gruplandırılmıştır. Belirlenen birliktelik kurallarına göre tekli türetilen kuralların ikili ve üçlü türetilen birliktelik kurallarına göre daha yüksek güven ve destek değerine sahip oldukları belirlenmiştir. Bu araştırmanın gelecek araştırmalarda kullanılacak parametrelerin seçiminde araştırmacılara yol göstereceği düşünülmektedir
+Yazar isimleri: ['Aslı KÖSE']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: Eskişehir Türk Dünyası Uygulama ve Araştırma Merkezi Bilişim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/estudambilisim/issue/68981/1072090
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2248017

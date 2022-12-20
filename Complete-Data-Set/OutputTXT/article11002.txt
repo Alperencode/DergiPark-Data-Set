@@ -1,0 +1,7 @@
+Makale Başlığı: Vakumlu Bir Yol Süpürücünün Vakum Arabası Tasarımının Parçacık Toplama Verimliliğine  Etkisinin İncelenmesi
+Özet: Bu çalışmada, kompakt tip vakumlu bir yol süpürme aracına ait vakum arabasının (toz toplama kafası) hesaplamalı akışkanlar dinamiği yöntemi ile akış analizi ve parçacık hareketi analizi yapılarak gaz-katı etkileşimi incelenmiştir. Süpürücünün parçacık toplama verimliliğinin arttırılmasına yönelik vakum arabası tasarımının geliştirme çalışması yapılmıştır. Mevcut ve geliştirilmiş tasarımın sayısal ve deneysel çalışması yapılarak karşılaştırılmıştır. 600 mm x 3000 mm’lik bir test düzeneğine 10 kg’lık kum eşit oranda yayılmıştır ve süpürücünün 6 km/h hız ile hareket ettiği durumdaki kum temizleme performansı incelenmiştir. Geliştirilmiş vakum arabasında %95 oranında süpürme verimliliği elde edilmiştir.
+Yazar isimleri: ['Zeynep Aslı ORUÇ', 'Volkan AÇIKGÖZ', 'Mutlu BİÇİCİ']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Makina Tasarım ve İmalat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/matim/issue/73564/1168205
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2621136

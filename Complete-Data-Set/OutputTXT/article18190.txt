@@ -1,0 +1,7 @@
+Makale Başlığı: INVESTIGATION OF GOLD AS A HEDGE TOOL AND SAFE HAVEN
+Özet: This study examined the properties of gold as a hedge and a safe haven. The study aims to examine the relationship of the gold price with the main determinants such as exchange rate, bonds, and stocks. The study used ARCH/GARCH models to determine whether gold is a safe haven and a hedging instrument compared to the US 2-year bond yield, the S&P 500 stock market index, and the USD/EUR exchange rate. The trend change date of gold was determined in the sampling period considered within the scope of the study, and the whole sampling period was handled separately as two trend periods.
+Yazar isimleri: ['Tahsin Berk ŞEKER']
+Yayın Yılı: 28 Ekim 2022
+Dergi ismi: Atlas Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atlas/issue/73244/1195452
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2734602

@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of compatibility of lipase with commercial detergents, surfactants and oxidizing agent as a detergent additive
+Özet: Bu çalışmada domuz pankreasından elde edilen lipazın ticari sıvı ve katı deterjanlar, yüzey aktif maddeler, oksitleyici ajan ve pH/sıcaklık çalışmalarının gerçekleştirilmesi amaçlanmıştır. Bu amaçla enzimin optimum pH ve sıcaklık çalışmaları sırasıyla pH 5-13 ve sıcaklık 30-80°C aralıklarında araştırılmıştır. Enzimin 8 adet ticari çamaşır deterjanı, triton X-100, tween 20, tween 80, tergitol, sodyum deoksikolat, sodyum dodesil sülfat ve oksitleyici ajan H202 varlığında 1 saat ve 40°C’de stabilite ve uyumluluğu değerlendirildi. Elde edilen bulgulara göre lipaz deterjanlar içerisinde genel olarak stabildir ve kontrole göre sıvı deterjan 1 ve 3 içerisinde aktivitelerini %20’den fazla artırmıştır. Aynı zamanda enzim 5% (v/v) konsantrasyonda triton X-100, tween 20, tween 80, and tergitol varlığında sırasıyla yaklaşık 237%, 281%, 207% and 237% relative aktivite göstermiştir. Enzim aktivitesi %5 (v/v) H202 konsantrayonunda sadece yaklaşık %13 inhibe olmuştur. Sonuç olarak; pankreatik lipaz, enzim immobilizasyon çalışmaları ve özellikle deterjan uygulamaları olmak üzere çeşitli biyoteknolojik amaçlar için iyi bir seçenek olabilir.
+Yazar isimleri: ['Canan GÜLMEZ', 'Onur ATAKİSİ']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: International Journal of Chemistry and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijct/issue/69466/1085417
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2300335

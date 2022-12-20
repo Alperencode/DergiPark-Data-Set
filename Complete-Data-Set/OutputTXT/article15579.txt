@@ -1,0 +1,7 @@
+Makale Başlığı: Designing Generalized Cylinder with Characteristic Base Curve in Euclidean 3-space
+Özet: Designing a surface from a given curve  under some special conditions is an important  problem in many practical applications. The purpose of this article is to design a generalized cylinder whose base curve is a characteristic   curve   in Euclidean 3- space.  The main results  show that the generalized cylinder with geodesic, line of curvature, or asymptotic base curve is a rectifying  cylinder,  a right cylinder, or a plane  respectively.
+Yazar isimleri: ['Nabil ALTHİBANY']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1012276
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2036569

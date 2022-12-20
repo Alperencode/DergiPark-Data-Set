@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Aloe Vera Supported Silver Catalyst for Decolourization of Eosin Yellow Using Response Surface Methodology
+Özet: Eosin yellow (EY) is generally a toxic dye for both human health and environment. In the present work, Aloe vera supported silver (Ag/AV) catalyst was synthesized by sodium borohydride (NaBH4) reduction method. The synthesized material was used as potential catalyst for the degradation of ES, an anionic dye. The effects of initial ES concentration (Co), time, and catalyst amount on ES decolourization in the presence of NaBH4 were investigated and the process conditions were optimized by using response surface methodology (RSM). From the optimization analysis, a maximum ES decolourization efficiency of 84.99% was obtained at 10.96 mg/L Co, 73.50 s time, and 0.78 mg/mL catalyst amount. Moreover, the kinetic studies indicated that the decolourization of ES on Ag/AV in the presence of NaBH4 follows a pseudo second order kinetic model. Thermodynamic studies indicated that the ES decolourization process was exothermic and spontaneous. Finally, it can be concluded that the prepared catalyst could be utilized efficiently in the decolourization of organic contaminants such as ES.
+Yazar isimleri: ['Şakir YILMAZ']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Yüzüncü Yıl Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yyufbed/issue/71465/1078950
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2274510

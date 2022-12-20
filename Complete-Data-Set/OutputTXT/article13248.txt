@@ -1,0 +1,7 @@
+Makale Başlığı: Contractions of Kannan-type and of Chatterjea-type on fuzzy quasi-metric spaces
+Özet: We characterize the completeness of fuzzy quasi-metric spaces by means of a fixed point theorem of Kannan-type.Thus, we extend the classical characterization of metric completeness due to Subrahmanyam as well as recent resultsin the literature on the characterization of quasi-metric completeness and fuzzy metric completeness, respectively. Wealso introduce and discuss contractions of Chatterjea-type in this asymmetric context.
+Yazar isimleri: ['Salvador ROMAGUERA BONİLLA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1140743
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2526106

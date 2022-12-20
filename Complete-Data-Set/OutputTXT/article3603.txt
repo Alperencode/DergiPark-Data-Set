@@ -1,0 +1,7 @@
+Makale Başlığı: Covid-19 Sürecinde Evden Çalışanların Öz Yeterliklerinin İş Performansı ve İş Tatmini Üzerindeki Etkisi
+Özet: Covid-19 pandemisi tüm dünyayı derinden etkileyerek, iş yaşamında büyük bir değişime sebep olmuştur. Bu süreçte evden çalışma oldukça yaygınlaşmıştır. Evden çalışmanın salgın ortamında izolasyon sağlamasının yanında zaman ve maliyet avantajları sunması da tercih sebebi olmuştur. Evden çalışanların bu süreçteki verimliliğinin önemi sebebiyle öz yeterlikleri, iş performansları ve iş tatminleri araştırılması gereken bir konudur. Bu araştırmanın amacı, Covid-19 sürecinde evden çalışanların öz yeterliğinin iş tatmini üzerindeki etkisinde iş performansının nasıl bir aracılık rolünün bulunduğunun tespit edilmesidir. Nicel araştırma tasarımıyla çevrimiçi olarak hazırlanan anket formu aracılığıyla Covid-19 sürecinde Türkiye genelinde evden çalışan 382 kişiden veri toplanmıştır. Yapısal eşitlik modelleme analizi ile hipotez testleri gerçekleştirilmiştir. Araştırma bulgularına göre, öz yeterliğin iş tatmini ve iş performansı üzerinde pozitif yönlü ve anlamlı bir etkisi vardır. İş performansı, öz yeterlik ve iş tatmini arasındaki ilişkide “kısmi aracı” rolüne sahiptir.
+Yazar isimleri: ['Aysun Devrim YEMENİCİ']
+Yayın Yılı: 1 Ağustos 2022
+Dergi ismi: Çalışma İlişkileri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cider/issue/70198/1063706
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2215600

@@ -1,0 +1,7 @@
+Makale Başlığı: Detecting Turkish Fake News Via Text Mining to Protect Brand Integrity
+Özet: Fake news has been in our lives as part of the media for years. With the recent spread of digital news platforms, it affects not only traditional media but also online media as well. Therefore, while companies seek to increase their own brand awareness, they should also protect their brands against fake news spread on social networks and traditional media. This study discusses a solution that accurately classifies the Turkish news published online as real and fake. For this purpose, a machine learning model is trained with tagged news. Initially, the headlines were analyzed within the scope of this study that are collected from Turkish online sources. As a next step, in addition to the headlines of these news, news contexts are also used in the analysis. Analysis are done with unigrams and bigrams. The results show 95% success for the headlines and 80% for the texts for correctly classifying the fake Turkish news articles. This is the first study in the literature that introduces an ML model that can accurately identify fake news in Turkish language.
+Yazar isimleri: ['Ozge DOGUC']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi University Journal of Science Part A: Engineering and Innovation
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsa/issue/72855/1170640
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2630972

@@ -1,0 +1,7 @@
+Makale Başlığı: EDR Ürünleri Kullanılarak Uç Nokta Görünürlüğünün Sağlanması
+Özet: Günümüzde büyük kurum ve kuruluşlara yapılan siber saldırılar gün geçtikçe artmaktadır. Meydana gelen siber saldırılar sonucunda; kurumlar maddi ve itibar kaybı gibi büyük kayıplar yaşamaktadırlar. Siber saldırıların geç tespiti, analistlerin yetkinliği ve verilerin ayrıştırılma sürecinde yaşanan aksaklıklar saldırıların zarar boyutunu arttırmaktadır. Bu sebepten dolayı meydana gelen saldırıların erken tespiti önem arz etmektedir. Bilgi güvenliğine aykırı durumların yaşanmaması ve saldırıların erken tespit edilebilmesi için kapsamlı yapılara ihtiyaç duyulmuştur. Bu ihtiyaç doğrultusunda uç nokta saldırı tespit sistemleri geliştirilmiştir. Bu çalışmada yaygın olarak kullanılan uç nokta (endpoint) tespiti ve cevaplama (response) yazılımlarının kullanım alanlarına ve özelliklerine yer verilmiştir. Sonuç olarak uç nokta tespiti ve cevaplama sistemlerinin (Endpoint Detection and Response –EDR– ) görünürlüğünün artırılmasının sağlayacağı avantajlar sunulmuştur.
+Yazar isimleri: ['Kevser Mehveş DAĞCI', 'Sengul DOGAN', 'Türker TUNCER']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fufbd/issue/72741/1111686
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2407871

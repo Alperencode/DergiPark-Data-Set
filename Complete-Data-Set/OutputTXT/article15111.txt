@@ -1,0 +1,7 @@
+Makale Başlığı: Çok kriterli karar verme ve doğrusal kombinasyon tekniği ile arazilerin tarımsal uygunluk derecelerinin belirlenmesi pilot çalışma; Ankara-Gölbaşı özel çevre koruma alanı ve yakın çevresi
+Özet: Bu çalışmanın temel amacı, Ankara ili Gölbaşı ilçesi özel çevre koruma alanı ve yakın çevresine ait alanların, yaygın olarak kullanılan çok kriterli karar verme yaklaşımlarından birisi olan Bulanık Analitik Hiyerarşik Süreç (B-AHS) ve Doğrusal Kombinasyon Tekniği CBS ile birlikte kullanılarak işlemeli tarım faaliyetlerine uygun potansiyel tarım alanlarının belirlenmesini içermektedir. Toplam 34695.60 ha alana sahip çalışma alanının işlemeli tarıma uygun potansiyel sahaların belirlenmesine yönelik olarak eğim, derinlik, erozyon, drenaj, taşlılık olmak üzere beş adet arazi özelliği ve organik madde, bünye,  pH, EC ve kireç olmak üzere beş adet toprak özelliği toplamda 10 adet kriter kullanılmıştır.  Elde edilen sonuçlara göre, alanın %47.4’ü işlemeli tarıma S1 ve S2 düzeylerinde yani çok uygun ve uygun olarak belirlenirken, %9.3’ü ise işlemeli tarımsal faaliyetlere uygun olmadığı (N) belirlenmiştir.
+Yazar isimleri: ['Orhan DENGİZ', 'İsmail Fatih ORMANCI', 'Barış ÖZKAN']
+Yayın Yılı: 22 Haziran 2022
+Dergi ismi: Toprak Bilimi ve Bitki Besleme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbbbd/issue/70446/1083452
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2292471

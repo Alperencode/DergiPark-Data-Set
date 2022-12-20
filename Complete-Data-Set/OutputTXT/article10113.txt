@@ -1,0 +1,7 @@
+Makale Başlığı: Enerji Depolama Cihazları için β-MnO2 Bileşiğinin Yüksek Basınç Altında Yapısal ve Elektronik Özellikleri
+Özet: Bu çalışmada, MnO2 bileşiğinin yapısal ve elektronik özellikleri hidrostatik basınç altında yoğunluk fonksiyonel teorisi (DFT) çerçevesinde genelleştirilmiş gradyant metodu (GGA) kullanılarak 120 GPa’ya kadar gerçekleştirildi. Çalışmada MnO2 bileşiği kademeli olarak artan basıncın etkisiyle uzay grubu P42/mnm olan tetragonal yapıdan uzay grubu Pnnm olan ortorombik yapıya dönüşmüştür. Çalışmanın deneysel sonuçlarla uyumunu gözlemlemek için entalpi ve toplam enerji hesaplamaları gerçekleştirildi. Ayrıca çalışmada MnO2 bileşiğinin elektronik özellikleri araştırıldı. Yapılan hesaplamalar sonucunda MnO2 bileşiğinde yaklaşık olarak 9.8 GPa’da bir faz geçişi meydana geldiği ve tetragonal yapıdan ortorombik yapıya geçildiği sonucuna varıldı.
+Yazar isimleri: ['Çağatay YAMÇIÇIER']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/999044
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1988249

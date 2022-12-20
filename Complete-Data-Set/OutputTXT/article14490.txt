@@ -1,0 +1,7 @@
+Makale Başlığı: Development Steps of a COVID-19 Gamification E-Learning Module for Nursing Students
+Özet: The interest in e-learning modules, which is one of the online teaching methods, has increased during the pandemic process. This article explains the development steps of the gamified e-learning module developed for nursing students. A collaborative, multidisciplinary project team consisting of an educational designer, two content experts, two consultants and a student was organized. The team developed an e-learning module using the D6 model of gamification. This module was designed online and asynchronously to increase the clinical skills and knowledge of undergraduate nursing students regarding COVID-19. Using gamified problem-based learning, which is used by integrating an e-learning module into nursing education, as a teaching material as theory and practice will contribute to the active participation of students, increase their motivation and effective learning.
+Yazar isimleri: ['Afra ÇALIK', 'Ridvan Bilal SAGLAM', 'Murat Gökhan KABAL', 'Betül ÇAKMAK', 'Bahar İNKAYA', 'Sevgisun KAPUCU']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Sağlık Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdusbed/issue/73442/1021472
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2073110

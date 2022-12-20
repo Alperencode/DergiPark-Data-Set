@@ -1,0 +1,7 @@
+Makale Başlığı: Determining the Factors Affecting House Prices in Erzurum Using Hedonic Analysis
+Özet: The study aims to determine the factors that cause the differentiation of house prices and rents according to different locations of settlements in Erzurum. As the study area, three regions with the highest housing density in Erzurum were determined: Erzurum city centre (Yakutiye), urban development area (Palandöken) and satellite city settlement area (Aziziye). The hedonic price analysis method was used to analyse house prices. Within the scope of the study, building typologies, which are thought to be important in the differentiation of house prices and rent in the city, were analysed, and the variables affecting the housing prices were interpreted together with the urban development dynamics in this study different than the previously conducted housing studies in the region.
+Yazar isimleri: ['Cansu GÜLLER', 'Cigdem VAROL']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1054964
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2180988

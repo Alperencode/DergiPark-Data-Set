@@ -1,0 +1,7 @@
+Makale Başlığı: Novel indium(III) acetate phthalocyanine: synthesis and spectroscopic properties
+Özet: A new phthalocyanine 1 was synthesized, containing 2-aminophenoxy groups as tetra from its peripheral positions and indium(III) acetate in its cavity. The structure of 1 was illuminated by elemental analysis, FTIR, UV-vis and fluorescence spectroscopy techniques It is well soluble in solvents such as polar and nonpolar solvent types. Its aggregation properties have been studied both in the solvents mentioned above and in Dimethyl sulfoxide at different concentrations. Its aggregation properties were examined in these solvents as well as in Dimethyl sulfoxide at certain different concentration ranges. With these determined spectroscopic properties, it can be a candidate for use in various technological applications.
+Yazar isimleri: ['Berra Gülem GÖKÇE', 'Hüseyin Kenan SOYLU', 'Emir GÜREL', 'Merve CENGİZ', 'Fatih MUTLU', 'Mehmet PİŞKİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: MANAS Journal of Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mjen/issue/70586/1076925
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2266790

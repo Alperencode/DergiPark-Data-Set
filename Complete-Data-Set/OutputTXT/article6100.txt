@@ -1,0 +1,7 @@
+Makale Başlığı: Kullanılamayan Zaman Dilimlerinin ve Sıra Bağımlı Hazırlık Sürelerinin Olduğu Paralel Makina Çizelgeleme Problemi
+Özet: Makine çizelgeleme problemlerinde tüm makineler daima kullanılabilir durumda değildirler. Planlı bakım, öğle yemeği ve dinlenme molaları gibi nedenlerle periyodik olarak kesintilere uğrayabilmektedirler. Ancak literatürde genellikle bu durum göz ardı edilmektedir. Bu çalışmada kullanılamayan zaman dilimlerinin ve sıra bağımlı hazırlık sürelerinin olduğu ilişkisiz paralel makine çizelgeleme problemi ele alınmıştır. Ele alınan problem için bir matematiksel model geliştirilmiştir. Önerilen matematiksel modelin performansı rassal türetilen test problemleri kullanılarak gösterilmiştir. Kullanılamayan zaman dilimlerinin dikkate alınmasıyla son için tamamlanma zamanlarında ortalama %5,29’luk bir azalma sağlanmıştır.
+Yazar isimleri: ['Feriştah ÖZÇELİK', 'Tuğba SARAÇ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi Üniversitesi Fen Bilimleri Dergisi Part C: Tasarım ve Teknoloji
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsc/issue/72673/1086402
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2304063

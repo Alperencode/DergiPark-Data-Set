@@ -1,0 +1,7 @@
+Makale Başlığı: PET Lif Takviyeli Farklı Puzolanik İkameli Çimento Harçlarının Mekanik Etkisi
+Özet: Bu çalışmada, çimento harçlarında, Uçucu kül (UK), Yüksek Fırın Cürufunun (YFC) ve Polietilentereftalat (PET)  lif takviyesi kullanarak mekanik ve fiziksel özellikler incelenmiştir. Bu amaçla, çimento harcının eğilme ve basınç dayanım özelliklerini arttırmak amacı ile karışıma bağlayıcı oranın ağırlığını %0.5 %1, %1.5 %2 ve %3 PET lif ilave edilmiş ve optimum lif takviyesi %1 olarak belirlenmiştir. Daha sonra %1 PET lif katkılı UK ve YFC %0, %5, %10, %15, %20, %25 ve %30 ikame edilerek kompozit numuneler üretilmiştir.Yapılan çalışma sonuncunda; PET lifli karışımlarda, %1 PET lif ilave edildiğinde eğilme dayanımının %25.79 oranında arttığı görülmüştür. Bununla birlikte UK ikameli karışımlarda PET lif ilavesi artıkça eğilme dayanımının arttığı ve en yüksek eğilme dayanımının %1 PET lif takviyeli %10 UK ve YFC ikameli çimento harç karışımları olduğu görülmüştür. Harç numuneleri üzerinde, eğilme, basınç dayanımı ve ultrasonik ses hızı ölçümü deneyleri gerçekleştirilmiştir.
+Yazar isimleri: ['Ahmet FİLAZİ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi Üniversitesi Fen Bilimleri Dergisi Part C: Tasarım ve Teknoloji
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsc/issue/72673/1140612
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2525538

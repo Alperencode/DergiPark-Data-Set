@@ -1,0 +1,7 @@
+Makale Başlığı: Başarı ölçümünde direkt işçilik maliyeti hacim farkı ve bir uygulama
+Özet: Standart maliyet sistemini uygulayan işlemeler açısından istisnalara göre yönetim ilkesinin uygulanabilmesi için kullanılan sapma analizlerinden, başarı (performans) ölçümlerinde de yararlanmak mümkündür. Başarı ölçümünde sapma analizlerinden yararlanırken, işletmedeki üretim şeklinin karakteristiği ve üretim faaliyetinin sonuçları üzerinde faaliyet ve tepe yönetiminin etkilerinin incelenmesi gerekmektedir. Bu çalışmada, belirli bir üretim şekli karakteristiği taşıyan işletmelerde, bugüne kadar faaliyet yönetiminin sorumluluğu altında tutulan direkt işçilik zaman sapması üzerinde, tepe yönetiminin de sorumluluk taşıması gerektiği ve bu özellikteki işletmelerde, zaman sapmasının tümünden faaliyet yönetiminin sorumlu tutulmasının objektif olmayacağı ortaya konmaktadır. Çalışmada, direkt işçilik zaman sapması üzerinde tepe yönetiminin sorumluluğu, yeni bir kavramla, “direkt işçilik maliyeti hacim sapması” kavramı ile açıklanmaktadır.
+Yazar isimleri: ['Selim Yüksel PAZARÇEVİREN', 'Duygu CELAYİR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Sakarya Üniversitesi İşletme Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sauied/issue/70756/915234
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1703650

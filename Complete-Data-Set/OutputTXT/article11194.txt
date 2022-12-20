@@ -1,0 +1,7 @@
+Makale Başlığı: Biyoyumak teknolojisinin Yeşil kaplan karidesi (Penaeus semisulcatus) postlarvalarının yetiştiricilik parametreleri üzerine etkileri
+Özet: Bu araştırmada yeşil kaplan karidesi (Penaeus semisulcatus) postlarvaları (başlangıç canlı ağırlıkları 0,14±0,04 g) kapalı devre yetiştiricilik sisteminde biyoyumak (BF) ve berrak su (BS) ortamlarında karşılaştırmalı olarak 54 gün süreyle büyütülmüşlerdir. Üç tekerrürlü iki grup olarak planlanan deneme ‰35±0,5 tuzlulukta, 45 L hacimli tanklarda yürütülmüştür. Su sıcaklığı, pH ve çözünmüş oksijen değerleri sırasıyla; BF grubu için 27,02±0,33°C, 7,65±0,08, 6,23±0,41 mg/L ve BS grubu için 27,05±0,24°C, 7,57±0,11, 6,44±0,22 mg/L olarak belirlenmiştir. Sonuç canlı ağırlık kazancı (BF: 2,423±0,327 g, BS: 1,814±0,103 g), spesifik büyüme oranı (BF: %5,329±0,159 g/gün, BS: %4,845±0,085 g/gün), yaşama oranı (BF: %62,50±2,50, BS: %51,67±5,20) ve yem değerlendirme oranı (BF: 2,12±0,23, BS: 2,71±0,15) bakımından gruplar arasındaki farklılık önemli bulunmuştur (p<0,05). Araştırma ile BF uygulamasının yeşil kaplan karidesi postlarvalarının yetiştiricilik parametrelerine ilk kez pozitif bir etkisi olduğu belirlenirken (p<0,05), besin madde bileşenleri ve hepatopankreas histomorfojileri arasında gruplar arasında farklılık olmadığı saptanmıştır.
+Yazar isimleri: ['Türkan TÜFEK', 'Münevver Ayçe GENÇ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Marine and Life Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/marlife/issue/69147/1115778
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2424288

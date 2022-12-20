@@ -1,0 +1,7 @@
+Makale Başlığı: Bitcoin ve Euro Arasındaki Volatilite Etkileşiminin Analizi
+Özet: Bu çalışmada popülerliği son yıllarda artan kripto paralar sınıfında değerlendirilen Bitcoin ile Euro getirileri arasındaki volatilite etkileşimini incelemek için 02.02.2014-28.02.2021 dönemine ait günlük veriler kullanılmıştır. Değişkenlere ait getirilerin zaman içindeki hareketini incelemek için oluşturulan grafiklerden volatilite kümelenmesi tespit edilmiş ve çok değişkenli GARCH modelleri kullanılmıştır. Modellerden elde edilen sonuçlar karşılaştırılarak log-olabilirlik değeri en küçük(negatif olarak) bulunan BEKK-GARCH modeli uygun model kabul edilerek Euro ile Bitcoin arasında çift yönlü volatilite etkileşimi bulunmuştur. Ayrıca DCC-GARCH modeli sonuçlarına göre ise iki getiri arasında asimetri ilişkisi ve oranında pozitif, güçlü bir dinamik korelasyon tespit edilmiştir.
+Yazar isimleri: ['Süreyya İMRE']
+Yayın Yılı: 5 Ekim 2022
+Dergi ismi: Uluslararası Ekonomik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ead/issue/72917/999998
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1991606

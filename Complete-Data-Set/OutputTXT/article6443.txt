@@ -1,0 +1,7 @@
+Makale Başlığı: Sosyal sorumlu tasarım bağlamında davranış değiştirici ürün yaklaşımları:  Literatür odaklı tematik bir inceleme
+Özet: Sosyal sorumlu tasarım kavramının; sosyal açıdan yararlı, toplumsal amaçlara ulaşmayı ön plana çıkaran ve kolektif değerlerle yönlendirilen tasarımların geliştirmesiyle kendini gösterdiği görülmektedir. Yapılan çalışmada bu yaklaşımla gerçekleştirilen tasarımlar değerlendirilerek, insanları planlanan davranışa yönlendiren uygulamalar üzerinde bir literatür araştırması gerçekleştirilmiştir. Bu kapsamda son 15 yılda, “davranış”, “değiştirici”, “sosyal”, “sorumlu”, “ürün”, “tasarımı” anahtar kelimeleri taranarak bulunan tasarımlar incelenmiştir. Tematik analiz metoduyla, örnek açıklamalarında yer alan veriler kodlanarak sosyal sorumlu tasarımlar temalaştırılmıştır. Kodlamalar sonucu dört tema belirmiştir. Araştırmanın sonucunda davranış değiştirme amacı taşıyan sosyal sorumlu tasarımlarda, değiştirme eyleminin gerçekleştirmesini sağlayan örtük bilgiler açığa çıkarılmıştır.
+Yazar isimleri: ['Ceylan ŞAHİN', 'Abdüsselam Selami ÇİFTER']
+Yayın Yılı: 29 Temmuz 2022
+Dergi ismi: GRID - Mimarlık Planlama ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/grid/issue/71505/1006449
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2016406

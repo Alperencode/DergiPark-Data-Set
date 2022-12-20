@@ -1,0 +1,7 @@
+Makale Başlığı: Kuraklık Stresinin Bazı Serin İklim Çim Alan Buğdaygillerinin Çimlenmesi ve Sürgün Gelişimi Üzerine Etkileri
+Özet: Bu çalışma, serin iklim çim alan buğdaygillerinden; Lolium, Poa, Agrostis ve Festuca cinslerine ait 10 çeşidin çimlenme döneminde kuraklık stresine dayanıklılığının belirlenmesi amacıyla Eylül 2020 tarihinde Sakarya Uygulamalı Bilimler Üniversitesi Pamukova Meslek Yüksekokulu laboratuvarlarında yürütülmüştür. Kuraklık stresini oluşturmak için farklı PEG-6000 (Polietilen glikol) konsantrasyonları (0, -2, -4, -6,-8, -10 bar) kullanılmıştır. Araştırma tesadüf parselleri deneme deseninde 2 faktörlü ve 3 tekrarlamalı olarak yürütülmüştür. Araştırmada; çimlenme oranı, sapçık uzunluğu, kökçük uzunluğu, vigor indeksi, sapçık/kökçük oranı, sapçık yaş ağırlığı, kökçük yaş ağırlığı, sapçık kuru ağırlığı, kökçük kuru ağırlığı ve kuraklığa tolerans indeksi özellikleri incelenmiştir. Araştırmada PEG konsantrasyonlarının artmasıyla çimlenme oranlarının düştüğü belirlenmiştir. İncelenen türler arasında Festuca arundinacea Starlett ve Festuca arundinacea Titan RX Rizomlu çeşitlerinin diğer çeşitlere göre kuraklığa daha toleranslı olduğu belirlemiştir.
+Yazar isimleri: ['Mustafa YILMAZ', 'Ali DOĞRU', 'Yasemin KOZAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Agricultural Biotechnology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinabt/issue/71043/1101678
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2367044

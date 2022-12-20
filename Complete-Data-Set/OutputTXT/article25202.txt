@@ -1,0 +1,7 @@
+Makale Başlığı: 3 kW Wind Turbine Emulator Implementation on FPGA Using Matlab/Simulink
+Özet: In this paper we present the interests of the hardware implementation of control algorithms for wind emulator based on DC-Machine. This work focus on modeling a horizontal axis wind turbine, a DC-Machine with independent excitation and its control via PI controllers and a fourth quadrant chopper by exploiting mathematical equations. Moreover, simulation results are analyzed and discussed using Simulink and XSG (Xilinx System Generator) showing the performance of our application. Through the tool XSG, algorithms are implemented on FPGA (Virtex-5 LX50T).
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167902
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/148005

@@ -1,0 +1,7 @@
+Makale Başlığı: Parameter optimization of quick artificial bee colony algorithm for dynamic deployment problem of wireless sensor networks using Taguchi method
+Özet: Finding a good parameter setting is a crucial issue in implementation of evolutionary computation based algorithms since it is generally a difficult and time consuming process while it effects the success of the implementation.  So, it is one of the popular research fields.  In this paper, an experimental design study is presented for parameter optimization of quick artificial bee colony algorithm in dynamic deployment problem of wireless sensor networks using Taguchi method.  Colony size, limit and neighborhood radius are considered as design factors.  Ratio of uncovered area to total area of the interest is adopted as the performance characteristic.  A robust experimental design with an inner orthogonal array is conducted by computer simulation, and the optimal parameter setting is presented.  Effects of the factors are examined, and analysis of variance study is performed.  A comparison is hold between the predicted and actual signal to noise ratios and reliability of the prediction is confirmed with a small error.
+Yazar isimleri: ['Beyza GÖRKEMLİ']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1003365
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2004618

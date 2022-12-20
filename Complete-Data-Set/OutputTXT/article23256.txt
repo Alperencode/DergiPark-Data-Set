@@ -1,0 +1,7 @@
+Makale Başlığı: EMPIRICAL ANALYSIS OF THE RELATIONSHIP OF TRADE OPENNESS AND INFLATION:  THE CASE OF TURKEY
+Özet: Studies investigating the relationship between trade openness and inflation have been increasing in recent years. According to the hypothesis called the Romer hypothesis, which stands out among these studies, the inflation rate decreases as trade openness increases in the economies of small and open countries. In this study, it is aimed to test the relationship between trade openness and inflation rate in Turkey. For this purpose, FMOLS and CCR analysis were carried out with the Gregory Hansen cointegration test, following the traditional ADF, PP unit root test and single break Zivot-Andrews unit root test, using annual data from 1987-2021. According to the results, there is a negative relationship between trade openness and inflation variables in the long run. 
+Yazar isimleri: ['Ahmet Yılmaz ATA', 'Tuğçe DALLI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Economics and Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jer/issue/72768/1158934
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2583950

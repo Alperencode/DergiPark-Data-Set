@@ -1,0 +1,7 @@
+Makale Başlığı: Analytic functions associated with cardioid domain
+Özet: In this article, we define and study new domain for analytic functions which is named as cardioid domain for being of cardioid structure. Analytic functions producing cardioid domain are defined and studied to some extent. The Fekete-Szegö inequality is also investigated for such analytic functions.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783625
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

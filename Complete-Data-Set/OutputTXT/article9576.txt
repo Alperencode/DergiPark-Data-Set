@@ -1,0 +1,7 @@
+Makale Başlığı: Monte Carlo calculation of absorbed dose under MeV proton irradiation
+Özet: 
+Yazar isimleri: ['Hiwa Mohammad QADR', 'Dyari MAMAND']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Journal of Physical Chemistry and Functional Materials
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jphcfum/issue/73784/1143673
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2537943

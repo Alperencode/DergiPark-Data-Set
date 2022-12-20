@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye'de Astronomi ve Astrofizik Araştırmalarının Çıktıları ve Etkileri - I: 2020 Yayınları
+Özet: Astronomi ve astrofizik bilim dalında araştırmalar yürütülen "Türkiye" adresli kurumların yıllık yayın performanslarının düzenli olarak irdeleneceği bu ilk çalışmada 2020 yılına ait yayınlar analiz edilmiştir. "Türkiye" adresli araştırmacıların genişletilmiş bilim atıf indeksi kapsamına giren dergilerde bu 12 aylık dönemde yayınladıkları 135 bilimsel makale detaylı bir şekilde incelenmiştir. Yapılan analiz ve değerlendirmeler ışığında ülkemiz kurumlarının araştırma performanslarına ek olarak, ulusal ve uluslararası işbirliği eğilimleri, yayın yapılan dergi tercihleri ve proje desteğinin yayınlardaki rolü gibi konularda sonuçlar elde edilmiştir. Önümüzdeki yıllarda tekrarlanması planlanan benzer çalışmalar ile, bu konulardaki zamanla değişimler karşılaştırmalı incelemelerle mümkün olabilecektir.
+Yazar isimleri: ['Selçuk BİLİR', 'Faruk SOYDUGAN', 'Deniz Cennet DURSUN', 'Burçin Tanık ÖZTÜRK', 'Cem ÖZEL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Astronomy and Astrophysics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjaa/issue/69916/1066073
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2224508

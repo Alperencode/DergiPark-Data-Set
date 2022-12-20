@@ -1,0 +1,7 @@
+Makale Başlığı: MUHASEBE BİLGİ SİSTEMİ İLE İLGİLİ LİSANSÜSTÜ TEZLERİN BİBLİYOMETRİK ANALİZİ
+Özet: Bu çalışma ile muhasebe bilgi sistemi yazınında yer alan lisansüstü tez çalışmalarının çeşitli kriterler çerçevesinde incelenerek bibliyometrik profilinin ortaya çıkarılması amaçlanmıştır. Bu bağlamda, çalışmada bibliyometrik analiz yöntemi kullanılarak 106 tez değerlendirilmiştir. Araştırmada ulaşılan bulgulara göre; en çok tezin Karadeniz Teknik ve Selçuk Üniversitelerinde hazırlandığı, tezlerin neredeyse tamamının uygulamalı olduğu, veri toplama sürecinde çoğunlukla anket yöntemine başvurulduğu, çalışmaların önemli bir kısmında örnekleme yönteminin belirlenmediği tespit edilmiştir. Ölçek geliştirilen çalışmaların çoğunda ön test aşaması ihmal edilirken, ölçek bulunan çalışmaların çoğunda güvenilirlik testlerinin yapıldığı görülmüştür. Verilerin analizi sürecinde çoğunlukla frekans ve korelasyon analizlerine yer verildiği, parametrik testler arasından en çok F testi (varyans analizi) kullanılırken parametrik olmayanlardan ise en fazla ki – kare testine başvurulduğu belirlenmiştir.
+Yazar isimleri: ['Osman SEYİTOĞULLARI']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Dicle Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/duiibfd/issue/73541/1126485
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2468701

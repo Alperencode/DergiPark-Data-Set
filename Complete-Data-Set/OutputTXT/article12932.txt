@@ -1,0 +1,7 @@
+Makale Başlığı: Erken Çocukluk Sınıf Ortamı Değerlendirme Ölçeği Geçerlik ve Güvenirlik Çalışması
+Özet: Bu araştırmanın amacı, Erken Çocukluk Sınıf Ortamı Değerlendirme Ölçeği’nin (EÇSODÖ) geliştirilmesi ve geçerlik-güvenirlik çalışmasının yapılmasıdır. Araştırmanın çalışma grubunu maksimum çeşitlilik örnekleme yoluyla belirlenen toplam 312 okul öncesi öğretmeni oluşturmaktadır. Öncelikle Temel Bileşenler Analizi (TBA) daha sonra Doğrulayıcı Faktör Analizleri (DFA) yapılmıştır. Güvenirlik analizleri için de Cronbach alfa iç tutarlılık güvenirliği hesaplanmıştır. Analizler sonucunda ölçeğin 38 madde ve 5 faktörden oluştuğu belirlenmiştir. Faktörler toplamda %52.13 oranında ortak varyansı açıklamıştır. Analizler sonucunda ölçeğin uyum indeks değerleri (RMSEA=.076, S-RMR=.025, GFI=.67, AGFI=.63, NFI=.79, NNFI=.89, CFI=.90, IFI=.90) incelendiğinde GFI, AGFI, NFI değerleri zayıf uyuma karşılık gelirken NNFI, CFI, IFI’ nın iyi uyuma karşılık geldiği görülmektedir. Cronbach alfa iç tutarlık katsayıları sırasıyla .86, .84, .74, .66 ve .84 olarak belirlenmiştir. Bu doğrultuda geçerli ve güvenilir bir ölçek elde edilmiştir.
+Yazar isimleri: ['Dilek ACER ÇAKAR', 'Kaan Zulfikar DENİZ', 'Nergiz TEKE', 'Tuğba BAŞ', 'Emine KILINÇCI']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Pamukkale Üniversitesi Eğitim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/pauefd/issue/72199/961254
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1856148

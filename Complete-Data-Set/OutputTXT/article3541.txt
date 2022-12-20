@@ -1,0 +1,7 @@
+Makale Başlığı: The Reliability and Validity of the Home Early Literacy Environment Scale (HELE)
+Özet: Considering the benefits of the home literacy environment for children, this study aims to develop a tool to measure early literacy opportunities provided by families to their children. As a result of the Exploratory Factor Analysis, the eigenvalue of the scale is composed of four factors and 11 items, and it represents 21.73 % of the total variance in the first factor, 20.75% of the second factor, 16.65% of the third factor and 15.33 of the fourth factor. The total variance in the four factors reveals approximately 74.47% of it—Cronbach (α) reliability values of factors range between .73 and .88. The reliability value for the general scale is identified as .72. The results show that this scale is a reliable measurement tool to identify the views of families in the home literacy environment. After carrying out validity and reliability studies, we calculated cut-off scores for the scale. The lowest score might be eight, while the highest score might be 32 received from this scale. Accordingly, we found out that 8-15 points are insufficient, while 16-23 is average and 24-32 insufficient for the home literacy environment.
+Yazar isimleri: ['Banu KARAAHMETOĞLU', 'Figen TURAN']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Cumhuriyet Uluslararası Eğitim Dergisi
+Yayın sayfa url: http://cije.cumhuriyet.edu.tr/tr/pub/issue/72802/1009787
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2027289

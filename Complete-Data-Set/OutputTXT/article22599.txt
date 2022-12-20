@@ -1,0 +1,7 @@
+Makale Başlığı: An Investigation on Different Risk Analysis Methods in Public Hospitals : an Example Application
+Özet: Today, risk management and evaluation constitute the most important element of a new approach to occupational health and safety. Health sector is one of the most risky working are as considering the risksthat may be encountered in the working environment and the consequences that may occur when it occurs Health workers are faced with biological, chemical, physical, ergonomic and psychosocial risks in many. areas of health care, especially in hospitals. The aim of this study is to compare the effectiveness of the L matrix and Fine-Kinney methods in the most intensive and stressful hospitals in the health sector.As a result of the study, the risk severity levels of the hazards detected in the L-type Matrix method were found to be at a moderate risk level, while it was found to be at the high/very high level in the Fine-Kinney Method.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190398
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2713610

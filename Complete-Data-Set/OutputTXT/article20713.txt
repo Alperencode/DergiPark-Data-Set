@@ -1,0 +1,7 @@
+Makale Başlığı: Hydrogen production and process optimization using thin film nickel catalyst in KBH4 hydrolysis
+Özet: In this study, nickel was coated as a thin film on the slide by magnetron sputtering and used as a catalyst for alkali potassium borohydride hydrolysis. The effects of parameters such as ambient temperature, catalyst amount, wt% KBH4 ratio, volume of HCl and wt% NaOH ratio rate on the hydrogen production rate in the catalytic hydrolysis of potassium borohydride solution were investigated in detail by response surface method. Process optimization was done using central composite design and the efficiency of the parameters was determined by analysis of variance. As a result of the model created, the optimum parameters for the maximum HGR value; ambient temperature 55 ˚C; 13% KBH4; 0.6% NaOH; Determined as 9 mL of 0.5 M HCl. The maximum hydrogen generation rate was calculated as 92.8 L/min g.
+Yazar isimleri: ['Meryem Sena AKKUŞ']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1143291
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2536387

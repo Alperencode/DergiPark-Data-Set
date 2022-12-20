@@ -1,0 +1,7 @@
+Makale Başlığı: Wavelet-based Numerical Approaches for Solving the Korteweg-de Vries (KdV) Equation
+Özet: In this research work, we examine the Korteweg-de Vries equation (KdV), which is utilized to formulate the propagation of water waves and occurs in different fields such as hydrodynamics waves in cold plasma acoustic waves in harmonic crystals. This research presents two efficient computational methods based on Legendre wavelets to solve the Korteweg-de Vries. The three-step Taylor method is first applied to the Korteweg-de Vries equation for time discretization. Then, the Galerkin and collocation methods are used for spatial discretization. With these approaches, bringing the approximate solutions of the Korteweg-de Vries equation turns into getting the solution of the algebraic equation system. The solution of this system gives the Legendre wavelet coefficients. The approximate solution can be obtained by substituting the obtained coefficients into the Legendre wavelet series expansion. The presented wavelet methods are tested by studying different problems at the end of this study.
+Yazar isimleri: ['Neslihan ÖZDEMİR', 'Aydın SEÇER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1059086
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2197072

@@ -1,0 +1,7 @@
+Makale Başlığı: Performance evaluation of spectral wave model caused by ERA-Interim, ERA5, and CFSR wind fields in the Black Sea
+Özet: The main objective of the present study is to evaluate the performance of the MIKE 21 SW (Spectral Wave) in a semi-closed basin (Black Sea). Wind data were obtained from ECMWF ERA-Interim, ECMWF ERA5, and NCEP CFSR. The wave model was calibrated and validated with wave measurements recorded at seven different stations along the Black Sea coastlines. In the calibration, several different physical parameters were tested to determine the optimal model settings, and the whitecapping parameter (Cds) was more influential than the bottom friction parameter (kn), wave breaking parameter (γ), and nonlinear wave-wave interactions in the prediction of the Black Sea wave properties. The wave results modeled using ERA-Interim showed less agreement with wave measurements than those obtained with ERA-5 and CFSR wind fields. Although the significant wave height and wave period modeled using ERA5 and CFSR wind fields were reasonably well matched at all measurement stations, ERA5 wind fields provided slightly better performance owing to having the largest correlation coefficient (R) and lowest statistical error measures (bias, RMSE, SI) in the Black Sea.
+Yazar isimleri: ['Fulya ISLEK', 'Yalçın YÜKSEL', 'Adem ÖZDEMİR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Seatific Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/seatific/issue/71311/1120361
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2443371

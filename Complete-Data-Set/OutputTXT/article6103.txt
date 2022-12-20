@@ -1,0 +1,7 @@
+Makale Başlığı: Tasarım Kavramı ve Tasarım Değerleme
+Özet: Günümüzde, ürün tasarımında meydana gelen ufak bir tasarımsal değişiklik o ürünü benzer diğer ürünlerden farklı kılmaktadır. Ürünün tercih edilebilirliğini günden güne artıran tasarım, ürüne bir değer katmaktadır. Tasarımın ürüne kattığı değerden dolayı koruma altına alınması kaçınılmaz olmaktadır. Tescil ile korunan tasarımın değerinin maddi olarak belirlenebilmesi amacıyla tasarım değerleme gerçekleştirilmektedir. Tasarım değerleme çalışmalarının örneği ülkemizde henüz görülmemekte, dünyada ise son yılların konusu olarak ele alınmaktadır. Konu ile ilgili çalışmalar çok yeni çalışmalardır. Tasarım değerleme, tasarım değer kazandıkça önem kazanmaktadır. Bu çalışmada genel olarak tasarımın ve tasarım değerlemenin ne olduğu ve hangi yöntemlerin kullanıldığı açıklanarak tasarım değerleme raporunun temel olarak hangi bölümlerden oluşması gerektiği ortaya konulmuştur.
+Yazar isimleri: ['Reyyan Pınar SÖZBİLEN', 'Hüdayim BAŞAK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi Üniversitesi Fen Bilimleri Dergisi Part C: Tasarım ve Teknoloji
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsc/issue/72673/1057419
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2190450

@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of K-Serotonin Structure Using Nuclear Magnetic Resonance by Quantum Chemical Methods
+Özet: In this study, the K-Serotonin structure formed by adding potassium to Serotonin (5-HT) was investigated by quantum chemical methods. 5-hydroxytryptamine is a neurotransmitter that affects mood, making people feel happy and energetic. 5-HT and 5-HT-potassium were optimized with some base sets to find the optimal band gap using the density function theory (DFT) and Hartree-Fock (HF) method. The most suitable DFT/LanL2DZ was selected for the structure with and without additives. By calculating the values for 5-HT and K-5-HT, the effects of potassium on 5-HT binding were compared.
+Yazar isimleri: ['Mücahit YILMAZ', 'Hanifi KEBİROGLU']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Journal of Physical Chemistry and Functional Materials
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jphcfum/issue/73784/1201785
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2761100

@@ -1,0 +1,7 @@
+Makale Başlığı: Testing January Anomaly on BIST 100 and Corporate Governance Index
+Özet: The Efficient Market Hypothesis, which was brought by Fama in 1970, accepts that all accessible information is fully reflected in the prices of securities, that investors make rational decisions, therefore, above-average returns cannot be obtained in the market, and that the market is an efficient market. The aim of the study is to determine whether the January anomaly even occurs in the BIST100 Index and to investigate whether there is a January anomaly in the BIST Corporate Governance Index, which is expected to be a more efficient market unlike other studies. In this report, the entity of January anomaly in BIST100 and BIST Corporate Governance Index was investigated by using two methods for a 12-year period between 2009-2020. Within the compass of the work, data were analyzed with One-Way Analysis of Variance (ANOVA) and Power Ratio Method. According to the ANOVA test results, it was resulted that there was no statistically significant discrepancy in terms of monthly average returns for both indicators. According to the Power Ratio Method, on the base of the 2009-2020 period, it was resulted that there is a “January anomaly in BIST100” and “BIST Corporate Governance Index”.
+Yazar isimleri: ['Semra TASPUNAR ALTUNTAŞ']
+Yayın Yılı: 5 Ekim 2022
+Dergi ismi: EKEV Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosekev/issue/72929/1085949
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2302388

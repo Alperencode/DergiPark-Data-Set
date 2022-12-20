@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Analysis of Tree-Based Tag Anti-Collision Protocols for RFID Systems
+Özet: 
+Yazar isimleri: ['Mehmet Erkan YÜKSEL']
+Yayın Yılı: 1 Temmuz 2019
+Dergi ismi: Electrica
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/electrica/issue/46870/593875
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/765062

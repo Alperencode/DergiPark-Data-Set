@@ -1,0 +1,7 @@
+Makale Başlığı: Sentiment Analysis on Social Media: The 5G Perception During COVID-19 Process
+Özet: This study is aimed at measuring the perception created by the COVID-19 vaccines on people around the world using Sentiment Analysis – taking into account the fifth generation (5G) cellular networks, which are expected to bring new capabilities that will create opportunities for society. For this purpose, 25642 tweets were taken from Twitter between October and December 2020 and analyzed using Python software. Accordingly, 36.4% of people worldwide who expressed their opinions on Twitter have a positive perception of 5G and the COVID-19 vaccine, also 35.6% of the tweeters do not have a positive or negative view (neutral) has been observed. However, it was observed that 28% of the people expressed negative opinions. The overall sentiment score is 0.15. Also, in this study, Classification and Regression Trees (CART), Naïve Bayes (NB), k-Nearest Neighbour (KNN), and Random Forest (RF) algorithms were applied. According to the findings, the best results were obtained by NB with 0,7852 precision (P) and 0,7445 accuracy (A) values, KNN with 0,8209 recall (R) value, and RF with 0,7866 F-measure (F) value.
+Yazar isimleri: ['Elçin TİMUR ÇAKMAK', 'Ayşe OĞUZLAR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Social Inquiry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijsi/issue/71029/928685
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1736149

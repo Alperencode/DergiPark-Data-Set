@@ -1,0 +1,7 @@
+Makale Başlığı: Turbulence models and simulation method in the CFD simulation of 75-mm hydrocyclone
+Özet: In this paper, an effective method for the classification process simulation in 75¬mm hydrocyclone is considered. The simulation results and computational time are compared using Reynolds stress model (RSM) and different large eddy simulation (LES) subgrid-scale models as turbulence models, and the volume of fluid model (VOF) as a multiphase model. The Lagrangian discrete phase model (DPM) is used to simulate the classification process of particles. As the experimental result for comparison of simulation results, Hsieh's experimental data are used. When the different LES subgrid-scale models are used, the solution converges stably by various solution convergence methods without increasing the grid numbers or reducing the size of time steps than RSM model. As a result, it is confirmed that when an appropriate simulation method is applied with the LES-WMLES S-Omega model, more accurate axial water flow velocity distribution and particle classification simulation results can be obtained at a computational cost similar to that of using the RSM model.
+Yazar isimleri: ['Song Gun KANG']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bilimsel Madencilik Dergisi
+Yayın sayfa url: http://www.mining.org.tr/tr/pub/issue/72907/971842
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1882297

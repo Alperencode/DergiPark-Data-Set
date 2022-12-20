@@ -1,0 +1,7 @@
+Makale Başlığı: Fmoc Grubu Taşıyan Dipeptit Yapılarının Termal ve Elektriksel Özelliklerinin İncelenmesi
+Özet: Bu çalışmada Fmoc grubu ile korunmuş amino asitler ile karboksilik asit ucu metil ester olan amino asitlerin reaksiyonu bir seri dipeptit bileşikleri sentezlendi. Sentezlenen bileşiklerin yapısı FT-IR, 1H-13C NMR spektroskopi teknikleriyle karakterize edildi. Bileşiklerin termal bozunma sıcaklıkları oda sıcaklığından 600oC’ye kadar azot atmosferinde termogravimetrik analiz yöntemiyle belirlendi. Dipeptitlerin TGA eğrileri incelendiğinde termal bozunma sıcaklıkları 181 ile 200 oC aralığında değiştiği gözlendi. Dipeptitlerin 1-30 kHz frekans aralığında empedans analizör cihazı ile elektriksel davranışları incelendi. Dielektrik sabiti, dielektrik kayıp, suseptans ve empedans parametrelerindeki değişim frekansın bir fonksiyonu olarak araştırıldı. Dipeptitlerin dielektrik sabiti 5.99 ile 6.67 aralığında değişmektedir.
+Yazar isimleri: ['Eray ÇALIŞKAN', 'Fatih BİRYAN', 'Kenan KORAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Pure and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijpas/issue/70506/1011511
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2033629

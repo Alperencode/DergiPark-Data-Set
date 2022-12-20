@@ -1,0 +1,7 @@
+Makale Başlığı: HOW DO CONSUMING ALTERNATIVE ENERGY SOURCES AND REMITTANCE INFLOWS IMPACT EGYPT’S ECOLOGICAL FOOTPRINT?
+Özet: This research examines how the determinants of environmental degradation -including (combustible and non-combustible) alternative energy consumption and remittance inflows- impact Egypt’s ecological footprint for the 1977-2014 period. After confirming the co-integration among the selected variables, the short-run and the long-run coefficients are estimated by the autoregressive distributed lag method. The long-term findings indicate that the environmental Kuznets curve hypothesis is not accepted for Egypt, as income has a U-shape impact on ecological footprint. Moreover, fossil-fuel consumption and financial development worsen ecological footprint in the long-run. In addition, while non-combustible alternative energy utilization does not significantly impact ecological footprint in Egypt, combustible alternative energy usage and trade globalization decrease it in the long-run. The results further reveal that remittance inflows to Egypt increase ecological footprint in both the short-run and the long-run. Pursuant to the findings, some policy conclusions and suggestions are propounded.
+Yazar isimleri: ['Alper KARASOY']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Beykent Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bujss/issue/70861/1060051
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2200903

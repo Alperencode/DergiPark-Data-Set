@@ -1,0 +1,7 @@
+Makale Başlığı: WHAT IS THE FUNCTION AND CONTRIBUTION OF THE OPENTYPE VARIABLE FONT IN DIGITAL TYPOGRAPHY?
+Özet: A lot has changed in digital font technology, which has emerged visibly since the desktop publishing revolution of the 1985s. As John Hudson noted, the TrueType processor of the last Windows 10 version has been updated for variable fonts thanks to support for OpenType Font Variations. However, this does not apply to all fonts. Ultimately, OpenType Variable Fonts now offer different possibilities in digital typography as the next generation fonts available to users. But it is a fundamental problem that the properties of OpenType Variable Fonts are not yet known enough. For this reason, the aim of the article is to briefly explain the stages that OpenType Variable Font technology has reached from the last quarter of the 20th century to the present, and to determine the general features of variable font technology. Qualitative research method will be used in article writing. The expected results with this article are to examine and evaluate the possible contributions of the specified fonts that offer variability to typographic design.
+Yazar isimleri: ['Anıl SARIKAVAK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Art-e Sanat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sduarte/issue/70476/1074744
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2258200

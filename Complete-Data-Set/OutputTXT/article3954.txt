@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRKİYE’DE DIŞ TİCARET AÇIKLIĞININ CO2 EMİSYONU ÜZERİNE ASİMETRİK ETKİSİ: DOĞRUSAL OLMAYAN ARDL YAKLAŞIMI
+Özet: Bu çalışmanın amacı, Türkiye’de dış ticaret açıklığının karbondioksit emisyonu üzerindeki etkisini incelemektir. Söz konusu ilişkinin varlığı 1987-2020 dönemi için araştırılmıştır. Modelde dış ticaret açıklığının yanı sıra enerji tüketimi ve GSYH değişkenlerine de yer verilmiştir. Bu şekilde oluşturulan model doğrusal olmayan ARDL yaklaşımı ile analiz edilmiştir. Bulgular, enerji tüketimindeki değişmelerin karbondioksit emisyonunu da aynı yönde etkilediğini göstermektedir. Benzer şekilde GSYH’daki değişmelerinde karbondioksit emisyonunu aynı yönde etkilediğini göstermektedir. Bununla birlikte, dış ticaret açıklığındaki bir artışın karbondioksit emisyonunu azalttığı sonucuna ulaşılmıştır. Diğer taraftan dış ticaret açıklığındaki bir azalışın da karbondioksit emisyonunu azalttığı sonucuna ulaşılmıştır. Ancak dış ticaret açıklığındaki bir azalışı bir artışa göre karbondioksit emisyonu üzerindeki etkisi daha fazladır.
+Yazar isimleri: ['Demet YAMAN SONGUR']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Dicle Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/duiibfd/issue/73541/1124419
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2460018

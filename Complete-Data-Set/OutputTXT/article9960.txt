@@ -1,0 +1,7 @@
+Makale Başlığı: INVESTIGATION OF BIOFILM FORMATION ON KALDNES K1
+Özet: The moving bed biofilm reactor (MBBR) has proven to be an effective system for the treatment of municipal and industrial wastewater. The main operating mechanism of moving bed biofilm reactors (MBBR) is the growth of attached biomass in biofilm carriers in the bioreactor with mixing provided by diffusers in aerobic bioreactors or mechanical stirrers in anoxic/anaerobic bioreactors. Biofilm formation is a complex process affected by microbial composition and properties. In this study, biofilm formation performance on Kaldnes K1 was investigated in two moving bed biofilm reactors (AnMBBR1 and AnMBBR2) using textile wastewater. Both MBBRs with a 40% fill rate were operated with a 6-hour hydraulic retention time (HRT). AnMBBR1 was operated under anaerobic conditions while AnMBBR2 was operated at different aeration rates (0.001-0.004 m3 air/m3reactor). The highest biomass concentration was observed in AnMBBR2 with a reactor aeration ratio of 0.004 m3air/m3reactor, corresponding to 4062 mg/L. The results showed that limited aeration improved biofilm formation on biofilm carriers rather than anaerobic conditions.
+Yazar isimleri: ['Melike KOZAK', 'Serdar GÖÇER', 'Ahmet DUYAR', 'İrem AYRANPINAR', 'Emre Oğuz KÖROĞLU', 'Kevser CIRIK']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1137084
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2512368

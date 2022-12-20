@@ -1,0 +1,7 @@
+Makale Başlığı: Batman Barajının yıkılma analizi ve baraj güvenliği açısından değerlendirilmesi
+Özet: Günümüzde artan tüketim miktarıyla beraber sulama ve içme – kullanma su ihtiyacı da aynı oranda artış göstermiştir. Bunun sonucu olarak, mansabında yerleşim yerlerinin varlığına bakılmaksızın inşa edilen barajların güvenliği sorgulanır hale gelmiştir. Gelişen teknoloji sayesinde, barajların türüne (dolgu, beton…), topoğrafyasına ve yerleşim yerinin büyüklüğüne göre farklı senaryolar altında risk analizleri türetilerek çeşitli önlemler alınması mümkün hale gelmiştir. Özellikle modelleme programlarının gerçekçi bir seviyeye yaklaşmasıyla daha tutarlı sonuçlara ulaşılabilmiştir.Bu çalışmada; Batman ilinin 30 km kuzeyinde yer alan Batman Barajının mevcut durumundan yola çıkılarak risk sınıflandırması yapılmış ve HEC-RAS programı yardımıyla baraj yıkılması modellenerek olası bir yıkılma sonrası ortaya çıkacak olan taşkın dalgası sonucu afet durumları ortaya konulmaya çalışılmıştır. Elde edilen model sonuç verileriyle; mansapta bulunan yerleşim alanlarına taşkın dalgası ulaşmadan önce erken tahliye için gerekli sürelerin tespiti yapılacaktır.
+Yazar isimleri: ['Hüseyin EFE', 'Fevzi ÖNEN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Dicle Üniversitesi Mühendislik Fakültesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dumf/issue/72718/1097025
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2347053

@@ -1,0 +1,7 @@
+Makale Başlığı: Classification of VOC Vapors Using Machine Learning Algorithms
+Özet: Detection of volatile organic compound (VOC) vapors, which are known to have carcinogenic effects, is extremely important and necessary in many areas. In this work, the sensing properties of a cobalt phthalocyanine (CoPc) thin film at six different VOC vapors (methanol, ethanol, butanol, isopropyl alcohol, acetone, and ammonia) concentrations from 50 to 450 ppm are investigated. In this sense, it is observed that the interaction between the VOC vapors and the CoPc surface is not selective. It is shown that using machine learning algorithms the present sensor, which is poorly selective, can be transformed into a more efficient one with better detection ability. As a feature, 10 seconds of responses taken from the steady state region are used without any additional processing technique. Among classification algorithms, k-nearest neighbor (KNN) reaches the highest accuracy of 96.7%. This feature is also compared with the classical steady state response feature. Classification results indicate that the feature based on 10 seconds of responses taken from the steady state region is much better than that based on the classical steady state response feature.
+Yazar isimleri: ['Serra AKSOY', 'Muttalip ÖZAVSAR', 'Ahmet ALTINDAL']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of Engineering Technology and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jetas/issue/72234/1030981
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2109465

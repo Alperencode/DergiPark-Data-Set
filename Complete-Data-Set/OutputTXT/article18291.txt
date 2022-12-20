@@ -1,0 +1,7 @@
+Makale Başlığı: AGRI-FOOD SUPPLY CHAIN HOLISTIC DESIGN: TOMATO PRODUCT APPLICATION
+Özet: In traditional Agri-Food supply chains, there is more than one stage that does not add value to the product, which negatively affects the quality and price of the products. Since inflation in agri-food products directly affects the Consumer Price Index, improvements in the chain will have a high contribution to the consumer.Within the scope of this study, a collaborative methodology has been developed with an integrated approach and without layers that do not create value in the agri-food supply chain. At the first stage, the relevant stakeholders were evaluated separately for their acceptance into the system and the operation processes with the Analytic Hierarchy Process (AHP) method.Then, within the framework of the Collaborative Planning, Forecasting and Replenishment (CPFR) approach; The most suitable supply chains were determined by linear programming method and capacity balancing was made. Finally, an application on tomato product was analyzed on the AIMMS modeling package in order to verify the methodology, and the obtained findings and results were given.
+Yazar isimleri: ['Atiye TÜMENBATUR']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Beykoz Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/beykozad/issue/71287/1142851
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2534572

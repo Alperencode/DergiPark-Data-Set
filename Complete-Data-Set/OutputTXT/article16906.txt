@@ -1,0 +1,7 @@
+Makale Başlığı: Trafik Mikro-Simülasyon Model Kalibrasyonu için Özellik Seçim Algoritmalarının Karşılaştırılması
+Özet: Günümüzde trafik simülasyonlarını gerçekleştirmek için önemli sayıda gelişmiş mikro simülasyon modeli geliştirilmiştir, ancak bu modeller tüm trafik koşullarını modellemek için kalibre edilmesi gereken çok sayıda parametre içermektedir. Tüm bu parametreleri kalibre etmeye çalışmak maliyetli olabilir ve hatta kalibrasyon doğruluğunu azaltabilir. Bu çalışmada, çeşitli Özellik Seçim Algoritmalarının (ÖSA) kalibrasyon doğruluğu üzerindeki etkilerinin bir analizi yapılmış ve uygun ÖSA tipinin belirlenmesi için bir yaklaşım önerilmiştir. Önerilen yaklaşım kapsamında, SUMO'nun araç tipi, araç takip ve şerit değiştirme model parametrelerinden bir model parametre seti oluşturulmuş ve Latin Hiper Küpü kullanılarak deney seti oluşturulmuştur. Deneyler, yüksek zaman çözünürlüğünde veri toplama yeteneğine sahip detektörlerle donatılmış 9,2 km uzunluğundaki bir karayolu kesimi için gerçekleştirilmiştir. Sonuç olarak, ÖSA kullanımının kalibrasyon performansını önemli ölçüde iyileştirebileceği gözlemlenmiştir. Ayrıca bu çalışmada önerilen kalibrasyon yönteminin trafik simülasyonu uygulayıcıları ve araştırmacılar için fonksiyonel olacaktır.
+Yazar isimleri: ['Erdem DOĞAN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1096157
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2343565

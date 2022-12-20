@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of Calcium Electroporation in Cancer Treatment with In Vitro, In Vivo and Clinical Studies
+Özet: Electroporation (EP), which has many applications in medicine and biotechnology, is a method used to make the cell membrane permeable with external, short and high voltage electrical pulses. After EP, an increased flow of molecules across the cell membrane is observed. Electrochemotherapy (ECT) is used for palliative treatment of tumors by combining chemotherapy and EP technique. Many anti-cancer applications support Ca2+ pathways as a target in cancer treatment by affecting calcium (Ca2+) signals. The use of Ca2+ electroporation (CaEP) instead of ECT application causes the death of tumor cells due to the decrease in the amount of ATP. In this review, it is aimed to review the experimental results of existing in vitro, in vivo and clinical studies of CaEP and to evaluate it as a new anti-cancer treatment method.
+Yazar isimleri: ['Güney GÜRSOY', 'Meric ESMEKAYA', 'Zehra ÇİÇEK']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Black Sea Journal of Health Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bshealthscience/issue/68048/1092589
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2329424

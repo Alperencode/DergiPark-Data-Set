@@ -1,0 +1,7 @@
+Makale Başlığı: Complete Systems of Galileo Invariants of a Motion of Parametric Figure in the Three Dimensional Euclidean Space
+Özet: Let $E^{3}$ be the 3-dimensional Euclidean space and $S$ be a set with at least two elements.  The notions of  an $S$-parametric figure  and  the motion of an $S$-parametric figure in $E^{3}$ are defined.  Complete systems of invariants of  an $S$-parametric figure  in $E^{3}$ for the orthogonal group $O(3,R)$ , the special orthogonal group $SO(3,R)$, Euclidean group $MO(3,R)$, the special Euclidean group $MSO(3,R)$ and Galileo groups $Gal_{1}(3,R)$ , $Gal^{+}_{1}(3,R)$ are obtained.
+Yazar isimleri: ['Djavvat KHADJİEV', 'İdris ÖREN', 'Gayrat BESHİMOV']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1091348
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2324155

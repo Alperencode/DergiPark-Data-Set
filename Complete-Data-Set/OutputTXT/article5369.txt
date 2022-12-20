@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison of Topic Modeling Methods
+Özet: Recently, the data produced on the internet is increasing day by day. A significant majority of this data consists of texts. The fact that the texts are in the majority has led scientists to do more studies in this field. The most popular of the studies on texts is Topic Modeling (KM) methods. Topic modeling methods are to identify hidden or open topics in texts. Hidden dirichlet separation (GDA), relational subject model (HRM) and structural subject model (YKM) methods were applied on the text datasets obtained within the scope of this study. In addition, subject consistency and astonishment values were used in the study to compare the results of subject modeling methods. Similar results were obtained in our study with the results of the methods applied in the publication used as a source in the study. In addition to the surprise value, the consistency value we used has also shown that more successful results are obtained in the YKM method. With a consistency value of 0.509, YKM type 3 method gave the best results. In addition, the method of comparison is shown in future studies.
+Yazar isimleri: ['Ahmet KAYA', 'Eyyüp GÜLBANDILAR']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: Eskişehir Türk Dünyası Uygulama ve Araştırma Merkezi Bilişim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/estudambilisim/issue/68981/1097978
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2351040

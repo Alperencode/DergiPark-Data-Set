@@ -1,0 +1,7 @@
+Makale Başlığı: Weighted Statistical Limit Supremum-Infimum
+Özet: In this paper, by using weight $g$-statistical density we introduce weight $g$-statistical supremum-infimum for real valued sequences. We also define weight $g$-statistical limit supremum-infimum with the help of above new concepts. In addition, we shall establish some results about weight $g$-statistical core.
+Yazar isimleri: ['Maya ALTINOK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/975585
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1896308

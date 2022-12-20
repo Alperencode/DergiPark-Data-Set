@@ -1,0 +1,7 @@
+Makale Başlığı: QZSS uyduları ve sinyal yapıları
+Özet: Hassas konumlama sistemleri, kullanım amacına göre küresel ya da bölgesel olarak tasarlanmaktadır. GPS (Global Positioning System), GLONASS (Globalnaya Navigatsionnaya Sputnikovaya Sistema) ve Galileo gibi küresel sistemlerin yanı sıra yerel ihtiyaçlara çözüm üretebilmek amacıyla QZSS (Quasi-Zenith Satellite System) ve NavIC (Navigation with Indian Constellation) gibi bölgesel sistemler de mevcuttur. Quasi-Zenith uydu sistemi, Asya Pasifik bölgesi için tasarlanmış bölgesel bir uydu navigasyon sistemidir. Asya-Pasifik bölgesinde GPS'in servis kabiliyetini geliştirmesi hedeflenmektedir. İlk uydu 2010 yılında fırlatılmış ve farklı zamanlarda üç uydu daha fırlatılmıştır. QZSS (Quasi-Zenith Satellite System) mevcut durumda 4 uydu ile hizmet vermekte olup, 2024 yılına kadar 7 uydunun fırlatılmış olması planlanmaktadır. QZSS, GPS ile bütünleşmiş bir şekilde çalışması planlandığından GPS ile uyumlu olarak tasarlanmıştır. Bu çalışmada, Quasi-Zenith uydu sisteminin genel özellikleri, sinyal yapısı, kullanım amacı ve benzeri diğer sistemler ile arasındaki farklılıklar hakkında bilgi verilmektedir.
+Yazar isimleri: ['Atınç PIRTI', 'Zeynep ÖRS GÜNDOĞAN', 'Merve ŞİMŞEK']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Geomatik
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/geomatik/issue/66138/979823
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1912939

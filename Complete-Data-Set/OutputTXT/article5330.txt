@@ -1,0 +1,7 @@
+Makale Başlığı: ATTACKS ON THE MQTT-BASED IOT SYSTEM  DETECTION USING MACHINE LEARNING
+Özet: 
+Yazar isimleri: ['Ayça Nur KAHYA', 'Esra YOLAÇAN']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Mühendislik ve Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogummf/issue/72210/1014857
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2046859

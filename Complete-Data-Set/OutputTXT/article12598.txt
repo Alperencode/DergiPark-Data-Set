@@ -1,0 +1,7 @@
+Makale Başlığı: Burgers ve coupled Burgers denklemlerinin tam ve nümerik çözümleri üzerine
+Özet: Bu çalışmada, bir boyutlu Burgers denklemi ve Burgers denklemler sistemi Homotopi pertürbasyon metodu (HPM) ile çözülmüştür. Elde edilen çözümlerin iki ve üç boyutlu grafikleri ve tabloları Mathematica hesaplama programı yardımıyla oluşturulmuştur. Bu çalışmada bulunan tüm çözümler metodun etkinliğini doğrulamaktadır. Sonuçlara göre, elde ettiğimiz çözümlerin analitik çözümlere çok hızlı bir şekilde yakınsadığı ortaya çıkarılmıştır. Sonuç olarak, sunulan metodun geniş aralıktaki lineer olmayan problemlerin çözümleri için uygulanabilir olduğunu ifade etmemiz mümkündür.
+Yazar isimleri: ['Mine BABAOĞLU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Ordu Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ordubtd/issue/70313/1006207
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2015594

@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Enhanced HBONet CNN Approach for Embedded Systems
+Özet: In recent years, the usage areas of convolutional neural networks (CNN) have increased remarkably. It is widely used on many platforms, from workstations to embedded devices. However, each CNN model uses a different amount of memory, processor, storage and has different object recognition accuracy rates. CNNs to be used in embedded systems have some difficulties such as being less costly, consuming less resources and achieving higher accuracy. One of the CNN models that best overcomes these difficulties is the HBONet model. However, this model does not perform well enough in embedded systems. In this study, it is aimed to increase the performance of the HBONet model for embedded systems. For this purpose, the A-HBONet model, which is based on the HBONet model, is proposed. As a result of the experiments performed, the accuracy of the proposed model was increased by 3% compared to the HBONet model, while the memory and storage unit usage was reduced by approximately 80%. These results show that the proposed model works more effectively and efficiently in embedded devices.
+Yazar isimleri: ['Gürkan DOĞAN', 'Burhan ERGEN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Pure and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijpas/issue/70506/995579
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1974862

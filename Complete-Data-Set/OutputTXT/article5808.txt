@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 PANDEMİSİNİN SEÇİLİ DÜNYA BORSALARI ÜZERİNDEKİ ETKİSİ
+Özet: Bu çalışmada dünyanın en büyük borsaları arasında yer alan Borsa İstanbul, Rusya Menkul Kıymetler Borsası, Brezilya Menkul Kıymetler Borsası, Tokyo Menkul Kıymetler Borsası, Almanya Menkul Kıymetler Borsası, Amerika Birleşik Devletleri Menkul Kıymetler Borsası, New York Menkul Kıymetler Borsası, Brezilya Menkul Kıymetler Borsası ve Kore Menkul Kıymetler Borssının volatilitelerinde ve getirilerinde COVID-19’un etkili olup olmadığı tespit edilmek istenmiştir. Bu amaçla 02.01.2017 ile 17.09.2021 tarihleri arasındaki günlük veriler kullanılarak EGARCH(1,1) modeliyle analizler yapılmıştır. Analizler sonucu COVID-19 pandemisinin Borsa İstanbul ve Brezilya Menkul Kıymetler Borsası’nın getirilerini negatif etkilediğini, Rusya Menkul Kıymetler Borsası ve Tokyo Menkul Kıymetler Borsası ve Kore Menkul Kıymetler Borsası endeksi getirilerinde ise pozitif bir artışa sebep olduğu tespit edilmiştir. Ayrıca Borsa İstanbul, Almanya Menkul Kıymetler Borsası, Tokyo Menkul Kıymetler Borsası, Amerika Birleşik Devletleri Menkul Kıymetler Borsası, New York Menkul Kıymetler Borsası ve Kore Menkul Kıymetler Borsa endeksi volatilitelerinde bir artışa neden olmuştur.
+Yazar isimleri: ['Süreyya İMRE BIYIKLI']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Finansal Araştırmalar ve Çalışmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/marufacd/issue/71306/1148493
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2556627

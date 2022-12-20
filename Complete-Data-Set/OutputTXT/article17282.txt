@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF RENEWABLE ENERGY CONSUMPTION AND ENVIRONMENTAL SUSTAINABILITY ON ECONOMIC GROWTH IN TURKEY
+Özet: This study explored the impact of renewable energy consumption and environmental sustainability on economic growth in Turkey. For this purpose, the study used the ARDL boundary testing approach and leveraged the annual data set covering the 1988-2019 period. The variables used in the study are; GDP, final consumption expenditure, foreign direct investment, carbon dioxide emission and renewable energy consumption. The analysis results show that the impact of final consumption expenditures, foreign direct investments and renewable energy consumption on economic growth is positive both in the short term and in the long term. However, it has been determined that carbon dioxide emissions affect economic growth only in the short term. The results obtained from the study emphasize the importance of sustainable economic growth in Turkey.
+Yazar isimleri: ['Melike ÇETİNBAKIŞ', 'Şeyma ŞAHİN KUTLU']
+Yayın Yılı: 26 Mart 2022
+Dergi ismi: Uygulamalı Ekonomi ve Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jeess/issue/69057/1026396
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2091813

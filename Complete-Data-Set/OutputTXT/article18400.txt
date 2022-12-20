@@ -1,0 +1,7 @@
+Makale Başlığı: Antalya-Isparta-Burdur Bölgesi Konut Fiyat Endeksinin Makroekonomik Göstergeler ve Hisse Senedi Endeksi Kullanılarak Yapay Zekâ İle Tahmini
+Özet: 2022 yılı ilk çeyreğinde, dünyada konut fiyatlarının en fazla arttığı ülke Türkiye olurken, Türkiye’de en fazla artış gösteren bölge ise Antalya-Isparta-Burdur olmuştur. Bu nedenle, çalışmada Antalya-Isparta-Burdur bölgesi konut fiyatlarının yapay zekâ kullanılarak tahmin edilmesi amaçlanmıştır. Yapay sinir ağı modelinde, Ocak 2010-Temmuz 2022 dönemi için tüketici fiyat endeksi, konut kredisi faiz oranları, dolar kuru, Türkiye konut fiyat endeksi ve BIST 100 endeksi girdi parametreler olarak belirlenmiştir. Sonuç olarak bölgenin konut fiyatları, ‰ 5,6 Ortalama Mutlak Yüzde Hata (MAPE) ve %99,97 R2 oranında yüksek doğrulukta tahmin edilmiştir. Ayrıca çalışmada, 2022 yılı Haziran, Temmuz ve Ağustos ayları için geleceğe yönelik tahmin yapılmıştır. Çalışmanın, bölgesel olarak konut fiyatlarını yapay zekâ ile geleceğe yönelik olarak tahmin etmesi ve tahmin edici parametre olarak makroekonomik değişkenlerin yanı sıra hisse senedi endeksini kullanması bakımından literatüre katkı sağlayacağı umulmaktadır.
+Yazar isimleri: ['Dilşad Tülgen ÇETİN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Abant Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/asbi/issue/73571/1161592
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2594685

@@ -1,0 +1,7 @@
+Makale Başlığı: Analytical Study of Fractional Reaction-Diffusion Brusselator System
+Özet: In this paper, a time fractional reaction-diffusion Brusselator system with the Caputo type fractional derivatives, is solved by Laplace Adomian decomposition method (LADM). Two numerical examples supported by graphics, tables, and discussion are provided, by comparing the numerical results obtained with the exact solution when α = β = 1, it is observed that they are in perfect agreement, this confirms the accuracy and smoothness of the current method.
+Yazar isimleri: ['Mohamed ZELLAL', 'Kacem BELGHABA']
+Yayın Yılı: 1 Kasım 2022
+Dergi ismi: Cankaya University Journal of Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cankujse/issue/73259/1136041
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2508247

@@ -1,0 +1,7 @@
+Makale Başlığı: Word Frequencies in the Written Texts of Learners of Turkish  as a Foreign Language at CEFR Level A
+Özet: This study aims to list the vocabulary items used by learners of Turkish as a foreign language at CEFR level A and their frequency values, and reveal the factors affecting the differences in the word frequency lists created based on certain demographic criteria. It also aims to compare the lists with the frequency lists of the course book used by the learners and the list of words frequently used by native speakers of Turkish. For these purposes, written texts of 123 students at Ankara University TÖMER were collected and digitized, and using all the words in those texts, a lemma list was created for this learner corpus. Then, separate lists were created to show how certain variables might affect the frequency of words used by learners. The results show that the most significant factor leading to differences in the lists is the level the students were studying at.
+Yazar isimleri: ['Derem ÇANGA']
+Yayın Yılı: 6 Aralık 2022
+Dergi ismi: Cankaya University Journal of Humanities and Social Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cankujhss/issue/73125/1153478
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2573453

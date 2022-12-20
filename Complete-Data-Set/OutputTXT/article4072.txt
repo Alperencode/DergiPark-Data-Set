@@ -1,0 +1,7 @@
+Makale Başlığı: A NEW RESTRICTION ON ADJECTIVE ORDERING
+Özet: In this paper, a new restriction on adjective ordering is proposed and it is shown that this restriction can be explained by the Final-over-Final Constraint.First, the Final-over-Final Constraint is described with examples exhibiting its explanatory power. Later, various observations about adjectives are made and two analyses for adjectival syntax are presented: (a) adjunction analysis and (b) functional head analysis. Furthermore, it is suggested that adjectives obey a word-order restriction to be dubbed the Adjective Ordering Generalization. In the last section, it is shown that the Adjective Ordering Generalization can be explained by the Final-over-Final Constraint if we assume that adjectives are introduced via functional heads. The paper comes to an end with a brief discussion of a syntactic aprroach to the Final-over-Final constraint.
+Yazar isimleri: ['İsa Kerem BAYIRLI']
+Yayın Yılı: 5 Temmuz 2022
+Dergi ismi: Dil Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dilder/issue/71168/1068634
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2234265

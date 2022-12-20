@@ -1,0 +1,7 @@
+Makale Başlığı: Static analysis of cantilever beam with geometrical discontinuity by Carrera Unified Formulation
+Özet: This paper presents a numerical solution for static analysis of a rectangular cantilever beam with different sizes of a hole on its cross-section subjected to vertical concentrated load.  Carrera Unified Formulation (CUF) is used by employing both N-OrderTaylor type expansion (TE) and Lagrange type expansion (LE).  The influence of both these different refined beam models and the different sizes of hole on the evaluation of the stress components on the cross-section along the thickness is examined.  First, with the convergence study, a comparison is performed with the results obtained from the exact solution.  Then, a rectangular cantilever beam with compact cross-section subjected to vertical concentrated load is considered.  Finally, the presence of a hole with different radius sizes on its cross-section subjected to the same loading is discussed.
+Yazar isimleri: ['Esra Eylem KARATAŞ']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/996414
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1978161

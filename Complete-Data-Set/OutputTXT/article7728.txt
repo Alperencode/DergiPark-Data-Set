@@ -1,0 +1,7 @@
+Makale Başlığı: FLOOD FORECASTING USING NEURAL NETWORK: APPLYING THE LSTM NETWORK IN THE MOSUL REGION. IRAQ
+Özet: 
+Yazar isimleri: ['Abdullahi Abdu IBRAHİM', 'Ayad Khalaf JIRRI HALBOOSH']
+Yayın Yılı: 20 Temmuz 2022
+Dergi ismi: International Journal of Multidisciplinary Studies and Innovative Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijmsit/issue/69913/1135145
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2504762

@@ -1,0 +1,7 @@
+Makale Başlığı: Availability of Non-Ionizing Radiation Applications to Dispose Coronavirus from Foods and a Research on Creating Awareness in Protection from Coronavirus (COVID-19)
+Özet: Coronavirus (COVID-19) is one of the serious respiratory diseases known as a human pathogen. Recently, the world health organization has described this virus as a pandemic. One of the sources of transmission of this virus, which has many ways of transmission, is food. Especially foods pose a potential danger with contamination. The virus's survival even at high temperatures and for long periods led to the search for alternative applications to heat treatments applied to foods. These applications include infrared (IR), ultraviolet-C (UV-C), and microwave radiation. These applications, which are shown as an alternative to heat treatments, have recently found widespread use in foods. It was reported that applications are more effective against viral infections than heat treatments. This review study deals with methods of raising awareness of coronavirus prevention and virus removal from food.
+Yazar isimleri: ['Suleyman GÖKMEN', 'İsmail ÖRS']
+Yayın Yılı: 1 Haziran 2020
+Dergi ismi: Ortadoğu Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ortadogutipdergisi/issue/51958/763775
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1186594

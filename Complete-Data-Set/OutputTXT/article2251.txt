@@ -1,0 +1,7 @@
+Makale Başlığı: A Study on Cake Preferences of Cake Consuming Individuals
+Özet: Cake, whose history dates back to ancient times, is a pastry product known by almost every part of the society and consumed on many special occasions such as weddings and celebrations. In this study, which aims to determine the cake preferences of the consumers, the data obtained from 250 people who have consumed cake before with the convenience sampling technique were used. In the analysis of the data, Mann Whitney-U test and Kruskall Wallis tests were used to determine whether there is a significant difference between gender, age and education variables and consumers' cake preferences. As a result, most of the consumers consumed on special occasions (72%), the most preferred cake was chocolate cake (53.6%), and there was no significant difference between the gender and age variables and preferences of the consumers (p>0.05). On the other hand, it was observed that there was an increase in the consumption tendencies and opinions of individuals with high school and university education, therefore, there was a significant difference between the education levels and preferences of the consumers (p<0.05).
+Yazar isimleri: ['Görkem TEYİN']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Aydın Gastronomy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aydingas/issue/70799/1018406
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2060878

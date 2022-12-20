@@ -1,0 +1,7 @@
+Makale Başlığı: ERTELENMİŞ VERGİ UNSURLARININ FİNANSAL TABLOLARA ETKİSİNİN İNCELENMESİ: BORSA İSTANBUL’DA BİR UYGULAMA
+Özet: Vergi mevzuatına göre hesaplanan mali kâr ile finansal raporlama standartlarına göre hesaplanan ticari kâr arasındaki farklılıklar sonucunda ertelenmiş vergi unsurları ortaya çıkar. Bu çalışma, Borsa İstanbul (BİST) 100 endeksinde listelenen mali kuruluşlar haricindeki işletmelerin 2011 ve 2020 yılları arasında raporladıkları ertelenmiş vergi unsurlarını incelemiş ve bu unsurların finansal tablolardaki etkisini analiz etmiştir. Çalışmanın sonuçlarına göre, işletmeler çoğunlukla ertelenmiş vergi varlığı ve ertelenmiş vergi geliri raporlamaktadır. Ayrıca, sonuçlar ertelenmiş vergi unsurlarının işletmelerin finansal yapı ve kârlılık oranlarını anlamlı bir şekilde etkilediğini göstermiştir.
+Yazar isimleri: ['Merve KILIÇ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Muhasebe Bilim Dünyası Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mbdd/issue/72537/953396
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1827950

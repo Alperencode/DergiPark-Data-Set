@@ -1,0 +1,7 @@
+Makale Başlığı: Single Solitary Wave and Wave Generation Solutions of the Regularised Long Wave (RLW) Equation
+Özet: In this paper, high accurate numerical solutions of the regularised long-wave (RLW) equation is going to be obtained by using effective algorithm including finite difference method, differential quadrature and Rubin-Graves type linearization technique. Solitary wave solutions and Maxwellian initial condition based wave generation solutions are obtained successfully. To observe the development of the present algorithm, the present numerical results are compared with many earlier works. The present results are seen as superior among the given ones. The rates of the convergence are also given.
+Yazar isimleri: ['Ali BAŞHAN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/892116
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1621340

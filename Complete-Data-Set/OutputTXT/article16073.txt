@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı sıcaklıkların Rhyzobius lophanthae Blaisdell (Coleoptera: Coccinellidae)’nin biyolojisi üzerindeki etkileri
+Özet: Rhyzobius lophanthae Blaisdell (Coleoptera: Coccinellidae) kabuklubitlerin avcısı olarak bilinmektedir. Çalışmada türlerin daha verimli olduğu optimum sıcaklık değerinin belirlenmesi amaçlanmıştır. Bu çalışmada 14, 16, 18, 20, 22, 24, 26, 28, 30 ve 32 °C, %60 orantılı nem ve uzun gün aydınlatmalı iklim koşullarında R. lophanthae'nin yaşam çizelgesi parametreleri Euler-Lotka eşitliğine göre RmStat-3 kullanılarak hesaplanmıştır. 26, 28 ve 30 °C elde edilen sonuçlara göre Kalıtsal üreme yeteneği (rm) 0.120, 0.142, 0.132 dişi/dişi/gün olarak hesaplanırken, Net üreme gücü (R0) 56.883, 80.944, 31.149 dişi/dişi/döl olarak hesaplanmıştır. Ortalama döl süresi (T0) sırasıyla 33.801, 30.866, 25.978 gün olmuştur. Toplam üreme oranı (GRR) 177.779, 303.751, 105.751 yumurta/dişi olarak hesaplanmıştır. Çalışmada laboratuvar koşullarında R. lophanthae'nin etkinliği için 28 °C’nin optimum sıcaklık olduğu sonucuna varılmıştır. Elde edilen sonuçlara göre avcılar ve zararlıların çevresel koşullardaki etkileşimleri hakkında daha fazla çalışmaya ihtiyaç duyulduğu gözlenmiştir.
+Yazar isimleri: ['Ali KAYAHAN', 'İsmail KARACA']
+Yayın Yılı: 5 Temmuz 2022
+Dergi ismi: Türkiye Biyolojik Mücadele Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbmd/issue/71163/1105690
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2383205

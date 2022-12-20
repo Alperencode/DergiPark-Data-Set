@@ -1,0 +1,7 @@
+Makale Başlığı: Eigenvalue Buckling Analysis of Beams with Different Width and Square Cutout
+Özet: In this study, effect of square cutout and beam widths on eigenvalue buckling analysis of beams is evaluated using finite element and Taguchi methods. ANSYS software is used to perform the finite element analyses and the analyses were conducted Taguchi L9 orthogonal array with three control factors. Each control factor has three levels. The first control factor is considered as position of square cutout whereas the second control factor was assumed as beam widths. The influence of levels of the beam widths and square cutouts on responses is determined using analysis of signal-to-noise ratio whereas variance analysis was operated to notice the effect of each control factor on the buckling behavior of the beams. According to results obtained from the study, the buckling value of the beams increase as the square cutout get closer to the free edge. Increase of the beam widths leads to an increase on buckling result of the beams. The effect of beam width on the buckling analysis is higher than square cutout.
+Yazar isimleri: ['Savaş EVRAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Aksaray University Journal of Science and Engineering
+Yayın sayfa url: http://asujse.aksaray.edu.tr/tr/pub/issue/68039/1097633
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2349464

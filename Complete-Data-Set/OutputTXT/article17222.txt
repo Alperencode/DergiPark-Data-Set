@@ -1,0 +1,7 @@
+Makale Başlığı: Petrie Paths in Triangular Normalizer Maps
+Özet: This study is devoted to investigate the Petrie paths in the normalizer maps and regular triangular maps corresponding to the subgroups $\Gamma_0(N)$ of the modular group $\Gamma$. We show that each regular triangular map admits a closed Petrie path. Thus, for each regular map, we find the Petrie length of the corresponding map.
+Yazar isimleri: ['Nazlı YAZICI GÖZÜTOK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Universal Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ujma/issue/72812/1150466
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2563723

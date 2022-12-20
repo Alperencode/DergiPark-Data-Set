@@ -1,0 +1,7 @@
+Makale Başlığı: Tax Avoidance and Corporate Governance Mechanisms: Evidence from Tehran Stock Exchange
+Özet: This study aims to investigate the relationship between certain mechanisms of corporate governance and tax avoidance in companies listed on the Tehran Stock Exchange during the years 2011-2015. In this regard, the effect of some corporate governance indices (number of board members, non-duty members, managerial ownership and institutional ownership) on tax avoidance was investigated. The sample comprises 104 companies listed in the Tehran Stock Exchange. Eviews software was used for analyzing the data and multiple regression was used to test the hypotheses. Results indicated that there is no significant relationship between number of board members, proportion of non-duty members, institutional ownership and tax avoidance. Furthermore, there is no significant relationship between managerial ownership and tax avoidance.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353609
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364648

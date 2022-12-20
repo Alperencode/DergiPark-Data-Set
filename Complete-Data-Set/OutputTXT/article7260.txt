@@ -1,0 +1,7 @@
+Makale Başlığı: DÜZENLİ YAPILAN EGZERSİZİN ÇOKLU ZEKA ÜZERİNE OLAN ETKİSİNİN ARAŞTIRILMASI
+Özet: ÖZETYapılan bu çalışmanın amacı, düzenli yapılan egzersizin çoklu zeka üzerine olan etkisini araştırmaktır. Çalışma grubunu 18- 26 yaş aralığında 20 birey oluşturmaktadır. Çalışmada veri toplama aracı olarak, Çoklu Zekâ Alanlarında Kendini Değerlendirme Envanteri kullanılmıştır.  Verilerin çözümlenmesinde SPSS 20 paket programı kullanılmıştır. Verilerin analizinde öncelikli olarak veri seti hatalı değer, aykırı değer ve çoklu bağıntı açısından incelenmiştir. Bu süreçte hatalı olarak girilen veri olmadığı gözlenmiştir. N sayısı parametrik testler için uygun olmadığından parametrik olmayan test uygulanmıştır.  Verilerin çözümlemesinde tanımlayıcı istatistik ve Wilcoxon İlişkili İki Örneklem Testi uygulanmıştır. Anlamlılık düzeyi p < .05 alınmıştır. Çalışmanın sonunda, bütün zeka boyutlarında ilk ve son ölçüm arasında istatistiksel olarak anlamlı bir farklılık belirlenmiştir.
+Yazar isimleri: ['Oğuzhan YILDIRIM', 'Merve FERAH TAZEGÜL']
+Yayın Yılı: 29 Aralık 2021
+Dergi ismi: Iğdır Üniversitesi Spor Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/igdirsbd/issue/66854/1035307
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2126831

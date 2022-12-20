@@ -1,0 +1,7 @@
+Makale Başlığı: Antibacterial potential of different red seaweed (Rhodophyta) extracts against ornamental fish pathogen Salmonella arizonae
+Özet: This study evaluated the antibacterial effects of different red seaweed (Kappaphycus striatus, Eucheuma denticulatum, Hydropuntia edulis) against Salmonella arizonae that caused disease in goldfish Carassius auratus. In vitro antibacterial susceptibility was determined using a standard disc diffusion assay. Further in vivo experiments were conducted on seaweeds with the highest zone of inhibition. Results showed that K. striatus had the highest zone of inhibition with 30.9 ±0.62 mm followed by H. edulis (29.6 ±1.61 mm), and E. denticulatum (27.6 ±0.51 mm). Promisingly, the antibacterial activity of seaweeds tested was comparable with that of cefixime, trimethoprim, and novobiocin and was significantly higher than the other seven antibiotics tested in this study. Moreover, the in vivo treatment of K. striatus to S. arizonae challenged C. auratus significantly decreased the mortality; the positive control group attained 100% mortality while the treated group had 40% mortality after 10 days of post-infection. This study showed the potential use of K. striatus to control S. arizonae infection in aquarium fishes.
+Yazar isimleri: ['Jomel LİMBAGO']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Aquatic Research
+Yayın sayfa url: http://aquatres.scientificwebjournals.com/tr/pub/issue/72048/1062677
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2211413

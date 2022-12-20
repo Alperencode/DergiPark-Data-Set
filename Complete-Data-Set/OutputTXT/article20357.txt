@@ -1,0 +1,7 @@
+Makale Başlığı: AN ANALYSIS OF THE CAUSALITY RELATIONSHIP BETWEEN BITCOIN ELECTRICITY CONSUMPTION, PRICE AND VOLUME
+Özet: Bu çalışma fiyat ve işlem hacmi açısından kripto para piyasasının en önemli enstrümanı olan Bitcoin’in elektrik tüketimi ile fiyatı ve işlem hacmi arasındaki nedensellik ilişkisini analiz etmeyi amaçlamaktadır. Çalışmada Bitcoin elektrik tüketimi değişkeni Cambridge Bitcoin Elektrik Tüketim Endeksi ile temsil edilmektedir. Araştırmada Şubat 2017 ile Şubat 2021 tarihleri arasındaki 1446 günlük veri seti kullanılmıştır. Değişkenler arasındaki nedensellik ilişkisi Hatemi-J (2012) ve Toda Yamamoto (1995) testleri kullanılarak analiz edilmiştir. Ayrıca bu çalışma, Schinckus vd. (2020) tarafından yapılan çalışma ile birlikte Bitcoin elektrik tüketimi ile işlem hacmi asrasındaki ilişkiyi inceleyen ender çalışmalardan biridir. Bu çalışmanın sonuçlarına göre Bitcoin elektrik tüketimindeki düşüş Bitcoin fiyatında düşüşe neden olmaktadır. Ancak bu çalışmada Schinckus vd. (2020) tarafından yapılan çalışmaya benzer olarak zayıf ama negatif bir ilişki tespit edilmiştir.
+Yazar isimleri: ['Yakup SÖYLEMEZ', 'Samet GÜRSOY']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Journal of Research in Business
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jrb/issue/70563/1018901
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2062804

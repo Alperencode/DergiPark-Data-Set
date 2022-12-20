@@ -1,0 +1,7 @@
+Makale Başlığı: Hızölçer Genişband Sismometrelerde, Sismik Sinyal Neden Doyuma Ulaşır?
+Özet: Deprem izlemede kullanılan hız algılayıcılarının  dinamik aralıkları  165dB civarında  olmasına rağmen, şiddetli deprem dalgalarının oluşturduğu yer hareketi hızı aşırı güçlü olduğundan, bu cihazların ürettiği veriler, kırpılmakta ve kullanılamaz hale gelmektedir.Ulusal ölçekte, depremleri gözlemleyen Türkiye’deki en önemli kurulumlar, Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü (KRDAE) ile Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) genişband sismometre kullanmaktadır. Van yakınlarında, 23.10.2011 tarihinde meydana gelen depremde (Mw=7,2) genişbant sismometrelerin kaydettiği dalga şekli verilerinin çoğu doyuma ulaşması sonucu, sinyalin üstten ve/veya alttan kırpılmasıyla depremin büyüklüğü ve yerinin belirlenmesi konusunda bazı sıkıntılar yaşanmıştır. Ülkemizde, genişband sismometreler doyuma ulaşmaz inanışını değerlendirmek amacı ile algılayıcıların neden doyuma ulaştıkları hakkında bulgular verilecektir.
+Yazar isimleri: ['Süleyman TUNÇ', 'Berna TUNÇ', 'Deniz ÇAKA']
+Yayın Yılı: 15 Eylül 2022
+Dergi ismi: Kocaeli Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/koufbd/issue/70941/1116486
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2427017

@@ -1,0 +1,7 @@
+Makale Başlığı: CREATING AN INFORMATION SYSTEM REGARDING TO THE CONSTRUCTION, MAINTENANCE AND REPAIR OF ROADS: THE CASE OF MANISA – SARUHANLI
+Özet: In this study, it is aimed to establish a Geographic Information System (GIS) related to the roads within the borders of Saruhanlı district of Manisa province and to analyze the data obtained from the GIS, and to reveal the feasibility of preliminary work on the maintenance and the repair of roads. The locations of the roads within the boundaries of the district were transferred to the GIS system with the master zoning plan and the implementation zoning plan studies and using satellite images. Various data related to the roads and bridges and culverts on the roads, which will be required during the preliminary work on maintenance and repair, were entered into the program after the existing projects and on-site field investigations. With the optional query of the created GIS system, it has been seen that the information that may be needed during the maintenance and repair works can be easily accessed and the results can be obtained in the desired shape and format.
+Yazar isimleri: ['Murat YAŞA', 'Tülin ÇETİN']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Mühendislik ve Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogummf/issue/72210/1022769
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2078263

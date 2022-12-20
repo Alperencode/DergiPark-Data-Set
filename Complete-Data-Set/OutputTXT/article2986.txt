@@ -1,0 +1,7 @@
+Makale Başlığı: Effects of calcium concentration, calcium chelators, calcium channel-blockers on Hsp70a expression in Chlamydomonas reinhardtii
+Özet: In this study, calcium concentration, calcium chelators, and calcium channel blockers that could be effective in triggering the heat shock response in Chlamydomonas reinhardtii were investigated. For this purpose, continuously expressed and heat-inducible transformant C. reinhardtii strains were used, and heterologously expressed arylsulfatase activities were detected. After a short time of heat shock at 40°C, cultures were shifted to 23°C and different concentrations of calcium (0-1 M CaCl2), EGTA (0-50 mM), BAPTA (0-2 mM), lanthanum (0-300 µM), gadolinium (0-350 µM), and verapamil (0-100 µM) applications were performed. To compare the arylsulfatase activity results at the transcript level, HSP70A expression level was analyzed. Arylsulfatase activity was increased with the increase of the calcium concentration, in the presence of calcium chelators, blockers, and parallel results were obtained in HSP70A expression level. These findings support that both extracellular and intracellular calcium influx is effective in the heat shock response of C. reinhardtii.
+Yazar isimleri: []
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Biotech Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/biotechstudies/issue/68214/1069555
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2238169

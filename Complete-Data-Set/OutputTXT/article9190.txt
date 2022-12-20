@@ -1,0 +1,7 @@
+Makale Başlığı: The features of the InGaAs/InP detectors in plasma converter systems
+Özet: The features of the plasma cell with the InGaAs/InP detector are explored. The detector is composed of InGaAs and InP wafers. Mean electron energies, migrative electron flux and current densities are evaluated by theoretical simulation analyses. The results helped to understand the uncertain plasma parameters and made the plasma structure more understandable, thereby, the complex plasma reactions can be solved via the COMSOL package. New plasma studies have focused on uniform discharges. However, the optimization of the plasma structure should be ascertained in order to explain the complex physical and chemical features in the complicated media having different discharge mechanisms. The non-thermal plasmas are famous especially for the microelectronic systems and surface processes such as etching and purification.
+Yazar isimleri: ['Hilal KURT', 'Selçuk UTAŞ']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Journal of Energy Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jes/issue/73468/1105215
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2381153

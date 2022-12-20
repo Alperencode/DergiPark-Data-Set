@@ -1,0 +1,7 @@
+Makale Başlığı: Finansal Başarısızlık Riski Firma Değeri Örüntüsü: Avrupa Konaklama İşletmelerinden Kanıtlar
+Özet: Bu araştırmanın amacı, Avrupa konaklama sektöründe faaliyet gösteren konaklama işletmelerinin finansal başarısızlık riski ile firma değeri arasındaki ilişkiyi belirlemektir. Konaklama işletmelerine ait finansal başarısızlık risklerinin firma değeri üzerindeki etkisi, araştırma doğrultusunda oluşturulan Genelleştirilmiş Momentler Yöntemi (GMM) ile test edilmiştir. Yapılan analizler sonucunda Fulmer H Skoru, Ohlson Skoru ve Springate Skoru modellerine göre konaklama işletmelerinin finansal başarısızlık riskleri azaldıkça firma değerlerinin arttığı belirlenmiştir. Finans literatüründe konaklama işletmelerinin finansal başarısızlığının finansal performans üzerindeki etkisini inceleyen sınırlı sayıda araştırma bulunmaktadır. Bu bağlamda çalışma, turizm ve finans literatürüne katkı sağlayarak konaklama işletmelerinde finansal başarısızlık riski ile firma değeri arasındaki ilişkiyi ortaya koymaya çalışmaktadır.
+Yazar isimleri: ['Erdinç KARADENİZ', 'Ömer İSKENDEROĞLU', 'Cemile ÖCEK']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1054745
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2180167

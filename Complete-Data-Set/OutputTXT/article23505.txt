@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of Mobile Technology Use in Mathematics Teaching on Academic Achievement: A Meta-Analysis Study
+Özet: The current study examines the effect of mobile technology use in mathematics teaching on academic achievement. Accordingly, the meta-analysis method was employed. The data for this study was obtained from 17 reports that were found by searching for the determined keywords in the determined databases and met the inclusion criteria. In these studies, 22 different effect sizes were determined. Only studies carried out in Turkey were included in the study. The data were analyzed using Comprehensive Meta-Analysis software (CMA) software. The effect sizes were calculated as Hedges' g. The results obtained showed that the effect size of mobile technology use in mathematics teaching on academic achievement is 2.063. This finding indicates that mobile technology use in mathematics teaching has a significant impact on academic achievement. Based on the findings of the present study, mobile technology use can be recommended to increase academic achievement in mathematics.
+Yazar isimleri: ['Feyyaz ÖZTOP']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Muş Alparslan Üniversitesi Eğitim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/maunef/issue/70625/1082558
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2288859

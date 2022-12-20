@@ -1,0 +1,7 @@
+Makale Başlığı: Fibonacci Lacunary Ideal Convergence of Double Sequences in Intuitionistic Fuzzy Normed Linear Spaces
+Özet: The purpose of this article is to research the concept of Fibonacci lacunary ideal convergence of double sequences in intuitionistic fuzzy normed linear spaces (IFNS). Additionally, a new concept, called Fibonacci lacunary convergence, is examined. Also, Fibonacci lacunary I₂-limit points and Fibonacci lacunary I₂-cluster points for double sequences in IFNS have been defined and the significant results have been given. Additionally, Fibonacci lacunary Cauchy and Fibonacci lacunary I₂-Cauchy double sequences are worked.
+Yazar isimleri: ['Ömer KİŞİ']
+Yayın Yılı: 9 Eylül 2022
+Dergi ismi: Mathematical Sciences and Applications E-Notes
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mathenot/issue/68767/931071
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1744819

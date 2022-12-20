@@ -1,0 +1,7 @@
+Makale Başlığı: JAPONCADAKİ EŞ DİZİMSEL VEYA DEYİMSEL ANLAMLAR  -DİJİTAL ORTAMDAKİ ÇEVİRİ UYGULAMALARI ÜZERİNE-
+Özet: Dijitalleşme çağının en büyük getirilerinden biri olan teknolojik araçların kullanım yaygınlığı, her alanda olduğu gibi eğitim alanında da çeviri uygulamalarına olan ilgiyi gün geçtikçe artırmaktadır. Bu çalışma, çeviri uygulamaları aracılığıyla Japoncadan Türkçeye yapılan çevirilerde eş dizimsel veya deyimsel anlama sahip yapıların genel kullanıcıya aktarılırken, ne derece uygun şekilde çevrildiğini analiz etmek amacıyla yapılmıştır. Araştırma, Google Translate ve Reverso adındaki iki çeviri platformunun karşılaştırılarak, bahsi geçen yapıların nasıl ve ne doğrulukta çevrildiklerini anlamak için uygulamaların çevrimiçi olarak kullanılması yöntemiyle yapılmıştır. Başlıca üç ad durum eki ile kalıplaşmış halde kullanılan yapılar tablolaştırılmıştır. Bu yapılar arasında「を(wo)」ad durum ekinin yer aldığı「ad + wo + eylem」biçimine sahip oluşumların diğerlerine nazaran daha sık kullanıldığı tespit edilmiştir. Ayrıca çeviri uygulamaları aracılığıyla yapılan çeviri analizlerinde, Google Translate platformunun %50-60 oranında doğruya yakın bir çeviri hizmeti sunduğu, bu oranın Reverso için %10-20 civarında olduğu gözlemlenmiştir.
+Yazar isimleri: ['Ümmühan Sare ÇİFTÇİ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Pamukkale Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/pausbed/issue/73609/1173551
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2643434

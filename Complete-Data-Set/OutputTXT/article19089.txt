@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Democracy and Openness on Tax Revenues: Panel Regression Analysis for OECD Countries (1980-2018)
+Özet: Tax revenues are the type of revenue that has the highest share in the public revenues of countries. In addition, it is one of the tools of the fiscal policy applied in economic crises. The fact that countries have a democratic or autocratic structure is one of the factors affecting the level of tax revenues. In this study, it is aimed to analyze the relationship between democracy and openness rates and tax revenues for the period covering the years 1980-2018 for 24 OECD countries. In the model, the ratio of tax revenues to GDP (tax burden) as the dependent variable and the democracy and openness ratio indicators are estimated using the Driscoll-Kraay Estimator as the independent variables. As a result of the study, it was concluded that the level of democracy and the trade openness ratio have a positive effect on the tax burden. Therefore, developing democracy and supporting foreign trade have a positive effect on tax revenues.
+Yazar isimleri: ['Ahmet ŞAHBAZ', 'Şerife KOÇ', 'Ayşe CEYLAN']
+Yayın Yılı: 14 Eylül 2022
+Dergi ismi: Fiscaoeconomia
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fsecon/issue/72567/1097399
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2348477

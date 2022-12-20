@@ -1,0 +1,7 @@
+Makale Başlığı: Improved Oil-Water Separation Performance of Polylactic Acid by Halloysite Nanotube Incorporation
+Özet: In this study, polylactic acid (PLA)-based nanocomposite membranes were prepared and used for the purification of simulated oil/water based wastewater. The lubricant oil (lubricating oil) was chosen as model oil. In order to increase the hydrophilicity of the membrane and improve its filtration performance, 0-20 wt.% of Halloysite nanotubes (HNT) were added into the PLA matrix. The effects of the HNT ratio on the oil/water swelling ratios (adsorption ratio), water flux, and oil rejection were determined. According to the results, optimal flux-oil rejection results were obtained with 5 wt.% of HNT incorporated nanocomposite membranes. The highest oil rejection of 94.9% was obtained using 5 wt.% of HNT incorporated membrane with a flux value of 1542.9 LMH.
+Yazar isimleri: ['Filiz UĞUR NİGİZ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of the Turkish Chemical Society Section B: Chemical Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jotcsb/issue/70634/1106829
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2387928

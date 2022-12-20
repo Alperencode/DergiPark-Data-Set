@@ -1,0 +1,7 @@
+Makale Başlığı: Artificial Intelligence Techniques in Sugar Beet Production
+Özet: Sugar production has begun with the industrial revolution to supply the need for the sweeteners and the main source of energy in human body. Sugar is most commonly produced from sugar beets and sugar canes. In this study, the authors aim to provide a perspective to potential researchers in "artificial intelligence applications in sugar beet production" with a literature review in said field.
+Yazar isimleri: ['Yasin ÇİÇEK', 'Ahmet ULUDAG', 'Eyyüp GÜLBANDILAR']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: Eskişehir Türk Dünyası Uygulama ve Araştırma Merkezi Bilişim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/estudambilisim/issue/68981/1102769
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2371420

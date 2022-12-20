@@ -1,0 +1,7 @@
+Makale Başlığı: A Synopsis of Machine and Deep Learning in Medical Physics and Radiology
+Özet: Machine learning (ML) and deep learning (DL) technologies introduced in the fields of medical physics, radiology, and oncology have made great strides in the past few years. A good many applications have proven to be an efficacious automated diagnosis and radiotherapy system. This paper outlines DL's general concepts and principles, key computational methods, and resources, as well as the implementation of automated models in diagnostic radiology and radiation oncology research. In addition, the potential challenges and solutions of DL technology are also discussed.
+Yazar isimleri: ['Zohal EMAM']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Journal of Basic and Clinical Health Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jbachs/issue/72779/960154
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1852371

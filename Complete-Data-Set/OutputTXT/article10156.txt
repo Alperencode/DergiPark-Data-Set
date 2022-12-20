@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Dolarizasyonun Belirleyicileri
+Özet: Türkiye’de 2001 finansal krizinden sonraki yıllarda aşılan dolarizasyon sorunu son yıllarda yeniden ortayaçıkmıştır. Bu çalışma, 2006:01-2020:12 döneminde dolarizasyona neden olan temel ekonomik faktörleri tespitetmeyi amaçlamaktadır. İlk olarak, kesirli frekanslı Fourier ADF birim kök testi kullanılarak değişkenlerindurağanlık durumları analiz edilmiştir. Dolarizasyon, enflasyon ve reel faiz değişkenlerinin I(1), döviz kurudeğişkeninin ise I(0) olduğu tespit edilmiştir. Daha sonra değişkenler arasındaki nedensellik ilişkisini araştırmakiçin kesirli frekanslı Fourier Toda-Yamamoto nedensellik testinden yararlanılmıştır. Elde edilen bulgular, sözkonusu değişkenler arasında enflasyon oranının dolarizasyonun tek belirleyicisi olduğunu göstermektedir. Dövizkuru ve reel faiz oranı ise dolarizasyonu ancak enflasyon üzerinden dolaylı olarak etkilemektedir. Dolayısıyla antienflasyonist politikaların dolarizasyonla mücadelede en önemli araç olduğunu ifade etmek mümkündür.
+Yazar isimleri: ['Mustafa Orhan ÖZER']
+Yayın Yılı: 29 Mart 2022
+Dergi ismi: Karadeniz Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ksbd/issue/69152/1068713
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2234631

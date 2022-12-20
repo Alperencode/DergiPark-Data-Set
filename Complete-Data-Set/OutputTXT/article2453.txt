@@ -1,0 +1,7 @@
+Makale Başlığı: Axial Flux Motor Design for Ventilation Fans Used in The Automotive Industry
+Özet: In this paper, it was aimed to carry out the design, electromagnetic analysis of a 3 phase and 6 phase, axial flux  permanent magnet synchronous motor with power level of 240W and 3000rpm speed. The motors were designed for an automotive ventilation fan of the HVAC system, each with the same outer volume, output power, and core material. Finite element analysis (FEA) was employed to observe the characteristics of each motor The performance of 3-phase 12/10, and a 6-phase 12/10 axial flux permanent magnet motor (AFPM )are analyzed and compared.. Lastly, experiments were done and the results were compared. The main goal of this study is to observe fundamental differences between each motor and give a general guideline on the characteristics of AFPM
+Yazar isimleri: ['Tuba KOCAER', 'Yasemin ÖNER']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/1120298
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2443119

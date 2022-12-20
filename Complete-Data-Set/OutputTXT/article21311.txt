@@ -1,0 +1,7 @@
+Makale Başlığı: YAZILIM DESTEĞİ İLE KANTİTATİF KARAR VERME: SİYASİ PARTİLERDE ÖRNEK BİR UYGULAMA
+Özet: Karmaşık yapıdaki karar problemlerini ele almak konusunda klasik mantık ve klasik küme kavramı yetersiz kalmaktadır. Bulanık mantık, bu ihtiyaca etkili biçimde cevap vermektedir. Araştırmalar göstermektedir ki parti içi aday belirleme süreçlerinde kararlar genellikle merkezden bir yönetim vasıtasıyla sezgisel olarak alınmaktadır. Bu çalışmada, aslında bulanık girdileri olan parti içi aday gösterme süreçleri kantitatif bir analiz ile ele alınmakta, rasyonel ve objektif bir yöntem önerilmektedir. Çalışmada bir parti için aday belirleme sürecinde adayın sahip olması gereken özellikler belirlenmiş, bu özelliklerin önem derecesi uzman görüşü ile saptanmış ve uygun bir çözüm modeli önerilmiştir. Bu çözüm modeli bir web tabanlı bir bilgisayar program ile desteklenmiştir.
+Yazar isimleri: []
+Yayın Yılı: 5 Ağustos 2016
+Dergi ismi: Trakya Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/trakyafbd/issue/23018/246138
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/213977

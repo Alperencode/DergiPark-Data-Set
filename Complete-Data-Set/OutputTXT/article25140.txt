@@ -1,0 +1,7 @@
+Makale Başlığı: Separation of Wheat Seeds from Junk in a Dynamic System Using Morphological Properties
+Özet: 
+Yazar isimleri: ['Esra KAYA', 'İsmail SARITAŞ', 'İlker Ali ÖZKAN']
+Yayın Yılı: 25 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/270632
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/237223

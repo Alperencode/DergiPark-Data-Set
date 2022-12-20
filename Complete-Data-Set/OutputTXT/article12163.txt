@@ -1,0 +1,7 @@
+Makale Başlığı: The Kernel Of Fuzzy and Anti-Fuzzy Rings
+Özet: In this article, using the previously studied fuzzy concept, the concept of a fuzzy ring, the kernel of the anti-fuzzy ring, and the subring are defined, respectively. We have shown that these kernels have the same properties as rings in the ordinary algebraic sense. Also, basic information about fuzzy rings and anti-fuzzy rings is given. In the introductory part of the study, our main topic, Fuzzy and anti-fuzzy ring kernel, which forms the basis; definitions of fuzzy logic are given as well as definitions of classical groups and rings. In the main part, our subject has been proved by giving necessary definitions and theorems. In addition, the subject is explained by giving necessary examples related to the subject.
+Yazar isimleri: ['Mikail BAL']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Muş Alparslan Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/msufbd/issue/68818/1086150
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2303098

@@ -1,0 +1,7 @@
+Makale Başlığı: İlköğretim Matematik Öğretmeni Adaylarına Yönelik Çok Kültürlü Sınıflarda Öğretim ve Kendi Öğretme Uygulamaları Üzerinde Düşünme Fırsatları Ölçeğinin Geçerlik ve Güvenirlik Çalışması
+Özet: Bu araştırmanın amacı, uluslararası TEDS-Mçalışması için geliştirilmiş Çok Kültürlü Sınıflarda Öğretim ve Kendi ÖğretmeUygulamaları Üzerinde Düşünme Fırsatları Ölçeği’nin (Tatto vd., 2008) Türkçeformunun geçerlik ve güvenirliğini incelemektir. Araştırma Türkiye’nin yedifarklı bölgesinden rastgele seçilen birer üniversiteden toplam 583 ilköğretimmatematik öğretmeni adayı üzerinde yürütülmüştür. Açımlayıcı faktör analizisonucunda toplam açıklanan varyansın %72 olduğu ve maddelerin iki faktör altındatoplandığı görülmüştür. Doğrulayıcı faktör analizinde iki boyutlu modelin iyiuyum verdiği görülmüştür (χ2=192.37, sd=34, RMSEA=0.07,CFI=0.97, GFI=0.93, AGFI=0.88). Türkçe formda bulunan maddeler ile toplamarasındaki korelasyon katsayılarının 0.77 ile 0.91 arasında değiştiğibulunmuştur. Ölçeğin iç tutarlılık güvenirlik katsayıları çok kültürlüsınıflarda öğretim alt boyutu için 0.90 ve kendi öğretme uygulamaları üzerindedüşünme için 0.92 olarak bulunmuştur. Bu sonuçlar ölçeğin Türkçe formunun geçerlive güvenilir bir ölçme aracı olduğunu göstermektedir.
+Yazar isimleri: ['Serhat AYDIN', 'Derya ÇELİK']
+Yayın Yılı: 16 Ağustos 2017
+Dergi ismi: İlköğretim Online
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ilkonline/issue/31371/370879
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

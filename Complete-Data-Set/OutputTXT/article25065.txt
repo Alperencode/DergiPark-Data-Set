@@ -1,0 +1,7 @@
+Makale Başlığı: Impact of Vertical Integration on Electricity Prices in Turkey
+Özet: Government’s active participation in to the energy markets requires us to understand its vertical and horizontal integrated involvement. Coherently, in order to diversify their portfolios and reduce their business risks, vertical integration of the major private players in the market is another important topic. Under these market conditions market power becomes prominent. Our paper utilizes ARX models to analyze market power and portfolio diversification impact on electricity prices. In the aggregate models since we used high frequency time series data for all bidding hours of day ahead market, autoregressive structure within the system marginal prices vitiated the effect of power production type. Accordingly, we benefited different hours of the day as separate time series where a baseload (hour 24) and a peak hour (hour 11) were selected. The contribution of our paper to the policy debate is to highlight that such issues exist in the first place and that market power remains an important concern in Turkish electricity market.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351247
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361788

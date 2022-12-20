@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of the antifungal activity of lichen (Usnea longissima) extracts against Fusarium graminearum
+Özet: The aim of this study was to investigate the antifungal effects and molecular changes caused by Usnea longissima Ach. extracts against Fusarium greaminearum. In agar well diffusion assay, the zone of inhibition increased as the concentration increased in both of methanol and acetone extracts (1, 10, 20 and 50 mg/ml). In terms of bioactivities, 1 mg/ml was active, while other concentrations were very active. At the molecular level, changes caused by 50 mg/ml methanol extract was analyzed by qPCR with terms of cat, mst20, and tri5 genes, which are associated with antioxidation, apoptosis, and trichothecene production, respectively. Transcript levels of tri5 decreased (0.29 fold) while cat (2.41 fold) and mst20 (1.48 fold) increased. Findings from this study showed that U. longissima extracts could be natural antifungal agent against worldwide phytopathogen F. graminearum.
+Yazar isimleri: ['Asmar TAGHİYEVA', 'Ayşe Feyza TUFAN DÜLGER', 'Emre YÖRÜK', 'Tubanur ASLAN ENGİN']
+Yayın Yılı: 15 Kasım 2022
+Dergi ismi: Anatolian Journal of Botany
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ajb/issue/72085/1172113
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2637277

@@ -1,0 +1,7 @@
+Makale Başlığı: A PSO Tuned Fractional-Order PID Controlled Non-inverting Buck-Boost Converter for a Wave/UC Energy System
+Özet: 
+Yazar isimleri: ['Erdinc SAHIN', 'İsmail Hakki ALTAS']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/265971
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/232419

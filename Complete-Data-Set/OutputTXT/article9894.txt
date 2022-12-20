@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF CRUDE OIL PRICES ON THE REAL EFFECTIVE EXCHANGE RATE OF THE TURKISH LIRA: A QUANTILE ARDL APPROACH
+Özet: In this study, the possible short- or long-term effects of crude oil prices on the real effective exchange rate of Turkish Lira is examined with the help of the Quantile Autoregressive Distributed Lag (QARDL) model, which considers that the changes in oil prices may have an asymmetrical effect on the exchange rate. For this purpose, monthly data covering the period between January 2003 and July 2021 were studied, the stationarity and distribution of the series were first examined with the help of traditional tests, and then stationarities of the series, which were found to be not normally distributed, were also tested with the quantile augmented Dicky-Fuller (QADF) method. The findings show that crude oil prices do not have an effect on the real effective exchange rate in the long run, while they do in the short run and this effect is asymmetrical.
+Yazar isimleri: ['Semih KARACAN']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Kafkas Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kauiibf/issue/70698/1056865
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2188306

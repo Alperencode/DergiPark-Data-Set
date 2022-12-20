@@ -1,0 +1,7 @@
+Makale Başlığı: Yapay Bilinç Tartışmasında Biyolojik Doğalcı Yaklaşımın Hataları
+Özet: John Searle tarafından öne sürülen Biyolojik Doğalcı kuramın bir tarafı Church–Turing tezinden güç alan von Neumann mimarili dijital bilgisayarların neleri asla başaramayacağı üzerine iken diğer bir yanı zihin felsefesinde ikicilik olarak bilinen görüşlere karşı bilincin her yönüyle bilimsel, nesnel, üçüncü-şahıs bakış açısından araştırılabileceğini iddia etmektedir. Hem bilincin doğal dünyanın, öznel, asla indirgenemez, niteliksel ama biyolojik bir parçası olduğunu, hem de zihnin seri işlemcili, von Neumann mimarili dijital bilgisayarla taklit edilmesinin mümkün olduğunu kabul eden Searle, diğer yandan, güçlü yapay zekâ doktrininin temel hedefinin halen imkânsız olduğunu düşünmektedir. İçerik yüklü zihin, sentakstan ibaret programdan daha fazlasıdır. Bu kuramın tüm radikal sonuçlarının üstünde yükseldiği tek temel, sentakstan semantiğin çıkamayacağının, Searle tarafından, kavramsal bir doğru olarak kuvvetle benimsenmesidir. Tüm sorun, gelip kendisinin özdeşlik, indirgeme, eleyicilik, simülasyon, kavramsal doğruluk ve nedensellik terimlerini alışılmadık şekillerde kullanmasına dayanmaktadır.
+Yazar isimleri: ['Serdal TÜMKAYA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Kaygı. Bursa Uludağ Üniversitesi Fen-Edebiyat Fakültesi Felsefe Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kaygi/issue/72626/1092807
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2330278

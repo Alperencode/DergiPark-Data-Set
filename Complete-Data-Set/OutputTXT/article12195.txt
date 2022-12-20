@@ -1,0 +1,7 @@
+Makale Başlığı: Ceyhan Bölgesi Bazaltlarının Bazı Fiziksel ve Mekanik Özelliklerinin P Dalga Hızı ile Tahmini
+Özet: Bazalt, sertlik, dayanıklılık ve mukavemet özellikleri nedeniyle en önemli yapı malzemelerinden biridir ve yaygın olarak kullanılmaktadır. Bazaltları yapı malzemesi olarak kullanmadan önce birim hacim ağırlığı, su emme oranını, tek eksenli basınç dayanımını ve Brezilya çekme dayanımını gibi bazı özelliklerinin belirlenmesi gerekmektedir. Ancak, test prosedürleri ve numune hazırlama işlemleri çok zor ve zaman alıcıdır. Ayrıca bu test uygulamaları uzmanlık gerektirir. Bu çalışmada, bazaltların bazı fiziksel ve mekanik özelliklerini belirlemek için hızlı ve tahribatsız bir test metodu olan P dalga hızı (Vp) kullanılmıştır. Birim hacim ağırlığı, su emme oranı, tek eksenli basınç dayanımı ve Brezilya çekme dayanımının belirlenmesi için ampirik ilişkiler geliştirilmiştir. Vp ile birim hacim ağırlığı, su emme oranı, tek eksenli basınç dayanımı ve Brezilya çekme dayanımı arasında iyi korelasyon katsayıları elde edilmiştir.
+Yazar isimleri: ['Esma KAHRAMAN']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1169161
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2624967

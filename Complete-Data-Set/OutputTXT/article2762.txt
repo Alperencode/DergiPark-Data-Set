@@ -1,0 +1,7 @@
+Makale Başlığı: Realization of a Dual Axis Solar Tracking System
+Özet: The effective use of renewable energy sources is very important today. Energy resources are limited and it is necessary to make maximum use of renewable energy. In this study, a dual-axis solar tracking system was implemented in the photovoltaic system in order to obtain the maximum possible energy from solar energy. In the solar tracking system, chestnut material is used as the vertical holder in the mechanical arrangement, and iron is used as the solar panel holder. By using a total of 4 LDRs at 4 corners of the solar panel, Arduino-based solar tracking on vertical and horizontal axis was carried out. The solar panel power used in the system is 45W, a geared DC motor on the horizontal axis and a linear DC motor on the vertical axis. As a result of the implemented application, a system that performs sensitive sun tracking has been realized and higher efficiency has been obtained compared to a static PV system.
+Yazar isimleri: ['Mustafa Engin BAŞOĞLU', 'Recep ÜNSAL', 'Gökhan ÇAĞŞIRLIOĞLU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/991613
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1959017

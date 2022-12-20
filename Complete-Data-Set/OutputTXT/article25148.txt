@@ -1,0 +1,7 @@
+Makale Başlığı: A Multistage Deep Belief Networks Application on Arrhythmia Classification
+Özet: 
+Yazar isimleri: ['Gokhan ALTAN', 'Novruz ALLAHVERDI']
+Yayın Yılı: 25 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/270367
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/236932

@@ -1,0 +1,7 @@
+Makale Başlığı: Birds vs. Metalic Birds: A review of Bird Strikes in Aviation
+Özet: This study gathered statistical data about bird strikes from various countries, including Türkiye. The study aims to compare the bird strike events that occurred in Türkiye and other countries by investigating bird strike data analysis from targeted countries. In this context, data on bird strikes per 10000 flights, distribution of the number of birds strikes according to months, phases of flight, the components hit by the birds, and the time of the event occurred on a day were presented. The data includes findings from Türkiye, USA, UK, Australia, Finland, Iran, and Czechia. When the results were evaluated, it was concluded that bird strikes are an essential factor to consider for safety and risk management. It is crucial that countries must conduct regular reporting to manage this safety issue. With the help of appropriate modelling conducted via proper measurements, the industry will come a long way in solving the safety issues caused by bird strikes.
+Yazar isimleri: ['Rıdvan ORUÇ', 'Şafak AKTEMUR', 'Mehmet YAŞAR', 'Öztürk Özdemir KANAT']
+Yayın Yılı: 22 Kasım 2022
+Dergi ismi: Journal of Aviation
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jav/issue/73447/1152384
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2569905

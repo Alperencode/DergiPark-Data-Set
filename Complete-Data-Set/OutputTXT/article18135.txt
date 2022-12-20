@@ -1,0 +1,7 @@
+Makale Başlığı: Testing the effect of local macroeconomic indicators and global risk factors on the Turkish participation stock market: Evidence from quantile regression approach
+Özet: The purpose of this paper is to investigate the effect of Local Macroeconomic Indicators (LMI) and Global Risk Factors (GRF) on the participation index in the Turkish stock market from May 2011 to April 2021. Using the quantile regression approach (QR-A), we detect the impact of LMI and GRF across different market conditions: bull, bear and normal. The empirical results demonstrate that, among LMI, monetary policy related indicators CPI (SGB) merely influence KAT30 return at bearish market (bullish market); however, CDS negatively affects KAT30 return across all quantiles. When it comes to global risk factors, results show that KAT30 return is negatively affected by VIX across all quantiles except Q0.75 and Q0.95. This means that the VIX impact on KAT30 return is stronger during the bearish market. Yet, OVX and MSCI positively impact the index’ return across upper quantiles.
+Yazar isimleri: []
+Yayın Yılı: 15 Temmuz 2022
+Dergi ismi: Trends in Business and Economics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/trendbusecon/issue/71254/1144061
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2539359

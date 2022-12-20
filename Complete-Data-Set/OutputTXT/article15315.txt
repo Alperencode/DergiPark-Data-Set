@@ -1,0 +1,7 @@
+Makale Başlığı: Piyasa Çarpanlarıyla Performans Analizi: Borsa İstanbul’da İşlem Gören Turizm Şirketlerinin Entropi ve MOORA-Oran Yöntemleriyle İncelenmesi
+Özet: Çalışmada Borsa İstanbul’da işlem gören turizm şirketlerinin piyasa çarpanlarıyla performansları incelenmek istenmiştir. Bu amaçla 2014-2021 yılları arasında 8’er yıllık kesintisiz veriye sahip Borsa İstanbul’da işlem gören Kuştur Turizm, Martı Otel, Merit Turizm Yatırım, Pegasus, Tek-Art Turizm, Türkiye Hava Yolları, Ulaşlar Turizm, Utopya Turizm İnşaat, Yayla Enerji Üretim Turizm şirketlerinin hisse senedi fiyatları ve KAP’taki mali tablolarından yararlanılarak  fiyat/kazanç oranı, şirket değeri/FAVÖK oranı, piyasa değeri/defter değeri oranı, Tobin's q oranı, fiyat/satışlar oranı, şirket değeri /satışlar oranları hesaplanmıştır. Çalışmada şirketlerin negatif fiyat/kazanç oranı ve şirket değeri/FAVÖK oranlarına rastlandığından bu oranlar istatistiksel analizlerden çıkarılmış, kalan 4 oranın önem ağırlıkları çok kriterli karar verme yöntemlerinden Entropi metoduyla, performanslar ise MOORA yöntemiyle incelenmiştir. Sonuçlar; fiyat/satışlar oranı ve şirket değeri/satışlar oranın önem ağırlığının yüksek, Tek-Art Turizm ve Kuştur Turizm şirketlerinin performanslarının diğerlerinden iyi olduğunu göstermektedir.
+Yazar isimleri: ['Aykan COŞKUN', 'Hakan ÇETİNER']
+Yayın Yılı: 16 Haziran 2022
+Dergi ismi: Turizm Akademik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/touraj/issue/70329/1105334
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2381736

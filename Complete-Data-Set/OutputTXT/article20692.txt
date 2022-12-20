@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison of FOC and DTC for speed sensorless PMSM using
+Özet: In this study, direct torque control (DTC) and field oriented control (FOC) simulation study of a speed sensorless permanent magnet synchronous motor (PMSM) is carried out. The speed signal required for the control methods was obtained with a sliding mode observer (SMO). As a result of the study, current, speed (measured and estimated) and torque signals of PMSM were obtained. Total harmonic distortion (THD) and discrete wavelet transform (DWT) analysis of the obtained signals were performed to evaluate the performance of DTC and FOC. In addition, DTC and FOC comparisons were made using the root mean square error (RMSE) criterion for the measured and estimated speed signals. In this study, it was determined that the DTC and FOC methods are superior and deficient compared to each other.
+Yazar isimleri: ['Barış ÇAVUŞ', 'Mustafa AKTAŞ']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1114082
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2417202

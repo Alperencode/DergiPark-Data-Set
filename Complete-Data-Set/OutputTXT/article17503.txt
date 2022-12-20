@@ -1,0 +1,7 @@
+Makale Başlığı: EFFECTS OF HEIGHT ON WEIGHT OF LATTICE BEAMS WITH TRIANGULAR AND CRESCENT HEAD TYPES
+Özet: Especially since the beginning of the 19th century, steel, which has been used effectively in the building sector, is now a material that is involved in all kinds of construction activities. In addition to being durable and economical, the fact that steel is a sustainable material has a great effect on its wide usage area. In addition to the main bearing systems of buildings, it is also used effectively as bearing elements of roof systems. In this study, steel was used as a bearing element of the roof system. In this context, lattice beams with triangular and crescent head types were selected to pass the 30m roof span of an industrial building. In both types of caps, forms that will provide advantage 0 cm, 40 cm, 80 cm, 120 cm, 160 cm, 200 cm and 240 cm to the ceiling height of the space are designed. A total of 14 planar lattice beams were obtained by creating seven different shapes for each of the two cap types. Each beam was modeled in the SAP2000 program so that the optimum weight could be obtained. Then, depending on the weight, the planar lattice beams that give the optimum result for both each cap type and ceiling height gain were determined.
+Yazar isimleri: ['Zeynep İPEKÇİ', 'Mustafa KAVRAZ']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Yalvaç Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yalvac/issue/72335/1053264
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2174199

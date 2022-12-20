@@ -1,0 +1,7 @@
+Makale Başlığı: Dengeli iş yükü ataması için şoför çizelgeleme problemi: Bir lojistik firmasında uygulama
+Özet: 
+Yazar isimleri: ['Ömer ŞEKER', 'Hacı Mehmet ALAKAŞ', 'Ahmet CÜREBAL', 'Tamer EREN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Turkish Operations Management
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jtom/issue/70951/911888
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1693095

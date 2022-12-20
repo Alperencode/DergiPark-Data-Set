@@ -1,0 +1,7 @@
+Makale Başlığı: Konaklama İşletmelerinde Hizmet Alanı Algısının Müşteri Memnuniyeti ve Sadakati Üzerine Etkisi
+Özet: Araştırmada 5 yıldızlı konaklama işletmelerinde hizmet alan müşterilerin hizmet alanı algısının genel memnuniyet ve müşteri sadakati üzerindeki etkisi incelenmektedir. Araştırmada beş farklı ölçek kullanılmıştır. Hizmet alanı algısı ölçüm aracını oluşturan ortam koşulları, düzen-dekor ve işaretler ölçekleri geliştirilmiştir. Ayrıca genel memnuniyet ölçeği geliştirilmiş ve müşteri sadakati ölçeği uyarlanmıştır. Araştırmada anket tekniği kullanılmıştır. Veriler 5 yıldızlı otellerde konaklama yapmış Türk ve İngiliz müşterilerden Mayıs-Ekim 2021 tarihleri arasında tabakalı rasgele örnekleme yöntemiyle yüz yüze ve çevrimiçi kanallar aracılığıyla toplanmıştır. Araştırma verileri IBM SPSS Statistics 23 programı ve Smart PLS 3.3 programı kullanılarak analiz edilmiştir. Veriler normallik, geçerlik ve güvenilirlik, EFA, CFA, korelasyon ve regresyon analizleri yapılarak incelenmiştir. Araştırma sonucunda hizmet alanı algısının müşterilerin genel memnuniyeti ve müşteri sadakati üzerinde anlamlı ve pozitif bir etkisi olduğu belirlenmiştir.
+Yazar isimleri: ['Canan AYDIN', 'Osman Nuri ÖZDOĞAN', 'Tuğrul AYYILDIZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Güncel Turizm Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijctr/issue/71078/1130733
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2486374

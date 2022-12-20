@@ -1,0 +1,7 @@
+Makale Başlığı: İntegral sınır koşullu üçüncü mertebeden sınır değer probleminin çözümlerinin varlığı
+Özet: Bu çalışmada, yarı sonsuz aralık üzerinde tanımlı üçüncü mertebeden üç noktalı integral koşullu, η∈(0,∞)η∈(0,∞) sabit ve\R g:(0,∞)×R3⟶Rg:(0,∞)×R3⟶Rg:(0,∞)×\R3⟶\R Nagumo koşullarını sağlayan bir fonksiyon olmak üzere ϑ′′′(t)+r(t)g(t,ϑ(t),ϑ′(t),ϑ′′(t))=0,  t∈(0,∞),ϑ‴(t)+r(t)g(t,ϑ(t),ϑ′(t),ϑ″(t))=0,  t∈(0,∞),ϑ(0)=∫η0ϑ(s)ds,  ϑ′(0)=A,  ϑ′′(∞)=limt→∞ϑ(t)=Bϑ(0)=∫0ηϑ(s)ds,  ϑ′(0)=A,  ϑ″(∞)=limt→∞ϑ(t)=Bsınır değer probleminin sınırlı veya sınırlı olmayan çözümlerinin varlığı ispatlanmıştır. Schäuder sabit nokta teoremi ve alt ve üst çözümler yöntemi uygulanarak istenilen sonuca ulaşılmıştır.  Problemimizde uygun ve yeterli koşullar belirlenerek problemin en az bir çözümünün varlığı gösterilmiştir. Yarı sonsuz aralık üzerinde çalışılması zor olduğundan yarı sonsuz aralık üzerinde integral koşullu bu çalışma bu konuda yapılacak çalışmalar için litaratüre katkı sağlamış olacaktır. Ayrıca, bu sınır değer probleminin çözümleri sınırsız olabilir.
+Yazar isimleri: ['Erbil ÇETİN']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1000643
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1994255

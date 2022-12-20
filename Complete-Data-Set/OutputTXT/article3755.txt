@@ -1,0 +1,7 @@
+Makale Başlığı: Asmalarda Botryosphaeria Geriye Ölüm Hastalığıyla İlişkili Fungal Patojenlerin in vitro Sıcak Su Uygulamalarına Duyarlılıkları
+Özet: Bu çalışmada, asmalardan izole edilen bazı Botryosphaeriaceae türlerinin (Botryosphaeria dothidea, Diplodia seriata, Lasiodiplodia theobromae ve Neofusicoccum parvum) in vitro sıcak su uygulamalarına duyarlılıklarının saptanması amaçlanmıştır. İçinde steril distile su ve izolatların miseliyal agar disklerinin bulunduğu plastik santrifüj tüpleri 49-54 °C’de, 30 ve 45 dakika süreyle sıcak su uygulamalarına maruz bırakılmış ve türlerin termal ölüm noktası belirlenmiştir. Sonuçlar dört farklı fungal türün hatta bunların izolatlarının bile sıcaklık-süre kombinasyonundan aynı seviyede etkilenmediklerini göstermiştir. Aynı tür içerisinde bile sıcak su uygulamalarına karşı farklı duyarlılığa sahip izolatlar bulunmuştur. Türlere göre maksimum termal ölüm derecesi ve süre kombinasyonu şu şekilde olmuştur; B. dothidea: 54°C/30 dk, D. seriata: 49°C/45 dk, L. theobromae: 53°C/45 dk ve N. parvum: 52°C/45 dk. Bu çalışmanın sonuçları Türkiye’deki bazı Botryosphaeriaceae türlerinin sıcak su uygulamalarına oldukça tolerant olduğuna işaret etmektedir.
+Yazar isimleri: ['Davut Soner AKGÜL', 'Qamar Nawaz AWAN', 'Nurdan GÜNGÖR SAVAŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Çukurova Tarım ve Gıda Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cutarim/issue/70953/1072459
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2249324

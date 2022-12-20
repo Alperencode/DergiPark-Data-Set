@@ -1,0 +1,7 @@
+Makale Başlığı: 4-Dimensional 2-Crossed Modules
+Özet: In this work, we defined a new category called 4-Dimensional 2-crossed modules. We identified the subobjects and ideals in this category. The notion of the subobject is a generalization of ideas like subsets from set theory, subspaces from topology, and subgroups from group theory. We then exemplified subobjects and ideals in the category of 4-Dimensional 2-crossed modules. A quotient object is the dual concept of a subobject. Concepts like quotient sets, spaces, groups, graphs, etc. are generalized with the notion of a quotient object. Using the ideal, we obtain the quotient of two subobjects and prove that the intersection of finite ideals is also an ideal in this category.
+Yazar isimleri: ['Elis SOYLU YILMAZ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of New Theory
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnt/issue/72878/1148482
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2556279

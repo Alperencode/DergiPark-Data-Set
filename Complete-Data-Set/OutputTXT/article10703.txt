@@ -1,0 +1,7 @@
+Makale Başlığı: Erratum to "On $\beta $-Local Functions in Ideal Topological Spaces" and New Results
+Özet: In 2020, Powar et al. [P.L.  Powar, T. Noiri and S. Bhadauria, \textit{ On $\beta $-local functions in ideal topological spaces}, European Journal of Pure and Applied Mathematics, \textbf{13}(4), (2020), 758-765] introduced $\beta$-local functions and studied related properties.  The purpose of this paper is to show that Theorem $1(2)$, Theorem $2(4)$  and Theorem $3$ of Powar et al. [P.L.  Powar, T. Noiri and S. Bhadauria, \textit{On $\beta$-local functions in ideal topological spaces}, European Journal of Pure and Applied Mathematics, \textbf{13}(4), (2020), 758-765]  are not true. To disprove their claims, we provide a suitable example and justifications. Thus, we rectify their claims using our results and establish the correct results.
+Yazar isimleri: ['Murad ÖZKOÇ', 'Faical YACİNE ISSAKA']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1016366
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2053055

@@ -1,0 +1,7 @@
+Makale Başlığı: Seçilmiş İslam Ülkelerinde İnşaat Sektörünün Ekonomik Büyümedeki Rolü: Panel VAR Analizi
+Özet: Bu çalışmada, İslam ülkeleri özelinde inşaat sektörü ile ekonomik büyüme arasındaki ilişkinin incelenmesi amaçlanmaktadır. Çalışmada, verilerine ulaşılabilen 15 İslam ülkesi için 1995-2017 arası dönemi içine alan bir panel veri seti kullanılmıştır. Ekonometrik analizlerde Panel Vektör Otoregresyon (VAR) modeli tercih edilmiştir. Çalışmada gerçekleştirilen analizler sonucunda İslam ülkelerinde inşaat sektörü ile ekonomik büyüme arasındaki ilişkinin ilk dönemlerde pozitif yönlü olduğu görülürken, dönem uzadıkça söz konusu ilişkinin tersi yönünde bazı bulgulara ulaşılmıştır. Buradan hareketle, incelenen ülke grubu kapsamında inşaat sektörü ve ekonomik büyüme ilişkisinin uzun dönemde istikrarlı bir yapıda olmadığı sonucuna ulaşılmıştır. Ayrıca, kırılgan ülke ekonomilerinde inşaat sektörünün makroekonomik şoklardan önemli ölçüde etkilendiği ve istikrarlı bir ekonomik büyüme hedefine ulaşmak için, sektör için uygulanan politikaların yeniden gözden geçirilmesi gerektiği anlaşılmıştır.
+Yazar isimleri: ['Nesli BAŞARAN TORMUŞ']
+Yayın Yılı: 29 Ağustos 2022
+Dergi ismi: Bingöl Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/biibfad/issue/72366/935277
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1760752

@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of Unit Cell Height on the Ballistic Performance of the Body-Centered Lattice Structures
+Özet: Lattice structures, produced by metal additive manufacturing technology, can be a potential alternative in armor applications, which are important parts of defense technologies due to their shock wave damping, energy absorption and light-weight properties. Despite the fact that the protection of metal lattice structures against explosives has been frequently investigated in the literature, their perforation performance is rarely studied. In this research, numerical ballistic penetration tests were carried out with Johnson-Cook strength and failure model parameters by using LS-DYNA software. AlSi10Mg alloy was chosen as a lattice material, which has high energy absorption ability. Both width and length were chosen as 4 mm for the body-centered lattice structure, while eight different cell height (3, 4, 5, 6, 7, 8, 9 and 15 mm) were used as unit cell parameters. The results show that the ballistic performance of lattice structures could be improved by optimizing the unit cell height for the body-centered lattice structures.
+Yazar isimleri: ['Oktay KAYA', 'Hakan HAFIZOĞLU', 'Nazım BABACAN']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: International Journal of Innovative Engineering Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiea/issue/70503/1054219
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2178190

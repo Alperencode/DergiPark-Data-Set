@@ -1,0 +1,7 @@
+Makale Başlığı: The Role of Inflammatory Markers and the Modified Systemic Inflammatory Score in Bethesda Category 3 And 4 Patients for Prediction of Malignancy
+Özet: Management of Bethesda Category 3 and 4 patients remains a challenge. The modified systemic inflammatory score (mSIS) and other inflammatory parameters are used for prognosis assessment in various cancers. This retrospective study aims to explore prediction strength of the inflammatory parameters in Category 3 and 4 patients. One hundred and twenty three patients had undergone thyroidectomy for Category 3 and 4 fine needle aspiration biopsy (FNAB). The data of inflammatory markers including Neutrophil to lymphocyte ratio (NLR), lymphocyte to monocyte ratio (LMR), albumin to globulin ratio (AGR) and mSIS were evaluated retrospectively. There were no statistically significant difference in inflammatory parameters between benign and malignant patients and none of the inflammatory parameters had predictivity for thyroid cancer. Also in mSIS groups, thyroid cancer incidence were similar (P=0.684). Inflammatory parameters and mSIS were failed to predict thyroid cancer in patients who had category 3 and 4 FNAB.
+Yazar isimleri: ['Sönmez OCAK', 'Ömer Faruk BÜK', 'Ahmet Can SARI', 'Ahmet Burak ÇİFTCİ']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Black Sea Journal of Health Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bshealthscience/issue/68048/1122731
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2453299

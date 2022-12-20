@@ -1,0 +1,7 @@
+Makale Başlığı: CONVERGENCE IN INCOME INEQUALITY ACROSS THE EU-15
+Özet: The purpose of this study is to examine whether there is convergence in income inequality across the European Union-15 (EU-15) member countries over the 1988-2017 period. The system-GMM estimations suggest a significant convergence process in income inequality between EU-15 countries, but at higher values of the Gini coefficient. This ‘unpleasant’ result may indicate the inefficiency of extensive EU social and developmental projects and programs aimed at reducing national and regional disparities. The estimates also show more rapid convergence between the EU-15 countries when the country-specific economic and political control variables are included. On the other hand, our results indicate that an increase in FDI inflows leads to higher income inequality within individual countries while in countries where political rights and civil liberties are well established, income inequality tends to be lower.
+Yazar isimleri: ['Ali ARI', 'Raif CERGİBOZAN', 'Caner DEMİR', 'Hakan YETKİNER']
+Yayın Yılı: 26 Temmuz 2022
+Dergi ismi: Öneri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/maruoneri/issue/71406/1014672
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2046109

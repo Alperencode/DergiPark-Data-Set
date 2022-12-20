@@ -1,0 +1,7 @@
+Makale Başlığı: Environmental Approaches in Medical Laboratory Applications
+Özet: Medical laboratory practices have an important place in making clinical decisions. A wide variety of chemicals are used in continuous investigations and researches in medical laboratories. These substances have important effects on both human health and the environment. Therefore, the use of these substances requires attention. Solvents are among the most commonly used chemicals in laboratories. Therefore, the properties, cost and availability of the solvent, as well as its reliability and environmental friendliness are important. Especially in recent years, interest in environmental and economic laboratory applications has increased. Priority is given to methods using green solvents that do not require solvents or can replace conventional solvents in mandatory situations. Disposal of solvent wastes generated in laboratories is also an important issue of waste management. In this review, the features that should be considered in the selection of solvents that are frequently used in medical laboratories are summarized from an environmental perspective.
+Yazar isimleri: ['Burcu SEZGİN', 'Murat SOYSEVEN']
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: Anadolu Üniversitesi Mesleki Eğitim ve Uygulama Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anameud/issue/70499/1117171
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2429888

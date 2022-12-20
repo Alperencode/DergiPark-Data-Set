@@ -1,0 +1,7 @@
+Makale Başlığı: Co-derivative operators on BL-algebras
+Özet: In this study we establish and investigate multiplicative co-derivative operators on BL-algebras.  We also indicate that multiplicative co-derivative operators are more general operators than multiplicative interior operators and modal operators on BL-algebras. Furthermore, we describe relations between multiplicative co-derivative operators on BL-algebras and on the algebras of their regular elements.  Moreover, 𝟋-filters (𝟋-derivative systems) will be introduced on BL-algebras depending on any multiplicative co-derivative operator 𝟋 on BL-algebras.  We also show that some sets of BL-algebras are 𝟋-filters (𝟋-deductive systems) on BL-algebras.  Next, we will define quotient BL-algebra by means of any multiplicative co-derivative operator 𝟋 on BL-algebra and any 𝟋-derivative systems on BL-algebra.  Finally, we will define a new operator on the quotient BL-algebra with the aid of the operator 𝟋 and show that the new operator is a multiplicative co-derivative operator on the quotient BL-algebra.
+Yazar isimleri: ['Ahmet HAMAL']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1008069
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2020464

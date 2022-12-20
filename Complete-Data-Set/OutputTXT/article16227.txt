@@ -1,0 +1,7 @@
+Makale Başlığı: Hypogeometric Distribution and Related Discrete Time Point Process
+Özet: 
+Yazar isimleri: ['Stefanka CHUKOVA', 'Leda MİNKOVA']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Türkiye İstatistik Derneği İstatistik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijtsa/issue/72526/1040166
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2146575

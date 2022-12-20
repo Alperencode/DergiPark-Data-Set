@@ -1,0 +1,7 @@
+Makale Başlığı: Eski Binalarda Enerji Verimliliğini Artırma Yöntemlerinin Araştırılması: 2007'de İnşa Edilen Bir Okul Binası Üzerine Bir Vaka Çalışması
+Özet: Bu çalışmada 2007 yılında inşaatı tamamlan okul binasının enerji verimliliği etüdü gerçekleştirilmiştir. İlk olarak, yapı elemanları, ısıtma sistemi, boru tesisatı, aydınlatma sistemi üzerinde ölçümler gerçekleştirilerek enerji tüketimi ve atmosfere bıraktığı CO2 emisyon miktarı hakkında bilgilere ulaşılmıştır. Sonrasında binada enerji tüketiminin fazla ve verimsiz olduğu bölümlerde, ilgili standart ve yönetmelikler de göz önünde bulundurularak verimlilik artırıcı yöntemler doğrultusunda birtakım öneriler sunulmuştur. Önerilen bu iyileştirmeler ile binanın enerji tasarrufu, bu tasarrufun ekonomik değeri ve karbon emisyonundaki düşüş hesaplanmıştır. Çalışma sonucunda; birim alan başına 68.24 kWh/m2 miktar enerji ve 0.0135 tonCO2/m2 miktar karbon emisyon tasarrufu ile 334 379 kWh/yıl miktar enerji ve 66.18 tonCO2/yıl miktar karbon emisyon tasarrufu, birim alan başına 65,2 TL/m2 olmak üzere 319 653 TL yatırım maliyeti ve 6,1 yıl geri ödeme süresi hesaplanmıştır.
+Yazar isimleri: ['Esra AKGÜL', 'Erhan KAYABAŞI', 'Bülent ÖZDALYAN']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/924358
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1724225

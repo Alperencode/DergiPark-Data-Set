@@ -1,0 +1,7 @@
+Makale Başlığı: Centaurea balsamita Lam. ve Centaurea coronopifolia Lam. Türlerine Ait Farklı Ekstraktların Antimikrobiyal Aktivitesi
+Özet: Centaurea türleri Türk geleneksel tıbbında çeşitli hastalıkların tedavisinde yaygın olarak kullanılmaktadır. Bu çalışmada, Centaurea balsamita Lam. and Centaurea coronopifolia Lam.türlerinin kloroform, etil asetat, aseton ve etanol ekstraktlarının çeşitli bakterilere karşı (Bacillus cereus ATCC 14579, Bacillus subtilis ATCC 6633, Escherichia coli ATCC 25922, Escherichia coli ATCC 29988, Staphylococcus aureus ATCC 25923, Staphylococcus aureus ATCC 6538, Salmonella typhimurium ATCC 14028, Streptococcus salivarius RSHE 606) antimikrobiyal aktiviteleri broth mikrodilüsyon metodu kullanılarak araştırılmıştır. Sonuçlar, çalışmada test edilen mikroorganizmalara karşı bitki ekstraktlarının farklı ölçülerde antimikrobiyal aktiviteye sahip olduğunu göstermiştir. En yüksek antimikrobiyal aktiviteyi C. balsamita’nın kloroform ekstresi B. cereus’a karşı göstermiştir (0,039 µg/mL). Ayrıca, etanol ekstraktı dışında tüm ekstraktlar S. aureus suşlarına karşı yüksek antimikrobiyal aktivite göstermiştir (20 µg/mL).
+Yazar isimleri: ['Nuray YILDIRIM', 'Mehtap AKIN', 'Hatice TANER SARAÇOĞLU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Environmental Toxicology and Ecology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/etoxec/issue/72705/1160965
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2592236

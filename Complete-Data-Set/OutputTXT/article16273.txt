@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of Some Natural Environment Features of Fethiye-Gocek Special Environmental Protection Area By Geographical Information Systems
+Özet: Fethiye, which has many natural beauties due to its different geographical features and having a long sea coast, is a district of Muğla province. In 1988, 816.02 km2 of Fethiye district borders were declared as a special environmental protection zone. The coastal length of Fethiye-Göcek special environmental protection zone is 235 km, its marine area is 345 km² and its terrestrial area is 471 km². In addition, there are many areas protected by different protection statuses within the borders of the region. In this study, which aims to determine the natural environment characteristics of the Fethiye-Göcek special environmental protection region with geographic information systems (ARCGIS 10.1), the data of soil, geology, topography and hydrology features have been digitized and mapped. Numerical data and mapping of the sub-factors of soil and topography were also made. With this study, detailed data about the natural environment characteristics of the region have been obtained, and it is aimed to constitute an important base for other studies to be carried out in the region.
+Yazar isimleri: ['Zeynep R. ARDAHANLIOĞLU', 'Yahya BULUT', 'İsmail CİNAR']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Türkiye Peyzaj Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/peyad/issue/71542/1039753
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2144896

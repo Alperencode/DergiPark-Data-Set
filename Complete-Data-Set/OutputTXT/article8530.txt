@@ -1,0 +1,7 @@
+Makale Başlığı: Metaverse: Sanal Dünyadan Gerçek Gizlilik ve Güvenlik Problemlerine
+Özet: Metaverse günümüzde çok sık karşılaşılan bir terim olsa da 1990’lardan beri var olan, gerçek dünya benzeri yapay dünyalar veya 3 boyutlu dünyalar konseptidir. Her on yılda bir bilgi ve iletişim teknolojilerinde yaşanan büyük sıçramalarla birlikte; sanal gerçeklik, artırılmış gerçeklik, Web 3.0 gibi yeni teknolojilerin ve toplumsal yönlendirmenin de etkisiyle, daha önceki sıçramalarla beraber yaşanan veri güvenliği ve özel hayatın gizliliği sorunları yeniden gün yüzüne çıkmıştır. Bu çalışmada henüz kavramsal olarak tüm çerçevesi çizilmemiş, “Metaverse” kavramı ve metaverse’te karşılaşılabilecek veri güvenliği ve gizlilik sorunları değerlendirilmiştir. Kullanıcı profili oluşturma, kullanıcı gizliliği ve gizliliğe karşı önlemler değerlendirilmiş, güvenlik konusunda kimlik yönetimi, kullanıcı bilgilerinin korunması ve toplum yönetimine dair araştırma yapılmıştır.
+Yazar isimleri: ['Tugay MANDAL', 'Ahmet Bedirhan SAĞIR', 'Mehmet Nuri Alparslan ÖZTÜRK', 'Muhammed Yusuf UYSAL', 'Murat KÜLEKCİ', 'Banu Yeşim BÜYÜKAKINCI']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: İstanbul Sabahattin Zaim Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/izufbed/issue/70053/1130284
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2484622

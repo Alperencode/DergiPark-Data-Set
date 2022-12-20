@@ -1,0 +1,7 @@
+Makale Başlığı: Güç Mesafesinin Demografik Niteliklerle Birlikte Sosyal Sermaye Üzerine Etkisi
+Özet: Bu araştırma güç mesafesinin demografik özelliklerle birlikte sosyal sermaye üzerindeki etkisini araştırmak amacıyla gerçekleştirilmiştir. Araştırma verisi anket tekniği ile toplanmıştır. Katılımcıların tanımlayıcı bilgi formunda, güç mesafesi ölçeğinde ve sosyal sermaye ölçeğinde yer alan ifadelere cevap vermesi istenmiştir. Malatya Organize Sanayi Bölgesi Tekstil sektöründeki işletme çalışanları araştırmanın anakütlesini oluşturmaktadır. Anakütle içinden kolayda örneklem yöntemi ile seçilmiş toplam 401 çalışana anket uygulanmıştır. Bu nedenle araştırmanın örneklemi 401 çalışandan oluşmaktadır. Toplanan verinin analizinde öncelikle Cronbach Alpha güvenirlik testi yapılmıştır. Ardından hipotezlerin testi için çok yönlü regresyon analizi uygulanmıştır. Sonuç olarak güç mesafesinin demografik özelliklerle birlikte sosyal sermaye ve onun öğeleri olan güven, norm ve sosyal ağlar üzerinde etkili oldukları saptanmıştır.
+Yazar isimleri: ['Lutfiye OZDEMİR', 'Fatma YAYİK']
+Yayın Yılı: 2 Temmuz 2022
+Dergi ismi: Pamukkale Üniversitesi İşletme Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/piar/issue/71093/1083944
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2294405

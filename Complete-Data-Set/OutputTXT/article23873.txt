@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of quantum barrier height on the linear and nonlinear optical properties of GaAs/AlGaAs Quantum Well
+Özet: In this paper, we have considered the electronic and optical properties of GaAs/AlxGa1-xAs quantum well for different quantum barrier heights (QB). Under effective mass approximation, the finite element method is used to simulate wavefunctions and corresponding energy eigenvalues for two different quantum barrier heights in the absence of external fields. We have shown that except for the ground state, the first and second excited energy states have shifted up with increased QB heights which results in slight blue shifts in transition energies. It is shown that QB heights have no effect on the refractive index change of the (1-2) transition but the refractive index change of the (2-3) transition is decreasing with higher QB heights. In addition, it is seen that QB has a negligible effect on in absorption properties of both (1-2) and (2-3) transition but the intensity of the (2-3) transition is 2.5 times higher than (1-2) transition that makes (2-3) transition more suitable for any device application to have more efficient devices.
+Yazar isimleri: ['Didem ALTUN', 'Kenan ALTUN', 'Behçet Özgür ALAYDİN']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Teknik Meslek Yüksekokulları Akademik Araştırma Dergisi
+Yayın sayfa url: http://artes.cumhuriyet.edu.tr/tr/pub/issue/71402/1129574
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2481592

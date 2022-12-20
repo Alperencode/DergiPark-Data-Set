@@ -1,0 +1,7 @@
+Makale Başlığı: Sağlık Harcamalarının Medikal Ürün İhracatı Üzerindeki Etkisi: E7 Ülkeleri Örneği
+Özet: Bu çalışmada gelişmekte olan ülkeler grubunda yer alan E7 ülkelerinde (Türkiye, Çin, Hindistan, Rusya, Endonezya, Brezilya ve Meksika) sağlık harcamalarının medikal ürün ihracatı üzerindeki etkisinin analiz edilmesi amaçlanmıştır. Bu bağlamda, 2000-2017 dönemini kapsayan çalışmada öncelikle serilerin durağanlığını sınamak için MADF birim kök testi, serilerin homojenliğini-heterojenliğini belirlemek amacıyla Swamy S testi ve son olarak, nedensellik ilişkini belirleyebilmek için Dumitrescu-Hurlin Panel nedensellik testi uygulanmıştır. Bulgular sonucunda, serilerin birinci farkta durağan ve heterojen olduğu ve iki değişken arasında çift yönlü nedensellik ilişkisi olduğu saptanmıştır. Hem sağlık harcamaları medikal ürün ihracatını hem de medikal ürün ihracatı sağlık harcamalarını etkilemiştir. Böylece, ülkelerin sağlık harcamaları arttığında medikal ürün ihracatı da artmakta, medikal ürün ihracatı arttığında sağlık harcamaları da artmaktadır.
+Yazar isimleri: ['Elif Tuğçe BOZDUMAN', 'Birol ERKAN']
+Yayın Yılı: 29 Ekim 2022
+Dergi ismi: İktisadi İdari ve Siyasal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iktisad/issue/72676/1144254
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2540166

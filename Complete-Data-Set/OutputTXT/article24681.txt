@@ -1,0 +1,7 @@
+Makale Başlığı: Solar Radiation Modeling with Adaptive Approach
+Özet: The unsustainable formation of fossil fuels, increase theinterest on different resources and  thisleads to greater emphasis on clean resources. Solar energy is one of thepopular sources among the renewables. Electricity generation from PV panelsdirectly related to the solar radiation value measured on surface of the panel.Modeling of solar radiation is important due to manage the integration ofdifferent sources to the grid. In this study, previously developed AdaptiveApproach method is used for modeling the solar radiation values. This methodcombines linear prediction filter method with an empiric approach. Linearprediction filter used in this study utilize the current value of the solarradiation to predict next hour’s solar radiation value while the empiricmodel utilize from the current value of the solar radiation and the deviationon extraterrestrial radiation. One year solar radiation data belong to Vanregion is used in this study. The accuracies of the forecasting results arecompared and discussed.
+Yazar isimleri: ['Emre Akarslan', 'Fatih Onur Hocaoglu']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/369782
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826683

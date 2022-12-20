@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Gamification on Learner Motivation: A Meta-Analysis Study
+Özet: Although plenty of research has been carried out in order to determine the effect of gamification on learner motivation, a specific meta-analysis hasn’t been encountered in the relevant literature. The purpose of this study was to combine the experimental research results examining the effect of gamification on learner motivation and conducted between the years of 2010-2017 through a meta-analysis. The random effects model was used in the study and the mean value for the effect size was estimated to be Hedges’ g = .54. The obtained Hedges’ g value corresponds to the moderate level of effect. Within the scope of the present study, the sub-group analyses for the type of publication, the country where the research was conducted and the number of elements used in the design were also performed and it was determined that the effect size did not differ significantly according to the relevant sub-groups. Some suggestions were made in line with the research results.
+Yazar isimleri: ['İbrahim YILDIRIM', 'Sevilay ÇIRAK-KURT']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Education Reform Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erjournal/issue/71262/893347
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1626047

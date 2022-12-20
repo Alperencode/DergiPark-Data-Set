@@ -1,0 +1,7 @@
+Makale Başlığı: Pell-Lucas collocation method to solve high-order linear Fredholm-Volterra integro-differential equations and residual correction
+Özet: 
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783622
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

@@ -1,0 +1,7 @@
+Makale Başlığı: COVİD-19 SÜRECİNDE KATILIM BANKALARI İLE ÖZEL MEVDUAT BANKALARININ PERFORMANS DEĞERLENDİRMESİ: TÜRKİYE ÖRNEĞİ
+Özet: Bu çalışmada amaç COVİD-19 öncesi dönem ile pandeminin devam ettiği 2020 ve 2021 verileri aracılığıyla katılım bankaları ile mevduat bankalarının bu durumdan etkilenme düzeyinin farklı olup olmadığının ortaya konmasıdır. Bu kapsamda örneklem olarak seçilmiş beş özel mevduat bankası ile beş katılım bankası karlılık, risk ve borç ödeme gücü, likidite, aktif kalitesi ve sermaye yeterliliği bakımından oran analizi yöntemi ile değerlendirilmiştir. Katılım bankaları ile mevduat bankaları arasındaki oransal farklılıkların istatistiksel olarak anlamlı olup olmadığı ise t-testi ile sınanmıştır. Elde edilen sonuçlara göre pandemi sürecinde aktif kalitesi bakımından katılım bankalarının daha verimli olduğu, bunun haricindeki değişkenlerde anlamlı bir farklılık olmadığı sonucuna ulaşılmıştır.
+Yazar isimleri: ['Harun Reşit GÜRÇAY', 'Canan DAĞIDIR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Finansal Ekonomi ve Bankacılık Uygulamaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ufebud/issue/68706/1066656
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2226771

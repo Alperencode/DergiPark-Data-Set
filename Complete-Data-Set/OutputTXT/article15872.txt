@@ -1,0 +1,7 @@
+Makale Başlığı: Alternatif Bir Su Kaynağı Olarak Yağmur Suyu Hasadı
+Özet: Canlıların yaşamsal faaliyetlerini devam ettirmedeki en önemli unsurun su olduğu bilinen bir gerçektir. Dünyada artan nüfus, teknolojideki gelişmeler, sanayileşme, iklim değişikliği gibi faktörler suya olan talebi her geçen gün daha da arttırmaktadır. Yeryüzünde var olan su kaynaklarının çok az kısmı tatlı ve kolay kullanılabilir türdendir. Doğada bir döngü halinde olan suyun sabit kaldığı gerçeğinden hareketle su talebindeki artış insanoğlunu alternatif kaynak arayışına yöneltmiştir. Dünyada birden çok alternatif su kaynağı mevcuttur (gri su, tuzdan arındırılmış su, biriktirme sistemleri, yağmur suyu hasadı vb.). Kurulumu ve uygulaması hem basit hem de daha ekonomik olarak görülen yağmur suyu hasadı havza alanına düşen yağışın toplanarak kullanım amacına göre bir depo veya tankta biriktirilmesidir. Depolanan yağmur suyunun farklı alanlarda kullanılması (tuvalet sifonu, çamaşır yıkama, sulama vb.) asli tatlı su kaynaklarının tüketimini azaltarak su kaynaklarının yönetimine ve korunmasına katkı sağladığı açıktır.  Bu çalışmada yağmur suyu hasadı tüm yönleri ile güncel literatür ışığında tartışılmıştır.
+Yazar isimleri: ['Songül BÖRÜ', 'Z.fuat TOPRAK']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Türk Hidrolik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turhidder/issue/70673/1112859
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2412318

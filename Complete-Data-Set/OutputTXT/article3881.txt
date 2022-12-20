@@ -1,0 +1,7 @@
+Makale Başlığı: ULUSAL MEVZUAT PERSPEKTİFİNDE BİLGİ İŞLEM BİRİMLERİNİN  İÇ DENETİMİNDE BİR KONTROL LİSTESİ ÖNERİSİ
+Özet: İç Denetçiler yaptıkları denetimleri standartlar ve regülasyonlara dayandırmaktadırlar. Literatürde bilişim sistemleri denetiminde kullanılan uluslararası standartlar ve siber güvenlik konusunda çokça çalışma olmakla beraber ülke regülasyonları hakkında fazlaca çalışma bulunmamaktadır. Gerçekleştirilen çalışmada, Türkiye kamu bilişim yöneticileri ve iç denetçilerine fayda sağlamak ve literatüre katkı sunmak amacıyla kamu kurumlarının uyması gereken mevzuatın derlemesi yapılarak kamu iç denetçileri açısından bir denetim kontrol listesi ortaya konulmuştur.
+Yazar isimleri: ['Yenal ARSLAN', 'Halil İbrahim ÖZBİLGER']
+Yayın Yılı: 15 Kasım 2022
+Dergi ismi: Denetişim
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/denetisim/issue/73424/1126790
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2469863

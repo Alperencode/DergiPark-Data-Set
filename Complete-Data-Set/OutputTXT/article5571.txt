@@ -1,0 +1,7 @@
+Makale Başlığı: Boşluklu Köpük Dolgulu Ince Duvarlı Tüplerin Enerji Absorpsiyon Davranışı Üzerine Deneysel Çalışma
+Özet: Hafif enerji emiciler elde etmek için farklı çekirdek yapılarına sahip ince cidarlı profiller değerlendirilmektedir. Bu çalışmada, boşluklu köpükler alüminyum tüplere doldurulmuştur. Boşluklu köpükler, epoksi reçine ve genleştirilmiş camdan oluşturulmuştur. Boş tüplerin ve boşluklu köpük dolgulu tüplerin enerji absorpsiyon davranışı, statik eksenel sıkıştırma testi ile araştırılmıştır. Tüp ve köpük arasındaki etkileşim ve bunun deformasyon modu üzerindeki etkisi araştırılmıştır. Spesifik enerji absorpsiyonu, enerji absorpsiyon etkinliği, ilk tepe yük, ortalama yük gibi çeşitli parametreler karşılaştırılmıştır. Geliştirilen boşluklu köpüğün aluminyum boruya ilavesi spesifik enerji absorpsiyonunda %42 iyileştirme sağlamıştır.
+Yazar isimleri: ['Kenan ÇINAR']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: European Journal of Engineering and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejeas/issue/71559/1127903
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2474553

@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Havaalanı Performansının CRITIC temelli EDAS Yöntemiyle Analizi
+Özet: Bu çalışmanın amacı 2013-2019 döneminde Türkiye’de kamu tarafından (DHMİ) işletilen havaalanlarının performansının ortaya çıkarılmasıdır. Çalışmada kapsamında belirlenen 15 kriter, yolcu sayısı açısından en büyük 10 havaalanı alternatifi için CRITIC temelli EDAS yöntemi kullanılarak performans analizini ortaya çıkarılmıştır. Çalışmanın sonuçları, 2013-2019 döneminde bazı havaalanlarının performansında kayda değer değişimlerin meydana geldiğini göstermektedir. Buna karşın bulgular, ilgili dönemde meydana gelen krizlerin havaalanı performans sıralamasında önemli bir değişikliğe neden olmadığına işaret etmektedir.
+Yazar isimleri: ['Kasım KİRACI', 'Cemal DURMUŞÇELEBİ']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Anemon Muş Alparslan Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anemon/issue/72306/964827
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1866488

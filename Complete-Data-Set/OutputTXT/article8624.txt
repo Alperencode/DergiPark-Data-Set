@@ -1,0 +1,7 @@
+Makale Başlığı: SPSS ile İstatistik Rehberi Doç. Dr. İbrahim Demir İstanbul: Efe Akademi Yayınları, 2020, 1. Baskı,
+Özet: Bu çalışmada Doç. Dr. İbrahim Demir tarafından yazılan “SPSS ile İstatistik Rehberi” isimli eser incelenmiştir. Eserin ilk baskısı Eylül 2020 tarihinde Efe Akademi Yayınları tarafından yayınlanmıştır. Bu kitap özellikle sosyal bilimler ve eğitim bilimleri alanında lisans ve yüksek lisans derslerinde okutulan temel istatistik ve istatistiksel analiz dersleri için kullanılabilir. Ayrıca bu alanlarda bilimsel araştırma yapan kişilere analiz ve raporlama konusunda önemli bir rehber olabileceği düşünülmektedir.
+Yazar isimleri: ['Hasan Aykut KARABOĞA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: İstatistik ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsas/issue/70765/1093958
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2334779

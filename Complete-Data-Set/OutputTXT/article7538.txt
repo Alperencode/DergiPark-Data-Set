@@ -1,0 +1,7 @@
+Makale Başlığı: A fuzzy multi-criteria decision-making approach for the assessment of forest health applying hyper spectral imageries: A case study from Ramsar forest, North of Iran
+Özet: 
+Yazar isimleri: ['Behnam KHORRAMİ', 'Khalil VALİZADEH KAMRAN']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: International Journal of Engineering and Geosciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeg/issue/68445/940166
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1778810

@@ -1,0 +1,7 @@
+Makale Başlığı: Makine Öğrenmesi Yöntemleri ile Banka Müşterilerinin Kredi Alma Eğiliminin Karşılaştırmalı Analizi
+Özet: Bankacılık, müşterilerle sık sık iletişime girilmesi gereken bir sektördür. Bankalar müşterilerine, onların durumlarına uygun bir kredi vermek istediğinde müşteriyi telefonla ararlar. Çoğu zaman müşteri, teklif edilen krediyi reddeder, bu da müşteriyle iletişime geçen personelin zamanından büyük bir kayıptır. Bu çalışmada, banka müşterilerinin verilerinin bulunduğu veri seti ele alınarak ve çeşitli makine öğrenmesi sınıflama modelleri kullanılarak müşterinin kredi alıp almayacağı tahmin edilmiştir. Elde edilen çalışma sonuçlarına göre, makine öğrenmesi yöntemleri ile müşterinin kredi alma eğilim tahmini başarılı bir şekilde gerçekleşmiştir. Çalışma sonucunda K-Best uygulanan modellerin arasında doğruluk değeri en yüksek olan sınıflandırıcı modelinin %98,86 ile Rastgele Orman algoritması olduğu, özellik seçimi yapılmadan eğitilen modellerin arasında en yüksek olan modelin %93,66 ile Rastgele Orman algoritması olduğu, cross-validation ve grid search ile eğitilen modellerin arasında ise en yüksek değerin %98,6 ile Rastgele Orman algoritmasında olduğu görülmüştür.
+Yazar isimleri: ['Ali Tezcan SARIZEYBEK', 'Onur SEVLİ']
+Yayın Yılı: 21 Eylül 2022
+Dergi ismi: Zeki Sistemler Teori ve Uygulamaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jista/issue/70283/1036047
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2129957

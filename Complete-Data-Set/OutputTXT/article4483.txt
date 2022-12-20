@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Genotoxic Effects of Imazamox Herbicide on Zebrafish (Danio rerio) Using Micronucleus Assay
+Özet: Imazamox is an imidazolinone herbicide; it is an acetalactacetase (ALS) / acetylhydroxyacid (AHAC) inhibitor and is widely used for weed control. In this study, the genotoxic effect of the commercial formulation of imazamox was investigated in zebrafish peripheral blood cells in vivo using the micronucleus (MN) method. Fishes were treated at three different concentrations of imazamox (3, 6, 12 mg L-1) for 24, 48, 72 and 96 hours. At the highest concentration (12 mg L-1), it was observed that all fish died in all treatment periods. According to 24, 48 and 96 h treatment results; compared to the negative control, it was determined that the MN frequency increased as the concentration increased. These results show us that imazamox herbicide may have genotoxic potential for aquatic organisms. Further studies should be conducted to investigate the mechanisms that are effective in the genotoxicity of imazamox.
+Yazar isimleri: ['Pınar GÖÇ RASGELE', 'Guncha MEREDOVA', 'Şerife Gülsün KIRANKAYA']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/1050245
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2164055

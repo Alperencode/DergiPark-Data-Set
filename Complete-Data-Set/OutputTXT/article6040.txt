@@ -1,0 +1,7 @@
+Makale Başlığı: Drug Delivery Application of Poly (2-hydroxyethyl methacrylate)/Ethylene glycol Dimethacrylate Composite Hydrogel
+Özet: Hydrogels have become advantageous materials used in biomedical applications as catheter, soft contact lenses or drug carrying vehicle due to their advantageous features like biocompatibility, insoluble property in aqueous solutions, their resistance to environmental conditions like pH, temperature. Periodontitis is an inflammatory disease which leads to the loss of tissue attachment, gingival recession, tooth loss or periodontal pocket formation. In this study, it was aimed to develop antibiotic loaded hydrogels composed of HEMA and EGDMA for the possible treatment of periodontitis. The in vitro drug delivery characteristics were determined with amoxicillin, which was selected as a proper antibiotic sample for the treatment of periodontitis. In conclusion, the H1 named hydrogel sample was proven to have a possible performance as an amoxicillin reservoir. 
+Yazar isimleri: ['Nihal ERMİŞ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/947687
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1805963

@@ -1,0 +1,7 @@
+Makale Başlığı: THE RELATIONSHIP BETWEEN TECHNOLOGICAL CHANGE AND ECONOMIC GROWTH:  AN APPLICATION ON TURKEY
+Özet: Technology, which is defined as the use of knowledge in production, is accepted as the most important element of economic productivity and competition. The theories that explain the effect of technological development on economic growth is generally based on the neo-classical tradition brought forward by Solow, and according to these theories, the source of technological development is assumed to be external. In the endogenous growth models that have come to the fore since the late 1980s, it is stated that the growth is determined internally by the technological change that results from the profit maximization decisions of the economic actors. This study analyzes the effect of technological development on the economic growth in the Turkish economy for the period of 1990-2019 with GDP per Capita, Gross Capital Formation, Labor Force Participation Rate and R&D/GDP variables that were obtained from the websites of the World Bank and the Turkish Statistical Institute. According to the results of this study conducted with the VAR and Johansen Cointegration Analysis methods, it can be stated that technolojical development affects economic growth positively. 
+Yazar isimleri: ['Mehmet Akif KARA', 'Tuba AKSU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Economics and Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jer/issue/72768/1078623
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2273281

@@ -1,0 +1,7 @@
+Makale Başlığı: A Comparison on Performances of Differential Evolution Algorithm and Genetic Algorithm in Determining the Biasing Parameter k of Ridge Regression
+Özet: Ridge Regression is a very common way of the remedies for dealing with the “multicollinearity problem” in multiple regression analysis. Although it can provide much more consistent estimates than the ordinary least squares does, there is still a problematic issue in the use of Ridge Regression, which is the choice of biasing parameter k. In this study we propose the use of some Artificial Intelligence Algorithms, such as genetic and differential evolution, for choosing the optimal k value by not allowing to increase too much the mean absolute prediction error while reducing the variation inflation factors and condition number.
+Yazar isimleri: ['Vedide Rezan USLU', 'Mehmet Arif DEMİRCİ']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: İstatistik Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsstr/issue/73878/1190571
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2714324

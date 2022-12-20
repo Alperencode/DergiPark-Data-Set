@@ -1,0 +1,7 @@
+Makale Başlığı: CAUSAL LOOP DIAGRAM IN FRUIT-VEGETABLE LOSSES
+Özet: System behaviors that make it easier to understand and describe the interactions that determine the dynamics of a system arise from within the system and are the result of many causal loops (or feedback loops). Causal Loop Diagrams show how the structure produces the behavior. A causal loop diagram is a diagram that shows how different variables in a system help to visualize each other. The diagram consists of a series of nodes and arcs. Nodes represent variables and arcs represent connections or relationships between variables. A positive link indicates a positive causal relationship, and a negative link indicates a negative causal relationship. Fruits and vegetables continue their lives after harvest, their quality decreases and losses occur. Istanbul is an important consumption center and almost all of the products are transported from long distances. In the study, it is aimed to reduce losses with a holistic approach to the subject by creating a Causal Loop Diagram to reduce losses from farm to fork.
+Yazar isimleri: ['Yaşar Birol SAYGI']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Gıda
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gida/issue/73077/1200949
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2757791

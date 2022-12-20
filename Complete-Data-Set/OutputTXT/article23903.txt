@@ -1,0 +1,7 @@
+Makale Başlığı: Model Proposal for Testing Websites in Multiple Browsers: Case of Selenium Test Tool
+Özet: Otomatik yazılım testi, manuel yazılım testi ile karşılaştırıldığında kritik avantajlara sahiptir. Selenium test aracı, uzmanların web uygulamalarını ya da web sitelerini otomatik olarak test etmek için kullandığı test araçlarından biridir. Bu test aracı, Selenium IDE, Selenium RC, Selenium WebDriver ve Selenium Grid olmak üzere 4 yazılım bileşeninden oluşur. Bu makalenin temel amacı, Selenium WebDriver’ı kullanarak birden fazla tarayıcıda web sitesi testi için önerilen bir modeli uygulamaktır. Selenium WebDriver, bir web tarayıcısının eylemlerini yönetmek için gereklidir. Selenium WebDriver ile ilgili web tarayıcıları (chrome, edge, firefox) arasında köprü kurmak için sürücülere ihtiyaç vardır. Modelin diğer bileşenleri Python, Unittest ve PyCharm bileşenleridir. PyCharm, test senaryosu komutlarını yazma editörü olarak kullanılmıştır. İlgili web sitesine bir olumlu ve bir olumsuz senaryo uygulanmıştır. 3 tarayıcıdaki otomatik test senaryolarının sonuçları PyCharm ekranında raporlanmıştır. Sonuç olarak, otomatik test sonuçları manuel test sonuçları tarafından desteklendiğinden önerilen modelin doğrulaması gerçekleşmiştir.
+Yazar isimleri: ['Cem Ufuk BAYTAR']
+Yayın Yılı: 13 Eylül 2022
+Dergi ismi: Topkapı Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjssd/issue/72569/1138960
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2519278

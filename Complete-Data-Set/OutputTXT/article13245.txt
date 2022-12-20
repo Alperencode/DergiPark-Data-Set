@@ -1,0 +1,7 @@
+Makale Başlığı: On the global behavior of the rational difference equation \(y_{n+1}=\frac{\alpha_n+y_{n-r}}{\alpha_n+y_{n-k}}\)
+Özet: 
+Yazar isimleri: ['Mohamed Amine KERKER', 'Abdelouahab SALMİ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/974156
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1890756

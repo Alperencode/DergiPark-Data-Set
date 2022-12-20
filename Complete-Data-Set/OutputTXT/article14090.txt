@@ -1,0 +1,7 @@
+Makale Başlığı: KOMPOZİT PLAKALARIN DARBE DAVRANIŞINI ETKİLEYEN FAKTÖRLER ÜZERİNE BİR ÇALIŞMA
+Özet: Bu çalışmada; cam elyaf takviyeli epoksi kompozit plakaların darbe davranışını etkileyen faktörler üzerine bir çalışma yapılmıştır.  Darbe davranışını etkileyen faktörler arasında darbe enerjisi, numune kalınlığı, vurucu ucu geometrisi ve ortam şartları ele alınmıştır.   Enerji seviyesi (40J, 80J, 100J), numune kalınlığı (2 mm ve 4 mm), deniz suyu ortamı (3 ve 6 ay) , vurucu ucu geometrisine (10 mm ve 20mm) bağlı olarak elde edilen kuvvet-çökme miktarı değişimleri incelenmiştir. Çalışma sonucunda kompozit plakların  darbe davranışları üzerine  darbe enerjisinin , numune kalınlığının , vurucu ucu geometrisinin  ve deniz suyu ortam şartlarının etkisinin olduğu görülmüştür. Özellikle; darbe enerjisinin artması, numune kalınlığının ince olması ve ince numunelere vurucu ucu çapının küçük seçilmesi  durumlarında numunelerin  darbe dayanımları daha fazla azalmakta ve delinme hasarı meydana geldiği görülmüştür.
+Yazar isimleri: ['Ümran ESENDEMİR']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Soma Meslek Yüksekokulu Teknik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/somatbd/issue/71302/1118204
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2434577

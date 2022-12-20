@@ -1,0 +1,7 @@
+Makale Başlığı: Güneş kolektörlerinde hegzagonal bor nitrür-su nanoakışkanının kullanımının ısıl performans üzerindeki etkilerinin incelenmesi
+Özet: Bu çalışmada parabolik güneş kolektöründe kullanılan toplayıcı bir borunun içine dikdörtgen spiral bir kanatçık eklenilmesi ve nanoakışkan kullanımının ısıl performansa olan etkileri sayısal olarak incelenmiştir. Kanatçığın boru uzunluğu boyunca spiral sarım sayısı değiştirilerek dört adet model geometri oluşturulmuştur. Toplayıcı borunun içinden Hegzagonal Bor Nitrür-Su (hBN-su) nanoakışkanının geçtiği kabul edilmiştir. Nano akışkanın hacimsel karışım oranları %0 ile %4 aralığında değiştirilmiştir. Akış laminer bir akıştır ve Reynolds sayısı sabit 1500 değerinde alınmıştır. Farklı parametreler için Hesaplamalı akışkanlar Dinamiği yardımı ile analizler yapılmıştır. Çalışmanın sonucunda, nanoakışkan içindeki hBN partikülünün hacimsel karışım oranı artırıldıkça ısı transferinin arttığı gözlemlenmiştir. Ayrıca toplayıcı boru içerisine eklenen kanatçığın sarım sayısının artırılması da ısı transferini artırmıştır. Toplayıcı boruya kanatçık eklenmesi ve hBN nanoakışkanının kullanımı ile, kanatçıksız ve içinden sadece su akan bir toplayıcı boruya göre, ısı taşınım katsayısının değeri yaklaşık %284 Nusselt sayısının değeri ise yaklaşık %256 artış göstermiştir.
+Yazar isimleri: ['Enes Arda SAMUR', 'Tolga DEMİRCAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bor Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/boron/issue/72782/1113557
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2415214

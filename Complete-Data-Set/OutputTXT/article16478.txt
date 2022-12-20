@@ -1,0 +1,7 @@
+Makale Başlığı: Güncel Metasezgisel Algoritmalarla PID Ayarlama
+Özet: Uygulamalarda sistemlerin kontrolü son derece önemlidir. Bu amaçla uygun denetleyicilerin tasarlanması gerekmektedir. En popüler denetleyicilerin başında PID'ler gelmektedir ve bunların tasarımı için geleneksel yöntemler mevcuttur. Son yıllarda PID katsayılarının ayarlanması için metasezgisel algoritmalardan da faydalanılmaktadır. Gerçekleştirilen çalışmada PID türü denetleyicilerin tasarımını, farklı performans kriterlerine göre altı güncel metasezgisel algoritma ile yapan etkileşimli grafiksel kullanıcı arayüz programı tasarlanmıştır. Tekli veya karşılaştırmalı tasarımlar gerçekleştiren, sayısal ve grafiksel çözümler sunan, ayrıntılı analiz ve sentezlere olanak sağlayan bu yazılım aracıyla denetleyici katsayılarının ayarlanması kolay, hızlı ve etkin şekilde yapılabilmektedir. 
+Yazar isimleri: ['Fahri VATANSEVER', 'Emre HACIİSKENDEROGLU']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uludağ Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uumfd/issue/71647/1090766
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2321760

@@ -1,0 +1,7 @@
+Makale Başlığı: Ampisilinin Sn/Sb/Ni-Ti Anotlarla Elektrokimyasal Olarak Giderimine Çeşitli Parametrelerin Etkisi
+Özet: Bu çalışmada, ampisilin antibiyotiği içeren atıksuların elektrokimyasal oksidasyonunda yeni nesil Sn/Sb/Ni-Ti anotların uygulanabilirliğinin araştırılması amaçlanmıştır. Elektrolit olarak değerlendirmek üzere sodyum klorür ve potasyum klorür olmak üzere iki farklı tür tuz kullanılmıştır. Ancak, potasyum klorür ile giderim verimleri daha yüksek bulunmuştur. Potasyum klorür ile ampisilin ve kimyasal oksijen ihtiyacının tamamen giderilmesi sırasıyla 5 ve 60 dakika reaksiyon süresi sonunda gerçekleşirken; sodyum klorür ile sırasıyla 5 ve 90 dakika sonra gerçekleşmiştir. Sonuç olarak optimum elektrokimyasal reaksiyon koşulları 750 mg L-1 potasyum klorür ilavesi, pH 8 ve 50 mA cm-2 akım yoğunluğu olarak bulunmuştur. Bu çalışmanın sonucunda, ampisilinin bozunması için yeni nesil Sn/Sb/Ni-Ti anotları ile elektrokimyasal oksidasyon prosesleri, daha az reaksiyon süresi ihtiyacı, tam mineralizasyonun sağlanması ve pH ayarlama adımına ihtiyaç duyulmaması açısından gelecekteki uygulamalar için bu konuda umut verici görünmektedir.
+Yazar isimleri: ['Ayşe KURT', 'Taner YONAR']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazimmfd/issue/72928/1011142
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2032101

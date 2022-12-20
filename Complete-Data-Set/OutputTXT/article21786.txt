@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Data Granularity on Temperature Gradient Modeling in Michigan’s Streams
+Özet: 
+Yazar isimleri: ['Halil İbrahim DERTLİ']
+Yayın Yılı: 25 Temmuz 2022
+Dergi ismi: Türkiye Su Bilimi ve Yönetimi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjwsm/issue/70496/1084423
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2296367

@@ -1,0 +1,7 @@
+Makale Başlığı: A new generalization of Szasz-Kantorovich operators on weighted space
+Özet: The purpose of this article is to define a new generalization of Szász-Kantorovich operators. First, by using the Korovkin theorem on the new operator we define, its convergence properties and rates are examined. Then, the Voronovskaja-type theorem for the new operator is proven. Additionally, with the help of the modulus of continuity in the weighted space, rate of convergence the new operator is examined, and a theorem is proven for the operator we define by using functions that satisfy the Lipschitz condition. Finally, the convergence is demonstrated more clearly by numerical examples and plots.
+Yazar isimleri: ['Harun ÇİÇEK', 'Shaymaa JAMEEL ZAİNALABDİN', 'Aydın İZGİ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjos/issue/72750/1171225
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2633456

@@ -1,0 +1,7 @@
+Makale Başlığı: Examining the Concept of Contagion for Developed and Developing Countries: The Case of the 2008 Crisis
+Özet: In the study, the effect of the 2008 Global Financial Crisis on the stock markets was investigated with empirical methods. The sensitivities of stock market indices against CPI, CDS premium and 10-Year Bond Yield were estimated for the pre-crisis and post-crisis periods, and the results were compared between developed and developing countries. The findings show that the 2008 Global Financial Crisis affected countries with its severity and sphere of influence. In the study, it was determined that the sensitivity of the stock markets of developing and some developed countries (such as Italy and Japan) to the S&P500 index and CDS premium increased in general after the crisis. In addition, it is seen that these countries are vulnerable to the US markets and cannot isolate themselves from the negative conditions of the crisis stemming from the USA.
+Yazar isimleri: ['Büşra ÖZDEMİR', 'Eşref Uğur ÇELİK', 'Mehmet KARAN']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: İstanbul Gelişim Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/igusbd/issue/73093/862071
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1512200

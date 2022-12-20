@@ -1,0 +1,7 @@
+Makale Başlığı: SPOR KULÜPLERİNİN HİSSE SENEDİ GETİRİLERİNİN DAVRANIŞSAL FİNANS AÇISINDAN DEĞERLENDİRİLMESİ
+Özet: Ekonomik ve kültürel örgütlenmeler içerisinde her geçen gün giderek büyüyen spor, dünyanın değişen ekonomik ve sosyal koşulları göz önüne alınarak yeniden değerlendirilmesini zorunlu hale getirmektedir. Spor bir taraftan geniş kitlelerin yoğun ilgisini çeken bir gösteri ve eğlence faaliyeti olarak tüketim sektörüne dönüşürken, diğer taraftan yatırımcılar için önemli miktarda finans hareketlerinin yaşandığı cazip bir ekonomik sektör haline gelmektedir Bu çalışmanın temel amacı, bu kadar gelişme gösteren spor ekonomisi içerisinde yer alan bu dört büyük futbol kulübüne ait ( Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor kulüpleri) hisse senetleri getirilerinin davranışsal rolünü, maç sonuçlarını dikkate alarak ölçmek ve BIST’da işlem gören spor kulüplerinin finansal performansını davranışsal finans boyutunda ortaya koymaktır. Araştırmada ARCH ve GARCH modellemelerinden yararlanılmıştır.
+Yazar isimleri: ['Ezel DERER AKAY', 'Burcu ASLANTAŞ ATEŞ']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Uygulamalı Sosyal Bilimler ve Güzel Sanatlar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosguz/issue/72443/1141517
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2529309

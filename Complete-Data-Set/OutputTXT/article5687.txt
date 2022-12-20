@@ -1,0 +1,7 @@
+Makale Başlığı: Granüle Yüksek Fırın Cürufunun Manyetit Konsantresi Peletleme İşlemlerinde Bağlayıcı Olarak Kullanılması
+Özet: Demir cevherlerinden pik demir üretimi için yaygın olarak kullanılan fırın yüksek fırınlardır. Yüksek fırınlarda pik demir üretimi için; tenörünün uygun olması durumunda parça cevher, pelet, sinter gibi hammaddelerin yanı sıra cüruf yapıcılar ve redükleyiciler kullanılmaktadır. Pelet oluştururken en önemli malzemelerden biri toz malzemelerin bir araya gelip topaklanmasını sağlayan bağlayıcılardır. Bu çalışmada, granüle yüksek fırın cürufunun (GYFC)  bağlayıcı olarak kullanılması durumunda pelet mukavemeti ve pelet porozitesi üzerine olan etkisi incelenmiştir. Manyetit konsantresine %0.5, %1, %2, %4 ve %8 oranlarında GYFC ilave edilmiş ve bu karışımlar 1100 ⁰C, 1150 ⁰C, 1200 ⁰C ve 1280 ⁰C sıcaklıklarda 1 saat pişirilmiştir. Pişirilen peletlerin mukavemet değerlerinde en uygun sonuca 1280 ⁰C sıcaklıkta işlem gören peletlerde ulaşılmıştır.
+Yazar isimleri: ['Selçuk KARATAŞ', 'Mustafa BOYRAZLI', 'Elif ARANCI ÖZTÜRK', 'Canan AKSU CANBAY', 'Gökhan DOĞANTEPE']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fufbd/issue/72741/1163280
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2601427

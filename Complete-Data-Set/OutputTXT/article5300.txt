@@ -1,0 +1,7 @@
+Makale Başlığı: Quantifying Return and Volatility Spillovers among Major Cryptocurrencies: A VAR-BEKK-GARCH Analysis
+Özet: This study investigates mean and volatility spillover effects among eight major cryptocurrencies; Bitcoin, Ethereum, Litecoin, Ripple, Stellar, Bitcoin Cash, Cardano and EOS utilizing VAR-BEKK-GARCH model. The results point out that there are bidirectional and unidirectional spillover effects among these major cryptocurrencies. Moreover, the findings indicate that some cryptocurrencies are the transmitter, while others act as a receiver and among all, Litecoin is the highest transmitter, and Stellar is the only one that acts as a receiver. The interdependence among cryptocurrencies supports that they are becoming more integrated and thereby, provides important investment strategies for investors and policy implications for regulators.
+Yazar isimleri: ['Gülin VARDAR', 'Caner TAÇOĞLU', 'Berna AYDOĞAN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguiibf/issue/73390/1145664
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2545989

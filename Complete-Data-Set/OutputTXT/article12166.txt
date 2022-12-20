@@ -1,0 +1,7 @@
+Makale Başlığı: Thermodynamic Analysis Of Solar Sourced Absorption Refrigeration System With Different Working Pairs
+Özet: The fact that the refrigerant pairs used in absorption refrigeration systems do not have harmful effects on global warming and ozone layer makes absorption refrigeration g systems advantageous compared to vapor compression refrigeration systems. In this study, a comparative analysis of the system elements of the absorption refrigeration system, which is accepted to work with LiCl-H2O, LiBr-H2O and NH3-H2O working pairs, according to the different operating temperatures within the scope of the 1st and 2nd law of thermodynamics was made. In addition, in the study, incoming solar radiation values have been calculated for the province of Antalya, where the absorption refrigeration system is assumed to work from solar energy. In the study, the analysis of the absorption refrigeration system working with three different vacuum tube collectors and LiBr-H2O pairs has been made. In the analysis, collector efficiencies, required collector areas and the solar fraction values and collector areas required for economical operation have been calculated. Obtained results are given in tables and graphs.
+Yazar isimleri: []
+Yayın Yılı: 9 Haziran 2022
+Dergi ismi: Mühendis ve Makina
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muhendismakina/issue/70148/1126889
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2470299

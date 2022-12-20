@@ -1,0 +1,7 @@
+Makale Başlığı: Semi-analytic solution of time-fractional Korteweg-de Vries equation using fractional residual power series method
+Özet: In this paper, we have solved the non-linear Korteweg-de Vries equation by considering it in time-fraction Caputo sense and offered intrinsic properties of solitary waves. The fractional residual power series method is used to obtain the approximate solution of the aforesaid equation and compared the obtained results with Adomian Decomposition Method. Obtained results are efficient, reliable, and simple to execute on most of the non-linear fractional partial differential equations, which arise in various dynamical systems.
+Yazar isimleri: ['Jignesh CHAUHAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1024308
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2083956

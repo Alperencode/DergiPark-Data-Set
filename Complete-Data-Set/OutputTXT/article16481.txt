@@ -1,0 +1,7 @@
+Makale Başlığı: ATIK AKTİF ÇAMURDA BİYOGAZ ÜRETİMİNİN ARTIRILMASINA TERMAL VE KİMYASAL DEZENTEGRASYONUN ETKİSİ
+Özet: Çamur dezentegrasyon yöntemleri, atıksu çamurunun çürüme sürecinde hız sınırlayıcı adım olan hidroliz fazını ortadan kaldırmak, oluşan biyogaz miktarını ve stabilizasyon derecesini artırmak için uygulanan ön işlem yöntemleridir. Bu çalışmada, çözünmüş kimyasal oksijen ihtiyacı parametresindeki değişimler incelenerek farklı dezentegrasyon yöntemlerinin (termal ve kimyasal) çamurun çözünürlüğüne etkisi araştırılmıştır. Termal dezentegrasyon kapsamında yapılan çalışmalarda atık aktif çamur, kapalı tüplerdeki blok ısıtıcılarda ısıl işleme tabi tutulmuştur. Kimyasal(alkali) dezentegrasyon için, atık aktif çamurun pH'ı 10 ve 11 olacak şekilde NaOH ilave edilmiştir.Çalışma sonucunda, BMP testi ile termal dezentegrasyon, alkali dezentegrasyon, aşı+ham çamur ve aşı çamurundan biyogaz üretimi sırasıyla 202.5, 189.8, 104 ve 80.5 ml olarak bulunmuştur. Çalışma kapsamında uygulanan kimyasal ve termal dezentegrasyon yöntemlerinin her ikisi de biyogazın verimini olumlu yönde etkilemiştir. Biyogaz verimliliği açısından termal dezentegrasyon yöntemi daha etkili bir yöntem gibi görünmektedir.
+Yazar isimleri: ['Efsun DİNDAR']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uludağ Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uumfd/issue/71647/1137682
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2514612

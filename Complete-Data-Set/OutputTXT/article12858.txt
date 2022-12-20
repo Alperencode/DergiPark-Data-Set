@@ -1,0 +1,7 @@
+Makale Başlığı: Review on Information Security Awareness for Public Institutions and Private Sectors
+Özet: The aim of this study is to measure the information security awareness levels of people working in public institutions and private sectors. The research, using the screening model, was carried out with the participation of 138 people working in the field of informatics in various public institutions and private sectors in Ankara. According to the results of the study in which this model was used, there was no significant difference in terms of gender, institution type, age, position, the source from which the concept of information security was learned, and the frequency of training/course on information security awareness. A significant difference was observed in terms of providing training/course on information security awareness in the workplace and having an information security policy of the workplace, the degree of benefit of the information security awareness training/courses given at the workplace and the degree of implementation of the information security policy. The research results are discussed in the context of information security culture.
+Yazar isimleri: ['Sena NEZGİTLİ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Öğretim Teknolojisi ve Hayat Boyu Öğrenme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/itall/issue/70869/1115701
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2423927

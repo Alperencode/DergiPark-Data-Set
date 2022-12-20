@@ -1,0 +1,7 @@
+Makale Başlığı: Restoran Zincirlerinin Finansal Başarısızlık Riskleri ve Covıd-19’un Etkisi
+Özet: Bu araştırmanın amacı marka değeri en yüksek restoran zincirlerinin finansal başarısızlık risk düzeylerini incelemek ve Covid-19 salgınının finansal başarısızlık riski üzerindeki etkisini ortaya koymaktır. Bu amaçla Brand Finance 2020 sıralamasına göre marka değeri en yüksek 17 restoran zincirinin, 2016-2020 yılları arasında finansal başarısızlık riskleri Altman Z Skor, Altman Z’ Skor, Altman Z’’ Skor, Springate, Fulmer ve Ohlson modelleriyle ölçülmüştür. Analiz sonucunda finansal başarısızlık riski taşıyan restoran sayısının tüm modellerde geçmişten günümüze yaklaştıkça artış eğiliminde olduğu belirlenmiştir. Bununla birlikte Covid-19 salgını öncesi (2016-2019) ve Covid-19 salgını dönemi (2020) arasındaki finansal başarısızlık risk skorları bağlamında istatistiksel olarak anlamlı bir fark olup olmadığı Wilcoxon İşaretli Sıra Testi ile test edilmiştir. Elde edilen sonuca göre Ohlson modeli dışındaki tüm modellerde Covid-19 salgını öncesi ve salgın dönemi arasında finansal başarısızlık değerleri bağlamında istatistiksel olarak anlamlı farklılık saptanmıştır.
+Yazar isimleri: ['Cemile ÖCEK', 'Erdinç KARADENİZ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Anatolia: Turizm Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atad/issue/68201/1040782
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2148081

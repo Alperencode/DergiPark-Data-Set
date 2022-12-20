@@ -1,0 +1,7 @@
+Makale Başlığı: Frequency Relationship with the Highest Particle Velocity of Blasting Applications in a Quarry
+Özet: As it is known, as a result of blasting in open pit blasting, vibration waves spread to the environment and the places where the waves pass are adversely affected. Researchers working on the subject have reported that the degree of damage caused by waves is measured with the highest particle velocity value. They emphasized that as the velocity value increases, the amount of damage is high, and as the velocity value decreases, the amount of damage to the environment is less. In these studies, it is seen that the highest particle velocity value depends on the scaled distance, in other words, the distance between the detonation point and the measurement point, and the amount of the highest explosive substance detonated at once. However, the frequency of vibration waves formed as a result of blasting, in other words frequency values, also determines the degree of damage to the environment. In this study, the highest particle velocity values were measured by performing some blasting experiments in a quarry. These values and Transverse (Tran), Vertical (Vert) and Longitudinal (Long) frequency values were compared and interpreted.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190592
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2714407

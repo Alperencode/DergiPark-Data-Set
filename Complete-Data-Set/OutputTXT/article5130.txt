@@ -1,0 +1,7 @@
+Makale Başlığı: Predicting Liver Disease Using Decision Tree Ensemble Methods
+Özet: 
+Yazar isimleri: ['Fırat ORHANBULUCU', 'Fatma LATİFOĞLU', 'Semra İÇER']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/1015695
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2050402

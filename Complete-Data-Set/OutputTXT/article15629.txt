@@ -1,0 +1,7 @@
+Makale Başlığı: Some Quantum Integral Inequalities Based on Left-Right Quantum Integrals
+Özet: In this work, the concepts of quantum derivative and quantum integral were renamed to be the left quantum derivative and the left definite quantum integral. Symmetrically to the left, a new quantum derivative (the right) and definite quantum integral (the right) were defined. Some properties of these new concepts were investigated and as well as according to do these new concepts some inaccuracies in quantum integral inequalities were corrected. Moreover, some new quantum Hermite-Hadamard type inequalities were established.
+Yazar isimleri: ['Mehmet KUNT', 'Abdul BAİDAR', 'Zeynep ŞANLI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1112582
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2411192

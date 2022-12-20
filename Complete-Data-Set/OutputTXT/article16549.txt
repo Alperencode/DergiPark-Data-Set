@@ -1,0 +1,7 @@
+Makale Başlığı: PAY PİYASALARINDA SÜRÜ DAVRANIŞI: BORSA İSTANBUL ÖRNEĞİ
+Özet: Çalışmada Türk finans piyasalarında sürü davranışının varlığı, sürü davranışı ölçümyöntemlerinden biri olan pay senedi beta katsayılarına dayalı Hwang ve Salmon (2004) modelikullanılarak araştırılmıştır Modelin uygulanması aşamasında Caparrelli, D’Arcangelis veCassuto’nun (2004) modele dair çıkarımlarından faydalanılmıştır. Analiz sonuçlarına göre Borsaİstanbul’da (BİST) sürü davranışının varlığını destekleyen sonuçlara ulaşılmıştır. Çalışmada, Betakatsayılarının hesaplanmasında 242, 484 ve 726 gün sabit tutularak yapılan hesaplamalarınbirbirleri ile paralel sonuçlar verdiği görülmüştür. Finansal kriz dönemlerinden hemen önce (2008krizi öncesi) 2006-2007 yılları arasında sürü en şiddetli halini almıştır. Çalışmanın bulguları piyasakatılımcıları, akademisyenler ve politika yapıcılar açısından önem taşımaktadır.
+Yazar isimleri: ['Büşra ARIKAN', 'Sibel ÇAPRAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Afro-Avrasya Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijar/issue/72188/1091445
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2324607

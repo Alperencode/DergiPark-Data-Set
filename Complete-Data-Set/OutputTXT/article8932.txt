@@ -1,0 +1,7 @@
+Makale Başlığı: Morin (2′,3,4′,5,7-Pentahidroksiflavon) Streptozotosin ile İndüklenen Diyabetik Sıçan Beyin ve Kalp Dokularında Antioksidan Etkisi
+Özet: Diyabet dünyada bilinen en önemli sağlık problemlerinden birisidir. İnsülin ve oral antidiyabetik ilaçların yan etkilerinden dolayı son yıllarda alternatif tedavilerin araştırılmasında doğal ürünler (özellikle flavonoidler) önemli bir kaynak teşkil etmektedir. Bu çalışma normal ve streptozotosin ile diyabet oluşturulan sıçanlarda morin'in (2′,3,4′,5,7-pentahydroxyflavone) doku antioksidan ve lipid perokidasyon durumu üzerindeki olası olumlu etkisini incelemek için yapılmıştır. Artan reaktif oksijen türleri ve yetersiz antioksidan aktivite diyabet ile ilişkilidir, buda diyabet patogenezinde başlıca sorumludur. Beyin ve kalp antioksidan belirteçleri üzerinede morin'in rolü değerlendirildi. Diyabetik sıçanların beyin ve kalp dokularında normal sıçanlara göre daha yüksek TBARS ve NOx düzeyleri, daha düşük GSH düzeyi gözlendi. Morin muamelesi beyin ve kalp TBARS ve Nox düzeylerindeki artışı anlamlı olarak önledi. Ayrıca morin beyin GSH seviyesinde önemli artış gösterdi. Sonuçlar morin’in diyabetik sıçanlarda antioksidan aktivite gösterdiğini belirtmektedir.
+Yazar isimleri: ['Ahmet BEYATLİ', 'Emine Gülçeri GÜLEÇ PEKER', 'Nursel GÜL', 'Şule Coşkun CEVHER']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Anatolian Environmental and Animal Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jaes/issue/72468/1103000
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2372384

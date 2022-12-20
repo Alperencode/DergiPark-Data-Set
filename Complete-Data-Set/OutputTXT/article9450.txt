@@ -1,0 +1,7 @@
+Makale Başlığı: Existence Results for Fractional Integral Equations in Frechet Spaces
+Özet: The objective of this paper is to present results on the existence of solutions for a class of fractional integral equations in Fr\'{e}chet spaces of Banach space-valued  functions on the unbounded interval. Our main tool is the technique of measures of noncompactness and fixed points theorems.
+Yazar isimleri: ['Said BAGHDAD']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Journal of Mathematical Sciences and Modelling
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jmsm/issue/73450/1059716
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2199638

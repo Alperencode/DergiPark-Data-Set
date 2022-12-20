@@ -1,0 +1,7 @@
+Makale Başlığı: AN ASSESSMENT ON THE GENERAL PROFILE OF MANAGEMENT INFORMATION SYSTEMS RESEARCHERS IN TURKEY
+Özet: Management Information Systems is an interdisciplinary field that examines the relationship between people, technology and organization with a holistic perspective. Thanks to its interdisciplinary perspective, has led many researchers who have completed their undergraduate or graduate education in computer science, business science or management science to turn to the field of Management Information Systems. In this study, researchers discuss the general aspects of Management Information Systems discipline in Turkey. In this regard, a total of 401 academicians-researchers working in the field of Management Information Systems were examined with the data set obtained through the YÖKAKADEMİK system. The study discussed whether the situation caused by the interdisciplinary nature of the Management Information Systems discipline causes anomalies, taking into account the places where researchers work in higher education institutions.
+Yazar isimleri: ['Muhammet DAMAR', 'Mehmet Cem BÖLEN']
+Yayın Yılı: 29 Aralık 2021
+Dergi ismi: Yönetim Bilişim Sistemleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ybs/issue/67451/1025787
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2089536

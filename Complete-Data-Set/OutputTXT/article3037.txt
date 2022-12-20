@@ -1,0 +1,7 @@
+Makale Başlığı: Örgütsel Psikolojik Sermaye Bağlamında İnovasyon ile Kurumsal İtibar İlişkisi
+Özet: Bu çalışmada, organizasyonların etkinliği ve verimliliği için gerekli olan fonksiyonlara bir girdi olarak değerlendirilen örgütsel psikolojik sermaye ile inovasyon ve kurumsal itibar arasındaki ilişkiler incelenmiştir. İnovasyon, Kurumsal İtibar ve Örgütsel Psikolojik Sermaye değişkenleri kullanılarak oluşturulan araştırma modeli kolayda örneklem tekniğiyle toplanan 424 adet veri ile test edilmiştir.  Katılımcılar, sanayi işletmelerinde farklı kademelerde görev yapmada olan çalışanlardan oluşmaktadır. Kesitsel bir araştırma türü olan bu çalışma veriler veriler yapısal eşitlik modellemesi ile analiz edilmiştir. Araştırma neticesinde, inovasyon ile kurumsal itibar arasındaki pozitif yönlü yordayıcı ilişkide örgütsel psikolojik sermayenin dolaylı etkiye sahip olduğu görülmüştür.
+Yazar isimleri: ['Levent YÜCEL', 'Mert BECAN', 'Halil ŞİMŞEK']
+Yayın Yılı: 20 Ekim 2022
+Dergi ismi: Bitlis Eren Üniversitesi İktisadi Ve İdari Bilimler Fakültesi Akademik İzdüşüm Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/beuiibfaid/issue/73015/1140408
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2524714

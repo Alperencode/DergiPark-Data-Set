@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of chemical content of Lemna minor L. by GC-MS and investigation of antioxidant activity
+Özet: Lemna minor L. has been traditionally used for a long time for its analgesic, antipyretic, vitamin C supplement, astringent, antipruritic effects. Although there are many heavy metal removals using L. minor, unfortunately, biological activity studies are very limited. In this study, the chemical content and total phenol content, DPPH removal, metal chelation (Fe2+) and β-Carotene-lycopene methods of the L. minor macrophyte we obtained from Turkey were determined by GC-MS. The results of the study showed that our plant contains 25 different essential oils and has a high phenol content. In addition, 72% DPPH removal of L.minor was determined when it had 71% iron chelating ability. As a result of our study, it has been revealed that the L. minor we use is an effective antioxidant. It is thought that its usability in the fields of food and medicine can be investigated with further studies.
+Yazar isimleri: ['Sema YİYİT DOĞAN', 'Sibel ATASAGUN', 'Mehmet Borga ERGÖNÜL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series C  Biology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/communc/issue/68743/1122558
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2452529

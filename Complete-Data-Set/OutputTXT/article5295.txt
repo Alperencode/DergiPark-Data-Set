@@ -1,0 +1,7 @@
+Makale Başlığı: Technical Efficiency in Public Hospitals: A Meta-Regression Analysis
+Özet: This study attempts to examine the studies using Data Envelopment Analysis to calculate the efficiency of public hospitals and to identify the factors influencing their technical efficiency through meta-regression analysis. This study employed 35 empirical articles which were published between 1960 and 2022 and which met the inclusion criteria. The results of the meta-regression analysis revealed that the publication year of the studies and the income groups of the countries did not have an impact on the average technical efficiency. The number of hospitals, the number of variables, the year of data collection, and the continent of the countries was noted to be statistically significant in terms of the average technical efficiency estimation. This study suggested that the efficiencies of the vast majority of public hospitals were above optimal. The study is expected to raise politicians’ and administrators’ awareness of increasing the efficiency of hospitals.
+Yazar isimleri: ['Neylan KAYA', 'Aydolu ALGIN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguiibf/issue/73390/1094736
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2337961

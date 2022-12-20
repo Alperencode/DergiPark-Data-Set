@@ -1,0 +1,7 @@
+Makale Başlığı: Militarizasyon MENA Ülkelerinde Çevresel Kirliliği Nasıl Etkiliyor?
+Özet: Bu çalışmanın temel amacı, 1995-2018 yılları arasında MENA ülkelerinde militarizasyonun çevresel kirliliğe neden olup olmadığını analiz etmektir. Bu amaca yönelik çalışmada iki aşamalı sistem genelleştirilmiş momentler metodu (GMM) kullanılmıştır. Çalışmada bağımlı değişken çevresel kirliliği temsil eden CO2 emisyonudur. Temel bağımsız değişken olan militarizasyonun göstergesi olarak ise askerî harcamaların GSYH’ye oranı kullanılmıştır. Ayrıca çalışmada ekonomik küreselleşme, doğal kaynak bolluğu, kişi başı GSYH, ticari açıklık ve toplam sermaye oluşumu kontrol değişkenler olarak kullanılmıştır. Elde edilen sonuçlara göre, CO2 emisyonu ile militarizasyon, doğal kaynak bolluğu, kişi başı GSYH ve ticari açıklık arasında anlamlı pozitif, CO2 emisyonu ile ekonomik küreselleşme ve toplam sermaye oluşumu arasında anlamlı negatif ilişki bulunmaktadır. Bu sonuçlardan hareketle, MENA ülkelerinde çevresel kirliliğin azaltılabilmesi için askerî harcamaların azaltılmasının, fosil (yenilenemez) enerji tüketiminin yenilenebilir enerji ile ikamesinin, iktisadi büyüme ile çevresel sürdürülebilirliği birlikte gözeten politikaların önem arz ettiği söylenebilir.
+Yazar isimleri: ['Salih TÜREDİ']
+Yayın Yılı: 29 Mart 2022
+Dergi ismi: İstanbul Üniversitesi Sosyoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iusosyoloji/issue/69176/1095466
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2340845

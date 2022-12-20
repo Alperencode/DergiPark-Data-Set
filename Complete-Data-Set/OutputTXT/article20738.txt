@@ -1,0 +1,7 @@
+Makale Başlığı: Effectiveness of the international remittances on poverty:  Evidence from cross-country analysis
+Özet: This paper focuses on the impact of international remittances on poverty in a rich environment. After a careful review of the relevant literature, various pooled ordinary least squares (Pooled OLS), dummy variable least squares (DVLS), and three-stage least squares (3SLS) models are constructed. The empirical results show that gross domestic product per capita, inequality in income distribution, and international remittances have a statistically significant impact on poverty. A 10% increase in international remittances reduced the poverty level of the portion of the population whose cost of living is less than $1.90 per person per day between 0.7% and 1.7%. This paper broadens the existing literature on the relationship between international remittances and poverty in a more comprehensive framework by using a broader data set and different panel data regression models.
+Yazar isimleri: ['Zeynep Gizem CAN', 'Ufuk CAN', 'Harun BAL']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Ömer Halisdemir Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ohuiibf/issue/73154/1117940
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2433473

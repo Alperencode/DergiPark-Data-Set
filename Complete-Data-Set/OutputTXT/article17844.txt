@@ -1,0 +1,7 @@
+Makale Başlığı: Deep Learning based Ship Variants Classification Using Different Scale Images
+Özet: Nowadays, trade based on logistics and sea transportation has gained importance. Considering the traffic related to this, the classification and discrimination of ship types are important in terms of transportation and storage costs, and safety. The classification of ships performing different tasks on the sea is handled in this study, and a ship image dataset has been created in order to make a high accuracy ship classification thanks to deep learning methods. It is preferred in our deep learning study in comparison to the classical machine learning method, as the features are semantically richer as the higher level, while expressing content from the dataset. It was created by the acquisition of various ship images thanks to the web scraping method. YOLOv5 and Xception deep learning models were trained to obtain the most appropriate classification performance. As a result of the experiments, an accuracy rate of approximately between 96% and 99% was achieved with both models. Scientific findings and discussion are included in our study as well.
+Yazar isimleri: ['Emirhan KIRAN', 'Bahadir KARASULU', 'Emin BORANDAG']
+Yayın Yılı: 21 Eylül 2022
+Dergi ismi: Zeki Sistemler Teori ve Uygulamaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jista/issue/70283/1118740
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2436807

@@ -1,0 +1,7 @@
+Makale Başlığı: Sağlık Hizmetlerinde Performans Kavramının Bibliyometrik Analizi
+Özet: Çalışmanın amacı sağlık hizmetlerinde performans kavramını bibliyometrik analiz yöntemlerine göreincelemektir. Bu çalışmada bibliyometrik analiz için Web of Science Core Collection veri tabanından 1975-2020yılları arasını kapsayan “performance” ve “healthcare” kavramlarına başlıkta yer veren çalışmalar ele alınmıştır.Analiz yapılırken VOSviewer bibliyometrik analiz programından yararlanılmıştır. Çalışmada kelime, atıf, ortakatıf ve bibliyografik eşleştirme analizleri yapılmıştır. Araştırma kısıtlarına uyan 648 makaleye ulaşılmıştır. Analizsonuçlarına göre kavrama en çok katkı sağlayan çalışmanın Ewig vd, (2009) olduğu görülmüştür. Dokümanlarınatıf analizi sonuçlarına göre Van Der Geer (2009), bibliyografik eşleştirme analizine göre Ewig (2009) alıntıbağının kuvvetli olduğu bulgusuna ulaşılmıştır. Yazarların atıf analizi ve bibliyografik eşleştirme sonuçlarına göreyazarlar arasındaki alıntılanma bağının kuvvetli olduğu tespit edilmiştir. Ortak atıf analizi sonuçlarına göre KaplanR.S. ve World Health Organization ile kurulan alıntı bağının kuvvetli olduğu görülmektedir. Sağlık hizmetlerindeperformans yönetimi ile ilgili çalışma yapacaklar araştırma sonuçlarından yararlanabilir. 
+Yazar isimleri: ['Meltem SARI', 'Gülşen GENÇ']
+Yayın Yılı: 29 Mart 2022
+Dergi ismi: Karadeniz Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ksbd/issue/69152/1059592
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2199195

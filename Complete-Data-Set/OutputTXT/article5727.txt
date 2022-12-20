@@ -1,0 +1,7 @@
+Makale Başlığı: Çok Katmanlı Algılayıcı Algoritması, Korelasyon Tabanlı Özellik Seçme Yöntemi ve Eğri Uydurma Tekniği ile Türkiye’ de Toplam Elektrik Tüketiminin Tahmin Edilmesi
+Özet: Elektrik tüketiminin tahmin edilmesi,  güç sistemlerinin planlanması ve işletilmesinde önemli bir rol oynar. Bu yüzden bu çalışmada Çok Katmanlı Algılayıcı Algoritması (ÇKAA), Korelasyon Tabanlı Özellik Seçme Yöntemi (KTÖSY) ve Eğri Uydurma (EU) teknikleri ile Türkiye’ de toplam elektrik tüketimini tahmin eden bir model geliştirilmiştir. 2013-2018 yılları arası veriler ÇKAA, KTÖSY ve EU modelini oluşturmak için kullanılırken 2019-2020 yıllarındaki veriler ise modelin başarısını test etmek için kullanılmıştır. Yazılım sonuçları yöntemin geçmiş yıllardaki toplam elektrik tüketimini tahmin etmede başarılı olduğunu göstermiştir. Aynı zamanda oluşturulan model ile 2024 yılına kadar Türkiye’ deki toplam elektrik tüketimi de tahmin edilmiştir. Önerilen yöntem ile tahmin edilen toplam elektrik tüketimi değerlerinin farklı çalışma sonuçları ile tutarlı olduğu belirlenmiştir.
+Yazar isimleri: ['Düzgün AKMAZ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1118732
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2436763

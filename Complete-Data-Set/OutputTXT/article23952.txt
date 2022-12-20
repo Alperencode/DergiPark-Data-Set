@@ -1,0 +1,7 @@
+Makale Başlığı: Solution Proposals based on Fuzzy AHP-TOPSIS Hybrid Model to the Problems in Public Works Procurement in Turkey
+Özet: In the transition from price-based bid evaluation to multi-criteria bid evaluation process in public procurements pioneered by academic research, the aim is to ensure the delivery of the project at the desired quality without exceeding the time and budget of the contract process. In the tenders made according to the Public Procurement Law (PPL), while the lowest price principle was used in the bid evaluation stage, non-price elements began to be used in time. In this study, solutions to current problems such as the evaluation of extremely low bids in the tenders made within the scope of the law, the long duration of the bid evaluation process, and the high number of conflicts are proposed through the model created by Fuzzy AHP-TOPSIS methods.
+Yazar isimleri: ['İbrahim ÖZYÜREK', 'Mürsel ERDAL']
+Yayın Yılı: 1 Ocak 2023
+Dergi ismi: Turkish Journal of Civil Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjce/issue/73513/1209197
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2790891

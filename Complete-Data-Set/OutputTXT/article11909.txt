@@ -1,0 +1,7 @@
+Makale Başlığı: HEALTH RISK ASSESSMENT OF ARSENIC CONTAMINATION FROM THE CONSUMPTION OF COMMERCIALLY IMPORTANT EUROPEAN SEA BASS (Dicentrarchus labrax L., 1758)
+Özet: Sea bass (Dicentrarchus labrax L., 1758) production in Turkey has increased significantly in recent years, especially for export to EU countries. This study determined inorganic arsenic (iAs) levels by measuring total arsenic levels (AsT) in muscle tissues sampled from sea bass fished and farmed (both in earthen ponds and sea cages) in Güllük Bay within the borders of Muğla province. The study also conducted a risk assessment of sea bass consumption for consumer health. For this aim, fish muscle tissues were mineralized with microwave digestion before total arsenic concentrations were measured using inductively coupled plasma mass spectroscopy (ICP-MS). The highest mean arsenic levels were detected in sea bass cultured in earthen ponds (0.38 mg kg-1) while levels in both sea bass cultured off-shore and wild sea bass were 0.26 mg kg-1. According to the risk assessments based on estimated daily intake (EDI), target hazard quotient (THQ), carcinogenic risk (CR), and lifetime cancer risk (TR), it was revealed that eating sea bass did not damage human health.
+Yazar isimleri: ['Aykut YOZUKMAZ', 'Murat YABANLI']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Mugla Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muglajsci/issue/69906/1001878
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1998942

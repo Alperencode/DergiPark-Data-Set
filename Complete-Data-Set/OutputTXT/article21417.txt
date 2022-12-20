@@ -1,0 +1,7 @@
+Makale Başlığı: Investigating the effects of climate policy uncertainty on the US petroleum markets
+Özet: The uncertainty of climate policy and its impact on the petroleum markets has attracted the attention of many researchers over the past two decades. Many research works have been conducted regarding the reactions of each variable to the other and the present study aims to investigate the effects of climate policy uncertainty on the US petroleum markets by taking the Climate Policy Uncertainty Index (CPU) and the Petroleum Markets EMV tracker data (PEMV) based on monthly data which starts from Jan 2000 to March 2021. We employ multiple tests by using the VAR model to analyze the collected data. First, the results of the Granger causality test show no causality cause between the CPU and PEMV indices. Second, the outcomes of the Impulse response test show only the reactions come to the variables themselves positively but provide no meaning to the shocks of each variable to the other one. Lastly, the results of the variance decomposition test imply that the variables highly lagged with their dynamics which is about 98 percentile for each variable. 
+Yazar isimleri: ['Mustafa HAMAD AMEEN', 'Aslı AFŞAR']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: International Journal of Energy Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijes/issue/70602/1053946
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2177093

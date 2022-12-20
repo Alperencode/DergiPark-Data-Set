@@ -1,0 +1,7 @@
+Makale Başlığı: Web Destekli 5E Öğrenme Modelinin 6. Sınıf Fen Bilimleri Dersinde Uygulanışına Yönelik Öğrenci Görüşleri
+Özet: Bu araştırma webin ve yüz yüze öğrenmenin olanaklarını bir araya getiren web destekli 5E öğrenme modeline yönelik öğrenci görüşlerini belirlemek amacıyla gerçekleştirilmiştir. Araştırmada nitel paradigmayı temel alan durum çalışması kullanılmıştır. Araştırma grubunu Ankara’da bir devlet ortaokulunda öğrenim gören 6. sınıf öğrencileri oluşturmuştur. Uygulama 6. sınıf fen bilimleri dersi öğretim programında yer alan “maddenin tanecikli yapısı” ve “yoğunluk” konularını kapsamaktadır. Web destekli 5E öğrenme modeli ile ders işlenen 10 öğrenci ile yarı yapılandırılmış görüşmelerle veriler toplanmıştır. Veriler içerik analizi yöntemiyle çözümlenmiştir. Araştırma sonucunda uygulanan yöntemin öğrenmeye sağladığı yararlar, uygulama sürecinde karşılaşılan sorunlar, yöntemin covid-19 sürecine, öğrencilerin derse yönelik ilgi ve motivasyonuna etkisi ile uygulamaya yönelik öğrenci önerileri belirlenmiştir.
+Yazar isimleri: ['Eda PALANCI', 'Suna KALENDER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Gelişim ve Psikoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gpd/issue/68864/1098585
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2353711

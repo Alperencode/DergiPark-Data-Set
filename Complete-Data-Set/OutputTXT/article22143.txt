@@ -1,0 +1,7 @@
+Makale Başlığı: Body-Mass Recognition and Subdivision With R-CNN Methodology; A Case Study on Pseudocolor Mammograms
+Özet: This study provides a computational methodology that helps experts detect breast masses on mammogram images. The first phase of the methodology aims to improve the mammogram image. This phase consists of removing objects outside the breast, reducing noise, and emphasizing the internal structures of the breast. Then, cellular neural networks are used to compartmentalize regions that may contain mass. Masked R-CNN-based body mass recognition segmentation and guided color spectrum preprocessed mammograms are employed in this approach. The shapes, shape descriptors of these regions are analyzed and their textures are analyzed with geostatistical functions (Ripley's K function and Moran's and Geary's indices). Multiscale morphological screening improves Mask R-CNN performance by converting grayscale mammograms into directed color pictures by boosting mass-like patterns. When tested on the general dataset, ~65% of the cases covered in this study were represented by 4687 pixels appropriately separated or spanned, resulting in an average valid positive rate.
+Yazar isimleri: []
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Abant Sağlık Bilimleri ve Teknolojileri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sabited/issue/70710/1136666
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2510713

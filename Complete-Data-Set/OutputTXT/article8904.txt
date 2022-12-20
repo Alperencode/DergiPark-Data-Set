@@ -1,0 +1,7 @@
+Makale Başlığı: A note on $GDD(1, n, n , 4;\lambda_{1},\lambda_{2})$
+Özet: The present note is motivated by two papers on  group divisible designs (GDDs) with the same block size three but different number of groups: three  and four  where one  group is of  size $1$ and the others  are of the same size $n$.  Here  we present some interesting constructions of  GDDs with block size 4 and three groups: one  of   size $1$ and other two of the same size $n$.  We also obtain necessary	conditions for the existence of such GDDs and prove that they are sufficient in several cases. For example, we show that the necessary conditions are sufficient for the existence of a GDD$(1,n,n,4;\lambda_1,\lambda_2)$ for $n\equiv0,1,4,5,8,9\pmod{12}$ when $\lambda_1\ge \lambda_2$.
+Yazar isimleri: []
+Yayın Yılı: 13 Mayıs 2022
+Dergi ismi: Journal of Algebra Combinatorics Discrete Structures and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jacodesmath/issue/69711/1111720
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2407974

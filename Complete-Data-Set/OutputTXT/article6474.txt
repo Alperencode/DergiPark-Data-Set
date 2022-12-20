@@ -1,0 +1,7 @@
+Makale Başlığı: Determining the Factors Affecting the Public External Debt Burden in Turkey (1974-2020)
+Özet: External debt is among the important problems in Turkey as in almost all countries. In the struggle with external debt problem, it is extremely important to determine the factors that affect the external debt. In the study, it is aimed to determine the factors affecting the public external debt stock in Turkey between the period of 1974-2020 with the help of cointegration analysis. According to the findings, while inflation, growth rate and budget balance have an adverse effect on foreign debt, interest rate has the same effect on foreign debt. According to the results of Hatemi-J (2012) asymmetric causality analysis, it has been concluded that increases in budget balance, inflation and interest rates have an increasing effect on external borrowing, while decreases in inflation and interest rates have a decreasing effect on borrowing.
+Yazar isimleri: ['Göksel KARAŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gümrük ve Ticaret Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumrukticaretdergisi/issue/72814/1134809
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2503347

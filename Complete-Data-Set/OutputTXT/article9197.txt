@@ -1,0 +1,7 @@
+Makale Başlığı: Definition of Faults and Efficiency in Power Transformers Using the Algorithm and Computer Program Created by the Heuristic Optimization Methods Developed
+Özet: The real-life optimization problems are too complex to be solved by developing a mathematical formula. Heuristic methods are the methods defined to decide the best of a variety of solution actions to solve a problem. Furthermore, it is preferred that heuristic methods are short in solution time and can be applied to different problems. Heuristic methods were developed while trying to find the best solution. The created algorithm, which was based on herd intelligence, was used to solve optimization problems based on the behaviors of bees moving in nature in the process of finding nutrients. By the studies, transformer failures allow us to know without any measurements and tests. The software was developed in C++ programming language by using the created artificial algorithms. The transformer analyses programs have been created by using Microsoft SQL Server 2017 database.
+Yazar isimleri: ['Mehmet ZİLE']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of Engineering Technology and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jetas/issue/72234/1118283
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2434905

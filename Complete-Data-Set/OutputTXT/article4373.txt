@@ -1,0 +1,7 @@
+Makale Başlığı: The Dynamic Effects of Stator Turn-to-Turn Short Circuit Fault on the Electrical, Mechanical and Magnetical Motor Parameters in Induction Motors
+Özet: In this study, the dynamic effect of stator turn-to-turn short-circuit fault on electrical, mechanical and magnetic motor parameters is investigated in detail. For this purpose, the Finite Element Method (FEM) based ANSYS@Maxwell-2D program is used, which enables steady state and transient analysis.  The changes in stator current and induced back electromotive force voltage from electrical parameters, output torque from mechanical variables and leakage flux from magnetic parameters are examined in detail in both time and frequency axis by means of Fast Fourier Transform (FFT) for the faulty state. Moreover, in order to detect stator turn-to-turn fault, stray flux analysis is carried out and characteristics fault signatures are defined. The obtained results and findings have been proven through the developed experimental setup in laboratuvary.
+Yazar isimleri: ['Kürşad AKBAYIR', 'Taner GÖKTAŞ', 'Müslüm ARKAN']
+Yayın Yılı: 19 Eylül 2022
+Dergi ismi: Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/deumffmd/issue/72304/1096437
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2344664

@@ -1,0 +1,7 @@
+Makale Başlığı: Savurma döküm yöntemi ile üretilmiş AlB2/Al kompozit malzemelerin aşınma davranışlarının incelenmesi
+Özet: Bu çalışmada, fonksiyonel olarak derecelendirilmiş AlB2/Al kompozitlerin abrasif aşınma özellikleri Taguchi yöntemi kullanılarak incelenmiştir. Aşınma deneylerinde Pin-on-disk tekniği ile kullanılmıştır. Deneyler sonrasında farklı aşınma şartlarında oluşacak ağırlık kayıplarını tahmin eden bir regresyon denklemi elde edilmiş ve geliştirilen denklem yardımıyla faklı şatlarda yapılan aşınma sonuçları, deneysel sonuçlarla karşılaştırılmıştır. Kompozitlerin aşınma özellikleri üzerine uygunalar yükün yaklaşık %17, aşınma ortamının %53 ve AlB2 ile güçlendirilmesinin %18 oranında etkili olduğu görülmüştür.  Geliştirilen regresyon modelinin değişik aşınma şartlarında ağırlık kayıplarının tahmininde kullanılabileceği görülmüştür.
+Yazar isimleri: ['Ömer SAVAŞ', 'İlknur KESKİN']
+Yayın Yılı: 20 Haziran 2022
+Dergi ismi: Journal of Marine and Engineering Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinmet/issue/70407/1127911
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2474617

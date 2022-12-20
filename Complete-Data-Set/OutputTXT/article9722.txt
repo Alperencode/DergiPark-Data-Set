@@ -1,0 +1,7 @@
+Makale Başlığı: Classification of Zinc-Coated Parts in Accordance with their Brightness Degree using Deep Learning Techniques
+Özet: A novel technique was suggested to measure the brightness of the coated parts. The algorithm of Mask RCNN was used to detect the relevant region on the whole image. The pixels of black lines, which are associated with the brightness of the coating and reflected from the foreground, were counted using image processing technique. These pixels were used as the output in the machine learning training to classify the coated parts. The output was binarized to classify the coated plates as “Pass” and “Fail”. It was found that the RF model was the best model. The scores of its accuracy, F1, precision, and recall were established to be 0.97, 0.97, 1, and 0.94, respectively. The overlap scores of Mask RCNN were found to be in the range of 0.92-0.97, which proved that Mask RCNN algorithm detected the concerned region with high precision and accuracy.
+Yazar isimleri: ['Ramazan KATIRCI', 'Hasan Metehan AKGÜN', 'Bilal TEKİN', 'Metin ZONTUL', 'Oğuz KAYNAR']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of the Turkish Chemical Society Section B: Chemical Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jotcsb/issue/70634/1156543
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2578909

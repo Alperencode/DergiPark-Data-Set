@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of Double Differential Cross Section for Neutron Induced and Neutron Emission Reaction of 209Bi Isotope
+Özet: The double-differential cross sections (DDX) of neutron induced and neutron emission reaction of 209Bi isotope are calculated and analysed at neutron emission energies below 7 MeV at 3 laboratory angles between 200 and 1500 . In the calculations, the latest version of Talys 1.96 is utilized to calculate the total, direct, pre-equilibrium and compound cross sections, which are obtained using the same parameters. The contributions of direct, pre-equilibrium and compound processes to the total cross section are separately investigated. It is presented that the compound part has the greatest contribution. The calculation results are compared with the existing experimental data taken from EXFOR library.
+Yazar isimleri: ['Deniz CANBULA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Pure and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijpas/issue/70506/1081660
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2285040

@@ -1,0 +1,7 @@
+Makale Başlığı: Gerçekçi Matematik Eğitimi Üzerine Bir Kuramsal Çalışma
+Özet: Bu çalışma, gerçekçi matematik eğitimini konu almaktadır. Gerçekçi Matematik Eğitimi (GME) ile ilgili sıkça çalışmalar yapılmakta ancak uygulama açısından zayıf kaldığı düşünülmektedir. Özellikle ilkokul döneminde bu yaklaşıma yönelik ders planlarının hazırlanması önerilmektedir. Bu bağlamda öğretmenlere ve öğretmen adaylarına ders planı hazırlanması sürecinde bu çalışmanın yardımcı olacağı düşünülmektedir. Çalışmanın çerçevesi olarak öncelikle GME hakkında bilgi verilmekte, diğer öğrenme yaklaşımlarıyla farkı açıklanmakta, sosyo-yapılandırmacılık ile ilişkisi vurgulanmakta, matematikleştirme aşamalarından bahsedilmektedir. GME yaklaşımının öğrenme-öğretme sürecine dahil edilirken hangi özelliklerinin kullanıldığı üzerinde durulmakta ve son olarak da bir ders planı hazırlanırken nelere dikkat edildiği hakkında tespitlerde bulunulmaktadır.
+Yazar isimleri: ['Emel ÇİLİNGİR ALTINER']
+Yayın Yılı: 30 Haziran 2021
+Dergi ismi: Eğitim ve Teknoloji
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/egitek/issue/60570/886110
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1599338

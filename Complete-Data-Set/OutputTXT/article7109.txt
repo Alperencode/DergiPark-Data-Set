@@ -1,0 +1,7 @@
+Makale Başlığı: Fabrication of Gd2O3/PSF Membranes via Aqueous Phase Inversion Method
+Özet: This study aimed to investigate the effect of Gadolinium oxide (Gd2O3) concentration (0.5%, 1%, and 2%) on the performance of polysulfone (PSF) membrane. The membranes were fabricated by a common phase inversion method. The performance of membranes was determined based on pure water flux, bovine serum albumin (BSA) permeation test. These fabricated membranes were characterized by FTIR and contact angle measurements. The highest BSA rejection was 53%. The optimum membrane (2 % wt Gd2O3 /17 % wt PSF) in this study was determined by PSF 17% which successfully exhibited 53% rejection with filtrate flux for about 8.7 L/m2.h at a pressure of 10 bar.
+Yazar isimleri: ['Ayse GUL', 'Dilek ŞENOL ARSLAN', 'Niğmet UZAL']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Hittite Journal of Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hjse/issue/72726/1127739
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2473808

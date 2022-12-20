@@ -1,0 +1,7 @@
+Makale Başlığı: Bioinformatical Evaluation of PPARA and PPARG Candidate Genes for Milk Quality Characteristics in Turkish Saanen Goats
+Özet: In this study, genetic information obtained in terms of milk yield and milk quality characteristics was used in order to increase the accuracy of breeding selection of Turkish Saanen goats. For this purpose, DNA sequencing of PPARG and PPARA genes from Turkish Saanen goats were compared with the sequences in gene databases and single nucleotide polymorphisms were examined. A relationship was found between some quality parameters (fat, protein and somatic cell count) of milk measurements of Turkish Saanen goats and PPARA and PPARG gene variants. Single nucleotide polymorphisms were detected in the exons and introns of the relevant gene variants, however, these polymorphisms did not have a statistically significant effect on quality parameters (p>0.05).
+Yazar isimleri: ['Funda ATAÇ', 'Yakut GEVREKÇİ', 'Çiğdem TAKMA', 'Fatma AKKAYA', 'Mustafa Can YILMAZ', 'Tarik AYYILMAZ', 'Dilsat YEGENOGLU']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Gaziosmanpaşa Üniversitesi Ziraat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gopzfd/issue/72521/1131221
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2488491

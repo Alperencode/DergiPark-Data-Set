@@ -1,0 +1,7 @@
+Makale Başlığı: Finansal Erişim ve Yoksulluk İlişkisi: Dinamik Panel Veri Analizi ile OECD Örneği
+Özet: Çalışmanın amacı, finansal araçlara ulaşımın kolaylaştırılması yönünde politikaların, özellikle, toplumun alt gelir diliminde yer alan kesimlerinin yaşam standartları üzerindeki etkisinin ölçülmesidir. Bunun için ilk olarak, finansal araçlara ulaşımı temsil eden çok boyutlu bir finansal kapsayıcılık endeksi oluşturulmuştur. Oluşturulan endeks ile yoksulluk kavramının mutlak, sosyal ve gelir dağılımı ile ilintili tanımları ayrı ayrı analiz edilmiştir. Temel Bileşenler Analizi ve Faktör Analizi ile oluşturulan endeksimiz ile yoksulluğun farklı tanımları arasındaki ilişki Dinamik Panel Veri Analizi yöntemleri ile ölçülmüştür. Kullanılan yöntemler çok boyutlu ele alınan araştırma konusu aynı zamanda çalışmanın yenilikçi yanını ve literatüre katkısını ortaya koymaktadır. Çalışma sonucunda, finansal araçlara ulaşımı artırıcı politikaların toplumun alt kesimlerindeki insanların yaşam standartlarına olumlu yönde etkisi olduğu görülmüştür.
+Yazar isimleri: ['Recep YORULMAZ']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogusbd/issue/68691/1085143
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2299361

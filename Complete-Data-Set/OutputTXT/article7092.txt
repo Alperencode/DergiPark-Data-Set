@@ -1,0 +1,7 @@
+Makale Başlığı: SARS-CoV-2 İlişkili Pediatrik Ensefalit Olgusu
+Özet: COVID-19'a neden olan SARS-CoV-2, insan hücrelerini enfekte etmek için anjiyotensin dönüştürücü enzim 2 (ACE-2) reseptörüne bağlanır. Beyindeki glial hücreler ve nöronlar; ACE-2 reseptörü içerdiğinden dolayı SARS-CoV-2'nin potansiyel hedeflerindendir. Bu durum SARS-CoV-2’ye nörotrofik bir özellik sağlar. Ensefalit, enfeksiyonun veya vücudun immün savunmasının neden olduğu beyin parankiminin inflamasyonu olarak tanımlanır. Bu yazıda değerlendirmeler sonucunda SARS-CoV-2 ile ilişkili olabileceği düşünülen, bilinç kaybı ve tepkisizlik ile getirilen ensefalit olgusu sunuldu.
+Yazar isimleri: ['Erkut ETÇİOĞLU', 'Muhammet Raşit AYDIN', 'Hasan APAYDIN']
+Yayın Yılı: 29 Ekim 2022
+Dergi ismi: Hitit Medical Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hititmedj/issue/73245/964801
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1866373

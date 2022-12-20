@@ -1,0 +1,7 @@
+Makale Başlığı: SiC ve GaN Tabanlı IGBT Modülleri İçin Quasi Rezonant IGBT Kapı Sürücü Tasarımı
+Özet: Bu makalede Sic ve GaN tabanlı IGBT modülleri için ACPL-352J-500E IGBT sürücü entegresi kullanılarak optik olarak izole edilmiş IGBT kapı sürücü tasarımı anlatılacaktır. Bu makalenin temel amacı, çok düşük gürültü ve kararlı performansa sahip yeni bir tip izole quasi rezonanslı DC-DC dönüştürücü devresi içeren yüksek kaliteli IGBT kapı sürücü devresi tasarlamaktır. Dört kanallı izole sürücü çıkışı sayesinde her bir anahtarlama elamanı birbirinden izole olarak beslenmektedir.
+Yazar isimleri: ['Fatih YALÇIN', 'Hüseyin KÖSE']
+Yayın Yılı: 11 Aralık 2022
+Dergi ismi: EMO Bilimsel Dergi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/emobd/issue/73772/1183745
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2686062

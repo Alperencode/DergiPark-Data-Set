@@ -1,0 +1,7 @@
+Makale Başlığı: Elasticity solution for a functionally graded two-layer beam with simple   supported edges
+Özet: An analytical solution for a functionally graded   two-layer beam subjected to transverse loading is handled based on the   theory of elasticity. The upper and lower layers are fully bonded to each   other and simply supported at the edges. Poisson's ratios are taken as   constant and Young's moduli are assumed to vary exponentially through the   thickness of the layers. Numerical results for the normal stresses and shear   stress are given as a solution and the effect of grading on the stress   distributions is investigated. In the functionally graded beam solution it   is required that one side of the beam is stiffer while the other side is   softer when Young's modulus is assumed to vary exponentially through the   thickness. The exponential variation of the elasticity modulus may be   symmetrical about the mid-plane when the beam is designated as layered.
+Yazar isimleri: []
+Yayın Yılı: 1 Haziran 2014
+Dergi ismi: Turkish Journal of Engineering and Environmental Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkengineering/issue/35821/401392
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/434836

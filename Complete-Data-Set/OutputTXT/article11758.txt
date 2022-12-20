@@ -1,0 +1,7 @@
+Makale Başlığı: Landscape Based Visitor Carrying Capacity Analysis in Park Design
+Özet: The Visitor Carrying Capacity (VCC) can be defined as the socially acceptable maximum visitor number in an area without causing ecological degradation. In this study, a three-stage method of VCC analysis based on landscape character is proposed in the case of the Kırşehir Kocabey Poplar Plantation Site. In the first phase, park design is carried out, guided by Landscape Character Analysis and Assessment (PKAD) based on key ecological processes. In the second stage, VCC is calculated considering limiting factors. The third stage covers the economic evaluations. According to PKAD, 47% of the site presents a high level of landscape sensitivity and 27% facilitates limited use. The annual VCC is a min. of 64,050 and a max. of 101,220 people. These correspond to 33% of the VCC without the limiting factors. Landscape sensitivity is taken as the main limiter. The evaluation of factors of sensitivity and limiting factors can lead to establishing a protection-use balance. Thus, the continuity of both the landscape and recreational opportunities can be ensured.
+Yazar isimleri: ['Şükran ŞAHİN', 'Ecem HOŞGÖR', 'Duygu DOĞAN', 'Işıl KAYMAZ']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Mimarlık Bilimleri ve Uygulamaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mbud/issue/69153/1065599
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2222737

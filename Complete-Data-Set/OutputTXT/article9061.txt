@@ -1,0 +1,7 @@
+Makale Başlığı: Multiple Intelligence’s and Computational Thinking
+Özet: Stakeholders from education are determined to introduce computational thinking (CT) and programming much earlier into the educational process. Thus, according to international trends, programming has grown progressively, reaching a significant focus within the EU and other countries. Since future research needs to be undertaken to investigate the interrelationship between CT skills and competencies, we designed a project to be carried out during one year with 9-year-old students attending a primary school of Basic Education. This article presents the results achieved until we had the chance since the COVID pandemic disturbed the investigation's final part.
+Yazar isimleri: ['Pedro TADEU']
+Yayın Yılı: 23 Nisan 2022
+Dergi ismi: Journal of Computer and Education Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcer/issue/69325/1027934
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2097835

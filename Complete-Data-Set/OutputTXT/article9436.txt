@@ -1,0 +1,7 @@
+Makale Başlığı: 1.2436 Takım Çeliğinin Mekanik ve Mikroyapısal Özellikleri Üzerine Sığ Kriyojenik İşlemin Etkilerinin Araştırılması
+Özet: Bu çalışma, sığ kriyojenik işlemin 1.2436 çeliğin mikroyapısı, sertliği ve aşınma direnci üzerindeki etkilerini araştırmaktadır. Bu amaçla, su verilmiş (QT) 1.2436 çelik numunelere -80 °C'de 12 saat (SCT12) ve 18 saat (SCT18) için sığ kriyojenik işlem uygulanmıştır. Numuneler üzerinde sertlik ölçümü ve aşınma testi gerçekleştirilmiş ve numuneler mikroyapısal olarak incelenmiştir. Çalışma sonucunda kriyojenik işlemin 1.2436 çeliğin mikro yapısında daha yoğun ve homojen bir karbür dağılımı sağladığı gözlemlenmiştir. 18 saat süre sığ kriyojenik işlem ile mikroyapıdaki karbür miktarı yaklaşık %18,80 oranda artmıştır. Sertlik ve aşınma testleri sonucunda kriyojenik işlemin 1.2436 çeliğin sertliğini ve aşınma direncini olumlu yönde etkilediği tespit edilmiştir. Yalnızca su verilmiş numune ile karşılaştırıldığında, 18 saat boyunca kriyojenik işlem görmüş numune %9.64 daha yüksek sertlik ve %34.37 daha az aşınma sergilemiştir.
+Yazar isimleri: ['Nursel ALTAN ÖZBEK', 'Onur ÖZBEK']
+Yayın Yılı: 18 Aralık 2022
+Dergi ismi: Journal of Materials and Mechatronics: A
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jmm/issue/73795/1113194
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2413667

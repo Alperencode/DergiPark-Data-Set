@@ -1,0 +1,7 @@
+Makale Başlığı: Do Credits Affect Money Supply and Deposits, or Vice Versa, or Interconnected?
+Özet: There are different approaches regarding the effect of credits on deposits and moneysupply. In particular, the view that banks do not need deposits to create credit has becomeincreasingly popular. In this paper we empirically investigate the relationship among moneysupply, credits and deposits based on the Turkish experience. Specifically, using quarterlyobservations on M1, M2, M3, deposits in Turkish Lira (TL-Lira) and Foreign Currency (FX)deposits as well as credits spanning the December 2005 - September 2021 period we findthat credits have significant effects on money stock and deposits. However, our results alsosuggest that credits are not the most important determinant of money supply or deposits.While our results suggest that credits may generate money and deposits endogenously, thisfinding does not imply that money is purely an endogenous variable.
+Yazar isimleri: ['Göksel TİRYAKİ']
+Yayın Yılı: 22 Eylül 2022
+Dergi ismi: BDDK Bankacılık ve Finansal Piyasalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bddkdergisi/issue/72654/1178353
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2663492

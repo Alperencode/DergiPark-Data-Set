@@ -1,0 +1,7 @@
+Makale Başlığı: SiC, MgCO3 ve Li2CO3 İlavelerinin Seramik Köpükler Üzerine Etkisinin İncelenmesi
+Özet: Seramik köpük malzemeler günümüzde hem filt re hem de yalıtım amacıyla yaygın olarak kullanılmaktadır.  Yapılan bu çalışmada SiC, MgCO3 ve Li2CO3 ilavelerinin seramik esaslı köpüklerin özellikleri üzerine etkilerinin incelenmesi amaçlanmıştır.  Bu doğrultuda farklı katkı oranlarında kompozisyonlar hazırlanmıştır. Bu kompozisyonlar ile üretilen köpük numunelerinin SEM ve XRD gibi mikroyapı ve faz analizleri gerçekleştirilmiş ayrıca temassız optik dilatometre kullanarak sinterleme analizleri yapılmıştır. TG ve DTA analizleri ile de kütle kayıpları ve faz dönüşüm sıcaklıkları tespit edilmiştir. Yapılan çalışma sonucunda görülmüştür ki, katkılar beraber seramik köpüklerin teknolojik özelliklerinin geliştiği tespit edilmiştir.
+Yazar isimleri: ['Burak DOĞAN', 'Tuna AYDIN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1120162
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2442587

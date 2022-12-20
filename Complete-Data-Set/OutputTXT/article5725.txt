@@ -1,0 +1,7 @@
+Makale Başlığı: Bölgesel Güneş Enerji Potansiyeli  ve Enerji Santrali Yatırımı Değerlemesi: Sincan Örneği
+Özet: Dünyadaki nüfus artışı ve ileri teknoloji süreçlerine bağlı olarak, enerjiye olan ihtiyaç her yıl artmaktadır. Artan enerji talebini karşılamak için, fosil esaslı kömür, doğal gaz, petrol gibi  azalan kaynaklar, sıklıkla kullanılmaktadır, buyüzden çevre kirliliği tehlikeli seviyelere ulaşmaktadır. Türkiye'de çevre kirliliğinin önlenmesine katkıda bulunmak için, ithalat gerektirmeyen ve maliyeti düşük olan yenilenebilir enerji kaynaklarının kullanımı büyük önem taşımaktadır. Bu çalışmada, Ankara ili Sincan ilçesindeki 50MW büyüklüğündeki güneş enerji santralinin potansiyeli incelenerek yatırım bakımından değerlendirilmiştir. Güneş enerji santrali yatırımlarının 4-5 sene içerisinde yapılan yatırımı geri kazandırdığı ve karbon salınımını azaltarak fotovoltaik sistemlerin ekonomik ömrü olan 25 yıl süresince enerji üretebileceği mümkün görülmektedir.
+Yazar isimleri: ['Harun VARLI', 'Mustafa TUNA', 'Prof.dr. Mustafa TOMBUL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1117094
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2429565

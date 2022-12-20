@@ -1,0 +1,7 @@
+Makale Başlığı: Optiksel Uyarılmayla Lüminesans Yöntemi Kullanılarak Kuvarsit Numunesinin Dozimetik Özelliğinin İncelenmesi
+Özet: Bu çalışma Koçyazı formasyonundan alınan kuvarsit numunesinin optik uyarmalı lüminesans (OSL) yöntemi kullanılarak elde edilen doz-cevap ve tekrarlanabilirlik deneylerinin sonuçlarını içermektedir. Çalışmada doza bağlı OSL ölçümleri 1-1100 Gy arasında 13 farklı doz değeri için yürütüldü. OSL sinyal şiddetinin doza karşı davranışı incelendiğinde, 1 ile 600 Gy aralığında lineer bir davranışa sahip olduğu gözlendi. Ancak, dozimetrik malzeme olarak değerlendirilebilmesi için önemli testlerden biri olan tekrar kullanılabilirlik testinin sonuçları incelendiğinde 4. çevrimden sonra sınır olan %5 değerini aştığı görüldü.
+Yazar isimleri: ['Tamer DOĞAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Edebiyat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufed/issue/70870/1130087
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2483701

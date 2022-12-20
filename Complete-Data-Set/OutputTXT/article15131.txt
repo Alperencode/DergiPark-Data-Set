@@ -1,0 +1,7 @@
+Makale Başlığı: GREENHOUSE GAS EMISSION AND THEIR TREND PREDICTION USING AIS AND TRADE DATA
+Özet: Due to decarbonization and greenhouse gas (GHG) emission reduction attempts nowadays, liquefied natural gas (LNG) has become widely used as an alternative marine fuel. As Japan is the top global LNG importer and one of the largest crude oil importers, this study focuses on LNG and tanker shipping and their emissions in Japan, and import volumes. In this study, the emission estimation model is constructed based on the Holtrop-Mennen power prediction method. Using automatic identification system (AIS) data, fuel consumption and GHG emissions are estimated. Next, long term GHG emission is predicted using hthe Japan trade statistics. Combining the vessel movement data and trade statistics, GHG emission in Japan is projected to decline over years for tankers, and to remain stable for LNG carriers. The results could be considered in formulating environmental and trade policy. It is hoped the study will provide useful insights for zero emission projects and implementations in Japan.
+Yazar isimleri: ['Thuta Kyaw WİN', 'Daisuke WATANABE', 'Shigeki TORIUMI']
+Yayın Yılı: 9 Aralık 2022
+Dergi ismi: Toros Üniversitesi İİSBF Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iisbf/issue/73765/1181251
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2675909

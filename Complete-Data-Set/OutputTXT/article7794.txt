@@ -1,0 +1,7 @@
+Makale Başlığı: Doğal Gaz Tüketiminin Elektrik Tüketimi Üzerindeki Etkisinin İncelenmesi: Muş İli Örneği
+Özet: Türkiye’de doğal gaz 81 il merkezi ve birçok ilçe merkezinde yaygın olarak kullanılmaktadır. Konutlarda doğal gaz kullanımının diğer yakıtlara göre ekonomik, kolay ve temiz olduğu bilinmektedir. Konut ısıtması, sıcak su temini ve pişirme gibi işlerin elektrikle yapılması, elektrik arzında ilave tedbirlere, aşırı yüklenmelere ve arızalara sebep olmaktadır. Doğal gazın kullanılması bu olumsuzlukları azaltabilmektedir. Bu çalışmada, 2016 yılında Muş ilinde doğal gazın kullanılmaya başlanmasıyla birlikte doğal gaz tüketiminin elektrik tüketimi üzerinde bir etkisinin olup olmadığı incelenmiştir. Bu amaçla, Türkiye’nin elektrik ve doğal gaz durumu değerlendirildikten sonra Muş ilinin genel bir değerlendirmesi yapılmıştır. 2016-2020 yıllarında doğal gaz kullanımı Muş İl Merkezi ile sınırlı olduğundan, çalışmanın kapsamı Muş İl Merkezine indirgenerek tüketim değerleri irdelenmiştir. İlgili kurumların kayıtları incelenerek Muş ilinde doğal gaz tüketiminin elektrik tüketimi üzerindeki etkisine yönelik tespitler ortaya konulmuştur.
+Yazar isimleri: ['Halil GÖR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Pure and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijpas/issue/70506/1086618
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2304898

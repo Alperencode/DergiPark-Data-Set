@@ -1,0 +1,7 @@
+Makale Başlığı: Determining Airline Customer Satisfaction with Ensemble Learning Methods
+Özet: Estimating the customers who aren’t satisfied with their travels in air transportation is extremely important in terms of structuring the companies themselves and managing the revenues. In this study, it’s aimed to predict neutral or dissatisfied customers with ensemble learning methods by using data compiled from airlines in the U.S. In the modeling phase, Random Forest, Gradient Boosting, and XGBoosting methods, which are current machine learning methods that produce high estimation accuracy in classification problems, were used. The best accuracy obtained was 96.4%, while the best Specificity and Negative Prediction Rate values were 97.7% and 96%, respectively. The high Specificity, Negative Prediction Rate, and Accuracy values obtained from the model results show that machine learning methods can be used to predict whether customers will reuse airline companies in airline transportation.
+Yazar isimleri: ['Uğur ERCAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1095574
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2341258

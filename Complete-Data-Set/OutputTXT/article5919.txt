@@ -1,0 +1,7 @@
+Makale Başlığı: Characterization of Intuitionistic Fuzzy Collineations in Intuitionistic Fuzzy Projective Planes
+Özet: In this paper, the intuitionistic fuzzy counterparts of the collineations defined in classical projective planes are defined in intuitionistic fuzzy projective planes. The properties of the intuitionistic fuzzy projective plane left invariant under the intuitionistic fuzzy collineations are characterized depending on the base point, base line, membership degrees, and the non-membership degrees of the intuitionistic fuzzy projective plane.
+Yazar isimleri: ['Elif ALTINTAŞ', 'Ayşe BAYAR']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Fundamental Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fujma/issue/72663/1049786
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2162468

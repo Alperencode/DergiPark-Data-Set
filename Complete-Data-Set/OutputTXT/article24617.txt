@@ -1,0 +1,7 @@
+Makale Başlığı: An Effective Method for Islanding Detection Based on Variational Mode Decomposition
+Özet: 
+Yazar isimleri: []
+Yayın Yılı: 1 Temmuz 2019
+Dergi ismi: Electrica
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/electrica/issue/46870/587726
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/754680

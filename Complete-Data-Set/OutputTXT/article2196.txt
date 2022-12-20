@@ -1,0 +1,7 @@
+Makale Başlığı: CYST DETECTION USING FILTERING TECHNIQUE IN KIDNEY IMAGES
+Özet: Kidney cysts are fluid-filled sacs that occur inside or on the surface of the kidney. It is common in the human kidney. The incidence of kidney cysts increases with age. It is a factor in the formation of stone cysts in the kidney. Kidney cysts can cause hypertension as well as kidney failure and failure of kidney functions. The most common method for detecting kidney cysts is computed tomography. In this study, the location of the kidney cyst was tried to be determined by using edge detection filter and Sobel filter. The values were first determined by using the 3x3 original kernel matrix of the filters, and then the values of these matrices were changed to obtain the best results.
+Yazar isimleri: ['Aziz İlyas ÖZTÜRK', 'Osman YILDIRIM', 'Yavuz ATEŞ', 'Ali KURU']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1086788
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2305524

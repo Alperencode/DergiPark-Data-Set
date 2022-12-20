@@ -1,0 +1,7 @@
+Makale Başlığı: Gemi jeneratörlerinin senkronizasyonu üzerine bir benzetim çalışması
+Özet: Gemilerin çoğunda elektrik enerjisi ihtiyacı dizel jeneratör grupları ile karşılanmaktadır. Gemilerin türüne ve kapasitesine bağlı olarak gemilerde farklı sayılarda ve farklı kapasitelerde jeneratör grupları bulunabilir. Gemilerde elektrik enerjisi ihtiyacının birden fazla jeneratör ile karşılanması durumunda diğer jeneratörün senkronize bir şekilde devreye alınması gerekmektedir. Bu süreç hem otomatik hem de manuel olarak yürütülebilmektedir. Bu çalışmada, bir gemide iki jeneratörün senkronizasyon süreci Matlab/Simulink programında bir benzetim çalışması yapılarak incelenmiştir. Sonrasında, senkronizasyon sürecinde jeneratör baralarındaki elektriksel parametrelerin değişimleri yorumlanmıştır. Bu çalışma ile özellikle gemi personelinin senkronizasyon süreci hakkında teorik bilgi edinmesi ve literatüre gemi elektriği alanında katkı sunulması amaçlanmıştır.
+Yazar isimleri: ['Durukan ERDOĞAN', 'Kenan YİĞİT', 'Faruk AYDIN', 'Bora ACARKAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Dicle Üniversitesi Mühendislik Fakültesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dumf/issue/72718/1134163
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2500627

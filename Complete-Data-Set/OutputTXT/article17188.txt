@@ -1,0 +1,7 @@
+Makale Başlığı: FORTUNE500'DE SEÇİLMİŞ İLK 50 TÜRK FİRMANIN NAKİT AKIŞ ORANLARININ FİRMANIN PERFORMANSI ÜZERİNE ETKİSİ
+Özet: Nakit akış tablosu, bir kuruluşun finansal performansının ayrılmaz bir göstergesidir. Dinamik nakit oranları, bir kuruluşun finansal farklılığını yansıtmayı destekler. Çalışmada, nakit dengesi ve likidite hakkında kesin bilgiyi yansıtması açısından Nakit Akış Tablosundan elde edilen oranlar kullanılmıştır. Bu çalışmanın amacı, Fortune 500'deki seçilmiş ilk 50 Türk firmasının performans farklılıklarını tahmin etmek için nakit akış oranlarının, nakit akış profillerine göre model2 ye giren firmalar ve diğerlerine (model3, model4, model6) giren firmaların etkinliğini analiz etmektir. Sonuç olarak, analiz sonuçlarına göre kullanılan değişkenlerden X6 değişkeni firmaların Model2’ye girmelerini etkileyen değişken olarak belirlenmiştir.
+Yazar isimleri: ['Seda ALDEMİR', 'Süleyman Serdar KARACA']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Uluslararası Yönetim Eğitim ve Ekonomik Perspektifler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jimeep/issue/70674/1123955
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2458177

@@ -1,0 +1,7 @@
+Makale Başlığı: Can Google Search Data Improve the Unemployment Rate Forecasting Model? An Empirical Analysis for Turkey
+Özet: Today, data accumulated during internet use have become an important source of information for people’s behaviour, issues, and needs, and due to real-time data acquisition, Google search data have become a focal point for researchers. As a result, it has been become more common to use GT data, which have been included in forecasting models for many economic indicators, including unemployment rate forecasting. Therefore, this study aims to determine whether including Google search data in forecasting models can improve the model’s performance in forecasting the unemployment rate in Turkey. In this context, out-of- sample forecasting was performed in this study using seasonally adjusted monthly unemployment rates for the period between January 2005 and August 2020 and monthly GT data about the topic of unemployment insurance. In addition, the forecasting performance of ARIMA and ARIMAX methods were compared.
+Yazar isimleri: ['Gülşah ŞENTÜRK']
+Yayın Yılı: 29 Temmuz 2022
+Dergi ismi: İktisat Politikası Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iuipad/issue/71907/963438
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1863340

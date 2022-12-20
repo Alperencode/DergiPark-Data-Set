@@ -1,0 +1,7 @@
+Makale Başlığı: On $ p,q $-Harmonic Numbers
+Özet: 
+Yazar isimleri: ['Serpil HALICI', 'Zehra Betül GÜR']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1181525
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2677036

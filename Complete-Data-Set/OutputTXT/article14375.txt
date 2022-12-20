@@ -1,0 +1,7 @@
+Makale Başlığı: Karmosin için Deney Tasarımı Uygulanarak Bulutlanma Noktası Ekstraksiyonu Kullanımı ve Spektrofotometrik Tayini
+Özet: Karmosin (E122) bir gıda katkı maddesi olarak genellikle gıda, kozmetik ve ilaçlarda kullanılan boyadır. Bu çalışmada, bulutlanma noktası ekstraksiyonundan (CPE) sonra şurup numunesinde karmosinin (KAR) spektrofotometrik tayini için ekstraksiyon aşamasında Brij 58 kullanılmıştır. Ekstraksiyon sıcaklığı, pH, Brij 58 (yüzey aktif madde) konsantrasyonu ve Na2SO4 konsantrasyonu gibi bazı parametreler merkezi kompozit tasarımı, Box-Behnken tasarımı ve klasik deneysel yöntemler kullanılarak optimize edilmiştir. Yöntemin doğrusal çalışma aralığı 0,05 - 4,00 g mL-1 olarak belirlenmiştir. Bu yöntemin gözlenebilme sınırı (LOD); KAR için 0,0018 μg mL-1 dir. Yöntemde KAR'ın geri kazanım değerlerinin %98,00 ve %102,67 arasında olduğu hesaplanmıştır. Bulgular, bu yeni CPE yönteminin rutin analizde KAR’ın hassas belirlenmesi için hızlı bir şekilde kullanılabileceğini göstermiştir.
+Yazar isimleri: ['Tufan GÜRAY', 'Ülkü Dilek UYSAL']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufenbed/issue/73792/1068593
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2234139

@@ -1,0 +1,7 @@
+Makale Başlığı: Doğal dil işleme yöntemleriyle metinden SQL sorgusu tahmini üzerine bir çalışma
+Özet: Bilgisayar bilimlerinde, kalıcı bilgiler sistematik bir şekilde veri tabanlarında tutulmaktadır. Veri tabanlarındaki bilgilere ulaşılabilmesi için belirli teknik birikimlere sahip olunması gerekmektedir. Çalışmamızda, doğal dille yapılmış sorgulardan SQL sorgusu tahmini yapılmıştır. Bu sayede teknik bir bilgi birikimi olmadan veri tabanları üzerinde sorgulamalar yapılabilmesi hedeflenmektedir. Çalışmamızda doğal dil işleme tekniklerinden faydalanmıştır. Doğal dil işlemenin ana konularından biri olan çoklu dil desteği, uygulamaya entegre edilmiştir. Doğal dilden SQL tahmini için uygulanan model, LSTM ağı kullanılarak spider veri setiyle eğitilmiştir. Yapılan SQL sorgusu tahminlerinde, %75 başarı oranına ulaşmıştır. Çoklu dil desteğiyle yapılan genel sistem değerlendirmesinde, başarı oranı %69.4’ e ulaşmıştır.
+Yazar isimleri: ['Asım Sinan YÜKSEL', 'Muhammed Abdulhamid KARABIYIK']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1120264
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2443005

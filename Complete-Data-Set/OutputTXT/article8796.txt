@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation Factors Affecting Competitive Advantage in Streaming Industry with Multi-Criteria Decision Making Methods
+Özet: The purpose of this study is to determine which factors influence people's preferences for streaming platforms that frequently employ digital marketing techniques. Accordingly, the “number of subscribers, minimum and maximum monthly payment amount, the number of followers on Twitter, Instagram, Facebook and YouTube social media platforms, the PlayStore and AppStore application score, and the number of complaints on the Şikayetvar.com site” were weighted using the CRITIC method as determined within the main framework of "platform features" and "platform image”. This was followed by the analysis of the data belonging to “Netflix, BluTv, Exxen, Gain, Turkcell TV+, Tivibu, D-Smart, Bein Connect” platforms using the CODAS and PIV methods and comparison of the results. According to the study's findings, the "minimum monthly payment amount" criterion is the most effective criterion for consumers when selecting streaming platforms. Furthermore, in the overall evaluation of the analyses carried out, the "Netflix" platform was found to be more successful than other streaming platforms.
+Yazar isimleri: ['Emrah Sıtkı YILMAZ', 'Orhan ECEMİŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: JOEEP: Journal of Emerging Economies and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joeep/issue/66260/1104044
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2376650

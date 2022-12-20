@@ -1,0 +1,7 @@
+Makale Başlığı: Pareto Randomization of the Scaling Parameter for the Gaussian Distribution
+Özet: 
+Yazar isimleri: ['Miguel FELGUEİRAS']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: International Journal of Informatics and Applied Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiam/issue/68183/1020679
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2069867

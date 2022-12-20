@@ -1,0 +1,7 @@
+Makale Başlığı: Bazı Dembowski-Ostrom Polinomlarının Planaritesi Üzerine
+Özet: Dembowski ve Ostrom tarafından tanımlanan planar dönüşümler projektif düzlemler oluşturmanın bir yolu olarak ortaya çıkmıştır. Sonrasında, planar dönüşümlerin kriptografi ve kodlama teorisi gibi farklı alanlarda birçok önemli uygulaması yapılmıştır. Bu çalışmada, tek karakteristiğe sahip üçüncü dereceden sonlu cisim genişlemeleri üzerinde tanımlanan belirli bir formdaki Dembowski-Ostrom polinomlarının planaritesi için gerek ve yeter koşullar elde edilmiştir. Özel olarak, verilen Dembowski-Ostrom polinomlarının planar olmasını sağlayan katsayılar tamamıyla belirlenmiştir.
+Yazar isimleri: ['Zehra AKSOY', 'Barış Bülent KIRLAR']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1053097
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2173598

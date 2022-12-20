@@ -1,0 +1,7 @@
+Makale Başlığı: Ayçiçeği Üretim Miktarının ANFIS Metodu ile Tahmini
+Özet: Son yıllarda Türkiye’de en önemli yağ bitkisi olan ayçiçeği üretiminin az, tüketimin çok olması nedeniyle ihtiyacı karşılamak için yurt dışından temin edilmektedir. Ancak ayçiçeği ithalatında dünyada baş gösteren salgın hastalıklar, doğal afetler ve savaşlardan dolayı zorluklar yaşanmaktadır. Özellikle yağ ihtiyacının karşılanması noktasında ayçiçeğine olan ihtiyacın sürekli karşılanabilmesi için ayçiçeği üretim miktarının doğru olarak tahmin edilmesi gerekiyor ki uygun miktarlarda ithal edilebilsin. Çalışmada ayçiçeği üretim miktarını tahmin etmek için makine öğrenme yöntemlerinden ANFIS yöntemi kullanılmıştır. ANFIS modelinin öğrenme kabiliyetini arttırmak amacıyla K-ortalamalar algoritması ile girdi değişkenlerinin üyelik fonksiyon sayıları belirlenmiştir. ANFIS modelinde ekilen alan, nem, sıcaklık, güneşlenme süresi ve yağış miktarı gibi kriterlere göre ayçiçeği üretim miktarı tahmin edilmesi sağlanmıştır. Bu model Edirne bölgesinde uygulanmış ve 0,003243778 hata (MSE) ile tahmin sağlanmıştır. Böylece ANFIS modeliyle girdilerin değişen miktarına göre gelecek yıllar için üretim miktarı tahmin edilebilecektir.
+Yazar isimleri: ['Olcay EYDEMİR', 'Semra BORAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Ekonomi ve Finansal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jefr/issue/70978/1125426
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2464089

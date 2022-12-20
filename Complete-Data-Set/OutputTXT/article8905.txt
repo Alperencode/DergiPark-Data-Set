@@ -1,0 +1,7 @@
+Makale Başlığı: On the generation of alpha graphs
+Özet: Graceful labelings constitute one of the classical subjects in the area of graph labelings; among them, the most restrictive type are those called {$\alpha$}-labelings. In this work, we explore new techniques to generate {$\alpha$}-labeled graphs, such as vertex and edge duplications, replications of the entire graph, and $k$-vertex amalgamations. We prove that for some families of graphs, it is possible to duplicate several vertices or edges. Using $k$-vertex amalgamations we obtain an {$\alpha$}-labeling of a graph that can be decomposed into multiple copies of a given {$\alpha$}-labeled graph as well as a robust family of irregular grids that can {$\alpha$}-labeled.
+Yazar isimleri: []
+Yayın Yılı: 13 Mayıs 2022
+Dergi ismi: Journal of Algebra Combinatorics Discrete Structures and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jacodesmath/issue/69711/1111733
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2408014

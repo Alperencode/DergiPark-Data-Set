@@ -1,0 +1,7 @@
+Makale Başlığı: The Dynamics of Human Society Evolution: An Energetics Approach
+Özet: Human society is an open system that evolves by coupling with various known and unknown (energy) fluxes. How do these dynamics unfold precisely? Energetics may provide further insights. We expand on Navier-Stokes’ approach to study non-equilibrium dynamics in a field that evolves over time. Based on social fi eld th eory, an induction of th e cl assical fie ld theories, we define social force, social energy, and the Hamiltonian of an individual in society. The equations for the evolution of an individual and society are sketched out based on the time-dependent Hamiltonian that includes power dynamics. We demonstrate in this paper that Lotka-Volterra-type equations can be derived from the Hamiltonian equation in the social field.
+Yazar isimleri: ['Ram Chandra POUDEL', 'Jon G. MCGOWAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Seatific Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/seatific/issue/71311/1119278
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2438992

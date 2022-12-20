@@ -1,0 +1,7 @@
+Makale Başlığı: Nicel Analizler İçin Elektronik Performans Destek Sisteminin Kullanılabilirliğini Etkileyen Faktörler
+Özet: Bu araştırmanın amacı geliştirilen nicel analizler için elektronik performans destek sisteminin kullanılabilirliğini etkileyen faktörlerin belirlenmesidir. Sistemin değerlendirilmesi için 18 eğitim araştırmacısına ulaşılmıştır. Betimsel istatistikler ve nitel içerik analizi yöntemiyle Sistem Kullanılabilirlik Ölçeği ve görüşme verileri incelenmiştir. Bulgulara göre geliştirilen sistem nicel analiz yaparken karşılaşılan zorluklarda kullanılabilirdir. Sistemin kullanılabilirliğini etkileyen faktörler dikkate alındığında sistem özellikleri ve kullanıcı özellikleri ön plana çıkan iki ana faktördür. Sistem özellikleri; içerik, görsel tasarım, yönlendirme, organizasyon ve yardım alt boyutlarını içerirken, kullanıcı özellikleri istatistik algısı, çevrimiçi sistemler algısı ve bireysel öğrenme stilleri olarak ayrışmaktadır.
+Yazar isimleri: ['Kübra KARAKAYA ÖZYER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Information Systems and Management Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jismar/issue/70966/986290
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1938643

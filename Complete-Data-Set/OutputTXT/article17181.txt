@@ -1,0 +1,7 @@
+Makale Başlığı: An Overview of Unmanned Aerial Vehicles Based Environmental Applications
+Özet: Unmanned Aerial Vehicles (UAVs) have long been used efficiently in military domain. Recent technological developments have expanded the usage scope of UAVs with especially route planning depending on autonomous use, and developing battery technologies. Effective result swith UAV technology can be achieved in harsh areas where human access is almost impossible and very expensive in terms of cost. The implementation of UAVs within civilian life has facilitated people in manyareas. The fully-autonomous operation of UAVs with the developing technology and no user assistance has increased the level of UAV usage to higher levels. In this study, an overview of UAVs along with their operating principles is presented. Then, UAV-based environmental studies will be described in details. It is aimed that this study will play an important role in providing basic information to researchers who will start working in the field of UAV.
+Yazar isimleri: ['Şenol ERGUNŞAH', 'Selahattin KOŞUNALP']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Yönetim Bilişim Sistemleri ve Bilgisayar Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uybisbbd/issue/71032/1082689
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2289392

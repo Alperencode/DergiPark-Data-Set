@@ -1,0 +1,7 @@
+Makale Başlığı: Bireysel Isıtma Sistemlerinde Tesisat Temizliğinin Enerji Verimliliği Açısından Deneysel Olarak Değerlendirilmesi
+Özet: Isıtma sistemlerinde zamanla kireçlenme başta olmak üzere çeşitli sorunlar ve kirlenme meydana gelmektedir. Bu kirlenme radyatörlerin ısı atmasını engelleyerek sistemin verimsiz çalışmasına ve enerji sarfiyatına neden olmaktadır. Bu çalışmada tesisat temizliğinin sağlayacağı enerji verimliliği üzerine deneysel bir araştırma yapılmıştır. Çalışmada tesisat temizliğinden önce ve sonra yapılan ölçüm ve hesaplamalar ile bu iki durum kıyaslanmıştır. Tesisat temizliğinin radyatörde oluşan sıcaklık dağılımını homojenize ettiği görülmüştür. Yapılan temizlik neticesinde radyatör sıcaklıklarında yaklaşık 5°C’lik artışlar elde edilmiştir. Ayrıca doğal gaz tüketiminde % 21.16’lık azalma sağlanırken radyatörlerde gerçekleşen taşınım ısı transfer mekanizmasında da %17.2’lik iyileşme sağlanmıştır.  Ayrıca kullanılan doğalgaz miktarına bağlı olarak çevreye salınan zararlı gaz miktarlarında (NO, NOx, CO, CO2 ve O2) % 3.2 ile % 25 arasında değişen oranlarda azaltımlar elde edilmiştir.
+Yazar isimleri: ['Halil VARİYENLİ', 'Kerim MARTİN', 'Ataollah KHANLARI', 'İpek AYTAÇ']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/1025494
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2088524

@@ -1,0 +1,7 @@
+Makale Başlığı: VREP uygulamasında A-star kullanılarak otonom park eden robot
+Özet: 
+Yazar isimleri: ['Umut ÇELEBİ', 'Muhammad Umer KHAN', 'Mert Anıl DEMİRHAN']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: Veri Bilimi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/veri/issue/67424/963967
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1864866

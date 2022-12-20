@@ -1,0 +1,7 @@
+Makale Başlığı: PHASE CHANGE MATERIALS: TYPES, PROPERTIES and APPLICATIONS in BUILDINGS
+Özet: The need to reduce the use of fossil energy,  which is running out and harmful to the environment, in response to the increasing energy demand with rapid urbanization, population growth and developing technologies reveals the necessity of research and application of technologies using renewable energy. Phase-change materials (PCM) are one of the most suitable methods for the efficient use of thermal energy originating from clean and sustainable energy sources. PCMs play important roles in a more energy-efficient world. The development of PCMs is one of the most challenging areas of study for more efficient thermal energy storage (TES) systems. This paper first explains the concept of PCMs and then describes the properties of these materials. After mentioned studies for improving the properties of PCMs, then PCM types and advantages-disadvantages are explained. Also, usage areas of PCMs in various sectors are also explained.
+Yazar isimleri: ['Fatih Selim BAYRAKTAR', 'Ramazan KÖSE']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kırklareli Üniversitesi Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/klujes/issue/70928/1126167
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2467259

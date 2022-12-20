@@ -1,0 +1,7 @@
+Makale Başlığı: Marmara Bölgesinde Hava Kalitesini Etkileyen Faktörlerin Belirlenmesi ve Hava Kalitesi Endeksleri Kullanılarak Değerlendirilmesi
+Özet: Antropojenik faaliyetlere bağlı hava kirliliği dünya çapında karşılaşılan en önemli sorunlardan biridir. Bu çalışma, bir yandan hava stres indeksi (ASI) ve günlük hava kalitesi (DAQx) ölçeğini kullanarak hava kalitesini değerlendirirken diğer yandan hava kalitesi ile mekansal, meteorolojik ve antropojenik faktörler arasındaki ilişkileri belirlemeyi amaçlamıştır. Bölgedeki yıllık ortalama CO, NOx, O3, PM2.5, PM10 ve SO2 seviyeleri sırasıyla 718.6, 39.5, 44.4, 25.5, 51.3 ve 9.9 µg/m3'tür. Antropojenik değişkenlerin en çok NOx (r=0,56 ila 0,64) ve O3 (r=-0,34 ila 0,64) kirleticilerini etkilerken, meteorolojik (r=-0,38 ila 0,45) ve mekansal faktörler ise (r=-0,41 ila -0,65) en çok partiküler madde miktarını etkilemiştir. CO ve SO2 ise her türlü değişkenden farklı oranlarda etkilenmiştir. ASI ve DAQx değerleri ortalama 2.1 ve 4.3 olarak bulunmuş ve bölgedeki hava kalitesinin sırasıyla belirgin hava stresi ve yeterli hava kalitesi sergilediğini göstermiştir. Bu çalışmanın bulgu ve sonuçları, bölgedeki hava kalitesinin daha iyi anlaşılıp değerlendirilmesine katkı sağlayabilir ve ileride yapılacak çalışmalar için bir temel oluşturabilir.
+Yazar isimleri: ['İsmet YENER', 'Kazım Onur DEMİRARSLAN']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Doğal Afetler ve Çevre Dergisi
+Yayın sayfa url: http://dacd.artvin.edu.tr/tr/pub/issue/71418/1081167
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2283182

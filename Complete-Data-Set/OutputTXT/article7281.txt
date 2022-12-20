@@ -1,0 +1,7 @@
+Makale Başlığı: Hydroxyapatite coating processes with EPD method and investigation of mechanical properties of coatings
+Özet: This paper reports on electrophoretic deposition of hydroxyapatite coatings on 316L stainless steel and Ti6Al4V alloy. Coatings were carried out at 60 sec. deposition time and voltage values of 40, 80, 120, 160 Voltage. Suspension: It was prepared by using Ethanol, Hydroxyapatite, Polyvinyl Alcohol, Sodium dodecyl sulfate, N-N-Dimethylformamide chemicals. The findings and results acquired at the end of the study have been presented and discussed. When the Ca/P values calculated in the study are examined, it was seen that there are values close to the ideal Ca/P ratio (1.67) in all parameters. When the roughness values are examined, it was seen that coatings close to the ideal surface roughness value (1-1.5 µm) are obtained. When the nano indentation test results were evaluated, it was observed that coatings suitable for shell bone implants were obtained.
+Yazar isimleri: ['İbrahim AYDIN', 'Ali İhsan BAHÇEPINAR', 'Mehmet AYVAZ']
+Yayın Yılı: 15 Ağustos 2022
+Dergi ismi: International Advanced Researches and Engineering Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iarej/issue/72165/1102381
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2369847

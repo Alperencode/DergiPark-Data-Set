@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis and Thermomechanical Analysis of Some Primer Alcohol Derivatives of Maleic Anhydride/Styrene Copolymer
+Özet: In this study, Maleic anhydride/Styrene (MAS) copolymer was synthesized. The synthesized copolymer was characterized and then modified with two different primary alcohols (propyl and butyl). Dissolution, FT-IR and thermo-mechanical (TMA) analyzes of the copolymer and its two modified ester derivatives were performed. The ester numbers of the obtained derivatives were calculated. Although the ester derivatives showed dissolution behavior in the same solvents as the MAS copolymer, they dissolved faster. Modification was confirmed in the FT-IR spectra. It was also found that the derivatives were more elastic than the MAS copolymer and had a lower glass transition temperatures. The calculated ester numbers were also close to each other.
+Yazar isimleri: ['Ersen YILMAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Karamanoğlu Mehmetbey Üniversitesi Mühendislik ve Doğa Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kmujens/issue/70244/1130963
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2487391

@@ -1,0 +1,7 @@
+Makale Başlığı: Implementation of Interior-point Methods for P*(k)-LCP Based on New Search Direction
+Özet: In this paper, we present an interior-point algorithm for solving p*(k)-linear complementarity problem. The	specificity of our method is to compute Newton's step using a modified system of the centrality equation. For this reason, we consider three know function in the literature applied in the centrality equation, so a new Newton's direction are determined. The convergence of these algorithms is accomplished. This search is followed by comparative study between the numerical result obtained through these three functions.
+Yazar isimleri: ['Derbal LOUIZA']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: International Journal of Informatics and Applied Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiam/issue/68183/1036198
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2130542

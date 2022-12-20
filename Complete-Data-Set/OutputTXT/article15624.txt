@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of Different Drill Bits on Delamination in Drilling Composite Materials
+Özet: The most important problem of composite materials, which have been started to be used in every field of technology, is the ability to perform machining operations such as drilling and cutting. In this respect, in this experimental study, its performance in drilling different composite materials with different reinforcements and thicknesses with drills of different types and different diameters was investigated. Three different types of drills were used in drilling operations, namely HSS, TIN and Carbide. Reinforced composites of different types and properties were used as materials. As a result of the drilling processes, the surface roughness of the drilled surface, drilling performance, hole quality and different cutting parameters were examined depending on the rotation and feed rate. The same drilling conditions were applied for each composite material. All result values obtained were transferred to graphs and tables. In addition, photographs of all samples were taken under Scanning electron microscopy (SEM) and the surface roughness of these photographs was examined.
+Yazar isimleri: ['Haşim PIHTILI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1087099
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2306727

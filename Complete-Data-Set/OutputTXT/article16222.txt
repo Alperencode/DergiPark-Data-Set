@@ -1,0 +1,7 @@
+Makale Başlığı: Problems and Prospects of Flying Rotor Drones Particularly Quadcopters
+Özet: Rotor type drones are used as a source for acquiring intelligence from areas which are remotely located. This intelligence can be used for ensuring crop insurance, knowing post-disaster assessments, knowing information of restricted security zones, etc. Apart from various advantages, rotor type drones, like quadcopters, have certain drawbacks also. These drawbacks need to be researched and addressed in detail so that the information can be acquired in a manner which is deliberate and very effective, while obtaining information from various sensors attached to the drones. These drawbacks are the problems pertaining to sound of propellers, selection of flight controller, power management issues, flying in non-conducive weather, collision avoidance, videography during night and extended communication ranges, which have been discussed in this paper.
+Yazar isimleri: ['D. VOHRA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Türkiye İnsansız Hava Araçları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tiha/issue/70924/1068613
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2234201

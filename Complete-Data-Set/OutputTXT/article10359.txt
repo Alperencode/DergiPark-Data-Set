@@ -1,0 +1,7 @@
+Makale Başlığı: Geographical accessibility of health care network via GIS in Kastamonu
+Özet: Accessibility is one factor that increases the quality of life in urban areas. Accessibility is an indicator that reflects the ease of reaching an intended point or location. In general, access to healthcare relates to the population in a given area combining the physical distance between home and the location of a healthcare facility. In the study carried out to reach the health service facilities in Kastamonu Central district, the accessible areas of the facilities within walking distance were calculated with the help of GIS at a distance of 300-500 meters with the network analysis technique. With the help of spatial analysis, it aims to determine the current situation and help plans be created to consider the needs of society. In the current situation, the points that can be improved in terms of access to health institutions in the research area have been mentioned, and suggestions have been made.
+Yazar isimleri: ['Cansel ÇAKIR', 'Öznur IŞINKARALAR', 'Sevgi ÖZTÜRK']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Kastamonu Üniversitesi Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kastamonujes/issue/70574/1099909
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2359477

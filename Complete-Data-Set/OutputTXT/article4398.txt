@@ -1,0 +1,7 @@
+Makale Başlığı: EKONOMİ ALANINDAKİ OBEZİTE ÇALIŞMALARI ÜZERİNE VOS VIEWER ANALİZİ
+Özet: Bu çalışma, 1994-2022 yılları arasında Web of Science veri tabanında indekslenen bilimsel yayınların bibliyometrik verilerine dayalı, ekonomi alanında obezite ile ilgili popüler bilimsel çalışmaları sunarak literatüre katkı sağlamayı amaçlamaktadır. Bu amaçla bibliyometrik analiz tekniği olan VOS Viewer’dan yararlanılmıştır. Obezite ile ilgili çok sayıda literatür yayınına dayanan bu çalışmada, obezite araştırmacıları tarafından yayınlanan en önemli tematik alanlar ile yazarlar arasındaki bağlantı harita üzerinde görselleştirilmiştir. Bu çalışma, 1994 yılındaki ilk yayından günümüze obezitenin ekonomik boyutlarına ilişkin literatürün sistematik bir incelemesini sunmaktadır.
+Yazar isimleri: ['Melike TORUN', 'Özgür ASLAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Dokuz Eylül Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/deusosbil/issue/72824/1087742
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2309279

@@ -1,0 +1,7 @@
+Makale Başlığı: An Experimental Study of a Pico Hydro Turbine
+Özet: Today, the storage and transporting of electricity from one place to another is still an unsolved problem. Besides, it is not economical to install power lines everywhere for low-voltage electronic circuits such as valves which are used to reduce leakage in water lines. When water demand is lower, it is a practical solution to use the pico hydro turbines to supply the required electrical energy for the electronic circuits of the valves used to reduce the losses in the water discharge lines. For this purpose, it is experimentally investigated electricity production in a pico hydro turbine and validated with experimental data that a pico hydro turbine (PHT) generates 1 W electricity under a water flow velocity of 0.53 m/s. It is concluded that the higher resistances were used in the test rig, the less turbine power produced. As the voltage increased, the current obtained decreased, and the turbine power reached its maximum at a resistance of 130 Ω.
+Yazar isimleri: ['Ümit BEYAZGÜL', 'Ufuk DURMAZ', 'Orhan YALÇINKAYA', 'Mehmet Berkant ÖZEL', 'Ümit PEKPARLAK']
+Yayın Yılı: 20 Ekim 2022
+Dergi ismi: Sakarya Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/saufenbilder/issue/73051/1123406
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2455928

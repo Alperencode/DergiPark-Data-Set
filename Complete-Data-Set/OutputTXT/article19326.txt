@@ -1,0 +1,7 @@
+Makale Başlığı: Deterministic Effects of Volatility on Mixed Frequency GARCH in Means MIDAS Model: Evidence from Turkey
+Özet: 
+Yazar isimleri: ['Fehmi ÖZSOY', 'Nükhet DOĞAN']
+Yayın Yılı: 17 Ağustos 2022
+Dergi ismi: International Econometric Review
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ier/issue/72197/1053547
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2175422

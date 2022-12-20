@@ -1,0 +1,7 @@
+Makale Başlığı: Behavioral Finance and Financial Contagion: The Evidence of DCC-MGARCH Model From 63 Equity Markets
+Özet: The paper aims to test the existence of financial contagion between foreign stock markets of several emerging and developed countries during the U.S subprime crisis. It empirically attests for contagion through a DCC MGARCH (1.1) and an adjusted correlation test over 63 emerging and developing stock markets during the period from 02/01/2003 to 31/12/2013. As a result of the model of DCC-MGARCH analysis, we find the evidence of contagion during U.S subprime crisis for most of the developed and emerging countries.  Another finding is the emerging markets seem to be the most influenced by the contagion effects during U.S. subprime crisis. Since financial contagion is important for monetary policy, risk measurement, asset pricing and portfolio allocation, the findings of paper may be the interest of policy makers, investors, and portfolio managers.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353567
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364598

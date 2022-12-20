@@ -1,0 +1,7 @@
+Makale Başlığı: Bird Species Classification Using Deep Learning: A Comparative Study
+Özet: Studies to classify bird species on the basis of images are very difficult due to both the abundance of colors and patterns in the image, and their very close visual characteristics. In this study, six different deep learning models have been applied for the classification of bird species and the experimental results have been compared comprehensively. A dataset named 250 Bird Species, which includes a total of 31316 bird images with 225 bird species, was used as dataset. In the study, 1125 images have been used for the test and 1125 images for the validation. The comparison of VGG16, ResNet50, ResNet152V2, InceptionV3, MobileNet and DenseNet121 deep learning models have been made on the dataset respectively, according to the accuracy, precision, recall and F1-score values. In experimental studies, 94.6% accuracy value has been obtained with VGG16, 47.2% with ResNet50, 96.2% with ResNet152V2, 97.5% with InceptionV3, 96.9% with MobileNet and 98.2% with DenseNet121. DenseNet121 obtained the highest precision value as 0.99, sensitivity value as 0.99 and F1-score value as 0.99.
+Yazar isimleri: ['Mehtap MUTLU', 'Kevser ÖZDEM', 'M. Ali AKCAYOL']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/904933
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1668766

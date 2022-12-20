@@ -1,0 +1,7 @@
+Makale Başlığı: Depth Perception Assessment of a 3D Video Based on Spatial Resolution
+Özet: 
+Yazar isimleri: ['Gökçe NUR YILMAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Artificial Intelligence and Data Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jaida/issue/70917/1067995
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2231836

@@ -1,0 +1,7 @@
+Makale Başlığı: Lucas collocation method to determination spherical  curves in euclidean 3-space
+Özet: In this study, we give a necassary and sufficient condition for an arbitrary-speed regular space curve to lie on a sphere centered at origin. Also, we obtain the position vector of any regular arbitrary-speed space curve lying on a sphere centered at origin satisfies a third-order linear differential equation whose coefficients is related to speed function, curvature and torsion. Then, a collocation method based on Lucas polynomials is developed for the approximate solutions of this differential equation. Moreover, by means of the Lucas collacation method, we approximately obtain the parametric equation of the spherical curve by using this differential equation. Furthermore, an example is given to demonstrate the efficiency of the method and the results are compared with figures and tables.
+Yazar isimleri: ['Muhammed CETİN']
+Yayın Yılı: 31 Aralık 2018
+Dergi ismi: Communication in Mathematical Modeling and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cmma/issue/42352/509756
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/621270

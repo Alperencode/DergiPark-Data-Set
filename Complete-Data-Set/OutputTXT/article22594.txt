@@ -1,0 +1,7 @@
+Makale Başlığı: A Design of Fully Automated Irrigation System IoT-Based Approach for Greenhouses
+Özet: Turkey is a country with a high potential for agriculture purposes. Irrigation is a need to receive agricultural output. Crop yield increases with optimal irrigation. Therefore, this work has designed a fully automated irrigation system with an IoT-based approach for greenhouses. Using 10HS soil moisture and pt1000 temperature sensors, the system has successfully generated irrigation-based decisions and saved 25 tons/da water compared to Et (Evapotranspiration) controller-based irrigation while plants received optimal irrigation. The system works online and has two operation modes: fully automated and manual. Fully automated system decreased water-wastages and labouring costs. Switching between modes can be operated using a mobile application and parameters of the system communicates via cloud services.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190306
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2713318

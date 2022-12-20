@@ -1,0 +1,7 @@
+Makale Başlığı: Testing The Environmental Kuznets Curve Hypothesis under Structural Breaks: The Case of Turkey
+Özet: In this study, the validity of the Environmental Kuznets Curve (EKC) hypothesis is investigated with annual data for the period 1990-2019 for Turkey. For this, carbon dioxide emission, per capita income, renewable energy use, and energy loss data, and the EKC hypothesis are investigated. For this purpose, unit roots tests, which take into account structural breaks, were used. Then, Gregory-Hansen (1996) cointegration test was applied. The long-short-term relationship between the variables was tested with Fully Modified Least Squares (FMOLS) and Canonical Co-integrated Regression (CCR) estimators. The findings show that the EKC hypothesis is valid for Turkey in the short-long term. In addition, it has been concluded that the increase in energy losses and the use of renewable energy reduces environmental pollution.
+Yazar isimleri: ['Mustafa NAİMOĞLU', 'Sefa ÖZBEK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/992079
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1960928

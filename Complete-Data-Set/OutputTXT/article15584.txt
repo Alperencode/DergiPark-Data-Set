@@ -1,0 +1,7 @@
+Makale Başlığı: Frenet Frames of Trigonometric B'ezier Curves
+Özet: The geometry of curves and surfaces plays a very important role in computer-aided geometric design (CAGD). The goal of this paper is to construct the Frenet frames of trigonometric B\'ezier curves in Euclidean $ 2 $ and $ 3- $space. Especially, the curvatures of these curves are investigated at the beginning and the ending points.
+Yazar isimleri: ['Ayşe Yılmaz CEYLAN', 'Tunahan TURHAN', 'Gözde ÖZKAN TÜKEL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1015220
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2048427

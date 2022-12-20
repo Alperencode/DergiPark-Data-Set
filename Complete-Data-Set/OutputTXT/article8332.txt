@@ -1,0 +1,7 @@
+Makale Başlığı: Destinasyon Web Siteleri Arasında Karşılaştırmalı Bir Çalışma; Fransa ve Türkiye Örneği
+Özet: Bilgi ve iletişim teknolojilerindeki gelişmeler turizm sektörünü dijitalleştirirken, tatil arayışındaki tüketicileri de elektronik ortamlara yöneltmektedir.  Tatil satın alma karar sürecinde sosyal medya platformları, çevrim içi arama motorları ve destinasyonlara ilişkin web siteleri öncelikli bilgi kaynakları arasında yer almaktadır. Bu bağlamda ülkelerin resmi web sitelerinin de ülkeye olan turistik talep açısından önemli olduğu düşünülmektedir. Bu çalışmada Fransa ve Türkiye resmi web siteleri içerik analizi ile kıyaslanarak literatüre dayalı yorumlanmıştır. Çalışma sonucunda her iki web sitesi kıyaslandığında bilgi ve görsellik boyutu yönünden zengin oldukları, bunu yanında iletişim ve işlem boyutu yönünden zayıf kaldıkları tespit edilmiştir.
+Yazar isimleri: ['Muhammet Emin SOYDAŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: İnternet Uygulamaları ve Yönetimi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iuyd/issue/70967/1106970
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2388482

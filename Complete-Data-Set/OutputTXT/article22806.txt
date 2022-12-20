@@ -1,0 +1,7 @@
+Makale Başlığı: Bisfenol A ve Analoglarının MCF-7 ve HSeC Hücre Hatlarında in vitro Sitotoksik Etkisinin Değerlendirilmesi
+Özet: Bisfenol A (BPA) gibi endokrin bozucu kimyasallar ve benzerleri insan sağlığı üzerinde olumsuz etkilere sahiptir. Bu araştırma, BPA ve dört farklı analogunun bisphenol S (BPS), bisfenol F (BPF), bisfenol Z (BPZ), bisfenol AF (BPAF) hem kanser hem de sağlıklı hücre hatları üzerindeki sitotoksik etkilerini MTT testi yaparak aynı anda belirlemeyi amaçlamaktadır. Bu çalışmada, hücre kültürü için insan meme kanseri hücreleri (MCF-7) ve insan sertoli hücreleri (HSeC) kullanılmıştır. MCF-7 ve HSeC, 24 saat BPA, BPS, BPF, BPZ, BPAF’ye maruz bırakılmıştır. Daha sonra, bisfenollerin (IC50) inhibitör etkisi absorbans ölçümü ile belirlenmiştir. En yüksek IC50 değerleri nedeniyle her iki hücre hattında BPF en az sitotoksik alternatif iken, BPZ’nin HSeC hücre hattında en sitotoksik alternatif olduğu bulunmuştur. MCF-7 hücre hattında, BPA ve BPZ’nin eşit sitotoksik etkilere sahip olduğu bulunmuştur.
+Yazar isimleri: ['Aylin ÜSTÜNDAĞ']
+Yayın Yılı: 1 Mart 2022
+Dergi ismi: Fabad Eczacılık Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fabadeczacilik/issue/68661/1078759
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2273745

@@ -1,0 +1,7 @@
+Makale Başlığı: GURSON-TVERGAARD-NEEDLEMAN (GTN) PARAMETERS OF DP STEELS WITH DIFFERENT ROLLING DIRECTIONS WERE DETERMINED AND INVESTIGATED AT DIFFERENT STRAIN RATES
+Özet: Dual Phase steels are high-strength and well-formability steels, which are widely used in the automobile industry. However, based on their microstructural observations, the shapes, orientations, and directions of the grains of these two steels are different and vary depending on the degree of observation. Therefore, the objective of this research was to compare the stress and strain distribution at different strain rates of standard specimens and cut at different rolling directions of DP steels, namely DP600 and DP800 steels. Besides, in this study, the finite element modeling method is used through optimization to determine the GTN fracture failure, constitutive and nucleation parameters of the mentioned steels based on their rolling directions and strain rates. The experimental and numerical simulation results are also compared, and they are in good agreement.
+Yazar isimleri: ['Labinot TOPİLLA', 'Serkan TOROS']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Eurasian Journal of Science Engineering and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejset/issue/73873/1113577
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2415306

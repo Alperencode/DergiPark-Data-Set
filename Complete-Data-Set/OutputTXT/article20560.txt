@@ -1,0 +1,7 @@
+Makale Başlığı: Kare Halka, Çapraz Dipol ve L Şekilli Frekans Seçici Yüzey İle Geniş Band Filtre Anten Tasarımı
+Özet: Bu çalışmada, birim hücre içerisine yerleştirilen kare halka, çapraz dipol ve L şekilli iletken yapıların frekans seçici yüzey (FSY) özellikleri yüzeye normal açıyla gelen enine manyetik dalgalar için teorik olarak incelenmiştir. Kare halka, çapraz dipol ve L şekilleri ayrı ayrı elde rezonans frekansları incelenmiş, akım dağılımları ve absorbance araştırılmıştır.
+Yazar isimleri: ['Mehmet TOSYALI', 'Kemal DELİHACIOĞLU']
+Yayın Yılı: 30 Aralık 2020
+Dergi ismi: Mesleki Bilimler Dergisi (MBD)
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mbd/issue/59248/735645
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1098251

@@ -1,0 +1,7 @@
+Makale Başlığı: Classification of Heuristic Information by Using Machine Learning Algorithms
+Özet: 
+Yazar isimleri: ['Murat KOKLU', 'Kadir SABANCI']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/281903
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/263656

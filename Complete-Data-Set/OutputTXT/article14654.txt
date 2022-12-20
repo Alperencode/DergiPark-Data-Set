@@ -1,0 +1,7 @@
+Makale Başlığı: Symmetric Market Integration of Wheat in the World
+Özet: This study determined market integration of wheat in the world using price time series (1966-2018) of major world producing countries. The data were sourced from FAO database and data analysis were performed using unit root tests, Engel-Granger and Johansen co-integration tests, Granger causality and impulse response tests, restricted vector auto-regression (VAR), and auto-regression integration moving average (ARIMA) models. The empirical evidence showed that the law of one price (LOP) or parity in prices failed to hold in these markets due to poor co- integration among these markets. Furthermore, the wheat prices of Indian, USA and China markets were efficient as they established long-run equilibrium. However, Australian, Canadian and France markets were observed to be autarkic markets as short-run disequilibrium adjustment processes will not lead to stable long-run prices. It was established that USA market prices is a relative follower and plays little or no role in the global wheat trade. Therefore, the study recommends that a network of wheat commodity network across the globe at almost equal distance from each other for the enhancement of market integration and price transmission should be designed.  
+Yazar isimleri: []
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Tarım Ekonomisi Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tead/issue/70136/1130575
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2485742

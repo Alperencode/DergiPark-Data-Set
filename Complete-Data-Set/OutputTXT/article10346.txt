@@ -1,0 +1,7 @@
+Makale Başlığı: Detection and İnvestigation of Manuscripts on the Science of Recitation in Diyarbakir Provincial Public Library
+Özet: The Provincial Public Library, which is one of the libraries in the province of Diyarbakir, contains 3750 manuscripts registered in the manuscripts section. The number of works related to the science of recitation in the library is 60. In our study, it is aimed to attract the attention of those who do research to the works with recitation, which corresponds to 1.5-2% of the total number of manuscripts in the library, and to provide easy access to the studies to be done in the field of recitation. While promoting the works, the order of "Work Title, Author Name, Asset ID, Scribal, Language, Copyright Date, Copying Date, Size, Leaf, Line, Font Type, Paper Type" was respected. In addition, the corrected versions of the names of the work and author whose spellings are wrong have been added. The works that are the same are listed one below the other and sufficient information is given about the content of the work under the first one.
+Yazar isimleri: ['Ömer Faruk ŞAHİN']
+Yayın Yılı: 16 Eylül 2022
+Dergi ismi: Kastamonu Üniversitesi İlahiyat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kuifd/issue/72603/1148633
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2556957

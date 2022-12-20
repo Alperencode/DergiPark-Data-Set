@@ -1,0 +1,7 @@
+Makale Başlığı: The Properties of Projective, Concircular and Conharmonic Curvature Tensor Fields on a Complex Sasakian Manifold
+Özet: In this article, the properties of projective, concircular and conharmonic curvature tensor fields on a complex Sasakian manifold are investigated.
+Yazar isimleri: ['Aysel TURGUT VANLI']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1010770
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2030779

@@ -1,0 +1,7 @@
+Makale Başlığı: Bitkilerde kuraklığa duyarlı miRNA'lar: derleme
+Özet: MikroRNA'lar (miRNA'lar), bitki yaşamının büyüme, gelişme ve stres yanitlari olmak üzere tüm aşamalarinda fonksiyonel olan tek iplikli RNA molekülü olarak bilinir. Bitki genomları, sayısız biyolojik süreci düzenlemede çeşitli fonksiyonlari olan yüzlerce miRNA'yı barındırır. Bitkilerde ilk kez 2002 yılında keşfedildikten sonra, bugüne kadar binlerce bitki miRNA'sı tanımlanmıştır. Yüksek verimli dizileme teknolojilerindeki son gelişmelerin yardımıyla, belirli koşullardaki çeşitli bitkilerde miRNA'ların genom ve transkriptom düzeyinde taranması gerçekleştirilmiştir. Bitkileri olumsuz etkileyen koşullardan kuraklık stresi, dünya çapında bitki büyümesini ve üretkenliğini sınırlayan başlica faktörlerden biridir. Bugüne kadar, belirli bitkilerde kuraklığa duyarlı miRNA'lar ortaya çıkarılmıştır. Ayrıca, bazı miRNA'ların fonksiyonel karakterizasyonları, kuraklığı düzenleyici mekanizmalardaki rolleri hakkında bilgi sağlamaktadır. Bu derleme, bitkilerin miRNA tabanlı kuraklık stresi regulasyonuna ilişkin en son bulguları özetlemektedir. Çalışma, bitkinin kuraklık stresi yanıtında miRNA'ların rolü hakkında fikir vermektedir.
+Yazar isimleri: ['Guzin TOMBULOGLU']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: International Journal of Innovative Engineering Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiea/issue/70503/1024235
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2083697

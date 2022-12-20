@@ -1,0 +1,7 @@
+Makale Başlığı: Diş Hekimliği Eğitiminde Yenilikçi Bir Yöntem Olarak Genişletilmiş Gerçeklik Teknolojisi
+Özet: Genişletilmiş gerçeklik teknolojisi; sanal gerçeklik, artırılmış gerçeklik ve karma gerçeklik olarak gruplanabilecek alanların üst başlığı olmaktadır. Genişletilmiş gerçeklik, bütünüyle sanal bir evren üzerinde sanal gerçeklik gözlüğü aracılığıyla kavranabilen bir evreni betimleyebileceği gibi tablet ya da mobil telefonlar üzerinden gerçek ve sanalın birleşebildiği bir evrene de işaret edebilmektedir. Genişletilmiş gerçeklik teknolojisi pek çok alanda faydalanılabilen bir uygulama alanı olabilmektedir. Eğitim ve sağlık özelinde pandemi sonrası yeni deneyimlere duyulan ihtiyacın artmasıyla birlikte bu tür yeni teknolojileri yönelik deneyim ve yaklaşımlar da hız kazanmıştır. Bu makalede, diş hekimliği eğitiminde genişletilmiş gerçeklik teknolojisinin araştırmalarına ve uygulamalarına yönelik bir derleme makale çalışmasının yapılması hedeflenmiştir. Genişletilmiş gerçeklik teknolojisi, diş hekimliği eğitiminde kullanımı üzerinden değerlendirilmeye çalışılmıştır.
+Yazar isimleri: ['Gülfem ÖZLÜ UÇAN', 'Burak Kerem APAYDIN', 'Bahadır UÇAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: AURUM Mühendislik Sistemleri ve Mimarlık Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ajesa/issue/71007/1086506
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2304416

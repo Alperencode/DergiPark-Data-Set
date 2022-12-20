@@ -1,0 +1,7 @@
+Makale Başlığı: Validity and Reliability Study of Safety Climate Scale
+Özet: Occupational  accidents  are  accepted  as  one  of  the  important  problems  that areas of today’s working life experienced due to significant economic, social, and psychological losses. In recent years, there has been a growing interest in the role of safety climate in preventing occupational accidents. A  safe  climate  is  the  holistic  perception  shared  by  employees  about  the  work  environment.  This  research  aims  to  adapt  the  safety  climate  scale  developed  by  Hahn  and  Murphy  into  the  Turkish  language.  A  total  of  191 metal industry employees participated in the research. Based on the confirmatory  factor  analysis  results,  the  scale  consists  of  six  items  and  single  factor  safety  climate  scale  (Chi-square/df:  2.23;  RMSEA:  0.08;  NFI: 0.98; NNFI: 0.98; CFI: 0.99; GFI: 0.97; and AGFI: 0.92). The internal consistency of the scale was calculated as 0.857 and item-total correlations ranged between 0.519 and 0.612. As a result, it was concluded that safety climate scale is valid and reliable for Turkish society.
+Yazar isimleri: ['Salih DURSUN', 'Oğuz BAŞOL', 'Belemir ŞENGÜL']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Journal of Economy Culture and Society
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jecs/issue/70297/949898
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1814576

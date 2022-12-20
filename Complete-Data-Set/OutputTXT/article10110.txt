@@ -1,0 +1,7 @@
+Makale Başlığı: Giresun’da Bazı Bitki Türlerinin Hasattan Mutfağa Gelene Kadarki Ağır Metal ve Mineral Madde Düzeylerinin Tespiti
+Özet: Bu çalışmada, Giresun ilinde yetişen 7 farklı bitki türünde (nane, altın otu, yaş çay, kekik, ısırgan otu, kuşburnu ve ıhlamur) Cd, Pb, Fe, Zn, Cu, Al, Cr, Co, Mn, Ni, Ag, Li, Na, Mg, B ve K olmak üzere 16 elementin konsantrasyonları belirlenmiştir. Numuneler Haziran-Ekim 2021 aylarında yetişme mevsiminde toplanmıştır.  Numuneler kurutulduktan sonra mikrodalgada yakılarak ICP-OES cihazında okumaları yapılmıştır. Farklı bitki türleri ile yapmış olduğumuz çalışmamızda metal değerleri ortalama mg/kg olarak; Cd:0,62±0,02, Pb:0,44±0,08, Fe:153±20,4, Zn:44,5±1,21, Cu:11,1±0,95, Al:926±419, Cr:1,64±0,22, Co:0,48±0,09, Mn:588±272, Ni:2,51±0,50, Li:0,18±0,02, Na:656±20,5, Mg:3503±431,2, B:26,7±3,36, K:22527±2145 olarak bulunmuştur, Ag ise hiçbir bitki örneğinde tespit edilmemiştir. Sonuçlar tek yönlü varyans analizi (ANOVA) ve Tukey testi yardımıyla istatistiksel açıdan değerlendirilmiş ve bulunan değerler literatür çalışmaları ve WHO’nun müsaade edilen limit değerleri ile kıyaslanmıştır.
+Yazar isimleri: ['Aysun TÜRKMEN']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/999728
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1990702

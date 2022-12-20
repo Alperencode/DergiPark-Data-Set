@@ -1,0 +1,7 @@
+Makale Başlığı: PERFORMANCE EVALUATION of STAGED ORC POWER PLANT SOURCED by WASTE HEAT
+Özet: Organic Rankine Cycle (ORC) is a power cycle in which energy can be produced without extra heating. The basic logic is to generate energy with the help of special fluids that can change phase at low temperatures. In this study, one, two and three stage ORC sourced by waste heat was designed and analyzed in view point of different working fluids. In this aim, it was aimed to investigate the stage and fluid effects on the performance of the system. As a result of the study, it was determined that the efficiency increases with increase of the number of stages. It was also determined that the used fluid type was effective on the performance of the staged system. The energy and exergy efficiency of the three-staged ORC was determined as 31% and 49%, respectively.
+Yazar isimleri: ['İlyas CEYLAN', 'Oğuz ARSLAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Scientific Reports-A
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsr-a/issue/72895/1080053
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2278778

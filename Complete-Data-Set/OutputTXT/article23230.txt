@@ -1,0 +1,7 @@
+Makale Başlığı: Bankalarda Kredi Kalitesini Etkileyen Reel Sektör Faktörleri
+Özet: Bu çalışmada; reel sektöre ait faktörlerin Türk bankacılık sektöründeki kredi kalitesi veya takipteki kredilere olan etkisi araştırılmıştır. Bu amaca yönelik olarak 2010-2019 yılları arasında reel sektörün konsolide mali tabloları üzerinden hesaplanmış oranlar veya reel sektöre ait bazı konsolide veriler ile takipteki kredilerin toplam kredilere olan oranı analizlere dahil edilmiştir. Analizlerimiz için en küçük kareler Prais-Winsten dönüşümü ve küçük örnekler için Theil-Nagar dönüşümü yöntemi kullanılmıştır. Yapılan analizler sonucunda, reel sektör firmalarının kapasite kullanım oranı, stok devir hızı ve aktif karlılığı ile takipteki krediler arasında negatif, reel sektör firmalarının cari oranı, kısa vadeli yabancı para cinsinden varlıkları ve konut satışları ile takipteki krediler arasında pozitif ilişki tespit edilmiştir.
+Yazar isimleri: ['Eyüp KADIOĞLU', 'Niyazi TELÇEKEN']
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: Journal of Business and Trade
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinbat/issue/70498/1023445
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2080764

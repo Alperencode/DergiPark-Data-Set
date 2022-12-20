@@ -1,0 +1,7 @@
+Makale Başlığı: Gradual Normlu Uzaylarda Çift Dizilerin Kaba I_((λ,μ) )-İstatistiksel Yakınsaklığı
+Özet: Bu makalenin amacı, gradual normlu lineer uzaylarda (GNLU) çift dizilerin kaba I_((λ,μ) )-istatistiksel yakınsaklığı kavramını incelemektir. Ayrıca, çift dizilerinin gradual kaba I_((λ,μ) )-istatistiksel limit kümesi kavramını tanımlayacak, bu kümenin bazı cebirsel ve topolojik özelliklerini elde edeceğiz. Teoremler, GNLU teorisi yaklaşımı ışığında ispatlanacaktır. Farklı bakış açılarıyla sonuçlar elde edilecek ve karşıtları haklı çıkarmak ve tanıtılan kavramların varlığını göstermek için yeni örnekler üretilecektir. Bu kavramların bazı temel özelliklerini sunan önemli sonuçlar elde edilecektir. Bu araştırma çalışmasında elde edilen sonuçlar, GNLU'da kapsamlı bir temel sağlayacak ve literatürde GNLS'nin teorik gelişimine önemli bir katkı sağlayacaktır. Bu çalışmanın özgün yönü, GNLS'de tanımlanan yeni kavramların özelliklerinin ve uygulamalarının tamamen güncel ve kapsamlı ilk incelemesidir.
+Yazar isimleri: ['Ömer KİŞİ', 'Chiranjib CHOUDHURY']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1158636
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2582745

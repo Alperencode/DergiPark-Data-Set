@@ -1,0 +1,7 @@
+Makale Başlığı: An Application of Personalized Adaptive Learning Systems in Calculus I Course
+Özet: Since Personalized Instruction increases the motivation, interest, performance and attitude of the student, it is aimed to develop an instructional management system that can be adapted to the individual, taking into account the prior knowledge level of the person who provides the personalization of all instructional materials. The project is basically an interdisciplinary system and product development study covering the fields of educational technology and computer engineering. The research, which was planned as a research and development study, was generally planned in accordance with action research methodologies. Considered within the scope of "Information Access and Management Systems", a learning management system that can be adapted to the individual has been developed with this project. In the system, a database has been created in which students are better introduced. An adaptation of the mathematics course was made as an example given by Arizona State University.
+Yazar isimleri: ['Ozlem CAKİR']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: Journal of Learning and Teaching in Digital Age
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joltida/issue/71180/1116403
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2426722

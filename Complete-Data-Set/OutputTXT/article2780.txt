@@ -1,0 +1,7 @@
+Makale Başlığı: Invar 36 Alaşımının Seramik Takımlar ile İşlenmesinde Kesme Kuvveti Bileşenleri ve Yüzey Pürüzlülüğü Bakımından İşlenebilirliğinin Değerlendirilmesi
+Özet: Invar 36, düşük ısıl genleşme katsayısı nedeniyle uzay ve havacılık alanında yüksek boyutsal stabilitenin gerekli olduğu mühendislik uygulamalarında kullanılan bir malzemedir. Bu çalışmada, kesme kuvveti bileşenleri (Fc, Ff, Fp) ve yüzey pürüzlülüğü (Ra) bakımından Invar 36 alaşımının işlenebilirliği değerlendirilmiştir. Tornalama deneyleri, kuru kesme şartlarında CNC torna tezgahında gerçekleştirilmiştir. Ayrıca, varyans analizi (Anova) ile kesme kuvveti bileşenleri ve Ra üzerinde kesme parametrelerinin etki düzeyleri belirlenmiştir. Analiz sonuçları, ilerleme miktarının Fc, Ff ve Ra üzerinde en etkili parametre olduğunu talaş derinliğinin ise Fpüzerinde en etkili kesme parametresi olduğunu göstermektedir. Kesme kuvveti bileşenleri (Fc, Ff veFp) için en düşük değerler 240 m/dak (Vc), 0,12 mm/dev (f) ve 0,6 mm (a) değerlerinde yapılan deneylerde sırasıyla 95 N, 80 N ve 20 N olarak ölçülmüştür. En düşük Ra değeri ise 180 m/dak (Vc), 0,12 mm/dev (f) ve 0,6 mm (a) değerlerinde yapılan deneyler sonucunda 0,452 µm olarak elde edilmiştir.
+Yazar isimleri: ['Mahir AKGÜN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1011706
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2034365

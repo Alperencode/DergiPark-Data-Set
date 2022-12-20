@@ -1,0 +1,7 @@
+Makale Başlığı: Young Turkish Pine Biomass Equations; Kozağacı Forest Planning Unit Example
+Özet: Calculations of the carbon storage capacities of forests have become increasingly important all over the world. International institutions that make carbon notifications want the amount of carbon stored in forest ecosystems to be determined fully and precisely based on the inventory. In order to determine the carbon stock in forest areas of the whole country, it is necessary to determine locally the amount of biomass accumulated by each tree species in different habitats and the amount of carbon they have bound. In this study, above- and below-ground biomass equations were developed for young red pines belonging to pure red pine stands in Mersin-Kozağacı Forest Planning Unit. In the study, wood density ratio and needle dry weight ratio (LDMC) were also determined for red pine.
+Yazar isimleri: ['Birsen DURKAYA', 'Ali DURKAYA', 'Gülhan SAYIN']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Bartın Orman Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/barofd/issue/72573/1163440
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2602098

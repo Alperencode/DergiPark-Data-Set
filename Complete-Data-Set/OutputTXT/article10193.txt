@@ -1,0 +1,7 @@
+Makale Başlığı: Conformable Anlamında Kesirli Mertebeden Fokker-Planck Denkleminin Analitik Çözümü
+Özet: Bu çalışmada, istatistiksel fizikte önemli bir role sahip olan doğrusal olmayan kesirli Fokker Planck (FP) denklemi, yeni tanımlanmışolan conformable Laplace ayrıştırma metodu (CLAM) ile ilk kez çözülmektedir. Bu yeni algoritma, conformable Laplace dönüşümüile Adomian ayrıştırma yöntemini birleştirmektedir. Çalışmamızda ilk olarak, kesirli türevin bazı temel tanımları ve teoremlericonformable anlamında verilmiştir. Ardından CLAM’ ın genel algoritması anlatılmıştır. Bundan sonra, kullanılan metot grafikleryardımıyla sayısal örnekle verilerek desteklenmiştir. Sayısal örnekten görüldüğü üzere, conformable Laplace ayrıştırma yöntemi güçlü,güvenilir, kullanımı kolay ve kesirli mertebeden çok çeşitli kısmi türevli diferensiyel denklemlere uygulanabilir özelliklere sahiptir
+Yazar isimleri: ['Muammer AYATA', 'Ozan ÖZKAN']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Karaelmas Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/karaelmasfen/issue/70131/941684
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1784326

@@ -1,0 +1,7 @@
+Makale Başlığı: Enerji Emtiaları Arasında Getiri ve Volatilite Yayılımı: VAR-EGARCH Modelinden Kanıtlar
+Özet: Bu araştırmanın amacı enerji emtiaları arasında getiri ve volatilite yayılımı olup olmadığını incelemektir. Farklı makroekonomik gelişmeler neticesi varlık fiyatlarında meydana gelen getiri oynaklıkları emtialar arasında yayılım göstererek birbirlerinin getirilerini de etkileyebilmektedir. Enerji emtialarının fiyatlarını etkileyen unsurların ve aralarındaki yayılımın tespiti özellikle yatırım yapmak isteyenler ve enerji piyasası ile ilgilenenler açısından incelenmeye değer bulunmaktadır. Araştırma kapsamında 01.01.2008-31.12.2020 tarihleri arasındaki Brent Petrol, Heating Oil, Natural Gas ve WTI ham petrol verileri VAR-EGARCH yöntemiyle değerlendirilmiştir.  Araştırma sonucunda enerji emtialarına ait getirilerin kısa dönemli etkileşim halinde olduğu bilgi şoklarının getiri ve volatilitede çoklu ve asimetrik olarak yayıldığı görülmüştür. Doğalgaz getiri serisinin diğer emtiaların fiyatlarından etkilendiği fakat kendisinin hiçbir enerji emtiasını etkilemediği ayrıca tespit edilmiştir. Volatilite yayılımında ise ısıtma yağından doğalgaz serilerine tek taraflı diğer emtialar arasında karşılıklı yayılım olduğu sonucuna varılmıştır.
+Yazar isimleri: ['Sevinç ŞAHİN DAĞLI', 'İsmail ÇELİK']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Gaziantep Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jss/issue/73087/1089183
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2315209

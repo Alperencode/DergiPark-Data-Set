@@ -1,0 +1,7 @@
+Makale Başlığı: Kişi Başı Enerji Tüketimi ve Ekonomik Büyüme Arasındaki İlişkinin İncelenmesi: ANN Yöntemiyle Gelecek Perspektifi
+Özet: Bu çalışmada Türkiye için 2000-2019 dönemi için ekonomik büyüme, kişi başına enerji tüketimi, kişi başına doğrudan yabancı yatırım ve kişi başına ticaret hacmi arasındaki ilişki Granger nedensellik yöntemi kullanılarak incelenmiştir. Birinci dönem (2000-2019) nedensellik bulgularına göre, ekonomik büyümeden kişi başına doğrudan yabancı yatırıma ve kişi başına doğrudan yabancı yatırımdan kişi başına enerji tüketimine doğru tek yönlü bir nedensellik vardır. İkinci dönemin (2000-2025) nedensellik sonuçları, ekonomik büyümeden kişi başına doğrudan yabancı yatırımlara, kişi başına doğrudan yabancı yatırımlardan kişi başına enerji tüketimine doğru tek yönlü bir ilişki ortaya koymaktadır. Aynı zamanda hem ekonomik büyüme hem de kişi başına düşen enerji tüketiminden kişi başına ticaret hacmine doğru tek yönlü bir ilişki bulunmuştur.
+Yazar isimleri: ['Fatih OKUR', 'Hamid YILMAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: JOEEP: Journal of Emerging Economies and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joeep/issue/66260/999670
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1990469

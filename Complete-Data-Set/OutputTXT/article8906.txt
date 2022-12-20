@@ -1,0 +1,7 @@
+Makale Başlığı: On the isomorphism of unitary subgroups of noncommutative group algebras
+Özet: Let FGFG be the group algebra of a finite pp-group GG over a field FF of characteristic pp. Let *\cd be an involution of the group algebra FGFG which arises form the group basis GG. The upper bound for the number of non-isomorphic *\cd-unitary subgroups is the number of conjugacy classes of the automorphism group GG with all the elements of order two. The upper bound is not always reached in the case when GG is an abelian group, but for non-abelian case the question is open. In this paper we present a non-abelian pp-group GG whose group algebra FGFG has sharply less number of non-isomorphic *\cd-unitary subgroups than the given upper bound.
+Yazar isimleri: []
+Yayın Yılı: 13 Mayıs 2022
+Dergi ismi: Journal of Algebra Combinatorics Discrete Structures and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jacodesmath/issue/69711/1111746
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2408066

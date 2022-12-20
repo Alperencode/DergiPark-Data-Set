@@ -1,0 +1,7 @@
+Makale Başlığı: Efficiency of Ensemble Learning Algorithms in the Analysis of Effects of Covid-19 Pandemic on Electricity Consumption in Turkey
+Özet: 
+Yazar isimleri: ['Selim BUYRUKOĞLU', 'Ayhan AKBAŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Inspiring Technologies and Innovations
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/inotech/issue/70702/1088633
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2313029

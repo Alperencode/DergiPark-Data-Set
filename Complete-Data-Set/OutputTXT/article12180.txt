@@ -1,0 +1,7 @@
+Makale Başlığı: Kızıl Tilki Optimizasyon Algoritması ile Da-Da Alçaltıcı Tip Dönüştürücü Kontrolör Katsayılarının Optimizasyonu
+Özet: Bu çalışmada, da gerilime ihtiyaç duyulan cihazlarda yaygın olarak kullanılan alçaltıcı tip da-da dönüştürücünün kapalı çevrim çıkış gerilim kontrolü yapılmıştır. Kontrolör katsayılarının belirlenmesi için meta-sezgisel yöntemlerin son zamanlarda oldukça fazla kullanıldığı görülmektedir. Kızıl tilki optimizasyon algoritması literatüre yeni kazandırılan meta-sezgisel bir yöntem olup kızıl tilkilerin ava yaklaşması, avlanması ve sürü içerisindeki davranışlarından esinlenerek modellenmiş sürü zekasına dayanan bir algoritmadır. PI kontrolörü ile kızıl tilki optimizasyon yöntemi kullanılarak sistemin kontrol performans kriterlerinden sürekli hal hatası iyileştirilmeye çalışılmıştır. Yapılmak istenen iyileştirme işlemi için kullanılan amaç fonksiyonu; zamanla ağırlıklandırılmış hata karelerinin toplamı, hata mutlak değerlerinin toplamı ve hata karelerinin toplamı değerlerinin ortalaması alınarak hesaplanmıştır. Bu çalışma Matlab/Simulink ortamında gerçekleştirilmiş olup elde edilen sonuçlar parçacık sürü optimizasyonu yöntemi ile karşılaştırmalı olarak analiz edilmiştir.
+Yazar isimleri: ['Ersagun Kürşat YAYLACI', 'Ahmet Erdem YILMAZ', 'Hatice Nur ÖZDEŞ']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1111592
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2407520

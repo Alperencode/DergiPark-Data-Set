@@ -1,0 +1,7 @@
+Makale Başlığı: GÖZLÜK CAMLARINDA IŞIK GEÇİRGENLİK ÖZELLİKLERİ
+Özet: Bu çalışmada, gözlük cam materyallerinin optik özellikleri ele alınarak ışık geçirgenlik özellikleri incelenmiştir. Gözlük camları için abbe değeri önemli bir parametredir ve abbe değerinin hesaplanmasında, Cauchy-Schott formülü ve Sellmeier denklemi ele alınmıştır. Bu hesaplamaların yapılabilmesi için optik malzemelerin kırılma indisini belirlemek gerekir ve Fraunhofer çizgisi kullanılır. Işık geçirgenliği için önemli diğer parametreler ise, ışığın yansıması ve camın ışığı absorbe etmesidir. Yansıma ve absorpsiyon azaldıkça, camın ışık geçirgenliği ve abbe değeri artar, daha net bir görüntü elde edilir.
+Yazar isimleri: ['Semiha TOMBULOĞLU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kırklareli Üniversitesi Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/klujes/issue/70928/1126166
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2467256

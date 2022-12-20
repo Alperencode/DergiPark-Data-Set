@@ -1,0 +1,7 @@
+Makale Başlığı: COMPARISON OF CORPORATE GOVERNANCE AND FINANCIAL PERFORMANCE WITH GRAY RELATIONAL ANALYSIS: AN APPLICATION IN BORSA ISTANBUL
+Özet: The sustainability of a company’s activities is directly proportional to its financial performance.Accordingly, it is necessary to evaluate the financial performance of companies from different perspectiveswith different methods and variables. In this study, the financial performance of 29 companies traded inthe BIST Corporate Governance Index between 2015-2019 was measured and compared with corporategovernance ratings. In this context, the financial ratios of the companies (liquidity ratios, activity ratios,financial leverage ratios and profitability ratios) were calculated. The financial performance of the 29companies covered was determined using the Gray Relation Analysis (GRA) method from multi-criteriadecision-making techniques. The output obtained is compared with the ranking of corporate governancerating ratings for companies. As a result of the study, it has been observed that the corporate managementperformance of the companies being analyzed has not affected their financial performance
+Yazar isimleri: []
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: Marmara Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muiibd/issue/70497/1135582
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2506364

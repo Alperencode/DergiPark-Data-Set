@@ -1,0 +1,7 @@
+Makale Başlığı: Entegre Raporlama Çerçevesi'nde Tanımlanan Sermaye Öğelerinin Değer Yaratma Süreci ile İlişkisi: BIST Sürdürülebilirlik Endeksi’nde Bir Araştırma
+Özet: Bu çalışmanın amacı, Uluslararası Entegre Raporlama Çerçevesi’nde tanımlanan sermaye öğelerinin, nicel anahtar performans göstergelerini ortaya koyarak değer yaratma süreciyle olan ilişkisini belirlemektir. Araştırma kapsamında Borsa İstanbul (BIST) Sürdürülebilirlik Endeksi’nde yer alan finans sektörü dışındaki işletmelerin 2010-2019 yılları arasında yayımladıkları raporlar incelenmiştir. Sermaye öğelerinin değer yaratma süreciyle ilişkisi panel regresyon modelleri aracılığıyla test edilmiştir.  Yapılan analizler sonucunda;  işletmelerin değeriyle nicel olarak ölçülen sermaye öğelerinden entelektüel, insan, sosyal ve ilişkisel, finansal sermaye (kar payları) arasında pozitif ilişki bulunmuştur. Ayrıca işletmelerin değeriyle doğal sermaye, üretilmiş sermaye ve finansal sermaye (finansman giderleri) arasında ise negatif bir ilişki tespit edilmiştir.
+Yazar isimleri: ['Uğur KAYA', 'Oğuz Yusuf ATASEL']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Uluslararası Ekonomi ve Yenilik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ueyd/issue/72213/1127256
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2471801

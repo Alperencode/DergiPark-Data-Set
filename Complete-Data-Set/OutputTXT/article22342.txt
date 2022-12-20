@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Dielectric Properties of Cu(II) Doped 6,7-Dihydroxy-3-(3-chlorophenyl)coumarin Compound
+Özet: We aimed to investigate the dielectric constant, dielectric loss factor and ac conductivity of 6,7-dihydroxy-3-(3-chlorophenyl)coumarin compound (DPCl-Kum) at different mole ratios of Cu(II) metal ions as a function of frequency. Dielectric measurements for DPCl-Kum were determined using an impedance analyzer as a function of frequency. Dielectric properties of DPCl-Kum and its composites were measured at 25 OC over the frequency from 100 Hz to 20 kHz and given as compared with each other. It was observed that the dielectric properties of the Cu (II) ion decreased with increasing mole ratios due to the decrease in polarization as a result of the interaction of polarized free –OH functional groups with Cu(II) ions in the DPCl-Kum compound. In addition, TGA analyzes of DPCl-Kum and its composites were performed. It was observed that as the Cu(II) ratio increased, both the thermal stability increased and the residual amount increased.
+Yazar isimleri: []
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: Ata-Kimya Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atakim/issue/73406/1202993
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2766193

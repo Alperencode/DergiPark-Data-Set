@@ -1,0 +1,7 @@
+Makale Başlığı: METHODS TO BE FOLLOWED IN THE PROCESS OF TRANSFERRING THE NOTE LETTER TO THE COMPUTER ENVIRONMENT (FINALE EXAMPLE)
+Özet: This research aims to offer suggestions on which methods should be followed in the process of transferring the notation writing to the computer environment by using the Finale notation program. In this study, which is a qualitative research, the data were obtained by the document analysis method known as documentary scanning. The subject of this study is the “Make Music” company's “Finale” program with version “26.3.1.520”. Through this program, the steps in the process of transferring the musical notation to the computer environment were examined and suggestions were made on how the program should be used as a result of the findings.
+Yazar isimleri: ['Alp Eray TUĞCULAR', 'Selçuk BILGIN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Çevrimiçi Müzik Bilimleri  Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ojomus/issue/70960/1115112
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2421467

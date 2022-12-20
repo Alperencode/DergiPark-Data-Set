@@ -1,0 +1,7 @@
+Makale Başlığı: Noise and Disturbance Rejection Performance Evaluation on Explicit Model Predictive Control Technique Applied to Inverted Pendulum with Various Test Scenarios
+Özet: An inverted pendulum on a cart (IPC) system, which is a widely used test environment for controller design due to ease of applicability, has the opportunity to be applied in different fields with nonlinear and under-actuated characteristics. In this study, the performance of the explicit MPC control method has been examined against the noise and disturbances by using two test cases and analysis approaches. Different trajectory tracking, disturbance, and noise situations have been taken into account in the elaborated scenarios. The numerical applications have been performed by the model predictive control toolbox of Matlab®/Simulink®. The advantages and drawbacks of the controller have been discussed in terms of time-domain specifications.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190264
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2713177

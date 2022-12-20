@@ -1,0 +1,7 @@
+Makale Başlığı: Differential subordination and harmonic means for the Koebe type $n$-fold symmetric functions
+Özet: In this research, we develop some differential subordination results involving harmonic means of $f_{b}(z),f_{b}(z)+zf_{b}^{\prime}(z)$ and $f_{b}(z)+\frac{zf_{b}^{\prime}(z)}{f_{b}(z)},$ where $f_{b}(z)=\frac{z}{\left(1-z^{n}\right)  ^{b}},$ $b\geq0;n\in\mathbb{N}=1,2,3...$ is an $n$-fold symmetric Koebe type functions defined in the unit disk with $f_{b}(0)=0,f_{b}^{\prime}(z)\neq0.$ By using the admissibility conditions, we also study several applications in the geometric function theory.
+Yazar isimleri: ['Syed Zakar HUSSAİN BUKHARİ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1072813
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2250478

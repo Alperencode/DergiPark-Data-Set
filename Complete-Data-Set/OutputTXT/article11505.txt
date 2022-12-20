@@ -1,0 +1,7 @@
+Makale Başlığı: RETRO VE NOSTALJİ PAZARLAMA HAKKINDA BİBLİYOMETRİK BİR ÇALIŞMA
+Özet: Retro ve nostalji pazarlaması, pazarlama alanında tüketicilerle etkileşime geçerek iletişim kurmanın yollarından biridir. Bu çalışma retro ve nostalji pazarlaması hakkında akademisyenler tarafından yayımlanan çalışmaların bibliyometrik olarak değerlendirilmesini amaçlamaktadır. Web of Science veri tabanları belge-arşiv tarama yöntemiyle retro pazarlama ve nostalji pazarlama konu başlığında (başlık, özet, yazarların anahtar kelimeleri, anahtar kelime bulutu-keywords plus-) yayımlanmış 204 İngilizce makaleye bibliyometrik analiz uygulanmıştır. Araştırmanın evrenini 1980-2021 yılları arası yayımlanan 204 makale oluşturmaktadır. Veriler R programı üzerinden yayın bilgisi, atıf analizi, kelime bilgisi, yazar bilgisi, ülkeler arası iş birliği olmak üzere beş başlık altında incelenmiştir. Araştırma sonuçları 1980-2021 yılları arasında retro ve nostalji pazarlaması ile ilgili Web of Science veri tabanındaki İngilizce makaleler hakkında bibliyometrik bir rapor sunmayı amaçlamaktadır. Araştırma sonuçlarının retro ve nostalji pazarlaması hakkında yapılacak araştırmalara genel kapsamlı bir rehber oluşturacağı ön görülmektedir.
+Yazar isimleri: ['Hamit ERDOĞAN']
+Yayın Yılı: 24 Kasım 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makusobed/issue/73476/1109892
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2400909

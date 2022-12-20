@@ -1,0 +1,7 @@
+Makale Başlığı: Covid-19'un KOBİ'ler Üzerindeki Etkisinin Değerlendirilmesi: Ülkeler Arası Karşılaştırma
+Özet: Covid-19, belirsiz ekonomik sonuçları olan bir dış krizdir. Bununla birlikte, pandeminin doğası gereği, birçok ülkenin işletmesinin karantinalardan ciddi şekilde zarar gördüğü iyi bilinmektedir. Bu çalışma, Covid-19'un çeşitli demografik değişkenlerle küçük ve orta ölçekli işletmelerin istihdamını nasıl değiştirdiğini açıklamaya çalışmıştır. Ayrıca iş sürekliliği ve dijitalleşme de incelenmiştir. Çalışmanın verileri Dünya Bankası, OECD ve Facebook tarafından yürütülen Data for God projesinden elde edilmiştir. Araştırma sonucunda COVID-19 nedeniyle işten çıkarılan işçilerin yarısından fazlası yaklaşık iki yıl süreyle yeniden işe alınmadığı ve iş sürekliliği açısından, işletmelerin yalnızca yüzde 46,2'si faaliyetlerini bir yıl veya daha fazla sürdürebileceklerdir. Ayrıca bu süreçte bazı Avrupa ülkelerinin dijital satışlarında azalma yaşanmıştır.
+Yazar isimleri: ['Nihan ÖKSÜZ NARİNÇ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguiibf/issue/73390/1092715
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2329904

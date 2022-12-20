@@ -1,0 +1,7 @@
+Makale Başlığı: ALT EKSTREMİTENİN ROBOTİK REHABİLİTASYONU
+Özet: İnme, omurilik yaralanmaları, serebral palsi gibi rahatsızlıklar nedeni ile alt ekstremite lokomotor fonksiyonlarının bir kısmı veya tamamı kaybedilebilmektedir. Bu tip hastalarda doğru ve uygun rehabilitasyon programları uygulandığında lokomotor fonksiyonlarda pozitif artış sağlanabilmektedir. Özellikle hemiplejik vakalarda erken dönemde uygulanan rehabilitasyon programları yardımı ile başarılı sonuçlar elde edilmektedir. Teknolojide meydana gelen gelişmeler ile birlikte robotik sistemlerin rehabilitasyon süreçlerinde kullanımı fikri ortaya atılmıştır. Süreç içerisinde farklı teknik ve stratejilere sahip robotik rehabilitasyon cihazları üretilmiş ve aktif olarak kullanılmaya başlanmıştır. Bu çalışmada inme, omurilik yaralanmaları, serebral palsi gibi rahatsızlıklar nedeni ile alt ekstremite fonksiyon kaybına uğramış hastaların rehabilitasyonunda kullanılan robotik rehabilitasyon cihazlarının teknolojileri, çalışma prensipleri ve tedavi proseslerine getirdiği katkılar değerlendirilmiştir.
+Yazar isimleri: ['Kemal Cem KÖSE']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: Journal of Scientific Reports-C
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsrc/issue/70905/1124624
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2460917

@@ -1,0 +1,7 @@
+Makale Başlığı: Development of Acute Kidney Injury According to KDIGO Criteria In Geriatric Patients Undergoing Major Gyneco-oncologic Surgery: A Case Series
+Özet: Acute kidney injury is a common postoperative complication in elderly patients. Due to decreasing age-related renal reserve and various co-morbidities in the perioperative period, it is seen more commonly in the elderly population, especially following major abdominal surgery. Although acute kidney injury that develops early after surgery is reversible and has a low overall postoperative mortality rate, it is associated with longer stays in the critical care unit, higher drug expenses, and higher in-hospital mortality. In this case series, we aimed to present six patients over 65 years old who developed acute kidney injury in the early postoperative period after major abdominal gynecological-oncological surgery.
+Yazar isimleri: ['Nadide Aysun POSTACI', 'Namık ÖZCAN', 'Umut Cahit ERSOY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Jinekoloji-Obstetrik ve Neonatoloji Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jgon/issue/72893/1056114
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2185262

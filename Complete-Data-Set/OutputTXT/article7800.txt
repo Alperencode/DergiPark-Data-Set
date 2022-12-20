@@ -1,0 +1,7 @@
+Makale Başlığı: DEVELOPMENT AND VALIDATION OF AN EFL TEACHER TEACHING QUALITY SCALE
+Özet: The present study aimed to investigate the factors, features and variables that might affect EFL teachers’ quality and lead to their success or failure in their profes-sional practice. Despite the importance of this concept, no validated instrument was found to measure these constructs. To fill the gap, this study developed and validated a scale of EFL teachers’ quality. A 57 item questionnaire was developed and administered to 334 EFL teachers. We ran Structural Equation Modeling (SEM) to analyze the collected data and test the path model of the study. The reliability and validity of the questionnaires were estimated using exploratory and confirmatory factor analyses. The results indicated acceptable goodness of fit indices (Chi-squared=1/789, p < .001, CFI = 0.942, TLI = 0.906, RMSEA= 0.058, SRMR =0.045, AIC =16600 and BIC =17040). The findings of this study have implications for researchers, as well as language teachers and other practitioners in the field of education and teaching quality.
+Yazar isimleri: []
+Yayın Yılı: 7 Aralık 2022
+Dergi ismi: International Journal of Quality in Education
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijqe/issue/73703/1214976
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2814420

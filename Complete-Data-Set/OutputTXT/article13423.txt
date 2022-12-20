@@ -1,0 +1,7 @@
+Makale Başlığı: CURRENT PRACTICES ON COVID-19 VACCINES
+Özet: Vaccine is a biological product developed by the methods of purifying the pathogenic properties of microorganisms such as bacteria and viruses, which have the ability to cause disease in humans, or by eliminating their disease-causing effects. SARS-CoV-2, from the coronavirus family, which first appeared in Wuhan, China in December 2019, caused the disease COVID-19 and caused a pandemic by affecting the whole world. It has become a very important goal to develop a vaccine to improve the course of the COVID-19 disease caused by SARS-COV-2 and to prevent death from the disease or to reduce mortality rates. Scientists all over the world have been working on vaccine development since the first months of the pandemic and vaccines developed with different methods have been started to be applied against the ongoing pandemic.
+Yazar isimleri: ['Ufuk İNCE', 'Feyza SAYIN']
+Yayın Yılı: 11 Ağustos 2022
+Dergi ismi: Sağlık Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/eujhs/issue/71449/989664
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1951877

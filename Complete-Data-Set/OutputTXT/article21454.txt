@@ -1,0 +1,7 @@
+Makale Başlığı: On Holomorphic poly-Norden Manifolds
+Özet: In this paper, we investigated a new manifold with a poly-Norden structure,  which is inspired by the positive root of the equation $x^{2}-mx-1=0$. We  call this new manifold as holomorphic poly-Norden manifolds. We examine some  properties of the Riemann curvature tensor and give an example of this  manifold. Then, we define a different connection on this manifold which is  named the semisymmetric metric poly F-connection and study some properties  of the curvature and torsion tensor field according to this connection.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783648
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

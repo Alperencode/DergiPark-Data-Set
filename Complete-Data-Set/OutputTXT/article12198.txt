@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of Machine Learning Performance in Wildfire Susceptibility Mapping Under Limited Training Data Condition
+Özet: Wildfire susceptibility mapping can be affected by several factors. One of the most influential factors is inventory data, its extent, format, and reliability. This study aims to evaluate if the Support Vector Machine (SVM) has the capability to detect and map the forest fire susceptible areas under limited training data conditions. To test this hypothesis wildfires in Mugla province located in the Eastern Mediterranean Region of Turkey have been selected as a pilot study area. The wildfire started in Mugla, on 29 July 2021, that considerably affected the residential areas, animals, and vast areas of forests. Fourteen wildfire influential variables have been used in the analysis as independent variables. Accuracy assessment has been implemented using the Area Under the Curve (AUC) technique. Success rate and prediction rates were (91.42%) and (87.69%) respectively. According to the prediction rate, SVM successfully recognized other burnt areas as the most susceptible regions.
+Yazar isimleri: ['Mahyat SHAFAPOURTEHRANY']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1174006
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2645216

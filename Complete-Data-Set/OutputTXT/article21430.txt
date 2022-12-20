@@ -1,0 +1,7 @@
+Makale Başlığı: Effects of higher order Taylor series terms on the solution accuracy of NI-RPIM for 3D elastostatic problems
+Özet: Effects of higher order Taylor series terms of the nodal integration-radial point interpolation method (NI-RPIM) are investigated on the solution accuracy of 3D elastostatic problems. The nodal integration technique is based on Taylor series expansion and, generally, its first two terms are used. It is only applied to 2D elastostatic problems in the literature. However, in the current study, terms are used up to the 5th order and it is applied to 3D elastostatic problems. Integration domains are obtained with rectangular prisms. Three different case studies are solved with different support domain sizes and shape parameters. Their results are compared with the finite element method, RPIM with Gauss integration, and available analytical solutions. Results are discussed in detail.
+Yazar isimleri: []
+Yayın Yılı: 1 Haziran 2014
+Dergi ismi: Turkish Journal of Engineering and Environmental Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkengineering/issue/35821/401397
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/434841

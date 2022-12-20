@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 PANDEMİSİNİN FİNANSAL PİYASALAR ÜZERİNDEKİ ETKİSİ: BORSA İSTANBUL ÖRNEĞİ
+Özet: Bu çalışmanın amacı, COVID-19 salgınının finansal piyasalar üzerindeki etkisininölçülmesidir. Bu bağlamda COVID-19’un Borsa İstanbul pay piyasasında en yüksek piyasa değerinesahip 30 şirketten oluşan BİST 30 endeksi şirketlerine olan etkisi Olay Çalışması yöntemi ve BağımlıÖrneklem t testi ile analiz edilmektedir. Analiz bulgularında, Çin’de duyurulan virüs vakasının BİST30 endeks getirileri üzerinde bir etkisine rastlanmazken, Türkiye’de ilk virüs vakasının duyurulmasıile BİST 30 endeksinin kümülatif anormal getirilerinde (CAR) düşüş olduğu bu düşüşün de istatistikselolarak anlamlı olduğu saptanmıştır. Elde edilen bulgular COVID-19 gibi sistematik riskin piyasalaraetkisini göstermesi açısından anlamlıdır.
+Yazar isimleri: ['Esra KARPUZ', 'Yasemin DENİZ KOÇ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Afro-Avrasya Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijar/issue/72188/1092489
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2329029

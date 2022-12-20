@@ -1,0 +1,7 @@
+Makale Başlığı: SiO2/ZrO2 Nano Partikül Katkılı Alüminyum Matrisli Kompozitlerin Mekanik Özelliklerinin ve Mikroyapılarının Karşılaştırılması
+Özet: Bu çalışmada, toz metalürjisi yöntemiyle ağırlıkça farklı katkı oranlarında (SiO2: %1-9, ZrO2: %1-12) nano zirkonyum dioksit (ZrO2) veya silisyum dioksit (SiO2) katkılı alüminyum esaslı kompozitler üretilmiştir. Üretilen numunelerin faz yapısı, basma dayanımı, sertliği, yoğunluğu ve mikroyapısı sırasıyla; X-ışını kırınımı cihazıyla, basma test makinasıyla, mikro Vickers sertlik ölçüm cihazıyla, Arşimet yoğunluk ölçüm kitiyle ve taramalı elektron mikroskobuyla incelenmiştir. Yürütülen testler neticesinde; en yoğun mikroyapı ve en üstün mekanik özellikler Al-%9ZrO2 (basma dayanımı: 288 MPa, sertlik: 69 HV) ve Al-%6SiO2 (basma dayanımı: 267 MPa, sertlik: 50 HV) kompozit yapıda elde edilmiştir. Saf alüminyuma kıyasla Al-%6SiO2 kompozitin basma dayanımı ve sertliği %44.3, %66.7 oranlarında artarken; Al-%9ZrO2 kompozitin basma dayanımının ve sertliğinin %55.7, %130 oranlarında arttığı belirlenmiştir. Sonuç olarak aynı katkı oranında kullanılan ZrO2 partiküllerinin, SiO2 partiküllerine kıyasla alüminyum matrisin mekanik özelliklerini iyileştirmede daha etkili olduğu tespit edilmiştir.
+Yazar isimleri: ['Mahmut Can ŞENEL']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Yüzüncü Yıl Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yyufbed/issue/71465/1077471
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2268948

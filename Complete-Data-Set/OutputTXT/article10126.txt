@@ -1,0 +1,7 @@
+Makale Başlığı: Assessment of Heavy Metal Pollution of Çoruh River (Turkey)
+Özet: Bu çalışmada Çoruh Nehri'nden toplanan su, askıda katı madde ve sediment örneklerinin kirlilik değerlendirmesi yapılmıştır. Bu amaç için toplanan numunelerde alüminyum, krom, manganez, demir, kobalt, nikel, bakır, çinko, kadmiyum ve kurşun konsantrasyonları ölçülmüştür. Elde edilen verilerin değerlendirilmesinde su ve sediment kalite indeksleri kullanılmıştır. Su kalitesi indeks değerleri incelendiğinde nehrin kötü su kalitesi sınıfında olduğu belirlendi. Sediment zenginleştirme faktörüne göre krom ve nikel açısından düşük düzeyde zenginleşme, manganez, demir ve kobalt için değiştirilebilir derecede zenginleşme, bakır ve çinko için önemli derecede zenginleşme, kadmiyum ve kurşun için çok yüksek düzey zenginleşmeye tespit edilmiştir. Kirlilik yükleme indeksi sonuçları da sediment kalitesinin bozulduğunu ve yüksek metal yüküne sahip olduğunu göstermiştir. Sedimentteki bu kirlilik faktörlerinin nedeninin bölgedeki madencilik faaliyetlerinden kaynaklandığını düşünülmektedir. Sonuç olarak, Çoruh Nehri'nin su ve sediment kalitesinin düzenli bir izleme programı ile izlenmesi gerektiği belirlenmiştir.
+Yazar isimleri: ['Tamer AKKAN', 'Tanju MUTLU']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1073227
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2252053

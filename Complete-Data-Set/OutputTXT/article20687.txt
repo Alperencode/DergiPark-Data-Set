@@ -1,0 +1,7 @@
+Makale Başlığı: Sadeleştirilmiş U-Net mimarisi ile beyin tümörü segmentasyonu
+Özet: Kafatası içinde yer alan beyin tümörleri ciddi sonuçlara neden olan sağlık sorunları arasındadır. Beyin tümörünün hızlı ve doğru bir şekilde tespit edilip tümör bölgesinin segmentasyonunun yapılması hastanın erken dönemde uygun tedavi almasını sağlayarak hastanın iyileşme ve hayatta kalma şansını artıracaktır. Literatürde birçok segmentasyon yöntemi bulunmaktadır. Düşük segmentasyon doğruluğu ve kullanılan ağ yapısının çok büyük olması mevcut yöntemlerin ana dezavantajıdır. Bu çalışmada beyin tümörlerinin MR görüntüleri üzerinde segmentasyonu için sadeleştirilmiş U-Net derin öğrenme modeli önerilmektedir. Model, 233 hastadan alınan ve yaygın beyin tümörlerinden gliom, menenjiom ve hipfiz tümörünü içeren 3064 MR görüntüsü üzerinde eğitilip test edilmiştir. Sonuç olarak ortalama 0.86 dice benzerlik katsayısı, 0.76 IoU skoru, 0.85 hassasiyet değeri ve 0.99 piksel doğruluk değeri elde edilmiştir. Önerilen model beyin tümörü segmentasyonunu hızlı ve yüksek doğrulukla gerçekleştirdiğinden hastalığın tanısında ve uygun tedavinin belirlenmesinde uzmanlara yardımcı olması açısından umut vaat etmektedir.
+Yazar isimleri: ['Özlem POLAT']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1111082
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2405639

@@ -1,0 +1,7 @@
+Makale Başlığı: SHIFT TRANSFORM APPROACH TO THE TWO-SIDED BALLOT THEOREM
+Özet: We present a recursive formula for the two-sided ballot theorem using left and right shift transforms. In particular, we showed that the xth entry of the image of the d + 1 dimensional unit vector under the sum of the left and right shift operators is the number of walks in the lattice interval [0,d] that start at the origin and stop at the location x. This approach enables us to write a recursive formula for the number of possible n−walks between two obstacles that stop at a predetermined location.
+Yazar isimleri: ['Kubilay DAGTOROS']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Amasya University the Institute of Sciences and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jauist/issue/70944/1070936
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2243635

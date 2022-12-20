@@ -1,0 +1,7 @@
+Makale Başlığı: Çanakkale Boğazı Gemi Trafiğinin Emisyon Tahmini
+Özet: Dünya ticaretinin bel kemiğini oluşturan gemiler, aynı zamanda büyük kirletici kaynağıdır.  Bu kirleticiler, özellikle insan nüfusunun yoğun olduğu bölgelerde ve turizm bölgelerinde çok önemli sağlık sorunlarına yol açabilir. Bu nedenle, gemi emisyonlarının tespiti ve önlenmesi dikkate alınması gereken çalışmalardır. Türk Boğazları olarak bilinen Çanakkale ve İstanbul Boğazları, dar, yoğun nüfuslu ve yoğun gemi trafiğine sahip su yolları olarak gemi emisyonlarının etkisinin en çok hissedildiği konumlardan birisidir. Bu çalışmada, Çanakkale Boğazı'ndan 2020 yılında geçen gemilere ait veriler işlenerek bu gemilerin oluşturduğu emisyonlar 545.373,3 t olarak hesaplanmıştır. Bu verilerden yola çıkılarak, bu emisyonların çevreye verdikleri zararlar ve çözüm yolları üzerinde tartışılmıştır. Buna ek olarak, gemi trafiğinin deniz yaşamı üzerindeki potansiyel etkileri de tartışılmıştır.
+Yazar isimleri: ['Arif SAVAŞ', 'Levent BİLGİLİ']
+Yayın Yılı: 28 Ekim 2022
+Dergi ismi: Çanakkale Onsekiz Mart University Journal of Marine Sciences and Fisheries
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jmsf/issue/73236/1134339
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2501340

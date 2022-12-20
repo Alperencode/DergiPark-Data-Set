@@ -1,0 +1,7 @@
+Makale Başlığı: Influence of Pouring Temperature on The Formation of Spheroidal and Lamellar Graphite In Cast Iron
+Özet: The objective of this research is to investigate the effectof pouring temperature on the microstructure of the cast iron.  The pattern was designed with 300  mm of width and the thickness variations are25 mm and poured at five different temperatures; 1300, 1325, 1350, 1375 and1400oC. Several cast irons, prepared with different chemicalcompositions and microstructures (three lamellar and three spheroidalstructures) have been examined by extensive mechanical testing and opticalmicroscopy. The fluidity of spheroidal and lamellar graphite in cast ironincreases with the pouring temperature. The numbers of nodules were decreasedby increasing pouring temperature for spheroidal structures. Whereas, thenumbers of flakes of lamellar structures changed by both pouring temperatureand chemical composition. In general, with increasing pouring temperature, theamount of pearlite in the internal structure of both lamellar and spheroidalgraphite cast iron materials were increased.
+Yazar isimleri: ['Mehmet EKİCİ', 'Uğur ÖZSARAÇ']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/369341
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826686

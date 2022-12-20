@@ -1,0 +1,7 @@
+Makale Başlığı: An application for the selection of steel sheet materials used in automotive construction with the MOORA method
+Özet: The new generation of steel grades that can be used in automotive construction is increasing day by day and the material selection becomes very important both in the design and manufacturing processes due to the development in the materials. In this study, data on tensile strength, formability, load that weld joints can bear, fatigue stress, corrosion resistance and price criteria of high strength low alloy (HSLA), dual phase (DP), three phase (TRIP) and complex phase (CP) steel sheet materials used in the automotive industry were determined and a study was conducted for the material selection using the MOORA (Multi Objective Optimization on the Basis of Ratio Analysis) ratio approach. It was concluded that the selection of DP grade steel sheet material according to the MOORA ratio approach among the materials used in the study would be the optimum choice.
+Yazar isimleri: ['Batuhan ÖZAKIN']
+Yayın Yılı: 2 Ekim 2022
+Dergi ismi: International Journal of Automotive Engineering and Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijaet/issue/72891/1029965
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2105182

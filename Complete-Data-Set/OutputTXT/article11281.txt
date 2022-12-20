@@ -1,0 +1,7 @@
+Makale Başlığı: THE USE OF TOPSIS AND FUZZY TOPSIS METHODS IN THE SELECTION OF UAV (UNMANNED AERIAL VEHICLE) SYSTEMS TO BE USED IN MILITARY FIELDS
+Özet: This study aims to make the most appropriate decision at the procurement decision stage by comparingthe technical features of UAV systems currently used and those to be used in the military field. For thispurpose, the technical data of UAV systems, which are suitable for military use, produced by three domesticand five foreign companies, and are in the production phase, were collected. These collected data wereanalysed under the following headings: [At First, three criteria (Airtime, Maximum Altitude, and PayloadCapacity) and TOPSIS and Fuzzy TOPSIS analysis are implemented. Then two more criteria (Cruise Speedand Maximum Speed) were added to these three criteria. Only TOPSIS analysis was performed.] separatedand sorted by TOPSIS and the Fuzzy TOPSIS Method. In line with the findings, the Yabhon United 40 andPredator C Avenger models took first place in the TOPSIS three and five criteria rankings, respectively. Itwas determined that the Heron TP model took first place in the ranking with fuzzy TOPSIS.
+Yazar isimleri: ['Osman Nuri TEKİNAY', 'Gülgönül BOZOĞLU BATI']
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: Marmara Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muiibd/issue/70497/1135526
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2506143

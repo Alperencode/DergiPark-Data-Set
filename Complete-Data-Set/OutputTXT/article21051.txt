@@ -1,0 +1,7 @@
+Makale Başlığı: ACADEMIC TEXT CLUSTERING USING NATURAL LANGUAGE PROCESSING
+Özet: Accessing data is very easy nowadays. However, to use these data in an efficient way, it is necessary to get the right information from them. Categorizing these data in order to reach the needed information in a short time provides great convenience. All the more, while doing research in the academic field, text-based data such as articles, papers, or thesis studies are generally used. Natural language processing and machine learning methods are used to get the right information we need from these text-based data. In this study, abstracts of academic papers are clustered. Text data from academic paper abstracts are preprocessed using natural language processing techniques. A vectorized word representation extracted from preprocessed data with Word2Vec and BERT word embeddings and representations are clustered with four clustering algorithms.
+Yazar isimleri: ['Salimkan Fatma TAŞKIRAN', 'Ersin KAYA']
+Yayın Yılı: 16 Aralık 2022
+Dergi ismi: Konya Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konjes/issue/73898/1081213
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2283359

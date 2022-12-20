@@ -1,0 +1,7 @@
+Makale Başlığı: A four-wall virtual reality visualization of patient-specific anatomy: Creating full user immersive experience from computed tomography scans
+Özet: Virtual reality is the future of medical imaging diagnosis. Previous studies have introduced virtual reality rendering of anatomical models while others have mentioned processes to extract 3D models from Computed Tomography (CT) images. In this study, we provide a detailed workflow to transforming patient-specific two-dimensional (2D) CT dicom format imaging files to three-dimensional (3D) immersive, dynamic and interactive anatomical assembly models while incorporating them into a four-wall virtual reality environment system. Our study implemented 3D CAD and virtual reality capacities through software and engineering design tools to transform 2D medical images into interactive 3D models in our system. In doing so, the user was able to gain a sense of depth, scale, and dimensionality while immersed in the environment and while implementing interactive tools to investigate patient- specific hip-femur dynamics. At the same time, users were able to identify key anatomical landmarks in the patients’ hip joints. Applications of the VR system to the medical field and orthopedics, in particular, were discussed.
+Yazar isimleri: ['Emad TANBOUR']
+Yayın Yılı: 15 Nisan 2023
+Dergi ismi: Turkish Journal of Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tuje/issue/69578/1072285
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2248720

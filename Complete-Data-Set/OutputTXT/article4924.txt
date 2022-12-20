@@ -1,0 +1,7 @@
+Makale Başlığı: Ateş Böceği Algoritması ile Quadrotor Pozisyon Kontrolü
+Özet: Quadrotor, mükemmel çevikliğe, dört pervaneye ve altı serbestlik derecesine sahip, VTOL özellikli bir insansız hava aracıdır. Basit yapıları ve düşük maliyetleri nedeniyle son yıllarda oldukça ilgi görmektedirler. Görünür basitliğine rağmen, doğrusal olmayışı ve bağlantılı dinamikleri kontrolü zorlaştırır. Basit yapısı nedeniyle PD kontrolü, quadrotorlarda yaygın olarak kullanılmaktadır. Bu makalede, Ateş Böceği Algoritması ve Genetik Algoritma kullanılarak hesaplanan parametreleriyle dört rotorlu bir quadratorun, yükseklik ve konum stabilizasyonu için bir PD denetleyicisi önerilmiştir. Yalnızca hedef pozisyonun hassas bir şekilde konumlandırılmasını sağlamak için değil, aynı zamanda hareketin yerleşme süresini de iyileştirmek için bir amaç fonksiyonu önerilmiştir. Önerilen yöntemin performans doğrulaması için dinlenme konumundan hedef konuma bir test yolu incelenir. Elde edilen bulgular, pozisyon stabilizasyonunun kısa sürede gerçekleştirilebileceğini ve Genetik algoritma tarafından belirlenen ayarlara kıyasla yerleşme süresinin önemli ölçüde azaldığını göstermektedir. Ataş Böceği Algoritması yöntemi ile belirlenen PD kontrolör parametreleri, Genetik Algoritma tarafından seçilenleri geride bırakmaktadır.
+Yazar isimleri: ['Büşra KESKİN', 'Kemal KESKİN']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/975718
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1896801

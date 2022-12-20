@@ -1,0 +1,7 @@
+Makale Başlığı: İstanbul Üniversitesi Gözlemevinden Yeni Bir Kısa Dönemli Zonklayan Yıldız Keşfi
+Özet: Ötegezegen barındıran XO-2 yıldızının alanında yeni bir kısa dönemli zonklayan değişenin keşfini bildiriyoruz. Değişen yıldız, mukayese olarak kullanılırken farkedildi. Kaynağın değişkenliğinin belirlenmesi için kapsamlı bir takip programı izlendi. Çoklu dalgaboyunda elde edilen ışık eğrilerinin analizinden periyodunun yaklaşık $P\sim0.95$ saat olduğu belirlendi. Değişim periyodu, genliği ve renk indeksi bu kaynağın büyük olasılıkla bir delta Scuti türü değişen olduğunu gösteriyor. Mutlak parlaklığı ($M_{v}$) ve renk indeksi ($(B-V)_{0}$) sırasıyla 2.76 ve 0.22 olarak belirlendi. Bu renk indeksi A7 tayf türüne ve yaklaşık 7725 K'lik bir etkin sıcaklığa karşılık geliyor. Işık eğrilerinin ayrıca makine öğrenmesi yöntemiyle analizi değişenin ortalama %78 olasılıkla delta Scuti türü olduğunu gösteriyor.
+Yazar isimleri: ['Mustafa Turan SAĞLAM', 'Meryem ÇÖRDÜK', 'Sinan ALİŞ', 'Görkem ÖZGÜL', 'Olcaytuğ ÖZGÜLLÜ', 'Fatih Erkam GÖKTÜRK', 'Rahmi GÜNDÜZ', 'Süleyman FİŞEK', 'Fuat Korhan YELKENCİ', 'Eyüp Kaan ÜLGEN', 'Tolga GÜVER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Astronomy and Astrophysics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjaa/issue/69916/1103590
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2374765

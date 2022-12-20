@@ -1,0 +1,7 @@
+Makale Başlığı: DEVELOPMENT OF CURCUMIN BASED BIOPOLYMER FILMS UNDER VISIBLE LIGHT IRRADIATION
+Özet: The aim of the study was to develop a colorimetric film with photooxidation reaction under visible light using curcumin and furan modified gelatin. For this purpose, bovine gelatin was modified with furfuryl isocyanate to synthesize photosensitive furan modified gelatin (f-gelatin). In the study, curcumin was expected to serve both as the visible light absorbing photosensitizer and the recognition agent for total volatile basic amines.  Mechanical, barrier, thermal and micro structure characterization experiments were carried out with five different films prepared by changing f-gelatin, gelatin and curcumin ratios. Films (K20-FG) prepared with f-gelatin and 20% (v/v)  curcumin was shown to give the best results as a result of characterization tests. Later, color difference values of K20-FG films against different concentrations of volatile ammonia were monitored. Gas sensing tests were shown that monitoring of protein rich food spoilage, could be possible with the developed K20-FG films.
+Yazar isimleri: ['İdil KİT', 'Leyla Nesrin KAHYAOĞLU']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Gıda
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gida/issue/73077/1160564
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2590494

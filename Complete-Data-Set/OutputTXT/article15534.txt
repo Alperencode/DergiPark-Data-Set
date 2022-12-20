@@ -1,0 +1,7 @@
+Makale Başlığı: FACTORS AFFECTING MECHANICS OF MACHINING IN WOOD AND WOOD-BASED MATERIALS
+Özet: Wood and wood-based materials are used by being processed in various machines in furniture, joinery and construction industries. Various cutting forces arise based on mechanics of machining. It is stated that the cutting power and power consumption factors depend on the cutting forces.  The cutting forces are especially used as the main output in the analysis of the cutting process and physico-mechanical cutting models are very important in understanding the cutting factors. Vibration, noise, temperature and machining defects as well as cutting power, surface and chip quality are usually not considered. Determination of optimal machining conditions with efficient and economical works are based on material, tool geometry and mechanics of machining in terms of obtaining smooth surfaces with the lowest power consumption in machining. In this research, the factors affecting the mechanics of machining in the processing of wood and wood-based materials are discussed. Cutting forces, cutting power and their measurement methods with tool and machining geometry were investigated.g geometry were investigated.
+Yazar isimleri: ['Ali CAKMAK']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Turkish Journal of Forest Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkjforsci/issue/73235/1167080
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2616381

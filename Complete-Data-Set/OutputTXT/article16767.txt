@@ -1,0 +1,7 @@
+Makale Başlığı: QUANTILE CONNECTEDNESS BETWEEN CRYPTOCURRENCIES AND STABLECOINS
+Özet: This paper aims to analyze the volatility spillover relationship between cryptocurrencies and stablecoins dynamically. Within the scope of the study, the daily closing price data of Bitcoin (BTC), Ethereum (ETH), BNB cryptocurrencies, and Tether (USDT) and USD Coin (USDC) stablecoins covering the period from January 1, 2019 to April 6, 2022 was analyzed using the Q-VAR model. Our results suggest that the volatility spillover between the cryptocurrency and stablecoins increased during the Covid-19 pandemic. Moreover, the direction and severity of volatility spillover between cryptocurrencies and stablecoins are affected by global events. While the relationship between cryptocurrencies and stablecoins themselves is strong, the relationship between each other is weak. Our findings suggest that global events influence the interaction between crypto-assets and that cryptocurrencies and stablecoins can be good diversifiers for each other. These findings have important implications for financial market regulators, portfolio investors, and academic research.
+Yazar isimleri: ['Cantürk KAYAHAN', 'Halilibrahim GÖKGÖZ', 'Tolga MURAT']
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: Uluslararası İktisadi ve İdari İncelemeler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ulikidince/issue/73302/1146239
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2548298

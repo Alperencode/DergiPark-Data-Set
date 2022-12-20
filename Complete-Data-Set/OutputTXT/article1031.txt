@@ -1,0 +1,7 @@
+Makale Başlığı: Kıymetli Madenlerin Range-Based Realized Volatilite Serileri Arasındaki Asimetrik İlişkiler
+Özet: Finansal piyasalarda oluşan yüksek oynaklık ve bulaşma etkisi paniği yatırımcıların risklerini artırmaktadır. Böylece yatırımcılar artan riskten korunmak için portföylerinde yer alabilecek alternatif enstrümanları düşünmeye başlamış ve bu noktada kıymetli madenler güvenli liman olarak görülmeye başlanmıştır. Kıymetli madenlerin diğer finansal varlıklar ve piyasalarla olan ilişkisi önemli olduğu kadar birbirleriyle olan ilişkisi de oldukça önemli ve araştırılması gereken bir konudur. Bu amaçla kıymetli madenler arasındaki nedensellik ilişkisi Garman-Klass (1980) range-based realized volatilite serileri kullanılarak Hacker ve Hatemi-J Boostrap (2006) Nedensellik testinin yanı sıra asimetrik ilişkilerin de görülebilmesi için Hatemi-J (2012) Asimetrik Nedensellik testi ile analiz edilmiştir. Analizler sonucunda değişkenler arasında çeşitli nedensellik ilişkileri bulunmuştur. Ulaşılan en önemli sonuç ise altının gümüşle sınırlı bir ilişkisinin bulunduğu ve platin, paladyumla herhangi bir nedensellik ilişkisi bulunmadığı için altının oluşturulacak portföylerde daha fazla bulundurulabileceği ve halen yatırım aracı olarak güvenli liman olma özelliğini koruduğudur.
+Yazar isimleri: ['Arife ÖZDEMİR HÖL', 'Nazlıgül GÜLCAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1032905
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2116880

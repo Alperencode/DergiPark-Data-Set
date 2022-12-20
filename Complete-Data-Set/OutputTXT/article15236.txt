@@ -1,0 +1,7 @@
+Makale Başlığı: INVESTIGATION OF THE EFFECTS OF SEQUENTIAL OR RANDOM HIDING OF INFORMATION ON VIDEO FILES USING THE LSB METHOD ON SECURITY
+Özet: With the rapid development of technology, the concept of information security has become an important issue. The concept of Cryptology and Steganography is needed to ensure the security of data, especially during data transfers in digital environment. While cryptography is used to render information meaningless, Steganography is used to store existing information on carrier files. In this research, sequential and random information hiding processes were performed on video files by using the LSB method, and their analyzes were made.
+Yazar isimleri: ['Egemen TEKKANAT', 'Andaç MESUT']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Trakya Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tujes/issue/70957/1116389
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2426658

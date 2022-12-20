@@ -1,0 +1,7 @@
+Makale Başlığı: The Impact of Geopolitical Risk Index on the Profitability Performance of the Banking Sector
+Özet: This study aimed to investigate the impacts of the geopolitical risks of the countries on the profitability performance of the banking sector using the quarterly data of the G-7 countries over the period 2012:Q2- 2021:Q4. For this purpose, two panel models were established, namely, bank-specific variables and macroeconomic variables. Panel models were analyzed with the Driscoll-Kraay fixed effects estimator. According to the analysis results, the increase in the geopolitical risk index negatively affects the profitability performance of banks. Besides, it was concluded that the increase in the inflation rate had a negative impact on the profitability of the banking sector. Nonetheless, it was concluded that the capital adequacy ratio of the banks, the credit growth rate in the sector, and the increases in the interest rate had positive impacts on the profitability performance of the banks. The obtained estimation results indicated that risk management and the establishment of a strong economic system that could help oturtulmuş the market are quite important in order to combat the increasing risk perception in countries.
+Yazar isimleri: ['Furkan YILDIRIM', 'Ayberk Nuri BERKMAN']
+Yayın Yılı: 21 Ekim 2022
+Dergi ismi: Türk Sosyal Bilimler Araştırmaları Dergisi
+Yayın sayfa url: http://tursbad.hku.edu.tr/tr/pub/issue/73120/1165457
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2609918

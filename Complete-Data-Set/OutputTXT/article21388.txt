@@ -1,0 +1,7 @@
+Makale Başlığı: Low harmonic 12-pulse rectifier with a circulating current shaping circuit
+Özet: This paper proposes a four-star 12-pulse diode rectifier with a circulating current shaping circuit  CCSC   on the DC side to decrease the input current harmonics effectively. The type of circulating current that can eliminate  the input current harmonics is analysed and its waveform parameters are derived. The effects of triangular circulating  current on the harmonics of the input current are analysed, and the harmonic suppression mechanism of the triangular  circulating current is revealed. This scheme has excellent harmonic suppression capability, and the capacity of CCSC is  only 2.35% of output power of the 12-pulse rectifier. Thus, this scheme is cost effective for high power applications. The  experimental results confirm the theoretical analysis and near sinusoidal input current is obtained.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739700
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110707

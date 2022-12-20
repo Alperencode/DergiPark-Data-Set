@@ -1,0 +1,7 @@
+Makale Başlığı: Gauss Bronz Lucas Sayıları
+Özet: Bu çalışmanın amacı Gauss Bronz Lucas sayı dizisini tanıtmak ve incelemektir. İlk olarak Bronz Lucas sayılarını genişleterek Gauss Bronz Lucas sayılarını tanımladık. Daha sonra bu sayı dizisi için Binet formülü ve üreteç fonksiyonunu bulduk. Ayrıca Gauss Bronz Lucas sayıları ile ilgili bazı toplam formülleri ve matrisleri araştırdık. Son olarak, bu dizinin Binet formülünü dikkate alarak Catalan, Cassini ve d’Ocagne özdeşlikleri gibi bilinen eşitlikleri elde ettik.
+Yazar isimleri: ['Nusret KARAASLAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1038520
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2139767

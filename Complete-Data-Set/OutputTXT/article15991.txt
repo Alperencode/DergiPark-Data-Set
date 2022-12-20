@@ -1,0 +1,7 @@
+Makale Başlığı: CBS Tabanlı AHP Yöntemi Kullanılarak Bitlis İlinin Heyelan Duyarlılık Haritalaması
+Özet: Bu çalışma, Bitlis ili genelinde eğim, yağış, toprak, litoloji, akarsuya olan mesafe, arazi kullanımı, yükseklik, bakı ve aktif faylara olan uzaklık gibi heyelana duyarlı tehlike faktörlerinin yansıra tarihsel heyelan olayları ve nüfus yoğunluğu dikkate alarak bölgenin heyelan duyarlılık değerlendirmesini sunmaktadır. Bu amaçla çoklu karar verme yöntemlerinde etkin bir yöntem olarak CBS tabanlı Analitik Hiyerarşi Süreci (AHS) kullanılmıştır. Sonuçlar, çalışma alanının yaklaşık %25'inin orta ila yüksek heyelan duyarlılığına sahip olduğunu göstermiştir. Buna göre, çalışma alanının özellikle dağlık ve derin akarsu vadilerinin bulunduğu güneybatı ve güneydoğu kesimlerinde ve kuzeyde kısmen dağlık bölgelerde heyelan duyarlılığı yüksektir. Literatürdeki önceki heyelan kayıtları ve benzer duyarlık haritaları ile karşılaştırıldığında, sonuçların çalışma alanının heyelan duyarlılığını belirlemede oldukça başarılı olduğu görülmüştür. Ancak çalışma kapsamında risk değerlendirmesi yapılmamıştır.
+Yazar isimleri: ['Mehmet Cihan AYDIN', 'Elif SEVGİ BİRİNCİOĞLU', 'Aydın BÜYÜKSARAÇ']
+Yayın Yılı: 18 Eylül 2022
+Dergi ismi: Türk Uzaktan Algılama ve CBS Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rsgis/issue/72616/1119723
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2440811

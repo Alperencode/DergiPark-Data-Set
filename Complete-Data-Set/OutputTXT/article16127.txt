@@ -1,0 +1,7 @@
+Makale Başlığı: Problems in Insulin Pump Management and Suggestions for Solutions in Children and Adolescents with Type 1 Diabetes
+Özet: Type 1 diabetes is a process that children with diabetes and their parents can manage through repetitive training, care and close monitoringthat they need to continue throughout their lives at the time of diagnosis. Type 1 forms diabetes management components into insulintreatment, healthy nutrition, physical activity, self-monitoring, multidisciplinary close-up and nursing approach. Insulintherapy iscentral to these components. With the development of diabetes technologies, an electromechanical pump entered the lives of the diabeticchild and his or her parents, who automatically sends insulin continuously.In this compilation article, the advantages and disadvantagesof the insulin infusion pump, which has become widely used globally, have been discussed in detail in the literature.
+Yazar isimleri: ['Gunay DEMİR', 'Emine ÇUBUKCU', 'Nurdan AKCAY']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Türkiye Diyabet ve Obezite Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tudod/issue/72430/1105407
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2382120

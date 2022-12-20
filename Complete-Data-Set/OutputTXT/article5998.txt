@@ -1,0 +1,7 @@
+Makale Başlığı: Karşıt Akışlı Ranque – Hilsch Vorteks Tüpünün Lineer Regresyon, Destek Vektör Makineleri ve Gauss Süreç Regresyonu Yöntemi ile Performans Analizi
+Özet: 
+Yazar isimleri: ['Murat KORKMAZ', 'Ayhan DOĞAN', 'Volkan KIRMACI']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Gazi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gmbd/issue/72442/1111516
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2407297

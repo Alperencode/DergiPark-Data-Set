@@ -1,0 +1,7 @@
+Makale Başlığı: AN EMPIRICAL ANALYSIS ON THE RELATIONSHIP OF RENEWABLE ENERGY AND IMPORTS IN MIDDLE INCOME COUNTRIES
+Özet: Energy is one of the essential needs for life. Countries generally use fossil fuels to meet this need. However, since these energy sources are scarce, people have turned to renewable energy sources. The aim of this study is to examine the effect of renewable energy consumption on imports for the period 1996-2018 in 77 middle-income countries with panel data analysis. Since there is a cross-section dependency in the analyzed series, 2nd generation panel unit root tests were applied. Since there is correlation between units, varying variance and autocorrelation in the model, parameter estimation was made with the Driscoll-Kraay estimator. According to the results of the study, a 1% increase in renewable energy consumption reduces the share of imports in GDP by 0.27%. For this reason, countries should turn to renewable energy sources to reduce their foreign trade deficit.
+Yazar isimleri: ['Hatice ÖNDER']
+Yayın Yılı: 17 Eylül 2022
+Dergi ismi: Sakarya İktisat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sid/issue/72576/1174782
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2648655

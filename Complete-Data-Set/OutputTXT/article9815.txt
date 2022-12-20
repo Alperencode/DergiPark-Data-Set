@@ -1,0 +1,7 @@
+Makale Başlığı: ON CENTRAL AUTOMORPHISMS OF FREE METABELIAN LIE ALGEBRAS
+Özet: Let $F_m$ be the free metabelian Lie algebra of rank $m$ over a field $K$ of characteristic 0. An automorphism $\varphi$ of $F_m$ is called central if $\varphi$commutes with every inner automorphism of $F_m$. Such automorphisms form the centralizer $\text{\rm C}(\text{\rm Inn}(F_m))$of inner automorphism group $\text{\rm Inn}(F_m)$ of $F_m$ in $\text{\rm Aut}(F_m)$. We provide an elementary proof to show that $\text{\rm C}(\text{\rm Inn}(F_m))=\text{\rm Inn}(F_m)$.
+Yazar isimleri: ['Başak ERGİNKARA', 'Şehmus FINDIK']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Journal of Universal Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jum/issue/71609/1141787
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2530411

@@ -1,0 +1,7 @@
+Makale Başlığı: Sensorless Speed Control of Induction Motors with Artificial Neural Networks
+Özet: BecauseInduction Motors (IM) are widely used in industrial areas, the control problemof these motors at different speeds has emerged. In this study, sensorlessspeed control of IM was performed with Artificial Neural Networks (ANN).Frequency-controlled scalar control method was utilized to control IM. Speedand torque data have been entered to ANN. Here, ANN provided to achieve thedesired speed of the motor by estimating frequency. The results of the studyconducted based on Matlab/Simulink examined and presented.
+Yazar isimleri: ['Ozcan OTKUN']
+Yayın Yılı: 30 Aralık 2020
+Dergi ismi: Journal of Engineering and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jetech/issue/59050/643432
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/849103

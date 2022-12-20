@@ -1,0 +1,7 @@
+Makale Başlığı: Eleman İşe Alım Süreci İçin AHP Metodu ile Karar Destek Sistemi
+Özet: Günümüz rekabet ortamında firmalar, değişen dünyaya ayak uydurmaya ve büyümeye çalışıyorlar. Nitelikli iş gücüne sahip olmak, ilgili pozisyon için en uygun personelin yetiştirilmesi ile başlıyor. Bu bağlamda, firmalar açık pozisyonlarını en kısa sürede kendilerine en uygun ve en başarılı adaylar ile doldurmak zorundadırlar. Bu çalışmada bir şirkette bir pozisyonda oluşan boşluktan dolayı pozisyon için başvuruda bulunan 4 personel için seçim yapılmıştır. Adaylar için çok kriterli karar verme tekniklerinden biri olan AHP (Analitik Hiyerarşi Prosesi) metodu kullanılarak değerlendirilme yapılmıştır. Değerlendirme yapılırken firmanın bu pozisyon için önem verdiği 5 kriter de göz önünde bulundurulmuştur. Sonuçlarına göre adaylar sıralanmıştır ve şirketin isteklerine karşılık hangi adayın daha uygun olduğu belirlenmiştir. Bu çalışmada da gösterildiği gibi, AHP yöntemi şirketler için gelen aday başvurularını hızlı ve açık pozisyona en uygun şekilde değerlendirme imkanı sunmaktadır.
+Yazar isimleri: ['Ozge DOGUC']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Ekonomi İşletme ve Maliye Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ekimad/issue/72378/1142952
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2535040

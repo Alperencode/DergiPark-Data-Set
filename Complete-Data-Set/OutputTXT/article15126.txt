@@ -1,0 +1,7 @@
+Makale Başlığı: Optimization of Platoon Formation Center Location for  Truck Platooning in Turkey
+Özet: In Road Transportation, truck transportation is commonly being categorized into Less Than Truckload (LTL), Partial Truckload and Full Truckload (TL). The standard LTL transportation is carried out by means of consolidated freight at optimized depots of designation, in the form of single or multiple assignment. Nowadays, freight transportation industry is now facing a serious problem of scarce labor force and environmental concerns. One solution for that is truck platooning. Truck Platooning is a grouping of freight vehicles into connected vehicle convoys using electronic coupling as an application in automated driving technology with the aim of saving fuel, reducing travel costs, and improving infrastructure efficiency. Platoon planning is required to obtain the best results of platooning. Therefore, the objective of this study is to find the optimal locations of PFC in Turkey for (de)formation truck platoons by using discrete mathematical optimization.
+Yazar isimleri: ['Saw AUNG', 'Daisuke WATANABE']
+Yayın Yılı: 9 Aralık 2022
+Dergi ismi: Toros Üniversitesi İİSBF Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iisbf/issue/73765/1177545
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2660152

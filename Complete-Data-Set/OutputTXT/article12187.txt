@@ -1,0 +1,7 @@
+Makale Başlığı: Seasonality Determination of Stream Flows For Planning Hydraulic Structures in Kızılırmak Basin
+Özet: The demand for water resources is increasing day by day due to the rapid increase in the world population, drought caused by industrialization, urbanization and global climate change. The efficient use of water resources depends on the correct planning and operation of the water resources systems of the future.  The seasonality analysis is to reveal the similarities between the hydrological characteristics of the currents regionally. Examining the seasonality of river flow data is essential for the correct design and efficient operation of the hydraulic structures to be designed. In this study; the seasonal similarity of low and high stream flows throughout the year was determined by using the daily flow data of 5 flow streamflow gauging stations selected at certain geographical points of the Kızılırmak basin. The similarity of the basins was determined by using the seasonal statistics calculated and the direction of the average occurrence dates for each station. This observed similarity was also associated with the hydrological similarity between stations and the hydrological characteristics of the basins were found.
+Yazar isimleri: ['Naci BÜYÜKKARACIĞAN']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1155806
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2577459

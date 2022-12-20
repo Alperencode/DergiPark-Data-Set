@@ -1,0 +1,7 @@
+Makale Başlığı: An emission reduction method in liquid hydrogen powered fuel cell vehicles
+Özet: An emission reduction method has been analyzed for Liquid Hydrogen (LH2) powered Fuel Cell Vehicles (FCVs) using GREET software in this study. In the analysis, cooling rates and Coefficient of Performance (COP) values of the proposed system have been calculated for FCVs that considered. Average reductions of the years 2010, 2020, 2030, 2040, and 2050 in emissions for the use of Auxiliary Air Condition (AAC) system in the FCVs are analyzed in g/year for Volatile Organic Compounds (VOC), Carbon Monoxide (CO), Nitrogen Oxides (NOx), Particulate Matters (PM10 & PM2.5), and Sulfur Oxides (SOx). Average reduction in Carbon Dioxide (CO2) emission is calculated and given in kg/year. All the emissions decrease in significant proportions due to the reduction in fuel consumption by less usage of the main AC system of the vehicles.
+Yazar isimleri: ['Adem UĞURLU']
+Yayın Yılı: 2 Ekim 2022
+Dergi ismi: International Journal of Automotive Engineering and Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijaet/issue/72891/1035465
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2127612

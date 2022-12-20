@@ -1,0 +1,7 @@
+Makale Başlığı: Osmanlı Kentlerinin Topoğrafik Özelliklerinin Coğrafi Bilgi Sistemleri Yoluyla Değerlendirilmesi: Beypazarı, Göynük, Sivrihisar ve Taraklı Örnekleri
+Özet: Osmanlı kentlerinin yer seçiminde ticari yollara yakınlık, iklim ve topoğrafik özelikler belirleyici olmuştur. Ülkemizde iklimsel ve topoğrafik özelliklerin etkisiyle organik dokuda şekillenen ve özgün dokusunu koruyan Osmanlı kenti örneklerine rastlanmaktadır. Bu bağlamda çalışmada Beypazarı (Ankara), Göynük (Bolu), Sivrihisar (Eskişehir) ve Taraklı (Sakarya) tarihi kentleri incelenerek topoğrafya ile yerleşme düzeni arasındaki ilişki ortaya konmuştur. Bu kentlerin yükseklik, eğim ve bakı durumları analiz edilerek, geleneksel kent dokusunun topoğrafik etmenler ve çevresindeki kullanımlar ile arasındaki ilişki değerlendirilmiştir. Çalışmada, Osmanlı kentinin genel özelliklerine değinilmiş ve yerleşim yerlerinin topoğrafik özelliklerini belirlemek amacıyla Arcgis 10.2 programı kullanılarak analizleri yapılmıştır. Tarihi kent dokularının yükseltinin ve eğimin fazla olduğu yerlerde konumlandığı, bu durumun tarım alanlarının korunmasını sağlarken, bazı noktalarda yolların dik ve merdivenli olması, dar ve kıvrımlı sokak dokusunun ise ulaşım açısından sorunlara neden olduğu belirlenmiştir.
+Yazar isimleri: ['Canan KOÇ', 'Ahmet KOÇ']
+Yayın Yılı: 10 Haziran 2022
+Dergi ismi: Dicle Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dufed/issue/68454/1052379
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2170994

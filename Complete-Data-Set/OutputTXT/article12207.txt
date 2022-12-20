@@ -1,0 +1,7 @@
+Makale Başlığı: YER FISTIĞI KABUĞU KÜLÜNÜN SIFCON’UN BAZI MÜHENDİSLİK ÖZELLİKLERİNE ETKİSİ
+Özet: Bu çalışmada SIFCON (Çimento bulamacı emdirilmiş lifli beton) üretiminde CEM I 42.5 R tipi çimento yerine yer fıstığı kabuğu külünün değişik oranlarda kullanılabilirliği araştırılmıştır. Bu amaçla; her numune için hacimce %10 oranında TS EN 14889-1 standardına uygun 0.75 mm çaplı ve 40 mm uzunluğunda çelik lif kullanılmıştır. 600 OC’ de kalsine edilen yer fıstığı kabuğu külü CEM I 42.5 R tipi çimento yerine %0, %2.5, %5, %7.5 ve %10 oranlarında ikame edilmiştir. Çimento bulamacı üretimlerinde; her numune için aynı oranda bağlayıcı (yer fıstığı kabuğu külü ikameli CEM I 42.5 R çimentosu), aynı oranda silis dumanı, aynı oranda kuvars kumu, aynı oranda su, aynı oranda kimyasal katkı kullanılmış ve aynı oranda hava hacmi hesaplanmıştır. Hazırlanan çimento bulamaçları, SIFCON üretim yöntemine göre kalıplara doldurularak üretimler yapılmıştır. Üretilen numunelerin; birim hacim ağırlıkları, 28 günlük eğilme ve basınç dayanımları, su emme oranları, porozite yüzdeleri ve kılcal su emme değerleri belirlenerek, yer fıstığı kabuğu külü ikamesinin SIFCON üzerindeki etkisi değerlendirilmiştir.
+Yazar isimleri: ['Yusuf Tahir ALTUNCI', 'Cenk ÖCAL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Mühendislik Bilimleri ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesd/issue/72809/888538
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1608523

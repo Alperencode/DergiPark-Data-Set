@@ -1,0 +1,7 @@
+Makale Başlığı: Süt İşletmelerinde Maliyetlerin Tespiti ve Muhasebeleştirilmesi
+Özet: Türkiye mevcut coğrafi yapısı ve iklimsel özellikleri itibariyle ile süt üretimine elverişli bir ülkedir. Çiğ sütten; yoğurt, ayran, içimlik süt, süt tozu, yağ ve peynir çeşitleri gibi ürünler elde edilebilmektedir. Bu çalışmada süt işletmelerinde üretim maliyetini oluşturan giderlerin neler olduğu açıklanacaktır. Ayrıca maliyet giderlerinin üretim maliyetine katılmasına ilişkin hesaplama yöntemleri ile muhasebe işlemlerine yer verilecektir.  Çalışmada maliyet hesaplama ve muhasebe işlemlerine esas uygulama, örnek olay niteliğinde ve hipotetik (varsayımsal) bir vaka ile açıklanmıştır. Çalışma sonucuna göre maliyet ve kar analizine dayalı ürün karmasının doğru bir şekilde oluşturulmasını sağlayacak etkin bir muhasebe bilgi sisteminin varlığı süt işletmeleri için önem arz etmektedir.
+Yazar isimleri: ['Hasan ABDİOĞLU']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Karadeniz Ekonomi Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kared/issue/71196/1116661
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2427754

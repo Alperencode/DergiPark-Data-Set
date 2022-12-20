@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of the Performances of Non-Life Insurance Companies with the CRITIC Based MARCOS Method
+Özet: In this study, the performances of 26 insurance companies in the non-life branch in Turkey were examined between 2016 and 2020 with the CRITIC and MARCOS methods, which are among the Multi-Criteria Decision Making (MCDM) methods. Market performances of insurance companies are evaluated with financial indicators (personnel expenses, written premiums, equity, total assets, paid compensation and technical provisions) taken from the FINNET database. Financial indicators handled with the CRITIC method were weighted, and the performances of insurance companies were evaluated with the MARCOS method. As a result of the study, the most important financial indicator was determined as “compensation paid and technical provisions.” The top three companies with the highest performance in the seven years discussed are Allianz Sigorta AŞ, Anadolu Anonim Türk Sigorta Şirketi, Euler Hermes Sigorta AŞ; the last three companies with the lowest performance are Gulf Sigorta AŞ, Unico Sigorta AŞ, and Generali Sigorta AŞ. The results obtained are consistent with the sectoral shares of the companies.
+Yazar isimleri: ['Gözde KOCA', 'Mimar Sinan BİNGÖL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseusbed/issue/68660/1106188
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2385344

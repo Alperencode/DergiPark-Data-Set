@@ -1,0 +1,7 @@
+Makale Başlığı: CURRENT APPROACHES TO ACCOUNTING: TEXT MINING
+Özet: Text mining; It is a multidisciplinary branch of knowledge that includes concepts and techniques from different fields such as information sciences, linguistics, computer science and data science. With the transition of organizations from paper data to electronic documents and digital records, the rapid digitization of business processes has increased the interest in text mining. Due to the growing data in the field of accounting, text mining technology has become an important research topic for this field. The aim of this study; In the field of accounting, by giving information on the use of text mining, it is to reveal the effect of this technology on organizations and individuals in the future in a concise way. As a result, the use of text mining technology in the field of accounting; accounting automation, audit automation, tax automation and business consultancy automation. In addition, it is predicted that text mining combined with artificial intelligence and machine learning approaches will offer significant opportunities to organizations and accounting professionals, as it automates processes much more.
+Yazar isimleri: ['Hüseyin ÖZYİĞİT']
+Yayın Yılı: 1 Kasım 2022
+Dergi ismi: Muhasebe ve Vergi Uygulamaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muvu/issue/72656/1104525
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2378449

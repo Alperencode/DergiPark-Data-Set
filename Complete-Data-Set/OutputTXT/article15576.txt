@@ -1,0 +1,7 @@
+Makale Başlığı: On Weakly e*-θ-open Functions and Their Characterizations
+Özet: The main aim of this paper is to introduce and study a new class of weakly open functions called weakly e*-θ-open functions via e*-θ-open sets [13],  which is a stronger concept than weakly e*-open functions [22].  Moreover, we obtain various characterizations of weakly e*-θ-open functions and investigate some of their fundamental properties.  In additon, we investigate not only the relationships of these functions with some othertypes of existing topological functions, but also several basic results related to connectedness, e*θ-connectedness [5] and hyperconnectedness [18].
+Yazar isimleri: ['Burcu Sünbül AYHAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1015626
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2050142

@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 Pandemic and Speculative Behaviors: An Empirical Evidence of Stock Markets
+Özet: The recent economic developments and outcomes have shown that the COVID-19 pandemic has been highly, but also negatively, correlated with financial markets and thus the financial system. This situation led to an increase in uncertainty and fragility in the economy. In this sense, this study aims to assess the speculative price behavior that occurred during the COVID-19 outbreak in the stock markets of 13 major countries. Daily data for the period between November 1, 2019 and October 23, 2020 are used to assess speculative price behavior. The empirical estimation strategy is based on the Supremum Augmented Dickey-Fuller (SADF) test and the Generalized Supremum Augmented Dickey-Fuller (GSADF) test. According to the estimation results, the SADF and GSADF test statistics show that the estimates are significant for the 13 specified stock market indexes. This empirical result shows that the COVID-19 pandemic has contagion effects on various types of financial markets, leading to bubble formation during the given sample period.
+Yazar isimleri: ['Emrah DOĞAN', 'Onur ÖZDEMİR', 'Başak ÖZARSLAN DOĞAN']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Kırklareli Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/klujfeas/issue/72707/1126962
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2470607

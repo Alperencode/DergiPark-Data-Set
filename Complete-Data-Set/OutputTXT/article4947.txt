@@ -1,0 +1,7 @@
+Makale Başlığı: Simulation study on deformation behavior of sandwich panels with corrugated cores
+Özet: In this study, the deformation behaviour of sandwich panels structures with different configurations of corrugated cores under the effect of quasi-static bending loading is investigated numerically. The corrugated core is consists of cast polyamide (PA6) material with circular, sinusoidal, rectangular, trapezoid, and triangular geometries. An Aluminum 6063-T5 plate is used as the skin of the sandwich panel. According to the analysis results, the sandwich panel with a trapezoidal core provided the highest deformation resistance with 6363.6 N. The circular core sandwich panel showed the lowest deformation resistance with 4262.5 N. The sandwich panel with the highest specific carrying and specific energy capacity is the trapezoidal core panel.
+Yazar isimleri: ['Çetin KARAKAYA', 'Seçil EKŞİ']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/1014492
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2045329

@@ -1,0 +1,7 @@
+Makale Başlığı: The Land Surface Temperature Dynamics and Its Impact on Land Cover in District Peshawar, Khyber Pakhtunkhwa
+Özet: The landcover has most essential impact on the climatic condition of any region. The rapid urbanization induces key changes into the climatic condition of any region. This changing pattern of urbanization has induced micro level climatic changes with demographic variation as the key factor. In this study we analyzed the effect of landcover classes on the LST in the Peshawar for 1990. 2000, 2010 and 2019. The results revealed that the builtup area has been increased from 14.20% to 20.22% during 1990 to 2019. The results also show that the LST values are between the ranges of 25°C to 36°C. The air temperature and LST have very compromising correlation. The hype and increase in the UHI zones are resultant to rapid urbanization and expansion of Old Municipal Corporation with initiation of developmental projects in the area. This study will help urban planners and decision makers in landuse planning and management to mitigate the increase in LST with the replacement of possible impervious surfaces with green built and road side plantation for comfortable urban environment.
+Yazar isimleri: ['Tahir WAQAS', 'Muhammad SHAFİQUE']
+Yayın Yılı: 8 Eylül 2022
+Dergi ismi: International Journal of Environment and Geoinformatics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijegeo/issue/68801/890206
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1614554

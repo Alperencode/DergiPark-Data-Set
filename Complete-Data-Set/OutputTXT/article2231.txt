@@ -1,0 +1,7 @@
+Makale Başlığı: Machine Learning based Natural Language Processing for Turkish Venue Recommendation Chatbot Application
+Özet: In recent years, mobile applications occupy an important place in our lives. Thanks to machine learning and the chatbots advancements, people can easily access the information they want or the things they need. Our purpose in this study is that users can access detailed information about the main venues of Istanbul from a single application, access their menus and photos, read the blog posts written by gourmets about these restaurants, show nearby venues according to their instant location, and to gather young gourmets chasing different tastes under a single application by developing a Turkish chatbot that can find the most suitable venues according to users' wishes or offer suggestions about venues to visit. In order to evaluate our application, we tested it on both Android and iOS platforms and achieved successful results on two platforms
+Yazar isimleri: ['Gorkem TOPRAK', 'Jawad RASHEED']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1117635
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2431964

@@ -1,0 +1,7 @@
+Makale Başlığı: Enhancing the Process of AES: A Lightweight Cryptography Algorithm AES for Ad-hoc Environments
+Özet: 
+Yazar isimleri: ['Mustafa ALHANDHAL', 'Oğuz ATA']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Journal of Advanced Research in Natural and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jarnas/issue/73467/1068884
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2235328

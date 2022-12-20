@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison of innovative and traditional method for optimizing the efficiency of photovoltaic panels
+Özet: Obtaining energy with high efficiency from solar panels, which are an endless source of energy, is one of the important research topics today. There are many methods applied both in manufacturing and after manufacturing to increase efficiency in solar panels. One of the methods that affect the efficiency of solar panels is the removal of dirt from the panels. The method is preferred since it does not affect the manufacturing cost and is for old panel users. Innovative panel cleaning method affects maintenance costs. This article presents a new approach to improving the efficiency of solar panels versus traditional method cost analysis. In this study, which includes an experimental approach, 10W solar panels with equal parameters were used. The correlation between the gain and the cost of the efficiency increase in the solar panel coated with rain-slip solution, which is a new approach, has been examined. Cost benefit analysis in this study will guide both small-scale and large-scale solar panel users.
+Yazar isimleri: ['Ali Sinan ÇABUK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Energy Applications and Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeat/issue/70979/1082277
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2287622

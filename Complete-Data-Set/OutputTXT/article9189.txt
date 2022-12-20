@@ -1,0 +1,7 @@
+Makale Başlığı: Overview of engine-based power plants in Bangladesh
+Özet: Engine based power plant in Bangladesh had significant growth over the last 12 years. In the year 2008, it was 231 MW but in year 2020, the capacity increased to 7,808 MW. An analytical and quantitative exploration was performed on the growth of engine-based power plants in the present work. Six variables like total generation capacity of different types of plants, electricity consumption, fuel oil price, GDP, population and growth in production of manufacturing industries (i.e. rate of industrialization) of Bangladesh were considered as main contributors on the growth. Regression analysis was performed to determine the relationship between the growth of engine-based power plants and the six chosen variables. It was found that except fuel oil price and population of Bangladesh, other four variables have a notable co-relationship with the growth of engine-based power plant in the country.
+Yazar isimleri: ['Md. Mashiur RAHAMAN']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Journal of Energy Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jes/issue/73468/1081553
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2284593

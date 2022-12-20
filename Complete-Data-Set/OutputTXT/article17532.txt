@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of SMEs' Advertising Behaviors with Multi-Criteria Decision Making Methods: The Case of Sivas
+Özet: Businesses promote their products and services to consumers through advertising in order to create a desire to buy. Today, the development of technology offers businesses a wide range of advertising channel options. Choosing the most suitable advertising channel for businesses is a decision problem that requires the consideration of a large number of contradictory criteria. In this study, advertising behavior of SMEs in Sivas was examined with AHP, DEMATEL and maut methods, one of the multi-criteria decision making methods. In the study, the importance weights of the criteria affecting advertising behavior were determined by AHP and DEMATEL methods. Advertising channel selection was made for a company using MAUT method using criterion importance weights determined by AHP and DEMATEL methods. In the study, AHP and DEMATEL methods were found to be applicable methods in the choice of advertising channels along with the Maut method.
+Yazar isimleri: ['Engin KARAKIŞ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Yaşar Üniversitesi E-Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jyasar/issue/72247/995098
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1973163

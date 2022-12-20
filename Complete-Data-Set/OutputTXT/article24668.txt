@@ -1,0 +1,7 @@
+Makale Başlığı: Design of a Robotic Pneumatic Pruner for Robotic Apple Harvesting
+Özet: 
+Yazar isimleri: ['Erhan KAHYA', 'Selçuk ARIN']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/456479
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826646

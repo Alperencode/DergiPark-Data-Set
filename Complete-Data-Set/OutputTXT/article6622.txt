@@ -1,0 +1,7 @@
+Makale Başlığı: Comparative Analysis of Macroeconomic Variables Determining Tourism Activities in Turkey
+Özet: Tourism is an activity that is affected by various indicators of a country's performance and affects various indicators. In this context, the aim of this study is to determine the macroeconomic variables that affect tourism activities in Turkey. For this purpose, the period 1996:1–2016:1 is examined with Structural VAR Analysis and Impact-Response Functions. The macroeconomic variables used in the study were investigated by considering the literature and were determined as the number of international tourists, real per capita national income, consumer price index, real effective exchange rate, political stability, geopolitical risk index and per capita carbon dioxide emission. The findings show that the number of international tourists affects the national income, carbon dioxide emissions, political stability and geopolitical risk index. In addition, it has been found that the national income, political stability, carbon dioxide emission affects the number of international tourists but affect the geopolitical risk index do not. In the short run, no statistically significant relationship could be found between inflation and exchange rate and the number of international tourists.
+Yazar isimleri: ['Asiye TÜTÜNCÜ']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Güncel Turizm Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/guntad/issue/72737/1031521
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2111686

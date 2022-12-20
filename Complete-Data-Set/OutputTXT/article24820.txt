@@ -1,0 +1,7 @@
+Makale Başlığı: Arazi Yönetimi Uygulamalarında Kamulaştırma Düzenlemesi
+Özet: Ülkemizde kamu yatırımları için gerek duyulan taşınmazların temini için kullanılan yöntemlerin başında kamulaştırma gelmektedir. Ancak kamulaştırma pahalı ve bürokratik işlemleri fazla olan bir yöntemdir. Ayrıca kamu yatırım güzergâhlarının geçtiği parseller kamulaştırma amacıyla ifraz edilmektedir. İfraz sonrasında kullanıma elverişli olmayan parseller oluşmaktadır. Kamulaştırma sonrasında bölünen parsellerin değeri düşerken, kamu yatırımından faydalanan diğer parsellerin değeri artmaktadır. Bu dezavantajlar nedeniyle kamulaştırma işlemine yeni bir yaklaşım getirilmesi gerekmektedir. Bu çalışmada, kamulaştırma işlemine geçilmeden önce yukarıda belirtilen dezavantajları ortadan kaldıracak Kamulaştırma Düzenlemesi adı verilen yeni bir yaklaşım geliştirilmiştir.
+Yazar isimleri: ['Tahsin BOZTOPRAK', 'Osman DEMİR', 'Yakup Emre ÇORUHLU']
+Yayın Yılı: 30 Nisan 2016
+Dergi ismi: Harita Teknolojileri Elektronik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hartek/issue/17324/180940
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/160346

@@ -1,0 +1,7 @@
+Makale Başlığı: Screen Semi-invariant Lightlike Submanifolds of a Golden Semi-Riemannian Manifold
+Özet: In this paper, we study the geometry of screen semi-invariant lightlike submanifolds of a golden semi-Riemannian manifold. The intergrability conditions of distributions S(TN) and RadTN on screen semi-invariant lightlike submanifolds of a golden semi-Riemannian manifold are obtained. Further, we derive necessary and su_cient conditions for above distributions to be totally geodesic foliations.
+Yazar isimleri: ['Ramandeep KAUR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bingöl Üniversitesi Teknik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/buts/issue/70532/1038408
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2139308

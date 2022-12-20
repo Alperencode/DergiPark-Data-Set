@@ -1,0 +1,7 @@
+Makale Başlığı: Design and implementation of a microcontroller based split air conditioner control system
+Özet: Different methods should be developed to work on energy efficiency in the electrical systems that do not allow outside intervention in the control part. In this study, the command and control of split air conditioners is carried out through hardware and software designed using the embedded system board. Infrared signals in the remote control device of the air conditioner were read with the developed circuit and recorded in the internal memory of the card, and these codes were used for energy efficiency studies. The obtained codes were used in 2 different applications. Thermal camera technology has been used instead of the traditional presence and motion sensors, which cannot achieve the desired success in asset detection in the absence of motion in the implemented applications. In this way, the presence of living things in the areas where the application is made has been detected with a much higher sensitivity regardless of the movement. As a result of the realized studies on the existing systems, 30% energy saving potential is determined approximately.
+Yazar isimleri: ['Oğuzhan TİMUR', 'Ahmet TEKE']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A2-A3 Physical Sciences and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aupse/issue/72231/1138136
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2516316

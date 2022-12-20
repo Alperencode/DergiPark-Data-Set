@@ -1,0 +1,7 @@
+Makale Başlığı: Risk Decomposition in BRICS-T Stock Markets
+Özet: In this study, the measurement and decomposition of risk were examined and the risks of the national stock market indices of the BRICS-T countries (Brazil, Russia, India, China, South Africa and Turkey) were measured using the monthly closing data for the 2009-2018 period, based on the US market. S&P 500 index was chosen as the market index. Accordingly, the total risks of the national stock market indices of the BRICS-T countries are calculated and separated into systematic and non-systematic risks. In addition, beta coefficients that measure the sensitivity to market movements were calculated based on 120-month data. The study findings show that the non-systematic risks of national stock exchanges in the BRICS-T community are generally quite low, and most of the risk is the systematic risk factor.
+Yazar isimleri: ['Özlem DOĞAN', 'Yunus KILIÇ']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Gaziantep Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jss/issue/73087/1066195
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2225040

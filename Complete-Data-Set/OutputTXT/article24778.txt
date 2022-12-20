@@ -1,0 +1,7 @@
+Makale Başlığı: Replication of coronavirus  Recep BAYRAKTAR, İbrahim BOZGEYİK,
+Özet: Coronaviruses (CoVs) are a diverse family of viruses that interact at multiple levels with components of host cells taking this advantage of some of the cellular machineries for replication and proliferation. A lot is known about the molecular biology of CoVs but more information needs to be learned because no effective treatments against these viruses are available. The challenge now is to incorporate advance techniques in the investigative efforts done to understand further the biology of CoVs. In terms of molecular biology, mouse hepatitis virus (MHV) is the best-studied CoVs, and it is consequently considered a model system for the family of Coronaviridae. This review described replication, transcription, and assembly of CoVs.
+Yazar isimleri: []
+Yayın Yılı: 1 Nisan 2013
+Dergi ismi: Gaziantep Medical Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gantepmj/issue/6514/86340
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/73808

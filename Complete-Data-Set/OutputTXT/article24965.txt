@@ -1,0 +1,7 @@
+Makale Başlığı: A Financial Condition Index for India through Incorporation of Commercial Bank and Other Lending
+Özet: The aim of this paper is to construct a Financial Condition Index (FCI) in context of Indian economy by incorporating a financial variables, namely commercial bank and other lending with two monetary variables, real exchange rate and short term interest rate. The paper explores if this index could act as an indicator of fluctuations in the real economy. The FCI is constructed following a weighted-sum method, with weights been assigned on the basis of estimated relative impact of each of the variables on the Gross Domestic Product (GDP) of India. The correlation between FCI thus constructed, and the inflation rate in the economy for two decades is found to be rather weak; highlighting the possibility that the dynamics of borrowing and the aggregate demand side of the Indian economy is rather unique.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353591
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364625

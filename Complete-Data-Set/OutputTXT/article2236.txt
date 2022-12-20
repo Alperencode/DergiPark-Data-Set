@@ -1,0 +1,7 @@
+Makale Başlığı: By Simulation Design and Performance Comparison of Photovoltaic Systems Used in Flat Roofs
+Özet: In recent years, the tendency towards alternative energy sources has been increasing in our country as well as in the world. Situations such as the increasing demand for energy, the inadequacy of existing electricity and energy resources, and the inability of fossil fuels to meet these demands are clear indications of this trend. The demand for renewable energy sources is frequently preferred because of economical, applicable and sustainable. In this study, photovoltaic system design and performance comparison applied to o flat roof types were examined through simulation. The photovoltaic system design simulation, which will be installed on a flat roof with 7˚ and 25˚ orientation angle and 0˚ azimuth value, using two different panel types, was carried out by performing 6 different analyzes. When the simulation results are examined, it is concluded that the annual energy production value is the lowest in the suystem with 7˚ inclination angle, and the highest in the photovoltaic system with 25˚ inclination angle.
+Yazar isimleri: ['Süleyman ŞİMŞEK', 'Muhammed UÇUM']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1105492
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2382448

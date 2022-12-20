@@ -1,0 +1,7 @@
+Makale Başlığı: Yeni bir trifenilamin ditiyosemikarbazon türevinin sentezi ve metal iyonlarına karşı spektroskopik özelliklerinin incelenmesi
+Özet: Bu çalışmada, sinyal birimi olarak trifenilamin, metal iyon algılama birimi olarak tiyosemikarbazon birimleri içeren, “açık-kapalı” şeklinde çalışan, kromojenik ve fluorojenik algılayıcı olarak tasarlanan yeni bir trifenilamin ditiyosemikarbazon (TFASC) türevi sentezlenmiştir. Hazırlanan algılayıcının metal iyonlarını tayin edebilme yeteneği absorbsiyon ve emisyon şiddetindeki değişimler aracılığıyla incelenmiştir. Algılayıcının asetonitril:su (9:1) ortamında 17 metal iyonu arasından, insan sağlığı ve çevreye oldukça zararlı olan Hg2+ iyonuna karşı yüksek seçicilik ve hassasiyet gösterdiği belirlenmiştir. Algılayıcı ve Hg2+ etkileştiğinde, Hg2+ iyonundan fluorofor birimine elektron aktarımı sonucunda, algılayıcının emisyon şiddetinde önemli bir düşüş olmuştur. Elde edilen sonuçlar sentezlenen algılayıcının Hg2+ iyonunun belirlenmesinde ve tayininde kromojenik ve fluorojenik bir algılayıcı molekül olarak kullanılabileceği göstermektedir. 
+Yazar isimleri: ['Sait MALKONDU', 'Serkan ERDEMİR', 'Serkan EYMUR', 'Seydahmet ÇAY']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1073347
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2252588

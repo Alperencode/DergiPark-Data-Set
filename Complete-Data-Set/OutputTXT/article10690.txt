@@ -1,0 +1,7 @@
+Makale Başlığı: Characterization of Tzitzeica Curves Using Positional Adapted Frame
+Özet: In this study, Tzitz\'eica curves are taken into consideration in the Euclidean 3-space by using the Positional Adapted Frame (PAF). Such curves are characterized according to PAF elements. Also, some results are obtained on spherical Tzitz\'eica curves. The results obtained in this study are new contributions to the field. It is expected that these results will be useful in various application areas of differential geometry and applied mathematics in the future.
+Yazar isimleri: ['Kahraman Esen ÖZEN', 'Zehra İŞBİLİR', 'Murat TOSUN']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1094130
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2335443

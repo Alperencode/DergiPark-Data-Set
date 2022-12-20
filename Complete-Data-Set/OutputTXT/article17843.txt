@@ -1,0 +1,7 @@
+Makale Başlığı: Bireylerin Koroner Arter Hastalığı Risk Seviyesinin Bulanık Uzman Sistem Yaklaşımı İle Belirlenmesi
+Özet: Koroner Arter Hastalığı (KAH) dünya genelinde insanların hayatını kaybetmesine sebep olan en önemli hastalıklardan biridir. Tıp alanında yaşanan gelişmeler bu hastalığın tedavisini kolaylaştırsa da risk faktörlerinin belirlenmesi ve değerlendirilmesinde hala birtakım yetersizlikler söz konusudur. Bu çalışmada, KAH ile ilgili yaygın belirti ve şikayetleri olan bireyler göz önüne alınarak tanıda kullanılan çeşitli risk faktörleri belirlenmiştir. Ayrıca bulanık uzman sistem yöntemi kullanılarak bireylerin KAH risk düzeylerini tespit etmek amacıyla bir yapay zeka sistemi geliştirilmiştir. Tasarlanan sistem kural tabanlı olup, bu kural tabanı yapısı tıp uzmanlarından edinilen bilgilerle oluşturulmuştur. Sistem, bireylerin hastalık riskini azaltmak için kendi kendine risk değerlendirmesi ve özelleştirilmiş öneriler sunmaktadır. Bu sayede koroner arter hastalığından muzdarip kişilerin sayısındaki artış önlenebilir veya geciktirilebilir.
+Yazar isimleri: ['Çağatay TEKE']
+Yayın Yılı: 21 Eylül 2022
+Dergi ismi: Zeki Sistemler Teori ve Uygulamaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jista/issue/70283/1144535
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2541233

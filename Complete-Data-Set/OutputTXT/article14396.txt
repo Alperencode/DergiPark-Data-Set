@@ -1,0 +1,7 @@
+Makale Başlığı: The Numerical Evaluation Methods for Beta Function
+Özet: In this study, the beta function that is encountered in computational mathematics and physics is analyzed. The correct evaluation of this function also affects the accuracy of other mathematical functions in quantum mechanical calculations. Especially in recent years, there is an interest in studies related to the beta function for zero and negative p and q integers. This study, considering the neutrix limits of the beta function, presents new relations for the numerical computation of the beta function, especially for negative integers p and q. In addition, taking into account the definition of the beta function for positive p and q integer values, an algorithm is created to calculate the function for all integer values. Finally, numerical results obtained with the help of our new recurrence relations and algorithm are presented.
+Yazar isimleri: ['Sılay Aytaç YÜKÇÜ']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1128768
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2478212

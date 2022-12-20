@@ -1,0 +1,7 @@
+Makale Başlığı: Optimization of Friction Stir Welded Dissimilar Aluminum Alloys EN AW-5083-H111 and EN AW-6082-T651 using Hybrid Taguchi-Based Grey Relation Analysis
+Özet: 
+Yazar isimleri: ['Ugur ESME', 'Şeref ÖCALIR', 'Mustafa Kemal KÜLEKCİ']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: European Mechanical Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ems/issue/73507/1187999
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2703988

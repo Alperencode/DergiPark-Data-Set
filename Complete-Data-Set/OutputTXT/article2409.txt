@@ -1,0 +1,7 @@
+Makale Başlığı: Kayaçların fiziksel özelliklerinin ıslanma ve kuruma etkisine bağlı değişiminin belirlenmesi
+Özet: Kayaçların bazı fiziksel özellikleri (su içeriği, yoğunluk vb.), kaya mühendisliği projelerinin tasarımında sıklıkla kullanılmaktadır.  Farklı iklim koşullarında (yağış, kuraklık vb.) yapılan tasarımlarda kullanılan kayaçların fiziksel özellikleri değişebilmektedir.  Bu çalışmanın amacı ıslanma ve kurumaya tabi tutulan boşluklu ve masif kayaçların su içeriği özelliklerinin zamana bağlı değişimlerini araştırmaktır.  Bu amaca yönelik olarak bu çalışmada fosilli kireçtaşı, masif kireçtaşı ve volkanik breş kayaçları kullanılmıştır.  Laboratuvar çalışmaları yoğunluk, görünür porozite ve su içeriği deneylerini içermektedir. Yapılan çalışmalar sonucunda kayaçların bünyelerindeki suyu, sıcak bir ortamda (105 °C), ilk saatler içinde uzaklaştırdığı görülmüştür.  Benzer bir şekilde kayaçlar ilk birkaç saat içinde suya maruz kaldığında neredeyse suya doygun hale gelebilmektedir.  Sabit sıcaklık (30 °C) altında ise, örneklerde ilk gün sonunda suyun büyük miktarı kayaç bünyesinden uzaklaşmıştır.
+Yazar isimleri: ['Ali Osman ÇAKIR', 'Kadir KARAMAN', 'Ali YILMAZ']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1078961
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2274562

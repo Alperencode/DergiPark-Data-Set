@@ -1,0 +1,7 @@
+Makale Başlığı: Impact of Exchange Rate Fluctuations On Inflation: The Case of Turkey
+Özet: In this study, the effects of the nominal dollar exchange rate and the industrial production index on WPI were analyzed using the ARDL bounds test method. The analysis of the study covers the period the 2005:M1-2021:M11 with monthly data. According to the results of the study, a 1% increase in the dollar exchange rate leads to an increase of approximately 0.7% in the WPI. When the industrial production index increases by 1%, the WPI increases by 1.04%. In addition, the fact that the growth in industrial production increases producer inflation reveals important results in terms of foreign dependency of production. These results raise concerns about growth with high inflation. The implementation of a rapid growth model in an economy with high inflation and high exchange rates may lead to an income-reducing situation for final consumers. These results show that a stable inflation and growth process in Turkey is based on a balanced exchange rate and interest rate policy.
+Yazar isimleri: ['Orhan ŞANLI']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Ordu Üniversitesi Sosyal Bilimler Enstitüsü Sosyal Bilimler Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/odusobiad/issue/73138/1082470
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2288479

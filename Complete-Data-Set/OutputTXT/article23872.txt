@@ -1,0 +1,7 @@
+Makale Başlığı: Adsorption of Zinc into Drinking Water Treatment Sludge
+Özet: In this study, the removal of zinc ion by use of wastewater sludge was aimed. By determining the optimum conditions in the study; The effects of parameters such as balance, pH, sorbent amount and metal concentration of the processes in different situations were investigated. In the adsorption of Zn+2 ions with drinking water treatment sludge, optimum initial pH was determined as 5.0, time to equilibrium was 60 minutes, sorbent dose was 0.3 g/L, and initial ion concentration was 25 mg/L. While sorbent amount was 0.1 g/L, removal efficiency was 73.2% and qe was 18.3 mg/g. It was calculated as 90.8%, 4.54 mg/g for 0.5 g/L sorbent and 92.4% and 2.31 mg/g for 1 g/L sorbent. At the Zn +2 5 mg/L concentration, the removal efficiency was 1.53% and qe was 92 mg/g. At 50 mg/L Zn+2 concentration, the removal efficiency was calculated as 70% and qe was calculated as 11.67 mg/g. In the study, it has been proven that drinking water treatment sludge can be used as a promising adsorbent for the removal of Zn+2 ions from the aqueous solution.
+Yazar isimleri: ['Sayiter YILDIZ', 'Can Bülent KARAKUŞ']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Teknik Meslek Yüksekokulları Akademik Araştırma Dergisi
+Yayın sayfa url: http://artes.cumhuriyet.edu.tr/tr/pub/issue/71402/1144262
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2540198

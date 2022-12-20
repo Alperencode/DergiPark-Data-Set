@@ -1,0 +1,7 @@
+Makale Başlığı: Demiryolu yuvarlanma yüzeyi gürültüsü ve zemin titreşimi ve hat ilişkili azaltma önlemleri-güncel gelişmeler
+Özet: Demiryolu gürültü ve titreşim kirliliği, özellikle demiryolu hattına yakın veya yakınında yaşayanlar olmak üzere, dünya çapında milyonlarca insanı etkilemektedir. Demiryolu ulaşım modu çevre dostu bir teknoloji olarak bilinse de gürültü kirliliğine katkısı azımsanmayacak kadar az değildir. Birçok deneysel ve gözlemsel çalışma, gürültü ve titreşimin insan sağlığı üzerindeki olumsuz etkisini göstermektedir. Bu makalenin birincil amacı, başta yuvarlanma yüzeyi gürültüsü ve zemin titreşimi olmak üzere birincil kaynaklardan kaynaklanan demiryolu gürültüsünün kaynağını ve demiryolu hattı bakış açısıyla güncel demiryolu gürültüsü azaltma önlemlerinin geliştirilmesini gözden geçirmektir.
+Yazar isimleri: ['Özgür CAN', 'Ahmet Refah TORUN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Artıbilim: Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/artibilimfen/issue/71021/1110112
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2401856

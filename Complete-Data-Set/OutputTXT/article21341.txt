@@ -1,0 +1,7 @@
+Makale Başlığı: Linkage of nanosecond protein motion with enzymatic methyl transfer by nicotinamide N-methyltransferase
+Özet: Nicotinamide  N-methyltransferase  (NNMT),  a  key  cytoplasmic  protein  in  the  human  body,  is  accountable  to  catalyze  the  nicotinamide  (NCA)  N1-methylation  through  S-adenosyl-L-methionine  (SAM)  as  a  methyl  donor,  which  has  been  linked  to  many  diseases. Although extensive studies have concerned about the biological aspect, the detailed mechanism study of the enzyme function, especially in the part of protein dynamics is lacking. Here, wild-type nicotinamide N-methyltransferase together with the mutation at position 20 with Y20F, Y20G, and free tryptophan were carried out to explore the connection between protein dynamics and catalysis using  time-resolved  fluorescence  lifetimes.  The  results  show  that  wild-type  nicotinamide  N-methyltransferase  prefers  to  adapt  a  less  flexible protein conformation to achieve enzyme catalysis.
+Yazar isimleri: []
+Yayın Yılı: 23 Haziran 2021
+Dergi ismi: Turkish Journal of Biology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkbiology/issue/64217/973683
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1889000

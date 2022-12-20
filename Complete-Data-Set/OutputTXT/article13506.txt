@@ -1,0 +1,7 @@
+Makale Başlığı: A Relational Database Design for The Compounds Cytotoxically Active on Breast Cancer Cells
+Özet: 
+Yazar isimleri: ['Zeynep OKTAY', 'Çiğdem EROL', 'Nazlı ARDA']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Sakarya University Journal of Computer and Information Sciences
+Yayın sayfa url: http://saucis.sakarya.edu.tr/tr/pub/issue/72246/1153071
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2572193

@@ -1,0 +1,7 @@
+Makale Başlığı: DOKUMA İŞLETMESİNDE AYDINLATMA DEĞERLERİNİN İŞ SAĞLIĞI VE GÜVENLİĞİ AÇISINDAN İNCELENMESİ
+Özet: İş Sağlığı ve Güvenliği terimlerinin risk faktörü ölçümleri ile tanımlanması şirketler için daha önemli hale gelmektedir. İş kazaları ve meslek hastalıkları ile ilgili verilerinin toplanması, bazı sektörlerdeki koşulları değerlendirmek için ilk adımdır. 6331 sayılı İş Sağlığı ve Güvenliği Kanunu’na göre iş güvenliği açısından işverenin risk değerlendirmesi yapma zorunluluğu bulunmaktadır. Bu kapsamda özellikle fiziksel ve kimyasal risk etmenlerinin ölçümü yapılmadan riskin değerlendirilmesini yapmak mümkün değildir. Dolayısı ile bir firmada öncelikli olarak ortam ölçüm çalışmaları yapılması gerekmektedir. Bu çalışmada dokuma işletmesi seçilmiştir. Bu ölçümlerin sonuçları makina bazında karşılaştırılmıştır. Dokuma işletmesinde toplam 18 aydınlatma ölçümü gerçekleştirilmiştir.
+Yazar isimleri: ['Murat KODALOĞLU', 'Feyza AKARSLAN KODALOĞLU']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: International Journal of Engineering and Innovative Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeir/issue/73173/1166996
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2616017

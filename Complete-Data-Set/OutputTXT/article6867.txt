@@ -1,0 +1,7 @@
+Makale Başlığı: Embedded Projective Curves over a Finite Field and Homma Constant $D(q)$
+Özet: We consider the existence of smooth projective curves embedded over a fixed finite field $\mathbb{F}_q$ and such that their ratio $\#X(\mathbb {F}_q)/\deg(X)$ is large. We discuss the geometry of curves computing the Iihara constants $A(q)$ and $A^-(q)$ and relate it to upper and lower bound of the Homma constants $D(q)$ and $D^-(q)$ .
+Yazar isimleri: ['Edoardo BALLİCO']
+Yayın Yılı: 24 Temmuz 2022
+Dergi ismi: Hagia Sophia Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hsjg/issue/71343/1067264
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2229032

@@ -1,0 +1,7 @@
+Makale Başlığı: Beyond Food Prices: An Analysis On Sub-Indices
+Özet: The prices of food have increased globally recently. The goal of this chapter is to analyze the dynamics of food prices. The categories of food analyzed in this research are Meat, Dairy, Cereals, Oils, and Sugar. FAO Food index data is used for the period 1990-2021. One of the questions that come to mind is whether these categories of food are all correlated with each other. A critical analysis on these sub-indices helps to understand the relationships between the categories.  The results of the study show that there are long term relationships between sub-indices of food prices. Granger causality results indicate that the price of sugar is affecting the price of cereals, whereas cereals are affecting sugar. The price of cereals is therefore important for food price stability according to research results.The results show the need for a planned agricultural policy, subsidies for low income households, and subsidies on energy prices.
+Yazar isimleri: ['Cem BERK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kırklareli Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kusbder/issue/70921/1085879
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2302143

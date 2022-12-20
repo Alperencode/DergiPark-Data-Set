@@ -1,0 +1,7 @@
+Makale Başlığı: Cloneable Jellyfish Search Optimizer Based Task Scheduling in Cloud Environments
+Özet: 
+Yazar isimleri: ['Mücahit BÜRKÜK', 'Güngör YILDIRIM']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Türk Doğa ve Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tdfd/issue/72793/1123962
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2458203

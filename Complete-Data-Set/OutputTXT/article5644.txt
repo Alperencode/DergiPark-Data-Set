@@ -1,0 +1,7 @@
+Makale Başlığı: Interpretation Of the Area Under the Receiver Operating Characteristic Curve
+Özet: 
+Yazar isimleri: ['Serdar ÖZDEMİR', 'Abdullah ALGIN']
+Yayın Yılı: 31 Mart 2022
+Dergi ismi: Experimental and Applied Medical Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/eams/issue/69326/1067437
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2229733

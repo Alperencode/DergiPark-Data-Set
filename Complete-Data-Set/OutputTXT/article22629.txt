@@ -1,0 +1,7 @@
+Makale Başlığı: İç Denetimin Blok Zincir Yoluyla Siber Güvenlik Yönetimine Adaptasyonu
+Özet: Çalışma, esas itibari ile blok zincir teknolojisinin altyapısındaki özelliklerin araştırılmasına yönelik olarak tasarlanmış olup, bu yeniliğin siber güvenlik süreçlerinde nasıl kullanılabileceği ve iç denetçilerin gelişmekte olan bu teknolojiye adaptasyonları için neler yapılabileceği üzerine bir dizi öneriler sunmak için geliştirilmiştir. Bu çerçevede, blok zincir teknolojisinin altyapısı kavramsal açıdan incelenerek, siber güvenlik kontrollerindeki uygulama alanları sınıflandırılıp, iç denetçilerin bu yeni disiplinlere hangi doğrultuda uyum sağlamaları gerektiği üzerine öneriler sunulmuştur. Çalışma keşifsel araştırma yöntemi üzerine kurgulanarak ikincil veri kaynaklarından çevrim içi araştırmalar, bilim literatüründe yer alan makaleler ve vaka çalışmaları doğrultusunda elde edilen bilgiler yoluyla oluşturulmuştur. Sonuç olarak, blok zincir teknolojisinin benzersiz altyapısı sayesinde siber güvenlik yönetiminde karşılaşılan rutin sorunların üstesinden gelinebilirken, organizasyonların denetim faaliyetlerini bu yönde iyileştirerek, risk kontrol süreçlerinin adaptasyonlarını sağlamaları gerekmelidir.
+Yazar isimleri: []
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Denetim ve Güvence Hizmetleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/audas/issue/72512/1172393
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2638507

@@ -1,0 +1,7 @@
+Makale Başlığı: S-SBR (Solution Stiren Bütadien Kauçuk) Bazlı Kauçuk Karışımlarına Farklı Karbon Siyahlarının Etkisi
+Özet: Lastik endüstrisinde ya da diğer kauçuk sektörlerinde kullanımı yüksek elastomer malzemeler stiren bütadien kauçuk (SBR) ve doğal kauçuklardır (NR). Bu çalışmada, S-SBR (solution-stiren bütadien kauçuk) ve ASTM standardına göre adlandırılan farklı gradelerdeki karbon siyahları ile reçeteler hazırlandı ve hazırlanan reçetelerin reolojik ve fizikomekaniksel davranışları araştırıldı. S-SBR miktarı sabit tutularak (137,5phr) karbon siyahlarından N220, N234, N326, N330, N375, N550, N660, N772 gradeleri 80phr olarak kullanılmış 8 reçete hazırlanmıştır. Yapılan testlerin sonucunda; karbon siyahlarının tanecik yapılarının farklı olması ile karışımların reolojik ve mekaniksel değerleri incelenmiş, tanecik boyutunun ve kümeleme(aggregrate) yapısına sahip olmasının belirgin şekilde değerleri etkilediği değerlendirilmiştir. Farklı yapılardaki karbon siyahlarının S-SBR bazlı reçetelerde etkilerinin karbon yapısı, yüzey alanı, kümeleme yapılarının yoğunluğuna göre değiştiği anlaşılmıştır.
+Yazar isimleri: ['Gasim ALTUNDAL', 'Tuğçe GÖRMÜŞER', 'Metin KURU', 'Esra ÇETİN', 'İlyas UYGUR']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/1056168
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2185496

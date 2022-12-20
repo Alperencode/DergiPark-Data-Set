@@ -1,0 +1,7 @@
+Makale Başlığı: NEŞET ERTAŞ TÜRKÜLERİNDE DUYGULANIM BOYUTUNUN İNCELENMESİ: BİR DUYGULAR ENDEKSİ UYGULAMASI
+Özet: Bu çalışmada, Neşet Ertaş’ın seslendirdiği türkülerdeki söz ve bestelerin taşıdığı duyguların ortaya çıkarılması amaçlanmaktadır. Bu doğrultuda 339 adet eserin sözü, 264 bestenin de bilgisi elde edilmiştir. Öncelikle tüm sözler için yapay öğrenme teknikleri ile teknoloji harikası Türkçe duygu analizi yöntemi uygulanmış ve sözlerin duygu skorları hesaplanmıştır. Bu skorlar, daha sonrasında beste bilgileri ile eşleştirilerek 169 tekil eser verisi işlenmiş, Neşet Ertaş’ın duygu haritasını gösteren söz ve beste boyutu ile modellenebilecek bir duygular atlası çıkarılmıştır. Elde edilen sonuçlara göre Neşet Ertaş’ın seslendirdiği türkülerin baskın karakteristiğinin efkârlı sözler üzerine kurulu olduğu, türkülerinin büyük bir bölümümün de sözleri efkârlı ve bestesi melankolik bir yapıda öbeklendiği tespit edilmiştir. Ayrıca sözlerinde duygu değişimlerinin karakteristik olarak fazla olduğu, duygusal gelgitler içerdiği bulunmuştur; sözlerinde öbekler halinde ise sıklıkla insancıl, ahlaki öğütlerde bulunduğu belirlenmiştir.
+Yazar isimleri: ['Yasin KÜTÜK']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Türk Kültürü ve Hacı Bektaş Veli Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tkhcbva/issue/73734/1118273
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2434863

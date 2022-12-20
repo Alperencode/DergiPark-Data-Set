@@ -1,0 +1,7 @@
+Makale Başlığı: Remote Access Greenhouse Automation Application Based On LabVIEW
+Özet: Various automatic control systems have been established in order to increase the yield of the products to be obtained from the plants grown in the greenhouses. These control systems come into prominence in ensuring the automatic solution of the determined problems by being activated quickly, controlling the temperature and moisture values in the greenhouse and in the stable operation of the system. In this study, remote access greenhouse automation application was performed with the NI MyRIO control card, and system data was monitored and controlled in real time via the Laboratory Virtual Instrument Engineering Workbench  (LabVIEW) graphical program. The values of the plants to be grown in the greenhouse such as water, temperature, moisture and appropriate photosynthesis light ratio are measured and determined by the sensors used in the system and shown to the user with the LabVIEW interface program with the NI MyRIO control card.
+Yazar isimleri: ['Behçet KOCAMAN', 'Mehmet Fatih GÜLER']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1119141
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2438413

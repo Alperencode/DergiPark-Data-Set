@@ -1,0 +1,7 @@
+Makale Başlığı: Macro and Micro Modeling of the Unreinforced Masonry Shear Walls
+Özet: Masonrystructures are constructed by joining masonry units (brick, stone, marble etc.)with mortar.  Various methods are usedfor modeling of masonry walls of the structures. Micro modeling and Macro modelingare two diverse modeling techniques. In this study, these two modelingstrategies are analyzed on a solid unreinforced masonry shear wall numerically.The models are implemented in ANSYS software to simulate the structuralbehavior of a tested wall in literature. The homogenization technique isapplied to obtain the material parameters used in the macro model. Brick andmortar are modelled separately in the micro model. Stresses occurring in thewalls under the effect of in-plane loads are investigated. The propagations ofthe cracks on the walls are analyzed numerically. The results obtained in themicro modeling and macro modeling are in consistent with the experimental studyin the literature. However, macro modeling and micro modeling representstrictly disparate behavior in the material identification, and crackpropagations.
+Yazar isimleri: ['Sedat Komurcu', 'Abdullah Gedikli']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/369461
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826684

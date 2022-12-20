@@ -1,0 +1,7 @@
+Makale Başlığı: Yeni [Piridin-4-boronik asit metil ester ve Nikel(II) ditiooksalat] bileşiğinin sentezi ve kristal yapısı
+Özet: Bu çalışmada yeni bir bileşik [HNC5H4B(OH)(OCH3)-4]2[Ni(S2C2O2)2], [Piridin-4-boronik asit metil ester ve Nikel(II) ditiooksalat] sentezlendi ve onun kristal yapısı tek kristal X-ışını difraktometresi metodu ile belirlendi.  Bileşik P21/n uzay grubunda monoklinik kristal sisteminde kristallendi.  NiII iyonu dört koordinasyonlu ve hafifçe bozulmuş kare düzlem geometriye sahiptir.  Kristal yapıda, NH⋯O, OH⋯O ve CH⋯O hidrojen bağ etkileşimleri vardır.  Bu etkileşimler ab düzleminde c ekseni boyunca paketlenir ve 3 boyutlu bir ağ oluşturur.
+Yazar isimleri: ['Hülya KARA SUBASAT', 'Elif GÜNGÖR']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1070259
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2240959

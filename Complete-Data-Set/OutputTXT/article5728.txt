@@ -1,0 +1,7 @@
+Makale Başlığı: Trivium Algoritması Kaynaklı Rastgele Permutasyon Üretimiyle Görüntü Şifreleme Uygulaması
+Özet: Görüntü şifreleme sistemlerinin popülerliği gün geçtikçe katlanarak artmaktadır. Farklı algoritmalar ve sistemler yardımıyla yeni şifreleme sistemleri tasarlansa da literatürdeki ihtiyacın doldurulması mümkün olmamıştır. Görüntü iletiminin gün geçtikçe yaygınlaşması yeni şifreleme sistemlerine olan ihtiyacı arttırmaktadır. Ayrıca görüntü iletimindeki mahremiyet ihtiyacı diğer veri türlerinden daha fazladır. Yapılan bu çalışmada Trivium algoritması yardımıyla üretilen rastgele sayı dizileri öncelikle permutasyon oluşturularak piksel karıştırma işlemlerinde kullanılmıştır. Ayrıca üretilen bitler şifreleme işleminde kullanılmak için anahtar üretiminde kullanılmıştır. Üretilen bitlerin rastgelelik koşullarını sağlayıp sağlamadığı NIST testleri yardımıyla başarılı olarak sonuçlandırıldıktan sonra tasarlanan sistemin güvenlik analizleri farklı teknikler yardımıyla gerçekleştirilmiştir. Histogram analizi sonuçlarına göre sadece piksel karıştırma işlemiyle kriptolojik işlem yapan sistemlerin güvenlik açıkları gösterilmiştir. Tüm sistemin uygulanması durumunda başarılı bir görüntü şifreleme işleminin gerçekleştirilebileceği tespit edilmiştir
+Yazar isimleri: ['Taha ETEM', 'Turgay KAYA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1122197
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2450888

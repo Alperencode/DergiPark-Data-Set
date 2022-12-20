@@ -1,0 +1,7 @@
+Makale Başlığı: Ambient Light Effect on Receiver for Visible Light Communication Systems
+Özet: The visible light communication (VLC), which can simultaneously provide both the lighting and the data transmission at the same time, has been emerged as a wireless optical communication technology. This article investigates the performance of VLC systems under ambient light effect that can cause receiver saturation. When reach to saturation the receiver, data bits cannot be correctly detected at the receiver side. This is because ambient light will decrease the difference between logical '1' and '0' levels when occur the saturation caused by ambient light. This paper offers a framework to demonstrate the ambient light effect for VLC systems. In addition to this, ambient light effect is observed for both hard decision and soft decision receiver schemes in the simulation results. It is shown from simulation results that BER performance decreases when the ambient light level increase and saturate the receiver. Moreover, an experimental system is set up to observe the problem status. A hybrid structure, which consists of Field Programmable Gate Arrays (FPGA) and analog circuits, is implemented on receiver side to amplify the photodiode current and to decrease the ambient light effect.
+Yazar isimleri: ['Mehmet SONMEZ', 'Ökkeş Gökalp SÖKMEN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/881729
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1582792

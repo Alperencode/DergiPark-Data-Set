@@ -1,0 +1,7 @@
+Makale Başlığı: İki-Boyutlu Nanomalzemeler: Özellikleri, Sentez Yöntemleri ve Uygulama Alanları Üzerine Genel Bir Bakış
+Özet: İki-Boyutlu nanomalzemeler, sahip oldukları eşsiz özelliklerden dolayı son yirmi yılda oldukça fazla dikkat çekmişlerdir. Bu malzemeler, sadece nano ölçeğin sağladığı sıra dışı özelliklerden değil aynı zamanda atom kalınlığına kadar inebilen yapıları nedeniyle çok yönlü özelliklere sahiptirler. İki-boyutlu nanomalzemeler elde edildikleri katmanlı formlarından çok daha üstün elektronik, optik, mekanik, vb. özellikler sergilemektedirler. Bu özelliklerinden dolayı, bu nanomalzemeler enerji üretimi/depolama, optoelektronik uygulamalar, sensör geliştirme, çeşitli biyomedikal uygulamalar, kataliz, vb. birçok alanda yaygın bir şekilde kullanılmaktadırlar. Bu derleme çalışmasında, başta grafen olmak üzere çeşitli iki-boyutlu nanomalzemelerin özellikleri, yapıları, sentez yöntemleri ve uygulama alanları hakkında çeşitli bilgiler verilecektir.
+Yazar isimleri: ['Sadık ÇOĞAL']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Selçuk Üniversitesi Fen Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sufefd/issue/72810/1103900
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2376008

@@ -1,0 +1,7 @@
+Makale Başlığı: COMPLEX COACERVATION OF CHICKPEA PROTEIN ISOLATE AND PECTIN: EFFECT OF BIOPOLYMER RATIO AND pH
+Özet: Complex coacervation is an up-and-coming encapsulation technique widely working in the medicinal, food, agriculture, and textile industries. This study investigated the effect of biopolymer ratio and pH on the complexation between chickpea protein isolate (CPI) and pectin (PC) through zeta potential, turbidity measurement, and visual observations. Pectin showed a negative charge profile between pH 2-9. The isoelectric point of the chickpea protein isolate was found as 4.5 (pI). Soluble complexes were formed in the system with pHs below the pI of CPI with positive charges, whereas PC had negative ones. Complex coacervates formed at pH 3.1 with a 4:1(CPI: PC) biopolymer ratio. The turbidity and visual appearance revealed that larger aggregates were formed in CPI-PC coacervates. The findings could help in the development of pH-sensitive biopolymer carriers for use in functional foods and biomaterials.
+Yazar isimleri: ['Eda ADAL']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Gıda
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gida/issue/73077/1143402
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2536863

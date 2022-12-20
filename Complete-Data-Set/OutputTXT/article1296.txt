@@ -1,0 +1,7 @@
+Makale Başlığı: İMV VE WASPAS TABANLI ARACI KURUM PERFORMANS DEĞERLENDİRİLMESİ
+Özet: Artan rekabet ortamında, şirketlerin sürdürülebilir bir yapıya sahip olduğunu gösteren ana ölçütlerden birisi finansal durumlarıdır. Çok sayıda faktöre göre değerlendirilebilen bu yapının ölçümünde şirketlerin sektördeki rakipleri ile birlikte ele alınması gerekmektedir. Bu bağlamda finansal performansın değerlendirilmesi bir karar problemi olarak ifade edilebilmektedir. Çalışmada BIST Aracı Kurum endeksine tabi şirketlerin 2021 yılı için finansal ölçümü gerçekleştirilmiştir. Ekonominin işleyişinde önemli bir rol üstlenen aracı kurumların finansal yapılarının sağlıklı ve güçlü olması önemlidir. Finansal oranlar üzerinde yapılan analizde, kriterlere nesnel bir yaklaşım olan İMV ile önem değeri atanırken, WASPAS metodu ile şirketlerin performans değerleri hesaplanmıştır. Duyarlılık analizi ile ise WASPAS metodu parametre değişimleri gözlenmiştir. Karar problemi farklı parametrelere göre on bin defa çözülmüş ve sonuçlar değerlendirilmiştir. Sonuçlara göre öz sermaye karlılık en önemli finansal gösterge olarak öne çıkarken, net karlılığın etkisi ise diğerlerinde daha az olarak bulunmuştur.
+Yazar isimleri: ['Osman PALA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Anadolu Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anadoluibfd/issue/72765/1103297
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2373655

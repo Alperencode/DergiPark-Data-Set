@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of the Performance of Metaheuristic Optimization Algorithms Used in Solving Real-World Engineering Design Problems
+Özet: Real-world engineering design problems are relatively difficult problems to solve because they have complex objective functions with many constraints. It is widely used both in industry and in different interdisciplinary studies. Many optimization algorithms have been used to deal with such problems. But the performance of the algorithm decreases significantly with the increasing scale and difficulty of the problem. Different optimization methods and their different versions have been proposed to effectively deal with the engineering design problems in the literature. In this study, new artificial intelligence-based optimization algorithms that have emerged recently and are popular for solving engineering design problems are examined. The analyzed algorithms; constraints, objective functions, and decision variables were adapted to five different real-world engineering design problems, and performance analyses were performed.
+Yazar isimleri: ['Elif VAROL ALTAY']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: International Journal of Innovative Engineering Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiea/issue/70503/1088408
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2311934

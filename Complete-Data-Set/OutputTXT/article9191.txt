@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of albedo effect in a 30-kW bifacial PV system with different ground surfaces using PVsyst software
+Özet: 
+Yazar isimleri: ['Ersagun TÜRKDOĞRU', 'Mahir KUTAY']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Journal of Energy Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jes/issue/73468/1105348
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2381795

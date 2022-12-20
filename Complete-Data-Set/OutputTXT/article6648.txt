@@ -1,0 +1,7 @@
+Makale Başlığı: İLK EKİBİN GÖREV VE SORUMLULUKLARI
+Özet: Olay yeri inceleme bir ekip işidir ve bu süreçte olay yerinde görev alan sorumluların görev ve sorumluluklarını iyi bilmeleri gerekmektedir. Bu ekipte yer alan en önemli sorumlulardan birisi de ilk ekiptir. İlk ekip, olay yeri inceleme ekibi ya da uzman laboratuvar personeli gibi olay yerindeki delilleri teknik olarak incelemez fakat olay yerinde kaotik ortamı kontrol altına alarak bu delillerin korunma altına alınmasını sağlar. Bu çalışma, kolluk kuvvetlerinin, olay yerinde ilk ekibin görev ve sorumluluklarını yerine getirirken karşılaştığı eksikler ve sorunların en aza indirilmesi veya ortadan kaldırılmasına yönelik kontrol listesi hazırlamak amacıyla geliştirilmiştir. Kontrol listesi altı farklı tema için toplam 40 soru hazırlanmıştır. Olay yerinde ilk ekibin sıklıkla karşılaştığı olay türlerinden olan ateşli silahlarla işlenen suçlar, ölüm olayları, şüpheli paket ve patlama olayları ve yangın olayı için toplamda 55 sorudan oluşan dört adet kontrol listesi hazırlanmıştır.  Ayrıca olay yeri giriş çıkış kontrol formu oluşturulmuştur. Bu kontrol listesinin olay yerinin korunmasında kolluk kuvvetlerine fayda sağlayacağı düşünülmektedir.
+Yazar isimleri: ['Mehmet Murat KÖSEM', 'Aylin YALÇIN SARIBEY']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Güvenlik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gbd/issue/73608/1071495
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2245789

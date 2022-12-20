@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of salicylidene acylhydrazides derivatives: Molecular Docking, ADMET, and Molecular Dynamic Simulations were used in conjunction towards the design of new Yersinia pseudotuberculosis inhibitors
+Özet: 
+Yazar isimleri: ['Emmanuel EDACHE', 'Gideon Adamu SHALLANGWA']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Turkish Computational and Theoretical Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tcandtc/issue/68423/1003157
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2003898

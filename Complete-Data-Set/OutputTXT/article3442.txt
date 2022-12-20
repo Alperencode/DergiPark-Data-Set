@@ -1,0 +1,7 @@
+Makale Başlığı: A fast converging sampling operator
+Özet: 
+Yazar isimleri: ['Borislav DRAGANOV']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Constructive Mathematical Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cma/issue/73315/1172005
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2636788

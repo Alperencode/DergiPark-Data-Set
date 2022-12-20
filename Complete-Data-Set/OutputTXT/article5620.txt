@@ -1,0 +1,7 @@
+Makale Başlığı: Role of sintering conditions on structural and mechanical properties of carbon fiber fabric reinforced ZrB2-Sic composites
+Özet: In this study, the effects of sintering conditions on the structural and mechanical properties of spark plasma sintered ZrB2-based composites were investigated in detail. In addition, to observe the impact of the binder, the binder was used in some materials. Thus, the effects of binder on the properties of composites while preparing ceramic slurry were tested. The effects of the sintering conditions of the materials prepared at different temperatures and stages on the composites were examined in detail. The densities, phase developments, microstructure analyses and mechanical properties of the composites were determined by the Archimedes principle, X-Ray Diffraction, Scanning Electron Microscopy, and three-point bending test, respectively.
+Yazar isimleri: ['Aslı Asiye AĞIL', 'Erhan AYAS']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: European Mechanical Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ems/issue/73507/1178561
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2664421

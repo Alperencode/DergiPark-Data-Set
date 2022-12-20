@@ -1,0 +1,7 @@
+Makale Başlığı: Tocilizumab-Associated Ventricular Tachycardia Case in a COVID-19 Patient
+Özet: COVID-19 (Coronavirus Disease-2019) which is dependent on SARS-CoV-2 (Severe Acute Respiratory Syndrome) virus started as a pandemic which affected every sphere of life. The disease progresses more heavily and higher mortality is observed in the COVID-19 patients who had cardiovascular disease before or cardiovascular risk factors (smoking habit, male gender, old age, obesity, diabetes, hyperlipidemia and hypertension).  Both COVID-19 disease and the drugs used during treatment lead to cardiac arrhythmia. In this study, a case that was followed up in intensive care unit because of COVID-19 disease and had ventricular tachycardia following Tocilizumab treatment was presented.
+Yazar isimleri: ['Deniz İNCAMAN', 'Mahmut ÇINAR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Balıkesir Medical Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bmedj/issue/72574/1053956
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2177139

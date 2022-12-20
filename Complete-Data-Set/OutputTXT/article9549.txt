@@ -1,0 +1,7 @@
+Makale Başlığı: Some New Estimates for Maximal Commutator and Commutator of Maximal Function in $L_{p,\lambda}(\Gamma)$
+Özet: The theory of boundedness of classical operators of real analyses on Morrey spaces defined on Carleson curves has made significant progress in recent years as it allows for various applications. This study obtains new estimates about the boundedness of the maximal commutator operator $M_b$ and the commutator of the maximal function $[M, b]$ in Morrey spaces defined on Carleson curves.
+Yazar isimleri: ['Merve Esra TÜRKAY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of New Theory
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnt/issue/72878/1162966
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2600068

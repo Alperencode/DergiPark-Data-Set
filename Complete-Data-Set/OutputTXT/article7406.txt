@@ -1,0 +1,7 @@
+Makale Başlığı: Characterization of coastal and transitional Chickpea (Cicer arietinum L.) populations and evaluation of possible variable
+Özet: This study was conducted on 229 chickpea (Cicer arietinum L.) samples collected from coastal and transitional zones with the aim to characterize populations based on 18 qualitative characters, reveal morphological similarities and evaluate the possibility for variable reduction. An augmented experimental design was applied in the study in which a total of 229 samples and 7 control cultivars were characterized. Combined cluster analysis of the experimental material determined 2 main groups that were distributed as 14 subgroups. 131 homogeneous and 98 heterogeneous samples were determined and divided into two groups. Each group was subjected to cluster analysis and the hierarchical distance and genetic differences among the genotypes were determined. The principal component analysis demonstrated that the first 7 main components could explain 69.7% of the total variability in the population. Weighted effect of the seven principal components in explaining the total variation was determined as 20.5%, 15.3%, 7.7%, 7.2%, 6.8%, 6.3% and 5.9%, respectively.
+Yazar isimleri: ['Çetin SAYILĞAN', 'Burhan KARA']
+Yayın Yılı: 23 Eylül 2022
+Dergi ismi: International Journal of Agriculture Environment and Food Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jaefs/issue/71247/1135231
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2505034

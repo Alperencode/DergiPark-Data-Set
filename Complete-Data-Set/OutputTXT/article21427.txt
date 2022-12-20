@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of normal stress and relative compaction on secant friction angle of   sands
+Özet: In most geotechnical projects the linear Mohr--Coulomb envelope is used.   This envelope is curved for coarse-grained soils and is affected by some   factors such as confining pressure, relative density, mineralogy, particle   crushing, fine content, and gradation of sand particles. The curved strength   envelope could be used to study the behavior of deep foundations, earth   dams, soil slopes, and other earth structures in which failure occurs under   considerable normal stresses. A deep failure surface may be more critical   than a shallow surface when the phenomenon of curved strength envelopes is   considered, because the secant friction angle decreases with increasing   depth of soil layers and confining pressure. The main purpose of this   research is to express the secant friction angle of sands as a function of   normal stress and relative compaction. In this study, direct shear tests are   performed on air-dried and saturated sand samples at different normal   stresses to evaluate the variation of secant friction angle with these   factors.
+Yazar isimleri: []
+Yayın Yılı: 1 Haziran 2014
+Dergi ismi: Turkish Journal of Engineering and Environmental Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkengineering/issue/35821/401393
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/434837

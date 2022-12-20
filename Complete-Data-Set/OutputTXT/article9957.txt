@@ -1,0 +1,7 @@
+Makale Başlığı: AN INTELLIGENT SYSTEM FOR DOCUMENT-BASED BANKING PROCESSES
+Özet: Business process automation has been helping companies by eliminating mundane and repetitive tasks. Automation tools have been used in many sectors, providing high full-time employee (FTE) savings and low error rates to the companies. Banks have been utilizing the automation tools for core banking and branch operations. In addition, banks receive hundreds of notice documents from courts, municipalities and third parties; which usually contain private and time-sensitive information about their customers. Automated document processing requires special solutions such as optical character recognition (OCR), natural language processing (NLP) and taxonomy; and modern process automation tools can utilize these solutions to provide end-to-end automation.This paper discusses how the notice documents such as account closure, payment blockage in Turkey can be automated.
+Yazar isimleri: ['Ozge DOGUC']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1166624
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2614540

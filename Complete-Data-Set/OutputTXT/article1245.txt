@@ -1,0 +1,7 @@
+Makale Başlığı: Sarıçam ağaçları (Pinus sylvestris L.) için tek ve çift girişli ağaç hacim denklemlerinin geliştirilmesi (Bozalan Ve Çubuk Yöresi Örneği)
+Özet: Bu çalışmada Ankara Orman Bölge Müdürlüğü, Kızılcahamam Orman İşletme Müdürlüğü’ne bağlı Bozalan Orman İşletme Şefliği ile Ankara Orman İşletme Müdürlüğü’ne bağlı Çubuk Orman İşletme Şefliği sınırları içerisinde yer alan sarıçam meşcerelerindeki ağaçların hacim denklemleri modellemek üzere tek girişli ve çift girişli ağaç hacim denklemleri geliştirilmiştir. Tek girişli hacim denklemleri için 6 ve çift girişli ağaç hacim denklemleri için ise 27 farklı fonksiyon, tahminin standart hatası, ortalama hata, ortalama mutlak hata, toplam hata yüzdesi ve ortalama mutlak hata yüzdesi değerleri ve belirtme katsayısı olmak üzere farklı 6 adet başarı ölçütüne göre karşılaştırılmıştır. En başarılı olarak belirlenen tek girişli ağaç hacim denklemi %86,04, çift girişli ağaç hacim denklemi ise %96,63‘lük model açıklayıcılığına sahiptir.  En başarılı denklem olarak belirlenen tek ve çift girişli ağaç hacim denklemlerinin çalışmaya konu bölgedeki sarıçam ağaçları için uygunluğu bağımsız bir veri grubu ile test edilerek p<0,05 önem düzeyi ile uygun olduğu belirlenmiştir.
+Yazar isimleri: ['Kadir ÖLMEZ', 'Muammer ŞENYURT']
+Yayın Yılı: 13 Haziran 2022
+Dergi ismi: Anadolu Orman Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ajfr/issue/70262/1111290
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2406459

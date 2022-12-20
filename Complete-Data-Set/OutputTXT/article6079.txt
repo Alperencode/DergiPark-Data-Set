@@ -1,0 +1,7 @@
+Makale Başlığı: Adaptation of the Kantorovich Type Integral to the Dunkl Operator
+Özet: The purpose of this article is to show the adaptation of the Kantorovich type integral to the Dunkl operator. This article gives a sequence of operators to get an approximation result. The variant of the operator which is the Kantorovich type integral has been given and examined the approximation ratio by the first and second order modulus of continuity. The approximation order of the operators is shown by the first order modulus of continuity and the Lipschitz class functions.
+Yazar isimleri: ['Gurhan İÇÖZ', 'Esma GÖKMEN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi University Journal of Science Part A: Engineering and Innovation
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsa/issue/72855/1148199
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2555143

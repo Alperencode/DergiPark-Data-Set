@@ -1,0 +1,7 @@
+Makale Başlığı: Development and Validation of HPLC Method for the Determination of Flurbiprofen in Pharmaceutical Preparations
+Özet: 
+Yazar isimleri: ['Bilal YILMAZ', 'Burak BAYRAK', 'Yücel KADIOĞLU']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: International Journal of PharmATA
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/paharmata/issue/71188/1134861
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2503551

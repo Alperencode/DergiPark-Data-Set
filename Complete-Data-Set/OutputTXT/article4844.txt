@@ -1,0 +1,7 @@
+Makale Başlığı: EKONOMİK BÜYÜME İLE TİCARİ AÇIKLIĞIN ENERJİ TÜKETİMİ ÜZERİNDEKİ ETKİSİ: G7 ÜLKELERİ İÇİN EKONOMETRİK BİR ANALİZ
+Özet: Bu çalışmanın amacı ekonomi literatüründe oldukça önemli yer teşkil eden enerji tüketimi ile ekonomik büyüme arasındaki ilişkiyi ortaya koymaktır. Literatür incelendiğinde söz konusu ilişkiyi açıklamada enerji tüketimi ile ekonomik büyüme değişkenlerinin tek başına yetersiz olduğu ve dış ticaretin söz konusu ilişkiyi açıklamada önemli bir değişken olduğu görülmüştür. Bu bağlamda G7 ülkeleri örnekleminde enerji tüketimi, ekonomik büyüme ve ticari açıklık değişkenlerine ait 1970-2018 dönemine ait panel verilerle ekonometrik bir analiz yapılmıştır. Panel eş bütünleşme,ve uzun dönem katsayı tahminlerinin yapıldığı çalışma sonucunda değişkenler arasında eş bütünleşme ilişkilerinin mevcut olduğu görülmüştür. Eş bütünleşmenin varlığı tespit edildikten sonra yapılkan uzun dönem katsayı tahminlerine göre ise ticari açıklığın istatistiki olarak anlamsız olduğu ekonomik büyümede meydana gelen %1’lik artışın enerji tüketimini %0,169 oranında arttırdığı görülmüştür.
+Yazar isimleri: ['İhsan GÜZEL']
+Yayın Yılı: 16 Temmuz 2021
+Dergi ismi: Ekonomi Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ebd/issue/64174/837467
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1437057

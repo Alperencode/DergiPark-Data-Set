@@ -1,0 +1,7 @@
+Makale Başlığı: The Impact of Geopolitics Risks on Macroeconomic Indicators: Evidence from Turkey
+Özet: The study aims to examine the effect of geopolitical risks on macroeconomic variables in Turkey using monthly data for the period from 1994 January to 2022 April. The global index calculated by Caldara and Iacoviello (2022) was used as an indicator of geopolitical risk. The industrial production index, inflation rate and real effective exchange rate were used as macroeconomic indicators. The relationships between the variables were researched with the frequency domain causality test developed by Breitung and Candelon (2009). The results of the analysis show that the inflation rate and the real effective exchange rate are affected by geopolitical risks in the medium and long term.
+Yazar isimleri: ['Fatih TUNA', 'Hande ÇALIŞKAN']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Gaziantep Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jss/issue/73087/1151714
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2567853

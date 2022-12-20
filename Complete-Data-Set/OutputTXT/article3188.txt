@@ -1,0 +1,7 @@
+Makale Başlığı: Seçili OECD Ülkelerinde Ar-Ge Teşvikleri ve Endüstri Üretimi İlişkisi
+Özet: Araştırma ve geliştirme (ar-ge) faaliyetleri ülke ekonomilerinde bilimsel ve teknolojik yeniliklerin temelini oluşturmaktadır. Bundan dolayı araştırma ve geliştirme faaliyetleri son derece önemlidir. Endüstriyel üretim ise ülke ekonomilerinde büyümenin motoru kabul edilen sektörlerden bir tanesidir. Çalışmada seçili OECD ülkeleri için ar-ge vergi teşvik oranları ile ilgili ülkelerin endüstriyel üretimleri arasındaki ilişki analiz edilmektedir. Çalışmada 2000 ile 2020 yılları arasında seçili OECD ülkelerinde Ar-ge vergi teşvik oranları ile endüstriyel üretim oranları arasında ilişkinin ekonometrik yöntemler aracılığı ile analiz edilmesi amaçlanmaktadır. Kullanılan yöntem panel eşbütünleşme yöntemidir. Çalışmada 14 OECD ülkesi için analizler gerçekleştirilmiştir. Güncel verilerle ilgili değişkenler kullanılarak OECD ülkelerinde ar-ge vergi teşvik oranları ile endüstri üretimi arasındaki ilişkiyi inceleyen bir çalışma olması yönlerinden literatüre katkı sağlanmaktadır. Yapılan analizler sonucunda seçili OECD ülkelerinde ar-ge vergi teşvik oranlarındaki %1’lik artışın endüstriyel üretimde %0.88’lik artış sağladığı sonucuna ulaşılmıştır.
+Yazar isimleri: ['Sinan ÇİNAR', 'Banu HAS']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Bucak İşletme Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bifd/issue/73265/1102925
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2372086

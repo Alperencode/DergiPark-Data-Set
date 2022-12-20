@@ -1,0 +1,7 @@
+Makale Başlığı: THE BLOCKCHAIN TECHNOLOGIES: DO WE REALLY KNOW WHAT WE ARE TALKING ABOUT?
+Özet: Bu çalışmanın amacı, bireylerin blok zincir teknolojilerine (BZT) ilişkin algılarını incelemektir. BZT kullanımını etkileyen unsurları keşfetmek için oluşturulan teorik model yapısal eşitlik modellemesi (YEM) kullanılarak ampirik olarak test edilmiştir. Araştırmada veriler, mühendislik ve işletme eğitimi geçmişine sahip 300 çalışandan oluşan bir örneklemden toplanmış ve çok maddeli bir anket kullanılmıştır. Sonuçlar, itibarın algılanan fayda ve algılanan risk üzerinden BZT'ye karşı tutumu etkilediğini ve BZT'ye karşı tutumun BZT aracılığıyla işlem yapma niyeti ile açıkladığını göstermekledir. Katılımcılar arasında BZT'yi kullanma niyeti oldukça yüksek bulunmuştur ve ilginç bir şekilde sonuçlar eğitim geçmişlerinin istatistiksel olarak anlamlı bir etkisi olmadığını ortaya koymaktadır.
+Yazar isimleri: ['E. Serra YURTKORU', 'Mustafa AGAOGLU']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Journal of Research in Business
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jrb/issue/70563/1023399
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2080586

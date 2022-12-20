@@ -1,0 +1,7 @@
+Makale Başlığı: A COMPARATIVE ANALYSIS ON THE PERFORMANCES OF DIFFERENT ORIGINATED TWO PUMICE IN PRODUCTION OF MASONRY BLOCKS: TOMARZA AND TATVAN SAMPLE
+Özet: Pumice aggregate lightweight concretes (PAHB) were produced with fine, medium and coarse pumice aggregates as 0/4 mm, 4/8 mm and 8/12 mm. The pumice aggregates were obtained from two different pumice quarries, namely Bitlis-Tatvan(BT) and Kayseri-Tomarza(KT). Three different fine:medium:coarse aggregate ratios by weight, 30:50:20, 30:30:40 and 20:50:30 were used. Also, four different cement dosages of 130, 170, 200 and 240 kg/m3 were used. In the second stage, pumice aggregate masonry block (PAKB) was produced in full scale with the same mixing ratios used in the cube samples. According to the results, the highest strength values in PAHB cube samples prepared with BT and KT aggregates were obtained as 2.27 and 3.18 MPa in mixtures with cement dosage of 240 kg/m3 and aggregate usage ratio of 30:30:40 and 30:50:20, respectively. As the density of concrete increased, the drying shrinkage and moisture expansion increased, but decreased with the increase of the aggregate/cement ratio. The lowest thermal conductivity coefficient in masonry blocks was found as 0.120 W/mK in BT aggregate block samples.
+Yazar isimleri: ['Lütfullah GÜNDÜZ', 'Şevket Onur KALKAN']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1115902
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2424763

@@ -1,0 +1,7 @@
+Makale Başlığı: Yakın esnek ayırma aksiyomları ve kuratowski kapanış operatörü üzerine
+Özet: Bu çalışmada ilk bölümde kullanacağımız temel kavramlar verilmiştir.  Daha sonra yakın esnek topolojik uzay ve bu yapının bazı özellikleri verildi. Üçüncü bölümde yakın esnek topolojik uzayın ayırma aksiyomları ile ilgili bağlantısı incelenmiş olup yakın esnek topolojik uzayının ayırma aksiyomları verildi. Kuratowski kapanış operatörü ile yakın esnek topoloji olma aksiyomlarının sağlandığını gösterdik.
+Yazar isimleri: ['Koray YILMAZ', 'Hatice TAŞBOZAN', 'Aydın GÜZELKOKAR']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1055987
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2184705

@@ -1,0 +1,7 @@
+Makale Başlığı: Time Varying Causality Relationships Between Bonds and Stock Markets: Findings of the Hatemi-J Dynamic Causality Test
+Özet: Economic developments and the uncertainty in risk factors can change the relationships between asset classes over time. Assuming that the relations between financial markets are of static in nature will result in erroneous investment and policy decisions, even if they are dynamic in reality. Focusing on the causality relationships between bond and stock markets, which has a central point of finance theory, this study aims to reveal whether there is symmetric and asymmetric causality relationship from bond market to the stock market, and if there is, whether this relationship changes over time. Dynamic symmetric and asymmetric causality tests developed by Hatemi-J (2021) are adopted as the analysis method. Dynamic symmetric and asymmetric causality test findings show that the causality relationship from bond market to the stock market changes over time. In conclusion, this study suggest that static models can lead to biased decisions such as hedging, diversification and asset allocation by demonstrating the structural changes and time dependency in the causal relationships between the bond and the stock market.
+Yazar isimleri: ['Mevlüt CAMGÖZ']
+Yayın Yılı: 24 Ekim 2022
+Dergi ismi: Muhasebe ve Finansman Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mufad/issue/73058/1118637
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2436379

@@ -1,0 +1,7 @@
+Makale Başlığı: Ergenlerde Sınav Kaygısının Yordayıcısı Olarak Covıd-19 Korkusu
+Özet: Bu çalışmanın amacı, üniversite sınavına hazırlanan ergenlerin Covid-19 korku düzeylerinin sınav kaygıları üzerindeki yordama etkisini incelemektir. Çalışmaya yaşları 16 ile 20 (Ort.=17.61, SS=1.45) arasında değişen, 202 (%54.9) kadın ve 166 erkek olmak üzere toplam 368 ergen katılmıştır. Çalışmada, Covid-19 Korku Ölçeği, Sınav Kaygısı Ölçeği ve Kişisel Bilgi Formu kullanılmıştır. Bulgular, Covid-19 korkusu ile sınav kaygısı arasında pozitif bir ilişki olduğunu ve Covid-19 korkusunun sınav kaygısını anlamlı bir şekilde yordadığını ortaya koymuştur. Regresyon analizinde cinsiyet ve yaş kontrol edildikten sonra, Covid-19 korkusu değişkeni tek başına sınav kaygısı varyansının %7’sini açıklamaktadır. Bağımsız t-testi analizinde, cinsiyet değişkenine göre, kadın öğrencilerinin Covid-19 korku düzeyleri ve sınav kaygıları erkek öğrencilerinkinden anlamlı bir şekilde daha yüksek çıkmıştır. Bulgulara göre yüksek Covid-19 korkusu yaşayan öğrenciler, daha çok sınav kaygısını yaşama eğilimindedirler. Sonuçlar, bu dönemde özellikle sınava girecek öğrenciler için Covid-19 korkusu ve sınav kaygısı ile baş etmeye dönük programlar hazırlanmasının ve yeni çalışmalar yapılmasının önemini ortaya koymaktadır.
+Yazar isimleri: ['İlhan ÇİÇEK', 'Murat YILDIRIM']
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: Milli Eğitim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/milliegitim/issue/73393/928926
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1737029

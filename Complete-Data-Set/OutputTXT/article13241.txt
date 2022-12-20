@@ -1,0 +1,7 @@
+Makale Başlığı: Some convergence results using a new iterative algorithm in CAT(0) space
+Özet: 
+Yazar isimleri: ['Anju PANWAR', 'Pinki LAMBA', 'Santosh KUMAR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1097678
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2349687

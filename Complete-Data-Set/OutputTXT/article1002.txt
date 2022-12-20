@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship Between Economic Growth, Inequality and Redistribution in Selected OECD Countries: Evidences From Panel Cointegration and Asymmetric Causality Analysis
+Özet: In this study, the relationship between economic growth, inequality, and redistribution in selected OECD countries is examined by panel cointegration and Panel Hatemi-J asymmetric causality analysis methods for the period 1987-2018. With respect to the results of the structural break panel cointegration (Westerlund & Edgerton, 2008) test, it has been determined that the variables have co-movement in the long run. The cointegration estimators are analyzed using the Mean Group Dynamic OLS (DOLSMG) method. According to the findings, there is a negative relationship between economic growth and income inequality, and a positive relationship between economic growth and redistribution in those countries. As regards the asymmetric causality results, a negative shock in income inequality has caused a positive shock in economic growth, while a positive shock in redistribution causes a negative shock in economic growth.
+Yazar isimleri: ['Tuğba AKIN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1071258
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2244891

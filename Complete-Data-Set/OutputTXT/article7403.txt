@@ -1,0 +1,7 @@
+Makale Başlığı: Plastik Enjeksiyon Kalıplamada Farklı Soğutma Sistemlerinin Karşılaştırılması
+Özet: Enjeksiyon kalıplama, plastik ürünler için yüksek verimlilik sebebiyle tercih edilmektedir. Enjeksiyon sonrasında en önemli unsurlardan birisi de parçanın soğutulmasıdır. Soğutma işlemi, toplam kalıplama süresinin önemli kısmını oluşturmaktadır. Genellikle plastik enjeksiyon kalıplarında soğutma işlemi kalıp üzerine radyal ve eksenel yönde açılan deliklerden soğutma sıvısı dolaştırılması ile yapılır fakat soğumanın istenilen düzeyde olmaması durumlarında kalıplara ısı iletkenlik kat sayısı yüksek olan malzemeler yerleştirilerek verim arttırılmaya çalışılır. İmalat yöntemlerinin gelişmesiyle bu metoda alternatif olarak kalıplanan parça geometrisini takip eden soğutma kanallarına sahip olan şekil uyumlu (konformal) soğutma sistemleri ortaya çıkmıştır. Ancak bu pahalı bir yöntemdir ve üzerinde çalışmalar devam etmektedir. Bu çalışmada, klasik soğutma sistemine sahip ve üretimi devam eden örnek bir parçada MoldFlow analiz programı yardımı ile klasik soğutma sistemi, şekil uyumlu (konformal) soğutma sistemi ve kalıba ısı iletkenlik katsayısı yüksek olan bir malzeme (insert) yerleştirilmesi sonucunda kalıp soğutma sürelerinin analizleri yapılarak karşılaştırılmıştır.
+Yazar isimleri: ['Oğuz GİRİT']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: International Journal of Advances in Engineering and Pure Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jeps/issue/72838/1168047
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2620450

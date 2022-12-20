@@ -1,0 +1,7 @@
+Makale Başlığı: Determining the Importance of the Criteria at the Website Design Stage with Fuzzy Fucom
+Özet: Today, the internet has become an indispensable part of our lives and has become a communication tool that gets more powerful every day. With the developing of new technologies, Websites that are an essential part of the internet make the daily lives of people easier. Websites frequently meet the needs of people in many areas such as entertainment, finance, education and social life. Even though the usage purpose of the Websites differs from each other, there are some common criteria that needs to be considered during the preparation of Website. In this article, we outline the criteria for creating a Website and discuss these from two different points of view. The criteria were evaluated and reported separately for the software developer and the users. The differences between the two have been compared and discussed. The Fuzzy Fucom Method which has developed for the evaluations was used.
+Yazar isimleri: ['Sultan Handenur ATÇI', 'Kumru ATALAY']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Turkish Operations Management
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jtom/issue/70951/940270
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1779212

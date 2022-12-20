@@ -1,0 +1,7 @@
+Makale Başlığı: Parametric Optimization of a Responsive Façade System for Daylight Performance
+Özet: The effective use of daylight is a critical design input that increases spatial qualities, sustainability, and energy efficiency targets in buildings. The emerging kinetic architecture concept supports these goals. It also recommends the use of building elements that are suitable for the design of dynamically environment-responsive façades. This study aims to explore the potential of kinetic envelopes for the design of optimal daylight efficient façades. The methodology is based on computational models of kinetic façade patterns applied to a generic building, which are further optimized to reveal the most efficient design. The façade features a modular pattern based on triangles, which, by simple rotation around the vertical axis, provides both daylight control and visual comfort. The results of a parametric analysis of the panel configurations based on daylight metrics, show that the proposed design helped achieving the most effective configuration for daylight savings.
+Yazar isimleri: ['Ecenur KIZILÖRENLİ', 'Ayça TOKUÇ']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Mimarlık Bilimleri ve Uygulamaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mbud/issue/69153/1038768
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2140871

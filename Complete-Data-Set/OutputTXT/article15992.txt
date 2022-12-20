@@ -1,0 +1,7 @@
+Makale Başlığı: Gerçek Evapotranspirasyonun Landsat Uydu Görüntüleri Kullanarak SEBAL Modeli ile Hesaplanması: Bolu/Yeniçağa Örneği
+Özet: Su yönetiminin en önemli basamaklarından biri, su bütçesinin yüksek doğruluklu bir şekilde hesaplanmasıdır. Su bütçesinde yağıştan sonraki en önemli parametre gerçek evapotranspirasyondur (ET). ET, bitki yüzeyinden terleme ve toprak yüzeyinden buharlaşma ile kaybolan su miktarının toplamıdır. Bu çalışmada ET’nin Landsat 5 ve Landsat 8 uydu görüntüleri kullanarak SEBAL modeli ile hesaplanması ve modelin doğruluğunun yersel veriler kullanarak test edilmesi amaçlanmıştır. SEBAL modeli ile üretilen ET haritaları, 2010-2014 yılları arasında Bolu Yeniçağa Gölü’nün kuzey tarafında kurulan yersel akı kulesinde eddy kovaryans yöntemi ile toplanan gözlemler ile karşılaştırılmıştır. Elde edilen sonuçlara göre, uydu görüntülerinden SEBAL modelinden hesaplanan ET değerleri ile yersel verilerden hesaplanan günlük ET değerleri arasında güçlü bir ilişki bulunmuştur (R²=0.83). Ayrıca, model yersel veriye göre günlük toplam ET değerlerini 0.04 mm fazla (pozitif biyas) hesaplamıştır. Modelin yersel verilere göre mutlak ortalama ve karesel ortalama hata değerleri sırasıyla günlük 0.63 mm ve 0.71 mm bulunmuştur. 
+Yazar isimleri: ['Atahan EVCEN', 'Ali Levent YAĞCI']
+Yayın Yılı: 18 Eylül 2022
+Dergi ismi: Türk Uzaktan Algılama ve CBS Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rsgis/issue/72616/1126221
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2467492

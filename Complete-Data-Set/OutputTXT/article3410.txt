@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of the impact of I/Q imbalance compensation on communication performance
+Özet: Quadrature mixing is widely used in wireless communication receivers since it provides a solution for image signal problem with low-cost implementations. Image signal is caused by phase and amplitude mismatches between in-phase (I) and quadrature (Q) paths of the receiver. This problem is known as I/Q imbalance and degrades the communication performance if not compensated. In this study, the impact of I/Q imbalance compensation on wireless communication performance is evaluated through experiments and simulations. Simulation results demonstrate that significant communication performance improvement can be achieved in terms of bit error rate (BER) and symbol error rate (SER) by compensating the I/Q imbalance properly. In the experiments, compensation is applied to the signals captured using a software defined radio with zero-IF architecture. Experimental results demonstrate that wireless transmission success rate for the zero-IF receiver is increased by compensating I/Q imbalance.
+Yazar isimleri: ['Gizem Eda SAĞIR', 'Selçuk TAŞCIOĞLU']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A2-A3 Physical Sciences and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aupse/issue/72231/1079709
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2277462

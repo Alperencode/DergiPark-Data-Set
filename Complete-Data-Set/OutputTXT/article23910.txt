@@ -1,0 +1,7 @@
+Makale Başlığı: THE RELATIONSHIP OF GDP AND RENEWABLE ENERGY PRODUCTION IN G7 AND E7 COUNTRIES: THE ANALYSIS OF TODA-YAMAMOTO PANEL CAUSALITY
+Özet: Energy is an indispensable requirement for sustainable economic growth and development in every field of the modern world. Within the framework of technological, industrial, diplomatic, and political developments, the demand for energy, security, and supply issues have risen to an extremely essential position. The aim of this research article examines variations in GDP of G7 and E7 countries between 2000 and 2015 and the effects of electricity produced from renewable energy sources, excluding hydropower. In this context, the data of the countries in the series were analyzed with Wald Test and Toda-Yamamoto Panel Causal Analysis.  According to the results of the analysis, while obtaining a causal relationship between energy production from renewable sources and economic growth, a causal relationship was also determined between economic growth and energy production from renewable sources.
+Yazar isimleri: ['Ali DOĞDU']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Toplum Ekonomi ve Yönetim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/teyd/issue/73560/1159021
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2584304

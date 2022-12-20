@@ -1,0 +1,7 @@
+Makale Başlığı: The Effects of Macroeconomic Factors and Population on Unemployment: Panel Data Analysis on OECD Countries
+Özet: The study aims to investigate the effect of the macroeconomic factors of inflation, public size, investment, openness, and labour market regulations, and the effect of demographic factors of population size on unemployment dimensions. The unemployment dimensions of total unemployment, youth unemployment, female unemployment, educated unemployment and long-term unemployment dimensions were handled in this study. Panel data analysis was applied based on panel data of study variables of OECD member countries for the period of 2010-2018. The aim of the study was tried to be executed by panel regression analysis, which is one of the panel data analyses. As a result of the panel regression analysis, it was determined that openness, public size, investment, inflation, labour market regulations and the population had a statistically significant effect on all dimensions of unemployment.
+Yazar isimleri: ['Aylin ALKAYA', 'Perihan IŞIK']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/994550
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1970991

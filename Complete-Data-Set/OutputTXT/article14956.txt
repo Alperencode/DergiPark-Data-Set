@@ -1,0 +1,7 @@
+Makale Başlığı: FABRICATION AND WELDING OF ALUMINUM COMPOSITE
+Özet: In recent years, aluminum alloy-based metal matrix composites (MMC) are gaining importance in several aerospace and automobile applications. Aluminum 6061 has been used as matrix material owing to its excellent mechanical properties coupled with good formability. In the present investigation Al6061–SiCp composites was fabricated by powder metallurgy route with 7.5 and 13 wt. % of SiCp and sintered at 600°C during 2 h. The synthesis samples were welded in solid state by bonding diffusion at 520 °C during 3 h. The effect of SiCp amount on structural and mechanical properties of welded joint of Al matrix was investigated. The main techniques of characterization were optical and scanning electronic microscopy, X ray diffraction, and hardness measurements. We have found the effect of silicon carbide quantity on the hardness of the synthesized composite. The microstructure observations showed a homogeneous distribution of SiCp on the welded joint
+Yazar isimleri: ['Zakaria BOUMERZOUG', 'Fabienne DELAUNOİS']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: The International Journal of Materials and Engineering Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tijmet/issue/72047/868999
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1535911

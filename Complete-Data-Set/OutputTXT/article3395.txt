@@ -1,0 +1,7 @@
+Makale Başlığı: Parameter uniform second-order numerical approximation for the integro-differential equations involving boundary layers
+Özet: The work handles a Fredholm integro-differential equation involving boundary layers. A fitted second-order difference scheme has been created on a uniform mesh utilizing interpolating quadrature rules and exponential basis functions. The stability and convergence of the proposed discretization technique are analyzed and one example is solved to display the advantages of the presented technique.
+Yazar isimleri: ['Muhammet Enes DURMAZ', 'Musa ÇAKIR', 'Gabil AMİRALİ']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/1072728
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2250119

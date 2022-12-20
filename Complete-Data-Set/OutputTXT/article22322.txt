@@ -1,0 +1,7 @@
+Makale Başlığı: The Comparative Effects of Clustering Algorithms on CPU and GPU
+Özet: 
+Yazar isimleri: ['Pınar ERSOY', 'Mustafa ERŞAHİN', 'Buket ERŞAHİN']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Artificial Intelligence Theory and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aita/issue/72862/1141500
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2529257

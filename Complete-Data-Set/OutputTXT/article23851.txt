@@ -1,0 +1,7 @@
+Makale Başlığı: DATA ANALYSIS of the TOP UNIVERSITIES in the RANKING via the TOPSIS MODEL
+Özet: In this study, it is aimed to analyze the data of the ranking systems among the world universities and to rank them with the TOPSIS method. This study is an analysis of features and criteria of the ranking systems of world universities. Since there are dozens of different systems for ranking universities, this study focuses on the more popular systems. Considering that each of these systems has different criteria and systematics, the study is not for comparison purposes. It is possible to consider these criteria and to establish their structuring according to some of these criteria in order for the universities in Turkey, which have increased rapidly in recent years, to become compatible with the world. For universities in Turkey to rank higher, it would be beneficial to examine the characteristics of European and American universities, and then universities in the Near and Far East, such as scientific study, physical and social facilities, and the number of faculty members. Thus, each university can organize its mission and vision according to international developments.
+Yazar isimleri: ['Kevser ŞAHİNBAŞ', 'Abdurrahman KESKİN']
+Yayın Yılı: 24 Ekim 2022
+Dergi ismi: Tarsus Üniversitesi Uygulamalı Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tauubf/issue/73151/1169025
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2624434

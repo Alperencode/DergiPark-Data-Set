@@ -1,0 +1,7 @@
+Makale Başlığı: Artificial Intelligence Based Smart Interchange System In Smart Urbanization
+Özet: The duration of the smart intersection system lights is determined automatically according to the nearest busy. The vehicle at the intersection with the camera is calculated by the image processing process. optimizing the signaling time in traffic signaling. It will be passed to be passed by a system that can be reached later. Also the system can be entered with this remote central management. Manually switch to roads. In this study, it is a smart intersection system used with special permission from Malatya Metropolitan Municipality transportation units. These studies and the benefits they have provided are highlighted. In addition, DARKNET's real-time object detection YOLOV3 deep learning model is used within the scope of in-vehicle real-time traffic system from data images on websites for traffic. The vehicles are placed in the targeted and future-determined database. Positive signaling with information from the designed Process-Based Intersection Management System. Agricultural bounty takes advantage of little stealing gases to be grown to take advantage of time and small items. A clean environment will be created.
+Yazar isimleri: ['Derya AVCI']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1103449
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2374221

@@ -1,0 +1,7 @@
+Makale Başlığı: Amonyak Bazlı Doğrudan Buhar Üretimi İçin Trijenerasyon Sisteminin Termodinamik Analizi
+Özet: Bu çalışmanın amacı, güç, soğutma ve sıcak su üretmek için parabolik oluklu kollektörlü (PTSC) entegre organik Rankine çevrimi (ORC) ve ejektörlü soğutma çevriminin enerjik ve ekserjetik analizini incelemektir. Trijenerasyon sisteminin performans değerlendirmesini yapmak için EES yazılım programı kullanılmaktadır. Hesaplamalarda termodinamiğin birinci ve ikinci yasaları kullanılmıştır. Termodinamik analiz sonuçlarına göre trijenerasyon sisteminin enerjik ve ekserjetik verimi sırasıyla %26.67 ve %14.21 olarak hesaplanmıştır. Aynı zamanda, güneş ışınımının, türbin giriş sıcaklığının ve jeneratör sıcaklığının kombine çevrim performansı üzerindeki etkisini incelemek için parametrik çalışmalar yapılmıştır. Trijenerasyon sisteminin parametrik çalışmaları incelendiğinde, trijenerasyon sisteminin enerjik- ekserjetik verimi ve toplam ekserji yıkımı, güneş ışınımı ve türbin giriş sıcaklığının artmasıyla artarken, jeneratör sıcaklığının artmasıyla toplam ekserjetik verim azalmaktadır. Ayrıca en yüksek tersinmezlik oranı 150 kW ile PTSC'de iken, en düşük tersinmezlik oranı ise ejektör soğutma sisteminin pompasında 0,02 kW olarak hesaplanmıştır.
+Yazar isimleri: ['Gamze SOYTÜRK', 'Serpil ÇELİK TOKER', 'Önder KIZILKAN']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/997723
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1983555

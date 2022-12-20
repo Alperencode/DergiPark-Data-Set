@@ -1,0 +1,7 @@
+Makale Başlığı: Intellectual Capital and Corporate Governance in Financial Performance Indonesia Islamic Banking
+Özet: This study analyzes the influence of intellectual capital and corporate governance on the financial performance of the company. The data from eleven sharia banking in Indonesia. The analytical method used is Seemingly Unrelated Regression, with two dependent variables, namely return on asset (ROA) and asset growth (AG) and seven independent variables, namely human capital (HC), structural capital (SC), capital employed (CE), which is a sub variable of intellectual capital, and the board of size (BS), the board of demography (BD), the board of education (BE), the board of evaluation (BEV) is a sub variable of corporate governance. The results of this study indicate that intellectual capital has a positive and significant effect on return on assets, and no effect on asset growth. While corporate governance has a positive effect on return on assets and does not affect the growth of corporate assets.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353520
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364546

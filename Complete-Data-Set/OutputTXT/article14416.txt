@@ -1,0 +1,7 @@
+Makale Başlığı: Benzoik Asit Bazlı Yeni Azo Boyar Madde Sentezi ve Teorik Hesaplamaları
+Özet: Bu çalışmada 3,5-dihidroksi-2-(naftalen-2-ildiazenil) benzoik asidin sentezi, karakterizasyonu ve teorik hesaplaması anlatılmaktadır. Sentezlenen bileşik, başlangıç malzemeleri olarak 2-Naftilamin ve 3,5-dihidroksibenzoik asit kullanılarak verimli sentetik yoldan elde edildi ve Fourier Dönüşümlü Kızılötesi Spektroskopisi (FTIR), Proton Nükleer Manyetik Rezonans Spektroskopisi (1H-NMR), Karbon Nükleer Manyetik Rezonans Spektroskopisi (13C-NMR), Ultraviyole-Görünür Spektroskopi (UV-Vis) gibi çeşitli spektroskopik tekniklerle karakterize edildi. Tüm teorik hesaplamalar Yoğunluk Fonksiyonel Teorisi (DFT) ile yapıldı. Optimize edilmiş moleküler yapı, titreşim spektrumları, NMR kimyasal kayma değerleri, sınır moleküler orbitalleri, bağ uzunlukları, bağ açıları ve molekülün Moleküler Elektrostatik Potansiyel (MEP) diyagramı 6-311G(d,p) temel seti kullanılarak hesaplandı. Deneysel ve teorik hesaplamalardan elde edilen sonuçların birbirini desteklediği ve uyum içinde olduğu görüldü.
+Yazar isimleri: ['Çiğdem KARABACAK ATAY', 'Mehmet ULUTÜRK']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1181119
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2675277

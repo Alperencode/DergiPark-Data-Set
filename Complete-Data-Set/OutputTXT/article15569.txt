@@ -1,0 +1,7 @@
+Makale Başlığı: Karadeniz’in Türkiye Kıyılarındaki Bazı Balık Türlerinin Boy-Ağırlık İlişkileri (LWRs)
+Özet: Bu çalışmada, 1989-2021 yılları arasında, farklı araştırmacılar tarafından gerçekleştirilen 138 çalışmadan toplanmış, Karadeniz'in Türkiye kıyılarındaki bazı balık türlerine ait 288 boy-ağırlık ilişkisi yer almaktadır. Tüm türler için “b” değerleri 2.49, Trachurus trachurus ve 3.75, Alosa caspia arasında değişmektedir. Balıklar için b değerinin 2.5<b<3.5 aralığında olması beklenmektedir. A. aspia için verilen yüksek b değerinin (3.75) örneklerin büyüklük kompozisyonundan kaynaklanabileceği düşünülmektedir. Türler içinde, boy-ağırlık ilişkilerindeki aykırı değerleri tespit etmek için log (a)’ya karşı b grafiği kullanıldı. Çalışmada, Mullus barbatus için iki aykırı değer belirlenirken, Belone belone, Alosa immaculata, Merlangius merlangus ve Neogobius melanostomus için bir aykırı değer belirlendi.
+Yazar isimleri: ['Serap SAMSUN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Turkish Journal of Maritime and Marine Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/trjmms/issue/73456/1112696
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2411618

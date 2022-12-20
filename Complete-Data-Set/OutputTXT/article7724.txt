@@ -1,0 +1,7 @@
+Makale Başlığı: Machine Learning for E-triage
+Özet: 
+Yazar isimleri: ['Şebnem BORA', 'Aylin KANTARCI', 'Arife ERDOĞAN', 'Burak BEYNEK', 'Bita KHEİBARİ', 'Vedat EVREN', 'Mümin Alper ERDOĞAN', 'Fulya KAVAK', 'Fatmanur AFYONCU', 'Cansu ERYAZ', 'Hayriye GÖNÜLLÜ']
+Yayın Yılı: 20 Temmuz 2022
+Dergi ismi: International Journal of Multidisciplinary Studies and Innovative Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijmsit/issue/69913/1119738
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2440860

@@ -1,0 +1,7 @@
+Makale Başlığı: Müşteri Kayıplarının Tahmini Üzerine Bir Veri Madenciliği Uygulaması
+Özet: Müşteri memnuniyeti ve sadakati uygun fiyat, ürün çeşitliliği, hızlı tedarik ve sevkiyat, ürün kalitesi, satış öncesi ve sonrası hizmetler ve müşteri davranışlarının analiz edilmesi ile sağlanır. Müşteri davranışlarını analiz eden işletmeler hem mevcut müşterilerini koruyabilir hem de yenilerini kazanabilir. Bu çalışmanın amacı işletmeleri terk etme ihtimali olan müşterileri tahmin edebilen gözetimli modeller üretmektir. Bu amaçla toplamda 21 sınıflandırma yöntemi ve telekomünikasyon, bankacılık ve e–ticaret sektörlerine ait veri kümeleri kullanılarak deney çalışmaları gerçekleştirilmiştir. Ayrıca işletmelerin harcama alışkanlıklarına göre müşterileri sıralamak ve sınıflandırmak için kullandıkları basit ama etkili bir pazarlama analiz aracı olan RFM (Recency, Frequency, Monetary Value) bölümlemesi, Ki-Kare Testi ile birlikte boyut indirgeme metodu olarak kullanılmıştır. Böylelikle optimal eleman sayısına sahip öznitelik altkümelerinin elde edilmesi ve öznitelik seçim öncesi ve sonrası model performanslarının kıyaslanması hedeflenmiştir.
+Yazar isimleri: ['Mustafa BÜYÜKKEÇECİ', 'Mehmet Cudi OKUR']
+Yayın Yılı: 19 Eylül 2022
+Dergi ismi: Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/deumffmd/issue/72304/1021111
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2071528

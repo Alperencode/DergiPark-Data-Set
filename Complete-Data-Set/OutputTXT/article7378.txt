@@ -1,0 +1,7 @@
+Makale Başlığı: A COMPUTATIONAL DETERMINATION OF A NOZZLE ACTIVATED FIXED-WING UAV
+Özet: This paper proposes new methods and strategies for the propulsion of a mini Unmanned Aerial Vehicle (UAV). Typically, the UAVs are propelled by new technology batteries, fossil fuels, and hybrid systems. An experimental research regarding the usage of compressed air has been carried out.  In total 13 nozzles have been installed to the fuselage of the UAV in terms of gaining 3-axis movement during flight. At the end of the manuscript, a MATLAB (Mathworks, US) program is provided in terms of calculating the maximum force and the flying time with the gained force. The UAV, whose design is presented, will be ideal for both defense and border security tasks, as it can move over the vehicle, has extremely high portability, and has a small physical footprint.
+Yazar isimleri: ['Tamer SARAÇYAKUPOĞLU', 'Heyzem Doğukan DELİBAŞ', 'Ahmet Devlet ÖZÇELİK']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: International Journal of 3D Printing Technologies and Digital Industry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ij3dptdi/issue/71295/1128158
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2475688

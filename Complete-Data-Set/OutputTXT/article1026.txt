@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Ücret Politikaları ve Gelir Dağılımı Eşitsizliği İlişkisi
+Özet: Gelir dağılımındaki eşitsizlikle mücadelede önemli stratejilerden biri, emek faktörünün gelirini artırmaya yönelik ücret politikalarıdır. Zira ücret, milli gelirde en büyük paya sahip faktör geliridir. Bu bağlamda çalışmada, Türkiye’de ücret politikalarının gelir dağılımı eşitsizliğini nasıl etkilediği irdelenmektedir. ARDL Sınır Testi Yaklaşımı ile analiz edilen ekonometrik modelin bağımlı değişkeni gelir dağılımını temsilen Gini katsayısı, bağımsız değişkenleri ise özel sektör ücretlerini temsilen özel bir havayolu şirketinin ortalama ücretleri ve asgari ücrettir. Çalışmanın bulgularına göre asgari ücretteki %1’lik bir artış Gini katsayısını %0.061 oranında azaltmakta; özel sektör ücretlerindeki %1’lik bir artış ise Gini katsayısını %0.051 oranında artırmaktadır. Bu sonuç asgari ücret politikalarının eşitsizliği azaltmada önemli rol oynadığını; özel sektör ücret artışlarının ise eşitsizliği artırdığını ima etmektedir. Ayrıca nedensellik analizine göre bu ilişki kısa dönemde de geçerlidir.
+Yazar isimleri: ['Abdullah Miraç BÜKEY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1000256
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1992636

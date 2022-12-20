@@ -1,0 +1,7 @@
+Makale Başlığı: LabVIEW'de Kombinatoryal Arı Algoritması Araç Setinin Geliştirilmesi
+Özet: Bu çalışmada kombinatoryal problemler için LabVIEW'de geliştirilen Arı Algoritması (AA) Optimizasyon Araç Seti sunulmaktadır. LabVIEW, ölçüm ve kontrol uygulamalarında kullanılan, oldukça verimli bir geliştirme ortamıdır. Bu çalışma ise LabVIEW'un kombinatoryal optimizasyon bölümüne katkıda bulunmak amacıyla hazırlanmıştır. Bal arılarının polen bulma stratejisinden esinlenerek geliştirilen AA'nın tüm bölümleri, LabVIEW'de adım adım kodlanmıştır. Araç seti ile gezgin satıcı problemi üzerinde deneysel çalışmalar gerçekleştirilmiştir. Deneyler sonucunda 100 şehirlik problemlerde binde 3 ve daha küçük değerlerde, 150-200 şehirlik problemlerde ise %1.41'den daha küçük değerlerde sonuçlar elde edilmiştir. Ayrıca farklı optimizasyon algoritmaları ile gerçekleştirilen karşılaştırmalarda da daha iyi sonuçlar alındığı görülmüştür.
+Yazar isimleri: ['Murat ŞAHİN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1077522
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2269233

@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of the Current Account Balance in the Turkish Economy with NARX: A Non-linear Approach
+Özet: This paper reveals that the current account balance is a crucial macroeconomic performance indicator in the Turkish economy. For this purpose, this paper employs multiple independent variables that penetrate the macroeconomy significantly for the empirical analysis of Turkey’s current account balance. NARX Artificial Neural Network, a robust and non-linear statistical method, is used for the empirical analysis in this study. The outcome of the analysis demonstrates that over 90% of the current account balance can be explained by multiple independent variables, which have a significant impact on the macroeconomy. This empirical finding denotes that the current account balance is strongly related to a complex and multiple set of macroeconomic variables. Consequently, considering the current account balance as a critical macroeconomic performance indicator is crucial for the Turkish economy. In this context, the performance evaluation of the political-economic system in Turkey should be based on the current account balance.
+Yazar isimleri: ['Tayfun Tuncay TOSUN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Ticaret ve Ekonomi Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/utead/issue/72600/1081318
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2283777

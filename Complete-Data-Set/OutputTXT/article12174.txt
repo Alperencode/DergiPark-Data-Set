@@ -1,0 +1,7 @@
+Makale Başlığı: Determining The Fatigue Life of Commercial Passenger Bus With Virtual Analysis
+Özet: Commercial companies provide a life guarantee to their customers at a certain mileage during the service life of the vehicles they have designed. Within the scope of this study, fatigue life damages of a commercial vehicle were calculated using finite element and vehicle dynamics package programs. Before the finite element and vehicle dynamics analyses, real road data was collected with the test vehicle. The collected road data was used as input for the analyses. The correlation between the virtual vehicle model and the physical vehicle model has been provided. Dec. As a result of the analysis of the correlated virtual vehicle model, the results obtained guided the design changes made at the vehicle development stage. In this way, it is ensured that the vehicles serve within the desired working life without structural damage.
+Yazar isimleri: []
+Yayın Yılı: 9 Haziran 2022
+Dergi ismi: Mühendis ve Makina
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muhendismakina/issue/70148/1127300
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2471998

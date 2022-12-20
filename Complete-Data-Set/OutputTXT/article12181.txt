@@ -1,0 +1,7 @@
+Makale Başlığı: Derin Öğrenme Metodu ve Ayrık Dalgacık Dönüşümü Kullanarak BT Görüntülerinden Akciğer Kanseri Teşhisi
+Özet: 
+Yazar isimleri: ['Mehmet Akif CİFCİ']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1114243
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2417866

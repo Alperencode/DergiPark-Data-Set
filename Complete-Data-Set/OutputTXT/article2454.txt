@@ -1,0 +1,7 @@
+Makale Başlığı: Graph Visualization of Cyber Threat Intelligence Data for Analysis of Cyber Attacks
+Özet: Threat intelligence enables us to make faster, more informed, data-backed security decisions and change their behavior from reactive to proactive in the fight against threat actors. Cyber threat intelligence sources include open-source intelligence, social media intelligence, human intelligence, technical intelligence, device log files, forensically acquired data or intelligence from the internet traffic, and data derived for the deep and dark web. In this study, graph visualization is discussed for the intelligible and accurate analysis of complex cyber threat intelligence data, including network attacks. The processes of collecting, cleaning, organizing, and visualizing cyber intelligence data in different formats and contents on a single platform are given step by step. Dynamic graphs play an active role in these systems, where the attack locations and targets from different points are constantly variable. Therefore, research on dynamic graph solutions and visualization in the visual analysis of cyberattacks is presented.
+Yazar isimleri: ['Mücahit SÜLÜ', 'Resul DAŞ']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/1090145
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2319235

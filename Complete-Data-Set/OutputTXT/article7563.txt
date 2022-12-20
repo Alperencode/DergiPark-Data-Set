@@ -1,0 +1,7 @@
+Makale Başlığı: Onset, Cessation, and Seasonality of Rainfall during Monsoon in Gujarat State of India
+Özet: Rainfall onset, cessation and its temporal rainfall distribution is very important for monsoon based crop production. Climatic timeseries data of 26 stations of Gujarat state were chosen for the study. Year wise agroclimatic onset, cessation, length, and seasonality of rainy season were determined. Long term average over the timeseries were considered as climatic normals to characterize rainfall pattern to support kharif crop production.  Onset starts in South Gujarat from 8th June and it cover the entire state by 6th July at Kutch, with large variation. Cessation of rainy season ranges from 6th September to 21st September in Gujarat. Length of active rainy season prevails from 66 days (at Bhachau) to 96 days (at Ubharat) with state mean of 81 days. Most part of the state has seasonal rainfall regime with dry periods. Rainfall seasonality monsoon season in Gujarat has not changed significantly during recent past.
+Yazar isimleri: ['Manoj LUNAGARİA']
+Yayın Yılı: 8 Eylül 2022
+Dergi ismi: International Journal of Environment and Geoinformatics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijegeo/issue/68801/995825
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1975831

@@ -1,0 +1,7 @@
+Makale Başlığı: Treatment of industrial contaminants with zero-valent iron- and zero-valent aluminium-activated persulfate: a case study with 3,5-dichlorophenol and 2,4-dichloroaniline
+Özet: Zero-valent iron (ZVI)- and zero-valent aluminium (ZVA)-activated persulfate (PS) oxidation procedure was applied to remove the industrial pollutants 3,5-dichlorophenol (3,5-DCP; 12.27 mu M) and 2,4-dichloroaniline (2,4-DCA; 12.34 mu M) from aqueous solutions. The effects of PS concentration and pH were investigated to optimize heterogeneous treatment systems. Negligible removals were obtained for both pollutants by individual applications of nanoparticles (1 g/L) and PS (1.00 mM). PS activation with ZVI resulted in 59% (1.00 mM PS; 1 g/L ZVI; pH 5.0; 120 min) and 100% (0.75 mM PS; 1 g/L ZVI; pH 5.0; 80 min) 3,5-DCP and 2,4-DCA removals, respectively. The ZVA/PS treatment system gave rise to only 31% 3,5-DCP (1.00 mM PS; 1 g/L ZVA; pH 3.0; 120 min) and 47% 2,4DCA (0.25 mM PS; 1 g/L ZVA; pH 3.0; 120 min) removals. The pH decreases from 5.0 to 3.0 and from 3.0 to 1.5 enhanced contaminant removals for ZVI/PS and ZVA/PS treatments, respectively. Pollutant removal rates were in correlation with the consumption rates of the oxidants. Metal ion (Al, Fe) release increased in the presence of PS and with decreasing pH.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944554
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1794269

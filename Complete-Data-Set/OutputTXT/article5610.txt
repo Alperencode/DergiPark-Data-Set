@@ -1,0 +1,7 @@
+Makale Başlığı: Finite Element Analysis of Safety Pin in Snowplow Equipment
+Özet: 
+Yazar isimleri: ['Mehmet Şükrü ADİN', 'Hamit ADİN', 'Raşit Koray ERGÜN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: European Journal of Technique
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejt/issue/69477/1086422
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2304127

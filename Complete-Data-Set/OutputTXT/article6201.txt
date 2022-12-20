@@ -1,0 +1,7 @@
+Makale Başlığı: ÇOK KRİTERLİ KARAR VERME YÖNTEMLERİ ÜZERİNE LİTERATÜR İNCELEMESİ
+Özet: Bu çalışmada, literatürde yer alan çok kriterli karar verme yöntemlerinin kullanıldığı bazı çalışmaların incelenmesi amaçlanmıştır. Bu doğrultuda, çok kriterli karar verme teknikleri konusunda 2006-2020 yılları arasını kapsayan, 9 tanesi benzer çalışmalarda geçen literatür incelemeleri olmak üzere toplamda 47 adet çalışma incelenmiştir. Bu çalışmaları yıllara göre gruplandırarak, yöntemlerin kullanım oranlarına bakılmıştır. Genel olarak çalışmalar, yıllar düzeyinde 5 gruba ayrılmış ve her bir grup içerisinde farklı sayılarda çalışma incelenmiştir. Çok kriterli karar vermeyle ilgili, 2006-2008 yılları arasında 4; 2009-2011 yılları arasında 12; 2012-2014 yılları arasında 14; 2015-2017 yılları arasında 11 makale ve son olarak 2018-2020 yılları arasında yayınlanan 6 makale incelenmiştir. Çalışma sonucunda; en çok kullanılan yöntemin TOPSIS olduğu, AHP, PROMETHEE, TOPSIS ve VIKOR yöntemlerinin incelenen her yıl grubunda çalışmalarına rastlanarak en popüler yöntemler oldukları bulgusuna ulaşılmıştır.
+Yazar isimleri: ['Eda DALBUDAK', 'Ömer Faruk RENÇBER']
+Yayın Yılı: 20 Mayıs 2022
+Dergi ismi: Gaziantep Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gauniibf/issue/69952/1068692
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2234532

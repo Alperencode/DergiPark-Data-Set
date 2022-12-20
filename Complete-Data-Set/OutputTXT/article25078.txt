@@ -1,0 +1,7 @@
+Makale Başlığı: Revisiting the Income, Energy Consumption and Carbon Emissions Nexus: New Evidence from Quantile Regression for Different Country Groups
+Özet: The Environment Kuznets Curve (EKC) hypothesis has been widely tested in the energy economics literature. However, previous studies focused only on the mean effects and have not yet examined the role of pollution levels in the income-pollution nexus. This paper uses quantile regression to reexamine the effect of economic growth and energy consumption on dioxide carbon (CO2) emissions for five panels of 59 countries. The results reveal that energy consumption increases CO2 emissions in all panels, the effect being larger in low pollution countries. They also provide evidence supporting the EKC hypothesis for Sub-Saharan, American and European countries at all quantiles, and for Asian and MENA countries at lower levels of CO2 emissions. These findings suggest that economic growth is not everywhere and always the cause and the cure of pollution. Therefore, environmental control policies should be tailored differently across low and high pollution countries.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351262
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361803

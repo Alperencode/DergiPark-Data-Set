@@ -1,0 +1,7 @@
+Makale Başlığı: Determining the design parameters for manufacturing a shell and tube heat exchanger with minimum cost using The Bees Algorithm
+Özet: The shell and tube heat exchanger is one of the commonly used heat exchangers. Minimizing the cost required to manufacture these heat exchangers is one of the main objectives for designers and users. This study determined the necessary design parameters for a shell and tube heat exchanger to be manufactured with minimum cost using The Bees Algorithm (BA). These design parameters are the shell side inside diameter, the tube side outside diameter, and the baffle spaces. The system mathematical model is created to find the optimum values of these parameters, the necessary boundary conditions are determined, and an optimization study is carried out. The cost obtained by BA $ 11187.86 compared with GA $ 11190.17 and SPQ $ 18429.4 from the literature. It is observed that The Bees Algorithm (BA) gives successful results in the design of shell and tube heat exchangers.
+Yazar isimleri: ['Yusuf Ziya AKMAN', 'Abdullah ÇAKAN', 'Ahmet Ali SERETKAYA', 'Mete KALYONCU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Energy Applications and Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeat/issue/70979/1101404
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2365973

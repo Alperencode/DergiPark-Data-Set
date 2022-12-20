@@ -1,0 +1,7 @@
+Makale Başlığı: Yeni Sentezlenmiş ve Karakterize Edilmiş Benzimidazolyum Tuzlarının Yoğunluk Fonksiyonel Teorisi ve Moleküler Doking Analizi
+Özet: N-heterosiklik karbenler ailesinin önemli bir üyesi olan benzimidazoller, farmasötik aktivitelerinin yanı sıra katalitik özellikleri ile de dikkat çekmektedir. Bu moleküllerin sentezlenmesi ve türevlendirilmesi nispeten kolay olduğundan, bu bileşikler istenen özelliklere sahip yeni türlerin ve bu türlerin metal komplekslerinin sentezinde sıklıkla kullanılırlar. Bu tür farmasötik moleküllerin doku ve kan bileşenleri ile etkileşimleri önemlidir. Biyoaktif türlerin kandaki en önemli proteinlerden biri olan serum albümini ile etkileşimi sıkça çalışılan bir konudur ve bu araştırmalarda Sığır Serum Albümin sıklıkla kullanılmaktadır. In-siliko yöntemler birçok avantaj sağlar ve deneysel prosedürlerden önce önemli bilgiler verir. Bu çalışmada iki yeni benzimidazolyum tuzu sentezlenmiş ve karakterize edilmiştir. Moleküllerin yapısal analizi DFT tabanlı hesaplama yöntemleri ile analiz edildikten sonra, Global Reaktivite Tanımlayıcıları ile moleküllerin reaktiviteleri de incelenmiştir. Ayrıca moleküllerin Sığır Serum Albümin ile etkileşimleri moleküler doking yöntemleri ile analiz edildi.
+Yazar isimleri: ['Elvan ÜSTÜN', 'Neslihan ŞAHİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Ordu Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ordubtd/issue/70313/1117826
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2432904

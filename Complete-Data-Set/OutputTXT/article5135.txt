@@ -1,0 +1,7 @@
+Makale Başlığı: Statistical Properties of Right-Truncated Lomax Distribution and an Application
+Özet: In this study, a new distribution, truncated Lomax distribution, is introduced. The Lomax distribution was used to obtain the distribution. The basic statistical properties of the obtained distribution are explained and probability density function, cumulative distribution function, hazard function, survival function, and quantile function are given. In addition, moments of skewness and kurtosis coefficients were obtained. The parameter estimation of the distribution was found using the maximum likelihood estimation method. Then, with an application study, it was concluded that the truncated Lomax distribution fits the data set of interest better than the distributions available in the literature.
+Yazar isimleri: ['Ceren ÜNAL', 'Gamze ÖZEL']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/1065122
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2220942

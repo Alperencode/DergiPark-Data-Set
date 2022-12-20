@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı Renk Kanallarında Üretilen Doku Özniteliklerinin Yüz Sahteciliği Tespiti Başarımına Etkisinin İncelenmesi
+Özet: Yüz tanıma sistemleri temassız olmaları ve kullanım kolaylığından dolayı pek çok uygulamada kendine yer bulmaktadır. Fakat teknolojinin gelişimi ve bilgiye erişimin kolaylaşması nedeniyle bu sistemler, sahte yüzler kullanılarak yapılan saldırılara karşı dayanıksızdır. Bu çalışmada, farklı renk uzaylarındaki kanallardan çıkarılan doku özniteliklerinin yüz sahteciliği tespitindeki başarımı incelenmiştir. Bu amaçla HSV, YCbCr ve daha önceden bu alanda kullanılmayan L*a*b* renk uzaylarının kanallarından çıkarılan çok seviyeli yerel ikili örüntü özniteliklerinin çeşitli birleşimleri ile yüz sahtecilik tespiti gerçekleştirilmiştir. Öznitelik vektörleri temel bileşenler analizi ile küçültülüp, destek vektör makinesi sınıflayıcısının eğitiminde kullanılmıştır. CASIA ve Replay-Attack veri setleri üzerinde yapılan deneylerde farklı kanallardan çıkarılan öznitelik birleşimlerinin yüz sahteciliği tespitinde başarılı olduğu görülmüştür.
+Yazar isimleri: ['Asuman GÜNAY YILMAZ', 'Uğur TURHAL', 'Vasif NABİYEV']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbbmd/issue/70571/1075383
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2260834

@@ -1,0 +1,7 @@
+Makale Başlığı: Sentiment Analysis on the Metaverse: Twitter Data
+Özet: 
+Yazar isimleri: ['Gulsum AKKUZUKAYA']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Sakarya University Journal of Computer and Information Sciences
+Yayın sayfa url: http://saucis.sakarya.edu.tr/tr/pub/issue/72246/1088304
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2311489

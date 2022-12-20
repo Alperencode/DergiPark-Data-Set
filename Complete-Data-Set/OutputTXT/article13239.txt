@@ -1,0 +1,7 @@
+Makale Başlığı: Existence and controllability of fractional evolution inclusions with impulse and sectorial operator
+Özet: Many evolutionary operations fromdiverse fields of engineering and physical sciences go throughabrupt modifications of state at specific moments of time among periods of non-stop evolution.These operations are more conveniently modeled via impulsive differential equations and inclusions.In this work, firstly we address the existence of mild solutions for nonlocal fractional impulsivesemilinear differential inclusions related to Caputo derivative in Banach spaces when thelinear part is sectorial. Secondly, we determine the enough, conditions for the controllability ofthe studied control problem. We apply effectively fixed point theorems, contraction mapping,multivalued analysis and fractional calculus. Moreover, we enhance our results by introducing anillustrative examples.
+Yazar isimleri: ['Nawal ALSARORİ', 'Kirtiwant GHADLE']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1018780
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2062356

@@ -1,0 +1,7 @@
+Makale Başlığı: Darboux transformation for soliton solutions of the modified Kadomtsev-Petviashvili-II equation
+Özet: Soliton solutions as far as hyperbolic cosines to the modified Kadomtsev–Petviashvili II equation are displayed. Thebehaviour of each line soliton in the far region can be characterized analytically. It is revealed that under certain conditions, there mayappear an isolated bump in the interaction centre, which is much higher in peak amplitude than the surrounding line solitons, and themore line solitons interact, the higher isolated bump will form. These results may provide a clue to generation of extremehigh-amplitude waves, in a reservoir of small waves, based on nonlinear interactions between the involved waves.
+Yazar isimleri: []
+Yayın Yılı: 31 Aralık 2018
+Dergi ismi: Communication in Mathematical Modeling and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cmma/issue/42352/509725
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/621232

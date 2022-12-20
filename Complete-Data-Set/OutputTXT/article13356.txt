@@ -1,0 +1,7 @@
+Makale Başlığı: Investigating translation quality assessment on movie subtitling: Overt and covert analysis based on House’s TQA model
+Özet: This paper examines the role of translation quality assessment in movie subtitling. Hence, the researchers applied House’s (2015) translation quality assessment model as the main model in this study to investigate appropriate translations in subtitling based on overt and covert strategies. This study is a corpus-based, descriptive and non-judgmental analysis of the English-Persian parallel corpus. Moreover, this research comprises English audio scripts of four American movies with 956 frames in Persian subtitles. The result indicated that the overt translation strategy at 75% was used more, and translators made an effort to take advantage of this strategy to convey the message from the source language into the target language. However, the covert translation strategy was only used in 25% because of the limitation of time in subtitling.
+Yazar isimleri: []
+Yayın Yılı: 21 Ekim 2022
+Dergi ismi: RumeliDE Dil ve Edebiyat Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rumelide/issue/73128/1190401
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2713621

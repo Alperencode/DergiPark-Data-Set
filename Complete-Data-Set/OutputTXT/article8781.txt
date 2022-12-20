@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye'nin Mali Tepki Fonksiyonunun Tahmin Edilmesi: Sıralı Probit Yaklaşımı
+Özet: Bu çalışmanın iki temel amacı vardır. Birincisi, 2006:1-2020:3 döneminde Türkiye için bir mali duruş endeksi hesaplamak ve böylece maliye politikasının örneklem dönemindeki tutumunu ortaya koymaktır. İkincisi, mali duruş endeksinden hareketle, bir maliye politikası tepki fonksiyonu tahmin etmektir. Sıralı probit modelini kullanarak elde edilen bulgulara göre, nispeten mali disiplinin sağlandığı ve TCMB’nin açık enflasyon hedeflemesi rejimini takip ettiği 2006:1-2020:3 döneminde maliye politikası genellikle genişletici nitelikte uygulanmış ve herhangi bir kurallı bir maliye politikası takip edilmemiştir. Bu sonuç, Türkiye’de maliye politikasının duruma koşullu olarak uygulandığını ve para otoritesinin tutumundan bağımsız bir davranış sergilediğini göstermesi bakımından önemlidir.
+Yazar isimleri: ['Metin TETİK', 'Reşat CEYLAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: JOEEP: Journal of Emerging Economies and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joeep/issue/66260/938296
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1772294

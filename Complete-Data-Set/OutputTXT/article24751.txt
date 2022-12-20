@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de İç Borç Stokunun Ekonomik Büyümeye Olan Etkisinin Analizi
+Özet: Çalışmada, Türkiye’de iç borç stokunun ekonomik büyüme üzerindeki etkisi, Neoklasik Büyüme Modelinden yararlanılarak 1980-2016 dönemi için Solow Kalıntısını da içeren bir model aracılığıyla Engle-Granger Eşbütünleşme Testi ile analiz edilmektedir. Ayrıca modele bir ekonomideki kamu harcamaları ve alt bileşenlerinin üzerinde bir kısıt oluşturmasından dolayı iç borç stoku değişkeni eklenmiştir. Böylece model, Geleneksel Neoklasik Büyüme Modelinden farklılaşmıştır. Çalışmadaki ampirik bulgular, uzun dönemde kişi başı çıktı büyümesi, toplam faktör verimliliği, kişi başı sermaye büyümesi ve iç borç stokunun birlikte hareket ettiğini ortaya koymaktadır. Toplam faktör verimliliği ve kişi başı sermaye büyümesinin, kişi başı çıktı büyümesi üzerinde pozitif etkiye sahip olduğu tespit edildiğinden Türkiye’de 1980-2016 döneminde Neoklasik Büyüme Modeli doğrulanmaktadır. İç borç stokunun kişi başı çıktı büyümesi üzerindeki negatif etkisi ise, iç borçlanmanın ekonomik büyümeyi azaltıcı yönde olduğunu ifade etmektedir
+Yazar isimleri: ['Gonca BIYIK']
+Yayın Yılı: 1 Eylül 2018
+Dergi ismi: Finans Politik ve Ekonomik Yorumlar
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fpeyd/issue/47979/607026
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/787454

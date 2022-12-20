@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRKİYE’DE MİMARİ KORUMA VE RESTORASYON UYGULAMALARINDA TEKNİK ALTYAPI ENTEGRASYONUNA İLİŞKİN SORUNLAR VE ÇÖZÜM İLKELERİNE  İLİŞKİN BİR DEĞERLENDİRME
+Özet: Sunulan makale koruma ve restorasyon proje ve uygulamalarında ortaya çıkan teknik altyapı entegrasyonuna ilişkin sorunları örnekler ile irdelemekte ve sorunların çözümüne yönelik bir dizi ilke önerisi yapmaktadır.
+Yazar isimleri: ['Can Şakir BİNAN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Milli Saraylar Sanat Tarih Mimarlık Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/msdergisi/issue/73645/1200297
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2755015

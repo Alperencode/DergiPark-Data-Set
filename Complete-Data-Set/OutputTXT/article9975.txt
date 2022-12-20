@@ -1,0 +1,7 @@
+Makale Başlığı: ELECTROCONDUCTIVE POLYAMIDE FIBERS WITH GREEN SYNTHESIZED SILVER NANOPARTICLES
+Özet: The objective of this research is to study antibacterial and antistatic properties of polyamide yarn which coated silver nanoparticles and carboxymethylstarch (CMS). Silver nanoparticles were synthesized by a green synthesis method and coated onto polyamide (PA) fibers. The presence of nanosilver onto yarns was confirmed by scanning electron microscope (SEM), UV–visible spectra (UV-Vis) and X-ray diffraction (XRD) techniques. The concentration of silver deposited on the composite PA yarns was measured by ICP-OES spectroscopy. Electrical conductivity of composite yarns was measured by four point conductivity measurement technique and was changed from 1.452x10-5 to 2.853x10-3 S/cm.
+Yazar isimleri: ['Şeyma KANARA', 'Neslihan OKYAY', 'Fatih IŞIK', 'Suat CETİNER']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1149666
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2560852

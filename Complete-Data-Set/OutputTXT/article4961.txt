@@ -1,0 +1,7 @@
+Makale Başlığı: Poet Classification Using ANN and DNN
+Özet: 
+Yazar isimleri: ['Ekin EKİNCİ', 'Hidayet TAKCI', 'Sultan ALAGÖZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Electronic Letters on Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/else/issue/70851/1053684
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2175986

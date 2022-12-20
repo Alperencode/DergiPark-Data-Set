@@ -1,0 +1,7 @@
+Makale Başlığı: Experimental Determination of Torsional Coefficients of Torsion Shafts Used in Heavy Commercial Vehicle Hydraulic Steering
+Özet: In this study, the torsional stiffness of torsion shafts that provide recovery in heavy commercial vehicle powersteering was calculated theoretically, numerically and experimentally. In the numerical study, using the ANSYS program, the neck torque value, which is the maximum torsion amount of the torsion shaft, which is 7° torsion, was obtained. Torque-angle graphs of the samples were obtained in the test setup using the torque-angle sensor, and the torsion coefficients were experimentally calculated for torsion in the extreme torsion range of +/-7°. When the experimental torsion coefficient values obtained were compared with the theoretical and numerical values, the experimental measurement gave higher results than the theoretical values. It has been observed that the effective torsion coefficient is approximately %5 higher than the theoretical value. In our study, torsional natural vibration frequency depending on torsional stiffness was obtained theoretically and numerically for 5 different samples, and the effects of torsion shaft resonance on the steering mechanism were discussed.
+Yazar isimleri: ['Ozan ÖZDEMİR', 'İbrahim DALMIŞ', 'Özmen ERUSLU']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/994562
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1971044

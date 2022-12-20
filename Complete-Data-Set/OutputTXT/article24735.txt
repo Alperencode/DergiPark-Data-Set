@@ -1,0 +1,7 @@
+Makale Başlığı: DOĞU ANADOLU BÖLGESİNDE AKILLI ÖĞRETİM SİSTEMLERİ İÇİN ÖĞRENCİ DAVRANIŞLARININ MARKOV MODELİ İLE BELİRLENMESİ
+Özet: İdealkoşullarda Akıllı Öğretim Sistemlerinde öğrenci modeli, öğrencinin performansve öğrenimini etkileyebilecek tüm davranış ve bilgileri kapsamalıdır. Bunedenle, öğrenci modelinin oluşturulması oldukça zordur. Ancak eğitimde son yapayzeka uygulamaları, önemli gelişmelerle sonuçlanmıştır. Bu çalışmada, öğrencininöğretim aktivitelerine karşı olası tepkilerinin belirlenmesine yardımcı olmakamacıyla Gizli Markov modeli önerilmekte ve önerilenyapının avantajları irdelenmektedir.
+Yazar isimleri: ['Müzeyyen BULUT ÖZEK']
+Yayın Yılı: 30 Nisan 2011
+Dergi ismi: Fırat Üniversitesi Doğu Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fudad/issue/47204/594732
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/766714

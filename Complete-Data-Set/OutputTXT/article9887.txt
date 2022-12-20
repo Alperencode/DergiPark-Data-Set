@@ -1,0 +1,7 @@
+Makale Başlığı: IN THE CONTEXT OF BEHAVIORAL FINANCE, DO INVESTOR CHARACTERISTICS AFFECT STOCK HOLDING PERIOD?
+Özet: The aim of this study is to determine whether the holding period of stocks varies according to the socio-economic characteristics of the investors. According to the logit model results, it has been determined that there is a significant relationship between the variables of BIST investors' occupation, the type of asset most invested in, the number of years invested in stocks, the annual stock investment amount and the variables of following the market every day and the period of holding the stock. The results reveal that  those who invest in foreign currency are 0,172 times less likely to hold their stocks than those who have invested in shares and in terms of the time it takes to start investing in stocks, those who have invested for 1 to 3 years are 1,72 times more likely to hold the stock than those who have invested for less than 1 year. It shows that those who have invested for 3 to 6 years are 2.5 times more likely to hold the stock than those who have invested for less than 1 year.
+Yazar isimleri: ['Abdulmuttalip PİLATİN']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Kafkas Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kauiibf/issue/70698/1096022
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2343056

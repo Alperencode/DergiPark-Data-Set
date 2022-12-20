@@ -1,0 +1,7 @@
+Makale Başlığı: Rüzgar enerji uygulamaları için Weibull dağılım parametrelerinin tahmini: Türkiye’nin Dinar bölgesi için bir çalışma
+Özet: Bu çalışmada, Dinar bölgesinin rüzgar enerji karakteristiğinin incelemesi yapılmıştır. Çalışmada ihtiyaç duyulan rüzgar verisi Meteoroloji Genel Müdürlüğü’nün Dinar Meteoroloji İstasyonu tarafından sağlanmıştır. Rüzgar verileri Haziran 2015 – Mayıs 2020 yılları arasında saatlik olarak kaydedilmiştir.Bölgenin rüzgar karakteristiğinin incelenmesinde iki değişkenli Weibull olasılık dağılım fonksiyonu kullanılmıştır. Olasılık dağılım fonksiyonun şekil (k) ve ölçek(c) değişkenlerinin hesaplanmasında ise altı farklı yöntem kullanılmıştır. Bunlar moment, grafik, Justus empirik, enerji eğilim, enerji pattern ve en yüksek olabilirlik yöntemleridir. Bu yöntemlerin performansları ise dört farklı istatistiksel hata analiz yöntemi ile karşılaştırılmıştır. Bunlar sırasıyla ortalama karekök hatası (RMSE), belirleme katsayısı (R2), ki-kare hatası (X2) ve ortalama mutlak hata (MAE)’dır. Elde edilen sonuçlara bakıldığında en yüksek olabilirlik ve enerji eğilim yöntemleri Weibull parametrelerinin hesabında en başarılı yöntemler olmuştur. Ayrıca bu çalışma, bölgenin rüzgar enerji karakteristiğini belirlemede önemli bir ön çalışma niteliği taşımaktadır.
+Yazar isimleri: ['Okan BİNGÖL']
+Yayın Yılı: 30 Nisan 2022
+Dergi ismi: Uluslararası Teknolojik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/utbd/issue/70014/1033090
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2117589

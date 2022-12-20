@@ -1,0 +1,7 @@
+Makale Başlığı: INVESTIGATION OF FLUID-STRUCTURE INTERACTION BY USING SOLIDITY RATIO
+Özet: 
+Yazar isimleri: ['Begum Yurdanur DAGLİ', 'Yesim TUSKAN', 'Dilay UNCU']
+Yayın Yılı: 1 Aralık 2019
+Dergi ismi: Eurasian Journal of Civil Engineering and Architecture
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejcar/issue/49593/602516
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/835399

@@ -1,0 +1,7 @@
+Makale Başlığı: Sb+5/Mg+2 Çift İkameli In2O3 Şeffaf İletken Oksitlerin Farklı Sıcaklıklarda Katı Hal Reaksiyon Yöntemi ile Sentezi ve Karakterizasyonu
+Özet: Modern teknolojide saydam iletken oksitler kritik bir rol oynamaktadır. En popüler saydam iletken oksitlerden biri indiyum kalay oksittir. Ancak, az bulunurluğu nedeniyle indiyum pahalı bir metaldir. Bu çalışmada, Sb+5/Mg+2 birlikte ikame edilmiş In2O3 saydam iletken oksit malzemelerin (MISO olarak adlandırılan Mg2X/3In2-XSbX/3O3) sentezlenmesi için yüksek sıcaklıkta katı hal reaksiyonları yöntemi kullanılmıştır. Bu çalışmada indiyum oranı düşürülerek ve Sb+5/Mg+2 ikame edilerek düşük maliyetli saydam iletken oksitler üretilmiş ve ikame malzeme oranının indiyum oksidin yapısal, elektriksel ve optiksel özelliklerine etkisi sırasıyla XRD, Hall ölçüm sistemi ve UV-Vis spektrometresi ile incelenmiştir. Numuneler 1250 °C ve 1350 °C sıcaklıklarda toz ve pelet olarak hazırlanmıştır. Numunelerin biksbit yapısında kristalleştiği gözlemlenmiştir. 1350 °C'de üretilen MISO örneklerinin bant boşlukları, 1250 °C'de sentezlenenlerden daha düşük bulunmuştur. Dört noktalı problarla yapılan elektriksel analizler, malzemelerin n-tipi elektrik iletkenliğine sahip olduğunu göstermiştir.
+Yazar isimleri: ['Nazmi SEDEFOĞLU', 'Ayşenur ŞAHİN']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1167319
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2617219

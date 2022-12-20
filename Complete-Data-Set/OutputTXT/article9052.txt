@@ -1,0 +1,7 @@
+Makale Başlığı: 3E, 5E ve FeTeMM ile Desteklenmiş Öğrenme Ortamının Sürdürülebilir Kalkınma Konusuna Etkisi
+Özet: Bu araştırmanın amacı, 3E, 5E ve FeTeMM ile desteklenmiş öğrenme ortamının sürdürülebilir kalkınma konusu üzerindeki etkisini incelemektir. Araştırmanın örneklemi 2018-2019 eğitim-öğretim yılında Van ilinin merkez bir ortaokulunda öğrenim görmekte olan 30 öğrenciden (16 erkek, 14 kız) oluşmaktadır. Araştırmada nicel ve nitel veriler bir arada kullanılmıştır. Araştırmada açıklayıcı desen yöntem kullanılmıştır. Nicel veriler, “Sürdürülebilir Kalkınmaya Yönelik Tutum Ölçeği (SÜKTÖ)” ve “Sürdürülebilir Kalkınmaya Yönelik Başarı Testi (SÜKYÖBAT)” ile toplanmıştır. Nitel veriler ise, “Yarı Yapılandırılmış Mülakat Formu” ile toplanmıştır. Araştırmadan elde edilen nicel veriler normal dağılım göstermediğinden non-parametrik (parametrik olmayan) testlerden Wilcoxon Signed Ranks testi ile analiz edilirken, nitel veriler ise içerik ve betimsel analize tabi tutularak analiz edilmiştir. Elde edilen sonuçlara göre, öğrencilerin sürdürülebilir kalkınmaya yönelik tutumlarında ve akademik başarılarında anlamlı bir artış meydana gelmiştir.
+Yazar isimleri: ['Mahmut ERKOL', 'Hüseyin ARTUN', 'Atilla TEMUR', 'Murat OKUR']
+Yayın Yılı: 23 Nisan 2022
+Dergi ismi: Journal of Computer and Education Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcer/issue/69325/1002914
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2002897

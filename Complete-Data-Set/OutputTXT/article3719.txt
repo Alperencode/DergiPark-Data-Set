@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı Film Kalınlıklı ve Katkı Maddeli Sera Örtü Malzemelerinin Solar Radyasyon Geçirgenliği
+Özet: Bu çalışmada CO-EX teknoloji ile üretilen farklı film kalınlıklı ve katkı maddeli polietilen (PE) sera örtü malzemelerinin global solar radyasyon ve fotosentetik etkin ışınım (PAR) geçirgenliğindeki değişimler araştırılmıştır.  Deneme 270 m2 taban alanlı 3 adet serada yürütülmüştür. Seraların örtü materyalleri 180 mikron UV+EVA+IR+LD+AF katkılı PE, 160 mikron UV+EVA+IR+LD+AF katkılı PE ve 200 mikron UV+ EVA+IR katkılı PE'dir. Çalışmada 180 mikron UV+EVA+IR+LD+AF katkılı PE, 160 mikron UV+EVA+IR+LD+AF katkılı PE ve 200 mikron UV+EVA+IR katkılı PE sera örtü malzemelerinin başlangıç toplam ışınım geçirgenlik değerlerinin sırasıyla %79.9, %68.3 ve % 66.0 olduğu saptanmıştır. 3 aylık bir periyotta ile sera örtü malzemelerinde geçirgenlik kaybının sırasıyla %9.9, %11.9 ve %13.5 olduğu belirlenmiştir. Çalışmada 180 mikron UV+EVA+IR+LD+AF  katkılı PE, 160 mikron UV+EVA+IR+LD+AF  katkılı PE ve 200 mikron UV+EVA+IR katkılı PE sera örtü malzemelerinin başlangıç PAR geçirgenlik değerlerinin sırasıyla %71.1, %66.8 ve % 64.9 olduğu saptanmıştır. Işınım geçirgenliğinin düşük olduğu 200 mikron kalınlıklı PE serada en düşük iç ortam sıcaklık değerleri elde edilmiştir.
+Yazar isimleri: ['Nefise Yasemin TEZCAN']
+Yayın Yılı: 25 Temmuz 2022
+Dergi ismi: ÇOMÜ Ziraat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/comuagri/issue/71399/1061561
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2206952

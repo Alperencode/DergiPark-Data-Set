@@ -1,0 +1,7 @@
+Makale Başlığı: On Fuzzy 2-absorbing Γ-ideals in Γ-rings
+Özet: The goal of this paper is to give a definition of a generalization of fuzzy prime $\Gamma $-ideals in $\Gamma $-rings by introducing fuzzy 2-absorbing $\Gamma $-ideals and fuzzy weakly completely 2-absorbing $\Gamma $-ideals of commutative $\Gamma $-rings and to give their properties. Furthermore, we give a diagram which transition between definitions of fuzzy 2-absorbing $\Gamma $-ideals of a $\Gamma $-ring. Finally, we introduce fuzzy quotient $\Gamma $-ring of $R$  induced by  the fuzzy weakly completely 2-absorbing $\Gamma $-ideal is a $2$-absorbing $\Gamma $-ring.
+Yazar isimleri: ['Serkan ONAR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/907088
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1674974

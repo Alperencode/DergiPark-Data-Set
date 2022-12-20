@@ -1,0 +1,7 @@
+Makale Başlığı: Kalsiyum Kaynağı Olarak Yumurta Kabuğu Atığı ve Genleştirilmiş Polistiren Granülleri Kullanılarak Gözenekli Anortit Seramik Üretimi
+Özet: Mevcut çalışma kapsamında yumurta kabuğu atığı, ateş tuğlası ve genleştirilmiş polistiren (EPS) karışımları kullanılarak gözenekli ve hafif anortit seramikler üretilmiştir. İlk olarak, farklı oranlarda yumurta kabuğu atığı ile hazırlanan karışım numuneleri, uygun anortit bileşimini belirlemek için farklı sıcaklıklarda pişirilmiştir. Yüksek oranda gözenekli anortit seramikler üretmek için belirlenen en uygun bileşime, farklı miktarlarda EPS ilavesi yapılmıştır ve belirli sıcaklıkta pişirilerek gözenekli numuneler üretilmiştir. Hacimce %0-%30 aralığında EPS ilavesi ile elde edilen karışımlardan başarılı bir şekilde yüksek gözenekli anortit seramikler üretilmiştir. Fiziksel özellikleri, basınç dayanımı ve ısıl iletkenlik değerleri incelenmiştir. Anortit seramiklerin termal iletkenliği yoğunluktaki azalmayla orantılı olarak 0,39 W/m·K (1,00 g/cm3)'den 0,11 W/m·K (0,78 g/cm3)'e bir azalma göstermiştir.  Elde edilen sonuçlara göre, yumurta kabuğu atıklarının yeniden kullanılmasıyla üretilen gözenekli anortit seramiklerinin, yüksek sıcaklıklar gerektiren uygulamalarda kullanıma uygun olduğu bulunmuştur.
+Yazar isimleri: ['Merve TORMAN KAYALAR', 'Ahmet YAVAŞ', 'Saadet GÜLER', 'Mücahit SÜTÇÜ']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/911758
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1692590

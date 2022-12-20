@@ -1,0 +1,7 @@
+Makale Başlığı: THE FUTURE OF ARTIFICIAL INTELLIGENCE: HOW WILL EMOTIONS AFFECT AI?
+Özet: Emotions are one of the most important elements of human behavior, and certain emotions can affect the performance of individuals positively or negatively and might block an individual's way of producing intelligent results. Therefore, when an ideal computer aims to imitate human behavior, it is not only expected to think and reason but also to have an infrastructure that can exhibit emotions. This article by reviewing the latest research that focuses on the importance of emotions in human intelligence, even though it still has weaknesses, aims to present a projection of how human-artificial intelligence communication may be affected in the future when artificial intelligence becomes fully capable of understanding, transferring, and responding to emotions.
+Yazar isimleri: ['Esin YÜCEL KARAMUSTAFA', 'Burcu ARSAN']
+Yayın Yılı: 16 Ağustos 2022
+Dergi ismi: Dijital Çağda İşletmecilik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jobda/issue/71839/1070090
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2240306

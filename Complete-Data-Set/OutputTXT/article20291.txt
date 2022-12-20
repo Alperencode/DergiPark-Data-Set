@@ -1,0 +1,7 @@
+Makale Başlığı: Generalized fermi derivative on the hypersurfaces
+Özet: In this paper, generalized Fermi derivative, generalized Fermi parallelism, and generalized non-rotating frame concepts are given along any curve on any hypersurface in Eⁿ⁺¹ Euclidean space. The generalized Fermi derivative of a vector field and being generalized non-rotating conditions are analyzed along the curve on the surface in Euclidean 3-space. Then a correlation is found between generalized Fermi derivative, Fermi derivative, and Levi-Civita derivative in E³. Then we examine generalized Fermi parallel vector fields and conditions of being generalized non-rotating frame with the tensor field in E⁴. Generalizations have been made in Eⁿ.
+Yazar isimleri: ['Ayşenur UÇAR', 'Fatma KARAKUŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: MANAS Journal of Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mjen/issue/70586/937100
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1767739

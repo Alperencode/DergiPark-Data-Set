@@ -1,0 +1,7 @@
+Makale Başlığı: Ramor 550 Çeliğinin Elektro Erozyon İşleme Metodu İle İşlenmesinde Proses Parametrelerinin Delik Çapına Etkisi
+Özet: Bu çalışmada, Ramor 550 zırh çeliğinin silindirik bakır elektrot kullanılarak elektro erozyon işleme (EEİ) ile talaş kaldırılması sonrasında işleme parametrelerinin malzeme yüzeyinde oluşan delik çapına etkisi araştırılmıştır. İşleme parametreleri olarak vurum süresi, bekleme süresi, amper ve sabit talaş derinliği seçilmiştir. Sonuçların istatiksel olarak analizini gerçekleştirmek için deney tasarımı Merkezi Kompozit Deney tasarımı ile 18 deney olarak tasarlanmıştır. Yapılan çalışmanın sonucunda, elektrot çapına en yakın delik çapının 3 amper, 225 µs vurum süresi ve 23 µs bekleme süresinde, en büyük delik çapının ise 9 amper, 225 µs vurum süresi ve 23 µs bekleme süresinde gerçekleştiği belirlenmiştir. İstatiksel olarak anova sonuçları incelendiğinde ise delik çapı için geliştirilen ikinci dereceden tahminsel denklemlerde; Linear modelde Amper miktarının (0,00004<0,05), vurum süresine ait etkinin (0,0003122<0,05) anlamlı olduğu, delik çapı için hata payı %9,13 olarak hesaplandığı tespit edilmiştir.
+Yazar isimleri: ['Engin NAS']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1074857
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2258643

@@ -1,0 +1,7 @@
+Makale Başlığı: Estimation of The Bearing Capacity of Treated Soils by Statistical Methods
+Özet: Bu çalışmada, katkılı zeminlerde taşıma gücü değerleri ile Proctor değerleri arasındaki ilişki irdelenmiştir. Bu amaçla, California Taşıma Oranı (CBR) ve serbest basınç dayanımı (UCS) bağımlı değişkenlerinin, maksimum kuru yoğunluk (MDD) ve optimum su muhtevası (OMC) bağımsız değişkenleri ile ilişkisinin olup olmadığı çok değişkenli regresyon analizi (MLR) kullanılarak araştırılmıştır. Araştırmada kullanılan veri setinde, literatürde bulunan çalışmaların sonuçlarından faydalanılmıştır. MLR analizleri sonucunda ampirik korelasyonlar geliştirilmiştir. Geliştirilen ampirik korelasyonların, zemin iyileştirme çalışmalarında kullanılan katkıların, zeminin CBR ve UCS değerlerinde yapacağı değişikliğin, özel ekipman gerektiren, zahmetli ve uzun zaman alan deneysel çalışmalar yapmadan, sadece Proctor deneyi sonucu ile tahmin edilmesine katkı sağlaması umulmaktadır.
+Yazar isimleri: ['Gamze BİLGEN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Pure and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijpas/issue/70506/993022
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1964724

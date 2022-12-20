@@ -1,0 +1,7 @@
+Makale Başlığı: BRICS-T Ekonomilerinde Makroekonomik Değişkenlerin Özel Tasarruflar Üzerindeki Etkisi
+Özet: Gelişmekte olan ülkeler açısından tasarrufların oldukça önemli olduğu ve artırılması gerektiği gerçekliğinden hareketle bu çalışmada, ekonomik büyüme oranı, enflasyon oranı, reel faiz oranı ve kişi başına düşen gelir seviyesi makroekonomik değişkenlerinin özel tasarruflar üzerindeki etkileri 1996-2019 dönemi yıllık verileri ile BRICS-T ülkeleri için incelenmiştir. Bu amaçla öncelikle söz konusu ülkeler arasındaki yatay kesit bağımlılık ile homojenlik durumlarına bakılmıştır. Daha sonra ikinci nesil panel birim kök testi olan CADF Testi ile durağanlık sınaması yapılmıştır. Uzun dönemli eşbütünleşme ilişkisinin tespiti ise Westerlund (2008) Durbin-H yöntemi ile test edilmiştir. Uzun dönemli eşbütünleşme katsayıların tahmininde ise birimler arası korelasyon ve heterojenlik durumlarında Pesaran (2006) tarafından önerilen ortak korelasyonlu etkiler – CCE tahmincisi kullanılmıştır. Elde edilen bulgular ülkeler için farklılık göstermesiyle birlikte makroekonomik değişkenlerle tasarruflar arasında önemli ilişkiler olduğunu ortaya koymaktadır.
+Yazar isimleri: ['Cebrail TELEK', 'Seyit Ali MİÇOOĞULLARI']
+Yayın Yılı: 29 Ekim 2022
+Dergi ismi: İktisadi İdari ve Siyasal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iktisad/issue/72676/1088177
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2310962

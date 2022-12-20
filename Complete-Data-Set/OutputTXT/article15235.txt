@@ -1,0 +1,7 @@
+Makale Başlığı: THEORETICAL and EXPERIMENTAL INVESTIGATION of the EFFECT of DESIGN CRITERIA on POROSITY in HPDC of AlSi9Cu3(Fe) ALLOY
+Özet: The aim of present study is to prevent the rejection of parts because of the porosity during the high pressure die casting (HPDC) process. Die design was carried out for the production of the engine connection part for automotive industry with HPDC. Process parameters taken into consideration for study are number of runner and airflow, switch point location and second phase speed value. Number of aiflows and runner was determined acoording to simulations. In order to determine the number of runners, simulations were made by considering 5 basic parameters and care was taken not to turbulent material flow in the mold. Then, the location of the switch point and the second phase speed were determined by simulation studies. After the simulation studies were completed, the molds were manufactured. Then, HPDC process was carried out using AlSi9Cu3(Fe) alloy. The casted parts were analyzed by means of porosity using computed tomography (CT) and optical microscope (OM). The porosity level was found to be very low and acceptable according to the standards.
+Yazar isimleri: ['Tahir ALTINBALIK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Trakya Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tujes/issue/70957/1095028
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2339130

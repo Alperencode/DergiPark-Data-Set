@@ -1,0 +1,7 @@
+Makale Başlığı: Çalışanların Algıladığı İş Güvencesizliğinin Saldırgan Davranışlara Etkisi: Amprik Bir Çalışma
+Özet: Bu araştırmanın amacı, çalışanlar hissettiği iş güvensizliğinin örgüt içi saldırgan davranışlar üzerindeki etkisini incelemektir. Araştırma kapsamında Gaziantep Organize Sanayi Bölgesi’ndeki küçük ve orta ölçekli işletmelerde çalışan ve kolayda örneklem yöntemiyle belirlenen toplam 440 kişiden veri toplanmıştır.  Araştırma kapsamında oluşturulan teorik model kapsamında geliştirilen hipotezleri test etmek için öncelikle korelasyon analizi yapılarak iş güvencesizliği ile saldırgan davranışların alt boyutları arasındaki ilişkiler incelenmiştir. Daha sonra iş güvencesizliğinin çalışanların saldırgan davranışları üzerine etkisi olup olmadığını belirlemek için regresyon analizi yapılmıştır. Araştırma sonucunda çalışanların iş güvencesizliğinin saldırgan davranışlarını pozitif ve anlamlı olarak etkilediği tespit edilmiştir. Bunun dışında iş güvencesizliğinin, saldırgan davranış boyutlarından olan; fiziksel saldırganlık, sözlü saldırganlık, öfke davranışı ve düşmanlık boyutları üzerindeki etkisinin de pozitif ve anlamlı olduğu bulgulanmıştır.
+Yazar isimleri: ['Gül ÇIKMAZ', 'Mazlum ÇELİK', 'Derya Çevik TAŞDEMİR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1033136
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2117773

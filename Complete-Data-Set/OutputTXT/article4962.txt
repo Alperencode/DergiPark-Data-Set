@@ -1,0 +1,7 @@
+Makale Başlığı: FPGA Tabanlı Uzaktan Erişilebilir Laboratuvar Tasarımları
+Özet: Bilgisayar ağları teknolojisinin gelişmesi ile uzaktan erişilen ve kontrol edilebilen uygulamalar artmaktadır. Özellikle bağlantı hızlarının yükselmesi ve daha güvenli ağların yaygınlaşması sayesinde uzaktan erişilebilen cihazlar sıklıkla kullanılmaktadır. Bu sayede kullanılan cihazları yönetmek ve onlara anlık müdahale etmek önemli bir hale gelmiştir. Uzaktan erişilebilen laboratuvarlar sayesinde kullanıcılar internetin olması şartıyla laboratuvardaki cihazlarla bağlantı kurabilmektedirler. Kurulan bağlantı sayesinde komut ve parametreler göndererek deneyler yapmakta ve sonuçlara eş zamanlı ulaşabilmektedirler. Kullanıcılar evlerinden veya farklı bir ortamdan internet sayesinde FPGA ile ilgili uygulamalarını uzaktan erişerek yapabilmekte ve sonuçlarını canlı bir şekilde gözlemlemektedirler.  Bu çalışmada, FPGA tabanlı uzaktan anlık bir şekilde erişilebilen laboratuvarlar üzerinde bir literatür araştırması yapılmıştır.
+Yazar isimleri: ['Zafer ALBAYRAK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Electronic Letters on Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/else/issue/70851/1059041
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2196873

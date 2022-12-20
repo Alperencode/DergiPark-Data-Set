@@ -1,0 +1,7 @@
+Makale Başlığı: Recognition of Power Quality Events Using Wavelet Transform, K-Nearest Neighbor Algorithm and Gain Ratio Feature Selection Method
+Özet: Bu çalışmada Güç Kalitesi (GK) bozulumu sinyallerinin sınıflandırılması için bir yöntem uygulanmıştır. Ayrık Dalgacık Dönüşümü (ADD), gürültü içeren GK sinyallerine uygulanarak sinyaller ayrıştırılmıştır. Daha sonra sinyallerin farklı entropi değerleri kullanılarak 80 farklı sınıflandırma özelliği elde edilmiştir.  Bu 80 özelliğin hepsinin sınıflandırma için kullanılması yöntemin eğitim/test sürelerinin uzamasına yol açmaktadır. Bu yüzden bütün sınıflandırma özellikleri arasında etkili özelliklerin belirlenmesi gereklidir. Bu çalışmada Kazanç Oranı (KO) özellik seçme yöntemi ve K-En Yakın Komşu Algoritması (K-EYK) ile etkili 10 sınıflandırma özelliği belirlenmiştir.  Belirlenen 10 sınıflandırma özelliği ile K-EYK eğitilmiş ve test edilmiştir. Benzetim sonuçları gerçekleştirilen yöntemin sınıflandırma için etkili olduğunu göstermiştir. Aynı zamanda benzetim sonuçları seçilen parametreler için KO ile belirlenen 10 sınıflandırma özelliğinin, 80 sınıflandırma özelliğine göre daha kısa sürede daha yüksek bir sınıflandırma başarısı sağladığını göstermiştir.
+Yazar isimleri: ['Düzgün AKMAZ']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: International Journal of Innovative Engineering Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiea/issue/70503/1019012
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2063232

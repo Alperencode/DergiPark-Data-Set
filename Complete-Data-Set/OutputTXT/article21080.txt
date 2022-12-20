@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Çevresel Kuznets Hipotezi Geçerli Mi? Fourier Bootstrap ARDL Testinden Kanıtlar
+Özet: Son yıllarda iklim değişikliği ve çevre kirliliği konuları gelişmiş ve gelişmekte olan ülke ayrımı yapılmaksızın tüm ülkelerin öncelikli politika gündemi haline gelmiştir. Çünkü günümüzde artan nüfus ve ekonomik faaliyetler doğal kaynakların kontrolsüz kullanımına ve çevresel tahribata yol açarak sürdürülebilir kalkınma sürecini olumsuz etkilemekte, hatta telafisi mümkün olmayan çevre sorunlarına neden olmaktadır. Bu bağlamda çalışmanın amacı 1970-2017 dönemi için çevresel Kuznets eğrisi (ÇKE) hipotezinin Türkiye için geçerli olup olmadığını Narayan ve Narayan (2010)’ın yaklaşımı çerçevesinde Fourier ARDL (FARDL) test yöntemi ile incelemektir. FARDL test sonuçlarından çevre kirliliği, gelir, küreselleşme ve dışa açıklık arasında uzun dönemli bir ilişkinin olduğu tespit edilmiştir. Sonuç itibarıyla çalışmada FARDL yöntemi ile elde edilen uzun ve kısa dönem gelir esneklik katsayıları karşılaştırılmış ve Narayan ve Narayan (2010)’ın yaklaşımı çerçevesinde Türkiye’de ÇKE hipotezinin geçerli olduğu doğrulanmıştır. ÇKE hipotezinin geçerli olduğunun tespit edilmesi Türkiye’de sürdürülebilir kalkınma politikalarının uzun dönemde başarılı olduğunu göstermektedir.
+Yazar isimleri: ['Tunahan HACIİMAMOĞLU']
+Yayın Yılı: 29 Ağustos 2022
+Dergi ismi: Selçuk Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/susbed/issue/72364/1102773
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2371449

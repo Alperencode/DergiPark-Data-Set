@@ -1,0 +1,7 @@
+Makale Başlığı: A MATHEURISTIC ALGORITHM FOR THE 1.5-DIMENSIONAL CUTTING AND ASSORTMENT PROBLEM WITH DUE DATES
+Özet: 
+Yazar isimleri: ['Tuğba SARAÇ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Endüstri Mühendisliği
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/endustrimuhendisligi/issue/72166/1038060
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2137979

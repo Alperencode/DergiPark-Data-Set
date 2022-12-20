@@ -1,0 +1,7 @@
+Makale Başlığı: Özel Kısıtlı Hemşire Çizelgeleme Probleminin Çözümü için Hedef Programlama Model Önerisi
+Özet: İşletmelerde en büyük maliyet kalemleri arasında olan işgücü maliyetini etkili bir şekilde yönetebilmek ve bu maliyetleri azaltabilmek için yapılan planlamaların, programların etkisi çok önemlidir. Literatürde personel çizelgeleme olarak adlandırılan bu problemlerde işgücü kaynağını etkili bir şekilde planlayarak hem dengeli ve adil bir çalışma ortamı ayarlanmış olur hem de işgücü maliyetlerini dolaylı olarak azaltılmasına katkıda bulunulur. Personel çizelgeleme problemleri literatürde sağlık, ulaşım, eğitim gibi sektörlerde uygulama imkanı bulmuştur. Bu çalışmada da personel çizelgeleme problemlerinin bir alt türü olan hemşire çizelgeleme problemi ele alınmıştır. Sağlık sektöründe önemli paydaşlar arasında yer alan hemşirelerin çalışma saatleri uzun ve yorucu olduğu için yapılacak çizelgelerin önemi bir kat daha artmaktadır. Çalışmada hemşirelerin özel durumları dikkate alınmıştır. Hedef programlama yöntemi ile bu problemin çözümü gerçekleştirilmiştir.
+Yazar isimleri: ['Serkan KAYA']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1095873
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2342449

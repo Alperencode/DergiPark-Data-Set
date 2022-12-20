@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship Between Energy Consumption, Globalization, and Economic Growth: A Causality Analysis for Selected Emerging Market Economies
+Özet: This study aims to examine the relationship between non-renewable and renewable energy consumption, separated by energy types, globalization, and economic growth, for 15 emerging market economy countries from 1990-2018. Panel data analysis techniques were used to detect the existence of any relationship between these variables.According to the findings obtained from a Dumitrescu and Hurlin (2012) causality test, it has been determined that there is bidirectional causality between (i) renewable energy consumption and economic growth, (ii) non-renewable energy consumption and economic growth, and (iii) globalization and economic growth. This result supports the thesis that energy is an important input of economic growth arising from production and service activities in emerging market economy countries, which are taken as a sample, and that economic growth as a result of economic activities also increases energy consumption. In addition, the increasing globalization trend in these countries triggers economic growth, and economic growth triggers more globalization.
+Yazar isimleri: ['Ömer Fazıl EMEK', 'Melike ATAY POLAT']
+Yayın Yılı: 29 Temmuz 2022
+Dergi ismi: İktisat Politikası Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iuipad/issue/71907/1087057
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2306536

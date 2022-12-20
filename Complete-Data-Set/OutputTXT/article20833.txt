@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Financial Risks of Companies Listed in the BIST Sustainability Index on Stock Prices
+Özet: This study is aimed to investigate the impact of the financial risks of the enterprises in the sustainability index on the value of the stock. In line with this objective, financial risk values were calculated with the Altman Zskor model by using the financial statement data of the enterprises for the 2011-2020 periods. The impact of the financial risks of the enterprises in the sustainability index on the stock value was perused by panel data analysis in the study. As a result of econometric analysis, it was determined that the financial risk values of the enterprises affect the stock return rates negatively. In other words, as the financial risks of the enterprises decreased, the stock return rate increased.
+Yazar isimleri: ['Samuray KARACA', 'Kemalettin ÇONKAR']
+Yayın Yılı: 2 Temmuz 2022
+Dergi ismi: Pamukkale Üniversitesi İşletme Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/piar/issue/71093/1114136
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2417416

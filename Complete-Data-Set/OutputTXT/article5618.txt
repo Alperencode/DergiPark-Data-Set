@@ -1,0 +1,7 @@
+Makale Başlığı: Volume fraction of retained austenite in 1.2842 tool steel as a function of tempering temperature
+Özet: Untransformed austenite during quenching process is known as retained austeinite. The quantitative determination of the retained austenite is of great importance to the steel mechanical properties. Its percentage has a large effect on the mechanical properties and service life of components. The amount of  retained austenite in through-hardened tool steels should be kept at its optimum level in order to minimize size change, and increase service life. In this study, the influence of tempering temperature on the amount of retained austenite was evaluated by using X-ray diffraction phase analyses.  It was seen that tempering at low temperatures resulted in small amount of  retained austenite for the studied steel.
+Yazar isimleri: ['Ender GÜNERLİ', 'Melih BAYRAMOĞLU', 'Necdet GEREN']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: European Mechanical Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ems/issue/73507/1186751
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2698771

@@ -1,0 +1,7 @@
+Makale Başlığı: The Study of Sound Speed as a Function of Pressure at Different Temperatures in Biofuel Component Liquids
+Özet: In the present study, an approximation is applied to study the sound speed in liquids as a function of pressure at different temperatures. The relation obtained is applied in the case of biofuel component liquids.  The calculated results for each liquid were found to be in good agreement with the experimental results throughout the range of pressure and temperature. The maximum percentage error and average percentage error are not more than 5.2 and 1.9, respectively, in the entire range of pressure and temperature for all liquids.  Furthermore, the internal pressure and nonlinear Bayer's parameters are also computed as a function of temperature at one atmosphere from sound speed for the first time in biofuel component liquids.
+Yazar isimleri: ['Piyush KUCHHAL']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: International Journal of Thermodynamics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijot/issue/73597/1075348
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2260705

@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of Appropriate Distribution Functions for the Wind Speed Data Using the R Language
+Özet: Accurate determination of the proper distribution and parameters of this distribution according to the wind characteristics of the zone is vital for wind energy investment.  In determining a wind energy potential belonging to a region, meteorological wind speed measurements have a great proposition to take place within a certain statistical distribution. In our study, the wind speed data obtained from the metrology station within 1 year was evaluated and it was determined using the R language, which is an open source statistical programming language, which is better suited to distributions such as Weibull, gamma, lognormal and logistic. The Akaike Information Criterion and Schwarz-Bayesian Information Criterion (SBIC) scores were calculated as the performance parameters of the distributions and the distribution performances were compared graphically. While gamma and lognormal distributions have better results at low wind speeds, Weibull distribution achieves higher performance for higher wind speeds.
+Yazar isimleri: ['İsmail Kırbaş']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/368961
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826687

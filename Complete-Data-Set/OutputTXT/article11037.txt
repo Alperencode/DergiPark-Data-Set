@@ -1,0 +1,7 @@
+Makale Başlığı: SOME NEW STABILITY RESULTS OF VOLTERRA INTEGRAL EQUATIONS ON TIME SCALES
+Özet: In this paper, we generalize two types of Volterra integral equations given on time scales and examine their Hyers-Ulam and Hyers-Ulam-Rassias stabilities. We also prove these stability results for the non-homogeneous nonlinear Volterra integral equation on time scales and provide an example to support these results. Moreover, we show that the general Volterra type integral equation given on time scales has the Hyers-Ulam-Rassias stability. Our results extend and improve some recent developments announced in the current literature.
+Yazar isimleri: ['Zeynep KALKAN', 'Aynur ŞAHİN']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Maltepe Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mjm/issue/72482/1145159
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2543689

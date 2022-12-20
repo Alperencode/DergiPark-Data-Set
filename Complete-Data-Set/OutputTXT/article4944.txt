@@ -1,0 +1,7 @@
+Makale Başlığı: Industrial White Quartz Stone Classification Using Image Processing and Supervised Learning
+Özet: A vision-based stone classifying method was developed for industrial mine stone grading applications. The image-based solution is used to extract visual parameters and stones are classified by their color and shape parameters with the help of the machine learning algorithms. In the experiments, four groups, each including ten arbitrarily selected stones; in total forty stone samples with complex colors and shapes were examined. Four different images are captured under four different angles and processed to extract visual parameters of each stone sample. In training stage 67% of the data were used for training and rest were used for testing process.  The method correctly classifies mine stones up to 98% from still images using labeled inputs. A confusion matrix derived from the experimental results is employed in order to emphasize the efficiency of the system more clearly and emphasize the results in a certain manner.
+Yazar isimleri: ['Fatih AKKOYUN', 'Orçun EKİN', 'Özel SEBETCİ']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/1010036
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2028225

@@ -1,0 +1,7 @@
+Makale Başlığı: Estimation of Wind Speed Data with Setar Model
+Özet: The threshold model allows expression with different Autoregressive Moving Average (ARMA) models sorted according to the threshold value of the observations. In this study, nineteen years of observed wind speed data have been modeled with the Self Exciting Threshold Autoregressive (SETAR) model. Two different Autoregressive (AR(3)) models have been obtained for the situation where the wind speed was below and above 2.5 m / s of the previous observation in the time series. In addition, in the SETAR (1,3,3) model, it has been determined that the residual terms have the effect of GARCH (1,1) and a range has been estimated for model predictions.
+Yazar isimleri: ['Ümran Münire KAHRAMAN', 'İsmail ARSEL', 'Aşır GENÇ', 'Galip OTURANÇ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of Engineering Technology and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jetas/issue/72234/1099407
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2357363

@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRKİYE’DE KAMU VE ÖZEL SEKTÖR DIŞ BORCUNUN GELİR DAĞILIMI ÜZERİNDEKİ ETKİSİ: FOURİER ADL EŞBÜTÜNLEŞME TESTİ
+Özet: Borçlanmanın, ekonomik ve sosyal etkileri literatürde oldukça dikkat çeken bir araştırma alanını oluşturmaktadır. Bu çalışma, kamu ve özel sektörün dış borçlanmasının gelir dağılımı üzerindeki etkisini Türkiye ekonomisi için ampirik olarak test etmek amacıyla yapılmıştır. Çalışmada öncelikle Türkiye’de dış borçlanma ve gelir dağılımındaki gelişmeler hakkında bilgi verilmiş, ardından konuya ilişkin teorik ve ampirik literatür ele alınmıştır. Çalışmanın uygulama bölümünde ise, Türkiye ekonomisi için 1989-2019 döneminde kesirli frekanslı fourier ADL eşbütünleşme yöntemi ve dinamik EKK tahmini ile dış borçlanmanın kamu ve özel sektör olarak sınıflandırılarak gelir dağılımı üzerindeki etkisi ampirik sınanmıştır. Elde edilen model sonuçlarına göre, kamu ve özel sektörün dış borçlanmasının incelenen dönemde gelir eşitsizliğini artırdığı ve özel sektör dış borçlanmasının kamu borçlanmasına görece gelir dağılımını daha olumsuz etkilediği sonucuna varılmıştır.
+Yazar isimleri: ['Murat Can GENÇ', 'Levent Yahya ESER', 'İlknur EKİNCİ']
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: Uluslararası İktisadi ve İdari İncelemeler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ulikidince/issue/73302/1174044
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2645381

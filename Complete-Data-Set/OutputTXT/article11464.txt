@@ -1,0 +1,7 @@
+Makale Başlığı: Yaşlıların Aile Sağlığı Merkezleri ve Yakınındaki Kentsel Aktivite Alanlarına Erişebilirliği: Karşıyaka Mahalleleri (İzmir) Örneği
+Özet: Yaşlı bireylerin kentsel aktivite alanlarına erişebilirliği, onların yaşam kalitesi, sosyalleşme olanakları ve ruhsal sağlığı kadar toplumsal dayanışma açısından önemlidir. Dolayısıyla, yaşlı bireylerin bu alanlara günlük rutinlerinde erişebilmesi sağlanmalıdır. Ancak bu alanlara erişebilirlik, bireylerin sosyo-ekonomik ve demografik özellikleri ve mekânsal olanaklara bağlı olarak, sosyal gruplar arasında eşitsizliğe varan farklılıklar gösterebilmektedir. Bu savlarla, çalışmamız yaşlıların aile sağlığı merkezleri (ASM) ve yaşlılar için önemli diğer kentsel aktivite alanlarına erişebilirliği Karşıyaka mahalleleri (İzmir) örneğinde Coğrafi Bilgi Sistemleri araçlarıyla analiz ederek değerlendirmektedir. Çalışmada birincil kentsel aktivite alanları eczane, fırın, market, park, cami, pazar alanı ve ikinciller ise muhtarlık, PTT, banka ve toplu taşıma istasyonlarını kapsamaktadır. Sonuçlar mahalleler arası ve mahalle içindeki farklılaşan erişebilirlik seviyelerini ve mevcut ASM’lerin “yakın” (210m) çevresinde birincil aktivite alan sayısının ikincillerden fazla olduğunu göstermektedir.
+Yazar isimleri: ['Fatma ŞENOL']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makufebed/issue/71318/1141318
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2528535

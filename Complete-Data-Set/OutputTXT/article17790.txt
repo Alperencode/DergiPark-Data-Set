@@ -1,0 +1,7 @@
+Makale Başlığı: Effects of Corrugated Plates on Separation Performance
+Özet: There are water, gas and some solid materials in mixtures extracted from underground. The method commonly used for separating the extracted mixtures of crude oil from water is the use of corrugated plates. The plates are used for gravity separation usually. In this study, the effects of three Re numbers of mixtures (3500, 4800, 6100), three values for the ratio of diameter of the hole to the width of the plate (d/w) (0.017, 0.025, 0.033) and three mounting angles of the plates to the separation unit (10, 30, 50 degrees) on the separation performance were investigated. With less experimentation and no impact on separation performance, the optimization process was carried out utilizing the design of Box-Behnken and the Response Surface Method (RSM). In addition, the same system was designed in the Computational Fluid Dynamics (CFD) program, and the optimum experiment was carried out numerically. The experimental and numerical results were compatible with one another. The ultimate separation performance was achieved as 99.25% when the mounting angle was 27 degrees, the d/w was 0.029 and the Re number was 4850.
+Yazar isimleri: ['Mehmet ORUÇ', 'Sedat YAYLA']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Yüzüncü Yıl Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yyufbed/issue/71465/1094330
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2336326

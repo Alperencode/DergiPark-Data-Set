@@ -1,0 +1,7 @@
+Makale Başlığı: Use of Deep Learning Algorithms To Prevent Pantograph-Catenary Malfunctions
+Özet: Today, the demand for rail transport is increasing. Studies in this area are increasing worldwide. While the railway infrastructure is increasing in the world, the suitability of the railroads and train sets built is of great importance in terms of road and passenger safety. The most important test to ensure road and passenger safety is on the electrification line. The energy required for the movement of the electric train is provided by the power line. Continuous contact between the power line and the pantograph is desired while in motion by providing continuous energy for the rail system to operate. Even short-term non-contact between the pantograph and the catenary adversely affects the rail system vehicle and the electronic systems inside. For this reason, the pantograph and catenary interaction should be controlled dynamically and statically in certain periods. In this study, dynamic and static control was provided by using deep learning. The data received from the system are recorded in CSV format. Using deep learning algorithms, failure points have been successfully detected up to 99.4%.
+Yazar isimleri: ['Şakir PARLAKYILDIZ', 'Muhsin GENÇOĞLU', 'Mehmet Sait CENGIZ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/957018
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1841430

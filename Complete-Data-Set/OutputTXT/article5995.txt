@@ -1,0 +1,7 @@
+Makale Başlığı: Isıtma Sistemlerinin Enerji Ekonomileri ve Karbon Salınım Potansiyellerinin Çok Kriterli Karar Verme Yöntemleri  ile Karşılaştırılması
+Özet: Çalışmanın amacı, bir ısıtma sistemi seçerken bölgeye ve kişisel isteklere uygun, finansal ve finansal olmayan kriterleri bir arada değerlendirerek, yakıt performansları ve sera gazı salınımı özelinde bir karar verme metadolojisi oluşturmak ve mantıklı seçimleri sayısal olarak göstermektir. Bu amaçla mimari çizimi olan bir bina belirlenmiş, MS Excel kullanılarak TS 825’e uygun ısı kaybı hesabı denklemleri oluşturulmuş, ülkemizde yer alan 4 tip ısıtma bölgesi için şehirler belirlenerek ayrı ayrı hesaplanmıştır. Binanın farklı bölgelere oturtulması esasına göre yapılan ısı kayıpları kullanılarak farklı ısıtma tipleri seçimi ve farklı yakıt kullanımı üzerinden yakıt maliyeti, kurulum maliyeti ve sera gazı salınımı hesaplanmıştır. Bu hesaplamalar ve belirlenen diğer kriterler ise Çok Kriterli Karar Verme Yöntemlerinden, Analitik Hiyerarşi Prosesi (AHP) ve VIKOR ile incelenmiş, seçimlerin birbirleri ile karşılaştırılmasının matematiksel yönü ortaya konmaya çalışılmıştır.
+Yazar isimleri: ['Miraç ÖZTOK', 'Tayfun MENLİK']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Gazi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gmbd/issue/72442/1047463
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2157431

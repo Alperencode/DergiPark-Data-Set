@@ -1,0 +1,7 @@
+Makale Başlığı: A NEW APPROACH IN INTELLIGENT MAINTENANCE: SPARE PART PREDICTION ON REAL TIME BASIS
+Özet: After sales customer services attempt to satisfy target customers by qualified spare part services and affordable prices. While undesirable repetitive customer visits result in significant increase at sales operational costs, this misleading policy may deteriorate organizational goodwill at long run. In the context of intelligent maintenance, spare part prediction solution proactively proposes the most probable spare part to the responsible technical service by a hybrid classification model that combines C4.5, Apriori algorithms and weighted k-Nearest Neighbor (kNN) adaptations. The experimental results demonstrate that proposed approach approximately doubles the human-level performance at spare part prediction scenario. According to best runtime configuration analysis, a real time spare part prediction model has been deployed for television product group at the client’s SAP system.
+Yazar isimleri: ['Eren ESGİN']
+Yayın Yılı: 29 Aralık 2021
+Dergi ismi: Yönetim Bilişim Sistemleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ybs/issue/67451/1025519
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2088605

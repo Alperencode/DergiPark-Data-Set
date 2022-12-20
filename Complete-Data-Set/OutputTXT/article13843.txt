@@ -1,0 +1,7 @@
+Makale Başlığı: Sistein Tayini İçin Yeni Bir Algılayıcı Molekülün Sentezi ve Karakterizasyonu
+Özet: Sistein canlı organizmada önemli rolleri olan tiyol grubu içeren bir amino asittir. Dolayısıyla sistein varlığının ve miktarının tespit edilmesi araştırmacıların ilgilendiği konuların başında gelmektedir. Bu çalışmada, sisteini ESIPT mekanizmasına dayalı fluoresans metodu ile tayin etmek amacı ile benzotiyazol temelli yeni bir algılayıcı molekül tasarlanmıştır. Hedef algılayıcının molekül yapısı FT-IR, NMR ve MALDI-TOF (Matriks aracılı lazer dezorpsiyon iyonizasyon uçuş zamanı) kütle spektrokopisi gibi metotlarla aydınlatılmıştır. Ayrıca, algılayıcı ve sistein arasındaki etkileşim mekanizması teorik hesaplamalar aracılığıyla incelenmiştir.
+Yazar isimleri: ['Sait MALKONDU', 'Serkan ERDEMİR']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Selçuk Üniversitesi Fen Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sufefd/issue/72810/1115890
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2424726

@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’nin Sektörel CO2 Gazı Salınımlarının Yapay Sinir Ağları ile Tahmini
+Özet: Bu çalışmada Türkiye’de karbondioksit(CO2) gazı salınım miktarları Yapay Sinir Ağları (YSA) kullanılarak sektörlerbazında tahmin edilmiştir. Enerji, endüstriyel işlemler ve ürün kullanımı,tarımsal faaliyetler ve atıklar olmak üzere dört farklı sektör dikkatealınmıştır. 1990-2015 yıllarına ait veriler kullanılarak, 2016-2030 yıllarıiçin tahminler gerçekleştirilmiştir. Nüfus, gayri safi yurtiçi hâsıla, enerjitüketimi ve ulaşım için kullanılan enerji ve ayrıca sektörlere göre gerçekleşenCO2 salınımları zaman serisi yaklaşımıyla YSA’yı eğitme, test ve tahmin etmedekullanılmış, dört çıkışlı bir YSA modeli sunulmuştur. Önerilen modellerinperformansı ortalama mutlak hata yüzdesi (OMHY)  ve belirlilik katsayısı (R2)teknikleri ile değerlendirilmiştir. Sonuç olarak, sürdürülebilir bir çevre içinkısa, orta ve uzun vadede gerçekleştirilecek olan faaliyetlerin planlanmasındagüvenilir tahmin verilerine ihtiyaç duyulacaktır. YSA’nın da bu ihtiyacıkarşılamada bir alternatif yöntem olarak kullanılabileceği görülmektedir.
+Yazar isimleri: ['Eşref BOĞAR', 'Zeynep ÖZSÜT BOĞAR']
+Yayın Yılı: 29 Aralık 2017
+Dergi ismi: Akademia Disiplinlerarası Bilimsel Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/adbad/issue/33581/334771
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/395144

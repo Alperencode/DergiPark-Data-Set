@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of facility warehouse performance in a logistics company with Copras and Topsis methods
+Özet: Logistics processes are one of the most important elements among the cost items in companies. The operational treatment of logistics companies directly influences the efficiency of the business. Performance evaluation in the logistics companies is important in terms of sustainability of the operation and measuring the sustainability trend. In this study, facility performance that depending on years, in a logistics company has analyzed comparatively with COPRAS (Complex Proportional Assessment) and TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) methods, which are among the Multi-Criteria Decision Making (MCDM) techniques. The criteria have determined as operational error, customer complaints, accident frequency rate, absence, turnover rate, training rate, overtime, staff productivity, input productivity, output productivity and on-time dispatch performance. The weights of these criteria have calculated with the Analytical Hierarchy Process (AHP), which is also a MCDM method. Thus, we have compared five years consisting of nine periods and have made various evaluations.
+Yazar isimleri: ['Merve ER', 'Selen AVCI', 'Zerrin ALADAĞ']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1096302
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2344147

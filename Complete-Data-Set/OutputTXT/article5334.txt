@@ -1,0 +1,7 @@
+Makale Başlığı: ÇANAKKALE AYVACIK VOLKANIK TÜFÜNÜN HAFIF YAPI MALZEMESİ ÜRETIMINDE AGREGA OLARAK KULLANILABILIRLIĞININ ARAŞTIRILMASI
+Özet: Ülkemizin deprem kuşağında bulunması ve enerji maliyetlerinin sürekli olarak artması, inşaat teknolojilerinin gelişmesinde itici bir güç olmuştur. Bu gelişmelerin başında hafif yapı malzemelerinin üretilmesi ve çeşitli teknik özelliklerinin sürekli olarak iyileştirilmesi gelmektedir. Bina ölü yükünün azaltılması, ısı ve ses yalıtımı gibi özellikleri nedeniyle doğal hafif agregalar son çeyrek yüzyılda oldukça fazla kullanılmaya başlanmış, günümüzde de kullanım oranı giderek artmaktadır. Bu çalışmada daha önce hafif yapı malzemesi olarak kullanılmayan Çanakkale-Ayvacık yöresi volkanik tüf agregası kullanılarak hafif beton üretilmeye çalışılmıştır. Bu amaçla farklı reçeteler kullanılarak üretilen hafif beton numunelerinin 7, 14 ve 28 günlük birim hacim ağırlık (BHA), basınç dayanımı (BD) ve su emme (SE) gibi teknik özelliklerde meydana gelen değişimler incelenmiştir. Elde edilen analiz sonuçları (BHA: 1328 kg/m3, BD: 12,87 MPa, SE: 0,64 kg/(m².dak0.5)) standartlarda olması gereken değerler ile karşılaştırılmış, Çanakkale-Ayvacık yöresi volkanik tüf agregalarının hafif yapı malzemesi olarak kullanılabileceği belirlenmiştir.
+Yazar isimleri: ['Uğur DEMİR']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Mühendislik ve Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogummf/issue/72210/1019675
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2065882

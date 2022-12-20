@@ -1,0 +1,7 @@
+Makale Başlığı: Shift Filter of Quasi-ordered Residuated Systems
+Özet: The concept of residuated relational systems ordered under a quasi-order relation was introduced in 2018 by S. Bonzio and I. Chajda as a structure $\mathfrak{A} = \langle A, \cdot, \rightarrow, 1, \preccurlyeq \rangle$, where $(A,\cdot)$ is a commutative semigroup with the identity $1$ as the top element in this ordered monoid under a quasi-order $\preccurlyeq$. In 2020, the author introduced and analyzed the concepts of filters in this type of algebraic structures.  In addition to the previous, the author continued to investigate  some of the types of filters in quasi-ordered residuated systems such as, for example, implicative and comparative filters. In this article, as a continuation of previous author's research, the author introduced and analyzed the concepts of shift filters of quasi-ordered residuated systems and then compared it with other types of filters.
+Yazar isimleri: ['Daniel A. ROMANO']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Communications in Advanced Mathematical Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cams/issue/72815/1089222
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2315365

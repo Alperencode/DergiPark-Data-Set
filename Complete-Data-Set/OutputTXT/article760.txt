@@ -1,0 +1,7 @@
+Makale Başlığı: Yabancı Dil Öğretiminde İnteraktif Uygulamalar:  “Kahoot! ve Quizizz”
+Özet: Son dönemde yaşanan küresel Pandemi’nin eğitim üzerine etkilerine bakıldığında özellikle ülkemizde dersler çevrimiçi veya çevrimdışı olarak verilmektedir.  Yüz yüze eğitimin yerini tam olarak alması mümkün olmasada bu durum özellikle yabancı dil öğretiminde öğrenmenin verimli olabilmesi için yardımcı uygulamaların kullanımını zorunlu hale getirmiştir. Bilgisayar ve İnternetin hızlı gelişmesi ile kişilerin bilgiye ulaşma hızı da paralel olarak artış göstermektedir. Bu hızlı ilerleme bütün alanlarda olduğu gibi öğretim alanına da yansımıştır. Çoklu ortam (multimedya) bileşenlerini içeren yeni teknolojiler birden fazla duyu organına hitap ederek etkileşimi daha üst düzeye çıkartmaktadır. Yani, yabancı dil eğitiminde öğreniciye verilmek istenen kazanımlar; duyduğunu anlama, okuduğunu anlama, konuşma ve yazma becerileridir. Bunları da İnternet ve çeşitli uygulamalar vasıtasıyla gerçekleştirilebileceği düşünülmektedir. Bu nedenle uzaktan ve yüz yüze eğitimde de kullanılabilen, öğrenicinin öğrenmiş olduğu bilgileri pekiştirmek için oyun temelli olarak hazırlanabilen Web 2.0 uygulamaları olan Kahoot! ve Quizizz ele alınmıştır. Özellikleri betimlenmiş, olumlu ve olumsuz yönleri ile karşılaştırmaları yapılmıştır.  
+Yazar isimleri: ['Serdar YILMAZ']
+Yayın Yılı: 8 Ekim 2022
+Dergi ismi: Akademik Tarih ve Düşünce Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atdd/issue/72073/1083126
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2291146

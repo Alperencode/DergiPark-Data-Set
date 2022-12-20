@@ -1,0 +1,7 @@
+Makale Başlığı: Kendiliğinden Yerleşen Yüksek Dayanımlı Portland Çimentosuz Briket Malzemesi Üretimi
+Özet: Bağlayıcılık özelliğine sahip olan bazı uçucu küller ilgili standartları sağlamadığından beton sektöründe kullanılmamaktadır. Atık depolama alanlarına gönderilen bu tür uçucu küller toprağa ve yeraltı sularına zarar vermektedir. Kangal Termik Güç Tesisi uçucu külü de beton sektöründe kullanılmamakta ve atık depolama alanına gönderilmektedir. Bu çalışmada, Kangal Termik Güç Tesisi uçucu külü, atık cam tozu ve kireç kullanılarak, kendiliğinden yerleşen yüksek dayanımlı briket üretilmiştir. Ağırlıkça %66 uçucu kül, %7 kireç ve %27 atık cam tozuyla üretilen briketin 56 günlük basınç dayanımı 67,5 MPa olmuştur. Üretilen briketlerin birim ağırlık, su emme, kılcal su emme ve ısıl iletkenlik değerlerinin yanında mikro yapıları da incelenmiştir. Üretilen briketler ulusal ve uluslararası standartlarda verilen sınır değerlerini sağlamıştır. Üretilen bu briketler kırsal kesimde yaşayan düşük gelirli insanların konut sorunun çözümüne yardımcı olabilir.
+Yazar isimleri: ['Paki TURGUT', 'Feridun DEMİR', 'Kazım TÜRK']
+Yayın Yılı: 19 Eylül 2022
+Dergi ismi: Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/deumffmd/issue/72304/976316
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1899138

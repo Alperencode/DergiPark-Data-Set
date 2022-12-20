@@ -1,0 +1,7 @@
+Makale Başlığı: FUMARONİTRİL İÇEREN KUATERPOLİMER SENTEZİ YAPISAL VE TERMOMEKANİK ÖZELLİKLERİN BELİRLENMESİ
+Özet: Bu çalışmada, elektron alıcı bir monomer olan Fumaronitril (FN) ile elektron verici 3 monomer; Trans-Anethol (ANE), Vinil-izo-bütileter (VIBE) ve Trans-Stilben (Stb), serbest radikal polimerleşmesi ve yük transfer kompleksi (CTC) mekanizması üzerinden polimerleştirilmiştir. Elde edilen FN-ANE-VIBE-Stb kuaterpolimerinin, monomer içerik oranı, FT-IR, H-NMR, ortalama mol kütlesi, ısısal ve mekanik analizleri yapılmıştır. Sentezlenen kuaterpolimer reçine şeklinde elde edilebilmiştir. Zincirde bulunan fumaronitril oranı yaklaşık %50 olarak belirlenmiştir. Elde edilen kuaterpolimerin ısısal ve mekanik özelliklerinin diğer bazı yaygın polimerlere göre daha iyi olduğu görüldü.
+Yazar isimleri: ['Ersen YILMAZ', 'Ali BOZTUĞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Amasya University the Institute of Sciences and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jauist/issue/70944/1129011
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2479332

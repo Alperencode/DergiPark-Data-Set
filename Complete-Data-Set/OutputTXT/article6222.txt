@@ -1,0 +1,7 @@
+Makale Başlığı: Doğal Gaz Tüketiminin Modellenmesi: Türkiye İçin MARS Yöntemiyle Bir Analiz
+Özet: Bu çalışmada Türkiye’deki doğal gaz talebinin tahmin edilmesine yönelik model ortaya konması amaçlanmaktadır. Doğal gaz tüketimi bağımlı değişken olarak ele alınmış, buna bağlı olarak makroekonomik veriler, iklim koşulları, enerji ve fiyat verileri ile toplumsal ve kültürel veriler bağımsız değişken olarak kullanılmaktadır. Aylık verilerin değerlendirildiği bu çalışmada değişkenlere ait 2015 yılı ocak ayı ile 2021 yılı haziran ayı arasındaki 78 gözlem kapsama dâhil edilmiştir. Madelin analiz sürecinde MARS yönteminden faydalanılmıştır. Modelde 3 temel fonksiyon ile sıcaklık oranı ve yenilenebilir enerji oranı olarak 2 değişken yer almaktadır. Sıcaklık azalışları makul seviyelerde olduğu sürece yenilenebilir enerjideki artış oranının doğal gaz tüketiminin düşmesinde çok önemli etkiye sahip olduğu görülmektedir. %99 oranında ithalata bağımlı olan doğal gazın makroekonomik dengeler içerisindeki payını azaltmak için, sıcaklık değişikliklerimi kontrol edemediğimiz bir durum olduğundan, yenilenebilir enerji yatırımlarına hız kesmeden devam edilmesi gerektiği analiz sonucunda ortaya çıkmaktadır.
+Yazar isimleri: ['Rıdvan AYDIN', 'Serhat YÜKSEL', 'Gökhan SİLAHTAROĞLU', 'Hasan DİNÇER']
+Yayın Yılı: 19 Ekim 2022
+Dergi ismi: Gaziantep Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jss/issue/73087/1093153
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2331657

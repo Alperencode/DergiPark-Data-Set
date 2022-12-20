@@ -1,0 +1,7 @@
+Makale Başlığı: Benders Decomposition Algorithm for Solving the Type-II Simple Assembly Line Balancing Problem with Zoning Restrictions
+Özet: This paper considers the type-II assembly line balancing problem under zoning constraints, where a number of tasks must be assigned to a number of workstations while respecting compatibility (or otherwise) between tasks and stations, and by observing the precedence relationships between tasks. The objective is to minimize the latest completion time at any station. The paper proposes an exact algorithm that takes into account an exact formulation of the problem as well as iteratively introduces a set of constraints in the spirit of Benders decomposition. In addition to boundary constraints on the decision variables, the algorithm makes use of combinatorial cuts and a referenced local search in order to generate upper bounds. The algorithm is extensively evaluated on benchmark instances, which indicates that it outperforms the state-of-the-art approaches to the problem.
+Yazar isimleri: ['Alper HAMZADAYI']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Yüzüncü Yıl Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yyufbed/issue/71465/1080238
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2279530

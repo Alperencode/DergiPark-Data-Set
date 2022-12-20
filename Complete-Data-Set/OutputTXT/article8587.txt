@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRKİYE’DE ULAŞIM ALTYAPILARININ TEDARİK YÖNTEMLERİ VE KARŞILAŞTIRMALI ANALİZİ
+Özet: Gelişen ve dijitalleşen dünyamızda ülkeler ve kamu kurumları tarafından vatandaşların ihtiyaçlarını ve beklentilerini karşılamak amacıyla yeni yatırım ve hizmetler, çeşitli yöntemler ve modeller ile sağlanmaktadır. Ülkemizde kamu alımlarının gerçekleştirilmesinde kullanılan ihale yöntemi, 4734 sayılı Kamu İhale Kanununun yürürlüğe girmesiyle birlikte bu kanun kapsamında gerçekleştirilmektedir. Özellikle yatırım ve hizmet projelerine finansman sağlaması açısından sıklıkla kullanılan modellerden birisi yap işlet devret modelidir. Ulaşım altyapılarının gerçekleştirilmesi konusunda yap işlet devret modeline duyulan ilgili gün geçtikçe artmaktadır. Bu çalışmada; ulaşım altyapılarının tedarik yöntemleri genel hatlarıyla incelenmiş, özelde ise Türkiye’de kamu kaynaklarıyla yapılan ihale yöntemi ile yap işlet devret modeli karşılaştırılıp sonuç ve önerilerde bulunulmuştur.
+Yazar isimleri: ['Furkan CESUR', 'Yalçın EYİGÜN']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Teknoloji ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/icujtas/issue/68686/952725
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1825325

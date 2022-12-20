@@ -1,0 +1,7 @@
+Makale Başlığı: Fixed Point Theorem for Single valued Mapping in Convex Partial Symmetric Spaces with an Application
+Özet: In this paper, we proved a fixed point theorem for single-valued mapping in convex partial symmetric spaces. In doing so, we extended and generalised the theorem due to Asim et al. [3] by employing a convex structure for single-valued Kannan type contractions. We also provided an illustrative example to support the results and anapplication to integral equation.
+Yazar isimleri: ['Santosh KUMAR']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/831352
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1415274

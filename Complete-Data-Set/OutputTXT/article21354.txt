@@ -1,0 +1,7 @@
+Makale Başlığı: Reusability and regeneration of solid catalysts used in ultrasound assisted biodiesel production
+Özet: Reusability of two heterogeneous catalysts in ultrasound (US) assisted biodiesel production was investigated in comparison to each other. An ultrasound (US) generator (200 W, 20 kHz) equipped with a horn type probe (19 mm) was used. Regeneration experiments were planned according to second order central composite design (CCD) method. After the eighth use of the catalysts, biodiesel yield decreased from 99.1% to 90.4% for calcined calcite (CaO) and from 98.8% to 89.8% for calcined dolomite (CaO center dot MgO). Furthermore, regeneration of spent catalysts by calcination was investigated; optimum temperature and time were found as 750 degrees C and 90 min, lower than fresh catalyst preparation conditions. The regenerated catalysts were reused in a second process cycle; biodiesel yield was calculated as 97.2% for CaO and 96.5% for CaO center dot MgO. Finally, the process showed that calcination is an energetically favorable regeneration process of spent catalysts.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944724
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1794942

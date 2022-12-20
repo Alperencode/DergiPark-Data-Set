@@ -1,0 +1,7 @@
+Makale Başlığı: Tümleşik Proje Teslim Yönteminde Erken Evreden İtibaren BIM Kullanımının (IPD/BIM) Verimlilik ve Birlikte Çalışma Üzerine Etkileri
+Özet: Bu çalışmada BIM ile gerçekleştirilen projelerin birlikte çalışma üzerine olan etkileri, teslim yöntemleri üzerinden irdelenecektir. Bu teslim yöntemlerinden BIM/IPD ile yönetilen süreçlerin günümüzdeki yeri ve inşaat sektöründe karşılığı ele alınacaktır. Teknoloji ile gelişen ve dönüşen iletişim yöntemleri, teslim yöntemleri, ortak paylaşım ortamları ve bunların proje erken evresinden tesis yönetim evresine kadar ne gibi avantajları, potansiyelleri ve dezavantajlarının olduğunun sorgulandığı bir çalışma yürütülecektir.
+Yazar isimleri: ['Muhammed Aras DÖNMEZER']
+Yayın Yılı: 26 Temmuz 2022
+Dergi ismi: Yapı Bilgi Modelleme
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ybm/issue/70322/1124297
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2459568

@@ -1,0 +1,7 @@
+Makale Başlığı: A new subspace based solution to background modelling and change detection
+Özet: 
+Yazar isimleri: ['Şahin Işık', 'Kemal Özkan', 'Ömer Nezih Gerek']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/267148
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/233687

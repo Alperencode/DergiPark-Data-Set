@@ -1,0 +1,7 @@
+Makale Başlığı: 3D SPH-FEM MODELLING OF MICRO MILLING OF Ti-6Al-4V
+Özet: Modelling of micro milling process is still one of the most challenging research topics. This paper presents a new 3D SPH-FEM technique used to model micro end milling operation of titanium alloy. Titanium alloys are known as difficult to machine materials because of their thermo-mechanical properties. The low thermal conductivity of these alloys results in high thermal loads on cutting tool during machining process, which results in excessive tool wear that affects final part accuracy. Due to this reason accurate modelling of the process is essential. The finite element modelling techniques previously presented in the literature encountered several characteristic problems, such as the negative volume and/or mesh distortion. In this paper the smoothed particle hydrodynamics (SPH) technique, a mesh-free method, has been efficaciously utilized to overcome these complications. Presented model is validated through comparison of estimated and experimentally measured cutting forces.
+Yazar isimleri: ['Ali MAMEDOV']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Advances in Manufacturing Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jame/issue/71137/1118413
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2435431

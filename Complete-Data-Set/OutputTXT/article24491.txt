@@ -1,0 +1,7 @@
+Makale Başlığı: Generalized Spherical Fuzzy Einstein Aggregation Operators: Application to Multi-Criteria Group Decision-Making Problems
+Özet: The aim of this paper is to present the extension of a concept related to aggregation operators from spherical fuzzy sets to generalized spherical fuzzy sets. We first introduce Einstein sum, product and scalar multiplication for generalized spherical fuzzy sets based on Einstein triangular norm and triangular conorm. Then we give the generalized spherical fuzzy Einstein weighted averaging and generalized spherical fuzzy Einstein weighted geometric operators, namely generalized spherical fuzzy Einstein aggregation operators, constructed on these operations. After investigating some fundamental properties of these operators, we develop a model for generalized spherical fuzzy Einstein aggregation operators to solve the multiple attribute group decision-making problems. Finally, we give a numerical example to demonstrate that the developed method is suitable and effective for the decision process.
+Yazar isimleri: ['Elif GÜNER', 'Halis AYGÜN']
+Yayın Yılı: 28 Aralık 2020
+Dergi ismi: Conference Proceedings of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cpost/issue/58603/799514
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1307800

@@ -1,0 +1,7 @@
+Makale Başlığı: Bulut Bilişim Teknolojilerinin İş birliğine Dayalı Öğrenme Aktiviteleri ile Entegrasyonu
+Özet: Bu çalışmada Bulut Bilişim Teknolojileri (BBT) ile desteklenmiş ve BBT ile desteklenmemiş iş birlikli öğrenme etkinlikleri ortamlarının üniversite öğrencilerinin BBT kabul, paylaşmaya uygunluk ve öğrenme performanslarına etkisinin belirlenmeyi amaçlamakta olup 2x3 faktöriyel desene uygun olarak yürütülmüştür. Çalışmanın katılımcıları Bilgisayar ve Öğretim Teknolojileri Eğitimi Bölümü 1. sınıfta öğrenim görmekte olan 57 öğrenciden oluşmaktadır. BBT ile desteklenmiş iş birlikli öğrenme ortamında Google Classroom platformu ve Google Drive ortamı kullanılmış olup doküman (docs), sunum (slides), e-tablo (e-table) ve form (forms) araçları ile iş birlikli öğrenme aktiviteleri gerçekleştirilmiştir. Elde edilen sonuçlar BBT’nin kullanıldığı grubun BBTK 3 ölçeğinden aldıkları son test puanları üzerinde artış olduğunu, ancak bu artışın diğer grupla kıyaslandığında anlamlı olmadığını göstermektedir. Ayrıca deney gruplarında uygulanan işlemin grup çalışmalarında paylaşmaya uygunluk puanları üzerinde yükselişe neden olduğu, ancak bu yükselişin gruplar arasında anlamlı olmadığı görülmektedir.
+Yazar isimleri: ['Nazire Burçin HAMUTOĞLU']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Çukurova Üniversitesi Eğitim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cuefd/issue/72356/879444
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1574346

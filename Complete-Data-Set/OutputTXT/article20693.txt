@@ -1,0 +1,7 @@
+Makale Başlığı: Aralık değerli tip-2 bulanık denetleyici ile negatif gerilim çıkışlı temel seri luo çeviricinin denetimi
+Özet: Bu çalışmada, sürekli iletim modunda çalışan negatif gerilim çıkışlı temel seri Luo çeviricinin gerilim mod denetimi için aralık değerli tip-2 Takagi-Sugeno-Kang (TSK) bulanık denetleyici önerilmiştir. Önerilen denetleyici ile negatif gerilim çıkışlı temel seri Luo çeviricinin dinamik cevabının farklı denetim senaryoları ile iyileştirilmesi amaçlanmıştır. Bu amaçla ilk olarak negatif gerilim çıkışlı temel seri Luo çeviricinin devre modeli analiz edilmiş ve sürekli iletim modunda çalışma için devre eleman sınır değerleri hesaplanmıştır. Daha sonra önerilen denetim yapısının dinamik performansı referans gerilim değişimi, giriş gerilimi değişimi ve yük değişimi gibi bozuculara karşı Matlab/Simulink benzetim ortamında tip-1 TSK bulanık denetleyici ile karşılaştırmalı olarak incelenmiştir. Benzetim çalışmasından elde edilen karşılaştırmalı denetim başarım değerleri incelendiğinde bütün denetim durumları için yerleşim zamanları bakımından önerilen denetleyicinin tip-1 TSK bulanık denetleyiciye kıyasla daha iyi iyileştirme değerlerine sahip olduğu görülmüştür.
+Yazar isimleri: ['Ahmet GANİ']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1144875
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2542436

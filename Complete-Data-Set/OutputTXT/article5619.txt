@@ -1,0 +1,7 @@
+Makale Başlığı: Wind energy and assessment of wind energy potential in Turkey: A case study for Mersin province
+Özet: Today, decrease in fossil resources and the ever increasing need for energy increases the importance of renewable energy resources. Wind power; It has an important potential and usage area in clean and renewable energy sources. The measurement of Wind speed and direction values is very important in terms of evaluating the data of Wind power plant (WPP) project and estimating the amount of energy that can be produced. Wind energy is a good example of clean energy source due to its advantages such as cleanless fast commissioning, and reliability. There has been a significant increase in recent years especially in terms of utilizing wind energy. By the end of 2016, the installed wind power capacity in the world is 486 749 MW, Turkey takes the 11th place with 6,081 MW of installed capacity. In this study, the use of wind power in Turkey's Mersin province were studied. Mersin province in terms of installed wind power capacity has an important place in Turkey. As of 2016, the installed wind power capacity throughout the province is 364 MW, but the usable wind energy potential in the region is about 3414 MW.
+Yazar isimleri: ['Metin DAĞTEKİN', 'Bekir YELMEN']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: European Mechanical Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ems/issue/73507/1174354
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2646824

@@ -1,0 +1,7 @@
+Makale Başlığı: K-En Yakın Komşu Algoritması İle Dolar-TL Ve Euro-TL Kuru Kullanarak Borsa Endeks Tahmini
+Özet: Çalışmada teknik analiz yardımıyla borsa endeks değerleri için belirlenen kararlar, veri madenciliği yöntemlerinden K-En Yakın Komşu (K-NN) algoritması kullanılarak tahmin edilmeye çalışılmıştır. 2008-2021 yılı kapanış fiyatları dikkate alınarak gerçekleştirilen çalışmada, öncelikle teknik analizin en bilinen indikatörlerinden Bollinger Bant ve Göreceli Güç Endeks göstergeleri ile BIST30, BIST50 ve BIST100 fiyat analizinde Al/Sat/Bekle kararları belirlenmiştir. Elde edilen kararlar ile Dolar-TL ve Euro-TL günlük kur değerleri kullanılarak bir sonraki gün için borsa endeks değerlerinin Al/Sat/Bekle kararları, K-NN algoritması ile tahmin edilmeye çalışmıştır. Bu bağlamda çalışmanın ana amacı borsa endekslerinin kur değişimlerinden etkilendiğini belirlemektir. Elde edilen tahmini kararlardan, endeksin kur değişimlerinden etkilendiği tespit edilmiştir.
+Yazar isimleri: ['Çiğdem ÖZARI', 'Özge DEMİRKALE']
+Yayın Yılı: 27 Nisan 2022
+Dergi ismi: Maliye ve Finans Yazıları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mfy/issue/69611/1034155
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2121875

@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Managers’ Overconfidence who have Made Mergers and Acquisitions on the Firm Value
+Özet: This study aims to examine the effect of overconfidence behaviours of the managers of the companies whose stocks are traded in Borsa Istanbul on the firm value. In the study, a model was created for Tobin q (Model 1), stock market value (Model 2) and enterprise value (Model 3). As a result of the study, a negative relationship was determined between the change in firm value and the overconfidence variable. According to this result, if the managers performing mergers and acquisitions are overconfident, the incorrect decision may be made while determining the firm value. This leads to a decrease in the wealth of the shareholders. In this respect, managers' overconfidence should also be considered while performing mergers and acquisitions in firms.
+Yazar isimleri: ['Reyhan CAN', 'Hatice Işın DİZDARLAR']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1037569
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2136047

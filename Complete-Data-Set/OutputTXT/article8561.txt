@@ -1,0 +1,7 @@
+Makale Başlığı: XOR VE FAZ/FREKANS DEDEKTÖR PLL İLE MASTER-SLAVE FAZ SENKRONİZASYON METODU
+Özet: Faz kilitli döngü (PLL), iletişimde teknolojinin ilerlemesine önemli ölçüde katkıda bulunan bir tekniktir. İlk uyumlu modülasyon sistemleri geliştirildiğinden beri elektronik mühendisliğinde faz ve frekans senkronizasyon sorunları mevcuttur. Bu makale, PLL'nin temel ayrıntılarını vermektedir. Kontrol sistemleri ve dijital iletişim için geçerli olan temel PLL ilkesinin kısa bir özetini sağlar. Ayrıca PLL bileşenlerini ve bunlar arasındaki karşılaştırmayı da bildirir. PLL'ler, doğru zaman esasını kurtarmaktan ve süreçleri senkronize etmekten sorumludur. Uygulama ihtiyaçlarına göre, master-slave en basit ve en çok kullanılan seçim olmak üzere farklı saat dağıtım stratejileri geliştirildi. Senkronizasyon için en aktif senkronizasyon tekniklerinden biri olduğu için PLL teknikleri seçilmiştir. Bu makale, MATLAB'ın Simulink'i, simulasyon yöntemi ve devre tasarımı ve PLL'yi senkronize etmek için matematiksel çözümler içermektedir.
+Yazar isimleri: ['Zeynep KAPLANOĞLU ÇANTI', 'Serhan YARKAN']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ticaretfbd/issue/70676/1008028
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2020294

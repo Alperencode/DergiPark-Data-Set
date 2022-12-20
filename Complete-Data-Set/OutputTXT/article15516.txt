@@ -1,0 +1,7 @@
+Makale Başlığı: Estimating CO2 Emission Time Series with Support Vector Machines Regression, Artificial Neural Networks, and Classic Time Series Analysis
+Özet: 
+Yazar isimleri: ['Fatih ÇEMREK', 'Özge DEMİR']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: Turkish Journal of Forecasting
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/forecasting/issue/67112/1035912
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2129397

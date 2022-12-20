@@ -1,0 +1,7 @@
+Makale Başlığı: Çocukluk Çağı Kanserlerinde NTRK Somatik Füzyonları ve Tümör Agnostik Tedavi
+Özet: Nörotrofik tirozin reseptör kinaz (NTRK) geni yeniden düzenlemeleri yakın zamanda kanser tedavisi için yeni hedefler olarak ortaya konulan biyobelirteçlerden (biyomarker) bir tanesi olarak tanımlanmış ve geliştirilmiştir. NTRK gen füzyonları öngörücü (prediktif-tanısal) bir biyobelirteç olarak kullanılmasının yanı sıra tedavi hedefi olarak da kullanılarak bireyselleştirilmiş hedef tedavide yerini almıştır. NTRK füzyon proteinlerinin selektif inhibitörleri, NTRK füzyon pozitif solid tümörlerin tedavisinde güçlü etkinliğe sahiptir (tümör-agnostik tedavi). Tümörlerinde NTRK füzyonları saptanan hastaların tedavisinde etkili olan FDA (Amerika Birleşik Devletleri Gıda ve İlaç Yönetimi) onaylı yeni tedavilerle birlikte, bu füzyonların test edilmesi önemli hale gelmiştir. Yapılan klinik çalışmalar birinci nesil tirozin reseptör kinaz (TRK) inhibitörleri olan larotrectinib ve entrectinibin NTRK füzyonu pozitif kanserlerin tedavisinde yüksek oranda başarılı olduğu görülmüştür. İlerleyen zamanlarda bu ilaçlar üzerine geniş kapsamlı araştırmaların sayısının artması bu ilaçlar hakkında daha fazla bilgiyi mevcut kılacak ve faydalı olacaktır.
+Yazar isimleri: ['Sonay İNCESOY ÖZDEMİR', 'Ayça Yağmur ŞİMŞEK', 'Emel ÜNAL']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of Contemporary Medicine
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcm/issue/72813/1113357
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2414338

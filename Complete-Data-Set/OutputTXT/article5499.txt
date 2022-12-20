@@ -1,0 +1,7 @@
+Makale Başlığı: A CASE STUDY ON COST ANALYSIS AND LOAD ESTIMATION OF HYBRID RENEWABLE ENERGY SYSTEM USING HOMER PRO
+Özet: Pakistan is facing serious energy deficiency issues. Moreover, emission of polluted gases must be minimized to reduce the air pollution. The emission of harmful gases can be lessened by the implementation of renewable energy resources. Such issues can be curtailed through proper planning on national and gross root level.  In this study, load estimation and cost analysis for the installation of optimized hybrid model of renewable energy resources in electrical engineering department of University of Azad Jammu & Kashmir has been presented. In order to analyze load and estimate the cost, different scenarios are generated on Hybrid Optimization Model for Electric Renewables (HOMER) Pro software. On the basis of these scenarios, the system having less cost of energy and emission of polluted gases is proposed as the optimal system to power the department.
+Yazar isimleri: ['Saba MUNİR', 'Ausnain NAVEED', 'Raja Tahir IQBAL', 'Mohtasim USMAN']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Eurasian Journal of Science Engineering and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejset/issue/73873/1110275
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2402514

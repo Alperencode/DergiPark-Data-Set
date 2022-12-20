@@ -1,0 +1,7 @@
+Makale Başlığı: Breast Cancer Diagnosis using Geometrical Descriptors Obtained from Adaptive Convex Hulls of Suspicious Regions
+Özet: 
+Yazar isimleri: ['İdil ISIKLI ESENER', 'Şükriye KARA', 'Semih ERGİN']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: Veri Bilimi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/veri/issue/67424/971277
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1880137

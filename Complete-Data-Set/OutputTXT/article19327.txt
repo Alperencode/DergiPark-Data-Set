@@ -1,0 +1,7 @@
+Makale Başlığı: Estimation of Consumption Functions Using Savings Motive Hypothesis (SMH)
+Özet: In this paper a new consumption function is derived based on savings motive hypothesis (SMH). The major theory behind the SMH is that households save part of their income in period 1 and transfer it to period 2. Implying that consumption in period 1 is the addition of autonomous consumption and variable consumption in period 2. The validity of the SMH is tested by using data from India, Kenya, South Africa, Saudi Arabia, UK and USA for the period 1970 to 2018. The data analyses are performed by using World Bank Data and generalized least squares (GLS) method. The paper demonstrates that estimation of the consumption function could be done more accurately by using SMH of the consumption function. The MSH is based on the psychological savings motive theory. Some results in the paper can be used in making both household and national welfare decisions e.g. making use of the short run global marginal propensity to consume that is found to be 0.43.
+Yazar isimleri: ['Jimmy ALANİ']
+Yayın Yılı: 17 Ağustos 2022
+Dergi ismi: International Econometric Review
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ier/issue/72197/1023428
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2080698

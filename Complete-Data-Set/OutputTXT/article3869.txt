@@ -1,0 +1,7 @@
+Makale Başlığı: Yeni LCR Tipi Traverslerin Demiryolu Hat Rijitliğine Etkisinin Araştırılması
+Özet: Bu çalışma kapsamında, demiryolu hat rijitliği ve traverslerin eğilme modüllerinin bu hat rijitliğine etkisi, geniş bir literatür taraması, basitleştirilmiş örneklendirmeler ve karşılaştırmalı deneylerle incelenmiştir. Deneyler esnasında, standart B70 tipi öngerilmeli beton demiryolu traversleri ve ülkemizde son yıllarda geliştirmeye alınan yeni LCR tipi traversler kullanılmıştır. Çalışma sonucunda, yeni tip traverslerin kütlesi ve eğilme modülü bakımından, ahşap traverslerin optimum eğilme modülü avantajını ve beton traverslerin yüksek kütle ve çevresel dayanıklılık avantajlarını bir araya getirerek, optimum bir çözüm sağladığı görülmüştür. Ayrıca sahip olduğu bu optimum eğilme modülünü, servis ömrü boyunca koruyup koruyamayacağı da incelenmiş ve yeni tip traverslerin tekrarlı yükleme adımlarında eğilme modülünü büyük oranda koruduğu ve yüksek değerli yüklere rağmen plastik deformasyonlarının en az öngerilmeli rakipleri kadar düşük olduğu görülmüştür.
+Yazar isimleri: ['Ferhat ÇEÇEN', 'Bekir AKTAŞ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Demiryolu Mühendisliği
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/demiryolu/issue/69368/1105999
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2384549

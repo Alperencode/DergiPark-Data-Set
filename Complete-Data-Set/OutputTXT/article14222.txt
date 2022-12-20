@@ -1,0 +1,7 @@
+Makale Başlığı: Bankaya Özgü ve Makroekonomik Faktörlerin Bankaların Sermaye Yapısı Üzerine Etkisi
+Özet: Bu çalışma, bankaların sermaye yapısını etkileyen bankaya özgü ve makroekonomik faktörleri incelemeyi amaçlamaktadır. Çalışmada, Türkiye'de 2003-2017 yılları arasında faaliyet gösteren 42 bankanın panel verileri kullanılmıştır. Analizde, toplam borç, uzun vadeli ve kısa vadeli borç oranları sermaye yapısının göstergesi olarak kullanılmıştır. Araştırma bulguları, banka büyüklüğü, büyüme fırsatı, faiz oranı ve döviz kurunun kaldıraç oranlarını olumlu yönde etkilediğini, kârlılığın ise olumsuz yönde etkilediğini göstermektedir. Bu çalışmanın bulgularının çoğunluğu finansman hiyerarşisi teorisinin beklentileriyle uyumludur.
+Yazar isimleri: ['Semira Hassen ALI', 'Hüseyin DAGLİ', 'Sara FAEDFAR', 'Ayten TURAN KURTARAN']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1066617
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2226629

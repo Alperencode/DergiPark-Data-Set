@@ -1,0 +1,7 @@
+Makale Başlığı: The Impact of Renewable Energy Use on Green Growth: The Case of Emerging Economies
+Özet: In this study, the effect of renewable energy use on green growth is investigated for 11 emerging economies with a growth rate higher than the world average annual green growth, per capita GDP, and per capita renewable energy use growth rate in 1990-2019. For this purpose, the variables of financial development, economic integration, use of renewable energy, and green growth were used annually in the 1990-2019 period. CCEMG and AMG panel estimators were used as a method. The findings showed that the increase in the use of renewable energy hurts green growth. This is because existing technologies are predominantly integrated with fossil fuels, making the GDPs of these economies more dependent on fossil fuels, and the use of renewable energy, which is used on a small scale, brings high costs. In addition, rising energy prices for energy-importing economies may cause vulnerabilities in economies and slow down or hinder governments' renewable energy policies. On the other hand, increasing economic growth causes more energy demand. Meeting the increasing energy demand with fossil fuels at a high rate increases negative externalities and negatively affects green growth.
+Yazar isimleri: ['Mustafa NAİMOĞLU']
+Yayın Yılı: 4 Kasım 2022
+Dergi ismi: Akdeniz İİBF Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/auiibfd/issue/72233/1077576
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2269439

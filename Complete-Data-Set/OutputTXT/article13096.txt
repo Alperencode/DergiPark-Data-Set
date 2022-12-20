@@ -1,0 +1,7 @@
+Makale Başlığı: Mimaride Kullanılan Yonga Levhaların Kolofan Katkılı Borlu Bileşikler ile Yangın Dayanımının Artırılması
+Özet: Mimaride göz önüne alınması gereken önemli faktörlerden birisi de kullanılan malzemelerin yangın dayanımıdır. Bu çalışmada, mimaride yaygın olarak kullanılan yonga levhaların yangın dayanımlarının artırılması amaçlanmıştır. Bu maksatla borlu bileşiklerin kolofan katkısı ile modifiye edilmesinden elde edilen yeni tip emprenye maddesi kullanılarak yanma direncinin artırılması hedeflenmiştir. Bu kapsamda TS 642 ISO 554’e uygun oalrak hazırlanan yonga levha örnekleri ASTM-E 160-50’ye  uygun olarak boyutlandırılmıştır. Hazırlanan numunelerin yanma deneyleri ASTM-E 160-50 E’ye göre yapılmıştır. Deneylerde yanma süresi, ağırlık kaybı oranları, AKY, KKY, KHY sıcaklıları belirlenerek kontrol numuneleri ile karşılaştırılmıştır. Sonuç olarak yeni tip emprenye maddesininAKY, KKY sıcaklık değerlerinde ortalama %5, KHY sıcaklık değerlerinde % 1,8, ağırlık kaybında %0,5 düşüş ve yanma süresinde %2 oranında artış sağladığı ölçülmüştür. Mimaride yangın riski yüksek olan yonga levha kullanım alanlarında bu durum dikkate alınabilir. 
+Yazar isimleri: ['Taner AŞÇI', 'Mustafa KÜÇÜKTÜVEK', 'Hakan KESKİN']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/895063
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1632007

@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison of Pin On Disc Wear Properties of ST52 -ST37 and Non-Standard Steel Used in Agricultural Machinery Manufacturing
+Özet: In this study, the chemical alloy of non-standard steel, ST37 and ST 52 steels used in the manufacture of agricultural machinery was examined and their contents and wear properties were determined. The mechanical behavior of non-standard, ST37 and ST52 steels drawn from the rolling unit of the iron and steel industry of the manufacturer company was studied using machines and equipment located in the workshop and laboratory of the Department of Mechanical and Metal Technologies of the Adıyaman University TBMYO. Wear behaviors were compared by analyzing the materials used in the manufacture of agricultural machinery. They were subjected to pin on disk dry wear test at different loads (10-20 and 30N) and by running 500m. As a result of the study, as a result of examining the traces where the abrasive ball contacted the material under the microscope, it was seen that the trace width and the depth of the wear traces increased as the load increased.
+Yazar isimleri: ['Fuat LULE', 'Vahdettin KOÇ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1089746
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2317556

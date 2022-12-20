@@ -1,0 +1,7 @@
+Makale Başlığı: CAUSALİTY RELATİONSHİP BETWEEN INFLATİON AND INCOME DİSTRİBUTİON: A STUDY ON DEVELOPİNG OECD COUNTRİES
+Özet: Income inequality has a significant socio-economic impact on people's daily life. For this reason, knowing which factors affect income distribution is important in terms of eliminating the inequality. In the literature, it is argued that the main factor affecting income distribution is inflation. In this research, the causality relationship between inflation and income distribution is investigated with the Dumitrescu-Hurlin panel causality test, using the annual data of 8 developing OECD countries covering the period 2007-2019. As a result, no any causality relationship is found for the country group considered, both from inflation rates to income distribution, and from income distribution to inflation rates. In other words, inflation rates are not the cause of income inequality in the countries included in the analysis, and vice versa
+Yazar isimleri: ['Caner DİLBER', 'Mercan HATİPOĞLU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Finans Ekonomi ve Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fesa/issue/72711/1092827
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2330351

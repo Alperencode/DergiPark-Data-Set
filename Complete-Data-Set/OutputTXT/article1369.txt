@@ -1,0 +1,7 @@
+Makale Başlığı: The Green Inhibitive Effect of Ptychostomum schleicheri (Bryophyta) Extract on Mild Steel Corrosion
+Özet: In present study, the inhibitive impact of Ptychostomum schleicheri extract, a moss species of Bryaceae family, on the mild steel corrosion in 1 M HCl at ambient temperature was firstly analysed by Tafel extrapolation method, electrochemical impedance spectroscopy (EIS) and linear polarization (LPR) techniques. Electrochemical tests were conducted by 1 h immersing mild steels in HCl solutions containing four various concentrations of moss extract. At a concentration of 0.200% (w/v), the moss extract displayed around 90 percent inhibition efficiency by three electrochemical methods, and it was also observed that its protective effect increased depending on the upsurge in the concentration of Ptychostomum schleicheri extract. The morphologies of mild steels surface in 1 M HCl with and without P. schleicheri extract at the end of 1 h immersion time were visualized by a metal microscope. Finally, according to the electrochemical data and surface morphology results, it can be said that the extract molecules adsorbed on the mild steel surface to achieve almost maximal coverage and contact.
+Yazar isimleri: ['Demet ÖZKIR']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Anatolian Bryology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anatolianbryology/issue/73530/1193546
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2726702

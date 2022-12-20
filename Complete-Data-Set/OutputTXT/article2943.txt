@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Public Investment Expenditure on Unemployment in Turkey: Evidence from Panel Data Analysis
+Özet: In this study, using annual data for the period of 2004-2017, the relationship between public investment expenditure and unemployment rate in 26 NUTS-2 regions in Turkey was investigated by panel ARDL method. According to the results of the cointegration test and panel ARDL-PMG estimator after the cross-sectional dependence and unit root tests, a long-term relationship was determined between public investment expenditures and unemployment rate. Accordingly, it has been determined that a 1% increase in public investment expenditure reduces the unemployment rate at the regional level by 0.30% in the long run. In the short term, it has been determined that public investments do not have a significant effect on unemployment throughout the panel. From this point of view, it can be said that the Keynesian view of economics is valid in terms of the relationship between public investments and the level of unemployment.
+Yazar isimleri: ['Serhat GÖZEN']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: BİLTÜRK Ekonomi ve İlişkili Çalışmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bilturk/issue/73023/1172975
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2641000

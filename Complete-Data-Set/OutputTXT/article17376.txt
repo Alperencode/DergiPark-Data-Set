@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Üç Gün Hastalığı ve Ekonomik Boyutu
+Özet: Bovine Ephemeral Fever (BEF), süt ve et üretiminde önemli bir düşüşe, inek ve boğalarda kısırlığa, düşüklere ve sürüde hızla yayılması nedeniyle önemli ekonomik kayıplara neden olan viral bir enfeksiyondur. Çalışmada aşı kullanımının ve aşı kullanmamanın ekonomik etkisini ölçmek için kısmi bütçeleme yöntemi kullanılmıştır. Koruyucu hekimlik doğrultusunda, hayvanlar düzenli aşılanırsa hayvan başına ortalama 8,10 (dolars) aşı maliyeti olduğu, salgın sırasında aşılanmayan bir hayvanın ortalama tedavi maliyetinin ise 20,2 (dolars) olduğu belirlendi. Yapılan ekonomik analizde tedavi maliyetlerine ek olarak kondisyon kaybı ile birlikte süt ineği için süt kaybının yaklaşık 85 (dolars), besi hayvanı için 148 (dolars) olduğu, ancak yüksek morbidite nedeniyle ekonomik kaybın arttığı belirlendi. Bu bağlamda BEF enfeksiyonu ile mücadelede aşılama kadar erken teşhis, yayılma koşullarının tespiti ve takibi de son derece önemlidir. Türkiye'de Tarım ve Orman Bakanlığı tarafından bu amaçla oluşturulan erken uyarı sistemi ile hastalığa hızlı müdahale edilerek yapılacak aşılama ve koruyucu hekimlik uygulamaları ile ekonomik kaybın en aza indirileceği söylenebilir.
+Yazar isimleri: ['Cemalettin AYVAZOĞLU', 'Pınar AYVAZOĞLU DEMİR']
+Yayın Yılı: 29 Kasım 2022
+Dergi ismi: Van Veterinary Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/vanvetj/issue/73594/1141040
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2527391

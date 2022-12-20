@@ -1,0 +1,7 @@
+Makale Başlığı: Common Attractive Point Theorems for a Finite Family of Multivalued Nonexpansive Mappings in Banach Spaces
+Özet: OurmainpurposeofthispaperistointroducethemodifiedMannandIshikawaiteratesforfindingacommonattractivepoint of a finite family of multivalued nonexpansive mappings in the setting of uniformly convex Banach spaces. Weobtain necessary and sufficient conditions to guarantee the strong convergence of the proposed algorithms withoutclosedness of the domain of such mappings. Moreover, we derive some consequences from our main result to fixedpoint result of such mappings. Finally, the numerical results are provided to support our main theorem.
+Yazar isimleri: ['Narawadee PHUDOLSİTTHİPHAT']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1128729
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2478030

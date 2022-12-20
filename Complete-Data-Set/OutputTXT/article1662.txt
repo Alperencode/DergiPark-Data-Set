@@ -1,0 +1,7 @@
+Makale Başlığı: Koalisyon Oluşumu Oyunları: İçsel Kararlılık
+Özet: Bu makalede hedonik koalisyon oluşumu oyunlarında kullanılan yeni bir denge kavramı olan içsel kararlılık ve içsel kararlı koalisyon yapılarını bulan İçsel Algoritma çalışılacaktır. İlk önce içsel kararlılıkkavramının özellikleri işlenecek ve içsel kararlılık ile diğer kararlılık kavramları arasındaki ilişki analiz edilecektir. Daha sonra içsel algoritma tanıtılacak ve bu algoritma yardımı ile bir hedonik koalisyon oluşumu oyununda sıradan olmayan içsel kararlı koalisyon yapılarını bulmanın mümkün olduğu ispat edilecektir. Devamında da içsel algoritma ile içsel kararlı sıradan koalisyon yapıları arasında ilişki analiz edilecektir.
+Yazar isimleri: []
+Yayın Yılı: 16 Aralık 2022
+Dergi ismi: Ankara Üniversitesi SBF Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ausbf/issue/73906/1148831
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2557713

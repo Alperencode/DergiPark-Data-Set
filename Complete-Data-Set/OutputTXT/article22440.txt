@@ -1,0 +1,7 @@
+Makale Başlığı: Isolation, Identification and Determination of Some Antibiotics Resistance Profiles of Vibrio parahaemolyticus from Blue Crabs
+Özet: The purpose of this study is isolation, identification and determination of antibacterial resistance profiles of Vibrio parahaemolyticus from blue crabs obtained from Aydın province. Out of four isolates from sixty suspected isolates were identified as Vibrio parahaemolyticus by real-time PCR. The suspectibility level of these strains to antibiotics, such as Penicillin G, clindamycin, piperacilin, amoxicillin-clavulanic acid, ciprofloxacin and gentamicin was identified with disc diffusion method. It was determined all isolates were resistant to penicillin G and clindamycin and sensitive to other antibiotics at varying levels.
+Yazar isimleri: ['Sadık BÜYÜKYÖRÜK', 'Cemil SAHINER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bozok Veterinary Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bozokvetsci/issue/70492/1084549
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2296907

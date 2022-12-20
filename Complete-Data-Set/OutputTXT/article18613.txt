@@ -1,0 +1,7 @@
+Makale Başlığı: Çocuklarda Antiepileptik İlaçlar
+Özet: Antiepileptik ilaçlar (AEİ) ile epilepsi tanılı çocukların yaklaşık %70’nde nöbetler kontrol altına alınır. Seçilecek ilaç hastaların yaşı, nöbet semiyolojisi, epileptik sendrom, farmakogenetik yaklaşım ile belirlenir. Tedavide amaç bir veya daha fazla antiepileptik ilacın etkili dozunu muhafaza ederek nöbet oluşumunu önlemektir. Son yıllarda yan etki profili ve ilaç etkileşimi daha az olan birçok yeni nesil AEİ gündeme gelmiş olup bir kısmı klinik pratikte kullanılmaktadır. Çocuklarda, erişkinlere göre AEİ’lerin klinik kullanımları ve yan etkileri farklıdır. AEİ’lerin çocuk yaş grubuna ait özelliklerinin bilinmesi tedavi başarısında son derece önemlidir. Derlememizde çok sayıda güncel kaynak incelenerek çocukluklarda sık kullanılan AEİ’lerin etki mekanizmaları, farmakokinetik özellikleri, klinik kullanım ve dozları, yan etki ve ilaç etkileşimleri ele alınmıştır.
+Yazar isimleri: ['Burçin Nazlı KARACABEY', 'Edibe PEMBEGÜL YILDIZ', 'Mine ÇALIŞKAN']
+Yayın Yılı: 9 Eylül 2022
+Dergi ismi: Çocuk Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jchild/issue/72791/837819
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1438165

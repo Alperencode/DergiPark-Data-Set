@@ -1,0 +1,7 @@
+Makale Başlığı: New approximate-analytical solutions to nonlinear time-fractional partial differential equations via homotopy perturbation Elzaki transform method
+Özet: Some nonlinear time-fractional partial differential equations are solved by homotopy perturbation Elzaki transform method.  The fractional derivatives are defined in the Caputo sense.  The applications are examined by homotopy perturbation Elzaki transform method.  Besides, the graphs of the solutions are plotted in the MAPLE software. Also, absolute error comparison of homotopy perturbation Elzaki transform method and homotopy perturbation Sumudu transform method solutions with the exact solution of nonlinear time-fractional partial differential equations is presented. In addition, this absolute error comparison is indicated in the tables. The novelty of this article is the first analysis of both the gas dynamics equation of Caputo fractional order and the Klein-Gordon equation of Caputo fractional order via this method. Thus, homotopy perturbation Elzaki transform method is quick and effective in obtaining the analytical solutions of time-fractional partial differential equations.
+Yazar isimleri: ['Halil ANAÇ']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/984440
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1931818

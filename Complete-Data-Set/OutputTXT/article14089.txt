@@ -1,0 +1,7 @@
+Makale Başlığı: GELİŞEN TEKNOLOJİDE ENDÜSTRİ 4.0’IN DURUMU
+Özet: Son iki yüz yılda makine ve son elli yılda bilimin her alanında ki gelişmeler çok hızlı bir şekilde devam etmektedir. Gelişen bu teknolojik bilim dalları Endüstri gelişimi olarak adlandırılmaktadır. Gelinen bilim ve teknolojinin ilerlemesi noktasında, hayatın ve sanyinin her alanında ki sistemlere uygulanır hale gelmesine Endüstri 4.0  devrimi denilmektedir. Endüstri 4.0 devrimi modern sanayileşme, üretim, bilgi ve iletişim sistemlerinin  birbirleri ile daha sıkı bağlantı olmasını sağlamaktadır. Endüstri 4.0’ün bilgi teknolojisinde kullanımı iş akışında farklı alternatifler sunmaktadır. Gelişen teknoloji insan yaşamını ve konforunu doğrudan etkilemektedir. Çalışmada Endüstri 4.0’ın bugünkü gelişimi ile insanların günlük yaşantılarına neler kattığını yaşam standartlarını ne kadar etkilediği araştırılmıştır. Bu kapsamda günümüz teknolojisine Endüstri 4.0’ın yansımaları irdelenmiştir.
+Yazar isimleri: ['Murat KAYA', 'Gül KAYA']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Soma Meslek Yüksekokulu Teknik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/somatbd/issue/71302/1109940
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2401109

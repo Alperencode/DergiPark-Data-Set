@@ -1,0 +1,7 @@
+Makale Başlığı: Operation of Grid Integrated Wind/PV Hybrid System with Grid Perturbations
+Özet: The wind and solar energies are the most available among other renewable energy sources in all over the world. In present years, because of the rapid advances of power electronic systems the production of electricity from wind and photovoltaic energy sources have increased significantly. In this paper, the performance of the wind/PV hybrid system is studied under different grid perturbation conditions. The wind/PV hybrid system model has been implemented in Matlab/Simulink environment. The wind power system and PV arrays are controlled to attain maximum power output from them. The controller used for inverter maintains constant DC voltage at DC bus while injecting only active power to the grid. The common grid perturbations considered in this study are balanced voltage dip, voltage unbalance and harmonic distortions. The simulation result reported in this work also shows that, the performance of the presented hybrid system model is not affected by the grid disturbances considered.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167897
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/148000

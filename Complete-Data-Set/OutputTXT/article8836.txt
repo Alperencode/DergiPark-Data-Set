@@ -1,0 +1,7 @@
+Makale Başlığı: Are Electronic Health Records Beneficial or Not?
+Özet:           There are numerous studies in the literature assessing the effect of Electronic Health Records (EHRs) on health institutions. Some found that EHRs improve quality, service delivery, and satisfaction, while others claim that EHRs are not helpful in these matters. The conceptual ambiguity in the literature regarding EHRs directly affects research results and might misinterpret those results. The purpose of this study is to examine the literature assessing the effect of EHRs on health care quality in terms of EHRs and related concepts. A comprehensive review was conducted of 702 articles on EHRs published between January 2000 and January 2021 and drawn from the Web of Science. The literature showed that 59.26% of the studies addressing the benefits of EHRs are not directly related to EHRs, but rather to EHR functions. Only 1.28% of all studies found in the search dealt with the benefits of EHRs, such as the ease of access provided by EHRs, a natural advantage of EHRs. This study provides valuable information to make more informed decisions about the definition and use of EHR-related concepts and removes the conceptual ambiguity regarding the benefits of EHRs. 
+Yazar isimleri: ['İlker KÖSE', 'Sinem CECE', 'Esra BAYRAKTAR']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Journal of  Health Systems and Policies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jhesp/issue/71070/1082576
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2288949

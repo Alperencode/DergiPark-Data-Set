@@ -1,0 +1,7 @@
+Makale Başlığı: YENGEÇ SENDROMUNUN YENİLİKÇİ DAVRANIŞLAR ÜZERİNDEKİ YANSIMASI: ALGILANAN ÖRGÜTSEL DESTEĞİN ARACI ROLÜ VE BİLİŞİM TEKNOLOJİLERİ İŞLETMELERİNDE BİR UYGULAMA
+Özet: Bu çalışma, yengeç sendromunun yenilikçi davranışlara etkisinde algılanan örgütsel desteğin aracılık rolünü tespit etmek amacı ile gerçekleştirilmiştir.  Bu amaç doğrultusunda çalışma nicel araştırma desenlerinden tarama modeline göre yürütülmüştür. Sosyal karşılaştırma ve sosyal değişim kuramlarına dayanarak oluşturulan araştırma modelinde yengeç sendromu tahmin değişkeni, algılanan örgütsel destek aracı değişken ve yenilikçi davranış sonuç değişkeni olarak ele alınmıştır. Araştırmanın örneklemini, bilişim sektöründe çalışan 200 katılımcı oluşturmaktadır. Araştırmanın hipotezleri yapısal eşitlik modeli ve bootstrap yöntemi kullanılarak test edilmiştir. Araştırma sonuçlarına göre, yengeç sendromunun yenilikçi davranışı negatif olarak yordadığı ve algılanan örgütsel desteğin bu ilişkide tam aracı etkisinin olduğu görülmüştür. Araştırmanın katkıları ve kısıtları tartışılmış, gelecek çalışmalar için öneriler sunulmuştur.
+Yazar isimleri: ['Osman Seray ÖZKAN', 'Burcu ÜZÜM', 'Yasemin GÜLBAHAR']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Doğuş Üniversitesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/doujournal/issue/71547/1033247
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2118265

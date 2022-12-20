@@ -1,0 +1,7 @@
+Makale Başlığı: Globalization and Employment: The Case of Turkey
+Özet: Bu çalışma, 1970-2019 yılları için Türkiye'nin küreselleşme ve istihdam düzeyi arasındaki uzun dönemli ilişkiyi ARDL yaklaşımıyla incelemektedir. ARDL sınır testi ile uygulanan eşbütünleşme testinin sonucu, Türkiye'de enflasyon, küreselleşme ve istihdamın eşbütünleşik olduğunu ve uzun vadede birlikte hareket ettiklerini göstermektedir. Uzun dönem katsayı tahmin bulgularına göre küreselleşmenin istihdam düzeyi üzerinde pozitif ve istatistiksel olarak anlamlı bir etkisi vardır. Enflasyonun ise istihdam düzeyi üzerinde negatif ve istatistiksel olarak anlamlı bir etkisi vardır. Diğer bir deyişle, küreselleşme düzeyindeki yüzde birlik sıçramayı, Türkiye'de istihdam düzeyindeki yüzde 0,853'lük bir artış takip ederken, küreselleşme düzeyindeki yüzde birlik artış, Türkiye'de istihdam düzeyindeki yüzde 0,057'lik bir düşüşe yol açmaktadır. Son olarak VAR Granger Nedensellik testi bulgularına dayalı olarak, GLOB ve EMP değişkenlerinden INF değişkenine ve ayrıca INF ve GLOB değişkenlerinden EMP değişkenine uzanan nedensellikler tespit edilmiştir.
+Yazar isimleri: ['Cüneyt KOYUNCU', 'Eda ÖZEN']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Balkan Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsbd/issue/70989/1135195
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2504934

@@ -1,0 +1,7 @@
+Makale Başlığı: THE IMPACT OF INFORMATION SYSTEMS ON THE DECISION-MAKING PROCESS OF FINANCIAL MANAGEMENT: A RESEARCH IN THE MINISTRY OF EDUCATION IN LIBYA
+Özet: Information systems are considered one of the essential topics researchers are interested in. The increasing need to collect, process, and use data and information effectively is a crucial requirement for the success of organizations in all its forms. It has become obligatory for institutions to use information systems to make decisions related to administrative and financial functions. This study aims to determine the effect of information systems on the quality of decision-making in financial management. The research data was obtained through a purpose-prepared questionnaire. The population of this study consists of 200 employees working as managers, heads of administrative and financial departments, accountants, internal auditors in the Ministry of Education in Libya. Following the study's goal, the obtained data have been analyzed using the partial least squares regression (PLS) analysis method. The analysis results show that information system quality affects information quality and decision-making quality.
+Yazar isimleri: ['Serhan GÜRKAN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: EUropean Journal of Managerial Research (EUJMR)
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/eujmr/issue/72389/1061893
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2208163

@@ -1,0 +1,7 @@
+Makale Başlığı: The Wage-Price Spiral in Turkey and Its Effect on Inflation: ARDL Bounds Test Approach
+Özet: This article explores the validity of the wage-price spiral and its effect on inflation in Turkey in the period 2009Q1-2021Q3. For this purpose, three models have been estimated. The first is the basic wage-price spiral model; the second is the wage-price model decoupled from productivity in the industrial sector; the third is the extended model that takes into account the macro determinants underlying price inflation. According to the results of the models estimated using the ARDL Bounds Test Approach, the wage-price spiral is valid only when other determinants of inflation are ignored. According to the estimation results of the extended model, it is concluded that real gross domestic product on wages and exchange rate on prices are positive and statistically significant in both the long and short run.
+Yazar isimleri: ['Ezgi BADAY YILDIZ']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Uluslararası Ekonomi ve Yenilik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ueyd/issue/72213/1160762
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2591329

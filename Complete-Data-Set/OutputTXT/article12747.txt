@@ -1,0 +1,7 @@
+Makale Başlığı: Yeni tanı konulan hipertansif hastalarda antihipertansif ilaç başlanmasının MPV düzeyine etkisi
+Özet: Trombosit aktivasyonu hipertansiyon patogenezinde rol oynayan bir faktördür. Ayrıca, trombotik olayların gelişimine ve hipertansiyona bağlı hedef organ hasarına katkıda bulunur. Mean platelet volume, platelet aktivasyonunu gösteren kolay ölçülebilir bir parametredir. Bu çalışmanın amacı, yeni tanı almış hipertansif hastalarda antihipertansif ilaç tedavisine başlandıktan sonra MPV düzeylerinde herhangi bir değişiklik olup olmadığını değerlendirmektir. Antihipertansif ilaç tedavisine başlanan 79 hasta retrospektif olarak değerlendirildi. Hastaların% 24.1'inde mikroalbüminüri vardı. Antihipertansif ilacın başlamasından önceki ve sonraki MPV değerleri (5.8=3.6 ay) istatistiksel olarak karşılaştırıldı. Antihipertansif ilaç tedavisine başlandıktan sonra ortalama MPV değerinde istatistiksel olarak anlamlı azalma saptandı (8.92=1.76 fl'ye karşılık 8.38=1.60 fL, p<0.001). Ortalama MPV değeri mikroalbüminürik grupta normoalbüminürik gruba göre daha yüksekti (9.24=1.10 fLvs. 8.49 = 1.75 fL, p = 0.028). Yeni tanı konulan hipertansif hastalarda antihipertansif ilaç başlanmasını takip eden ilk yıl içinde ortalama MPV düzeyinde anlamlı bir azalma tespit edildi.
+Yazar isimleri: ['Aysun AYBAL KUTLUGÜN', 'Fatma KAPLAN EFE', 'Gülsüm BİTEN-GÜVEN']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Osmangazi Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/otd/issue/73231/1114328
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2418246

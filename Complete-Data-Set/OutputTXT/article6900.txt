@@ -1,0 +1,7 @@
+Makale Başlığı: Normal Bir Betonarme Bina ile Kompozit Bir Betonarme Binanın Deprem Dayanımı ve Maliyet Açısından Karşılaştırılması
+Özet: Deprem davranışı ve yük taşıma kapasitesi açısından kompozit taşıyıcı sistemler, normal betonarme sistemlere göre daha iyi performans göstermektedir. Bu çalışmada, normal bir betonarme bina ile kompozit bir bina yatay deprem dayanımı ve maliyet açısından karşılaştırılmıştır. Hem doğrusal hem de doğrusal olmayan analizler icra edilmiş, hesaplamalarda ise ProtaStructures ve ETABS programlarından yararlanılmıştır. Hesaplamalar sonucunda kompozit binanın normal betonarme binaya göre çok daha sünek davrandığı görülmüştür. Ayrıca her kolona birer profil yerleştirilerek binaya getirilen ek maliyetin bina toplam maliyetine göre abartılı olmadığı gözlemlenmiştir.
+Yazar isimleri: ['Selahattin Batuhan ORHAN', 'Arif GÜREL', 'Rabia İZOL']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Harran Üniversitesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/humder/issue/69932/1125368
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2463868

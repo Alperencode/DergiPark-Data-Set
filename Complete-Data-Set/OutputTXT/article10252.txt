@@ -1,0 +1,7 @@
+Makale Başlığı: Küresel Risk, Brüt Portföy Girişleri ve Aktif Fiyatları: Türkiye Örneği
+Özet: Bu makalede Türkiye ekonomisinin 2003:Q1-2019:Q4 dönemine ait verileri kullanılarak küresel risk, brüt portföy girişleri ve aktif fiyatları arasındaki dinamik ilişki yapısal vektör otoregresif model yardımıyla incelenmektedir. Etki-tepki analizinin bulguları, pozitif volatilite endeksi (VIX) şokuna brüt portföy girişlerinin ve Borsa İstanbul (BIST) 100 reel getiri endeksinin iki çeyrek dönemde negatif ve istatistiksel olarak anlamlı tepki verdiğini göstermektedir. Pozitif bir portföy girişi şoku ise, reel efektif döviz kuru ve Borsa İstanbul reel getiri endeksi üzerinde bir çeyrek dönem pozitif ve anlamlı etki yaratmaktadır. İlave olarak, borsa getiri endeksi reel efektif döviz kuru şokuna bir çeyrek dönem pozitif ve anlamlı tepki vermektedir. Bu bulgular, küresel risk şoklarının Türkiye ekonomisinde aktif fiyatları üzerinde yarattığı yayılma etkilerinin aktarımında brüt portföy girişlerinin önemli bir rolü olduğunu ispatlamaktadır.
+Yazar isimleri: ['Cemil VARLIK']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Karamanoğlu Mehmetbey Üniversitesi Sosyal Ve Ekonomik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kmusekad/issue/70427/1073228
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2252055

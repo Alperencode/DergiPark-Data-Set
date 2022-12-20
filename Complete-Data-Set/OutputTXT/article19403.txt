@@ -1,0 +1,7 @@
+Makale Başlığı: A Discrete Bat Algorithm for the Examination Timetabling Problem
+Özet: 
+Yazar isimleri: ['Egbert MUJUNİ']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: International Journal of Informatics and Applied Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiam/issue/68183/858161
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1501431

@@ -1,0 +1,7 @@
+Makale Başlığı: Inequality in Education Among Turkish Young Individuals, 1988-2020
+Özet: This paper studies the changes in education inequality in the youth population (15-29 age group) in Turkey using the Household Labour Force Survey data for the 1988-2020 period. The average years of schooling is calculated to investigate the changes in the level of educational attainment, and standard deviation in years of schooling and education Gini coefficient are calculated to examine how within-group education inequality changes over time. These statistics are calculated for young men and young women separately to also find out how gender inequality in educational attainment and education inequality changes over time. The findings of this study show that the average years of schooling increases for both young men and young women in Turkey while education inequality measured by the Gini coefficient decreases for both groups between 1988 and 2020. This seems to reflect the positive implications of the expansion in compulsory education for both AYS and education inequality. Average years of schooling is higher for young men while education Gini is higher among young women despite the closing of the gender gap in both measures over time.
+Yazar isimleri: ['Nursel AYDINER AVŞAR', 'Bengi YANIK İLHAN']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Aurum Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aurum/issue/70478/1109865
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2400761

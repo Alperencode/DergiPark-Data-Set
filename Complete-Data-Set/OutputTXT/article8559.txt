@@ -1,0 +1,7 @@
+Makale Başlığı: POISSON REGRESSION AND APPLICATION TO MARRIAGE STATISTICS
+Özet: Dependent variables in regression analyzes may show normal distribution but may have two values. Data sets are created by measuring the conditions of dependent variables quantitatively or qualitatively. There are various methods for evaluating and modeling the data in these groups. One of these methods is the poisson regression model. In the research, the number of marriages in Turkey, the average age of marriage and the factors affecting them are examined. In this context, the marriage data that took place in Turkey between the years 2001-2010 are analyzed from TUIK. In analysis, number of marriages was accepted as the dependent variable, age and years of marriage as the independent variable. As a result of the analyzes, it has been determined that the age group with the highest number of marriages for men between the years 2001-2010 is the 25-29 age group, and the 20-24 age group for women.
+Yazar isimleri: ['Ozan ALTUNBAŞ', 'Özlem DENİZ BAŞAR']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ticaretfbd/issue/70676/990732
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1955897

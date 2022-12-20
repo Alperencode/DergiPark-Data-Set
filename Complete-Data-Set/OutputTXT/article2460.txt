@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison of Deep Learning and Traditional Machine Learning Classification Performance in a SSVEP Based Brain Computer Interface
+Özet: 
+Yazar isimleri: ['Zafer İŞCAN']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/1088353
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2311699

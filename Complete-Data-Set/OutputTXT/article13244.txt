@@ -1,0 +1,7 @@
+Makale Başlığı: Some novel analysis of two different Caputo-type fractional-order boundary value problems
+Özet: Nowadays, a number of classical order results are being analyzed inthe sense of fractional derivatives. In this research work, wediscuss two different boundary value problems. In the first half ofthe paper, we generalize an integer-order boundary value probleminto fractional-order and then we demonstrate the existence anduniqueness of the solution subject to the Caputo fractionalderivative. First, we recall some results and then justify our mainresults with the proofs of the given theorems. We conclude ourresults by presenting an illustrative example. In the other half ofthe paper, we extend the Banach's contraction theorem to prove theexistence and uniqueness of the solution to a sequential Caputofractional-order boundary value problem.
+Yazar isimleri: ['Zouaoui BEKRI', 'Vedat Suat ERTÜRK', 'Pushpendra KUMAR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1114063
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2417133

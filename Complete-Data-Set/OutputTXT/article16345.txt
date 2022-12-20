@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı Oranlarda Sisal Elyaf Takviyeli Kauçuk Kompozitlerin Mekanik, Termal ve Mikro Yapılarının İncelenmesi
+Özet: Bu çalışmada, endüstrinin çeşitli alanlarında yaygın olarak kullanılan NBR kauçuk ile Sisal elyaf karıştırılarak kompozit oluşturulmuştur. Farklı oranlarda kullanılan sisal elyafın, NBR kauçuk içerisinde etkisinin incelenmesi amaçlanmıştır. Bu amaçla, NBR kauçuk içerisine dünya genelinde yapılan literatür çalışmalarına paralel olarak, %10 , %20 , %30 oranlarında sisal elyafı eklenmiş ve iki silindir arasında haddeleme yöntemi ile homojen olarak karıştırılmıştır. Sisal elyaf ve NBR kauçuk karışımın reolojik, morfolojik ve mekanik özellikleri çeşitli analizlerle değerlendirilmiştir.Mekanik özelliklerin belirlenmesi amacıyla kompozite; sertlik ölçme, çekme testi, yoğunluk, aşınma testi, üç noktadan eğme testi, izod darbe testleri uygulanmıştır. Karışımın vulkanizasyon davranışının incelenmesi için reometre analizi yapılmıştır. Ayrıca karışımın içerisindeki elyaf dağılımını görmek ve sonuçları yorumlamak amacıyla taramalı elektron mikroskobu (SEM) görüntüleri alınıp incelenmiştir. Sonuçlar NBR kauçuğa eklenen sisal elyafın oran arttıkça mekanik özelliklerin reolojik yapısını geliştirdiğini göstermiştir.
+Yazar isimleri: ['Öznur DİNÇ']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Türkiye Teknoloji ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tubid/issue/73186/1177122
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2658298

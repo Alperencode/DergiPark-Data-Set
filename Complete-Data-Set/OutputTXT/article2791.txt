@@ -1,0 +1,7 @@
+Makale Başlığı: Diamino-sübstitüe Halkalı Trifosfazen Türevlerinin Antimikrobiyal Aktivitelerinin Araştırılması
+Özet: Hekzaklorosiklotrifosfazen [halkalı trimer, (N=PCl3)3, N3P3Cl6)] (1)'in alifatik primer diaminler [NH2-(CH2)n-NH2; n=2, 3 ve 5] ile tepkimelerinden bir mono-spiro (5); bir mono-ansa (10); iki dispiro (6 ve 8); bir spiro-ansa (11); iki tri-spiro (7 ve 9); ve bir tri-bino (12) türevi sentezlendi. Elde edilen fosfazen türevleri (5-12)’nin yapısı uygulanabilir spektroskopik yöntemler ( LC-MS, FT-IR, 1H ve 31P NMR) ile aydınlatıldı. Bileşikler (5-12)’in antimikrobiyal aktivitesi, üç farklı insan patojenine karşı (Escherichia coli W3110, Staphylococcus aureus ATCC 25923 ve Candida albicans ATCC 10231) Minimum İnhibitör Konsantrasyon (MİK) ve Minimum Sidal Konsantrasyon (MSK) değerlerinin belirlenmesi için mikrodilüsyon tekniği kullanılarak incelendi. Elde edilen sonuçlar, fosfazen türevleri (5-12)’nin belirtilen mikroorganizmalara karşı önemli aktivitelere sahip olduğunu gösterdi.
+Yazar isimleri: ['Gülçin ÇETİN KILIÇASLAN', 'Cihan DARCAN', 'Necibe KILIÇER', 'Sedat TURE']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1063257
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2213907

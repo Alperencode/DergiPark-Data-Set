@@ -1,0 +1,7 @@
+Makale Başlığı: DEVELOPMENT OF ZIF-8 LOADED PVA HYBRID MEMBRANES FOR THE DESALINATION OF SEAWATER BY PERVAPORATION
+Özet: In this study, ZIF-8 zeolitic imidazolate framework was synthesized and added to the polyvinyl alcohol (PVA) membrane for the manufacture of hybrid membranes to use in pervaporative desalination. The hybrid membranes were characterized by using FTIR, SEM and contact angle. The effects of ZIF-8 loading ratio, feed NaCl concentration, and operation temperature on separation perfomance were investigated. The addition of ZIF-8 to the improved the hydrophilicity and purification performance of membrane. The optimal loading ratios ZIF-8 were specified as 0.25 wt%. Optimum operation parameters were found as 60oC of temperature and a 2 wt% of feed NaCl concentration. Pervaporative desalination tests of seawater were carried out under the optimum operation conditions and rejection performance of  >99.99% were achieved.  The obtained data are observed under the drinking water standart values of World Health Organization. Hybrid membranes which are exhibited rather successful separation performance,  are candidate structure for the usage of desalination process.
+Yazar isimleri: ['Derya ÜNLÜ']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1163098
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2600651

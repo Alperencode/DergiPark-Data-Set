@@ -1,0 +1,7 @@
+Makale Başlığı: On the decomposition of curvature tensor fields in conformal Finsler spaces II
+Özet: The object of the present paper is to decompose curvature tensor fields in conformal Finsler spaces. The authors have also studied properties of the conformal decomposition tensor fields. The notations used in the sequel are due to H.Rund [4].
+Yazar isimleri: ['James GATOTO']
+Yayın Yılı: 29 Haziran 2015
+Dergi ismi: İstanbul University Science Faculty The Journal Of Mathematics Physics and Astronomy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iusfjm/issue/9495/118574
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/100660

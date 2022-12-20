@@ -1,0 +1,7 @@
+Makale Başlığı: SSIM Modelin Geliştirilmesine Dayanan Bir 3B Video Kalite Değerlendirme Metriği
+Özet: Günümüzdeki en revaçta araştırma alanlarından birisi kullanıcılara gelişmiş çoklu-ortam servisleri sağlayabilmek adına 3 Boyutlu (3B) video Kalite Deneyimini (KD) etkin olarak tahmin eden objektif metriklerin geliştirilmesidir. Fakat, literatürde standartlaşmış ve yaygın kullanılan bir metrik henüz bulunmamaktadır. Bu yüzden, Structural SIMilarity Index (SSIM) gibi 2 Boyutlu (2B) video kalite ölçümünde sıklıkla kullanılan metrikler 3B video kalite ölçümünde de kullanılmaktadır. Ancak bu metrikler İnsan Görme Sitemini (İGS) etkileyen 3B video bağlantılı özellikleri içermedikleri için güvenilir 3B video kalite ölçümü sağlamaktan oldukça uzaktırlar. Bunları göz önüne alarak, bu çalışmada, SSIM, zıtlık, hareket ve yapısal bilgi karakteristikleri gibi İGS’yi etkileyen 3B video özellikleri ile geliştirilmiştir. Geliştirilen SSIM metriği kullanılarak elde edilen sonuçlar, bu metriğin gelişmiş çoklu-ortam servisleri sağlayabilmek açısından etkinliğini kanıtlamaktadır.
+Yazar isimleri: ['Gökçe NUR YILMAZ']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbbmd/issue/70571/1014412
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2044999

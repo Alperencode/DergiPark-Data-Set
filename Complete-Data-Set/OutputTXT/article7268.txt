@@ -1,0 +1,7 @@
+Makale Başlığı: The Gershgorin Type Theorem on  Localization of the Eigenvalues of   Infinite Matrices and Zeros of Entire Functions
+Özet: 
+Yazar isimleri: ["Michael GİL'"]
+Yayın Yılı: 23 Eylül 2022
+Dergi ismi: Ikonion Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ikjm/issue/68769/1005765
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2013746

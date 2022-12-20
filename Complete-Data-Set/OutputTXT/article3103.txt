@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Comparison of K-Means and DBSCAN Methods for Airline Customer Segmentation
+Özet: 
+Yazar isimleri: ['Kevser ŞAHİNBAŞ']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Black Sea Journal of Engineering and Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsengineering/issue/68458/1170943
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2632303

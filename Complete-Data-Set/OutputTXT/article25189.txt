@@ -1,0 +1,7 @@
+Makale Başlığı: Dyes extracted from Biota orientalis, Piper nigrum, and  Glycyrrhiza glabra as photosensitizers for dye-sensitized solar cells
+Özet: Three natural dyes were extracted from Biota orientalis, Piper nigrum and Glycyrrhiza glabra and used as photosensitizers for dye-sensitized solar cells (DSSCs). The dyes were tested as sensitizers before and after grinding the materials. Titanium dioxide (TiO2) nanopowder was used as a semiconducting material. The best photovoltaic performance was obtained for the DSSC sensitized with Glycyrrhiza glabra after grinding the material. This performance was significantly improved by acid treatment of the TiO2 photoelectrode. Electrochemical impedance spectroscopy of the fabricated DSSCs was carried out and charge recombination resistance, double layer capacitance, effective lifetime of electrons, charge transfer resistance, and constant phase element exponential coefficient were determined.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167889
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/147992

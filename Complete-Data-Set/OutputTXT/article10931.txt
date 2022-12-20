@@ -1,0 +1,7 @@
+Makale Başlığı: Bazı Üzüm Çeşitlerinin Doku Kültürü Yöntemiyle  Mikroçoğaltımı Üzerine Bir Araştırma
+Özet: Asmanın (Vitis vinifera L.) virüsten arî sağlıklı ve hızlı çoğaltımı, asma fidancılığı yönünden önemlidir.   Bu araştırmada, ‘ÇOMÜ Dardanos Yerleşkesi Ziraat Fakültesi Çiftliği Bitkisel Üretim ve Araştırma Birimi’ ‘Sofralık Üzüm Çeşitleri Uygulama ve Araştırma Bağı’nda yer alan ‘Yalova İncisi’ ve ‘Yalova Çekirdeksizi’ üzüm çeşitleri materyal olarak kullanılmıştır. Öncelikle, bu üzüm çeşitlerinden in vitro ortamda mikroçoğaltım yapılarak eksplantlar elde edilmiş ve sonrasında elde edilen eksplantların doku kültürü yöntemiyle 4 farklı BA    (6–Benzylaminopurin) dozunda en iyi gelişim gösterdikleri besi ortamının belirlenmesi amaçlanmıştır. Bunun için tek boğum içeren eksplantlar, farklı dozlardaki BA (0,0 mg/L BA, 0,5 mg/L BA, 1,0 mg/L BA ve 2,0 mg/L BA) ilavesi yapılan Murashige Skoog temel besin ortamında çoğaltılmıştır. Araştırma, 3’er tekerrürlü olacak şekilde planlanmış ve her ortama 3 adet eksplant yerleştirilmiştir. Araştırmanın sonucunda, her iki üzüm çeşidinde de kök boğazı sürgün sayısı (adet) bakımından en yüksek değerlerin, en yüksek hormon uygulaması olan 2,0 mg/L BA dozu içerikli ortamdan elde edildiği saptanmıştır.
+Yazar isimleri: ['Onur Sinan TÜRKMEN', 'Esra ŞAHİN', 'Alper DARDENİZ']
+Yayın Yılı: 31 Aralık 2020
+Dergi ismi: Lapseki Meslek Yüksekokulu Uygulamalı Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ljar/issue/59169/801350
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1314407

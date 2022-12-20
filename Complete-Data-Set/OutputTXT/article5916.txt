@@ -1,0 +1,7 @@
+Makale Başlığı: Approximately Near Rings in Proximal Relator Spaces
+Özet: The motivation of this article is to define approximately near rings, some types of approximately near rings, approximately $N$-groups, approximately ideals, and approximately near rings of all descriptive approximately cosets. Moreover, some properties of these approximately algebraic structures are given. Furthermore, approximately near-ring homomorphisms are introduced and their some properties are investigated.
+Yazar isimleri: ['Ebubekir İNAN', 'Ayşegül KOCAMAZ']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Fundamental Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fujma/issue/72663/1117103
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2429605

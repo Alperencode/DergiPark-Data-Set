@@ -1,0 +1,7 @@
+Makale Başlığı: FUNCTIONALIZATION OF WOVEN FABRICS BY 3D PRINTED STRUCTURES IN FUSED FILAMENT FABRICATION (FFF): EFFECTS OF INFILL PATTERNS ON TENSILE STRENGTH
+Özet: Three-dimensional (3D) printing has an increasing popularity in recent years with easy availability and the wide range of applications in many fields. While producing textile-like structures with 3D technology is still a challenging problem, combining textiles with 3D printed structures enables the manufacture of many alternative structures in the field of textile applications. This study investigates the effect of 3D parts with different infill patterns printed onto the cotton woven fabric for tensile strength. For this purpose, 3D parts with concentric, grid and triangle infill patterns were printed onto plain and twill woven fabrics with polylactic acid (PLA) filaments in the Fused Filament Fabrication technique. Adhesion between fabric and 3D parts and tensile strengths of produced structures were measured to assess the effectiveness of 3D printing. Results showed that greater adhesion between 3D parts and fabrics were obtained for plain-woven fabrics. The infill patterns were also found effective for the tensile strength performance.
+Yazar isimleri: ['Murat DEMİR']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: International Journal of 3D Printing Technologies and Digital Industry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ij3dptdi/issue/71295/1134373
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2501476

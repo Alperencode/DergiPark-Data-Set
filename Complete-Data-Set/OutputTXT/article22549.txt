@@ -1,0 +1,7 @@
+Makale Başlığı: 23MnB4 Kalite Çeliklerde Vakum da Gaz Giderme İşleminin Nihai Ürün Özelliklerine Etkisinin İncelenmesi
+Özet: Bu çalışmada, bağlantı elemanı olarak kullanılan 23MnB4 kalite kangallarda vakum da gaz giderme işleminin hidrojen ve azot kaynaklı çatlak ve kırılganlığa etkisi araştırılmıştır. Vakumlu ve vakumsuz döküm yöntemiyle üretilen kangallara elementel analiz, mikroyapı incelemeleri, çekme, sertlik ve basma testi uygulanarak kendi aralarında kıyaslama yapılmıştır. Yapılan testler neticesinde vakum altında gaz giderme işlemi yapılmış dökümlerden elde edilen kangal numunelerinde azot ve hidrojen değerinin daha düşük olduğu, mikroyapı incelemelerinde kalıntıların vakumsuz döküm yöntemiyle üretilen kangallara göre daha az ve daha küçük boyutlu olduğu ve basma testleri neticesinde kılcal çatlak oranının büyük oranda azaldığı tespit edilmiştir.
+Yazar isimleri: ['Yasin DEVEÇEKER', 'Engin ÇEVİK']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Çelik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesred/issue/72095/1124553
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2460588

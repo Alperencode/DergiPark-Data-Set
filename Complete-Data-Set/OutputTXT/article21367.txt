@@ -1,0 +1,7 @@
+Makale Başlığı: Rhenium/rhenium oxide nanoparticles production using femtosecond pulsed laser ablation in liquid
+Özet: In this study, rhenium/rhenium oxide nanoparticles (Re / ReO3 NPs) have been produced for the first time in ultrapure water by using Femtosecond Pulsed Laser Ablation in Liquid (fsPLAL) method. X-Ray Diffraction (XRD) measurements and results obtained for NPs show the existence of well-crystallized peaks and preferred phases. Re NPs have hexagonal structure while ReO3 NPs have the perovskite-like cubic crystal structures. The Re / ReO3 ratio is also determined to be 53 / 47 with similar to 20 nm crystallite size, while pure ReO3 crystallite sizes were measured to be similar to 25 nm. The TEM results have shown that the produced particles have a spherical shape, and particle sizes changes between similar to 20 nm and similar to 60 nm. The crystallite size is similar due to XRD results. Obtained nanoparticles exhibit promising applications for photonic devices with broad bandgap values which have measured to be 4.71 eV for Re / ReO3 NPs mixture and 4.36 eV for pure ReO3 NPs.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944766
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1795081

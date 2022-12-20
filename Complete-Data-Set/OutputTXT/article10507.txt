@@ -1,0 +1,7 @@
+Makale Başlığı: TEK VE ÇİFT KARE KUYU TELLERİNDE ELEKTRİK ALAN VE MANYETİK ALAN’IN ELEKTRONİK ÖZELLİKLERE ETKİSİ
+Özet: Tek ve çift kare kuyu tel sistemine dışarıdan uygulanan elektrik ve manyetik alan etkisi altında elektronun bağlanma enerjisi hesaplandı. Bağlanma enerjisinin, tel sayısına ve dışarıdan uygulanan alan etkilerine bağlılığı gösterildi. Kare kuyu tel yapısı GaAs ve    AlxGa1-xAs yarıiletken malzemeden oluşturuldu. Tel yapıya elektrik alan artı x doğrultusunda ve manyetik alan ise eksi z doğrultusunda olacak şekilde seçildi. Hesaplamada sonlu farklar yöntemi kullanıldı. Bağlanma enerjisinin farklı alanlar altında tel sayısına bağlılığı gösterildi. Ayrıca dışarıdan uygulanan alanların, elektronun gördüğü potansiyele ve elektronun bulunma olasılığına etkisi gösterilmiştir. Bu tür yapıların detaylı incelenmesi, hem yapının elektronik özelliklerinin teorik olarak anlaşılmasını sağlayacak, hem de teknolojik cihaz üretiminde daha ekonomik bir yol gösterecektir.
+Yazar isimleri: ['Mustafa ULAŞ', 'Abbas GÜMÜŞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kırklareli Üniversitesi Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/klujes/issue/70928/1072134
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2248167

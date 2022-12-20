@@ -1,0 +1,7 @@
+Makale Başlığı: Analyzing Hospital High Length of Stay Outliers in Turkey
+Özet: 
+Yazar isimleri: ['Pakize YIGIT', 'Sabahattin AYDIN', 'Hasan GÜLER']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Journal of Basic and Clinical Health Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jbachs/issue/72779/1159299
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2585387

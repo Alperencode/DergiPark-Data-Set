@@ -1,0 +1,7 @@
+Makale Başlığı: BAZI YERLİ VE YABANCI AĞAÇ TÜRLERİNE UYGULANMIŞ UV SİSTEM VERNİK KATMANLARININ RENK VE PARLAKLIK ÖZELLİKLERİ ÜZERİNE HIZLANDIRILMIŞ YAŞLANDIRMANIN ETKİSİ
+Özet: Bu çalışmada, doussie (Afzelia africana), sapelli (Entandrphragma cylindrocum), ceviz (Juglans regia), sapsız meşe (Quercus petraea L.), iroko (Chlorophora excelsa) ve kayın (Fagus orientalis Lipsky.) odun türlerine uygulanmış UV sistem vernikli malzemelerin UVB-313 lambalarına sahip cihazda 252 ve 504 saatlik süreçlerden oluşan yapay yaşlandırma sonralarında renk parametreleri (L*, a* ve b*) ve 60o’de liflere dik ve paralel parlaklık özellikleri araştırılmıştır. Araştırma sonuçlarına göre, bütün testler için belirlenmiş olan varyans analizi sonuçları anlamlı olarak elde edilmiştir. Yaşlandırma süresinin artması vernikli bütün ahşap türlerinin L* değerleri, 60o’de parlaklık değerleri azalmıştır. ∆E* değerleri yaşlandırma süresinin artması ile UV vernikli doussié, sapsız meşe, iroko türlerinde arttığı belirlenirken, UV vernikli ceviz, kayın ve sapelli odun türlerinde azaldığı görülmüştür. UVB-313 lambalarından oluşan yaşlandırma uygulaması malzemelerin yüzey yapısında değiştirici etkide bulunmuştur.
+Yazar isimleri: ['Nevzat ÇAKICIER', 'Esra PAK']
+Yayın Yılı: 7 Ocak 2022
+Dergi ismi: Uluslararası Batı Karadeniz Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umufed/issue/67985/992704
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1963366

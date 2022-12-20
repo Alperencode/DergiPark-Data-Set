@@ -1,0 +1,7 @@
+Makale Başlığı: The Minimization of Torque Ripples of Segmental Type Switched Reluctance Motor by Particle Swarm Optimization
+Özet: In this study, we realized a controller design which can reduce torqueripple of 10/8 Switched Reluctance Motor (SRM). To perform the study, aSwitched Reluctance Motor with 5 phase, U type segmental rotor was used. Thecontrol of the SRM was actualized by bipolar converter used H-bridge topology.The control signals of converter are obtained by control circuit designed byusing dsPIC33EP512MU810. One of the reasons of the current ripples in the SRMis ON-OFF times in a period of the control signals. When the ripples of thecurrent reduced, the ripples of torque of the SRM also reduced. Therefore, inthis study, the ON-OFF times in a period of phase control signals weredetermined by an algorithm used particle swarm optimization. When SRM wascontrolled by this algorithm developed, the decreasing of its torque rippleswas determined. 
+Yazar isimleri: ['Hakan TERZİOĞLU']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/270861
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/237599

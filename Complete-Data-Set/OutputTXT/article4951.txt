@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of Fly Ash Dewatering Performance with Geotextile Tube
+Özet: In this study, the dewatering performance of fly ash taken from a thermal power plant in Turkey was investigated by using geotextile and polyacrylamide. For this purpose, a geotextile used in the dewatering process and 10 polyacrylamides with different charges and molecular weights were used. Firstly, chemical analysis of fly ash was made and it was understood that fly ash was type F. In the Jar test, 20ppm dosage of A4 anionic polyacrylamide appeared to give the most effective result. The dewatering performance of geotextile and polyacrylamide was investigated by performing filter tests using A4 polyacrylamide. Filtration efficiency and dewatering efficiency were found to be 84% and 230%, respectively. Fourier-Transformed Infrared Spectroscopy (FTIR) analysis was performed to investigate the presence of polyacrylamide in the solid and liquid phases formed after the dewatering process. Finally, scanning electron microscopy was used to examine the morphological structure of the filter cakes with and without polyacrylamide. As a result, it has been understood that this method is a suitable method for the dewatering of fly ash in terms of environmental and application.
+Yazar isimleri: ['Ümit KARADOĞAN']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/1031842
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2112909

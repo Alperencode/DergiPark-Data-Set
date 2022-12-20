@@ -1,0 +1,7 @@
+Makale Başlığı: MECHANICAL GYROSCOPE-BASED ROLL MOTION REDUCTION OF MARINE VEHICLES: AN EDUCATIONAL SETUP
+Özet: Simple hardware (model boat and mechanical gyroscope) tool for teaching the basics of angular momentum and stabilizing concepts is presented in this paper. This tool enhances traditional in-classroom lecturing and laboratory experiments. The tool consists of a model boat, hobby-type servo system for wave generation, dc motor-powered mechanical gyroscope, a mini water pool, measuring and control subsystems. A graphical user interface (GUI)with MATLAB was designed for adjusting and controlling the tool, observing and recording the roll motion of the model boat. Hence, the construction of the stabilizing torque is visually explained and presented within the setup as a product of angular momentum (due to spin of flywheel) and external torque (due to external mechanical disturbance or waves). The tools help undergraduate students to understand what the gyroscopic effect is and how gyro stabilizers dampen the roll motion of the model boat in a practical fashion.
+Yazar isimleri: ['Şefik CİNAL']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of Naval Sciences and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnse/issue/73602/1067449
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2229775

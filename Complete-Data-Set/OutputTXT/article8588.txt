@@ -1,0 +1,7 @@
+Makale Başlığı: T5 TRAM LINE AND MARINE INTEGRATION: A STUDY ON THE HALİÇ BAY
+Özet: Investigations were carried out to determine the travel demand that will occur in case of sea transportation in the Golden Horn Bay in Istanbul and the integration of the bay with the T5 tram line in the Eyup district area, and to determine the pier, capacity and frequency of the sea line or lines in response to this expected travel demand. Estimates are made according to empirically created scenarios, on the assumption that individuals choose the route that provides the highest utility to them. The scenarios are based on the assumptions that 100%, 80% and 50% of trips will prefer sea transport if travel time reduces after sea transport integration. As a result, in the case of tram line, bus and sea integration in the bay, approximately 200 to 700 trips occur according to different scenarios during peak hours, and therefore 2 new piers and 3 new sea lines are proposed. In case the routes are available, the active use of sea transport in the gulf and the reduction of the traffic load created by road transport around the gulf will be ensured.
+Yazar isimleri: ['Mahmut Aras ERTUĞRUL', 'Mustafa ILICALI']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Teknoloji ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/icujtas/issue/68686/1127358
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2472238

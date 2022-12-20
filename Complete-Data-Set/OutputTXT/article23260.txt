@@ -1,0 +1,7 @@
+Makale Başlığı: Symptom Based COVID-19 Prediction Using Machine Learning and Deep Learning Algorithms
+Özet: Research studies are carried out in many areas of science to cope with the impacts of the COVID-19 crisis in the world. Machine learning can be used for purposes such as understanding, addressing, fighting, and preventing - controlling COVID-19. In this research, the presence of COVID-19 has been predicted using K Nearest Neighbor, Support Vector Machines, Logistic Regression, and Multilayer Perceptual Neural Networks machine learning and Gated Recurrent Unit (GRU) and Long Short-Term Memory deep learning algorithms. A publicly available dataset that includes various features (i.e. wearing masks, abroad travel, contact with the COVID patient) and symptoms (i.e. breathing problems, fever, and dry cough) is used for the COVID-19 diagnosis prediction. The learning algorithms have been compared according to the evaluation metrics. The experimental results have been shown that GRU deep learning algorithm is more reliable with a prediction accuracy of 98.65% and a loss/mean squared error of 0.0126.
+Yazar isimleri: ['Nesibe YALÇIN', 'Sibel ÜNALDI']
+Yayın Yılı: 19 Temmuz 2022
+Dergi ismi: Journal of Emerging Computer Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ject/issue/68031/1124800
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2461674

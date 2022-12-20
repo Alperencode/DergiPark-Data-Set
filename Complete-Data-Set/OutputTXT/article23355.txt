@@ -1,0 +1,7 @@
+Makale Başlığı: ECONOMETRIC ANALYSIS OF THE RELATIONSHIP BETWEEN PUBLIC CONSUMPTION EXPENDITURES AND ECONOMIC GROWTH FOR THE PERIOD 1960-2021 FOR TURKIYE
+Özet: The study aims to analyze the relationship between public consumption expenditures and economic growth for the period of 1960-2021 for Turkiye. The data used in the analysis were obtained from the World Bank website. While the study was being carried out, first of all, literature research on the subject was conducted. After the literature review, public consumption expenditures and GDP data for Turkey for the period 1960-2021 were obtained from the World Bank Data Bank website. For the aforementioned data, unit root tests were performed with Eviews and Todo Yamamoto analysis was applied. Considering the chi-square test statistic and probability values, causality from GDP variable to public consumption expenditures has been determined. The causality relationship could not be determined from public consumption expenditures to the GDP variable. It has been seen that an increase in economic growth is not possible with an increase in public consumption expenditures. However, with the economic growth, public consumption expenditures increase for the relevant period.
+Yazar isimleri: []
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Kapanaltı Muhasebe Finans Ekonomi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kmfed/issue/73402/1202783
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2765301

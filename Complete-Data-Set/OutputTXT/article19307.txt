@@ -1,0 +1,7 @@
+Makale Başlığı: ETİK LİDERLİĞİN YENİLİKÇİ İŞ DAVRANIŞI ÜZERİNDEKİ ETKİSİNDE DUYGUSAL BAĞLILIĞIN ROLÜ
+Özet: Çalışmanın amacı, etik liderliğin yenilikçi iş davranışı üzerindeki etkisini ve duygusal bağlılığın bu iki değişken arasındaki aracılık rolünü belirlemektir. Araştırmanın örneklemi Çorum ilindeki tekstil işletmelerinde görev yapan toplam 333 çalışandan oluşmaktadır. Duygusal bağlılığın etik liderlik ve yenilikçi iş davranışı üzerinde ilişkisi ve etkisinin olup olmadığını belirlemek için, yapısal eşitlik modeli testinde sıklıkla kullanılan AMOS paket programı ile analiz yapılmıştır. Analiz sonucunda etik liderliğin yenilikçi iş davranışı ile anlamlı ve pozitif bir ilişki ve etkisi olduğu tespit edilmiştir. Etik liderliğin duygusal bağlılık ile duygusal bağlılığın ise yenilikçi iş davranışı ile ilişkisi ve etkisi olmadığı tespit edilmiştir. Sonuç itibariyle duygusal bağlılık bu ilişkide aracılık rolü üstlenmemektedir, sonucuna ulaşılmıştır. Araştırmanın bulguları sonuç kısmında yorumlanmış ve ilgili öneriler sunulmuştur.
+Yazar isimleri: ['Mihriban CİNDİLOĞLU DEMİRER', 'Çelebi YAŞAR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Hitit Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hititsbd/issue/70753/1064426
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2218258

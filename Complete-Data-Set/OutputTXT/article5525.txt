@@ -1,0 +1,7 @@
+Makale Başlığı: TESTING THE LONG-RUN GROWTH EFFECTS OF FOREIGN DIRECT INVESTMENT IN TÜRKIYE: EVIDENCE FROM ARDL & NARDL ANALYSIS
+Özet: This study examines the linear and nonlinear effects of foreign direct investment on the long-run economic growth in Türkiye for the period of 1970-2020, within the framework of a simple endogenous growth model represented by a production function in the form of Cobb-Douglas, where the assumptions of constant returns to scale and decreasing productivity are valid for all collectible capital inputs. For this purpose, the study investigates whether the changes in fixed capital and foreign direct investment rates affect the GDP per capita growth rate linearly and non-linearly by using the ARDL & NARDL approach. The findings show that there is a linear and a nonlinear cointegration relationship between the foreign direct investment rate and GDP per capita growth rate, but the foreign direct investment rate does not make significant contributions to the growth rate in the long run. According to another finding, positive and negative shocks in the foreign direct investment rate, depending on the contraction and expansion periods of the Turkish economy, do not significantly and asymmetrically affect the growth rate in the long run.
+Yazar isimleri: ['Omer DEMIR']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Eurasian Research Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erj/issue/73371/1200881
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2757556

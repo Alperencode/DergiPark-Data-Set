@@ -1,0 +1,7 @@
+Makale Başlığı: Big data reduction and visualization using the K-means algorithm
+Özet: Çağımızda her gün çok büyük miktarda veri üretiliyor. Yüksek performanslı işleme yaklaşımlarına ek olarak, bu veri miktarını (Terabayt'a kadar) verimli bir şekilde görselleştirmek büyük bir zorluk olmaya devam ediyor. Bu çalışmada, sağlanan büyük verilerin görsel kalitesini mümkün olduğunca yüksek tutan bir veri azaltma stratejisi olarak iyi bilinen kümeleme yöntemi K-araçlarını kullanıyoruz. Veri kümesinin merkezleri, verilerin dağıtım özelliklerini basit bir şekilde görüntülemek için kullanılır. Verilerimiz yeni bir Kaggle büyük veri setinden (Tıklama Oranı) gelir ve orijinal grafiklere kıyasla azaltılmış veri kümelerinde Box grafikleri kullanılarak görüntülenir. K-araçlarının, dağıtım bilgisi kalitesinden ödün vermeden orijinal verileri görüntülemek için büyük veri miktarını azaltmak için etkili bir strateji olduğu keşfedildi.
+Yazar isimleri: ['Hakan AKYOL', 'Hale Sema KIZILDUMAN', 'Tansel DÖKEROĞLU']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Researcher
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/researcher/issue/71582/1135824
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2507283

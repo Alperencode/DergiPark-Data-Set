@@ -1,0 +1,7 @@
+Makale Başlığı: Cu-Al-Zn Alaşımının Manyetik, Yapısal ve Termal Özellikleri Üzerine Mn ilavesinin Etkileri
+Özet: Bu çalışmada, Cu-%11.42Al-%6.43Zn ve Cu-%11.31Al-%6.03Zn-%2.70Mn (% ağırlıkça) alaşımları üzerinde bazı fiziksel yöntemlerle araştırmalar yapılmıştır.  Alaşımların yapısal, kristalografik, manyetik ve termal özellikleri incelenmiş ve Mn katkısının etkileri araştırılmıştır. X-ışını difraksiyon yöntemi kullanılarak alaşımların yapıları analiz edilmiştir. Elektron mikroskop incelemelerinden; Cu-Al-Zn alaşımında farklı morfolojilerde α-çökelti fazının oluştuğu gözlemlenmiştir. Fakat, Cu-Al-Zn-Mn alaşımında α-çökelti fazının gözlenmesinin yanında martensite fazına da rastlanılmıştır. Alaşımların manyetik özellikleri VSM ile belirlenmiştir. Her iki alaşımın da manyetizasyonunun manyetik alanla değişimi M-H oda sıcaklığında elde edilmiştir. Cu-Al-Zn alaşımında uygulanan dış magnetik alan ile mıknatıslanma azalırken, Cu-Al-Zn-Mn alaşımının ferromanyetik davranış sergilediği bulunmuştur. Alaşımların faz dönüşüm sıcaklıkları DSC yöntemi ile belirlenmiştir. DSC incelemelerinden Mn ilavesinin faz dönüşüm sıcaklıklarını düşürdüğü bulunmuştur.
+Yazar isimleri: ['Emine ALDIRMAZ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1098749
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2354359

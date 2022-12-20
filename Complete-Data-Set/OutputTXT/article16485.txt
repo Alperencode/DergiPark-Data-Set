@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of the Effect of Graphene Sheet Coating on Shielding Effectiveness for Shielding Enclosures with Different Aperture Shapes
+Özet: Electromagnetic compatibility (EMC) has become much more important especially over the last decade due to incorporating advanced driver assistance and electric propulsion systems into conventional vehicle architecture. Electromagnetic shielding is a conductive barrier used for protecting electronic circuits against external electromagnetic interference (EMI). Shielding effectiveness (SE) is a measure of shielding performance against an interfering electromagnetic source. Design limitations inside electric vehicles (EV) forces to investigate on increasing SE without changing the shielding enclosure dimensions. Graphene is widely used in many studies due to its good conductivity and strong structure. In this study, a numerical model for a shielding enclosure in which inner surfaces are coated with graphene sheets, is designed. The effect of different aperture shapes on SE is analyzed according to coating different inner surfaces of the enclosure with graphene sheets. 
+Yazar isimleri: ['Sunay GÜLER', 'Sibel YENİKAYA']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uludağ Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uumfd/issue/71647/1068504
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2233815

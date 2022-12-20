@@ -1,0 +1,7 @@
+Makale Başlığı: Şeftali bahçesinde damla sulama yöntemi ile toprağa uygulanan yerel entomopatojen nematodların kalıcılığının belirlenmesi
+Özet: Entomopatojen nematodların topraktaki hayatta kalma süreleri biyolojik mücadele çalışmalarının başarısı için önemlidir. Bu çalışmada bir şeftali bahçesinde 4 yerel entomopatojen nematod (EPN) türü; Steinernema feltiae Filipjev (Nematoda: Steinernematidae), S. carpocapsae Weiser (Nematoda: Steinernematidae), S. affine Bovien (Nematoda:Steinernematidae) ve Heterorhabditis bacteriophora Poinar (Nematoda: Heterorhabditidae)’nın topraktaki kalıcılığı damla sulama yöntemi ile 2018 ve 2019 yıllarında araştırılmıştır. Entomopatojen nematodlar toprağa 50 IJs/cm2 dozunda uygulanmıştır. Uygulama sonrası ayda bir toprak örneklemesi yapılarak entomopatojen nematodların topraktaki kalıcılığı belirlenmiştir. Araştırma sonucunda 2018 yılında EPN’lerin toprakta kalıcılıklarının 90 gün, 2019 yılında ise 150 gün sürdüğü belirlenmiştir. Elde edilen bulgular neticesinde EPN’lerin toprağa uygulandıktan sonra çevresel faktörlere bağlı olarak kalıcılık sürelerinin değiştiği belirlenmiştir. Uygulama sonrası EPN’lerin toprakta kalma sürelerinin uzatılması topraktaki zararlılara etkinliklerinin artırılması açısından önemlidir.
+Yazar isimleri: ['Çiğdem ŞAHİN', 'Uğur GÖZEL']
+Yayın Yılı: 5 Temmuz 2022
+Dergi ismi: Türkiye Biyolojik Mücadele Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbmd/issue/71163/1090947
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2322556

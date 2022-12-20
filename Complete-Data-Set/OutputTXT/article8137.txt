@@ -1,0 +1,7 @@
+Makale Başlığı: Industrial Water Consumption and Treatment in Turkey
+Özet: Since the use of water is increasing in direct proportion with the increasing industrialization, the studies to be carried outfor the efficient use of water in the industry make it necessary to examine the use of water consumption on a sectoralbasis. As a result of the studies, the water usage rates in the industry were determined as 39.3% in the chemical sector,19.3% in the textile and 14.5% in the food sector. The subject of water efficiency includes the transfer of used water toprocesses where it will be treated and reused, or its safe discharge to the ecosystem after treatment. Within the scope ofthe study, studies that have been brought to the literature on the development of water treatment technologies used in theindustry and the reduction of the energy cost per m3 of treated water have been compiled.
+Yazar isimleri: ['Büşra KAVURUCU', 'Erdem EKMEN', 'Ömer YAMAN', 'Serkan Yılmaz YAZAN', 'Nergiz KANMAZ', 'Ümit ÜNVER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: İleri Mühendislik Çalışmaları ve Teknolojileri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/imctd/issue/71276/1052809
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2172486

@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Evaluation of MQL, hBN and N2 Lubrication/Cooling Conditions When Turning of AISI 904L Super Duplex Stainless Steel
+Özet: In this study, the performances of ecologically different cooling/lubrication conditions were evaluated. For this purpose, AISI 904L super duplex stainless steel was turned under dry, minimum quantity lubrication (MQL), cryogenic cooling (N2), hexagonal boron nitride doped nanofluid (hBN), MQL/N2 hybrid and hBN/N2 hybrid conditions. In the turning experiments, two different cutting speeds (120 and 180 m/min), constant feed (0.15 mm/rev) and constant cutting depth (0.5 mm) were selected as cutting parameters.  In the experimental study, surface roughness and topography, cutting temperature, vibration, tool wear are selected as a performance criteria using PVD coated cemented carbide cutting tools. With the data obtained at the end of the experimental study, while the N2 condition showed the best performance at the cutting temperature, the hBN/N2 cooling/lubrication condition showed the best performance in all other results.
+Yazar isimleri: ['Şenol ŞİRİN']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: International Journal of Innovative Engineering Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijiea/issue/70503/1064021
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2216906

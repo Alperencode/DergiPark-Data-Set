@@ -1,0 +1,7 @@
+Makale Başlığı: Scour Induced by Propeller Water Jet in front of a Vertical Wall
+Özet: Scours that may occur on the sea floor during the navigation and maneuvers of ships can cause serious problems if precautions are not taken. The estimation of the scours to occur is of great importance for the stability of the port structures. In this study, scour in front of a vertical wall was investigated experimentally. For this purpose, quartz sand with an average sieve diameter of d50= 0.24 mm and a specific mass of ρ= 2650 kg/m3 was laid on the bottom of the 3.2x2.0x1.0 m test tank. A propeller made of brass with a diameter of 0.06 m was used in the experiments. The propeller was placed in 4 different positions between its axis and the polycarbon-based vertical wall and operated at 3 different rotation speeds. Velocity measurements were obtained using an ADVP operating on the Acoustic Doppler principle. The findings on the effects of the distance between the vertical wall and the propeller axis and the propeller rotation speed on the scour mechanism were compared with the studies in the literature.
+Yazar isimleri: ['Ali DOĞU', 'Kubilay CİHAN', 'Ayse YUKSEL OZAN', 'Osman YILDIZ', 'Hayri ATEŞ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1090579
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2321027

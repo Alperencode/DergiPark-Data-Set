@@ -1,0 +1,7 @@
+Makale Başlığı: Benzoil Ester Grubu İçeren 2,4-Dinitrofenilhidrazin Temelli Bazı Yeni Hidrazon Bileşiklerinin Sentezi ve Yapısal Karakterizasyonu
+Özet: Hidrazon bileşikleri, ilaç tasarımı çalışmalarında aday bileşikleri elde etmek için kullanılan önemli öncülerdir. Bu çalışmada, başlangıç materyali olarak 4-(dietilamino) salisilaldehitten türetilen benzoil ester türevleri (1-5) sübstitüe benzoil klorür türevleri (benzoil klorür, 2-nitrobenzoil klorür, 3-nitrobenzoil klorür, 4-nitrobenzoil klorür ve 3,5-dinitrobenzoil klorür) ile çözücü olarak piridin ortamında 1:1 mol oranında reaksiyona girmesiyle sentezlendi. Elde edilen benzoil esterler ile 2,4-dinitrofenilhidrazinin kondenzasyon reaksiyonu ile yeni bir dizi hidrazon bileşikleri (6-10) sentezlendi ve bu bileşikler yapısal karakterizasyonu FT-IR, 1H NMR, 13C NMR ve element analizi aydınlatıldı. Sonuç olarak, bu bileşiklerin biyolojik aktiviteler gösterebileceği düşünülmektedir.
+Yazar isimleri: ['Reşit ÇAKMAK', 'Eyüp BAŞARAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Batman Üniversitesi Yaşam Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/buyasambid/issue/71164/1135813
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2507240

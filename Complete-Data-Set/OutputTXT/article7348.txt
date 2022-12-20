@@ -1,0 +1,7 @@
+Makale Başlığı: A New Generalization of Some Curve Pairs
+Özet: In this study, we give a new curve pair that generalizes some of the famous pairs of curves as Bertrand and constant torsion curves. This curve pair is defined with the help of a vector obtained by the intersection of the osculating planes such that this vector makes the same angle $\gamma$ with the tangents of the curves. We examine the relations between torsions andcurvatures of these curve mates. Also, We have seen that the unit quaternion corresponding to the rotation matrix between the Frenet vectors of the curves is $q=\cos (\theta/2)-\mathbf{i}\sin (\theta/2)\cos \gamma -\mathbf{j}\sin (\theta/2)\sin \gamma$, where $\theta$ is the angle between the reciprocal binormals of the curves. Finally, we show in which specific case which well-known pairs of curves will be obtained.
+Yazar isimleri: ['Oğuzhan ÇELİK', 'Mustafa OZDEMIR']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1110327
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2402724

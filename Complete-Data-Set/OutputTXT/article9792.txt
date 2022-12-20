@@ -1,0 +1,7 @@
+Makale Başlığı: Sezgisel Ağ Tabanlı Konum Tahsis Analiz Algoritmaları ile Tesis Yeri Optimizasyonu: İtfaiye Tesisleri Yer Seçimi Örneği
+Özet: 
+Yazar isimleri: ['Arif Çağdaş AYDINOĞLU', 'Süleyman ŞİŞMAN', 'İrem ERGÜL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Turkish Operations Management
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jtom/issue/70951/962890
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1861451

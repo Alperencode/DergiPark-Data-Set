@@ -1,0 +1,7 @@
+Makale Başlığı: Prediction of dispersibility class of soils with Genetic Programming (GP) based on XRF analysis results
+Özet: When dispersive soils are used in the core structure of embankment dams, due to their high erosion sensitivity, they cause internal erosion and cause such dams to collapse. Such soils should be determined at the design stage and not used in the construction of fill dams. Dispersive soils can be determined by physical (Crumb test, double hydrometer test and pinhole test) and chemical (chemical content of the pore fluid) experiments. In this study, as an alternative method, computer models have been developed to predict the dispersibility class of soils with the help of genetic programming (GP) using XRF (X-Ray Fluorescence) analysis results. 66.9% of the 181 data used in prediction models created with Genetic Expression Programming (GEP) are training data; the remainder was used as test data. In computer models where major (SiO2, Al2O3) and minor (MgO, CaO, Na2O, K2O) oxides are used as input data, soils are successfully predicted as dispersive (D) and non-dispersive soils (ND) at high rates. The most successful forecasting model is the one that consists of SiO2, Al2O3, MgO, CaO and Na2O input data in the entire data set.
+Yazar isimleri: ['Sadettin TOPÇU', 'Evren SEYREK']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1178313
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2663327

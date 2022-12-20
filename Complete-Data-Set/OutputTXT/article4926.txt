@@ -1,0 +1,7 @@
+Makale Başlığı: Bazı Gaz Reaksiyonlarının İçsel Reaksiyon Koordinat (IRC) Hesaplamaları ile Entalpileri ve Aktivasyon Enerjileri
+Özet: Bu çalışmada bazı gaz reaksiyonlarının İçsel Reaksiyon Koordinat (IRC) hesaplamaları ile entalpileri ve aktivasyon enerjileri teorik olarak elde edildi. İlk kez olarak IRC hesaplamalarında kullanılan yaklaşık geçiş halleri, reaksiyon aşamalarını takip eden iki boyutlu Potansiyel Enerji Yüzey (PES) taramalarındaki merdiven noktalar olarak kullanıldı. Bütün hesaplamalarda, 6-31 G(d,p) seviyede Yoğunluk Fonksiyonel Teori (DFT/B3LYP) kullanıldı. Reaksiyonların PES grafiklerindeki merdiven noktalar, IRC hesaplamalarında uygun reaksiyon eğrisi bulununcaya kadar birer birer yaklaşık Geçiş Hali (TS) olarak alındı. IRC hesaplamaları ile elde edilen TS’ler tek bir negatif (imejiner) frekans için test edildi. Bütün reaksiyonların, reaktant, ürün ve geçiş hallerini gösteren enerji diyagram şemaları çizildi ve onların entalpileri ve aktivasyon enerjileri elde edildi. Entalpi değerlerinden reaksiyonların, endotermik veya ekzotermik olduğu tespit edildi. Hesaplanan aktivasyon enerjileri literatürdeki değerlerle karşılaştırıldı.
+Yazar isimleri: ['Fatih UCUN', 'Neslihan ALAKUŞ']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/982555
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1923912

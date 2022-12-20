@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye Ekonomisi Bağlamında Fisher Etkisinin Birim Kök Testleri ve ARDL Sınır Testiyle Sınanması
+Özet: The positive relationship between the interest rate and the inflation rate is known as the Fisher effect in economics. The validity of the Fisher effect in the Turkish economy between 1971 and 2021 was tested using the ARDL bounds test and unit root tests within the scope of this study. In this context, it was concluded that the variables that are not stationary at the level move together in the long run. In the long run, a 1% increase in the inflation rate increases the interest rates by 1.05%. The Toda-Yamamoto causality test revealed a one-way Granger causality relationship between the related variables, ranging from the inflation rate to the interest rate. The stationarity of the real interest rate was tested with ADF, Lee- Strazicich and Fourier KPSS unit root tests. The findings indicate that the real interest rate variable is stationary and that the Fisher hypothesis holds in the Turkish economy.
+Yazar isimleri: ['Sacit SARI', 'Erdal ARSLAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: JOEEP: Journal of Emerging Economies and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joeep/issue/66260/1086709
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2305299

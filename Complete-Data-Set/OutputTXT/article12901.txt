@@ -1,0 +1,7 @@
+Makale Başlığı: Devletin Dijitalleşmesini Tartışmak: Dijital Hükümet Literatürü Üzerine Bibliyometrik Bir Analiz
+Özet: Bu çalışma, bibliyometrik analiz yöntemi kullanarak, devletin dijitalleşmesiyle ilgili bilimsel çalışmaların genel görünümünü farklı açılardan ortaya koymayı amaçlamaktadır. Dijital hükümet, kamu sektörünün kamu yönetiminin bir sonraki aşamasına dönüşümünü ve Bilgi ve İletişim Teknolojisi (BİT) tabanlı hizmetlerin sunulmasını temsil eder. Devletin dijitalleşmesi kamu hizmetlerini iyileştirmenin, insanların katılımını, şeffaflığı, hesap verebilirliği ve kapsayıcılığı artırmanın bir yoludur. Çalışmada 1998'den 2022'e kadar WoS veri tabanındaki 764 doküman incelenmiştir. Dökümanlar Bibliometrix R Studio yazılımı ile sınıflandırılıp tasnif edilmiş ve görselleştirilmiştir. Çalışma "Digital Government”, “Digital Governance” anahtar kelimeleri kullanılarak filtrelenmiştir. Bu alanda 77 ülkede toplam 1465 yazarın çalışma yaptığı görülmüştür. En çok yayın yapan ülke 469’la ABD’dir. Yine en çok atıf yapan ülke 3876 ile ABD’dir. En fazla çalışma yapan kurum 47 yayınla Center for Technology in Government ve University at Albany, bu alanda en çok yayın yapan yazar 106 yayınla Marijn Janssen ve en üretken yayıncı Government Information Quartely dergisidir. 
+Yazar isimleri: ['Nazan BUDAK', 'Abdullah ÖZÇELİK']
+Yayın Yılı: 23 Haziran 2022
+Dergi ismi: Pamukkale Journal of Eurasian Socioeconomic Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/pjess/issue/70470/1110639
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2403970

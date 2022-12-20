@@ -1,0 +1,7 @@
+Makale Başlığı: The Role of Corruption Control in Moderating the Relationship Between Value Added Tax and Income Inequality
+Özet: This paper investigates the mediating role of the control of corruption on VAT and income inequality in the top 10 most corrupted countries. We employed quantile regression to capture the varying effects of income inequality. The results suggest that most corrupted countries with lower income inequality did not benefit from VAT, but they stand to gain if the income inequality is wide.  VAT seems to improve the effectiveness of tax collection, which the government can allocate the higher tax revenues for social and economic programs to benefit poor people.  Our finding also suggest the extent of control of corruption and the improved governance of tax collection via VAT in our sample that consists of countries with high level of corruption are not strong enough to reduce income inequality.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353578
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364609

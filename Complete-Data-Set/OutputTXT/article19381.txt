@@ -1,0 +1,7 @@
+Makale Başlığı: Book Review: From Computational Thinking to Programming
+Özet: In this article, it is aimed to examine the book "From Computational Thinking to Programming" edited by Prof. Dr. Yasemin GÜLBAHAR and each chapter written by different authors. The book, which was first published in 2017 by Pegem Academy, has 16 chapters. The ISBN Number of the book is 978-605-241-111-7 and the DOI Number is 10.14527/9786052411117. In the book, a comprehensive study has been presented by including different topics such as the concept of computational thinking, various theoretical foundations, approaches, teaching measurement and evaluation, training of trainers, and learner levels. In the study, a summary of each chapter was obtained by performing document analysis. In line with these summary findings, it has been concluded that the "From Computing Thinking to Programming" Book is presented as a whole and is qualified with its approaches from various perspectives.
+Yazar isimleri: ['Tuba SARI']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: International Journal of Computers in Education
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijce/issue/67776/1051616
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2168429

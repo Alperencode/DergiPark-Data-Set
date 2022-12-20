@@ -1,0 +1,7 @@
+Makale Başlığı: Secondary Long Vowels in Words with Primary Long Vowels in the Turkish Dialects
+Özet: In languages, long vowels are divided into primary long vowels and secondary/indirect long vowels. Primary long vowels are vowels that have been long since the earliest known examples of a language and have not been elongated due to any sound event. Secondary long vowels are; although they are not long in the first known examples of a language, they are generally not separative and occur as a result of consonant drops, syllable fusions, vowel mergers and similar phonetic event later on.In this study, the situation of secondary long vowels in some Turkish and foreign words containing primary long vowels was evaluated.  In some Turkish words that have primary length in Turkey Turkish dialect, secondary length is also formed as a result of various phonetic events. This also applies to borrowed words. Secondary lengths, usually occur as a result of “ğ, k, l, r, v, y” consonants fallig/melting, syllable fusion and word fusions. Since the primary lengths in Turkey Turkish shortened to normal-term vowels, the lengths in such words are generally considered as secondary lengths.
+Yazar isimleri: ['Ezgi ARAL']
+Yayın Yılı: 20 Haziran 2022
+Dergi ismi: Uluslararası Türk  Lehçe Araştırmaları Dergisi (TÜRKLAD)
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turklad/issue/70372/1096354
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2344358

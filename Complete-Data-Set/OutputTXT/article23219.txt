@@ -1,0 +1,7 @@
+Makale Başlığı: ITO gas sensors for CO2 and H2 detection
+Özet: Thin films with extensive characteristics and surface morphology are very important in designing high performance and reliable gas sensors. Therefore comprehensive study carried out on ITO transparent conductive oxide resistive based H2 and CO2 gas sensors. As a result bottom up prototype gas sensor device fabricated and tested in order to understand those properties and behaviours that effects on sensitivity. All the thin film deposited employing RF magnetron sputtering technique investigated by SEM, XRD, EDAX and Absorption methods. Different oxygen partial pressure introduced as a variable to optimize the surface thin film. Those synthesized material properties showed reasonable correlation with the sensitivities and response of ITO devices for reducing H2 and CO2 gases.
+Yazar isimleri: ['Emre GÜR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Anatolian Physics and Astronomy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/japa/issue/70659/1098044
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2351283

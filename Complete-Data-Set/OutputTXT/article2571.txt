@@ -1,0 +1,7 @@
+Makale Başlığı: An Application Specific to TARSİM with Multi-Criteria Decision Making Techniques
+Özet: Purpose: It is aimed to analyze the performance of the Agricultural Insurance Pool, which is in an important position to compensate for the negativities that may occur in the agricultural sector, in the period of 2011-2020 with multi-criteria decision making methods.Methodology: The performance of the TARSİM in the period of 2011-2020 was ranked by taking advantage of the SD and ARAS methods.Findings: As a result of the application, it was revealed that the most successful year for TARSİM was 2020 and the year with the lowest success was 2014.Implications: In this study, the performance of TARİIM in the 10-year period was discussed by using SD and ARAS methods.Limitations: In the study, SD method was used to weight the criteria and ARAS method was used for performance ranking. In the study covering the period of 2011-2020, 4 evaluation criteria were used. In subsequent studies, differentiation can be made in terms of methods, periods and criteria.
+Yazar isimleri: ['Enes PEHLİVAN', 'Özgür AKPINAR']
+Yayın Yılı: 12 Ekim 2022
+Dergi ismi: Başkent Üniversitesi Ticari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcsci/issue/72993/1166592
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2614403

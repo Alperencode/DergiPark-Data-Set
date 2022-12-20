@@ -1,0 +1,7 @@
+Makale Başlığı: Reel Döviz Kurunda Eksik Değerlenme Ekonomik Büyüme İlişkisi: Ülke Gelir Gruplarına Göre Bir Analiz
+Özet: Reel döviz kurunda eksik değerlenme ile ekonomik büyüme ilişkisi literatürde önemli bir yer tutmasına rağmen, birtakım yaklaşım farklılıkları sebebiyle konu hakkında henüz kesin bir fikir birliği sağlanmış değildir. Ancak tüm bu yaklaşım farklılıkları ile birlikte ilgili literatürde, gelişmekte olan ekonomilerde daha rekabetçi para biriminin ekonomik büyüme üzerinde pozitif etkisinin olduğu öne sürülmektedir.  Bu çalışmada reel döviz kurunda eksik değerlenmenin ekonomik büyüme üzerindeki etkisi 1980-2019 döneminde yüksek gelirli, üst orta gelirli ve alt orta gelirli ülkeler için ayrı ayrı incelenmiştir. Çalışmanın örneklemi 81 ülkeden oluşmaktadır. Dinamik panel veri analiz yönteminin kullanıldığı çalışmadan elde edilen sonuçlara göre eksik değerlenme ve ekonomik büyüme ilişkisi sadece üst orta gelirli ülke grubu için istatistiksel ve iktisadi olarak anlamlı bulunmuştur. Analiz sonuçlarına göre üst orta gelirli ülkelerde yerli para biriminde meydana gelen %10’luk bir değer kaybı ekonomik büyümeyi %0,0049 arttırmaktadır.
+Yazar isimleri: ['Ahmet İNCEKARA', 'Abdullah Şuhan GÜRBÜZ']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: MANAS Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mjss/issue/73111/1021979
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2075031

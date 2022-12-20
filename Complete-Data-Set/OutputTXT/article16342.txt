@@ -1,0 +1,7 @@
+Makale Başlığı: 2-Amino-6-metilpridin ve 2-amino-4,6-dimetilprimidin bileşiklerinin HyperChem programı kullanılarak bazı teorik (hesapsal) özelliklerinin incelenmesi
+Özet: Bu çalışma kapsamında biyolojik öneme sahip amin bileşiklerinin bazı teorik (hesapsal) özelliklerinin incelenmesi HyperChem programı kullanılarak gerçekleştirilmiştir. Bu amaçla, HyperChem programı kullanılarak 2-amino-6-metil-pridin ve 2-amino-4,6-dimetilprimidin bileşiklerinin bağ uzunlukları, elektrostatik potansiyelleri, toplam yük yoğunluğu ve yük dağılımı, bazı enerji parametreleri, HOMO, LUMO, ΔE, iyonlaşma potansiyeli, elektron ilgisi, elektronik UV spektrumu ve geçiş değerleri gibi birçok parametre hesaplanmıştır. Yarı-deneysel geometrik optimizasyonla hesaplanmış deneysel UV spektrumu ve geçiş değerleri, deneysel UV-VİS spektroskopisiyle karşılaştırılmıştır. Elde edilen verilerin birbiriyle uyumlu olduğu gözlenmiştir. Bileşiklerin reaktivitesi ile ilgili önemli bir parametre olan, ΔE değerlerinin birbirine oldukça yakın olduğu gözlenmiştir (8.8924 ve 8.8330 eV).
+Yazar isimleri: ['Ümit ÇALIŞIR']
+Yayın Yılı: 27 Ekim 2022
+Dergi ismi: Türkiye Teknoloji ve Uygulamalı Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tubid/issue/73186/1162144
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2596768

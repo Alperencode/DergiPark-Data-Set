@@ -1,0 +1,7 @@
+Makale Başlığı: Determining the Effectiveness of the Bus Lines in Urban Transportation using Data Envelopment Analysis
+Özet: This study aims to determine the efficiency of urban public transport lines and to offer solutions for inefficient lines. In order to determine the efficiency of urban bus lines, a model was created using the data envelopment analysis method. In this model, the input variables were vehicle capacities, distances traveled and number of trips on weekdays and weekend lines. The output variables were the number of passengers carried in each line at peak hour, morning and evening. In addition, taking into account the number of passengers carried and the capacities of the line, capacity utilization rates (CURs) were determined for each line on weekdays and at weekends. CURs were used for the first time in the efficiency analysis of public transportation lines. As the study area, the bus lines used in urban public transportation in Erzurum were examined. As a result of the study, the efficiency and super efficiency degrees of the bus lines were determined. Analysis of the results determined that the highest limit is the K9 line and the lowest is the B4 line. The activity limit are the B2A, B7, G3, G7/A, G9, K3 and K8 lines closest to 100%.
+Yazar isimleri: ['Ahmet ATALAY']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: Journal of Transportation and Logistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jtl/issue/70222/1011652
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2034179

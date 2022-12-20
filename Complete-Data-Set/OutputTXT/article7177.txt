@@ -1,0 +1,7 @@
+Makale Başlığı: Eğitim Fakültesi Öğrencilerinin Proaktif Kişilik Özellikleri ile Öz Kontrol ve Akademik Mükemmeliyetçilikleri Arasındaki İlişkilerin İncelenmesi
+Özet: Bu çalışmanın amacı, eğitim fakültesi öğrencilerinin proaktif kişilik özellikleri ile özkontrol ve akademik mükemmeliyetçilik düzeyleri arasındaki ilişkilerin incelenmesidir. Çalışma kapsamında Artvin Çoruh Üniversitesi Eğitim Fakültesinde öğrenim gören 357 öğrenciden veri toplanmıştır. Çalışmada “Kısaltılmış Proaktif Kişilik Ölçeği”, “ Kısa Özkontrol Ölçeği” ve “Akademik Mükemmeliyetçilik Ölçeği” kullanılmıştır. Çalışmada elde edilen verilerin analizinde Pearson momentler çarpımı korelasyon katsayısı, basit doğrusal regresyon analizi ve t-testi kullanılmıştır. Çalışma sonuçlarına göre katılımcıların proaktif kişilik özellikleri öz kontrol ve akademik mükemmeliyetçiliğin anlamlı yordayıcısıdır. Katılımcıların cinsiyetlerine göre algılarındaki farklılıklar incelendiğinde özkontrol değişkeninde erkekler, akademik mükemmeliyetçilik boyutunda ise kadınlar lehine anlamlı farklılıklar elde edilmiştir.
+Yazar isimleri: ['Emre ER', 'Arcan AYDEMİR']
+Yayın Yılı: 2 Ağustos 2022
+Dergi ismi: IBAD Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ibad/issue/64491/1005392
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2012252

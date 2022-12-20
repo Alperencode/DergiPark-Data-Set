@@ -1,0 +1,7 @@
+Makale Başlığı: Euro ve Bitcoin'de Haftanın Günleri Etkisi: Volatilite Modellerinden Kanıtlar
+Özet: Ekonometri, farklı para birimleri arasındaki ilişkileri anlamak için bize birçok araç sunmaktadır. Bu araçlardan biri olan ARCH Ailesi Modelleri, birçok makalede sıklıkla kullanılmaktadır. Öte yandan, anomaliler, dolayısıyla oynaklıklar finansal piyasaların temel psikolojik sonuçlarıdır. Bu çalışmada, Bitcoin ve Euro Para Birimi için 03.02.2014-31.12.2020 dönemi verileri kullanılarak EGARCH (p, q) modeli ile haftanın günleri anomalilerinin belirlenmesi amaçlanmaktadır. Bitcoin için elde edilen sonuçlar neticesinde; Cuma günleri hariç hafta içi her gün Bitcoin getiri serisinde haftanın günü anomalisinin varlığı tespit edilmiştir. Euro getiri serisi için elde edilen sonuçlara göre Perşembe günleri hariç Euro getiri serisinde haftanın günü anomalisi tespit edilememiştir. Bu makalede finansal yatırımcıların, anomaliler ve oynaklıklar içinde finansal varlıklara yönelik davrandıkları açıkça belirtilmiştir. Bu nedenle finansın ana odak noktasının anomaliler olması gerektiği, dolayısıyla finansal yeniliklerde de oynaklıkların olması gerektiği kanıtlanmıştır.
+Yazar isimleri: ['Süreyya İMRE']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: International Journal of  Entrepreneurship and Management Inquiries
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijemi/issue/69896/1085072
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2299087

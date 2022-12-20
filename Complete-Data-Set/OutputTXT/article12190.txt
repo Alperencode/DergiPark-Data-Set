@@ -1,0 +1,7 @@
+Makale Başlığı: Transfer Öğrenme ve Komşuluk Bileşen Analizine Dayalı Balgam Yayma Mikroskop Görüntüleri Üzerinden Otomatik Tüberküloz Teşhisi
+Özet: Tüberküloz, Mycobacterium tuberculosis bakterisinin neden olduğu, dünya çapında etkili olan ve ölümle sonuçlanabilen bulaşıcı bir hastalıktır. Kişiden alınan balgam örneğinin mikroskop altında incelenmesi hastalığın en yaygın tanı yöntemlerindendir. Ancak bu manuel işlem hataya açık ve zaman alıcıdır. Bu çalışmada, balgam yayma mikroskop görüntüleri kullanılarak otomatik tüberküloz teşhisi için bir model önerilmiştir. Modelde veri setine ait öznitelikler transfer öğrenme yaklaşımı ile Vgg19, ResNet50 ve DenseNet201 kullanılarak elde edilmiştir. Öznitelikler birleştirildikten sonra Komşuluk Bileşen Analizi (KBA) ile ağırlıklandırılıp en iyi olanları seçilmiştir. Seçilen öznitelikler Destek Vektör Makinesi (DVM) ile eğitilmiş, modelin performansı beş kat çapraz doğrulama kullanılarak hesaplanmıştır. Deneysel sonuçlarda %99.03 doğruluk, %99.24 kesinlik, %98.81 duyarlılık, %99.25 özgüllük ve %99.02 f1-skoru elde edilmiştir.
+Yazar isimleri: ['Ömer Faruk NASİP', 'Kenan ZENGİN']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1160038
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2588295

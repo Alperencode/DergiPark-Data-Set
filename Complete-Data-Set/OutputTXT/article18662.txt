@@ -1,0 +1,7 @@
+Makale Başlığı: Performance of Machine Learning Methods in Location-Based Prediction
+Özet: Thanks to the technological developments that have taken place in recent years, the number, variety and quality of the data obtained using IoT (Internet of Things) sensors have been increasing. Data obtained from IoT sensors have been used in many scientific fields such as land use, climate change, vegetation analysis and air quality forecasting. In this study, a location-based spatial analysis application was carried out using the data obtained from IoT sensors with machine learning. With this application, the average temperature information of the station was estimated with Artificial Neural Network (ANN), Random Forests (RF), and Support Vector Machines (SVM) methods using daily average humidity, average pressure, and station altitude information on real datas of Kayseri acquired from the Turkish State Meteorological Service, and then performances of the methods were compared. In the experimental evaluations, the ANN, RF and SVM methods obtained an average of 0.83, 0.75 and 0.50 R2 values. The ANN method outperformed the RF and SVM methods in location-based temperature estimation.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190438
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2713765

@@ -1,0 +1,7 @@
+Makale Başlığı: On ternary Diophantine equations of signature $ p,p,2 $ over number fields
+Özet: Let $K$ be a totally real number field with narrow class number one and $O_K$ be its ring of integers.  We prove that there is a constant $B_K$ depending only on $K$ such that for any prime exponent $p>B_K$ the Fermat type equation $x^p+y^p=z^2$ with $x,y,z\in  O_K$ does not have certain type of solutions.  Our main tools in the proof are modularity, level lowering, and image of inertia comparisons.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783632
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

@@ -1,0 +1,7 @@
+Makale Başlığı: NUMERICAL SIMULATION OF GENERALIZED OSKOLKOV EQUATION VIA THE SEPTIC B-SPLINE COLLOCATION METHOD
+Özet: 
+Yazar isimleri: ['Seydi Battal Gazi KARAKOÇ', 'Derya SUCU', 'Mohamad Arif TAGHACHİ']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Journal of Universal Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jum/issue/71609/1134983
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2504106

@@ -1,0 +1,7 @@
+Makale Başlığı: Distribution of Elemental Compositions of Muscovite Quarries in Turkey
+Özet: In this study, the contents of thirty-five elements (nine major-minor oxides, twenty-one heavy metals, and five other elements) in eighty-four muscovite samples collected from three commercially operated quarries in Manisa province of Turkey were determined using an energy dispersive X-ray fluorescence (EDXRF) spectrometer. The mean concentrations of SiO2, Al2O3, K2O, MgO, Na2O, Fe2O3, P2O5, TiO2 and CaO analyzed in mica samples were determined as 57.1, 32.8, 8.7, 2.9, 1.4, 0.8, 0.3, 0.3 and 0.3%, respectively. The mean concentrations of Cr, Zr, Mn, Zn, Ni, Co, Pb, Cu, Cd and Hg analyzed as primary toxic trace heavy metals in mica samples were found as 136.2, 124.6, 58.7, 19.2, 14.8, 6.8, 6.3, 2.6, 2.0 and 1.2 mg kg-1, respectively. 
+Yazar isimleri: ['Şeref TURHAN', 'Aslı KURNAZ', 'Aybaba HANÇERLİOĞULLARI']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/1056220
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2185726

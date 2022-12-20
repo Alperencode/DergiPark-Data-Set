@@ -1,0 +1,7 @@
+Makale Başlığı: PV PANEL ENTEGRELİ FDM-NANOPARTİKÜL KARIŞIMININ 1-D MATEMATİKSEL MODEL KULLANILARAK İNCELENMESİ
+Özet: PV panellerinin radyasyon miktarına bağlı olarak ısınması ve veriminin düşmesi bilinen ve üzerinde birçok çalışma yapılan bir olgudur. PV panellerin soğutulması için panel tabanına FDM eklenmesi ise literatürde yaygın olarak görülen bir pasif soğutma yöntemidir. Bu çalışmada ise PV panel tabanına FDM eklenmesi ve farklı hacim oranlarında FDM nanopartikül karışımı eklenmesi durumunda PV panel sıcaklığı, panel verimi, elektrik üretimi ve FDM konteynerindeki erime oranları 1-B matematiksel model kullanılarak incelenmiştir. Çalışma 800, 1000, 1200 W/m2 radyasyon değerleri için gerçekleştirilmiştir. Sonuçlar incelendiğinde en yüksek verim ve elektrik üretimi değerlerinin hacimce 0.5 nanopartikül PCM karışımı için elde edildiği görülmüştür. Verim ifadesi hacimce 0.5 nanopartikül karışımı için 800, 1000 ve 1200 W/m2 için sırasıyla % 18.3,  %17.7 ve %17.2 olarak elde edilmiştir ki bu değerler geleneksel PV panelinden yaklaşık %1 fazladır. Eleltrik üretimi ise yine 0.5 nanopartikül FDM karışımı için sırasıyla 112.5, 128 ve 158 W olarak elde edilmiştir ve bu değerler geleneksel PV panelden sırasıyla 5, 7 ve 8 W daha fazladır.
+Yazar isimleri: ['Korhan ÖKTEN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi Üniversitesi Fen Bilimleri Dergisi Part C: Tasarım ve Teknoloji
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsc/issue/72673/1068074
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2232118

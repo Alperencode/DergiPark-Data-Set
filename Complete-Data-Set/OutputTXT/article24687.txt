@@ -1,0 +1,7 @@
+Makale Başlığı: Shape Features Based Conic Arcs for Unclassified Wheat Identification
+Özet: Wheat is one of the main nutrients usedin the world. Consumption of foodstuff produced from quality wheat is of greatimportance for healthy generations. It is necessary to separate the high andlow quality wheat. In this paper, a new recognition method for quality wheatand unclassified wheat is presented. The most distinctive feature fordetermination of wheat quality is its shape. In this study, objects are firstrepresented by a few descriptive points on their contours obtained from theirimages. Neighboring points are connected by linear or conical curve fitting.The objects are then represented by an attribute vector constructed fromparameters of the curves. Finally, these vectors are used to classify objects(wheat) using support vector machines (svm). Performance is improved with crossvalidation for each class.
+Yazar isimleri: ['Kemal ÖZKAN', 'Erol SEKE', 'Murat OLGUN']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/315748
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826692

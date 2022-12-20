@@ -1,0 +1,7 @@
+Makale Başlığı: INVESTIGATION OF THE EFFECT OF MULTI-LAYER COATING ON CORROSION PREVENTION PERFORMANCE FORMED BY THE APPLICATION OF SOLVENT-BASED ZINC LAMEL COATING ON ALKALI ZINC AND ALLOY ZINC COATING
+Özet: In this study, alkaline zinc, zinc-nickel, and zinc-iron alloy coating techniques were reorganized and merged, and a novel process was devised that allows the manufacturing of products with improved corrosion protection performance by combining their excellent qualities. The coatings obtained from the experimental studies and meeting the visual suitability criteria were subjected to dry adhesion, water resistance, moisture resistance, salt mist, cyclic corrosion, and chemical resistance tests. Parts with high corrosion resistance (1000 hours salt fog test and 63 cycles cyclic corrosion test), high-temperature resistance (one hour at 300 °C), chemically resistant and electrically insulating coatings were produced using the novel technology. The results obtained from the tests were compared with the expectations of the automotive industry and superior features were obtained.
+Yazar isimleri: ['Levent AKYALÇIN']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Mühendislik ve Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogummf/issue/72210/1074520
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2257238

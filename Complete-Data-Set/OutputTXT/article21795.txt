@@ -1,0 +1,7 @@
+Makale Başlığı: A MODIFICATION OF ARTIFICIAL BEE COLONY ALGORITHM FOR SOLVING INITIAL VALUE PROBLEMS
+Özet: 
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2019
+Dergi ismi: TWMS Journal of Applied and Engineering Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/twmsjaem/issue/55621/760953
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1178874

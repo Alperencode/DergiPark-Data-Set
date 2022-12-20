@@ -1,0 +1,7 @@
+Makale Başlığı: Verimlilik ve Dış Ticaret Hadleri: OECD Ülkeleri İçin Nedensellıik Analizi
+Özet: Uluslararası ticaret performansı büyük oranda üretim performansı ile alakalıdır. Verimli üretim süreçleri ve lojistik ağlara sahip olan ülkeler dış ticarette de avantajlı konuma sahip olurlar. Diğer yandan verimlilik ve dış ticaret haddindeki gelişmelerin ülkelerin refah artışına etki etmesi beklenmektedir.  Bu bağlamda verimlilik, dış ticaret hadleri ve ekonomik refah arasında bir ilişkinin tespiti tarafımızca bir araştırma konusu olarak değerlendirilmiştir. Buradan sağlanan motivasyon ile çalışmamızda verimlilik, dış ticaret hadleri ve refah arasındaki nedensellik ilişkisi 36 OECD (Ekonomik İşbirliği ve Kalkınma Örgütü) ülkesinin 1995 ile 2020 yılları arasındaki verimlilik, dış ticaret hadleri ve kişi başı gayri safi yurt içi hasıla verileri ile ele alınmıştır.Kurulan nedensellik modeli Dumitrescu ve Hurlin (2012) Panel Nedensellik Testi ile çözümlenmiş ve verimlilik ile dış ticaret hadleri, verimlilik ile refah arasında çift yönlü nedensellik ilişkisi bulunmuştur. Refahtan ticaret hadlerine doğru nedensel bir ilişki bulunmuş, fakat dış ticaret hadlerinden refaha doğru bir nedenselliğe rastlanmamıştır. Elde edilen sonuçlara göre çeşitli politik önermelerde bulunulmuştur.
+Yazar isimleri: ['Aykut ŞARKGÜNEŞİ', 'Azize DEMİRHAN']
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: Journal of Business and Trade
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joinbat/issue/70498/1117503
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2431348

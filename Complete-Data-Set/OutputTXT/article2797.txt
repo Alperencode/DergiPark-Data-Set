@@ -1,0 +1,7 @@
+Makale Başlığı: Thermal properties of AZ series cast Magnesium alloys
+Özet: In this study, an experimental research on the thermal behavior (thermal diffusion and thermal conductivity) of cast magnesium alloys of the AZ series is presented. How the variation of Al, one of the alloy components used in the experiment, affects the thermal expansion and thermal conductivity of the alloys (1-9 Al % weight), and the changes on density and hardness were investigated. It has been observed that the microstructure changes of the alloys and the intermetallic phase (Mg17Al12) seen in the microstructure have an effect on the thermal diffusivity, thermal conductivity, density, and hardness of the alloys. The thermal properties of the alloy changed depending on the Al content in the alloy. The thermal properties of the alloys increased depending on the temperature increase (temperature change between 25 °C and 400 °C). The highest thermal dissipation was observed in AZ61 alloy.
+Yazar isimleri: ['Birol AKYÜZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1078439
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2272624

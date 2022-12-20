@@ -1,0 +1,7 @@
+Makale Başlığı: İnvazive Mekanik Ventilatörde Hava Miktarını Ölçmek için HavaÖlçme Sensörünün Tasarımı, İmalatı ve Testi
+Özet: Çinin Wuan kentinde başlayan korana virüsün yol açtığı Covid-19 Hastalığı bütün dünyayı etkileyen bir pandemiye dönüştü. Bu hastalık akciğerlerin çalışmasını etkilediği için mekanik ventilatör ihtiyacı dünyada hızlı bir şekilde artmıştır. Bütün dünya ülkelerinin aynı anda cihaza ihtiyaç duyulmaları talebin patlamasına neden olmuştur. Talebin yüksek olup arzın az olması yedek parça ve cihaz ihtiyacının artmasına neden olmuş bu da yerli imkânlarla konunun çözümünün gerekliğini ortaya koymuştur. Pandemi süresinde ventüri tüpünü daha ucuza üretmekten ziyade tedarik edebilmek en büyük problem olarak ortaya çıkmıştır. İnvazive mekanik ventilatörde hava miktarının ölçmek için uygun çapta venturi tüp tasarlanarak üretimi gerçekleştirilmiştir.
+Yazar isimleri: ['Mahmut TURHAN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1108820
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2396260

@@ -1,0 +1,7 @@
+Makale Başlığı: Length-Weight Relationships and Gonadosomatic Index of Invasive Sea Urchin Diadema setosum (Leske, 1778) from Iskenderun Bay, North-Eastern Mediterranean, Turkey
+Özet: In this study, it was aimed to analyses some growth parameters of the invasive Diadema setosum (Leske, 1778) from Iskenderun Bay. For this reason, a total of 117 samples were collected in September 2021 from rocky shores coast of Iskenderun. The test diameter in D. setosum was varied between 24.32 and 81.1 mm with an average of 51.8±1.18 mm in length. The total weight was changed between 27.14 and 185.11 g, and the average total weight was 84.64±2.77 g. The length-weight relationship of D. setosum was W = 0.7917*L1.1773. The value of regression co-efficient (R2) estimated for the species was 0.71. Gonadosomatic indexes (GSI) was determined as 3.4±0.04%, 8.91±0.09%, and 7.50±0.14%, in GSI1, GSI2, and GSI3, respectively. This study is the first detailed study on the length-weight relationships (LWRs), length-weight frequency and gonadosomatic indexes of the invasive sea urchin (D. setosum) from İskenderun Bay, Northeastern Mediterranean.
+Yazar isimleri: ['Erkan UĞURLU', 'Önder DUYSAK']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1078408
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2272542

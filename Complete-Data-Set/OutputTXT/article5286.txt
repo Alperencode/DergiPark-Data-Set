@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 Pandemisinden Algılanan Ciddiyet Düzeyinin Boş Zaman Faaliyetlerine Katılım, Algılanan Boş Zaman Memnuniyeti ve Öznel İyi Oluş Üzerindeki Koşullu Etkilerinin Tespiti
+Özet: Bu çalışmanın amacı, bireylerin boş zaman faaliyetlerine katılım düzeylerinin, boş zaman faaliyetlerinden algılanan memnuniyet aracılığıyla öznel iyi oluşlarına etkisinin ve bu ilişkilerde COVID-19’dan algılanan ciddiyet düzeyinin düzenleyici rolünün incelenmesidir. Analiz için gerekli olan veriler, kolayda örnekleme yöntemi ile Türkiye’nin çeşitli illerinde çalışan 405 bireyden çevrimiçi anket yöntemi ile elde edilmiştir. Araştırma kapsamında geliştirilen hipotezler regresyon analizi, aracı etki analizi ve koşullu süreç analiziyle test edilmiştir. Aracı etki analizi sonucuna göre, boş zaman faaliyetlerinden algılanan memnuniyet değişkeninin aracı rolü tespit edilmiştir. Koşullu etki analizi sonucunda ise COVID-19’dan algılanan ciddiyet düzeyinin araştırmanın kavramsal modelinde yer alan değişkenler arasındaki doğrudan ve dolaylı ilişkiler üzerinde koşullu etkisinin bulunduğu belirlenmiştir.
+Yazar isimleri: ['Mutlu Yüksel AVCILAR', 'Mehmet Fatih AÇAR', 'Bahar KARACA']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguiibf/issue/73390/1097133
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2347492

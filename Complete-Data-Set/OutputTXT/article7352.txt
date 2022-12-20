@@ -1,0 +1,7 @@
+Makale Başlığı: Proper Semi-Slant Pseudo-Riemannian Submersions in Para-Kaehler Geometry
+Özet: In this paper, we examine the proper semi-slant pseudo-Riemannian submersions in para-Kaehler geometry and prove some fundamental results on such submersions. In particular we obtain curvature relations in para-Kaehler space forms. Moreover, we provide examples of proper semi-slant pseudo-Riemannian submersions.
+Yazar isimleri: ['Esra BAŞARIR NOYAN', 'Yılmaz GÜNDÜZALP']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/1033345
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2118746

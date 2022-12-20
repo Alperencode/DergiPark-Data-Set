@@ -1,0 +1,7 @@
+Makale Başlığı: HAVA AKIŞKANLI RANQUE-HILSCH VORTEKS TÜPÜ PERFORMANSINA İŞLEM PARAMETRELERİNİN ETKİSİNİN TAGUCHI  METODU İLE İNCELENMESİ
+Özet: 
+Yazar isimleri: ['Ramazan CAKIROGLU', 'Abdusselam EKEN', 'Adem ACIR']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Gazi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gmbd/issue/72442/1111977
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2408897

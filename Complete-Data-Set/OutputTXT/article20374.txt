@@ -1,0 +1,7 @@
+Makale Başlığı: Ekolojik kimlik ve ekolojik ayak izi: Çevre sorunlarında bir ikilem mi?
+Özet: Araştırmada ekolojik kimliğin belirleyicileri ile ekolojik ayak izi farkındalığının belirleyicilerini saptamak ve ekolojik kimlik ile ekolojik ayak izi farkındalığının ilişkisini araştırmak amaçlanmıştır. Tanımlayıcı tipteki bu araştırma Türkiye’de yaşayan 18 yaş ve üzeri gönüllü 630 yetişkin ile Nisan - Mayıs 2022 tarihleri arasında sosyal medya üzerinden çevrimiçi olarak yürütülmüştür. Veriler; Tanımlayıcı Form, Ekolojik Kimlik Ölçeği (EKÖ) ve Ekolojik Ayak İzi Farkındalık Ölçeği (EAİFÖ) ile toplanmıştır. Araştırmadan elde edilen bulgulara göre; katılımcıların %63,5’i kadın, %39,7’si 25 yaşın altında, %68,6’sı üniversite ve üzeri eğitimlidir. Çok Değişkenli Lineer Regresyon analizinde yaşa ve cinsiyete göre düzeltilen modellerde Merkezilik ekolojik kimliği arttıkça gıda ayak izi ve enerji ayak izi farkındalığının arttığı, farklılaşma ekolojik kimliği artıkça enerji ayak izi farkındalığının azaldığı belirlenmiştir. Özdeşlik ve merkezilik ekolojik kimliği arttıkça ulaşım ve barınma, atıklar ve su tüketimi ayak izi farkındalıklarının arttığı ancak farklılaşma ekolojik kimliği azaldıkça ulaşım ve barınma, atıklar ve su tüketimi ayak izi farkındalıklarının arttığı tespit edilmiştir.
+Yazar isimleri: ['Sibel IŞIK MERCAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: lnternational Journal of Geography and Geography Education
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/igge/issue/72781/1124911
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2462110

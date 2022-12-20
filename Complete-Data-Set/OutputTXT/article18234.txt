@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect Of Bank Capital Structure On Performance: AHP Application
+Özet: Analytical Hierarchy Process (AHP) is a multi-criteria decision making tool applied to solve almost all applications related to decision making. The performance of the banking sector is very important in the economic growth phase. The article uses AHP, a quantitative decision- making method, to evaluate the performance of Turkish commercial banks. The main starting point of this study is to rank banks using financial ratios. Work on the impact of the performance of the capital structure of the banks in times of crisis because banks want to examine the latest crisis experienced in 2001 in Turkey were discussed. In the AHP application to evaluate the performance ranking of the financial ratios of the Turkish banking sector, it is placed in a hierarchical decision structure to calculate the financial performance score of Turkish commercial banks. In other words, based on this analysis, decision makers can most closely predict banking failure.
+Yazar isimleri: ['Fuat ÇAMLIBEL']
+Yayın Yılı: 13 Aralık 2021
+Dergi ismi: Bankacılık ve Sigortacılık Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsad/issue/64925/1012197
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2036289

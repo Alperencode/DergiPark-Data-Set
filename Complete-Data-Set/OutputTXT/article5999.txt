@@ -1,0 +1,7 @@
+Makale Başlığı: Hava Akışkanlı Bir Güneş Toplacında Türbülans Modellerinin ve Duvar Tabaka Ağ Yapısının Karşılaştırması
+Özet: Türbülans modelleri ve duvarlara atanan duvar tabaka ağ kalınlığı, hesaplamalı akışkanlar dinamiğinin kullanıldığı akış problemlerinin iki önemli parametresini oluşturmaktadır. Mühendislikteki farklı problemler için farklı türbülans modelleri etkin bir şekilde kullanılmaktadır. Ayrıca duvar ağ yapısı oluşturulurken belirlenen duvar tabaka ağ kalınlığı da seçilmiş olan türbülans modelinden elde edilecek sonucu etkileyen bir parametredir. Bu çalışmada, hava akışkanlı bir güneş toplacı için üç farklı türbülans modeli, k-, RNG k- ve düşük Reynolds sayısı için k- modelleri, 3, 6 ve 9 kademe duvar tabaka ağ kalınlıklarında incelenmiştir. Elde edilen sonuçlar incelendiğinde, incelemesi yapılan modeller arasındaki en iyi sonucun altı seviye duvar tabaka ağ yapısına sahip RNG metodu olduğu görülmektedir.
+Yazar isimleri: ['Ozgur EROL']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Gazi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gmbd/issue/72442/1077531
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2269266

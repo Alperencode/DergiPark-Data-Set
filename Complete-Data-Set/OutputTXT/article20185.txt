@@ -1,0 +1,7 @@
+Makale Başlığı: Gündüz Sefası (Ipomoea purpurea) Bitkisinden Polifenol Oksidaz Enziminin Kısmi Saflaştırılması ve Karakterizasyonu
+Özet: Bu çalışmada, polifenol oksidaz (PPO) enziminin Ipomoea purpurea (I. purpurea) bitkisinden ilk kez saflaştırılması ve enzimin biyokimyasal özelliklerinin belirlenmesi amaçlandı. Buna göre, in vitro olarak üretilen bitkiye ait yapraklardan optimum koşullarda (25 mg ml-1 Polivinilpolipirrolidon, pH 7.0) gerçekleştirilen ekstraksiyon sonrası elde edilen ham ekstrakt örneğinden PPO enzimi üçlü faz ayırma tekniği ile yaklaşık %57 aktivite geri kazanımla 10,5 kat saflaştırıldı. Enzimin optimum pH ve sıcaklık değerleri sırasıyla 7.0 ve 30°C olarak belirlendi. Aktivite boyama sonrası kısmen saf enzimde lakkaz, peroksidaz ve katekol oksidaz aktiviteleri tespit edildi. Ayrıca, 20°C ile 40°C arasında enzim aktivitesinin ≥%75, pH 7.0 ile 9.0 arasında ≥%65 oranında korunduğu tespit edildi.
+Yazar isimleri: ['Arda ACEMİ', 'Yonca YÜZÜGÜLLÜ KARAKUŞ']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Tarım ve Doğa Dergisi
+Yayın sayfa url: http://dogadergi.ksu.edu.tr/tr/pub/issue/73092/1008243
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2021141

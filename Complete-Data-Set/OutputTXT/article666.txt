@@ -1,0 +1,7 @@
+Makale Başlığı: Drying Properties of Apple Slices at Different Temperatures and Microwave Powers
+Özet: In this study, the drying properties of apple slices dried at different microwave powers and in different hot air were investigated and compared. Depending on the increase in microwave power, an increase in drying rate and effective moisture diffusivity and a decrease in drying time were determined. Effective moisture diffusivity were found in the range of 9.72x10-10 - 2.36x10-9 m2 s-1 at different microwave powers, and between 3.80×10-10 - 7.40x10-10 m2 s-1 in hot air drying. Longer drying time, slower drying rate and less effective moisture diffusivity were obtained from drying hot air when compared to different microwave powers. Depending on the increase in temperature, an increase in drying rate and effective moisture diffusivity was determined. While Page model has the best fit for the drying curves at different microwave powers, the drying curves of hot air dried apple slices were defined by Parabole model.
+Yazar isimleri: []
+Yayın Yılı: 11 Ekim 2022
+Dergi ismi: Akademik Gıda
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akademik-gida/issue/72988/1186984
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2699785

@@ -1,0 +1,7 @@
+Makale Başlığı: Su Altı Araçlarında Servo Motor Kontrolünün PSO ile Optimizasyonu
+Özet: İnsansız yüzey araçları (USV) günümüzde, otonom veya yarı otonom robotlar olarak tasarlanmış ve teknolojik unsurlara donatılmış birer su altı robotu şeklinde tanımlanmaktadır. Bu çok yönlü akıllı araçlarda algılama, karar verme ve hareket kabiliyetini kurma becerisi mevcut haldedir. Teknolojik donatılarla güçlendirilmiş USV’ler; deniz yüzeyi ve dip tarama, haritalama, sualtında boru hattı döşemelerini gerçekleştirme, bilimsel araştırmalar ve askeri görevlerde kullanılmaktadırlar. Bununla birlikte, insanlı olarak bilinen denizaltı araçlarına yakıt taşıma veya akü ihtiyaçlarını giderme gibi görevleri de üstlenmektedirler. Bu çalışmada USV yapısının servo motor hız kontrolü PID denetleyici ile MATLAB/ Simulink ortamında gerçekleştirilmiştir. PID denetleyici katsayıları birincil olarak Ziegler-Nichols ile hesaplanmıştır. İkincil olarak Parçacık sürü optimizasyonu (PSO) ile optimize edilmiştir. Sistemde bu yönteme göre referans hız değerine yaklaşımı, salınımı ve kontrolü incelenmiştir.
+Yazar isimleri: ['Zahide Nur YILMAZ', 'Nuri Alper METİN', 'Murat LÜY']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1124999
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2462511

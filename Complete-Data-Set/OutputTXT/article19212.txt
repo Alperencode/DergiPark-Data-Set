@@ -1,0 +1,7 @@
+Makale Başlığı: Göz Takip Sistemlerinin Spor Pazarlaması Alanındaki Kullanımına İlişkin Bir İnceleme
+Özet: Göz takip sistemleri uygulama alanı olarak her geçen gün genişleyen bir yelpazeye sahiptir. Bu durum birçok araştırmada kullanılmalarına olanak sağlamaktadır. Basit olarak kızılötesi ışınlar yardımıyla göz hareketlerini kaydederek çeşitli veriler sağlayan bu sistemler, yoğun olarak pazarlama araştırmalarında tüketicilerin karar verme süreçlerini anlamak için kullanılmaktadır. Küresel çapta çok büyük bir ürün ve hizmet pazarı olan spor endüstrisinin en önemli bileşenlerinden spor tüketicilerinin karar verme süreçlerini anlamak, bu süreçlerde etkili olan değişkenleri belirlemek için göz takip sistemleri kullanılarak birçok araştırma gerçekleştirilmiştir. Bu çalışma ile spor pazarlaması alanında yapılan çalışmalarda göz takip sistemlerinin nasıl kullanıldığını ve elde edilen sonuçların nasıl yorumlandığını genel hatları ile aktarmak amaçlanmıştır. Literatür taraması yöntemi kullanılarak ulaşılan, spor pazarlaması alanında yapılmış araştırmaların yoğun olarak yöntem kısımları incelenmiştir. Bu sayede geçmişte yapılan çalışmaların nasıl tasarlandığı ve gelecekte yapılacak çalışmalarda hangi değişkenlerin araştırılabileceği ifade edilmeye çalışılmıştır.
+Yazar isimleri: ['Ümit Can BÜYÜKAKGÜL', 'Hakan KATIRCI']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: GSI Journals Serie B: Advancements in Business and Economics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/abe/issue/69877/1104816
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2379595

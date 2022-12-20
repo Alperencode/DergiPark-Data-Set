@@ -1,0 +1,7 @@
+Makale Başlığı: Factors Affecting Innovation in OECD Countries
+Özet: Innovation has a key role in countries’ ability to integrate into the global economy, thereby necessitating the creation and sustainability of a national innovation climate. Countries generate positive economic and social development by promoting increased innovation, particularly in terms of significant advantages in global competition. Therefore, the factors affecting innovation gain importance and rank at the center of economic research. This study endeavors to investigate the factors affecting innovation by estimating a panel VAR model with a dataset of selected OECD countries. Annual data on the number of domestic patents, GDP, trade openness, foreign direct investment, R&D, and education expenditure were used for the 1981-2019 period. A panel Granger causality test and variance decomposition analysis were conducted based on the panel VAR results, and impulse-response functions were further interpreted. Findings revealed that GDP, trade openness, foreign direct investment, and R&D expenditures are the key factors affecting innovation.
+Yazar isimleri: ['Umut AKDUĞAN', 'Nilhun DOĞAN']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Ekoist: Journal of Econometrics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ekoist/issue/68492/1102470
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2370274

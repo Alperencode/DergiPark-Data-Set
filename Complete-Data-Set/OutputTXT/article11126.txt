@@ -1,0 +1,7 @@
+Makale Başlığı: Üniversite Hastanelerinin Covid-19 Dönemi Öncesi ve Sonrası Etkinliklerinin Pabon Lasso Modeli ile Değerlendirilmesi
+Özet: Bir hizmet üretim işletmesi olarak hastaneler sağlık hizmet sunucularının sundukları hizmet bakımından basamaklara ayrılmaktadır. Bu basamakların en tepesinde üçüncü basamak sağlık hizmet sunucusu olarak üniversite hastaneleri yer almaktadır. Bu bakımdan üniversite hastaneleri sağlık sistemi içerisinde nicelik olarak küçük bir hacime sahip olsa da sundukları sağlık hizmetinin içeriği ve nitelik açısından önemli bir paya sahiptirler. Buradan hareketle çalışmada Türkiye’nin farklı şehirlerinde faaliyet gösteren 10 ayrı devlet üniversite hastanesinin yatak doluluk oranı, ortalama kalış gün sayısı ve yatak devir hızı göstergeleri kullanılarak Pabon Lasso Modeli ile Covid-19 dönemi öncesi ve sonrası etkinlikleri ölçülmüştür. Analiz sonucunda en yüksek verime sahip olan 3. bölgede 2019 ve 2021 yıllarında sırasıyla 4 hastane ve 3 hastanenin, en düşük verime sahip olan 1. bölgede ise 2019 ve 2021 yıllarında sırasıyla 5 hastane ve 2 hastanenin yer aldığı tespit edilmiştir.
+Yazar isimleri: ['Ayşe ÇİFTÇİ AYTEKİN']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Manisa Celal Bayar Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cbayarsos/issue/72696/1085669
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2301295

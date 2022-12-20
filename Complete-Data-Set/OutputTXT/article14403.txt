@@ -1,0 +1,7 @@
+Makale Başlığı: 17.9 MeV’lik Enerjide (p,α) Tesir Kesiti Verileri üzerine Sistematik Bir İnceleme
+Özet: Radyasyon tedavisi, astrofizik, radyoizotop üretimi, füzyon ve fisyon gibi çeşitli uygulamalarda nükleer tesir kesiti verilerine ihtiyaç duyulmaktadır. Sistematikler, deneysel değeri olmayan gelme enerjilerde nötron ve protonla oluşturulan reaksiyon tesir kesitlerinin belirlenmesinde önemli bir rol oynamaktadır. Bu yüzden, ampirik sistematikler günümüzde tesir kesiti hesaplamaları üzerine çalışmalarda yaygın olarak kullanılmaktadır. Bu çalışmada, 17.9 MeV'lik proton enerjisinde (p,α) reaksiyonları üzerine Q-değeri bağımlılığını göz önünde bulundurarak ampirik tesir kesiti formülleri önerdik. Coulomb ve tek-çift etkileri dahil eden mevcut formüller istatistiksel teoriye dayanmaktadır. Ek olarak, bu formüller, Levkovskii'nin nötron kaynaklı reaksiyonlar için orijinal asimetri parametre formüllerinin ve Tel ve arkadaşlarının proton kaynaklı reaksiyonlar için ampirik formüllerinin bir modifikasyonudur. Formüllerin fit parametreleri deneysel uyarılma fonksiyonu verilerinin en küçük kareler fit işlemi tarafından belirlendi. Yeni ampirik formüllerin, 17.9 MeV'de literatürdeki (p,α) deneysel tesir kesiti değerleri ile iyi uyum sağladığı görülmektedir.
+Yazar isimleri: ['Mustafa YİĞİT']
+Yayın Yılı: 25 Kasım 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Edebiyat Fakültesi Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufeffd/issue/73519/1169140
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2624883

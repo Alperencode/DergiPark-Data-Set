@@ -1,0 +1,7 @@
+Makale Başlığı: SYNTHESIS, CHARACTERIZATION AND THEORETICAL CALCULATION OF 4-(((1H-IMIDAZOL-2-YL)METHYLENE)AMINO)PHENOL
+Özet: Bu çalışmada, Schiff bazı 4-(((1H-imidazol-2-il)metilen)amino)fenol (3), sentezlenmiş ve bileşiğin yapısı elementel analiz, FTIR, 1H NMR, 13C NMR ve UV-Vis spektroskopik tekniklerle karakterize edilmiştir. Teorik ve deneysel spektroskopi verilerinin korelasyonuna bakılmıştır. Asitlik sabiti MOPAC2012 programında PM6 yöntemi ve Gaussian09 programında DFT yöntemi kullanılarak B3LYP/6-311+G(d,p) seviyelerinde gaz ve sıvı fazlarında 25 °C'de hesaplanmıştır. Sentezlenen molekülün kararlı konformasyonuna karar verildikten sonra HOMO, LUMO, MEP ve SAS teorisi B3LYP/6-311+G(d,p) seviyesi kullanılarak hesaplanmıştır.
+Yazar isimleri: ['Dilek ELMALI', 'Kader ÇITAK']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Eskişehir Teknik Üniversitesi Bilim ve Teknoloji Dergisi B - Teorik Bilimler
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/estubtdb/issue/71908/982660
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1924347

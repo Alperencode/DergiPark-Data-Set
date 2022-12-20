@@ -1,0 +1,7 @@
+Makale Başlığı: Global Weak Solution, Uniqueness and Exponential Decay for a Class of Degenerate Hyperbolic Equation
+Özet: This paper deals with existence, uniqueness and energy decay of solutions to a degenerate hyperbolic equations given by\begin{align*}K(x,t)u'' - M\left(\int_\Omega |\nabla u|^2\,dx \right) \Delta u - \Delta u' = 0,\end{align*}with operator coefficient $K(x,t)$ satisfying suitable properties and $M(\,\cdot \,) \in C^1([0, \infty))$  is a function  which greatest lower bound for $ M (\,\cdot\,) $ is zero. For global weak solution and uniqueness we use the Faedo-Galerkin method. Exponential decay is proven by using a theorem due to M. Nakao.
+Yazar isimleri: ['Carlos RAPOSO']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Communications in Advanced Mathematical Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cams/issue/72815/1012330
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2036794

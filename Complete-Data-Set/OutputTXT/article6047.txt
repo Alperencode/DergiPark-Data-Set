@@ -1,0 +1,7 @@
+Makale Başlığı: Cholesky Factorization of the Generalized Symmetric k- Fibonacci Matrix
+Özet: Matrix methods are a useful tool while dealing with many problems stemming from linear recurrence relations. In this paper, we discuss factorizations and inverse factorizations of two kinds of generalized k-Fibonacci matrices. We derive some useful identities of the k-Fibonacci sequence. We investigate the Cholesky factorization of the generalized symmetric k-Fibonacci matrix by using these identities.
+Yazar isimleri: ['Cahit KÖME']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/838411
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1440281

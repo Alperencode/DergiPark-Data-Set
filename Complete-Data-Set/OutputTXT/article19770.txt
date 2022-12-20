@@ -1,0 +1,7 @@
+Makale Başlığı: Artificial Intelligence Supported Aircraft Maintenance Strategy Selection with q-Rung Orthopair Fuzzy TOPSIS Method
+Özet: In the aviation sector as unscheduled maintenance, repair and overhaul cost too much and  these activities also negatively affect the prestige of the companies, deciding the most appropriate maintenance strategy is crucial. Today artificial intelligence methods, especially machine learning techniques facilitate failure detection and predict the wear and tear of the equipment before the occurrence of a serious failure. In this paper, artificial intelligence-supported corrective, predictive, and prescriptive maintenance methods are examined. Those most common aircraft maintenance approaches are compared regarding cost, reliability, failure detection, and downtime period using decision makers' subjective evaluations with the help of the q-rung orthopair fuzzy TOPSIS method which mitigates the drawbacks of uncertainty in human decision making.   Stable and efficient results are obtained regarding the selection of an appropriate maintenance strategy. This article might be the first quantitative research that evaluates and compares AI-supported aircraft maintenance strategies.
+Yazar isimleri: ['Adem PINAR']
+Yayın Yılı: 22 Kasım 2022
+Dergi ismi: Journal of Aviation
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jav/issue/73447/1150219
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2562894

@@ -1,0 +1,7 @@
+Makale Başlığı: TESTING FOR HERD BEHAVIOR IN BORSA ISTANBUL DURING THE COVID-19 PANDEMIC
+Özet: The concept of herd behavior is based on the nature of decentralized acting investors’ pseudo-collaborativebehaviors in the market. This study investigates the herd behavior phenomenon for Borsa Istanbul (BIST)amidst the new coronavirus outbreak. The whole period is split into symmetrical two discrete one-yearsub-periods considering the median date of March 11th, 2020, the official announcement date of the firstdomestic COVID-19 case. The paper proceeds with the models based on the Cross-sectional mean absolutedeviation (CSAD) and the Cross-sectional standard deviation (CSSD) test methodology to test for probableherd behavior, using daily stock closing prices of the BIST 100 index shares during the period from March11th, 2019 to March 9th, 2021.
+Yazar isimleri: ['Devrim YALÇIN']
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: Marmara Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/muiibd/issue/70497/1135455
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2505891

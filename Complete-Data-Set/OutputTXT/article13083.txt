@@ -1,0 +1,7 @@
+Makale Başlığı: Yarıçapa Bağlı Katılık Oranının bir H-Tip Dikey Eksenli Rüzgâr Türbinine Etkisinin Sayısal Olarak İncelenmesi
+Özet: Bu çalışmada yarıçapa bağlı olarak değiştirilen katılık oranının, NACA 0021 kanat profiline sahip 3 kanatlı H-tip dikey eksenli rüzgar türbini aerodinamik performansına olan etkisi sayısal olarak Ansys – Fluent 14.1 yazılımında incelenmiştir. Meshten bağımsızlığa ulaşıldıktan sonra kullanılan sayısal methodlar deneysel çalışmadan elde edilen sonuçlar ile doğrulanmış ve farklı katılık oranlarında sayısal analizler tekrarlanmıştır. Sonuçlar incelendiğinde, katılık oranının artması ile birlikte düşük kanat uç hız oranlarında (TSR), katılık oranının azalması ile birlikte ise yüksek TSR değerlerinde daha yüksek aerodinamik verim elde edileceği görülmüştür. Gözlemlenen en büyük güç katsayıları, 1 m yarıçapa sahip olan turbine göre (Cp) 0.75 m yarıçapa sahip olan (M1) türbinde %4.25 artmış, 1.25 m yarıçapa sahip olan (M3) türbinde ise % 0.57 azalmıştır.
+Yazar isimleri: ['Ahmet Fatih KAYA', 'Himmet Erdi TANÜRÜN', 'Adem ACIR']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/799767
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1308769

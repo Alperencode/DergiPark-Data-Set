@@ -1,0 +1,7 @@
+Makale Başlığı: Structural repetitions and discourse relations in English-Turkish translations of TED talks
+Özet: This study attempts to analyse translations of the discourse relations of the arguments with structural repetitions in the TED-MDB corpora consisting three texts (English) and their translations (Turkish). The main questions addressed in this paper are: a) Are connective relations used explicitly or implicitly together with repetitions? b) Which discourse relations are being used with repetitions? c) Do translators translate repetitions or omit them? The analysis shows that speakers of TED Talks mostly prefer to use these repetitions in their speeches with implicit discourse relations (66.6%), and translators translate them through implicit forms (54.8%). Moreover, the dominantly explicit usage of and in repetitive structures shows that the relations can be associated with an explicit connective and. Accordingly, ExpansionConjunction (addition) relations are frequently being used with repetitions at the beginning (73.8%). Also, mostly, the translators tend to omit repetitions at the beginning (92.9%).
+Yazar isimleri: ['Özgür ŞEN BARTAN']
+Yayın Yılı: 18 Aralık 2022
+Dergi ismi: The Literacy Trek
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/literacytrek/issue/73699/1119118
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2438327

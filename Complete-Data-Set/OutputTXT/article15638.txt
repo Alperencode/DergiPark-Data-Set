@@ -1,0 +1,7 @@
+Makale Başlığı: Dynamic Analysis of Historical Masonry Arch Bridges under Different Earthquakes:  The Case of Murat Bey Bridge
+Özet: Historical structures, which constitute an important part of our cultural heritage, should be well protected and carried into the future. Masonry arch bridges are significant part of these structures. In this study, the single-span Murat Bey Bridge in the province of Kütahya, built in 1460, was studied as a numerical application. Firstly, three dimensional finite element model of the bridge was constituted with SAP2000 finite element program. Static analysis of the bridge under its own weight was carried out. The modal analysis method was used to obtain the dynamic characteristics of the bridge. Then, time-history analysis method was applied for seismic evaluation of the bridge. For this purpose, the acceleration records of the 1998 Adana, 2003 Bingöl, 2011 Van and 2020 Elazığ earthquakes were taken into consideration. As a result of the dynamic analyses carried out, the displacement and stress graphs occurring on the bridge were examined. The highest displacement and stress values on the historical bridge were obtained from the acceleration records of the 2011 Van earthquake.
+Yazar isimleri: ['Elif Gözde YILMAZ', 'Erkut SAYIN', 'Alper ÖZMEN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1105998
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2384545

@@ -1,0 +1,7 @@
+Makale Başlığı: Removal of Building Residence Area with Trigonometric Method in Free Building Identity Zoning Plots
+Özet: The zoning blocks in the free building order are the special case of the separate, block and adjacent building regulations in the implementation zoning plans. Buildings are established in order to meet human needs in areas within the zoning boundaries by giving such building regulations. Free-order zoning parcels are another type of mostly separate and block orders. In areas where such parcels are located, only the precedent value, which is the total construction area of the island, is usually given. Based on this precedent value, the residential area of the building is given to the parcel with various methods or approaches in accordance with the relevant law and regulation. In this study, trigonometric perpendicular projections and triangulation with the help of angles were used to determine the base settlement areas of the parcels. With these stickers, the required front, side and rear shooting limits were tried to be revealed by giving various plan examples. In this way, it is aimed to try to apply the best zoning drawing distances to a zoning parcel on the land with the best mathematical approach.
+Yazar isimleri: ['Selim TAŞKAYA']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: European Journal of Engineering and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejeas/issue/71559/1084078
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2294897

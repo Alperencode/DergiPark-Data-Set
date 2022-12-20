@@ -1,0 +1,7 @@
+Makale Başlığı: ETKİN PİYASA HİPOTEZİNİN ZAYIF FORMUNUN TÜRKİYE’DE BANKACILIK SEKTÖRÜ İÇİN TEST EDİLMESİ
+Özet: Bu çalışma, Türkiye ekonomisi finans sektörü içerisinde büyük pay sahibi olan Bankacılık sektöründe Borsa İstanbul (BIST Bankalar) Bankacılık endeksi bağlamında Etkin Piyasa Hipotezi (EPH)’nin geçerliliğinin test edilmesini amaçlamaktadır. Bu amaçla 11 bankayı içeren BIST Bankalar endeksi, 2005-2018 dönemine ait fiyat verileri kullanılarak hem standart ADF birim kök testi hem de doğrusal olmayan Christopoulos ve Leon-Ledesma (2010) Fourier ADF tipi birim kök testi uygulanarak EPH’nin geçerliliği sınanmıştır.  Elde edilen bulgulara göre, incelenen dönemde BISTBANK serilerin birim köklü olduğu belirlenmiş olup, ele alınan piyasada zayıf formda etkin piyasa hipotezinin geçerli olduğu tespit edilmiştir.
+Yazar isimleri: ['Harun BAL', 'Neşe ALGAN', 'Esma ERDOĞAN', 'İpek TEKİN']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: Çukurova Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cuiibfd/issue/69907/995297
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1973907

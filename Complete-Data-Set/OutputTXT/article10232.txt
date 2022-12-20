@@ -1,0 +1,7 @@
+Makale Başlığı: İntihar Vakalarının Ekonomik Faktörler ile İlişkisi: Panel Veri Analizi
+Özet: Günümüzde intihar vakaları WHO (Dünya Sağlık Örgütü) verilerine göre her geçen yıl artmaktadır. WHO verileri incelendiğinde 100 bine düşen intihar vakalarının büyük bölümü 44 ülkede görülmektedir. Bu çalışmada, 44 ülkenin işsizlik, enflasyon, kadınların işgücüne katılması ve işgücü katılım oranları gibi ekonomik faktörlerin artan erkek ve kadın intihar vakaları üzerindeki etkisinin incelenmesi amaçlanmıştır. Bu amaç doğrultusunda 2000-2019 yıllarını kapsayan dönem dikkate alınmıştır. Dinamik panel veri analizi olarak Arellano ve Bover/Blundell ve Bond (1998) testi yapılmıştır. Çalışmada işsizlik oranındaki %1’lik artışın erkek intiharlarında %4’lük bir artışa, kadın intiharlarında ise %2’lik bir artışa neden olduğu tespit edilmiştir. Kadınların işgücüne katılma oranındaki %1’lik artışın erkek intiharlarında %16 ‘lik artışa neden olurken kadın intiharlarında %10 ‘luk artışa neden olmaktadır. Enflasyondaki %1’lik artışın erkek intiharlarında %1’lik artışa, kadın intiharlarında ise %2’lik bir artışa neden olduğu tespit edilmiştir.
+Yazar isimleri: ['Oktay KIZILKAYA', 'Haydar KUZUCU']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Karamanoğlu Mehmetbey Üniversitesi Sosyal Ve Ekonomik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kmusekad/issue/70427/1053750
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2176243

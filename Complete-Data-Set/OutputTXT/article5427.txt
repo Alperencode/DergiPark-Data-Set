@@ -1,0 +1,7 @@
+Makale Başlığı: DIVA (Differentiating Infected from Vaccinated Animals) Aşı ve Stratejileri
+Özet: Veteriner hekimlik alanında aşılama, hastalıkların önlenmesi ve kontrolünde en etkili yöntemlerden birisidir. Hayvan hastalıklarının kontrolünde mevcut yöntemler başarısız olduğunda, farklı aşı ve stratejiler geliştirilmektedir. Saha suşunda yer alan bir veya daha fazla antijenik epitop veya proteinden yoksun olan DIVA (Differentiating Infected from Vaccinated Animals) aşıları ve beraberinde kullanılan tanı testleri, hastalıkların eradikasyonu ve kontrolünde oldukça etkilidir. Mevcut aşılar, aşılı ve enfekte hayvanların ayrımını sağlayamazken, DIVA aşıları bu alanda önemli yararlar sağlar. Bunun yanında ELISA (Enzyme-Linked ImmunoSorbent Assay) gibi DIVA aşılarıyla birlikte kullanılan serolojik testler, hangi hayvanların enfekte ve hangilerinin aşılı olduğunun ayrımı için kullanılabilir. Bazı hayvan hastalıklarına yönelik DIVA aşı ve stratejileri geliştirilmiş ve diğerleri için de geliştirilmeye devam edilmektedir. Bu derlemede, DIVA aşı ve stratejilerinin genel özelliklerini, önemini, üretimini, avantajlarını ve bunların çeşitli hayvan hastalıklarında kullanımını açıklamak amaçlanmıştır.
+Yazar isimleri: ['Asena Esra ERDEM', 'Barış SAREYYÜPOĞLU']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Etlik Veteriner Mikrobiyoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/evmd/issue/68243/932993
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1752083

@@ -1,0 +1,7 @@
+Makale Başlığı: Muhasebe Denetiminde Kontrol Riskinin Hesaplanması Ve  Türkiye Uygulamaları
+Özet: Türkiye’de işletmelerin muhasebe denetiminde, dünyada uygulanan standartlara erişmesi ve denetim kalitesinin artırılması Kamu Gözetim ve Denetim Kurulu tarafından yayınlanan Bağımsız Denetim Standartlarının uygulanması ile mümkün olmaktadır. Bağımsız Denetim Standartlarının sağlıklı bir şekilde yürütülmesi ve güvenilir sonuçlar elde edilmesi işletmelerin kontrol riskinin tespiti ile yakından ilgilidir. Bu nedenle denetim işlemlerinde işletmelerin öncelikle kontrol riskinin hesaplanması, denetçinin işini kolaylaştırmaktadır. Kontrol riski hesaplamaları, işletmelerdeki mevcut kontrol sisteminin varlığı ve bu sistemin etkin olarak işletilip işletilmediğinin Uluslararası Denetim Standartlarına uygun olarak araştırılmasını kapsamaktadır. Bu çalışmada literatür taraması ile kontrol riski kavramı ve kontrol risk düzeyinin denetim açısından önemi açıklanmış, Uluslararası denetim standartları paralelindeki Türkiye bağımsız Denetim Standartları referans alınarak kontrol riski tespiti için yapılması gereken sorgulamalardan bahsedilmiştir.
+Yazar isimleri: ['Aynur IŞIK']
+Yayın Yılı: 24 Ekim 2022
+Dergi ismi: Muhasebe ve Finansman Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mufad/issue/73058/1143296
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2536401

@@ -1,0 +1,7 @@
+Makale Başlığı: AR-GE HARCAMALARININ FİRMA KARLILIK PERFORMANSINA ETKİSİ BİST TEKNOLOJİ FİRMALARINA YÖNELİK BİR UYGULAMA
+Özet: Araştırma ve geliştirme harcamaları, firmalar için ürün ve hizmet kalitesinin artırılması, rekabet avantajı sağlaması ve teknolojinin etkin olarak kullanılması noktasında belirleyici ve farklılık oluşturan önemli bir faaliyet haline gelmiştir. Hem günümüz dünyasının gereksinimlerini yakalayarak rakiplerden geri kalmamak hem de temel amaç olan kar maksimizasyonu amacını gerçekleştirmek için firmaların AR-GE harcamalarına büyük önem vermeleri gerekmektedir. Bu çalışmanın amacı firmalar açısından önemi her geçen gün artan Ar-Ge harcamalarının firmaların karlılık performanslarına etkisini analiz etmektir. Bu amaçla BIST teknoloji firmasında faaliyette bulunan ve 2010-2019 yılları arasında dipnotlarında sürekli olarak Ar-Ge harcamalarına yer veren 20 firmanın verileri panel veri analizi ile araştırılmıştır. Firma performansını temsilen toplamda iki model oluşturulmuştur. Analiz sonuçlarına göre Ar-Ge harcamalarının firmalarda satışların karlılğını ve aktiflerin karlılığını negatif etkilediği ve aralarında anlamlı bir ilişki olduğu tespit edilmiştir.
+Yazar isimleri: ['Mesut ASLAN']
+Yayın Yılı: 21 Mart 2022
+Dergi ismi: Ekinoks Ekonomi İşletme ve Siyasal Çalışmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/equinox/issue/68986/1039962
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2145743

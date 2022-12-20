@@ -1,0 +1,7 @@
+Makale Başlığı: Tıbbi Terminolojide Akronimler. Almanca-Türkçe Dil İkilisi Örneği
+Özet: Tıbbi terminoloji çok eskilere dayanan tarihi bir süreç içerisinde gelişen, günümüze kadar sürekli yenilenen ve gelişim gösteren bir özel alan dilidir. Dolayısıyla dinamik bir yapıya sahiptir ve Tıp alanındaki yeni gelişmelere açık bir yapısı vardır. Tıbbi terminolojide yer alan terimlerin oluşturulma biçimleri çok farklı kaynaklardan ve yapılardan oluşmaktadır. Tıp terimleri çoğunlukla Latince, Yunanca, Arapça ve son yıllarda artan sayıyla da İngilizce kökenli sözcüklerden üretilmektedir. Günümüzde Tıp bilimine (özellikle de patolojiye) yeni yerleşen terimlerde sıkça kısaltmalara (kısma adlara) rastlanmaktadır. Bu kısaltmalar Latince, Yunanca ve özellikle de İngilizce sözcük ve sözcük gruplarının baş harflerinden oluşturulan akronimlerdir. Bu çalışmada akronimlerin diller arasındaki farklılık ve tutarsızlıklarının olduğu Almanca-Türkçe örneğinden yola çıkılarak gösterilmeye çalışılacak ve Tıp metinleri çevirisi için ortaya çıkabilecek sorunlar üzerinde durulacaktır.
+Yazar isimleri: ['Dilek TURAN']
+Yayın Yılı: 26 Temmuz 2022
+Dergi ismi: Kafkas Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kausbed/issue/71439/1052326
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2170830

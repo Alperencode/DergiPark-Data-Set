@@ -1,0 +1,7 @@
+Makale Başlığı: A New Proposal to Model the Relationships between Total Factor Productivity, Institutions and Accumulation
+Özet: In this paper, we discuss the relationship between Total Factor Productivity (TFP), accumulation and institutions. In order to show these connections, a new model is presented that is able to shed some light on the links involving this multi-dimensional relationship, which goes from countries’ quality of institutions to their stocks of physical and human capital and from these to TFP. The model is constructed in analogy with the physical law of thermal expansion and it introduces a new parameter that measures the response of TPF to variations in stocks of capital, in relation to institutional quality. Thanks to the proposed model, an operational methodology of such a parameter is defined (based on certain macroeconomic variables) and an estimate of it is provided (on the basis of a time series relative to a wide range of countries).
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353560
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364591

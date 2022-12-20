@@ -1,0 +1,7 @@
+Makale Başlığı: ADLANDIRMA VE ANLAMLANDIRMA
+Özet: Adlandırma ve anlamlandırma, dili meydana getiren iki işleyiştir. Dil felsefesinin kurucusu Kripke, yaptığı araştırmalarla dilin anlamlandırma sistemi üzerine önemli sonuçlara ulaşmıştır. Bu bölümde anlamlandırmanın karşısına adlandırma konularak; bu konular, dilin iki boyutu olarak ele alınmıştır. Anlamlar, adlara yüklenerek anlamlandırma; anlamlar için sözcükler görevlendirilerek adlandırma gerçekleşir.
+Yazar isimleri: ['Ahmet AKÇATAŞ']
+Yayın Yılı: 23 Mart 2022
+Dergi ismi: Uluslararası Sosyal Bilimler Akademik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/utsobilder/issue/69034/1084682
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2297456

@@ -1,0 +1,7 @@
+Makale Başlığı: Electrophoretic deposition and characterization of self-doped SrTiO3 thin films
+Özet: Herein, titanium (Ti3+) self-doped strontium titanate (SrTiO3), so-called blue SrTiO3, with a bandgap of 2.6 eV and favorable photocatalytic characteristics was fabricated through a facile and effective method. For electrochemical investigations, the electrophoretic deposition was applied to produce SrTiO3 thin films on (fluorine-doped tin oxide) FTO conductive substrates. The electrophoretic voltage of 20 V and a process duration of 10 min were optimized to reach transparent and uniform coatings on FTO. The blue SrTiO3 reveals lower resistance (charge transfer resistance of 6.38 Omega cm(-2)) and higher electron mobility (current density value of 0.25 mA cm(-2)) compared to a pure SrTiO3 electrode. These findings may provide new insights for developing high-performance visible light photocatalysts.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944720
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1794930

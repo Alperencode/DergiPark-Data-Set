@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of The Applicability of The Classical Tawarruq Method in Participation Banking According to The TKBB Tawarruq Standard and A Model Suggestion
+Özet: Türkiye Katılım Bankaları Birliği (TKBB) Merkezi Danışma Kurulu Teverruk Standardı yayınlamış olup, katılım bankaları bu standarda uygun olarak teverruk işlemlerini gerçekleştirmek zorundadırlar. Standartta organize teverruk işlemlerinin caiz olmadığından hareketle klasik teverruk yapısına geçilmesi katılım bankalarına önerilmektedir. Makalede TKBB Teverruk Standardı detaylı olarak incelenmiş olup, katılım bankalarının bu standartlara uyup uyamayacakları, klasik teverruku hangi amaç için kullanabilecekleri ve klasik teverruk uygulayabilecekleri bir model sunulmuştur. Sunulan modelde, klasik teverruk yönteminin Türkiye Ürün İhtisas Borsası (TÜRİB) Elektronik Ürün Senetleri (ELÜS) piyasası aracılığıyla çalışması öngörülmüştür. TÜRİB ELÜS piyasası sayesinde katılım bankaları, zorunlu nakit ihtiyacı duyan bireysel müşterilerinin klasik teverruk yoluyla nakit temin etmelerine aracı olabilecektir.
+Yazar isimleri: ['Fatih KAZANCI']
+Yayın Yılı: 29 Kasım 2022
+Dergi ismi: Uluslararası İslam Ekonomisi ve Finansı Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisef/issue/73586/1102986
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2372322

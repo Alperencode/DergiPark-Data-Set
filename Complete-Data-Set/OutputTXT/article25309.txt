@@ -1,0 +1,7 @@
+Makale Başlığı: Sınıf Öğretmenlerinin Erken Cebire Yönelik Düşüncelerinin Belirlenmesi
+Özet: Bu araştırmada sınıf öğretmenlerinin erken cebire yönelik düşüncelerinin belirlenmesi amaçlanmıştır. Araştırmada, bir gruba ait belirli özelliklerin saptanması amaçlandığından tarama modeli benimsenmiştir. Araştırma verileri, araştırmacılar tarafından geliştirilen “Erken Cebir Farkındalık Ölçeği” aracılığıyla toplanmıştır. Araştırmada ölçeğin geliştirilme aşaması (217 sınıf öğretmeni) ve geliştirilen ölçeğin uygulanma aşaması (240 sınıf öğretmeni) olmak üzere iki farklı çalışma grubu bulunmaktadır. Ölçeğin uygulanması sonucu elde edilen sayısal verilerin analizinde SPSS programından faydalanılmıştır. Bu kapsamda iki grubun ortalamalarının karşılaştırılmasında nonparametrik testlerden Mann-Whitney U testi ve ikiden fazla grubun ortalamalarının karşılaştırılmasında Kruskal-Wallis H testi uygulanmıştır.  Nitel verilerin analizinde ise içerik analizi tekniği kullanılmıştır.  Araştırma sonucunda sınıf öğretmenlerinin erken cebire yönelik bilgilerinin sınırlı olduğu sonucuna ulaşılmıştır. Dolayısıyla sınıf öğretmenlerine yönelik erken cebir kapsamında yapılacak eğitim programlarının öğretmenlerde erken cebir düşüncesinin gelişimine katkı sağlayacağı söylenebilir.
+Yazar isimleri: ['Sedat Turgut', 'Özlem Doğan Temur']
+Yayın Yılı: 16 Ağustos 2017
+Dergi ismi: İlköğretim Online
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ilkonline/issue/31371/342968
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/356370

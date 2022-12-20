@@ -1,0 +1,7 @@
+Makale Başlığı: Reversibility of One-Dimensional Cellular Automata
+Özet: In this paper, we study one dimensional finite linear cellular automata. We obtained the representative matrix with the help of local rules under the null boundary condition. We have defined an algorithm that gives whether these obtained matrices have an inverse on finite fields under what conditions. This also gives us an idea of the reversibility of the cellular automata family. Finally, we give some examples of these families of cellular automata.
+Yazar isimleri: ['Ferhat ŞAH']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1082679
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2289339

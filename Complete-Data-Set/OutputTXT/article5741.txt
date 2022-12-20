@@ -1,0 +1,7 @@
+Makale Başlığı: Görüntülerden Derin Öğrenmeye Dayalı Otomatik Metin Çıkarma: Bir Görüntü Yakalama Sistemi
+Özet: Bilgisayarlı görme ve doğal dil işlemenin çalışma alanlarından biri olan görüntüden metin üretme (image capturing), doğal bir dil kullanarak görüntü içeriğini otomatik olarak tanımlama görevidir. Bu çalışmada, MS COCO veri seti üzerinde İngilizce dili için encoder-decoder tekniğine dayalı bir otomatik altyazı oluşturma yaklaşımı önerilmiştir. Önerilen yaklaşımda, görüntü özniteliklerini çıkarmak için encoder olarak Evrişimli Sinir Ağı (CNN) mimarisi ve görüntülerden altyazı oluşturmak için bir decoder olarak Tekrarlayan Sinir Ağı (RNN) mimarisi kullanılmıştır. Önerilen yaklaşımın performansı BLEU, METEOR ve ROUGE_L değerlendirme kriterleri kullanılarak değerlendirilmiş ve her bir görüntüden 5 cümle elde edilmiştir. Deneysel sonuçlar, modelin görüntülerdeki nesneleri doğru bir şekilde algılamada tatmin edici olduğunu göstermektedir.
+Yazar isimleri: ['Zeynep KARACA', 'Bihter DAŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1148296
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2555462

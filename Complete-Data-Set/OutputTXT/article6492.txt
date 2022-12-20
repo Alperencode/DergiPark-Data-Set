@@ -1,0 +1,7 @@
+Makale Başlığı: Örüntü tanımadaki uygulamalarıyla basitleştirilmiş nötrosofik kümeler için yeni bir mesafe ölçüsü
+Özet: Basitleştirilmiş nötrosofik küme (BNK), tutarsız ve belirsiz bilgileri etkili bir şekilde ifade etmek ve işlemek için temel bir modelleme tekniğidir. Kümeleme analizinden tıbbi teşhise kadar birçok bağlamda sıklıkla kullanılan önemli bir araç, mesafe ölçümüdür. Nötrosofik literatüründe birkaç uzaklık ölçütü olmasına rağmen, bunlardan bazıları belirli değerler için mesafe ölçüsünün genel gereksinimlerini sağlamama dezavantajına sahiptir. Bu yazıda iki basitleştirilmiş nötrosofik küme arasındaki ilişkiyi ele almak için yepyeni bir mesafe ölçüsü sunuyoruz. Hâlihazırda kullanımda olan alternatif mesafe ölçüleri ile karşılaştırıldığında, yeni mesafe ölçüsünün daha iyi sonuçlar verdiği görülmektedir. Önerilen mesafe ölçüsü, tıbbi teşhis de olmak üzere örüntü tanıma ile ilgili sayısal bir örnekte kullanıma sunulmuştur.
+Yazar isimleri: ['Mesut KARABACAK']
+Yayın Yılı: 15 Ekim 2022
+Dergi ismi: Gümüşhane Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumusfenbil/issue/72979/1179414
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2667991

@@ -1,0 +1,7 @@
+Makale Başlığı: Validity of Exponential Distribution for Modelling Inter-failure Arrival Times of Windows based Industrial Process Control Data Exchange
+Özet: Using a reliability function with a known classical distribution, at an instance in time, the chances of an activity success can be predicted. Based on this curve, a proper reset period can be appointed. This would help to keep the risk under control. For this purpose, a test bed mimicking the machine to machine (M2M) communication of a Digital Oil Rig is employed. It contains an Embedded Computer Server and an ordinary computer acting as a client querying data from the server. On this testbed, as the communication protocol Open Platform Communications - Unified Architecture (OPC UA) is run. In “most occasions, the arrival processes are assumed as a Poisson Arrival Process. The Question of a concern: "Is this assumption valid in case of an Embedded Computer responding to queries?". Our results indicate that the failure arrivals are independent identically distributed (IID) and can be modeled with an Exponential Distribution by accepting a reasonable error.
+Yazar isimleri: ['Ongun YUCESAN', 'Altan ÖZKİL', 'Mehmet Efe ÖZBEK']
+Yayın Yılı: 21 Haziran 2022
+Dergi ismi: Journal of Science, Technology and Engineering Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jster/issue/66386/1017004
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2055457

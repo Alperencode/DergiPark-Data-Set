@@ -1,0 +1,7 @@
+Makale Başlığı: Power unit design of industrial sponge crushing machine and vibration analysis by finite element method
+Özet: Every object in nature has an infinite number of vibrational frequencies and amplitudes called "Natural Vibration Frequency". Thanks to the developing computer technology, the calculation of the natural frequencies of complex structures are carried out quickly and accurately. In this study, the natural frequencies of the industrial sponge crushing machine were analyzed by finite element methods. The finite element method is one of the most common numerical methods used in solving many engineering problems from solid mechanics to acoustic problems. Vibration analysis of the solid model of the designed sponge crushing machine was carried out using the finite element method with the help of the widely used ANSYS Workbench 18.1 program. In the analysis, the components that make up the system were modeled separately and the system as a whole and the results were compared. The natural frequency values obtained in the finite element analysis were presented in tables and graphics.
+Yazar isimleri: ['Emir ESİM', 'Emre BENZER']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1113370
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2414389

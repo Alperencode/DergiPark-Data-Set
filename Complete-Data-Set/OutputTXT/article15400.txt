@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis and determination of pKa values of some new di-{2-ethoxy-6-[(3-substitue-4,5-dihydro-1H-1,2,4-triazol-5-one-4-yl)azomethine]phenyl} terephthalates
+Özet: In this study, seven novel di-{2-ethoxy-6-[(3-substitue-4,5-dihydro-1H-1,2,4-triazol-5-one-4-yl)azomethine]phenyl} terephtalates (4a-g) were synthesized from the rections of 3-alkyl(aryl)-4-amino-4,5-dihydro-1H-1,2,4-triazol-5-ones (2a-g) with di-(2-formyl-6-ethoxyphenyl) terephtalate (3). The compounds 4a-g were characterized using by IR, 1H-NMR, 13C-NMR and UV spectral data. In addition, 4 type compounds were titrated potentiometrically with tetrabutylammonium hydroxide in four non-aqueous solvents such as isopropanol, tert-butanol, dimethyl ketone, N,N-dimethylformamide and the half-neutralization potential values and the corresponding pKa values were determined for all cases.
+Yazar isimleri: ['Faruk KARDAŞ', 'Haydar YÜKSEK', 'Zafer OCAK']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Turkish Journal of Analytical Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkjac/issue/70706/1109562
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2399549

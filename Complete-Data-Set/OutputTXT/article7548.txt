@@ -1,0 +1,7 @@
+Makale Başlığı: Building Floor Area Extraction Process with Functional Approach in Zoning Plots with Uncertain Shrinkage
+Özet: Yaşamsal olarak insan popülasyonun olduğu alanlarda, insani gereksinimlerin karşılanması için belirli bir planlamanın oluşturulması gereklidir. Bu planlama imar oluşumu şeklinde olur. İmar planları ise kendi belirlenen alanında farklı kimliklere istinaden yapılır. Ayrık, blok, bitişik gibi belli kıstaslar şeklindedir. Ancak bu kimliklerin en olağanüstü şekli serbest kimliğe sahip olan imar adası özelliğidir. Serbest özelliğe sahip parsellerin bulunduğu adalarda ise insani barınma gereksinimi karşılayacak yapıların oluşturulurken  nasıl zeminde oturtularak  oluşturulacağı sorusunun yanıtını bulmaktır. Çalışmada çeşitli imar planı parselleri üzerinden fonksiyon yaklaşımıyla bu oturum kestirimlerinin nasıl yapılacağı irdelenmiştir. Yöntem olarak, elips ve doğrucu fonksiyon mantığıyla bir problemin sonucuna yüksek mertebeden açık açık içselden dışa doğru ulaşılma dayanak alınmıştır. Kıstasları belli olan ya da olmayan durumlarda bu yaklaşımla nasıl bahçe mesafe miktarlarının verilmesi üzerine örnekler verilmiştir.
+Yazar isimleri: ['Selim TAŞKAYA']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: International Journal of Engineering and Innovative Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeir/issue/73173/1124069
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2458629

@@ -1,0 +1,7 @@
+Makale Başlığı: Akıllı Otopark Sistemlerinde Kullanılan Araç Tanıma Teknolojileri Üzerine Bir İnceleme
+Özet: Günümüz şehir planlama ve yönetimi için trafik talebindeki artışın paralelinde otopark talebindeki artış acil çözüm bekleyen sorunlar arasında yer almaktadır. Özellikle otopark talebinin yüksek olduğu şehir merkezlerinde yeterli alan bulunmaması otopark altyapı tesislerinin inşasına olanak tanımamaktadır. Soruna yaygın çözüm olarak kullanılan yöntem mevcut kapasitenin etkin kullanımı ve talep yönetimidir. Akıllı ulaşım sistemleri özellikle Akıllı Otopark Sistemleri (AOS) özelinde düşünüldüğünde kapasitenin uygun kullanımı ve talep yönetimi için en güncel yöntem olarak tercih edilmektedir. AOS’un etkin uygulanabilmesi de etkin araç tanıma ve detektör teknolojilerine bağlıdır. Bu çalışmada AOS’un verimliliği için etken olan araç tanıma detektör sistemleri kategorize edilerek tanıtılmış ayrıca yaygın kullanılan detektör teknolojilerinin avantajları ve dezavantajları dikkate alınarak kıyaslamaları yapılmıştır. Sunulan sınıflandırmalar ile AOS tasarımı yapılırken kullanılacak etkin teknoloji seçimi konusunda yardımcı olmak amaçlanmıştır.
+Yazar isimleri: ['Bora DOĞAROĞLU', 'S.pelin ÇALIŞKANELLİ']
+Yayın Yılı: 29 Ekim 2022
+Dergi ismi: Akıllı Ulaşım Sistemleri ve Uygulamaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jitsa/issue/73253/1098978
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2355468

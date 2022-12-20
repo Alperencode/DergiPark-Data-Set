@@ -1,0 +1,7 @@
+Makale Başlığı: Güç sistemlerinde farklı PSS modelleri ve UPFC-POD ile küçük sinyal kararlılığının incelenmesi
+Özet: Düşük frekanslı salınımların sönümlenmesi güç sistemleri kararlılığı açısından önemli bir konudur. Bu salınımlar güç sistemi kararlı kılıcısı (PSS) tarafından sönümlenmektedir. Son yıllarda güç elektroniği tabanlı Esnek AC İletim Sistemi (FACTS) cihazları güç sistemlerinde kararlılığı çalışmalarında verimli bir şekilde kullanılmaktadır. Bu çalışmada farklı PSS modelleri, FACTS cihazlarının en gelişmiş olan Birleştirilmiş Güç Akışı Kontrolü (UPFC) ve Güç Salınım Sönümlemesi (POD) modeli birlikte koordinasyon kontrolünün sağlanması amacıyla kullanılmıştır. Senkron generatörlerde kullanılan PSS modellerinin yanı sıra Otomatik Gerilim Regülatörü (AVR) ve Türbin Yöneticisi (TG) modelleri de kullanılmıştır. 2 alanlı, 4 makinalı güç sisteminde küçük sinyal kararlılığı analizi gerçekleştirilmiştir. Benzetim çalışması için Güç Sistemleri Analizi Programı (PSAT) kullanılmıştır. Yapılan çalışma neticesinde farklı PSS modellerin UPFC-POD ile birlikte kullanılmasında açısal hız, gerilim, aktif ve reaktif güç karşılaştırmaları yapılmış olup, küçük sinyal kararlılığı analizleri yorumlanmıştır.
+Yazar isimleri: ['Mehmet Kenan DÖŞOĞLU']
+Yayın Yılı: 30 Nisan 2022
+Dergi ismi: Uluslararası Teknolojik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/utbd/issue/70014/1055860
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2184155

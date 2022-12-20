@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Wavelet Entropy of Spinor Type Instanton Solutions in a 4-Dimensional Model
+Özet: In recent years, many methods have been proposed in various fields to investigate the properties of orbits of nonlinear dynamical systems. In this study, the characteristics of the orbits of spinor-type instanton solutions in the four-dimensional Gursey model via Heisenberg ansatz is investigated. The orbits of spinor-type instanton solutions are analyzed by Shannon wavelet entropy (WE) method. In order to analyze the regular or irregular states of the orbits of spinor-type instanton solutions, WE spectrum and WE in phase space are studied. It is observed that spinor-type instanton solutions have regular orbits around the fixed point and irregular orbits for other points. According to this study, WE can be used to observe the entropy evolution of nonlinear dynamical systems in phase space.
+Yazar isimleri: ['Mine AK']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1099184
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2356377

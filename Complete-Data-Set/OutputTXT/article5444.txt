@@ -1,0 +1,7 @@
+Makale Başlığı: Real-Time Monitoring the Indoor Air Quality Parameters of Intensive Care Unit During the Pandemic Period
+Özet: People spend most of their time in enclosed spaces (e.g., hospital, houses, office buildings, public transportation, and schools). The coronavirus in late 2019 has rapidly spread throughout the world. After the pandemic, people started to spend more time in indoor environments, especially in hospitals. In this study, air quality monitoring was carried out in the Intensive Care Unit of a hospital in Bolu - Turkey. This is the first comprehensive study done in Turkey. In this study, PM2.5, PM10, temperature, and relative humidity parameters affecting indoor air quality were monitored instantly for one month with a Wireless Sensors Network-based system.  By the results of the study, the maximum concentration of these parameters except relative humidity was higher than the limited by accepted values parameters by the United States Environmental Protection Agency (EPA), The American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE), and the World Health Organization (WHO). 
+Yazar isimleri: ['Sanaz LAKESTANI', 'Mehmet MİLLİ', 'İsa YILDIZ', 'Abdullah DEMİRHAN']
+Yayın Yılı: 8 Haziran 2022
+Dergi ismi: Eurasian Journal of Biological and Chemical Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejbcs/issue/69975/1032007
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2113589

@@ -1,0 +1,7 @@
+Makale Başlığı: Enerji Tüketimi ve Finansal Gelişme: Saklı Eşbütünleşme ile MENA Ülkelerinden Kanıtlar
+Özet: Enerji, ekonomilerin gelişmeleri hakkında ipucu veren önemli bir parametredir. Ülkelerdeki enerji tüketimi ekonomik yapıyı özetlemektedir. Günümüzde ekonomik büyümenin reel sektör belirleyicileri dışında dikkat çeken bileşeni finansal gelişme olarak kabul edilmektedir.  Bu çalışmada enerji tüketimi ve finansal gelişme ilişkisi MENA ülkeleri için incelenmiştir. 1980-2017 dönemini ele alan araştırmada ekonometrik analizler Hatemi J (2011) Panel Saklı Eşbütünleşme Testi ve Panel VECM analizi ile gerçekleştirilmiştir. Test sonuçları değişkenlerin orijinal değerleri arasında eşbütünleşme olmadığını, fakat pozitif ve negatif bileşenlerinin bazıları arasında uzun dönemli bir ilişkinin olduğunu göstermiştir. Dolayısıyla seriler arasında saklı eşbütünleşme olduğu tespit edilmiştir. Bu bulgular ışığında değişkenlerinin bileşenleri arasında eşbütünleşme ve özellikle de uzun dönem nedensellik ilişkisi olması finansal gelişme göstergelerindeki değişikliğin enerji tüketimi üzerinde etkili olduğunu ortaya koymaktadır.
+Yazar isimleri: ['Eda BOZKURT', 'Yılmaz TOKTAŞ', 'Ali ALTINER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: JOEEP: Journal of Emerging Economies and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/joeep/issue/66260/1063879
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2216260

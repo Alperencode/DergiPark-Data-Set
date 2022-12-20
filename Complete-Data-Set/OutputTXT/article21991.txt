@@ -1,0 +1,7 @@
+Makale Başlığı: WANKEL MOTORUNUN PERFORMANSININ NUMERİK OLARAK İNCELENMESİ
+Özet: Küçük motor hacminden yüksek güç üretimine imkân sağlayan Wankel tipi döner pistonlu motorlar; düşük titreşim, hafiflik, daha az parça sayısı, atalet kuvvetlerinin kolay dengelenebilir olması, gazların geçiş kesitlerinin daha geniş yapılabilmesi gibi özelliklere sahiptirler. Böylece daha yüksek volumetrik verim, vuruntuya daha az bağımlılık ve güç/ağırlık oranının yüksek olması gibi pek çok avantajları sayesinde başta insansız hava araçları, hibrit araç uygulamaları, binek araçlar olmak üzere pek çok uygulama alanında tercih edilmektedir.Bu çalışmada, ilk olarak dört zamanlı Wankel motorunun geometrik hesaplamaları yapılarak motorun katı modeli oluşturulmuştur. Daha sonra, bu veriler kullanılarak GT SUITE yazılımı yardımıyla 1 boyutlu performans analiz yapılmış ve raporlanmıştır. 1 boyutlu performans analizi verilerinin sınır koşulu olarak kullanıldığı Hesaplamalı Akışkanlar Dinamiği (HAD) analizleri ise devam etmektedir. Çalışma tamamlandığında tam yük koşulunda farklı hızlar için moment ve volumetrik verim yönünden karşılaştırılarak çevrim sürecine etki eden parametreler incelenmiş olacaktır.
+Yazar isimleri: ['Merve ALTAY', 'Ali SÜRMEN']
+Yayın Yılı: 31 Aralık 2021
+Dergi ismi: Uluslararası Yakıtlar Yanma Ve Yangın Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fce/issue/60446/841524
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1451066

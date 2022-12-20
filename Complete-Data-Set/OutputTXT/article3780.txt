@@ -1,0 +1,7 @@
+Makale Başlığı: Üniversite Öğrencilerinin Bilinçli Farkındalık ve Duygu Düzenleme Düzeylerinin Üst Duyguları Yordama Gücü
+Özet: Bu çalışma, ilk olarak üniversitede öğrenim gören bireylerin üst duygu düzeylerinin cinsiyete göre incelenmesi ve ikinci olarak da bilinçli farkındalık ve duygu düzenleme becerilerinin birlikte, üst duyguyu yordama durumunu incelemek amacıyla yapılmıştır.  Bu iki amaç doğrultusunda, 2020-2021 eğitim öğretim yılında Türkiye’nin çeşitli üniversitelerinde öğrenim görmekte olan 748’i kadın, 302’si erkek toplam 1050 öğrenciye ulaşılmıştır. Katılımcılara; kişisel bilgi formu, Duygu Düzenleme Ölçeği, Bilinçli Farkındalık Ölçeği ve Üst Duygu Ölçeği uygulanmıştır. Verilerin analizinde t-testi ve çoklu doğrusal regresyon analizi kullanılmıştır. Yapılan analizler sonucunda, üniversite öğrencilerinin olumlu üst duygularının cinsiyete göre anlamlı bir fark gösterdiği; olumsuz üst duyguların cinsiyete göre anlamlı bir fark göstermediği bulgulanmıştır. Ayrıca, bilinçli farkındalık ve duygu düzenleme becerilerinin olumlu ile olumsuz üst duyguları anlamlı düzeyde yordadığı saptanmıştır. Bulgular, ilgili alanyazın içinde tartışılmış ve çeşitli önerilerde bulunulmuştur.
+Yazar isimleri: ['Hurızat Hande TURP', 'Betül Gökçen DOĞAN LAÇİN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Çukurova Üniversitesi Eğitim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cuefd/issue/72356/1071898
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2247444

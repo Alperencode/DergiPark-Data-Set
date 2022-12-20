@@ -1,0 +1,7 @@
+Makale Başlığı: Empirical Voronoi wavelets
+Özet: Recently, the construction of 2D empirical wavelets based on partitioning the Fourier domain with the watershed transform has been proposed. If such approach can build partitions of completely arbitrary shapes, for some applications, it is desirable to keep a certain level of regularity in the geometry of the obtained partitions. In this paper, we propose to build such partition using Voronoi diagrams. This solution allows us to keep a high level of adaptability while guaranteeing a minimum level of geometric regularity in the detected partition.
+Yazar isimleri: ['Jerome GİLLES']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Constructive Mathematical Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cma/issue/73315/1181174
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2675559

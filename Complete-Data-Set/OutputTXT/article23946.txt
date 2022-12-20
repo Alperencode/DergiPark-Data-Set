@@ -1,0 +1,7 @@
+Makale Başlığı: Stress Analysis of Laminated HSDT Beams Considering Bending Extension Coupling
+Özet: This study demonstrates a mixed finite element formulation procedure for the bending and stress analyses of laminated composite beams. The finite element method is based on the Hellinger-Reissner variational principle, while the beam assumptions are based on the Higher Order Shear Deformation Theory (HSDT). Reddy’s shear function is employed for the beam theory where the beam is discretized by two-noded linear elements. The displacements and stress resultants are obtained directly at the nodes according to the proposed mixed formulation. The validation of current study is performed by comparison and convergence analyzes for various lamination cases under different boundary conditions.
+Yazar isimleri: ['Yonca BAB']
+Yayın Yılı: 1 Ocak 2023
+Dergi ismi: Turkish Journal of Civil Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjce/issue/73513/1206777
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2780954

@@ -1,0 +1,7 @@
+Makale Başlığı: Satış Geliri ile Kar, Karlılık ve Firma Değeri İlişkisi: Borsa İstanbul Turizm İşletmelerinde Bir Araştırma
+Özet: Bu araştırmanın amacı turizm işletmelerinde satış geliri ile kar, karlılık ve firma değeri performansları arasındaki ilişkinin belirlenmesidir. Bu kapsamda 2018-2020 yılları arasında Borsa İstanbul’da işlem gören turizm işletmelerinin satış geliri, net kar, aktif karlılığı, öz kaynak karlılığı, net kâr marjı ile firma değeri performans sıralamaları karşılaştırılmış ve değişkenler arasındaki ilişki korelasyon analizi ile incelenmiştir. Araştırma sonucunda satış gelirlerine göre performans sıralamasının net kar, karlılık ve firma değeri performanslarına göre değişkenlik gösterdiği saptanmıştır. Satış geliri açısından düşük performansa sahip işletmelerin daha yüksek net kar ve karlılık ile firma değeri performanslarına sahip oldukları da gözlemlenmiştir. Ayrıca turizm işletmelerinde genel olarak satış geliri ile kar, karlılık ve firma değeri performansı arasında ters yönlü bir ilişki bulunduğu gözlemlenmiştir.
+Yazar isimleri: ['Erdinç KARADENİZ', 'Ömer İSKENDEROĞLU']
+Yayın Yılı: 25 Ağustos 2022
+Dergi ismi: Seyahat ve Otel İşletmeciliği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/soid/issue/72226/1068998
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2235766

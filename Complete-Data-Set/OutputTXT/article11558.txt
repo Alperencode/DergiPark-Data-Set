@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19’UN ÇALIŞANLAR VE İŞLETME PERFORMANSINA ETKİSİ: DENİZ TURİZMİ İŞLETMECİLİĞİ ÜZERİNE BİR ÇALIŞMA
+Özet: Bu araştırmanın amacı deniz turizm işletmeciliği alanında faaliyet gösteren yat işletmelerinin pandemi sürecinden hem genel işletme performansı anlamında hem de çalışanların iş doyumu, yaşam doyumu, mesleki tükenmişlik düzeyi ve işten ayrılma niyeti gibi iş yaşamına yönelik içsel faktörlerden etkilenme düzeyinin ortaya konulmasıdır. Bu amaca ulaşmak için veriler, tekne turu yapan işletmelerden anket yöntemiyle toplanmıştır. Toplanan veriler SPSS ve AMOS YEM programı ile analiz edilerek, Covid-19 sürecinin etkisi olduğu düşünülen işletme performansı değişkenleri ile çalışanların iş yaşamına yönelik içsel faktörlerin kendi arasındaki ilişki analiz edilmiştir. Araştıma sonuçlarına göre işletme performansında en yüksek ilişki düzeyi karlılık ve müşteri bulma zorluğu arasında çıkmıştır (p= 0,000, r=0,597) ve çalışan performansında en yüksek ilişki düzeyi motivasyon ve tükenmişlik arasında çıkmıştır (p= 0,000, r=0,848).
+Yazar isimleri: ['Erdal ARLI', 'Mehmet Sıtkı SAYGILI']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Mersin Üniversitesi Denizcilik ve Lojistik Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/denlojad/issue/70644/1053635
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2175778

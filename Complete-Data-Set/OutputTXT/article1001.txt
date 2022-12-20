@@ -1,0 +1,7 @@
+Makale Başlığı: A Comparative Study on Performance of Insurance Companies with Grey Relational Analysis and Analytic Hierarchy Process
+Özet: In this study, financial performances of certain selected non-life insurance companies operating in Turkey between 2014-2018 are compared with two multi-criteria decision-making methods. The analytical hierarchy process is integrated into the grey relational analysis. First, the weights of the financial ratios are computed with the analytical hierarchy process, and then the companies are ranked by grey relational analysis using the weights found. The grey relational analysis results in which the financial ratios are taken as equally weighted are compared with the results in which the weights found with the help of the analytical hierarchy process. It is realized that the grey relational analysis results are affected by the weight of the financial ratios calculated with the analytical hierarchy process. In addition, it is observed that the ranking obtained by the combination of grey relational analysis and analytical hierarchy process is more compatible with the data in the financial reports.
+Yazar isimleri: ['Övgücan Karadağ ERDEMİR', 'Murat KIRKAĞAÇ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1070741
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2242913

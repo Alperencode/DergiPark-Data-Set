@@ -1,0 +1,7 @@
+Makale Başlığı: David Lewis’ Best System Analysis and CP Laws
+Özet: In this paper, I aim to explore Lewis’s best system analysis and how it can accommodate laws with exceptions. The Best System Account has been introduced to provide an alternative view for both minimalist and counterfactual theories of regularities. Simple regularity theory faces problems in which there is some generalization that seems to be a law or some regularities that are established accidentally. It tries to exclude the accidental generalization from the account. However, the best system analysis can solve the problem of how to distinguish between laws and accidents.
+Yazar isimleri: ['Ömer Fatih TEKİN']
+Yayın Yılı: 28 Mart 2019
+Dergi ismi: Beytulhikme An International Journal of Philosophy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/beytulhikme/issue/44587/553573
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/694714

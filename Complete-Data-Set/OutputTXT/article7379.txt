@@ -1,0 +1,7 @@
+Makale Başlığı: POLYACRYLONITRILE (PAN) ELECTROSPUN NANOFIBERS COATED 3D PRINTED PLA MATERIALS WITH DIFFERENT INFILL PATTERNS AND THEIR TENSILE PROPERTIES
+Özet: In this study, the mechanical properties of 3D printed polylactic acid (PLA) samples produced with fused deposition modeling (FDM) technology with five different infill patterns; trihexagon, triangle, line, gyroid, and grid, and these patterns were compared for their mechanical properties. In the second part of the study, PLA specimens with different infill patterns were covered with polyacrylonitrile (PAN) nanofibers synthesized by the electrospinning method to enhance their PLA poor mechanical properties. In the tensile tests, among the infill patterns, gyroid showed the highest Young Modulus with 1108 MPa. SEM results showed that PAN electrospun nanofibers were beadless and ordered nanofibers with an average diameter of 165.7±33 nm. The results showed that after PAN nanofibers coating on PLA specimens, the mechanical properties of the samples for all infill patterns improved, and tensile strain values and therefore, ductile behaviour of all specimens increased. PAN nanofibers could significantly enhance the stiffness of 3D printed PLA materials.
+Yazar isimleri: ['Atike İNCE YARDIMCI']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: International Journal of 3D Printing Technologies and Digital Industry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ij3dptdi/issue/71295/1142097
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2531564

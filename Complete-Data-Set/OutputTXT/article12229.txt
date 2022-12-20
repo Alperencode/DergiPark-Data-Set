@@ -1,0 +1,7 @@
+Makale Başlığı: HTLS İLETKENLERİN TEKNOEKONOMİK ANALİZİ
+Özet: Yüksek gerilim iletkenleri, enerji talebinde göz önünde bulundurulması gereken en önemli unsurlardandır. Günümüzde elektrik enerjisine karşı artan talep, güç sistemlerinde kayıp artışı, hat kapasitelerinin yetersizliği, sehim vb. sorunları meydana getirmektedir. Bu sorunları çözmenin birkaç yolu bulunmaktadır. Çözümlerden biri ise, günümüzde kullanılan konvansiyonel iletkenleri, Yüksek Sıcaklık Düşük Sehimli (HTLS) iletkenlerle değiştirerek, iletkenlerde sarkma (sehim) miktarını minimuma indirmek ve daha yüksek sıcaklıklarda çalışabilen HTLS iletkenler üzerinden daha fazla akım iletimi sağlanarak, mevcut durumdan daha fazla akım taşıma kapasitesi elde etmeyi amaçlamaktadır. Fakat bu işlemi yapmadan önce bir de bunun maliyet tarafı ele alınmalıdır. Bu çalışmada, konvansiyonel iletkenler ile HTLS iletkenler teknik ve ekonomik açıdan incelenmiştir. Elde edilen sonuçlara baktığımızda da HTLS iletkenlerin teknik ve maliyet açısından birçok konuda konvansiyonel iletkenlere göre daha avantajlı olduğu görülmüştür.
+Yazar isimleri: ['Yiğit AKYOL', 'Altuğ BOZKURT']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Mühendislik Bilimleri ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesd/issue/72809/1073763
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2254295

@@ -1,0 +1,7 @@
+Makale Başlığı: Does Higher Inflation Mean Lower Fertility Rate: The Case of Turkey
+Özet: This study examines the long-term relationship between inflation on fertility rate in Turkey for the periods of 1960-2019 by employing two different measures of inflation. In that sense our hypothesis asserts that higher inflation rate lowers fertility rate in Turkey. Based on the findings of KPSS stationarity test, our series are integrated order either zero or one, and thus we used ARDL boundary test approach for cointegration analyses. According to cointegration test results, fertility rate is co-integrated with consumer price index and GDP deflator, and thus they move together in the long-run in Turkey. We found a positive statistically significant long-run relationship between inflation and fertility rate. More explicitly, if consumer price index goes up by %1 then fertility rate goes down by %0.035673 and if GDP deflator increases by %1 then fertility rate drops by %0.034813 in the long-run in Turkey. Meantime, except autocorrelation problem, the both models do not suffer from heteroskedasticity and non-normality problems and are stable based on several diagnostic tests.
+Yazar isimleri: ['Jülide YALÇINKAYA KOYUNCU', 'Yüksel OKŞAK']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Balkan Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsbd/issue/70989/1133322
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2497073

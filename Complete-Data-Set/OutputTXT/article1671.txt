@@ -1,0 +1,7 @@
+Makale Başlığı: Ratlarda uzun süreli düşük ve yüksek doz fruktoz tüketiminin karaciğerde moleküler, biyokimyasal ve histopatolojik etkileri
+Özet: Diyetlerdeki karbonhidrat çeşitleri hakkında bilimsel tartışmalar devam etmektedir. Fruktoz, gıda ürünlerinde yaygın olarak kullanılmaktadır. Çalışmada, ratlarda düşük ve yüksek fruktoz solüsyonlarının lipogenik ve inflamatuar etkileri araştırılmıştır. Hayvanlar, 10 hafta süreyle fruktoz solüsyonları ile beslenmiştir. Gruplar: Con (Kontrol), F15 (Fruktoz %15), F30 (Fruktoz %30), F60 (Fruktoz %60) şeklinde olmuştur. F60 en hafif grupken, F30 en ağır grup olarak belirlenmiştir. Trigliserit seviyeleri tüm deneme gruplarında Con'dan önemli ölçüde daha yüksek olmuştur (P<0,05). F30 ve F60'da, TNFα, IL-6 ve IL-1β’nın karaciğerde upregüle olduğu belirlenmiştir (P<0,05). Bununla birlikte tüm fruktoz gruplarında SREBP-1c, ChREBP, FAS, ACACA ve SCD-1 upregüle olmuştur (P<0,05). F30 ve F60 gruplarının karaciğerlerinde dejeneratif değişiklikler ve steatoz belirlenmiştir. Fruktozun en zararlı etkileri F60 grubunda belirlenmiştir. Fruktoz konsantrasyonunun, normal karaciğer fizyolojisini moleküler seviyelerde sürdürmek için çok önemli bir faktör olduğu belirlenmiştir.
+Yazar isimleri: ['Hüseyin ÖZKAN', 'Tuncer KUTLU', 'Akın YAKAN', 'Şule Yurdagül ÖZSOY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Ankara Üniversitesi Veteriner Fakültesi Dergisi
+Yayın sayfa url: http://vetjournal.ankara.edu.tr/tr/pub/issue/72819/855124
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1492278

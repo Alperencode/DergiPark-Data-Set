@@ -1,0 +1,7 @@
+Makale Başlığı: A Suggestion System According to Fabric Control Time
+Özet: Automatic systems facilitate many areas of life. The combination of image processing and machine learning has opened the door to a new world. In spite of this, most of the control is done manually in the factories where fabrics, which are the main material of textile, are produced. The studies to automate this control process are still insufficient. In this study, it is aimed to develop a system with the highest performance in a short time. Different feature extraction methods (Principal Component Analysis, Local Binary Pattern) and different classifiers (K-Nearest Neighbor, Support Vector Machine) have been tested in terms of time and different performance metrics. Different systems have been suggested depending on whether the fabric control is done during or after production.
+Yazar isimleri: ['Fatma YAŞAR ÇIKLAÇANDIR', 'Semih UTKU']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/834557
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1426356

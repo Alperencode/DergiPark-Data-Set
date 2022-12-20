@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation the UV sterilization of Paenibacillus larvae on beehive building materials
+Özet: This study presents the possibility of killing almost all microorganisms such as fungi, bacteria, spore forms, and viruses by sterilization process. European foulbrood (EFB) and American foulbrood (AFB) is a highly infectious bacterial honeybee disease caused by Melissococcus plutonius and Paenibacillus larvae, respectively. Removal of spores from contaminated beehives is a critical factor in controlling EFB and AFB. The purpose of this study was to evaluate the effectiveness of ultraviolet (UV) in killing Paenibacillus larvae spores on PVC, and wood hives. Hives infected with Paenibacillus larvae spores were treated with two UV powers (6 and 8 W) for up to 15 min. Sterilization at 8 W for 15 min resulted in a more than 6.6 log reduction in the number of Paenibacillus larvae spores on the PVC hives. Under the same experimental conditions, the reduction in wood hives was 6.2 log. Reductions achieved in Paenibacillus larvae spores on PVC hives after 5, 10 and 15 min of sterilization were significantly (p˂0.05) higher than those on wood hives. So it is recommended to sterilize hives contaminated with spores with UV lamps
+Yazar isimleri: ['Mohamed ALİ IBRAHİM AL-RAJHİ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Food and Agriculture Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turjfas/issue/68774/1126574
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2469033

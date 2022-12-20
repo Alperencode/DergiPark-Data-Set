@@ -1,0 +1,7 @@
+Makale Başlığı: Asenkron Motorlar İçin Endüstriyel Nesnelerin İnterneti Tabanlı Sensör Kartı Uygulaması
+Özet: Bu çalışmada, endüstride yaygın bir şekilde kullanılan ve bu nedenle kestirimci bakım tedbirlerinin alınması önem arz eden asenkron motorlarda (ASM) meydana gelebilecek arızaların ön kestirimlerinin yapılması için endüstriyel nesnelerin interneti (IIoT) tabanlı bir sensör kartı sistemi gerçekleştirilmiştir. Gerçekleştirilen sistem 3 fazlı 250 kW gücünde ve 315L gövde yapısındaki bir ASM üzerinde denenmiştir. Bu ASM’un bulunduğu şartlar geliştirilen gömülü sistemde bulunan sensörlerle algılanmış, gömülü sistem ile bir bulut ağına aktarılmıştır. Sensör kartı uygulamasında Wi-Fi ve Bluetooth haberleşme protokollerini içeren ESP-WROOM-32 mikrodenetleyicisi, frekansa bağlı oluşan titreşim verilerini üç eksende tespit eden bir LIS3DH ivmeölçer ve sıcaklık verileri için 10 KΩ değerinde NTC ASM’un üzerine montajlanmıştır. Bu sensör verileri değerlendirilerek ASM’da oluşabilecek kestirimci bakım tespitleri yapılmış ve ASM için bu tespitler ile kullanıcılara uyarı gönderecek kestirimci bakım kararları oluşturulmuştur.
+Yazar isimleri: ['Hayati MAMUR', 'Atanur İZ', 'Haydar ŞİMŞEK', 'Ferhat ÇIRA']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jist/issue/73493/1056073
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2185077

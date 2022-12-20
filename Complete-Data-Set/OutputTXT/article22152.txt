@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship of Concentration in the Banking Sector with Financial  Fragility and Economic Growth; Research of MSCI EMI Countries in  Particular
+Özet: The effect of banking sector dynamics on national economies has become even more important, especially with the impact of global crises. Knowing the relationship here is a necessity for policy makers and regulatory bodies. Accordingly, in this study, the relationship between concentration ratio, financial fragility and economic growth was analyzed for 21 developing countries, including Turkey, included in the Morgan Stanley Capital International Emerging Markets Index. The significance level and direction of the relationship were investigated using static and dynamic panel data methods. A positive and significant relationship was found between the concentration ratio and financial fragility. It has been determined that there is a negative relationship between the concentration rate and economic growth.
+Yazar isimleri: ['Osman OĞUZ', 'İbrahim EKŞİ', 'Burcu BUYURAN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Abant Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/asbi/issue/73571/1096124
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2343438

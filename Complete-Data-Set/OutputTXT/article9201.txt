@@ -1,0 +1,7 @@
+Makale Başlığı: Optimal Choice and Allocation of Shunt FACTS Devices Using Differential Search Algorithm
+Özet: In this paper, new and efficient heuristic algorithm, Differential Search Algorithm (DSA), is used for optimal choice and allocation of shunt Flexible AC transmission systems (FACTS) devices, Static Var Compensator (SVC) and Static Synchronous Compensator (STATCOM). In the proposed optimal location method, SVC and STATCOM devices are located randomly and dynamically with objective of minimizing the real power loss, improving the voltage profile and enhancing the voltage stability. The best solution sets for objectives aforementioned are achieved by minimizing each objective functions by the proposed approach. In order to evaluate the proposed methodology, it has been tested on IEEE 30 bus system and compared to another widely used optimization algorithm, Artificial Bee Colony (ABC) algorithm. The validity of the proposed optimization algorithm is proven by the results and comparative analysis with other method.
+Yazar isimleri: ['Kadir ABACI']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of Engineering Technology and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jetas/issue/72234/1024878
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2086339

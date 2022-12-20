@@ -1,0 +1,7 @@
+Makale Başlığı: Hyper-Dual Leonardo Numbers
+Özet: In the present paper, the hyper-dual Leonardo numbers will be introduced with the use of Leonardo numbers. Some algebraic properties of these numbers such as recurrence relation, generating function, Catalan's and Cassini's identity, Binet's formula, sum formulas will also be obtained.
+Yazar isimleri: ['Sıddıka ÖZKALDI KARAKUŞ', 'Semra KAYA NURKAN', 'Murat TURAN']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/1179145
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2666842

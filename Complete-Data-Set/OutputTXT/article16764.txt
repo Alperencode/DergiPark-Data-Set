@@ -1,0 +1,7 @@
+Makale Başlığı: INFRASTRUCTURE AS A DETERMINANT OF NATIONAL ADVANTAGE IN SERVICE EXPORT: THE CASE OF TÜRKİYE
+Özet: Today, service sector is the dominating sector of especially developing and developed economies. Herein, gaining national advantage in international trade in services is critical for each country. Therefore, this research considers infrastructure as one of sources of national advantage and examines the impact of infrastructure (divided roads, railways, medical institutions, tourism operation certificated businesses, universities) on service export in Türkiye. In accordance with this purpose, cointegration analysis was carried out for the period of 1982-2020 by leveraging ARDL model. The results indicate that while divided roads, railways and the number of tourism operation certificated businesses have positive and significant impact on service export in Türkiye, the number of universities and medical institutions have negative and insignificant effect on service export in Türkiye. At the end of the research some recommendations for policymakers are provided.
+Yazar isimleri: ['Emre BİLGİÇ']
+Yayın Yılı: 11 Kasım 2022
+Dergi ismi: Uluslararası İktisadi ve İdari İncelemeler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ulikidince/issue/73302/1134247
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2500928

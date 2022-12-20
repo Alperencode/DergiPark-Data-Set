@@ -1,0 +1,7 @@
+Makale Başlığı: Beklenen Enflasyon Verilerinde  Kaos Varlığının İncelenmesi
+Özet: Bu çalışmada beklenen enflasyonda kaotik yapının varlığı araştırılmıştır. Beklenen enflasyon, ekonomistler ve politika yapıcılar açısından oldukça önemli bir makroekonomik göstergedir. Beklenen enflasyonun oluşumu birçok teknik detayın ötesinde bir öngörü değeridir. Bu öngörü değeri oluşturulurken birçok faktör dikkate alınmakta nihayetinde bir tahmin değeri ortaya çıkmaktadır. Beklenen enflasyonda kaosun olası varlığı kurulacak modeller açısından önem arz etmektedir. Bu kapsamda, verilere öncelikli olarak BDS bağımsızlık testi yapılmış, korelasyon boyutu elde edilmiş, sonrasında ise pozitif en büyük Lyapunov üsteli (LLE) bulunmuştur. 2001:08-2020:11 dönemi cari ayın TÜFE beklentisi verileri için gerekli testler gerçekleştirilmiş, yapılan analiz sonucu BDS testi ve korelasyon analizi sonuçları kaosa işaret ederken en büyük Lyapunov üssü (LLE) verilerde kaotik yapının mevcut olmadığını göstermiştir.Anahtar Kelimeler: Beklenen Enflasyon, Doğrusal Olmama, Kaos, Lyapunov ÜsteliJEL Sınıflandırması: C22
+Yazar isimleri: ['Ünal DİKBAŞ', 'Reşat KASAP', 'Mehmet ÜNSAL']
+Yayın Yılı: 23 Eylül 2022
+Dergi ismi: Yönetim ve Ekonomi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yonveek/issue/72662/1034185
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2122002

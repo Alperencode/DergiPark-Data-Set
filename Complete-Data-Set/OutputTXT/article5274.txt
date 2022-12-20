@@ -1,0 +1,7 @@
+Makale Başlığı: Ticari Açıklık ve Ekonomik Büyüme İlişkisi: 11 Avrasya Ülkesi İçin Panel Veri Analizi
+Özet: Bu çalışma, 1995-2020 dönemi için 11 Avrasya ülkesinde ticari dışa açıklık ile ekonomik büyüme arasındaki ilişkinin etkisini analiz etmeyi amaçlamaktadır. Bu amaç doğrultusunda, ticari dışa açıklık ile büyüme arasındaki ilişkiler, panel veri analizleri kullanılarak araştırılmıştır. Yatay kesit bağımlılığının varlığı dolayısıyla değişkenlere ikinci nesil birim kök testlerinden CADF testi uygulanmıştır. Otokorelasyon ve değişen varyans sonuçlarıyla uyumlu olarak Driscoll-Kraay regresyon testi yapılmış, test neticesinde, ticari açıklık ile ekonomik büyüme arasında negatif ilişki bulunmuştur. Ayrıca kontrol değişkeni olarak modele dahil edilen gayrisafi sabit sermaye oluşumu ile büyüme arasında pozitif yönlü ilişki olduğu görülmüştür. Böylece 11 Avrasya ülkesi üzerinde yapılan bu çalışma, özellikle gelişmekte olan ülkelerde ticari açıklık ile büyüme arasında negatif ilişki bulunduğunu açıklayan teorileri desteklemektedir.
+Yazar isimleri: ['İbrahim Halil SUGÖZÜ']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: ESAM Ekonomik ve Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/esamdergisi/issue/73262/1172401
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2638533

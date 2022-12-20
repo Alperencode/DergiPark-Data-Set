@@ -1,0 +1,7 @@
+Makale Başlığı: Sıvılaşma Riskinin Azaltılması için Kullanılan Jet Grout Kolonlarının Verimliliği Üzerine Bir Sayısal Çalışma
+Özet: Kocaeli İli’ndeki bir trafo montaj-demontaj binasının bulunduğu arazide kapsamlı bir zemin etüdü yapılmış ve bu alanda sıvılaşma riskinin olduğu görülmüştür. Sıvılaşma riskini ortadan kaldırmak amacıyla jet grout kolonlar zemin iyileştirme yöntemi olarak seçilmiştir. Tasarımı yapılan jet grout kolonların imalatından sonra sıvılaşma riskinin ortadan kalkıp kalkmadığı, gerçekleştirilen analitik ve sayısal analizler ile incelenmiştir. Jet grout kolonların sıvılaşmayı önlemedeki etkinliği, efektif gerilme tabanlı sonlu elemanlar analizleri yapabilen MIDAS GTS NX programı ile UBCSAND bünye modeli kullanılarak, aşırı boşluk suyu basıncı oluşumu üzerinden değerlendirilmiştir. Ayrıca, jet grout kolonların sıvılaşabilir zemin tabakasındaki kayma gerilmeleri, kayma deformasyonları ve aşırı boşluk suyu basıncı dağılımları üzerindeki etkisi, jet grout kolonların farklı alan ve dayanım oranları için gerçekleştirilen parametrik analizlerle ortaya konmuştur.
+Yazar isimleri: ['Gizem ŞAHİN', 'Onur TOYGAR', 'Mehmet Rifat KAHYAOĞLU']
+Yayın Yılı: 13 Aralık 2022
+Dergi ismi: Türk Deprem Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tdad/issue/73816/1170304
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2629559

@@ -1,0 +1,7 @@
+Makale Başlığı: Bi-Ga Kısmi Yer Değiştirme Etkisinin Manyetik, Mekanik ve Mikroyapısal Özellikler Bi(1,8-x)Pb0,2GaxSr2CaCu2Oy Süperiletken Üzerinde İncelenmesi
+Özet: BSCCO 2212 süperiletken sistem, ekleme ve kısmi değiştirme yöntemleri nedeniyle açık bir yapıya sahip olduğundan birçok çalışma yapılmış ve makaleler yayınlanmıştır. Bu çalışmada, BSCCO 2212 süperiletkeninde belirli bir oranda Bi-Ga kısmi yer değiştirmesi yapılarak Ga oranı artırılarak elde edilen örneklerin duyarlılığı ölçülerek Ga'nın yapının süperiletkenliğine etkisi araştırılmıştır. Her numunenin mekanik özelliklerini incelemek için Vickers mikro sertlik ölçümleri kullanıldı. Numunelerin yapısal özelliklerini belirlemek için x-ışını kırınımı (XRD) analiz sonuçları değerlendirildi ve taramalı elektron mikroskobu (SEM) görüntüleri ile kristal yapı oluşumları gözlemlendi.
+Yazar isimleri: ['Şükrü ÇAVDAR', 'Selçuk İZMİRLİ', 'Neslihan TURAN', 'Haluk KORALAY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Gazi Üniversitesi Fen Bilimleri Dergisi Part C: Tasarım ve Teknoloji
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujsc/issue/72673/1127485
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2472803

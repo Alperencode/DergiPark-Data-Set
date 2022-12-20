@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Assessment of Brazilian Power Transmission and Distribution Segments using Data Envelopment Analysis
+Özet: In this study, we conducted efficiency analyzes of both power transmission and distribution segments in Brazilian electricity sector. In order to accomplish these analyzes, DEA-VRS models, cost analysis and Window Analysis (WA) approaches were carried out. The results showed that overall efficiency and stability in the distribution sector are higher than in transmission sector, which suggest that distribution companies are better managed regarding their operational costs compared to those within transmission segment. Moreover, it was accounted that approximately R$ 21 billion could have been saved if DMUs (within distribution and transmission systems) analyzed had operated with maximum level of efficiency from 2008 to 2014. Consequently, energy tariff prices paid by each consumer could have also been lower.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351218
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361759

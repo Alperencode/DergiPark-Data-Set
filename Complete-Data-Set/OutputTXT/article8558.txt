@@ -1,0 +1,7 @@
+Makale Başlığı: INVESTIGATION OF THE EFFECT OF BUS TYPE USED IN ISTANBUL BRT PUBLIC TRANSPORTATION SYSTEM ON DWELL TIMES AT STATIONS
+Özet: BRT system, offers more flexible and more economical options in project and application compared to rail systems. For this reason, the demand of transportation authorities for the system is increasing day by day, and on the other hand, the shorter travel times and the higher frequency of travel cause the interest of passengers. In such a high demanding system, dwell times for buses of different lengths, causing bus queues and reducing passenger capacity, were examined According to the test result, it has been determined that buses with a high passenger capacity of 20 m and above should be used instead of buses with a length of 18 m in order to ensure faster passenger circulation. With the reduction of dwell times, it is expected to adapt to the planned headway frequencies, prevent vehicle queues and passenger accumulation at subsequent stations, and increase the reputation of BRT system and passenger satisfaction.
+Yazar isimleri: ['Abdulhamit ÇETİN', 'Mustafa ILICALI']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ticaretfbd/issue/70676/981138
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1918058

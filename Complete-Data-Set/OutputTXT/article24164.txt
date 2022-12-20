@@ -1,0 +1,7 @@
+Makale Başlığı: The relationship between mathematics achievement and reading comprehension skill: A meta-analysis study
+Özet: This study aims to investigate the relationship between mathematics achievement and readingcomprehension skill using the method of meta-analysis. For this purpose, 18 studies consistingof articles and postgraduate theses that were scanned in databases using the identified keywordsand were in line with the inclusion criteria were included in the study. From these studies, 28 effect-size values were calculated. The analysis of the data was performed based on the random-effectsmodel. The Comprehensive Meta-Analysis Software (CMA) program was used to analyzethe data. According to the study results, it was found that there was a positive relationship ata high level (g=0.575) between reading comprehension skills and mathematics achievement.Moreover, the effect sizes of the studies were found to have no significant difference in terms ofyear of publication, type of publication, and level of education.
+Yazar isimleri: []
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Yıldız Eğitim Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yjer/issue/70737/1137665
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2514544

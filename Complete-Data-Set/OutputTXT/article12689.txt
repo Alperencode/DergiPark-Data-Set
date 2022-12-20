@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye'de M-Devlet Uygulamasının Sunduğu Hizmetlerin İçerik Analizi Metoduyla İncelenmesi
+Özet: 21.yy’ da teknolojide yaşanan gelişmeler ve internet aracılığıyla bilgiye anında ulaşılabilmesi toplumlarda ve devlet yapılarında değişimler görülmesine neden olmuştur. Yaşanan teknolojik gelişmeler çerçevesinde klasik devlet yapıları işlevsizleşmesi ve beklentileri karşılayamaz hale gelmiştir. Klasik devlet yapısında görülen yetersizlikler ve kamuda teknolojinin daha çok kullanılması ile birlikte e-devlet kavramının daha çok hayatımızda yer almasına neden olmuştur. Türkiye Cumhuriyetinde gerçekleşen teknolojik yatırımlar, internet kalitesinin artırılması ve altyapı faaliyetlerinin günümüz şartlarına göre baştan tasarlanması ile birlikte e-devlet kapısı projesi hayata geçirilmiş ve vatandaşların hizmetine sunulmuştur. Bu çalışmada Türkiye Cumhuriyetinde e-devletin gelişimi e-devlet uygulaması, e-devlet kapısının sunmuş olduğu hizmetler m-devlet ve m-devlet uygulamasının gelişimi ve e-devlet ile m-devletin hizmetleri incelenmiştir.
+Yazar isimleri: ['Tuğberk KAYA', 'Yumer YUMER']
+Yayın Yılı: 14 Temmuz 2021
+Dergi ismi: Organizasyon ve Yönetim Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oybd/issue/64171/714196
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1035479

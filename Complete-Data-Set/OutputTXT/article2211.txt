@@ -1,0 +1,7 @@
+Makale Başlığı: Use of Electric Arc Furnace Slag as an Additive in Biogas Production and Its Effects
+Özet: Anaerobic digestion (AD) is a biological process in which organic wastes are converted into gases such as CH4, CO2, and H2S by microorganisms. In AD, using additives is a widespread approach to improve the anaerobic environment of microbial communities, increase microorganisms' activity, and provide more biogas production. This study investigates the effects of adding the electric arc furnace slag (EAFS) as an additive to the AD system on biogas and methane production. EAFS was obtained from a company that produces iron and steel from scrap iron and added to the AD system at specific concentrations (1-5%). Experiments were carried out in mesophilic conditions (36±1 oC) during a 30-day hydraulic retention time (HRT). As a result of batch experiments, at the end of the 30-day HRT, the highest cumulative biogas production was obtained in R9 with 6021.90 mL and 5% EAFS added, and the highest biogas efficiency was obtained in R7 with 219.8 mL.gVS-1 and 4% EAFS added. Furthermore, it was determined that the addition of EAFS to the AD system increased methane yield.
+Yazar isimleri: ['Rahman ÇALHAN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1038595
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2140134

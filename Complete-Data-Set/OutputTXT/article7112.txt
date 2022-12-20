@@ -1,0 +1,7 @@
+Makale Başlığı: Path Tracking and Connection Mechanism of a Reconfigurable, Foldable, Legged, and Miniature Robot
+Özet: 
+Yazar isimleri: ['Mustafa UĞUR', 'Muhammed UYGUN', 'Alihan BAKIR', 'Onur ÖZCAN']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Hittite Journal of Science and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hjse/issue/72726/1145204
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2543901

@@ -1,0 +1,7 @@
+Makale Başlığı: THE INFLUENCE OF POST-ANNEALING CdS THIN FILMS GROWN ON ZnO SEED LAYER FOR CdTe SOLAR CELLS
+Özet: In this study, the effect of post-annealing temperature in CdS thin films grown on ZnO seed layer was investigated. CdS thin film and ZnO seed layer were coated by chemical bath deposition method and solution dropping technique, respectively. The structure of the post-annealed samples at 350°C and 400°C consisted of cubic CdS and CdSO3 oxide phases. As a result of recrystallization at 450°C, both hexagonal CdS and cubic CdO phases were formed. While the absorption edge was observed at around 500 nm in all samples, the best transmittance was observed in the sample annealed at 400°C. PL spectra proved the existence of defect types such as deep emission, sulfur vacancy for all samples. Ellipsometer measurements showed that the highest refractive index was in the sample annealed at 400°C. Among the samples, it was concluded that the most suitable window structure for CdTe solar cell applications is CdS thin film post-annealed at 400°C.
+Yazar isimleri: ['Ali ÇİRİŞ']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Eurasian Journal of Science Engineering and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejset/issue/73873/1194810
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2731895

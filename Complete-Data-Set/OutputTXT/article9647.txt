@@ -1,0 +1,7 @@
+Makale Başlığı: Hybrid experimental investigation of MR damper controlled tuned mass damper used for structures under earthquakes
+Özet: This paper aims to investigate the performances of a semi-active tuned mass damper (STMD) used to reduce the vibrations of buildings under different seismic excitation by the real-time hybrid simulation (RTHS) method. In the STMD, the MR damper is used as a control element with a variable damping feature. The RTHS method is an alternative to experimentally studying the STMD system. MR damper is critically significant for the system and is experimentally installed. At the same time, the other parts are designed in numerical simulation and tested simultaneously. MR damper is a control element whose damping value can change according to the amount of voltage transmitted. Therefore, the groundhook control method determines the MR damper voltage variations. The results show that the control method applied to MR damper-controlled STMD effectively suppresses structural vibrations.
+Yazar isimleri: ['Hüseyin AGGÜMÜŞ', 'Rahmi GÜÇLÜ']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Journal of Soft Computing and Artificial Intelligence
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jscai/issue/70580/1122514
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2452323

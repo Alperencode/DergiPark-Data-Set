@@ -1,0 +1,7 @@
+Makale Başlığı: Modified Finite Difference Method for Solution of Two-interval Boundary Value Problems with Transition Conditions
+Özet: In this study, we have proposed a new modification of classical Finite Difference Method (FDM) for the solution of boundary value problems which are defined on two disjoint intervals and involved additional transition conditions at an common end of these intervals. The proposed modification of FDM differs from the classical FDM in calculating the iterative terms of numerical solutions. To illustrate the efficiency and reliability of the proposed modification of FDM some examples are solved. The obtained results are compared with those obtained by the standart FDM and by the analytical method. Corresponding graphical illustration are also presented.
+Yazar isimleri: ['Semih ÇAVUŞOĞLU', 'Oktay MUKHTAROV']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/1007380
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2017889

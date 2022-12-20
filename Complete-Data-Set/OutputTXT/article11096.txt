@@ -1,0 +1,7 @@
+Makale Başlığı: A Real-Life Application of the Effect of Criterion Weighting Methods on MCDM Results
+Özet: This study aimed to examine the effects of six different techniques on simple additive weighting (SAW) Multiple Criteria Decision Making (MCDM) method results by using Entropy, Criteria Importance Through Intercriteria Correlation (CRITIC), Equal weight, MEthod based on the Removal Effects of Criteria (MEREC), Standard deviation and Integrated Data Oriented Weighting System (IDDWS) approaches, which are objective criteria weighting methods. In this study, which includes a real life application, it is aimed to measure the financial performance of Zorlu Energy Company for the period of 2016-2020 using the proposed model in the study. It was concluded that the ranking results obtained by the SAW method on the basis of Entropy, CRITIC, MEREC, Equal weight, standard deviation technique, IDDWS are the same. According to the results obtained by adding new alternatives to the data set, it was observed that the criteria weights had a different effect on the ranking results. As far as is known, the techniques used in the study have not been used together before, in this respect, it is thought that the study will fill the gap in the literature and contribute to the literature.
+Yazar isimleri: ['Nazlı ERSOY']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: MANAS Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mjss/issue/73111/1026666
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2092816

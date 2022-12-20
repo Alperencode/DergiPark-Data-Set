@@ -1,0 +1,7 @@
+Makale Başlığı: Urban Transformation: A Bibliometric Analysis of Conception Through Web Of Science
+Özet: This study aims to make a bibliometric analysis on the urban transformation studies made in the Web of Science (WoS) database for the concept of urban transformation, which is accepted as an interdisciplinary field and attracts attention in the academic field. Bibliometric analysis is a quantitative technique used to review literature in any field. In this context, 1648 studies titled 'urban transformation' in the WoS database between 1975-2021 were analyzed. VOSviewer software was used in the analysis. As a result of the analysis, it has been determined that the institution that does the most academic studies on urban transformation is Hong Kong Polytechnic University, the publisher is the Journal of Urban History, and the researcher is Hao Wang.
+Yazar isimleri: ['Abidin KEMEÇ', 'Özkan YALÇIN']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Abant Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/asbi/issue/73571/1150440
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2563621

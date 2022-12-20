@@ -1,0 +1,7 @@
+Makale Başlığı: MATLAB GUI Model for PV System Feasibility of a House Electricity Consumption in Turkey
+Özet: In this study, feasibility analysis was done with aprogram that created a simulation model in the MATLAB GUI environment for thePV system installation in the production of electricity requirement of a housein Turkey conditions. The energy consumption is calculated through the data ofthe operating hours in a day and the number of running days in a year whichentered by user. Once the panel and zone selection options have been specified,the program calculates the annual energy need for the house, the energygenerated, the number of panels required to produce this energy, and the arearequired for system. Monthly energy distribution is shown graphically.Calculations are being revised for different panel number usage. In theeconomic analysis part, system cost, payback period and annual earnings aredetermined. PV system model, consumers will invest in renewable energy thatwill help to make the pre-feasibility and can be used as a decision-makingmechanism.
+Yazar isimleri: ['Kübra Nur Akpınar', 'Bedri KEKEZOĞLU']
+Yayın Yılı: 10 Ekim 2019
+Dergi ismi: European Journal of Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejens/issue/49410/341587
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/826650

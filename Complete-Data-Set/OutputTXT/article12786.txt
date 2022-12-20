@@ -1,0 +1,7 @@
+Makale Başlığı: Modeling of Surface Water-Ground Water Relationship in Silifke-Göksu Deltaic Plane
+Özet: The relationship between surface water and groundwater is quite complex and modeling this relationship is not an easy process. In this study, the relationship between surface water and groundwater was modeled for the Göksu Deltaic Plain. For this purpose, the Groundwater-Surface Water Flow Model (GSFLOW), which was created by the integration of the Precipitation-Flow Modeling System (PRMS) and the Modular Groundwater Flow Model (MODLFOW-2005) developed by the United States Geological Survey (USGS), was used. While calibrating the model, firstly PRMS and MODFLOW-2005 were calibrated, and then GSFLOW was calibrated. The calibration of MODFLOW-2005 was made by comparing groundwater levels measured in the field with the levels obtained by the model. For this, static groundwater levels were measured monthly for one year in eighteen wells determined in the field. Horizontal and vertical hydraulic conductivities were used as calibration parameters. As a result of the study, it has been concluded that there is a constant and variable relationship between surface water and groundwater.
+Yazar isimleri: ['Mehmet Eyyüp KAVŞUT', 'Recep YURTAL']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1083851
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2294074

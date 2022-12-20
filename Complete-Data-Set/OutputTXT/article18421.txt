@@ -1,0 +1,7 @@
+Makale Başlığı: Voting Combinations-Based Ensemble: A Hybrid Approach
+Özet: 
+Yazar isimleri: ['Abdul Ahad ABRO', 'Mir Sajjad Hussain TALPUR', 'Awais Khan JUMANİ', 'Waqas Ahmed SIDDIQUE', 'Erkan YAŞAR']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Celal Bayar Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cbayarfbe/issue/72755/1014724
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2046309

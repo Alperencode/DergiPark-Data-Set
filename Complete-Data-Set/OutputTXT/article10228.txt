@@ -1,0 +1,7 @@
+Makale Başlığı: The Relationship between Exchange Rate and BIST 100 in Turkey: Asymmetric-Time Varying Asymmetric Causality Analysis
+Özet: Exchange rate and stocks are very important for institutional investors as well as individual investors. For this reason, the main purpose of the study is to examine whether there is a causal relationship between the exchange rate and BIST 100. In the case of causality, it is also discussed whether the causality changes over time. Weekly data for the period between 11.02.1990 and 07.02.2021 were used in the study. First of all, traditional ADF and Fourier ADF, which is a current technique, were performed in order to determine the stationarity degrees of the series. As a result of the stability tests, the causality between BIST 100 and the Exchange Rate was investigated. For this, the current Hatemi-j causality test was used, and a bidirectional causality was obtained between the positive shocks of the BIST 100 and the Exchange Rate. Afterwards, it was done with the Time Varying Asymmetric Causality test. According to the findings, it was concluded that there is an asymmetric causality between BIST 100 and the Exchange Rate and this causality changes over time.
+Yazar isimleri: ['Ethem KILIÇ', 'Mustafa NAİMOĞLU']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Karamanoğlu Mehmetbey Üniversitesi Sosyal Ve Ekonomik Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kmusekad/issue/70427/1001827
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1998771

@@ -1,0 +1,7 @@
+Makale Başlığı: BDÇT Kolonların Nihai Dayanımının Sonlu Elemanlar ile Modellenmesi ve Tasarım Kodları ile Karşılaştırılması
+Özet: Beton dolgulu çelik tüpler (BDÇT), yüksek mukavemet, rijitlik ve süneklik özelliklerine sahiptir, bu da onları yapısal uygulamalarda avantajlı kılmaktadır. Bu çalışma, eksenel yüke maruz beton dolgulu çelik tüp şeklindeki dairesel kolonların nihai dayanımını tasarlamak için bir sonlu elemanlar analiz modeli oluşturmayı amaçlamaktadır. Bu amaçla, daha önceki deneysel çalışmalarda sunulan 314 test numunesi incelenmiştir. Çalışmada, çelik boru et kalınlığı ve akma dayanımı, beton basınç dayanımı ve kolon çapı ve uzunluğu tasarım parametreleri olarak belirlenmiştir. Bu bağlamda, bu çalışmada önerilen sonlu elemanlaryöntemi kullanılarak oluşturulan tasarım modeli, ACI, AS, AISC, AIJ, Eurocode 4, DL/T ve CISC gibi mevcut tasarım kodlarında verilen mevcut tasarım modelleri ile karşılaştırmalı olarak değerlendirilmiştir. Ayrıca tüm tasarım modellerin tahmin performansı da istatistiksel olarak incelenmiştir.
+Yazar isimleri: ['Ayşegül ERDOĞAN', 'Esra Mete GÜNEYİSİ', 'Süleyman İPEK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1033827
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2120671

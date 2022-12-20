@@ -1,0 +1,7 @@
+Makale Başlığı: GEOTEKNİK UYGULAMALARDA GEOPOLİMERLERİN KULLANILABİLİRLİĞİNİN İNCELENMESİ, LİTERATÜR ÇALIŞMASI
+Özet: Küresel ısınma ve iklim değişikliği Dünya'nın en önemli ve hızla çözülmesi gereken problemlerinden biri haline gelmiştir. Atmosferdeki kızılötesi ışınları tutarak küresel ısınma ve iklim değişikliğine sebep olan sera gazlardan bir tanesi de CO2 gazıdır ve çimento üretimi ile salınan CO2 gazı toplam salınımın %8’ini oluşturmaktadır. CO2 salınımının yanı sıra çimento üretiminde ortaya çıkan nitrik oksitler asit yağmurlarına neden olmaktadır. Atık ya da doğal mineralli malzemeler kullanılarak üretilen geopolimer beton, geleneksel betona göre daha az su kullanımı ve CO2 emisyonunu artırmaması açısından çevresel anlamda sürdürülebilirdir. Geopolimerler farklı kür koşullarında farklı malzemeler ve alkalin aktivatör kullanarak elde edilebilmektedir. Bu derleme makalede çimento yerine alümina silikat oranı yüksek atık malzemelerin bir alkalin aktivatör ile bağlayıcı özellik kazanması esasına dayanan geopolimerlerin zemin iyileştirme çalışmalarında kullanımı incelenmiştir.
+Yazar isimleri: ['Muhammet ÇINAR', 'Büşra ERBAŞI']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1110640
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2403974

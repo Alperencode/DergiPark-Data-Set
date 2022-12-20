@@ -1,0 +1,7 @@
+Makale Başlığı: Some Results on the $p$-Weak Approximation Property in Banach Spaces
+Özet: In this study, some existing results dealing with the weak approximation property of Banach spaces are considered for the $p$-weak approximation property. Also, an observation on the bounded weak approximation and the $p$-bounded weak approximation properties is given. Moreover, the proof of the solution of the duality problem for the $p$-weak approximation property which exists in the literature is given in a shorter way as an alternative.
+Yazar isimleri: ['Ayşegül KETEN ÇOPUR', 'Adalet SATAR']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Fundamental Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fujma/issue/72663/1099840
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2359180

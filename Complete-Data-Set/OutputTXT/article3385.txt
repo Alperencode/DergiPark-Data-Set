@@ -1,0 +1,7 @@
+Makale Başlığı: An Alternative Process for Determining Erosion Risk: The Fuzzy Method
+Özet: Çalışmada Bulanı metodunun güvenilirliğini test etmek amacıyla çok önemli bir toprak ve çevre sorunu olan erozyonun Gaziantep şehrindeki risk durumu ortaya konulmuştur. Erozyon göstergeleri olarak bitki örtüsü, litolojik yapı, eğim ve yağış parametrelerinin değerlendirildiği çalışmada erozyon riskinin belirlenmesinde sıkça kullanılan Analitik Hiyerarşi Süreci (AHP) ile Bulanık metodu bir arada kullanılmıştır. Saha içerisinde her parametreye AHP ve Bulanık yöntemleri ile bir ağırlık değeri atanmış ve daha sonra Coğrafi Bilgi Sistemleri (CBS) ortamında haritalama ve analiz gerçekleştirilmiştir. Seçilen 100 noktanın AHP ve Bulanık’taki değerleri karşılaştırılarak her iki yöntemin uyumluluk durumu ortaya konulmuştur. Buna göre AHP ile BULANIK metodun yüksek oranda birbiri ile uyum gösterdiği tespit edilmiştir. Dolayısıyla Gaziantep gibi yarı kurak iklim özelliklerine sahip alanlarda erozyon risk durumunun değerlendirilmesinde BULANIK metodunun tek başına kullanılmasında bir sakınca olmadığı, hatta erozyon koruyucu eylemlere rehberlik etmek için etkili bir araç olabileceği ortaya konulmuştur.
+Yazar isimleri: ['Gülşen KUM', 'Mehmet Emin SÖNMEZ']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Coğrafya Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iucografya/issue/71353/1058416
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2194477

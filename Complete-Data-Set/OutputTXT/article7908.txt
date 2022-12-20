@@ -1,0 +1,7 @@
+Makale Başlığı: V-KAT LEVHALI GÜNEŞ ENERJİLİ HAVA ISITICISININ ORTAM ISITMASI İÇİN TEORİK VE DENEYSEL İNCELEMESİ
+Özet: Bu çalışma, 84 m2 alana sahip bir ofise ısıtma sağlamak için tasarlanan V-Kat levhalı güneş enerjili hava ısıtıcısının ısıl performansını incelemektedir. Hava ısıtıcısının ısıl performansı hem teorik hem de deneysel olarak incelenmiştir. V-Kat levhalı güneş enerjili hava ısıtıcıları daha önce ofislere ısıtma sağlamak için çalışılmamıştır. Dolayısıyla bu çalışma bu sistemleri bu amaç için inceleyerek literatüre katkı sunmayı hedeflemektedir. Ofisin ısıtma yükü, Energy Plus bina simülasyon yazılımı ile 4546 W olarak hesaplanmıştır. Hava ısıtıcısının ısıl performansı, hava ısıtıcısı enerji denklemlerinin geliştirilen MATLAB kodu kullanılarak çözülmesi ile ve aynı zamanda hava ısıtıcısı işletme değişkenlerinin (örn. bileşen sıcaklıkları, hava hızı vb.) ölçülmesi ile incelenmiştir. Hava ısıtıcısının her bir bileşeninin sıcaklığı, faydalı ısı üretimi, ısıl verim, ısıtma yükünü karşılamak için gerekli olan hava ısıtıcısı sayısı ve karşılık gelen alanın elde edilmesi amaçlanmaktadır. Deneysel incelemenin sonucunda ısıtma yükünü karşılamak için 16 m2 lik 9 adet hava ısıtıcısı gerekirken, teorik incelemede yükü karşılamak için10 m2 lik 6 adet hava ısıtıcısının gerekli olduğu sonucu ortaya çıkmıştır.
+Yazar isimleri: []
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Isı Bilimi ve Tekniği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/isibted/issue/73436/1194986
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2732673

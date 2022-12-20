@@ -1,0 +1,7 @@
+Makale Başlığı: Numerical simulation of thermal deformation of a rough slider bearing and its Asperities: special reference on load generation in parallel sliders
+Özet: 
+Yazar isimleri: []
+Yayın Yılı: 31 Aralık 2018
+Dergi ismi: Communication in Mathematical Modeling and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cmma/issue/42352/509719
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/621220

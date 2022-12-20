@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19’un Yayılmasını Önlemek için CNN ile Yüz Maskesi Tespiti
+Özet: Koronavirüsler 1960’larda keşfedilmiştir. Hayvanlardan hayvanlara bulaşan bu virüs günümüze gelene kadar çeşitli varyasyonlara uğramıştır. Salgın durumuna ilk olarak Çin’in Vuhan kentinde 2019 yılında bir insanda tespit edilmesiyle gelmiştir. Kapalı ortamlarda daha hızlı yayılan bu virüs için maske takma ihtiyacı oluşmuştur. Toplu ortamlarda maske takmak birçok ülkede zorunlu hale gelmiştir. Bu durumun denetimi ülkeler için gereklilik halini almıştır. Bu çalışmada, insanların maske takıp takmadığı yapay zeka ve görüntü işleme teknikleri kullanılarak tespit edilmiştir. Geliştirilen uygulama, Evrişimli Sinir Ağı (CNN: Convolutional Neural Network) kullanarak bir video görüntüsünde birçok kişiyi aynı anda maskeli/maskesiz olarak tespit etmektedir.
+Yazar isimleri: ['Kadir İLERİ']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1167636
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2618557

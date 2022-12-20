@@ -1,0 +1,7 @@
+Makale Başlığı: A Statistical Study on Chromosome Abnormalities
+Özet: 
+Yazar isimleri: ['Canan ÖZDEMİR', 'Ali ÖZDEMİR']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of New Results in Engineering and Natural Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jrens/issue/70642/1096845
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2346218

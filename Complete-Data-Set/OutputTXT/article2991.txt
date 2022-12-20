@@ -1,0 +1,7 @@
+Makale Başlığı: FELDSTEİN-HORİOKA BULMACASI VE TÜRKİYE'DEN KANITLAR
+Özet: Ülkelerin ekonomik büyümesinin artırılmasında yatırımların ve tasarrufların rolü büyüktür. Yatırımların kaynağının nereden sağlandığı konusu literatürde birçok başlıkla araştırılmıştır. Feldstein ve Horioka tasarruf ve yatırım ilişkisini uluslararası sermaye hareketleri çerçevesinde incelemiştir. Çalışmada sermaye hareketlerinin serbest olması durumunda yurtiçi tasarruflarla yatırım arasında düşük düzeyde bir ilişkinin olacağı vurgulanmıştır. Bu çalışmada Feldstein-Horioka bulmacası olarak literatürde geçen hipotezin varlığı Türkiye için araştırılmıştır. 1990-2019 yıllarını kapsayan çalışmada yapılan FMOLS-DOLS sonuçları doğrultusunda uluslararası tasarrufların yatırımları daha fazla etkilediği sonucuna ulaşılmıştır. Çalışmada yapılan Frekans Dağılım nedensellik analizi sonucunda tasarruf değişkeninden yatırıma doğru orta ve uzun dönemde bir ilişkinin olduğu, yatırım değişkeninden tasarruf değişkenine doğru ise orta dönemde bir ilişkinin olduğu belirlenmiştir.
+Yazar isimleri: ['Ceren PEHLİVAN']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Birey ve Toplum Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/birtop/issue/71097/1032226
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2114419

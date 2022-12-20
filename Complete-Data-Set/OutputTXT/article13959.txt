@@ -1,0 +1,7 @@
+Makale Başlığı: ILO Üyesi Ülkelerin İş Kazası Sonucu Oluşan Ölüm Oranı Bakımından Kümeleme Yöntemi ile Sınıflandırılması
+Özet: Bu çalışmada ILO üyesi ülkeler, yüksek riskli sektörlerde meydana gelmiş iş kazası nedenli ölüm oranları bakımından incelenmiştir. Bu inceleme sonucunda ülkeler iş kazası nedenli ölüm oranlarındaki benzerlik veya farklılık durumlarına göre dört temel kümeye ayrılmıştır. Bu bakımdan; Hollfa, Panama, Danimarka, İsveç, İngiltere, İsviçre, Finlandiya, Almanya, Polonya, Hırvatistan, Kıbrıs, Yunanistan birinci kümede, Kazakistan, Ukrayna, İsrail, Macaristan, Slovakya, Fransa, Litvanya, Slovenya, Bulgaristan, İtalya, Çek Cumhuriyeti, İrlanda ikinci kümede, Filipinler, Lüksemburg, İspanya, Portekiz, Türkiye, Estonya üçüncü kümede, Norveç, Romanya, Avusturya, ABD ve Mısır ise dördüncü kümede yer almıştır. Çalışmada her bir küme iş kazası nedenli ölüm oranı bakımından diğer kümelerle karşılaştırılmıştır. Ülkelerin kümelere ayrılmasında Hiyerarşik Kümeleme Yöntemi, kümelerin karşılaştırılmasında Kruskal Wallis Testi ve Mann-Whitney U Testi kullanılmıştır.  Sonuç olarak iş kazası nedenli ölüm oranının birinci küme ülkelerinde daha az meydana geldiği, diğer kümelerdeki iş kazası nedenli ölüm oranlarının ise sektörün çeşidine göre değişiklik gösterdiği görülmüştür.
+Yazar isimleri: []
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: SGD-Sosyal Güvenlik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sgd/issue/70879/1135317
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2505362

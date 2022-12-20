@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of Optimal Parameters of PSS Using the Identified Model
+Özet:  The paper describes the procedure for parameter tuning of the power system stabilizer, as part of the structure of the automatic voltage regulator of synchronous generator AVR. Parameter tuning is based on a method that uses a mathematical model of synchronous generator on the power system. The parameters of the mathematical model of synchronous generator are determined by identification. Application of the identified mathematical model defines the function of dependence of the characteristics of the voltage regulator of the synchronous generator to the parameters of the controller. Developed method for parameter tuning is tested on the real laboratory system.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167895
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/147998

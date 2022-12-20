@@ -1,0 +1,7 @@
+Makale Başlığı: Yetişkin Öğrenenlere Yönelik Kurs Oluşturmada Yeni Bir Yaklaşım: Grafik Kurs Haritası Tasarlama
+Özet: Yetişkin öğrenenlere yönelik başarılı kurslar oluşturmak, deneyimli eğitmenler için bile zorlu bir iştir. Farklı alanlarda yetişkin öğrenenlere yönelik güncel, başarılı ve onların istek ve ihtiyaçlarına uygun bir kurs oluşturmak ve onu başarılı bir şekilde uygulamak önemlidir. Çok farklı hedeflere, deneyimlere, öğrenme sitillerine ve motivasyonlara sahip bireylerin katılması kurs sürecini daha da zorlaştırmaktadır. Bu zorluklar göz önüne alındığında eğitmenler; yetişkin öğrenenlere yönelik başarılı bir kurs oluşturmak, katılımı sağlamak ve kursu yönetmek ve değerlendirmek için kurs tasarım haritasına ihtiyaç duyabilirler. Bu makalede, kurs haritası için akış şeması, diyagramı ve grafik düzenleyicisi olan metin tasarımının tamamlaması ve netleştirilmesi amaçlanan, günümüzde giderek güçlü bir araç olan grafik kurs haritası önermektedir. Eğitmenlerin, yetişkin öğrenenlere yönelik kendi kurslarını tasarlarken nasıl yapılandıracaklarını anlamalarına yardımcı olması ve andragojinin başarılı bir şekilde uygulanması için grafik kurs haritasının nasıl tasarlanacağı açıklanmakta ve web tasarımı kursu için örnek bir grafik kurs haritası sunmaktadır.
+Yazar isimleri: ['Nida SOKMEN', 'Hayat BOZ']
+Yayın Yılı: 22 Ekim 2022
+Dergi ismi: Turkish Journal of Educational Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkjes/issue/73134/1134463
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2501860

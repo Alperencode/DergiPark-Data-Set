@@ -1,0 +1,7 @@
+Makale Başlığı: Fizik Öğretmenlerinin Parçacık Fiziğine Yönelik Alan Bilgilerinin Gelişimi
+Özet: Bu çalışmanın amacı fizik öğretmenlerinin parçacık fiziğine yönelik alan bilgilerinin geliştirilmesine katkı sağlayabilmektir. Bu bağlamda ortaöğretim 12. sınıf Atom Fiziğine Giriş ve Radyoaktivite ünitesinde yer alan 10 adet kazanım göz önüne alınarak, parçacık fiziğine yönelik 17 adet kısa cevaplı açık uçlu bir başarı testi hazırlanmıştır. Başarı testi 23 fizik öğretmenine kazanımlara yönelik çevrim içi etkinlikler yapılmadan önce öntest, etkinliklerden sonra da sontest olarak uygulanarak konularla ilgili bilgilerindeki değişim tespit edilmeye çalışılmıştır. Öntestte Stern-Gerlach deneyinin sonucunda görülen izler, yük ve spin özellikleri verilen parçacık gruplarının tahmini ve çekirdek içerisindeki temel atomaltı parçacıklar hakkında öğrtmenlerin bilgilerinin olmadığı tespit edilmiştir. Uygulama sonrasında yapılan sontestte ise yük ve spin özellikleri verilen parçacık gruplarının tahmini ve çekirdek içerisindeki temel atomaltı parçacıklar dışındaki diğer kazanımlar hakkında olumlu bir değişim elde edilmiştir.
+Yazar isimleri: ['Seher PERVAN', 'Pervin ÜNLÜ YAVAŞ']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Eğitim ve Toplum Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/etad/issue/70453/1108748
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2395950

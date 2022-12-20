@@ -1,0 +1,7 @@
+Makale Başlığı: Dağıtık üretim sistemi içeren güç sistemlerinde AOA algoritması ile zehirli ve sera gaz emisyonlarının azaltımı: Nevşehir-Kozaklı vaka çalışması
+Özet: 
+Yazar isimleri: ['Ozan AKDAĞ']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Gazi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gmbd/issue/72442/1036975
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2133720

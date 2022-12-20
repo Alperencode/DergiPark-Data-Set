@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 Pandemisinin Primer İmmun Yetmezliği Olan Çocuklar Üzerindeki Mental Etkileri
+Özet: Amaç: Çalışmamızın amacı, COVID-19 pandemisinin primer immün yetmezliği olan çocukların ruh sağlığı üzerindeki etkilerini araştırmaktır.Gereç ve Yöntemler: Katılımcıların ebeveynleri tarafından Revize Çocuk Anksiyete ve Depresyon Ölçeği - Ebeveyn Formu (RCADS-P) doldurulmuştur. Katılımcılar Primer immün yetmezliği olan hastalar ve kontrol grubu olmak üzere iki gruba ayrılarak değerlendirilmiştir. Bu çalışma Haziran 2020-Aralık 2020 tarihleri arasında yapılmıştır.Bulgular: Çalışma grubundaki hastaların RCADS-P depresyon puanları ve RCADS-P toplam puanları kontrol grubuna göre istatistiksel olarak anlamlı derecede yüksekti (sırasıyla p = 0,022, p = 0,042). Hastaların yaşı (r = 0,419, p = 0,024), eğitim düzeyi (r = 0,588, p = 0,013) ve RCADS-P depresyon puanları arasında pozitif yönde ilişkiler bulundu. Ayrıca kardeş sayısı (r = -0,396, p = 0,038) ile RCADS-P OKB puanları arasında negatif korelasyon saptanmıştır.Sonuç: COVID-19 pandemisi, primer immün yetmezliği olan hastaların ruh sağlığı üzerinde olumsuz etkilere sahiptir.
+Yazar isimleri: ['Ahmet Osman KILIÇ', 'Necati UZUN', 'Fatih AKIN', 'Mehmet Akif AKINCI', 'Abdullah YAZAR', 'Havva BOZKURT ALAN', 'Sevgi KELES', 'İsmail REİSLİ']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: Pediatric Practice and Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/pprjournal/issue/72478/1133096
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2496204

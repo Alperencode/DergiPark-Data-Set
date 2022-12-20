@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Gamma Shielding Properties of Some Tungsten-Containing Minerals in a Wide Energy Range
+Özet: Tungsten is a metal with high density, durable, good in terms of hardness and strength compared to lead. In this study, gamma shielding parameters such as mass attenuation coefficient, linear attenuation coefficient, half value layer, tenth value layer, mean free path, effective atomic number and effective atomic density for some tungsten-containing minerals (tungstibite, tungstenite, hubrenite, russellite, anthoinite) in the energy range of 0.060 MeV to 2.614 MeV were investigated with the help of WinXCOM program, GEANT4 and FLUKA simulation codes and the obtained results were compared with each other. It has been observed that tungstenite may be a better gamma shielding material around the K shell absorption edge energy (0.0695 MeV) of tungsten, while russellite may be a better gamma shielding material in other energy regions.
+Yazar isimleri: ['Hatice Gürel ÖZDEMİR', 'İskender DEMİRKOL', 'İlhami ERKOYUNCU', 'Meryem YILMAZ', 'Mustafa Recep KAÇAL', 'Ferdi AKMAN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jist/issue/73493/1141320
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2528540

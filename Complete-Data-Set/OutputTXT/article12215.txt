@@ -1,0 +1,7 @@
+Makale Başlığı: DETERMINING THE EFFECT OF LEVEL OF FLOOR, EXTERNAL WALL THICKNESS AND JACKETING ON ACOUSTIC COMFORT IN EXISTING RESIDENTIAL BUILDINGS IN TURKEY
+Özet: Since people spend most of their time in the residences especially during the pandemic, acoustic comfort has come into prominence. Many studies were conducted to improve acoustic comfort. Notwithstanding the fruitful existing studies, there is no study detecting the correlation of building elements with acoustic comfort. Therefore, in this study, the correlation of floor levels, wall thickness and the availability of jacketing with the acoustic performances of existing residential buildings constructed before 2017 were investigated according to Regulation on the Protection Against Noise in Buildings entering into force on 31st May 2017 with Official Gazette. The noise levels of 155 residences in residential buildings were investigated and correlations of the level of the floor, exterior wall thicknesses and jacketing with the noise comfort were detected with the help of Pearson Correlation computed via SPSS software. It is believed that this study will improve practical implementations of existing standards in the construction industry.
+Yazar isimleri: ['Murat CEVİKBAS']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Mühendislik Bilimleri ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jesd/issue/72809/1072817
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2250490

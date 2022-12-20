@@ -1,0 +1,7 @@
+Makale Başlığı: MÜŞTEREĞE DAYALI EŞ ÜRETİMİN (COMMONS-BASED PEER PRODUCTION) OLANAKLARI VE ZORLUKLARI
+Özet: Bu makalede müştereğe dayalı eş üretim modelinin olanakları ve zorlukları sorgulanmaktadır. Bu model bir taraftan internetin gelişimi sonucunda hacker toplulukları arasında ortaya çıkarken diğer taraftan gönüllü katılımcıların ürettiği ürünler sayesinde internetin yaygınlaşması da sağlanmıştır. Makalede dijital müşterek ve eş üretim vasıtasıyla üretilen ürünlerin kullanım ve mübadele değerleri ele alınmaktadır. Kapitalizmin günümüzde gönüllü emeğini kullanarak yeni bir hiper-sömürü sistemi yarattığı öne sürülmektedir. Özellikle iş zamanı ve boş zaman arasındaki sınırların bulanıklaşması ile gönüllülerin boş zamanda ürettikleri ürünler teknoloji kartelleri tarafından pazarda değer yaratmak için kullanılmaktadır. Üretilen bu değerin patronlar tarafından el konulması kimi araştırmacılar tarafından sömürü olarak nitelendirilmemektedir. Bu makale bu sürecin neden hiper-sömürü olarak nitelendirilmesi gerektiğini tartışmaktadır. Ayrıca çevrimiçi toplulukların yapısı ve topluluk üyelerinin karar alma süreçlerinde karşılaştıkları zorluklar dile getirilmektedir.
+Yazar isimleri: ['Yılmaz ALIŞKAN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Ufkun Ötesi Bilim Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uobild/issue/71533/1138051
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2516032

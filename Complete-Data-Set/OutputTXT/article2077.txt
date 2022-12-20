@@ -1,0 +1,7 @@
+Makale Başlığı: Optimization of NSM-CFRP reinforcement on pre-cracked RCB using Taguchi method: Numerical Analysis
+Özet: In the current paper, different methods of repairing a pre-cracked reinforced concrete beam (RCB) were reviewed and described briefly. Afterward, the near-surface mounted (NSM) technique was used to simulate reinforcement of a pre-cracked RCB using carbon fiber reinforced polymer (CFRP) laminated layer. To do this end, Firstly, based on previous experimental and analytical studies the limitations of the dimensions were specified, and then using Minitab software, Taguchi L9 orthogonal array design of experiment (DoE) was applied to optimize the number of simulations and find the best dimensions for the reinforcement. Subsequently, ABAQUS software was used to analyze the flexural behavior of the NSM-CFRP Pre-cracked RCB. Finally, Force-deflection curves were exported from the simulation results and the best reinforcing pattern was selected
+Yazar isimleri: ['Fatimaalzhra SHAMMARİ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: AURUM Mühendislik Sistemleri ve Mimarlık Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ajesa/issue/71007/1064792
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2219746

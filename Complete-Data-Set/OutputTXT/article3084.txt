@@ -1,0 +1,7 @@
+Makale Başlığı: Biocidal Effect of Deltamethrine Against Tribolium confusum Duv. (Coleoptera: Tenebrionidae) and Sitophilus oryzae L. (Coleoptera: Curculionidae) Adults in Laboratory Conditions
+Özet: Tribolium confusum and Sitophilus oryzae species are seen in human habitats, mainly in kitchens. They damage the storage products by feeding on crops and disturb people like urban pests in kitchens and homes.  Until now, there were no biocidal that could be used to control these species. We carried out to determine the effect of deltamethrin, which is used against some urban pests, on T. confusum and S. oryzae under laboratory conditions. The recommended dose of the biocidal against urban pests (60 ml/10 liter of water), half dose (30 ml/10 liter of water), and quarter dose (15 ml/10 liter of water) were used in the study. The results showed that the highest amount of the biocidal (60 ml/10 liter of water) resulted in 87.5% mortality in T. confusum and 97.5% in S. oryzae. The LD50 value for T. confusum is 32.8 and LD90 is 61.3 ml, and for S. oryzae, these values were found to be 18.8 and 38.1 ml, respectively.
+Yazar isimleri: ['Şeyma YİĞİT', 'Ali Kaan AŞKIN', 'İzzet AKÇA', 'İslam SARUHAN']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Black Sea Journal of Agriculture
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsagriculture/issue/67889/1103364
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2373890

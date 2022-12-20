@@ -1,0 +1,7 @@
+Makale Başlığı: Estimating instant fuel consumption by machine learning and improving fuel consumption
+Özet: Modern cars are very technologically advanced and rely on sensors and actuators which communicate with control units, therefore it becomes possible to obtain data by using the vehicle sensor data from the  controller area network (CAN) bus. Due to its bus structure, it is possible to reach real-time detailed data from sensors inside the vehicle such as O2 sensor voltage, fuel pressure, catalyst temperature etc. This study aims to predict the instantaneous fuel consumption by collecting a large-scale vehicle sensors' data  and create a model with machine learning algorithms with the goal of better understand how the multiple variables influence the instantaneous fuel consumption.With this predictive model, it is better understood how the variables obtained from the sensors affect the instantaneous fuel consumption and it is proposed to reduce the fuel consumption between 1% and 2% by interfering with the intake air temperature information. This approach and the experiments can also support original equipment manufacturers in developing and marketing this technology in the future. This work may lead the way to a cleaner environment due to more economical and less polluting vehicles.
+Yazar isimleri: ['Ahmet Teoman NASKALİ', 'Buğra ŞEN']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: Veri Bilimi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/veri/issue/67424/770142
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1204138

@@ -1,0 +1,7 @@
+Makale Başlığı: Machine Learning Based Segmentation of Shoreline Using Mean-Shift, Random Forest and Support Vector Machine
+Özet: The coast is an area that forms the boundary between land and sea and contains a certain ecosystem of life. To determine the coastline where sea areas are separated from the land in climatic events such as storms, tornadoes, hurricanes, which occur due to the withdrawal or rise of waters due to climate change, tidal movements, weather events in tropical ecosystems. In this study, machine learning-based mean-shift, random forest (RO), and support vector machines (SVM) methods were used on the Sentinel-2A satellite image, and the results were evaluated by calculating overall accuracy and using IOU metrics. The overall accuracies are 97.23%, 99.15%, and 98.68% for mean-shift, random forest, and support vector machines, respectively.
+Yazar isimleri: []
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Çukurova Üniversitesi Mühendislik Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cukurovaumfd/issue/73044/1190597
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2714430

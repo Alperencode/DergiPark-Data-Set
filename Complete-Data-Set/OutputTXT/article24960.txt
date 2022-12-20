@@ -1,0 +1,7 @@
+Makale Başlığı: Illiquidity, Investor Sentiment and Stock Returns: Evidence from Malaysia
+Özet: Market illiquidity and investor sentiment show a significant role in Malaysian capital market, the variation of average stock returns left unexplained by capital asset pricing model is covered effectively by illiquidity and sentiment risks. Our investor sentiment measure consists of six market proxies. This study tests pricing implications using Size, Liquidity and BM ranked portfolios. It finds that small and illiquid stocks are exposed more to sentiment risk. Illiquidity and sentiment factors jointly explain the variations explained by size and value effects. Furthermore, quantile regressions reveal an asymmetric influence of investor sentiment, a large (small) effect is observed on stocks with high (low) returns. A three factor model directed at capturing illiquidity and investor sentiment risks is apparently persuasive in this market.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353580
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364611

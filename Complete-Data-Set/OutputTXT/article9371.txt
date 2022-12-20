@@ -1,0 +1,7 @@
+Makale Başlığı: Effects of waste engine oil and crumb rubber rejuvenator on the performance of 100% RAP binder
+Özet: It is frequently essential to add rejuvenators to recycled mixtures comprising reclaimed asphalt pavement (RAP) to increase their performance. In this research, CR was desulfurized using WEO to produce a compound rejuvenator. The asphalt mixes containing 100% RAP binder were modified and rejuvenated with 0%, 3%, 6%, 9%, and 12% WEO-CR. The performance of the HMA samples were assessed using the Marshall stability-flow test, indirect tensile strength (ITS) test, and wheel-tracking device. The results showed that using a 9% WEO-CR rejuvenator restores the physical properties of the aged binder. In addition, the findings revealed that adding 100% RAP binder to the asphalt mixtures increased the tested properties of HMA samples; however, for the long-term performance of HMA, the aged binder may adversely affect the performance of the HMA mixture. Therefore, the addition of the WEO-CR rejuvenator was found to improve the overall performance of the mixture which improved the physical and chemical properties of the asphalt binder and enhanced the mechanical performance of HMA compared to the control mixture.
+Yazar isimleri: ['Ahmed ELTWATİ', 'Mahmoud ENIEB', 'Saleh AHMEED', 'Zaid AL-SAFFAR', 'Azman MOHAMED']
+Yayın Yılı: 15 Temmuz 2022
+Dergi ismi: Journal of Innovative Transportation
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jit/issue/67279/1072888
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2250849

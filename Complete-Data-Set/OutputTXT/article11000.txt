@@ -1,0 +1,7 @@
+Makale Başlığı: Orta ve Yüksek Teknoloji Ürünleri Üreten İmalat Sektörlerinin Son On Yıldaki Performansının Değerlendirilmesi
+Özet: Ekonomik gelişmelere paralel olarak imalat sektörlerinin gelişimi de sürmektedir. Türkiye ekonomisi son on yıllık süreçte özellikle ileri teknoloji ürünü ürünlerin üretimine odaklanarak, yüksek katma değerli ürün ihracatına yönelmektedir. Bu kapsamda imalat sektörleri düşük, orta ve ileri teknoloji üreten sektörler olarak gruplanmakta ve özellikle ileri teknoloji ürünleri üreten sektörler desteklenmeye çalışılmaktadır. Bu çalışmada son on yıllık süreçte Türkiye ekonomisinin makro göstergeleri kullanılarak özellikle orta ve ileri teknoloji üreten imalat sektörlerinin performans gelişimi analiz edilmiştir. Bu amaçla çok ölçütlü karar verme yöntemlerinden biri olan TOPSIS yöntemi kullanılmıştır. TOPSIS yöntemiyle alternatif imalat sektörleri makroekonomik göstergeler bazında farklı senaryolara göre sıralanmıştır.
+Yazar isimleri: ['Yusuf Tansel İÇ']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Makina Tasarım ve İmalat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/matim/issue/73564/1094133
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2335453

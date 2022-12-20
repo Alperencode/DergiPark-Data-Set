@@ -1,0 +1,7 @@
+Makale Başlığı: ÇOK KRİTERLİ KARAR VERME TEKNİKLERİ KULLANILARAK TEDARİKÇİ SEÇİM KARARI İLE İLGİLİ YAPILMIŞ ÇALIŞMALARIN BİBLİYOMETRİK ANALİZİ: 2000-2020
+Özet: Bu araştırmanın amacı, 2000-2020 yılları arasında tedarikçi seçimi kararı üzerine çok kriterli karar verme yöntemleri kullanılarak yapılan çalışmaları bir araya getirerek incelemektir. Bu amaçla farklı çalışmaların belli kategoriler altında toplanarak değerlendirilmesini sağlayan içerik analizi ve bibliyometrik analiz yöntemleri kullanılmıştır. Verilerin toplanmasında Web of Science (WoS) ve diğer akademik veri tabanlarından yararlanılmıştır. Yayınların yıllara, ülkelere ve dergilere göre dağılımları ile birlikte ortak yazar ve anahtar kelime analizleri gerçekleştirilmiştir. Ayrıca tedarikçi seçiminde dikkate alınan kriterler sektörel dağılımlar da dikkate alınarak incelenmiştir. Bu analiz sonucunda tedarikçi seçim kararında ortalama 6 ana kriter ve 17 alt kriterin değerlendirmeye alındığı ve en çok değerlendirilen ana kriterlerin sırasıyla “kalite, teslimat, fiyat, maliyet, teknik kapasite, servis ve esneklik” olduğu tespit edilmiştir.
+Yazar isimleri: ['Seda Sinem TURSUN']
+Yayın Yılı: 17 Ağustos 2022
+Dergi ismi: Ekonomi ve Yönetim Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/eyad/issue/71906/1163111
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2600707

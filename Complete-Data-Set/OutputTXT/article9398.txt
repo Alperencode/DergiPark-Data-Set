@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of the eczema and skin cancer disease diagnosis by using image processing techniques
+Özet: 
+Yazar isimleri: ['Yusuf Süer ERDEM', 'Özhan ÖZKAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Investigations on Engineering and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jiet/issue/71006/1120337
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2443298

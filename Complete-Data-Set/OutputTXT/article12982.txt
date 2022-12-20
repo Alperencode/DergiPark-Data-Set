@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of permeability characteristics of concretes with different cementitious materials by various test methods
+Özet: The durability of concrete or reinforced concrete structures subjected to aggressive environment depends mainly on the permeability of concrete. On the other hand there are various experimental methods that can be used to evaluate the permeability of concrete. Within the scope of the presented study, the permeability results of concretes produced with different cement types and also using fly ash as mineral additive, measured by different test methods, were investigated. Concrete composites with blended cements or fly ash concrete composites showed better permeability performance. Test results showed that chloride permeability, resistivity, water absorption and water penetration measurements can be used to reveal the permeability differences of the concretes at the same strength level. On the other hand air permeability and ultrasonic velocity tests were found to be insufficient to reveal the permeability differences of the concretes at the same strength level.
+Yazar isimleri: []
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Pamukkale Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/pajes/issue/73579/1212390
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2804012

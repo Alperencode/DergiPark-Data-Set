@@ -1,0 +1,7 @@
+Makale Başlığı: Miğfer Yapıları İçin Oluşturulan Tabakalı Hibrit Kompozit Plakanın Mekanik Analizi
+Özet: Bu çalışmada, mukavemeti arttırılmış hibrit tabakalı bir kompozit plaka arasına eklenmiş alüminyum alaşımının yapı üzerindeki etkileri incelenmiştir. Bu katmanlı plaka için kompozit malzeme türlerinden karbon fiber ve cam fiber seçilmiştir. Bu malzemelerin arasına eklenecek bağlayıcı olarak epoksi reçine belirlenmiştir. Çalışmalar nümerik analiz olarak sonlu elemanlar temelli ANSYS paket programı kullanılarak gerçekleştirilmiştir. Üç boyutlu sonlu elemanlar yönteminden faydalanarak çarpışma analizi uygulanmıştır. Bu analiz sonucundan sac levhanın ve yapılan kompozit diziliminin etkileri araştırılmış olup ideal dizilimler tespit edilmeye çalışılmıştır.
+Yazar isimleri: ['Burhan TEPEHAN', 'İsmail Yasin SÜLÜ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bayburt Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bufbd/issue/70667/1084327
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2295957

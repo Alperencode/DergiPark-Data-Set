@@ -1,0 +1,7 @@
+Makale Başlığı: Kashuri Fundo Dönüşümünün Bozunma Problemine Uygulanması
+Özet: Son zamanlarda, bilimsel alanlarda önemli bir yere sahip olan problemlerin çözümlerinin integral dönüşümleri kullanılarak araştırılması oldukça yaygın halegelmiştir. Bunun en önemli nedeni, bu dönüşümün problemlerin çözümüne ulaşırken en basit ve en az sayıda hesaplamanın yapılmasına olanak sağlamasıdır.Bu çalışmada ekonomi, kimya, zooloji, biyoloji ve fizik gibi alanlarda çok önemli bir yere sahip olan bozunma problemine integral dönüşümlerden biri olan KashuriFundo dönüşümü kullanılarak çözüm aranmaktadır. Çözüme ulaşmada bu dönüşümün kullanım kolaylığını ortaya koymak için bazı sayısal uygulamalarincelenmiştir. Bu sayısal uygulamaların sonuçları, Kashuri Fundo dönüşümünün bozunma probleminin çözümüne ulaşmada oldukça verimli olduğunu ortayakoymaktadır.
+Yazar isimleri: ['Haldun Alpaslan PEKER', 'Fatma Aybike ÇUHA']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufenbed/issue/73792/1160426
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2589939

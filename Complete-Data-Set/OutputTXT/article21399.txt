@@ -1,0 +1,7 @@
+Makale Başlığı: A fabrication-oriented remeshing method for auxetic pattern extraction
+Özet: We propose a method for extracting auxetic patterns from meshes for fabrication by modifying the existing  mesh primitives directly and fully automatically. This direct approach is novel in the sense that most of the fabricationoriented  surface tiling methods introduce additional primitives, such as curve networks in an interactive semiautomatic  framework. Our method is based on a remeshing procedure that converts a given quad mesh with arbitrary topology  into our desired structure that is ready to be fabricated. The main advantages of establishing auxetic patterns on  meshes are the achieved flexibility using cheap inflexible materials as well as less material usage and fabrication time, as  demonstrated in our results.
+Yazar isimleri: []
+Yayın Yılı: 1 Mayıs 2020
+Dergi ismi: Turkish Journal of Electrical Engineering and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkelektrik/issue/54388/739713
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1110723

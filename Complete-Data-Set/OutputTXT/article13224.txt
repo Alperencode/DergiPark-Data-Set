@@ -1,0 +1,7 @@
+Makale Başlığı: Reverberation Effect on Online Hazardous Sound Event Detection
+Özet: This paper reports the results of the research on hazardous Sound Event Detection (SED). We used Deep Neural Networks (DNN) to detect car crashes and screams. These are the two of the hazardous sound events on which studies are done for detection. We have selected these sounds because detection of these sounds and early warning can save lives. The research made on hazardous sound events are generally on recorded data. In this paper we wanted to show that there is a difference between recorded data and online (playing) data. At the end if an audio surveillance algorithm would be used in real time, to test it with online data was also an important part of the development. In this research we have developed an online detection environment which consists of a database, automatic audio playing and receiving software, detection software and automatic evaluating software. Our tests show that the reverberation degrades performance significantly. Current research on SED usually only takes into account background noise which is inserted artificially during model development. The results we have found during these online tests are the same as the ones we encountered during far field speaker recognition.
+Yazar isimleri: ['Yüksel ARSLAN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Researcher
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/researcher/issue/71582/1107769
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2391783

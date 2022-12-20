@@ -1,0 +1,7 @@
+Makale Başlığı: Boş Zaman Motivasyon Ölçeğinin Türkçe Uyarlaması: Turistik Tercihler Üzerinden Bir Değerlendirme
+Özet: Bu çalışmanın amacı, Beard ve Ragheb’in (1983) geliştirmiş olduğu Boş Zaman Motivasyon Ölçeğinin (BZMÖ) turistik tercihler üzerinden Türkçeye uyarlanmasıdır. Dil geçerliğinin onaylanması sonrası 343 turizm akademisyenine uygulanan ölçeğin KMO değerinin 0,904 ve Barlett küresellik testinin anlamlı olması (χ2 5.694, p<0,001), araştırmanın faktör analizine uygunluğunu göstermektedir. Açımlayıcı faktör analizi sonuçları, ifadelerin altı faktörde toplandığını, toplam varyansın %63,06’sını açıkladığını ve faktör yüklerinin 0,35 ile 1,00 arasında sıralandığını göstermiştir. Altı boyutlu yapıya uygulanan doğrulayıcı faktör analizinde; normalleştirilmiş ki kare değeri 1,67, NFI değeri 0,90, RMSEA değeri 0,057, IFI değeri 0,96 ve RFI değeri 0,88 olarak tespit edilmiş ve bu sonuçlar, açımlayıcı faktör analizi sonucu ortaya çıkan altı boyutlu yapının uyumlu olduğunu göstermiştir.
+Yazar isimleri: ['Selim KIROVA', 'Burcu Selin YILMAZ']
+Yayın Yılı: 29 Temmuz 2022
+Dergi ismi: GSI Journals Serie A: Advancements in Tourism Recreation and Sports Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atrss/issue/69024/1070700
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2242747

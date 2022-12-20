@@ -1,0 +1,7 @@
+Makale Başlığı: SINIFLANDIRMA AMAÇLI DEĞİŞKEN ALT KÜMESİ SEÇİMİ: BİR BANKACILIK UYGULAMASI
+Özet: Teknolojik gelişmelerin etkisi ile kaydedilen operasyonel veriler giderek artmaktadır. Veri miktarı ve çeşitliliğindeki artış nedeni ile analiz aşamasında ve analiz sonuçlarının değerlendirilmesi aşamasında birçok zorluk yaşanmaktadır. İlgili ve ilgisiz birçok verinin analiz aşamasına aktarılmasının sonucunda analizlerin yapılabilmesi için gerekli zaman ve kaynak gereksinimleri artmaktadır. Kaynakların ve zamanın daima sınırlı olacağı aşikardır. Bu çalışmanın amacı, bankacılık müşteri verileri üzerinde sınıflandırma amaçlı değişken seçimi uygulamaları yaparak ilgisiz değişkenleri elemek ve sınıflandırma çalışmasına katkıda bulunmaktır. Farklı değişken seçimi yöntemleri kullanılarak seçilen değişken alt kümeleri üzerinde sınıflandırma uygulaması yapılmıştır. Sınıflandırma sonuçları karşılaştırılarak değişken seçim yöntemlerinin başarısı ölçülmüştür.
+Yazar isimleri: ['Emrah SEZER', 'Özgür ÇAKIR']
+Yayın Yılı: 28 Kasım 2022
+Dergi ismi: Dicle Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/duiibfd/issue/73541/1137444
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2513665

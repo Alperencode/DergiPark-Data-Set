@@ -1,0 +1,7 @@
+Makale Başlığı: DO THE LOANS OF CONVENTIONAL BANKS CROWDING-OUT THE LOANS OF PARTICIPATION BANKS?
+Özet: A dual banking system has emerged in Turkey with the participation banks starting to operate since the mid-1980s. Therefore, it is important in terms of financial policies whether the two types of banking models are compatible or incompatible with each other. The aim of this study is to investigate how credits of conventional banks affect participation banks in the context of Turkey. Monthly observations of participation and conventional banks credit during the period between 01/2005 - 02/2022 are used in study. Kalman filter method with simple regression analysis was preferred as a model. The findings implied that the conventional banking model did not hinder participation banks in the credit market.
+Yazar isimleri: ['Caner DİLBER', 'Mercan HATİPOĞLU']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Muhasebe ve Finans İncelemeleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mufider/issue/72704/1109415
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2398914

@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis and Characterization of Yttrium Doped Gadolinium Oxide Samples
+Özet: In this study, detailed information about the un-doped and yttrium (Y)-doped gadolinium oxide (Gd2O3) structures produced by the wet chemical synthesis was presented. For the characterization of the samples, X-ray diffraction analysis, Fourier transform infrared spectroscopy,and scanning electron microscopy technique were used. It was observed that the lattice parameter, crystallite size, and crystallization degree changed with the amount of Y. The crystallite sizes of the samples were calculated in the range of 31.17 nm to 35.49 nm. The crystallization values of the samples were found between 88.6% and 90.2%. It was determined that the morphology of Gd2O3 was affected by the amount of Y.
+Yazar isimleri: ['Tankut ATEŞ', 'Aydan AKSOĞAN KORKMAZ', 'Niyazi BULUT', 'Serhat KESER', 'Omer KAYGILI']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/1002866
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2002734

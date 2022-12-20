@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Measurement in Cargo Distribution Center A Case Study
+Özet: 
+Yazar isimleri: ['Pervin ERSOY', 'Burak ÇETİNER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Turkish Operations Management
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jtom/issue/70951/1012119
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2035992

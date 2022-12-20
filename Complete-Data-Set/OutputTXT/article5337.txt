@@ -1,0 +1,7 @@
+Makale Başlığı: AKADEMİK PERFORMANSIN OTOMATİK SINIFLANDIRILMASI İÇİN ÖZNİTELİKLERİN ANALİZİ
+Özet: Bu makale, öğrencilerin akademik performansının otomatik olarak sınıflandırılmasında yaygın olarak kullanılan özelliklerin katkılarını analiz etmektedir. Bu sınıflandırma probleminde, çeşitli öznitelikler ve sınıflandırıcılar arasındaki ilişki, kapsamlı bir öznitelik seçim stratejisi kullanılarak analiz edilmiştir. Bu şekilde, en yüksek sınıflandırma performansını sağlayan optimal öznitelik alt kümesi elde edilmiştir. Bu amaçla 15 farklı öznitelik ve 480 örnekten oluşan bir akademik performans veri seti kullanılmıştır. Öznitelikler demografik, akademik geçmiş, ebeveyn katılımı ve davranışsal olmak üzere dört farklı kategoriye aittir. Örnekler, öğrenci başarısının düşük, orta ve yüksek seviyelerine karşılık gelen üç farklı sınıftandır. Değerlendirmeler için 10 farklı sınıflandırma algoritması kullanılmıştır. Kapsamlı deneysel analizler, öğrencilerin akademik performansını sınıflandırma doğruluğunun, özniteliklerin tamamı yerine yalnızca 8 tanesi kullanılarak, %79.40'a kadar artırılabileceğini ortaya koymaktadır.
+Yazar isimleri: ['Hakan Alp EREN', 'Efnan ŞORA GÜNAL']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Mühendislik ve Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogummf/issue/72210/1037272
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2134838

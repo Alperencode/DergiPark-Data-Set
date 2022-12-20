@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF GOLD PRICES ON BIST 100 INDEX: CAUSES ANALYSIS IN VARIANCE
+Özet: The COVID-19 outbreak, which was declared a pandemic by the World Health Organization in March 2020, had significant effects on the consumption, investment, and savings decisions of economic units. These decisions, which caused short-term shocks in the financial markets and the real sector, led to the emergence of uncertainties in the economy. While some decision units turn to gold as a safe investment tool in an environment of uncertainty, others may prefer to invest in the stock market to obtain high returns through transactions such as short selling. The aim of this study is to examine the relationship between gold prices and BIST 100 price index. For this purpose, Variant Causality Analysis developed by Hafner and Herwartz (2006) was conducted using daily data for the period 1 March 2020- 23 September 2022. As a result of the econometric analysis, it was determined that there is a bidirectional relationship between gold price volatility and BIST 100 price index. According to these results, the fluctuations in both variables affect each other in the periods when price fluctuations occur.
+Yazar isimleri: ['Abdulkadir Sezai EMEÇ', 'Yavuz DEMİRDÖĞEN']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Süleyman Demirel Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sduiibfd/issue/73306/1178478
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2664056

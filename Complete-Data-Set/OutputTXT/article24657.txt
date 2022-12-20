@@ -1,0 +1,7 @@
+Makale Başlığı: The Effectiveness of STEM-Based on Gender Differences: The Impact of Physics Concept Understanding
+Özet: The purpose of this research is to describe the effectiveness of STEM on the physics concepts understanding seen from gender differences. The research method used is a type of quasi-experimental design with 2x2 factorial design and saturated sampling technique. The data collecting technique used a tested method to see the results of students’ concept understanding. Hypothesis testing was done using two-way ANOVA 2 x 2 factorial designs. The results of the study are: (1) there are differences in STEM and conventional learning on concepts understanding and the use of STEM learning is more effective than the conventional one; (2) there are differences in the results of understanding the concept between male and female students where male students are higher than female students; and, (3) there is no interaction between learning and gender towards concepts understanding. The research recommends designing the STEM-integrated ESciT learning to be relevant with the indicator measurements and to manage the learning effectively to obtain optimum learning outcome.
+Yazar isimleri: ['Antomi SAREGAR']
+Yayın Yılı: 15 Temmuz 2019
+Dergi ismi: European Journal of Educational Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/eujer/issue/47089/592203
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/762254

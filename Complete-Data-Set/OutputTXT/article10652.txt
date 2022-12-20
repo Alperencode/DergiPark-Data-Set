@@ -1,0 +1,7 @@
+Makale Başlığı: DİSLİPİDEMİ VE COVİD 19 ENFEKSİYON RİSKİ ARASINDAKİ İLİŞKİ
+Özet: AMAÇ: Son zamanlarda ortaya çıkan koronavirüs (COVID-19) salgını, küresel bir halk sağlığı sorunu haline gelmiştir. Hipertansiyon, diabetes mellitus, obezite, kronik kalp ve akciğer hastalıkları, COVID-19 enfeksiyonu ve ciddi COVID-19 hastalığı gelişme riskini artırır. Bu çalışmada; hiperlipideminin tek başına COVID-19 enfeksiyonu gelişme riskini artırıp artırmadığını amaçladık.GEREÇ VE YÖNTEM: Bu çalışmaya COVID-19 tanısı ile hastaneye yatırılan ve herhangi bir kronik hastalığı olmayan 134 hasta ile 122 sağlıklı kontrol alındı. Hasta grubunun başvurudan önceki son 6 aydaki lipid değerlerinin ortalaması hesaplandı. Kontrol grubunun da yine son 6 aylık lipid parametrelerinin ortalaması alındı.BULGULAR: İki grup arasında yaş, cinsiyet ve laboratuvar özellikleri açısından fark yoktu. COVID-19 hastaları, kontrol deneklerine kıyasla önemli ölçüde daha yüksek trigliserit ve düşük yoğunluklu lipoprotein kolesterol değerlerine ve önemli ölçüde düşük yüksek yoğunluklu lipoprotein kolesterol seviyelerine sahipti (p <0.01).SONUÇ: Dislipidemi ve COVID-19 ile ilgili mevcut araştırmalar sınırlı olmakla birlikte, bulgularımız serum kolesterol düzeylerinin COVID-19 gelişme riski ile önemli ölçüde ilişkili olduğunu göstermektedir.
+Yazar isimleri: ['Mustafa KUZEYTEMİZ']
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Kocatepe Tıp Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kocatepetip/issue/72939/962183
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1858927

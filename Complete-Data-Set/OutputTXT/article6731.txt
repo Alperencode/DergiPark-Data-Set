@@ -1,0 +1,7 @@
+Makale Başlığı: Certain results on hybrid relatives of the Sheffer polynomials
+Özet: The multi-variable special matrix polynomials have been identified significantly both in mathematical and applied frameworks. Due to its usefulness and various applications, a variety of its extensions and generalizations have been investigated and presented. The purpose of the paper is intended to study and emerge with a new generalization of Hermite matrix based Sheffer polynomials by involving integral transforms and some known operational rules. Their properties and quasi-monomial nature are also established. Further, these sequences are expressed in determinant forms by utilizing the relationship between the Sheffer sequences and Riordan arrays. An analogous study of these results is also carried out for certain members belonging to generalized Hermite matrix based Sheffer polynomials.
+Yazar isimleri: ['Ghazala YASMİN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/799211
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1306528

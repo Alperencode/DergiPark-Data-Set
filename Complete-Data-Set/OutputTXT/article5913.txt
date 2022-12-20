@@ -1,0 +1,7 @@
+Makale Başlığı: Constacyclic and Negacyclic Codes over $\mathbb{F}_{2}+u\mathbb{F}_{2}+v\mathbb{F}_{2}$ and their Equivalents over $\mathbb{F}_{2}$
+Özet: In this work, we consider the finite ring $\mathbb{F}_{2}+u\mathbb{F}_{2}+v\mathbb{F}_{2}$, $u^{2}=1, v^{2}=0$, $u\cdot v=v\cdot u=0$ which is not Frobenius and chain ring. We studied constacyclic and negacyclic codes in $\mathbb{F}_{2}+u\mathbb{F}_{2}+v\mathbb{F}_{2}$ with odd length. These codes are compared with codes that had priorly been obtained on the finite field $\mathbb{F}_{2}$. Moreover, we indicate that the Gray image of a constacyclic and negacyclic code over $\mathbb{F}_{2}+u\mathbb{F}_{2}+v\mathbb{F}_{2}$ with odd length $n$ is a quasicyclic code of index $4$ with length $4n$ in $\mathbb{F}_{2}$. In particular, the Gray images are applied to two different rings $S_{1}=\mathbb{F}_{2}+v\mathbb{F}_{2}$, $v^{2}=0$ and $S_{2}=\mathbb{F}_{2}+u\mathbb{F}_{2}$, $u^{2}=1$ and negacyclic and constacyclic images of these rings are also discussed.
+Yazar isimleri: ['Mustafa ÖZKAN', 'Berk YENİCE', 'Ayşe Tuğba GÜROĞLU']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Fundamental Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fujma/issue/72663/1124502
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2460358

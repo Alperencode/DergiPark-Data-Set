@@ -1,0 +1,7 @@
+Makale Başlığı: THE RELATIONSHIP BETWEEN ALCOHOL AND TOBACCO USE AND SUICIDE RATE: A PANEL DATA ANALYSIS ON OECD COUNTRIES
+Özet: The aim of this study was to investigate the relationship between alhocol and tobacco use and suicide rate in OECD countries. To investigate this relationship and to reveal the impact of alcohol and tobacco use on suicide rate, data of 21 OECD countries were analyzed by pane data regression method. Within the scope of the research, the annual data of the countries for the 2000-2019 periods were used. Accortding to the results of panel data analysis, it was detected that there is a positive relationship between the independent variables (alcohol and tobacco use) and the dependent variable (suicide rate). While the effect of alcohol use on suicide rates was statistically significant (P<0.05), the positive effect of tobacco use was not statistically significant (P>0.05). It is possible to say that by increasing the prices with a pricing strategy that encourages the reduction of alcohol and cigarette use in the society, a decrease in suicide cases can be achieved.
+Yazar isimleri: ['Ümit ÇIRAKLI', 'Emine ASLAN', 'Osman ŞENOL', 'Durmuş GÖKKAYA']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uluslararası Sağlık Yönetimi ve Stratejileri Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/usaysad/issue/72382/1139861
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2522608

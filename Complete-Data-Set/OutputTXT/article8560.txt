@@ -1,0 +1,7 @@
+Makale Başlığı: ÇOK KRİTERLİ KARAR VERME YÖNTEMLERİ İLE TÜRKİYE’DE HES (HİDROELEKTRİK SANTRAL) SEÇİMİ
+Özet: Güncel olarak Sanayi Devrimi’nden sonraki yıllarda enerji kaynakları, toplumlarda insanlığın ve üretim faaliyetlerinin gelişmesi açısından çok büyük önem taşımıştır. Sanayi devriminden bu yana modern medeniyetlerin gelişim göstermesinde etkin bir kuvvet pozisyonunda bulunmuştur. Sanayi devriminin ardından ortaya çıkmış olan teknolojik kapsamlı gelişmelerde artış görülmesi doğrudan enerji kaynaklarına bağlı olmaktadır. Son 2 yüzyıl süresince kullanımı devam etmekte olan fosil nitelikli enerji yakıtlarının meydana getirdiği doğa zararlarının, güncel olarak gittikçe artış göstermesi, insanların enerji gereksinimleri açısından alternatif kaynak arayışına girmesine sebebiyet vermiştir. Bu çalışmada çok kriterli karar verme yöntemlerinden biri olan TOPSIS yöntemi kullanılarak 6 kriter belirlenmiş olup; bu kriterlere dair birimler ve kodlarla Hidroelektrik Enerji Santrallerinin kurulumları değerlendirilmiştir. Bu çalışmada çeşitli bölgelerden 17 adet baraj ele alınmış olup; çeşitli kriterlerin puanlandırılması ile birtakım analizler ortaya konmuştur.
+Yazar isimleri: ['Semra ALBAYRAK', 'Münevver TURANLI']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ticaretfbd/issue/70676/1113158
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2413515

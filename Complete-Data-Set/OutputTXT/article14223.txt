@@ -1,0 +1,7 @@
+Makale Başlığı: TCMB Ağırlıklı Ortalama Fonlama Maliyetinin Modellenmesi: LNV-ARMA Yaklaşımı
+Özet: Bu çalışmada, 2011:01-2020:12 dönemine ait Türkiye Cumhuriyet Merkez Bankası Ağırlıklı Ortalama Fonlama Maliyeti (Faiz Oranı) aylık zaman serisi modellenmiştir. Bu çerçevede, iki ayrı grupta doğrusal ve doğrusal olmayan temelli çeşitli otoregresif (bütünleşik) hareketli ortalama modelleri kurularak karşılaştırılmış ve seriye en uygun model araştırılmıştır. Sonuç olarak, ilgili faiz oranı serisinin bahsi geçen dönem için en iyi LNV-ARMA(2,1) modeli ile modellenebileceği ortaya konmuştur. Bu çalışmanın ilk yeniliği, bu faiz oranının diğer makroekonomik değişkenlerle ilişkisini araştırmak yerine ilgili faiz oranının kendisini modellememizdir. Bu çalışmanın ikinci yeniliği, LNV metodolojisini uygulayarak birim kök sorununu aşmamız ve daha açıklayıcı bir zaman serisi modeli oluşturmamızdır.
+Yazar isimleri: ['Şiyar CANPOLAT']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1003138
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2003793

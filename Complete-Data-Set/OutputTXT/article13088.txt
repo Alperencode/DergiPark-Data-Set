@@ -1,0 +1,7 @@
+Makale Başlığı: İşlevsel Geçişli Gözenekli Yapıların Tasarımı ve Eklemeli Üretilen Parçalar Arasındaki Uyumluluğun Araştırılması
+Özet: Bu çalışmada, Ti-6Al-4V geçişli gözenekli yapıların üç farklı birim hücre yapısı için gözeneklilik oranlarındaki sapmalar araştırılmıştır. Bu amaçla, işlevsel geçişli hücresel yapılar tasarlanmış ve seçici lazer ergitme yöntemiyle üretilmiştir. Ayrıca birim hücre yapısının, birim hücre boyutunun ve kolon (dikme) kalınlığının gözenek boyutlarındaki sapma seviyesi üzerindeki etkilerinin araştırılması amaçlanmıştır. Numuneler, üretim sonrası yapı boyutunu belirlemek için mikro bilgisayarlı tomografide (mikro-BT) taranmıştır. Mikro-BT'den elde edilen sonuçlara göre, geçişli gözenekli tüm hücre yapılarının kolon kalınlık değerlerinde ortalama 150-300 μm arasında değişen artışlar gözlenmiştir. Kübik ve sekizyüzlü yapıların yatay kolonlarında üretim sırasında ergiyen metal sebebiyle sarkmalar oluştuğu gözlenmiştir. Üretilen parçaların gözenekliliği, tasarım değerleri ile karşılaştırıldığında kübik yapıda %5.71-%10.54, sekizyüzlü yapıda %8.59-12.39 ve elmas yapıda %13-16.49 aralıklarında değişen oranlarda sapmaların oluştuğu tespit edilmiştir.
+Yazar isimleri: ['Mehmet Çağrı TÜZEMEN', 'Elmas SALAMCI', 'Oğuzhan YILMAZ', 'Rahmi ÜNAL']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/891080
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1617631

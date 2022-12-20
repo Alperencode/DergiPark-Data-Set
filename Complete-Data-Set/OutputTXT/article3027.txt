@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison of Ensemble and Base Learner Algorithms for the Prediction of Machining Induced Residual Stresses in Turning of Aerospace Materials
+Özet: 
+Yazar isimleri: ['Selim BUYRUKOĞLU', 'Sinan KESRİKLİOĞLU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bitlis Eren Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bitlisfen/issue/72854/1130044
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2483515

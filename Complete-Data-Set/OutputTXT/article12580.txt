@@ -1,0 +1,7 @@
+Makale Başlığı: Synthesis and Photophysical Properties of Pyrene-BODIPY Functionalized Subphthalocyanine Dyad
+Özet: The treatment of boron(III) subphthalocyanine chloride (SubPcCl) with borondipyrromethene (BODIPY) derivative consisting one pyrene group in toluene gave the corresponding axially substituted boron(III) subphthalocyanine dyad (SubPcBodiPy). Novel compound has been fully characterized by FTIR, mass, NMR (1H and 13C) spectroscopy and elemental analysis. Photophysical properties of SubPcBodiPy was investigated and compared with its precursors by fluorescence and absorption spectroscopy in THF. Accordingly, fluorescence lifetimes were measured directly by single exponential calculation.
+Yazar isimleri: ['Seda ÇETİNDERE']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Open Journal of Nano
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ojn/issue/68194/1053225
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2174054

@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison of PCA and RFE-RF Algorithm in Bankruptcy Prediction
+Özet: Machine learning prediction models are very important in detecting companies without going into financial distress and have recently become one of the most important research topics in empirical finance. While developing models in this area, data preprocessing steps are applied to make the data ready for analysis. One of these steps is the feature selection method, which can be defined as reducing the size of the financial ratios used as input in the data set. This stage is the process of choosing the best subset of features to be used in the research, or in other words, the selection of the most important features that can represent the data. In this paper, two different feature selection methods, Principal Component Analysis (PCA) and Random Forest - Recursive Feature Elimination (RF-RFE)) are compared. Commercial companies operating in Turkey were used in the experiments. The correct prediction success of the selected features was tested with AdaBoost and Stochastic Gradient Descent model. Our experimental results show that RF-RFE is a more efficient feature selection method compared to PCA.
+Yazar isimleri: ['Yusuf AKER']
+Yayın Yılı: 17 Ekim 2022
+Dergi ismi: Gümüşhane Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gumus/issue/73042/1078348
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2272320

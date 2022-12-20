@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRK VERGİ SİSTEMİNDE DİJİTAL DÖNÜŞÜM VE VERGİ GÜVENLİĞİ ETKİNLİĞİ ÜZERİNDEKİ ROLÜ
+Özet: Bilgisayar ve dijital sistemlerin/araçların süratle gelişmesi, internetin hemen her anlamda insan hayatının bütün noktalarına nüfuz etmesi bireylerin olduğu kadar kurum ve kuruluşların da bu değişime uyum sağlama zorunluluğunu beraberinde getirmektedir. Çeşitli çalışma alanları bu değişime hazırlanırken kimi çalışma alanları ile hâlen dijital dönüşüm süreçlerine ilişkin çeşitli çalışmalar konusunda başlangıç düzeyindedir. Bu çalışma kapsamında Türk Vergi Sistemi'nde dijital dönüşüm ve vergi güvenliğinin etkinliği üzerindeki rolü incelenmiş, oluşturulan bir model aracılığıyla ampirik bir araştırma yapılmıştır. Araştırma modeli olarak Birleştirilmiş Teknoloji Kullanım ve Kabullenme Teorisi'ne göre uyarlanmış nicel araştırma yönteminden faydalanılmıştır. Belirlenen hipotezleri test etmek için geliştirilen anket Eskişehir ilinde faaliyette bulunan 418 Serbest Muhasebeci Mali Müşavir tarafından cevaplandırılmıştır. Verilerin analizinde SPSS 24.0 istatistik programı kullanılmıştır ve sonuçların oluşturulan hipotezleri desteklediği görülmüştür.
+Yazar isimleri: ['Sema TOLKUN']
+Yayın Yılı: 6 Ekim 2022
+Dergi ismi: Anadolu Akademi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/anadoluakademi/issue/72937/1185384
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2693257

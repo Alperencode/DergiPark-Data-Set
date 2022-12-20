@@ -1,0 +1,7 @@
+Makale Başlığı: On (quasi-)morphic property of skew polynomial rings
+Özet: The  main objective of  this paper is to study  (quasi-)morphic property of skew polynomial rings. Let $R$ be a ring, $\sigma$  be  a ring homomorphism on $R$ and $n\geq 1$. We show that $R$ inherits the quasi-morphic property  from $R[x;\sigma]/(x^{n+1})$.It is also proved that the morphic property over $R[x;\sigma]/(x^{n+1})$ implies that  $R$ is a regular ring.   Moreover, we characterize a unit-regular ring $R$ via  the morphic property of  $R[x;\sigma]/(x^{n+1})$.  We also investigate the relationship  between strongly regular rings and centrally morphic rings. For instance, we show that for  a  domain $R$,   $R[x;\sigma]/(x^{n+1})$  is (left) centrally morphic if and only if $R$ is a division ring and $\sigma(r)=u^{-1}ru$ for some $u\in R$. Examples which delimit and illustrate our results are provided.
+Yazar isimleri: []
+Yayın Yılı: 16 Temmuz 2022
+Dergi ismi: International Electronic Journal of Algebra
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ieja/issue/71261/1102387
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2369872

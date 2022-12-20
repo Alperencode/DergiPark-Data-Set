@@ -1,0 +1,7 @@
+Makale Başlığı: Classification of Single and Combined Power Quality Disturbances Using Stockwell Transform, ReliefF Feature Selection Method and Multilayer Perceptron Algorithm
+Özet: 
+Yazar isimleri: ['Düzgün AKMAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: NATURENGS
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/naturengs/issue/70976/1033182
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2117997

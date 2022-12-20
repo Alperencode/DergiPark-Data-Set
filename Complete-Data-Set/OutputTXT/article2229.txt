@@ -1,0 +1,7 @@
+Makale Başlığı: Minimization of Labor Costs in Textile Manufacturing with Dynamic Programming
+Özet: In the increasingly competitive world today, it has become an inevitable necessity for labor-intensive garment companies to use their employees effectively in order to maintain their profitability and ensure their continuity.  Thus, the aim is to ensure that the production process is of the desired time and quality while optimizing the labor costs, which constitute a large part of the total costs. In recent years, dynamic programming has been used widely in order to overcome problems that may arise in the optimization of labor costs, shift planning, inventory control, transportation problems. For this reason, in this study, dynamic programming was used to optimize the labor costs of a contract sewing workshop operating in Istanbul and the results were presented to the establishment.
+Yazar isimleri: ['Hanefi GEZER']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1080355
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2280006

@@ -1,0 +1,7 @@
+Makale Başlığı: 4 Wheel Steering System Control Unit Design
+Özet: Ease of driving and flexibility in movements are very important for the developing automobile technology today. The aim of the study is to provide convenience to the driver by trying different modes in the steering system of a vehicle. In this study, an electronic board has been designed for the steering system for the 4 wheels in the vehicle. With the electronic card made, the user is given the opportunity to choose from 3 different modes (standard, circle, crab). The modes that the user chooses according to the situations provide advantages. The 4-wheel steering system improves handling stability and active safety at high speeds. Using 4-wheel steering at low speeds can reduce the turning radius on the steering wheel for more convenient manoeuvres. Positive feedback is received from the users who have tried it, and the system continues to be tested on different vehicles, and if any, vulnerabilities are tried to be detected. It is planned to easily solve the problems and developments that may occur with the electronic card design. The 4WS controller developed has been tested on the vehicle. The results obtained are satisfactory. It shows good response performances also improves ride quality and stability.
+Yazar isimleri: ['Aynur Tuba ÇAKMAK']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Balkan Journal of Electrical and Computer Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bajece/issue/70568/969569
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1874409

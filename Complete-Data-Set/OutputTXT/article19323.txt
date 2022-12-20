@@ -1,0 +1,7 @@
+Makale Başlığı: Rapid Change in the Number of Investments in Stock Markets: The Case of Turkey
+Özet: During the Covid-19 period in Turkey, the number of investors in the stock market has increased in an unprecedented way. The change in the number of investors is associated with many factors such as behavioural factors, macroeconomic indicators, and returns on alternative investment instruments. However, in Turkey, with the effect of the recession, companies started to be offered to the public to be funded by their own sources. This study examines the relationship between the initial public offering index (IPO), the USA dollar rate, the largest alternative to the local currency, the Borsa Istanbul index, and the number of investors, using VAR analysis with data between 2012-2022. Although the results show a positive relationship between the IPO and the number of investors, the increase in the number of investors will not maintain the current trend due to the limited number of companies to be offered to the public.
+Yazar isimleri: ['Volkan KAYMAZ', 'Aykut AKDAĞ']
+Yayın Yılı: 24 Haziran 2022
+Dergi ismi: Iğdır Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/igdiriibf/issue/70314/1130649
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2486013

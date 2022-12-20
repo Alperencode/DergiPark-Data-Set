@@ -1,0 +1,7 @@
+Makale Başlığı: WC Seramik Esaslı Ni Katkılı Kompozitlerin Difüzyon Kaynağı Kabiliyetinin Araştırılması
+Özet: Bu çalışmada, Ni kaplanmış WC tozlarından üretilen (WC)Ni kompozit ve kaplanmamış WC-Ni tozlardan oluşturulan (WC)Ni/(WC)Ni ve WC-Ni/WC-Ni numune çiftleri difüzyon kaynağı ile birleştirme için kullanılmıştır. Difüzyon kaynağı Ar atmosferi altında önceden yüklenmiş sıkıştırma sistemi ile yapılmıştır. Bağlama basıncı ve sıcaklığı değiştirilerek difüzyon kaynaklı çiftler elde edimiştir.. Difüzyon kaynaklı çiftlerin çekme makaslama testi için Schimadzu 100kN üniversal çekme makinesi kullanılmıştır. Çekme makaslama testi sonuçları, akımsız nikel kaplanmış WC(Ni) kompozit difüzyon çiftinin diğer difüzyon çiftine kıyasla en iyi çekme makaslama dayanımına 35,4 MPa sahip olduğunu göstermiştir. 200 ila 400HV arasında değişen sertlik değerleri belirlenmiştir. Çalışma da elde edilen kompozitlerin ve difüzyon kaynaklı numunelerin mikro yapısal incelenmesi ve kaynak ara yüzeyinde oluşan parçacıkları analiz etmek için SEM ve XRD analiz sisteminlerinden yararlanılmıştır.
+Yazar isimleri: ['Ahmet YÖNETKEN', 'Ayhan EROL']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/823822
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1389342

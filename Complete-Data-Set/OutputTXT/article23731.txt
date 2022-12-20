@@ -1,0 +1,7 @@
+Makale Başlığı: Tedarikçi Tercihlerinin Topsis Yöntemi İle Analizi: Bir Hediyelik Eşya Mağazası Üzerine Araştırma
+Özet: Turistlerin, bir destinasyonu ziyaret ettiğini hatırlamak ve yanlarında bir anı götürmek için birçok hediyelik ürünün satıldığı hediyelik eşya mağazalarının, bölgenin pazarlanması, daha fazla talep alması, bölgede istihdam oranının artması gibi olumlu etkileri bulunmaktadır. Bu olumlu etkiler dikkate alındığında, hediyelik eşya mağazalarının, turiste arz edeceği ürünleri temin ederken karar verme sürecini doğru yönetmeleri gerekmektedir, aksi durumda işletmenin alanında rekabet etme ve istihdam sağlama gücünün azalması ayrıca öz kaynaklarında kayıplar meydana gelmesi gibi olumsuz sonuçlar doğacaktır. Bu araştırmada Türkiye’de en çok turist çeken destinasyonlar arasında ikinci sırada bulunan Mevlânâ Müzesi’ne yakın konumda faaliyet göstermesi sayesinde yoğun müşteri ağırlayan bir hediyelik eşya mağazasının tedarikçi tercihi, çok kriterli karar verme yöntemlerinden TOPSIS yöntemiyle değerlendirilmiştir. Analiz sonucuna göre; mağaza için en fazla öneme sahip olan ürün kalitesi, ürün çeşitliliği, indirim gibi kriterler açısından tedarikçiler sıralanmıştır.
+Yazar isimleri: ['Mete SEZGİN', 'Tuba BAĞCI']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Selçuk Üniversitesi Akşehir Meslek Yüksekokulu Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/akmyosb/issue/71096/1123371
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2455798

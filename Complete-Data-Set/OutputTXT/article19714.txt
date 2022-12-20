@@ -1,0 +1,7 @@
+Makale Başlığı: TFRS 10 Standardı Konsolide Finansal Tablolar: Bir Uygulama Örneği
+Özet: İşletmelerin ana ortaklığıyla bağlı ortaklığı arasındaki ilişkiler, yatırım yapmak isteyen yatırımcıları, vergi talep eden devleti, kredi veren kuruluşları ve diğer tarafların bu işletmelerin mali tablolarını anlamalarını zorlaştırmaktadır. Firmaların kamuya daha şeffaf ve güvenilir mali tablo sunmaları bu sebeple önem arz etmektedir. Bu tabloların anlaşılabilmesi TFRS 10 Standardında ki gibi konsolide edilmesi gerekmektedir. Çalışmamızın amacı uygulamada zor olan bu düzenlemeye konsolide finansal tabloların hazırlanması ve muhasebeleştirmesine yönelik örnek bir uygulamayla bilime katkı sunmaktır. Çalışmamızda literatür taraması yöntemiyle konsolide bilançolar hakkında bilgi verilecek, uygulama monografisiyle konsolide finansal tabloların hazırlanması, muhasebeleştirilmesi gösterilecektir. Bu çalışma, muhasebe eğitiminde standardın bilimsel olarak anlaşılmasına yardımcı olacaktır.
+Yazar isimleri: ['Zülkif YALÇIN']
+Yayın Yılı: 31 Aralık 2020
+Dergi ismi: İzmir YMMO Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/izmirymmodergisi/issue/61138/853195
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1486741

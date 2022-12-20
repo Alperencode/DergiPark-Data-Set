@@ -1,0 +1,7 @@
+Makale Başlığı: Gradient Weyl-Ricci Soliton
+Özet: The classical notion of gradient Ricci soliton is extended here to the gradient Weyl-Ricci soliton. A Weyl structureofthebasemanifold M is lifted to its tangent bundle TM, by using the Sasaki metric. We give some necessary and sufficient conditions such that the Weyl structure on TM to be a gradient Weyl-Ricci soliton.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783626
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

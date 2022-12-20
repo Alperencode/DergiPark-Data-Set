@@ -1,0 +1,7 @@
+Makale Başlığı: Doğrusal Fresnel kolektörün performans analizi
+Özet: Güneş enerjisini daha verimli kullanmak için büyük bir potansiyele sahip olan doğrusal Fresnel kolektörlerin tasarım sürecinde performanslarını en doğru şekilde analiz edebilmek için doğrulanmış bir simülasyon modeline ihtiyaç vardır. Bu amaçla Doğrusal Fresnel kolektörün ısı transfer kapasitesini daha iyi anlamak için Harran Üniversitesi GAPYENEV bünyesinde kurulu sisteme ait geometrik model ve optik değerler hem ANSYS Fluent hem de Tonatiuh kullanılarak simüle edilmiştir. Simülasyonlar sonucunda sistemin optik verimini ve alıcı içerisindeki soğurucu boru üzerine düşen ışınım dağılımı bulunarak karşılaştırılmıştır. Alıcıdan gerçekleşen ısı kayıpları bulunarak faydalı enerji miktarı hesaplanmıştır. Seçilen ısı transfer akışkanı için sabit debi ve giriş sıcaklığında simülasyonu yapılarak sistemin ısıl verimi bulunmuştur.  Doğrusal Fresnel kolektörün deneysel verilerle elde edilen ısıl verimi 0.348 bulunurken ANSYS Fluent modeli ile hesaplanan ısıl verimi 0.3223 olarak bulunmuştur.
+Yazar isimleri: ['Erdal YILDIRIM']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazimmfd/issue/72928/1048446
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2159527

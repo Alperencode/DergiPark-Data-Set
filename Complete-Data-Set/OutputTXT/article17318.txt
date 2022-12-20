@@ -1,0 +1,7 @@
+Makale Başlığı: The Effect of Positive Psychology Education on Well-Being According to the PERMA Model
+Özet: The aim of this research is to examine the effect of Positive Psychology education on the well-being of university students according to the PERMA model. Quasi Experimental design including pre-post test without control group was used in the study. The sample of the research consists of 1209 students studying at Üsküdar University and agreeing to participate in the research. The PERMA Scale was used as a data collection tool in the study. In the study, the Paired Sample t-Test was applied to compare the pre-test and post-test of students' PERMA scores. In addition, Independent Sample t-test was performed to compare PERMA sub-dimension and total scores by gender. The analyzes were carried out using SPSS 25.0 after controlling the skewness and kurtosis values that provide the normality criterion of the data. According to the research findings, PERMA model and the Positive Psychology course taken during a term (14 weeks) were found as significantly and positively corralated. The study is important in terms of evaluating the positive psychology-oriented practice with an experimental research aimed at improving the lives of university students.
+Yazar isimleri: ['Zeynep GÜMÜŞ', 'Remziye KESKİN', 'Nevzat TARHAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Üsküdar Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/uskudarsbd/issue/70963/995256
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1973735

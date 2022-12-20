@@ -1,0 +1,7 @@
+Makale Başlığı: Taş Dolgu Dalgakıranların Koruma Tabakasında Taş veya Antifer Maliyet Analizi
+Özet: Bu çalışmada taş dolgu dalgakıranlarda çeşitli eğimler için farklı dalga yükseklikleri ve su derinliklerinde dalgakıran kesitleri hazırlanmıştır. Hazırlanan kesitler çekirdek tabakası, çift sıra filtre tabakası ve çift sıra düzenli yerleştirilmiş koruma tabakasından oluşmaktadır. Dalgakıran kesitlerinde Hudson bağıntısı kullanılarak koruma tabakasındaki blok ağırlıkları ve kullanılacak elemanların seçimi yapılarak maliyetler hesaplanmıştır. Maliyetler arasındaki farklar yapı eğimi, su derinliği, dalga kırılma durumu ve dalga yüksekliği gibi parametrelere bağlı olarak değerlendirilmiştir. Yapı eğimindeki artış stabilite üzerinde olumlu etkiye sahipken, proje dalga yüksekliğindeki artış olumsuz etki göstermektedir. Su derinliği ve proje dalga yüksekliği yanında dalgakıran eğimi de maliyetler üzerinde önemli bir etkiye sahiptir. Ayrıca, aynı tasarım koşullarında dalgakıranların kafa kısmındaki koruma tabakası ağırlığının gövdedekinden daha yüksek olduğu görülmektedir. Buradan dalgakıranların kafa kısmının daha hassas olduğu anlaşılmaktadır.
+Yazar isimleri: ['Sepanta NAİMİ', 'Emrah METİN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: AURUM Mühendislik Sistemleri ve Mimarlık Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ajesa/issue/71007/951026
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1818748

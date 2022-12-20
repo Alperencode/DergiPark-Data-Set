@@ -1,0 +1,7 @@
+Makale Başlığı: TORBALAMA KARAR AĞACI TABANLI MAKINE ÖĞRENIMI KULLANARAK GÜNEŞ IŞINIMI TAHMİNİ
+Özet: Yenilenebilir enerji kaynaklarından biri olan güneş ışınımlarının dünya yüzeyine düşen miktarının değişken olması bu kaynağı kullanan özellikle elektrik güç üretim sistemlerinin çıktısında belirsizlik yaratır. Bu nedenle güneş ışınımı tahmini planlamada çok önemli bir süreç haline gelmektedir. Bu makale, torbalama karar ağacı tabanlı makine öğrenimini kullanarak güneş ışınımının kısa vadeli bir tahminini elde etmeyi amaçlamaktadır.  Önerilen yöntemin girdileri olarak hava sıcaklığı, saat, gün, ay ve önceki güneş ışınım değeri belirlenmiştir. Yöntemin performansı ölçülen veriler üzerinde test edilmiştir. Elde edilen sonuçlara göre R2 ve RMSE değeri sırasıyla 0.87 ve 91.282 olarak bulunmuştur. Sonuç olarak bu yöntem ile değişen güneş ışınımlarının kabul edilebilir farklılıklarla tahmin edilebilir olduğu ortaya konmuştur.
+Yazar isimleri: ['Hayrettin TOYLAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Kırklareli Üniversitesi Mühendislik ve Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/klujes/issue/70928/1106357
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2386042

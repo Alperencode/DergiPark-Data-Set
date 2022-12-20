@@ -1,0 +1,7 @@
+Makale Başlığı: Eğitim Örgütlerinde Grup İçi Bağlılık: Bir Ölçek Geliştirme Çalışması
+Özet: Bu çalışmada öğretmenlerin grup içi bağlılık düzeylerini ölçmek üzere eğitim örgütleri için “Grup İçi Bağlılık Ölçeği”nin geliştirilmesi amaçlanmıştır. Bu doğrultuda, 2019-2020 eğitim-öğretim yılında Uşak il merkezinde görev yapan 320 öğretmenden elde edilen veriler analiz edilmiştir. Ölçeğin geçerlik çalışması kapsamında açımlayıcı faktör analizi yapılmış (AFA) ve sonuçlar doğrulayıcı faktör analizi (DFA) ile test edilmiştir. Boyutların ilişkisini belirlemek amacıyla boyutlar arası korelasyon analizi gerçekleştirilmiştir. Ölçeğin güvenirliğinin belirlenmesi adına çalışmada Cronbach alfa güvenirlik katsayısı belirlenmiş ve madde-toplam puan korelasyonları incelenmiştir. Gerçekleştirilen analizler sonucu geliştirilen ölçeğin üç faktörlü bir yapıya sahip olduğu belirlenmiştir.  Ölçek maddelerinin faktör yük değerleri 0,49 ile 0,76, madde-toplam korelasyonları 0,30 ile 0,76, güvenirlik katsayıları ise 0,70 ile 0,80 arasında değişmektedir. Geliştirilen ölçeğin, öğretmenlerin grup içi bağlılıklarını ölçmek adına geçerli ve güvenilir bir ölçme aracı olduğu söylenebilir.
+Yazar isimleri: ['Ahmet YURDAKUL', 'Kazım ÇELİK']
+Yayın Yılı: 22 Ağustos 2022
+Dergi ismi: Mersin Üniversitesi Eğitim Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mersinefd/issue/71455/950409
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1816558

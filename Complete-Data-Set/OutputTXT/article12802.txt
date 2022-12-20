@@ -1,0 +1,7 @@
+Makale Başlığı: Radiation Permeability and Absorption Coefficients in Optical Glass and its Types
+Özet: Linear absorption coefficients and mass absorption coefficients of glass types when exposed to radiation at certain energy levels were compared experimentally in the X-ray fluorescence laboratory. In this study, Fe-55 X-ray source and Am-241 gamma ray source were used to determine the radiation transmittance of optical glass, frosted glass, laminated glass, black glass and double glass samples. Experimentally, linear absorption coefficients and mass absorption coefficients of glass samples were found at energies of 5.9 keV, 17 keV, 26 keV and 59.543 keV. The absorption coefficient of the glass samples was calculated and the percentages were compared. As a result of experimental work and calculations, it has been shown that all samples absorbed the beam at 5.9 keV. The linear absorption coefficient was observed higher in optical glass at 17 keV and 26 keV, and higher in black glass at 59.543 keV.  Percent transmittances of the glasses are given in the table.
+Yazar isimleri: ['Şeyma BİBER TEMİRCİK']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1085364
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2300155

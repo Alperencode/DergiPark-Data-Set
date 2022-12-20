@@ -1,0 +1,7 @@
+Makale Başlığı: ULUSLARARASI YÖNETİM İKTİSAT VE İŞLETME DERGİSİ’NDE YAYINLANAN İKTİSAT MAKALELERİNİN BİBLİYOMETRİK ANALİZİ
+Özet: Bu çalışmada uluslararası, hakemli ve bilimsel bir dergi olan Uluslararası Yönetim İktisat ve İşletme Dergisi’nde 2005-2020 yılları arasında yayımlanmış olan iktisat makalelerinin bibliyometrik analizi yapılmıştır. Belirtilen dönemde derginin yayınlanmış 49 sayısında yer alan toplam 171 iktisat makalesi, bibliyometrik özellikleri açısından incelenmiştir. Yapılan incelemeler sonucunda, son 5-6 yılda dergide yayınlanan iktisat makalelerindeki artışın dikkat çekici düzeyde olduğu, makalelerin daha çok tek yazarlı ve iki yazarlı olarak hazırlandığı ve yazar unvanları içerisinde doktor öğretim üyelerinin ağırlıkta olduğu tespit edilmiştir. Bunun yanında, makalelerin dünya ve Türkiye ekonomisiyle ilgili güncel konuları incelemesi, makalelerde yabancı kaynak kullanımının ağırlıkta olması ve ortalama atıf sayısının Türkiye’de yayınlanan benzer dergilere göre nispeten iyi olması, derginin iktisat alanında üstün yönleri olarak belirlenmiştir. Derginin daha üst düzey endekslerde taranmaya başlaması, bu yönlerin daha çok güçlendirilmesi ve nispeten zayıf yönlerinin iyileştirilmesinde etkili bir faktör olacaktır.
+Yazar isimleri: ['Hamza ÇEŞTEPE', 'Özlem YÜKSEL']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Uluslararası Yönetim İktisat ve İşletme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijmeb/issue/72612/1075817
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2262445

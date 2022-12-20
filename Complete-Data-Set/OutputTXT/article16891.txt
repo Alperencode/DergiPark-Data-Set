@@ -1,0 +1,7 @@
+Makale Başlığı: Daldırma Metodu ile Üretilen TiO İnce Filmlerin Derişime Bağlı Elektriksel, Optik ve Yapısal Analizi
+Özet: Bu çalışmada, farklı derişimlerde (A1: 0,8 Molar, A2: 1,25x10-2 Molar, A3: 2,5x10-3 Molar) hazırlanan çözeltilere 2 şer kez 5 saniye daldırma metodu (Dip-coating) ile cam lameller üzerine TiO ince filmleri üretilmiştir ve üretilen bu filmler 500 °C’ de tavlanmıştır. Genel olarak amorf yapıya sahip bu filmlerin 2θ = 25,5° (1 0 1) Miller yönelim pikinde yayılma görülmüştür. Derişimin azalması ile küçük taneli yapılar, küresel şekilden daha irili ufaklı elipse doğru değişim göstermiştir. UV bölgede yansıtma özelliği oldukça fazla iken 400-700 nm görünür bölgede ise geçirgenlikleri oldukça fazladır. A1, A2 ve A3 derişimli TiO ince filmlerin enerji bant aralığı değerleri sırası ile Eg = 3,52 eV; 2,60 eV ve 3,03 eV olarak hesaplanmıştır. Derişimin artması ile elektriksel özdirenç değerlerinin artması, oksit alt tabakalardaki özel iletkenlikten dolayı metal benzeri tipik bir davranış gösterdiğinin kanıtıdır.
+Yazar isimleri: ['Necmi Serkan TEZEL', 'Fatma MEYDANERİ TEZEL', 'Afşin KARİPER']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1070390
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2241529

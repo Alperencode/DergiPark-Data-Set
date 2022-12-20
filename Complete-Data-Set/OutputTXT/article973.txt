@@ -1,0 +1,7 @@
+Makale Başlığı: Convergence and Stability Analysis of a New Four-Step Fixed-Point Algorithm
+Özet: 
+Yazar isimleri: ['Yunus ATALAN', 'Esra KILIÇ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Aksaray University Journal of Science and Engineering
+Yayın sayfa url: http://asujse.aksaray.edu.tr/tr/pub/issue/68039/1096163
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2343602

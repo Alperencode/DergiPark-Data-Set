@@ -1,0 +1,7 @@
+Makale Başlığı: Zeolitlerin Özellikleri ve Doku Mühendisliği Uygulamaları
+Özet: Zeolitler, volkanik aktiviteler sonucu yeryüzünde doğal olarak oluşan ve sentetik olarak da yüzlerce çeşitte üretilebilen zengin element içerikli alüminasilikat mineralleridir. Zeolitler ayırt edilebilir homojen poroz yapıya sahip, yüksek yüzey alanlı iyonik bileşiklerdir. Bu kimyasal ve mikroyapısal özellikler zeolitlere yüksek adsorpsiyon ve absorpsiyon kapasitesi, iyon-değişimi, moleküler seçicilik gibi etkinlikler sağlar. Bu çok yönlü üstün özellikler de zeolitlerin tarım ve hayvancılık sektörlerinden, enerji, teknoloji ve biyomedikal sektörlerine kadar çok geniş bir yelpazede etkin olarak araştırılıp kullanılmasının önünü açmıştır. Bu çalışmada zeolitlerin temel özellikleri, uygulama alanları ve spesifik olarak biyomedikal ve doku mühendisliğinde zeolitlerin önemi, güncel, potansiyel uygulama alanları araştırılarak öz bir şekilde ele alınmıştır.
+Yazar isimleri: ['Fatma Zehra KOCAK', 'Nilüfer KÜÇÜKDEVECİ']
+Yayın Yılı: 8 Aralık 2022
+Dergi ismi: Nevşehir Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/nevbiltek/issue/73743/1178348
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2663474

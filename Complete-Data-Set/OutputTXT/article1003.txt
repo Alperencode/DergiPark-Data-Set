@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of the Relationship Between Economic Freedom and Lending Interest Rates
+Özet: The concept of economic freedom is one of the important indicators showing the social welfare of countries, revealing the institutionalization structure, and showing the power of both legal persons and individuals to control their own labor and property, and to make production, consumption and investment decisions. It is expected that the increase in economic freedom in the society will increase the welfare level of the society and decrease the borrowing levels of the countries. In the study, the model developed by using the data of the G20 countries between 2010 and 2020 was estimated with the dynamic panel data method. As a result of the research, a negative significant relationship was determined between the lending interest rate and economic freedom. According to this result, it has been determined that as economic freedom increases in countries, the lending interest rate decreases.
+Yazar isimleri: ['Burak BÜYÜKOĞLU', 'Burcu BUYURAN', 'İbrahim Halil EKŞİ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1071556
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2246086

@@ -1,0 +1,7 @@
+Makale Başlığı: A Relation Between Maclaurin Coefficients and Laplace Transform
+Özet: In this paper, we formulate Maclaurin coefficients of a function, not necessarily analytic at point $0$, by using Laplace transform as follows:$$f^{\left(n\right)}\left(0\right)=\frac{1}{\left(n+1\right)!}\lim_{r\to+0}\frac{d^{n+1}}{dr^{n+1}}L\left\{f\right\}\left(\frac{1}{r}\right),$$where $L$ is the Laplace transform, $r=\frac{1}{s}$, $s$ is the variable of the Laplace transform and $n\in\mathbb{N}\cup\left\{0\right\}$. Also, we apply this formula on some functions. Finally, we give new formulas for Bernoulli numbers via Polygamma function and Hurwitz zeta function.
+Yazar isimleri: ['Ufuk KAYA']
+Yayın Yılı: 24 Ekim 2022
+Dergi ismi: Journal of Advanced Mathematics and Mathematics Education
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jamame/issue/73133/1169217
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2625203

@@ -1,0 +1,7 @@
+Makale Başlığı: TÜRKİYE’DE FAALİYET GÖSTEREN HAYAT DIŞI VE  HAYAT/EMEKLİLİK SEKTÖRLERİNİN PERFORMANS ANALİZİ
+Özet: Gerek hayat dışı branşta faaliyet gösteren sigorta şirketleri gerekse hayat/emeklilik branşında faaliyet gösteren şirketler Türkiye ekonomisinde önemli bir yere sahiptir. Bu sebeple sektör performanslarının periyodik olarak ölçülmesi önemlidir. Bu çalışmanın amacı TOPSIS yöntemini kullanarak hem hayat dışı hem de hayat/emeklilik şirketlerinin performansını 2010-2019 dönemi için analiz etmektir. Kriter ağırlıklarının hem eşit kabul edildiği hem de CRITIC yöntemine göre hesaplandığı, 16 kriterin kullanıldığı, hem finansal oranlar hem de teknik oranların dikkate alındığı çalışma sonuçlarına göre hayat dışı branşında 2012 ilgili periyotta en başarısız yıl olurken, sektörün en iyi yılı 2019 olmuştur. Hayat dışı branşta faaliyet gösteren şirketler 2012 ve 2015 yıllarında düşüş yaşamışlar, 2015 yılından sonra ise yükselen bir performans göstermişlerdir. Hayat/emeklilik branşında faaliyet gösteren şirketlerin en kötü yılı 2012 olurken en iyi yılı 2019 olmuştur. Fakat hayat/emeklilik şirketleri, hayat dışı branşında oluşan 2015 yılına ait düşüşü yaşamamışlardır. Sonuçta iki branşta da yükseliş olmakla birlikte performans örüntüleri farklıdır.
+Yazar isimleri: ['Alper OVA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Finans Ekonomi ve Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fesa/issue/72711/1118128
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2434277

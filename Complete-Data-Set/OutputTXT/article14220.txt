@@ -1,0 +1,7 @@
+Makale Başlığı: An Empirical Study on the Determinants of the Capital Structure in Turkish Textile and Apparel Firms
+Özet: This study aims to analyse the factors that influence the capital structure decisions of Turkish listed textile and apparel firms over the period from 2010 to 2019. The results of Driscoll and Kraay’s (1998) panel regression model show that the leverage ratio is significantly and negatively affected by firm size, profitability, liquidity, asset tangibility, and is positively affected by non-debt tax shields, growth opportunities, earnings volatility, and GDP growth. The pecking order theory seems to be the most successful in explaining the determinants of the capital structure of Turkish textile and apparel firms.
+Yazar isimleri: ['Ersan ERSOY']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Sosyoekonomi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sosyoekonomi/issue/73164/1057900
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2192295

@@ -1,0 +1,7 @@
+Makale Başlığı: Three-Dimensional Nb Nanopillar based Electrode for Energy Storage Devices
+Özet: In this study, aluminum (Al) film with high purity was coated on the Niobium (Nb) sheet by thermal evaporation under ultra-high vacuum. An Anodic Aluminum Oxide (AAO) nanotemplate was prepared on the Nb sheet. During AAO nanotemplate preparation, three-dimensional (3D) Nb nanopillars were grown on the Nb sheet. We performed a simple 3D Artificial Intelligence (AI) analysis of Nb nanopillars. According to the experimental results, the width of the prepared Nb nanopillars is in the range of 100–120 nm, and the length is approximately 150 nm. The Electron Diffraction Spectroscopy (EDS) results confirmed that the nanopillars are Nb. The prepared Nb nanopillars can be a potential candidate for energy storage applications.
+Yazar isimleri: ['Nevin TAŞALTIN', 'Elif TÜZÜN', 'Selcan KARAKUŞ']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of the Turkish Chemical Society Section A: Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jotcsa/issue/72258/1112145
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2409577

@@ -1,0 +1,7 @@
+Makale Başlığı: ORDER PICKER ROUTING PROBLEM IN A SINGLE BLOCK WAREHOUSE
+Özet: Sipariş Toplayıcı Rotalama Problemi, amacı siparişleri toplayarak depolama maliyetlerini ve mesafelerini en aza indirmek olan Sipariş Toplama Probleminin bir alt problemidir. Toplayıcı Rotalama Problemi (TRP) makul bir sürede çözülemeyen NP-Zor bir problem yapısına sahiptir. Bu problemi çözmek için literatürde farklı sezgisel algoritmalar geliştirilmiştir. Bu çalışmada, TRP’ yi bir online perakendecinin deposunda çözmek için geliştirilen sezgisel yöntemlerden bazıları incelenmektedir. Sonuçlar göstermektedir ki Orta Nokta Rotalama Sezgiseli tek blok depolarda uygulandığı takdirde diğer rotalama sezgiselleri ile kıyaslanırsa ortalama olarak daha iyi bir sonuç vermektedir.
+Yazar isimleri: ['Esra BOZ', 'Nil ARAS']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Turkish Operations Management
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jtom/issue/70951/1091208
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2323616

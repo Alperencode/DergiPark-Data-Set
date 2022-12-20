@@ -1,0 +1,7 @@
+Makale Başlığı: SABİT İKAME ESNEKLİĞİ ÜRETİM FONKSİYONUNUN PARAMETRELERİNİN YENİDEN DEĞERLENDİRİLMESİ
+Özet: Bu çalışmamız sabit ikame esnekliği üretim fonksiyonunun özelliklerini incelemektedir. Sabit ikame esnekliğini tanımlayan diferansiyel denklemin çözülmesiyle, bu çalışmada üretim fonksiyonuna ait yapısal değişkenler tam olarak elde edilmektedir. Literatürde ve daha önce modellenmiş sabit ikame esnekliği üretim fonksiyonlarında bu parametrelerin serbest olduğu varsayılmaktaydı. Hâlbuki bu çalışma üretim faktörlerinin dağılımı ve verimlilik parametrelerinin gelişigüzel sabitler olmadığını, ikame esnekliğinin birer fonksiyonu olduklarını ispat etmektedir. Ayrıca, bu iki değişken böylelikle, faktör üretkenliğinin sınır değer davranışlarını da açıklamaktadır. Bu bulgu, model parametreleri, faktör üretkenliği ve ekonomik büyüme hızı arasındaki ilişkinin tekrar ele alınması açısından literatüre katkı sunmaktadır. Bu çalışmanın sonuçları ek olarak faktör üretkenliklerinin sınır koşullardaki davranışını bilmenin daha zengin ekonomi-politik uygulamalara imkân tanıdığını göstermektedir. Böylelikle politika yapıcılar açısından, ekonomik büyüme hızını artırmayı hedefleyen alternatif politikalara alan açılmaktadır.
+Yazar isimleri: ['Ata ÖZKAYA']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Uluslararası Anadolu Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ulasbid/issue/70080/1134380
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2501519

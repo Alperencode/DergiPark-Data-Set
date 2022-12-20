@@ -1,0 +1,7 @@
+Makale Başlığı: Units and 2-class field towers of some multiquadratic number fields
+Özet: In this paper, we investigate the unit groups, the 2-class groups, the 2-class field towers and the structures of the second 2-class groups of some multiquadratic number fields of degree 8 and 16.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783654
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

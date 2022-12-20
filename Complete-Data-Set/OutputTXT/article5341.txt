@@ -1,0 +1,7 @@
+Makale Başlığı: CONSERVATION OF TRADITIONAL HOUSES AND A CASE STUDY ON SAFETY EVALUATION BY USING LIMIT ANALYSIS
+Özet: Most of the traditional houses in western Anatolia are a type of hımış (traditional timber frame) structure. Deterioration of these traditional houses is mostly due to their abandonment. Abandonment causes the structure’s load-bearing system vulnerable to environmental effects and ultimately weakens the structure against seismic loads. A case study is performed on the Orhaneli houses. Building-scale suggestions are proposed towards the conservation of these houses based on the performed analysis and documentation. The results of simplified limit analysis of 20 houses utilized in this study are presented and the need for finite element modeling of these structures with sophisticated connection detailing is underlined. It is observed that the majority of examined houses are resilient for the seismic events of 50% probability of exceedance in 50 years, however, they need to be retrofitted for the seismic events of 10% probability of exceedance in 50 years.
+Yazar isimleri: ['Zahide Sena GÜNEŞ KAYA', 'Selahattin ERSOY', 'Kemal Kutgün EYÜPGİLLER']
+Yayın Yılı: 18 Ağustos 2022
+Dergi ismi: Eskişehir Osmangazi Üniversitesi Mühendislik ve Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ogummf/issue/72210/1041637
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2150127

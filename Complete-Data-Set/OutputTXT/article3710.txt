@@ -1,0 +1,7 @@
+Makale Başlığı: Ankara İli Ayaş İlçesi Çiftçilerinin Domates Tarlalarında Kullanılan Damla Sulama Sistemlerinin Performans Değerlendirmesi
+Özet: Araştırmada domates yetiştiriciliği yapan çiftçilerin kullandığı damlama sulama sistemlerinin performansları ölçülmüştür. Bu amaçla İç Anadolu Bölgesinde Ankara ili Ayaş ilçesine bağlı köylerde bulunan bazı damla sulama sistemlerinin teknik performansları ölçülmüştür. Damla sulama sistemlerinin performansını ölçmek için her bir manifold hattı üzerinde 4 adet lateral hattı ve her bir lateralde 4 adet damlatıcı noktası seçilmiştir. Çalışmada, Uygulama Verimliliği (Ea) %29,5-63,6, Tekdüzelik Katsayısı (CU) %81,4-94,3, Dağıtım Tekdüzeliği (DU) %62,8-91,4, Emisyon Tekdüzeliği (AB) 58, %487,7, Alt Çeyrek Uygulama Verimliliği (AELQ) %33,4-%61,2 ve Alt Çeyrek Potansiyel Uygulama Verimliliği (PELQ) %52,5-78,9 olarak belirlenmiştir. Araştırmada elde edilen bulgulara göre, test edilen tüm alanlarda sistemde tasarım sorunlarının olduğu tespit edilmiştir.
+Yazar isimleri: ['Rohat GÜLTEKİN', 'Ceren GÖRGİŞEN', 'Pınar BAHÇECİ ALSAN', 'Tuğba YETER']
+Yayın Yılı: 25 Temmuz 2022
+Dergi ismi: ÇOMÜ Ziraat Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/comuagri/issue/71399/986718
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1940405

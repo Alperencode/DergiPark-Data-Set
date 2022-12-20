@@ -1,0 +1,7 @@
+Makale Başlığı: Optimal control for fractional stochastic differential system driven by fractional Brownian motion with Poisson jumps
+Özet: 
+Yazar isimleri: ['K. RAVİKUMAR', 'Ramkumar KUMARK', 'Elsayed ELSAYED']
+Yayın Yılı: 30 Ağustos 2022
+Dergi ismi: Proceedings of International Mathematical Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/pims/issue/69832/988575
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1947780

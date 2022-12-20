@@ -1,0 +1,7 @@
+Makale Başlığı: İştiraklerde Özkaynak Metodu ve Vergi Uygulamasında Kullanılabilirliği Üzerine Bir Değerlendirme
+Özet: UFRS/ TFRS (Uluslararası Finansal Raporlama Standartları/ Türkiye Finansal Raporlama Standartları) tam set kuralları gereği, iştirakler ve iş ortaklıklarındaki yatırımlar finansal ve yatırımla ilgili politikalarına katılma gücü olarak “önemli etki” elde edildiği durumlarda özkaynak metodu kullanılarak muhasebeleştirilmektedir. Bu esas, iştirak ve katılım değerini belirlediği gibi tahakkuk eden temettü gelirini de etkilemektedir. Buna mukabil vergi mevzuatı temelinde ise alış bedeli ve mukayyet bedel ile değerlenen ortaklık payı değeri yanında, ortaklık ya da etki oranı ne ölçüde olursa olsun temettü geliri tahsilat esasına bağlanmıştır. Her iki düzenleme seti her ne kadar farklı amaçlara hizmet etseler de konu bağlamında şu soruların sorulması gerekmektedir. Vergi düzenlemeleri finansal raporlama düzenlemelerine ne kadar yaklaştırılabilir? Bu düzenlemelere gerekçe olan esaslar dikkate alınarak bu düzenlemeler nasıl yeniden tartışılabilir? Bu çalışmanın amacı özkaynak metodunun açıklanması ve metodun raporlama esaslarının vergi mevzuatı dahilinde uygulanabilirliğinin tartışılmasıdır.
+Yazar isimleri: ['Arif AYLUÇTARHAN']
+Yayın Yılı: 23 Eylül 2022
+Dergi ismi: Muhasebe Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/meder/issue/72927/1134703
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2502917

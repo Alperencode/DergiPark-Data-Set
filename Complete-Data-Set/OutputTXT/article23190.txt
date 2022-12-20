@@ -1,0 +1,7 @@
+Makale Başlığı: Modeling and Forecasting of USD/TRY Exchange Rate Using ARMA-GARCH Approach
+Özet: Accurately predicting the exchange rate prices helps investors to obtain maximum profit from their exchange rate investments as well as to help firms conducting business with exchange rates to manage their trading based on these predictions. Therefore, the prediction of exchange rate prices is crucial for both investors and companies engaged in exchange rates. In this study, ARMA (Autoregressive Moving Average) models combined with various GARCH (Generalized Autoregressive Conditional Heteroscedasticity) models are applied to model exchange rate prices. For this purpose, ARMA-GARCH (M) models are investigated in order to determine the effect of volatility on exchange rate prices as well as ARMA-GARCH models in which the errors are distributed both symmetrically and skewed. It is concluded that the best fitted model which is determined based on the goodness of fit and estimation accuracy performance criteria, is firstly ARMA-NAGARCH model which can model asymmetric and non-linear structures and secondly ARMA-GJRGARCH model. However, since the performance of ARMA-GARCH (M) models is lower than ARMA-GARCH models, the effect of volatility on exchange rate prices is found to be weak.
+Yazar isimleri: ['Emre YILDIRIM', 'Mehmet Ali CENGİZ']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: İstatistik Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsstr/issue/73878/1174691
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2648272

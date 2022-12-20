@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de İller Arası Bağlantısallığın Coğrafi Boyutu
+Özet: Bu çalışma, doğum yerine göre illerin nüfusundan hareketle iller arası demografik bağlantısallığın boyutunu ortaya koymayı amaçlamaktadır. 1990’dan 2020’ye kadar geçen süre zarfında Türkiye’de iller arası demografik bağlantısallığın boylamsal olarak nasıl değiştiğini sosyal ağ analizi yöntemine dayanarak ortaya koymaktadır. Çalışmanın bulguları, ele alınan zaman içinde ulusal düzeyde iller arası bağlantısallığın arttığını ortaya koymaktadır. Ancak söz konusu bu artışın aynı zamanda üç büyük kent ekseninde ve Marmara Bölgesi özelinde daha çok yoğunlaştığını tespit etmektedir. Yine bölgesel merkez olarak adlandırılan illerin de bu artışta önemli katkısının olduğu görülmüştür. Çalışma kapsamında doğum yerine göre nüfus verisinden hareketle iller arası bağlantısallık düzeyi sayısal bir indis olarak geliştirilmiş olup bu indisin mekân ve coğrafi özelliklerin sosyal olgulardaki etkisine odaklanan her türlü araştırmada ve planlama çalışmalarında kullanılabileceği ileri sürülmektedir.
+Yazar isimleri: ['İrfan KAYGALAK']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Coğrafi Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aucbd/issue/72680/1135346
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2505457

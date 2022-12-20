@@ -1,0 +1,7 @@
+Makale Başlığı: Finsler Curve Evolution Analysis for Image Processing
+Özet: In this study, the Finsler curve evolution model, which was established with Finsler geometry and turned into a curved evolution model with the calculation of variations, will be examined. This model is not constructed by considering only locations in the image space as in the Riemann curve evolution model. It was established in an anisotropic space by considering both locations and directions. The model offers a flexible operation in the image by eliminating the necessity of isotropic spaces. Therefore, it has become a model that researchers working on image processing mostly work on. It is aimed to contribute to future studies in the field of image processing by using the mathematical analysis of the Finsler curve evolution model discussed in this study.
+Yazar isimleri: ['Haydar KILIC', 'Salim CEYHAN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jist/issue/73493/1106494
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2386571

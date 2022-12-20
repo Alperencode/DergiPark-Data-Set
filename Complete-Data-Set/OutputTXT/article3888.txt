@@ -1,0 +1,7 @@
+Makale Başlığı: Kruvaziyer ve Ro-Ro gemilerinde organik Rankine çevrimi sistemi kullanımının liman sahaları üzerindeki çevresel etkileri
+Özet: Bu çalışma ile gemilerin liman sahası çevresinde ürettiği salımların azaltılması hedeflenmektedir. Çalışmada, Çeşme Limanına 2017 yılı içerisinde sefer yapan bir yolcu gemisi ile bir RO-RO gemisinin seferleri incelenmektedir. Geminin liman sahasına girdiği koşul, manevra saatinin başladığı koşul olarak kabul edilmiştir. Buna göre, bu gemilerin ayrılma ve yanaşma sırasında manevra süresi ile limanda kaldığı süre hesaba katılarak, teorik yöntemler ile liman sahasında oluşan CO2 gazı salım miktarları ortaya konmuştur. Bunun yanında, bu gemilerde ORC sistemlerinin kurulması ile elde edilebilecek kazançlar ayrıca incelenmektedir.
+Yazar isimleri: ['Olgun KONUR', 'Onur YÜKSEL', 'Süleyman Aykut KORKMAZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Deniz Taşımacılığı ve Lojistiği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mtl/issue/71040/1056909
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2188474

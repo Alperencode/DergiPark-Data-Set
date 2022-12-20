@@ -1,0 +1,7 @@
+Makale Başlığı: Video Kurgu Programlarında Hareketli Grafik Tasarım ve Örnek Bir Uygulama
+Özet: Sayısal ortamda kullanılan her tür tasarım yazılımları, üretildikleri tasarım amaçlarının dışında farklı alanlarda da tasarımcı ihtiyaçları çerçevesinde çözümleme sürecine dâhil edilebilmektedir. Tasarımda kullanılan sayısal ortam yazılımlarının birbirleriyle kalibre olarak çalışabilmelerinin dışında, günümüzde çoklu alan kullanım özelliğine sahip olması ile tasarım süreçlerinde problem çözme yaklaşımlarını da etkilemiştir. Bu durumun en yakın örneği, piksel tabanlı fotoğraf ve resim düzenleme yazılımı olan Adobe Photoshop olarak söylenebilir. Bugün üretilen amacı dışında video ve hareketli görüntü düzenleme içinde kullanıldığını görmekte olduğumuz bu program dışında, efektlendirme ve hareketli grafik üretimi için kullanılan Adobe After Effect yazılımının da video kurgu üretimi için de tercih edildiğine şahit olunmaktadır. Bu noktadan hareketle video kurgu üretimi için kullanılan sayısal ortam yazılımları da üretim amaçlarının dışında kullanılması, Edius kurgu yazılımı sınırlılığında ve örnek bir uygulama dâhilinde, bu araştırmanın başat konusunu oluşturmaktadır.
+Yazar isimleri: ['İpek Fatma ÇEVİK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: İstanbul Aydın Üniversitesi Güzel Sanatlar Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aydinsanat/issue/70903/1030498
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2107530

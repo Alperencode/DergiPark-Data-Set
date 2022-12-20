@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of Microstructural and Intrinsic Defect States of Facile Synthesized WO3 Film
+Özet: In this study, WO3 films were simply deposited onto In:SnO2 (ITO) substrates by chemical bath under pH=2 condition. Structural, mophological and optical properties of the synthesized WO3 film were investigated by using x-ray diffraction (XRD), scanning electron microscope (SEM), atomic force microscope (AFM), Uv-Vis, photoluminescence (PL) and Raman spectrophotometer. From x-ray patterns, the tungsten oxide coating exhibits a monoclinic phase structure. Relative homogeneous particle distribution of nanorod/nano-tooth forms are observed on the surface and also surface roughness is less compared to similar studies in the literature. No impurity peak is detected from Uv-Vis spectrum. Band gap of the WO3 film is measured from Tauc plot. Surface defect emission peaks esepecially oxygen vacancies are determined from PL spectrum. Green emission is attributed to heterogeneous film growth process. W-O optical phonon modes are determined from Raman spectra. From these results, the aggregation–deposition mechanism is responsible to WO3 film growth process.
+Yazar isimleri: ['Fatma SARF', 'Emin YAKAR', 'Orhan GÜLEN']
+Yayın Yılı: 31 Mart 2022
+Dergi ismi: Bilge International Journal of Science and Technology Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bilgesci/issue/69106/971220
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1879900

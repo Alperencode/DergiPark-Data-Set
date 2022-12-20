@@ -1,0 +1,7 @@
+Makale Başlığı: Analysis of Genomic Data Sets by LASSO and Elastic Net Regression Methods
+Özet: Objective: The purpose of this study is to show that large-sized genomic datasets can be reduced to smaller sizes using variable selection methods, and that analysis can be performed with less cost and time.Materials and methods: This study uses dataset number GDS4906, which is transferred from the NCBI database to the R program using Bioconductor. The dataset was analyzed using LASSO and Elastic Net regression methods with 10-fold cross-validation. Results: When the dataset is analyzed using the LASSO regression method, 5 genes were selected from the dataset and 2 genes were selected and the R2 values of the model were found as 0.85 by applying the determination selection method, as the variables and variable numbers selected in different iterations were then different. In the Elastic Net regression method applied using the interval search method, 19 genes were selected and R2 were found as 0.92.Conclusion: According to the results obtained, LASSO and Elastic Net regression methods have shown a good performance in the genomic datasets.
+Yazar isimleri: ['Merve VERGİLİ', 'Hikmet ORHAN']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Sağlık Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdusbed/issue/73442/1201417
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2759615

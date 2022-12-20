@@ -1,0 +1,7 @@
+Makale Başlığı: Determination of the working performance of a new fertigation system developed for hose reel irrigation machine
+Özet: The aim of this study is determining of the working performance of the a new fertigation system (TURPO CLK FS) that developed for hose reel irrigation machines (HRIM). As a liquid fertilizers nitrogen and phosphorus were used. The HRIM was operated under two different irrigation water pressures (5 and 2.5 bar) conditions. The dosing pump was operated for two different frequencies (150 and 300 pulse/min). Field experiments were realised by using two different liquid chemical fertilizers and measured of pH, electrical conductivity (EC), and total dissolved solids (TDS) values. According to evaluation when using nitrogen fertilizer pH values ranged between 8.40 - 8.59, EC values 602.92 - 915.83 µS/cm, and the TDS values 294.17 - 451.25 mg/L at all sets. When using phosphorus fertilizer, pH values ranged between 7.13 - 8.03, EC values 485.42 - 519.58 µS/cm, and TDS values 236.25 - 252.92 mg/L. And then the Christiansen Coefficient of Uniformity (CCU) was calculated over 24 samples in each set. The CCU values were founded between 95.02% - 99.95%. As the result it has been concluded that the TURPO CLK FS could be used together with HRIM during fertigation applications.
+Yazar isimleri: ['Halit APAYDIN']
+Yayın Yılı: 27 Temmuz 2022
+Dergi ismi: Soil Studies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/soilst/issue/71452/1103891
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2560150

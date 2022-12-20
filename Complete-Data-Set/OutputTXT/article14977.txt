@@ -1,0 +1,7 @@
+Makale Başlığı: Kurumsal Yönetim Uygulamaları ile Finansal Performans İlişkisi: BİST- Bankacılık Sektöründe Bir Araştırma
+Özet: Bu araştırmanın amacı, kurumsal yönetim uygulamalarının bankaların finansal performansı üzerindeki etkisini tespit etmektir. Araştırmada 2010-2020 yılları arasında Borsa İstanbul A.Ş.’de kesintisiz işlem gören 11 bankanın verileri kullanılmıştır. Kurumsal yönetim göstergeleri olarak; yönetim kurulu büyüklüğü, bağımsız yönetim kurulu üye oranı, kadın yönetim kurulu üye oranı, yabancı yönetim kurulu üye oranı, denetim kurulu üye oranı, en büyük hissedar pay oranı, en büyük üç hissedar pay oranı, halka açıklık oranı ve CEO İkiliği oranları kullanılmıştır. Finansal performans göstergesi olarak ise; aktif karlılığı, öz sermaye karlılığı ve Tobin q oranları kullanılmıştır. Araştırmada ekonometrik ölçüm için IBM destekli ve 64 bit işlemcili Eviews 9.0 programı aracığıyla panel veri yöntemi kullanılmıştır. Yapılan analiz sonucunda yabancı yönetim kurulu oranı ile aktif karlılığı ve öz sermaye karlılığı arasında negatif ve anlamlı bir ilişki tespit edilmiştir. Ayrıca yapılan analizler sonucunda yönetin kurulu büyüklüğünü temsil eden değişken ile ortalama varlık karlılığı değişkeni arasında da anlamlı herhangi bir ilişki olmadığı saptanmıştır. 
+Yazar isimleri: ['Selim CENGİZ', 'Esra TAŞSÜMER']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: The Journal of International Scientific Researches
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/isrjournal/issue/72945/1128118
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2475529

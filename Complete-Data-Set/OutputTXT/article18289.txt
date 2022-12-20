@@ -1,0 +1,7 @@
+Makale Başlığı: ÜLKELER ARASI DOĞRUDAN YABANCI YATIRIM GİRİŞLERİ ARASINDAKİ NEDENSELLİK ANALİZİ: KIRILGAN BEŞLİ ÖRNEĞİ
+Özet: Günümüzde dünya genelinde küreselleşme hareketlerinin artmasıyla birlikte hacim ve ulaştığı bölge bakımından gelişme gösteren doğrudan yabancı yatırımlar, özellikle az gelişmiş ve gelişmekte olan ülkeler için ihtiyaç duydukları sermaye açığını kapatmak adına oldukça önemli bir fırsat olarak görülmektedir. Bu çalışmada doğrudan yabancı yatırımların oluşumu ve belirleyicileri detaylı şekilde ele alınmıştır. Bu bağlamda Kırılgan Beşli (Fragile Five) ülkeleri olan Brezilya, Hindistan, Endonezya, Türkiye ve Güney Afrika çalışmaya dahil edilmiştir. Araştırma kapsamında BIITS ülkelerine ait doğrudan yabancı yatırım girişleri arasındaki nedensellik, her ülkenin bağımlı değişken olduğu beş farklı modelle Genişletilmiş Dickey-Fuller (ADF) ve Phillips-Perron (PP) birim kök testleri ardından Toda-Yamamoto nedensellik testi ile (1971-2019 dönemine ait yıllık verilerle) analiz edilmiştir. Elde edilen bulgular neticesinde; BIITS ülkelerine ait doğrudan yabancı yatırım girişi verileriyle bahsi geçen ülkeler arasında çeşitli nedensellik ilişkisi olduğu tespit edilmiştir.
+Yazar isimleri: ['Osman ONAT', 'Abdullah ERTÜRK']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Beykoz Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/beykozad/issue/71287/955534
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1835773

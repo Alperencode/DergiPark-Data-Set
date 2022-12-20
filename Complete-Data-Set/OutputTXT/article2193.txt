@@ -1,0 +1,7 @@
+Makale Başlığı: Non-topological soliton solution of (2+1)-dimensional complex three coupled nonlinear Maccari’s model via modified new Kudryashov scheme
+Özet: This paper, deals with the (2+1)-dimensional complex three coupled nonlinear Maccari’s model (3-CCME) by utilizing recently presented modified new Kudryashov method (mNKM). The focus of this article is to obtain non-topological soliton solution of 3-CCME by applying mKNM method, which has not been applied before to the investigated problem. Applying the proposed method successfully, besides the non-topological soliton solution of the investigated problem, the breather-like type soliton solution was also obtained and the obtained results are depicted by the 3D, 2D and contour graphical presentations.
+Yazar isimleri: ['Müslüm ÖZIŞIK', 'Ramazan TEKERCİOĞLU']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Avrupa Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ejosat/issue/71415/1108958
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2396804

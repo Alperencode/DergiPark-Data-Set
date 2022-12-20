@@ -1,0 +1,7 @@
+Makale Başlığı: An Econometric Analysis on Factors Affecting Intra-Industry Trade in Turkish Automotive Industry
+Özet: Purpose: It is to empirically examine the factors affecting intra-industry trade in the automotive sector between Turkey and 24 OECD member trade partners.Design/Methodology: The determinants of intra-industry trade were tested with panel data analysis in the automotive sector. As a result of the test carried out to determine the model, regression analysis was performed with the Driscoll-Kraay standard error estimation method.Findings: The variables market size, development level, and trade openness have a positive impact on intra-industrial trade, while the variables market size difference, income inequality, and geographical distance have a reverse impact on intra-industry trade.Limitations: Export and import data for 2003–2019 are used in international trade figures in the 3-digit Standard International Trade Classification, SITC Revision-3.Originality/Value: Empirical application on the factors affecting intra-industry trade in the Turkish automotive sector is considered to be important and different in terms of subject.
+Yazar isimleri: ['Ömer DORU', 'Örsan ÖZER']
+Yayın Yılı: 29 Kasım 2022
+Dergi ismi: Akademik Araştırmalar ve Çalışmalar Dergisi (AKAD)
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kilisiibfakademik/issue/73550/1160045
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2588319

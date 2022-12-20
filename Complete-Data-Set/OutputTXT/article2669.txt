@@ -1,0 +1,7 @@
+Makale Başlığı: Ticari Bankalarda Likidite ve Kârlılık İlişkisi: Türk Bankacılık Sektörü Üzerine Bir Uygulama
+Özet: Bankaların özellikle vade uyumsuzluğundan kaynaklanan likidite riskine karşı optimal düzeydelikit varlık tutmaları, piyasa ve müşterilerin güvenini muhafaza edebilmeleri için oldukça önemlidir.Ancak, likit varlık tutmanın kârlılığı da etkileyen fırsat maliyeti söz konusudur. Bu araştırmanınamacı, ticari bankalarda likiditenin kârlılık ile ilişkisini araştırmaktır. Araştırmaya 2002-2020döneminde Türkiye’de faaliyet gösteren 20 ticari banka dâhil edilmiş, bankalara ilişkin finansalverilerde 2002 yılsonundan 2020 yılsonuna kadar çeyrek dönemler dikkate alınmıştır. Panel verianaliz yöntemi ile yapılan araştırmada dirençli standart hatalar üretebilen tahmincilerden Driscoll-Kraay, Parks-Kmenta ve Beck-Katz metotlarıyla tahminler yapılmıştır. Araştırma sonucunda; likitvarlık oranı ve cari oranın aktif kârlılığı oranını pozitif, özkaynak kârlılığı oranı ve net faiz marjınınegatif, asit-test oranının aktif kârlılığı oranını negatif, özkaynak kârlılığı oranı ve net faiz marjınıpozitif, kredi/mevduat oranının her üç kârlılık rasyosunu da negatif yönde etkilediği, bulgularıngenel olarak likidite ile kârlılık arasında negatif yönlü bir ilişkiye işaret ettiği anlaşılmıştır.
+Yazar isimleri: ['Ahmet KARAKAŞ']
+Yayın Yılı: 22 Eylül 2022
+Dergi ismi: BDDK Bankacılık ve Finansal Piyasalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bddkdergisi/issue/72654/1178316
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2663341

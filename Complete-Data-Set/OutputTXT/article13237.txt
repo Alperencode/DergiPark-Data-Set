@@ -1,0 +1,7 @@
+Makale Başlığı: A modified Mann algorithm for the general split problem of demicontractive operators
+Özet: 
+Yazar isimleri: ['Raweerote SUPARATULATORN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1034213
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2122114

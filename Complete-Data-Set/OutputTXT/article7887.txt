@@ -1,0 +1,7 @@
+Makale Başlığı: BRAND IMPACT ON THE USE OF MOBILE APPLICATIONS
+Özet: Bu araştırmanın amacı, marka bilinirliği ve marka sadakatinin mobil uygulama kullanımı üzerinde olumlu bir etkisinin olup olmadığını belirlemektir. Bu çalışmada önerilen modeli test etmek için nicel bir yaklaşım kullanılmıştır. Bu yaklaşım için öncelikle bir deneme grubu oluşturulmuş ve sonuçlar alınmıştır. Seyahat uygulamalarından en az birini bile kullanmayan katılımcılardan “Uygulamanın seçiminde uygulamanın hangi özellikleri daha baskın olur?” sorusuna yanıt vermeleri istenmiştir. Çalışmada iç tutarlılık için Cronbach Alfa, Bileşik Güvenirlik ve Bileşik Güvenirlik kullanılmış ve bu değerlerin 0.70'den büyük olduğu görülmüştür. Sonuçlara göre geçerliliği değerlendirmek için elde edilen ortalama varyans değeri de 0,50'den büyüktü. Dolayısıyla modelde markanın ve belirlenen diğer faktörlerin kullanımı olumlu yönde etkilediği gösterilmiştir. Literatürde marka ve mobil uygulamalar çerçevesinde birçok faktör incelenmiştir. Ancak bu çalışmada daha önce araştırılmamış marka ile ilgili faktörlerin mobil uygulama kullanımına etkisi araştırılmıştır.
+Yazar isimleri: ['Abdullah ORMAN', 'Özel SEBETCİ']
+Yayın Yılı: 26 Aralık 2021
+Dergi ismi: International Review of Economics and Management
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iremjournal/issue/67047/1011588
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2033938

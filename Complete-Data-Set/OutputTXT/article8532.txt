@@ -1,0 +1,7 @@
+Makale Başlığı: Kentsel Dönüşümde Sıfır Atık Yönetimi
+Özet: Kentsel dönüşüm atıkları, kentsel dönüşüm sürecinde daha çok yapıların yıkımı sonucunda oluşmaktadır. Bu çalışmada çevrenin daha iyi korunması ve kaynakların israf edilmemesi için inşaat ve yıkıntı atıklarının sıfır atık yönetimi yaklaşımına uygun olarak nasıl daha iyi yönetilebileceği ile ilgili bir yaklaşım sergilemektir. Sıfır atık yönetimi yaklaşımına uygun olarak inşaat ve yıkıntı atığı bileşenlerinin ayrı ayrı nasıl değerlendirilebileceği anlatılmaktadır. Ayrıca sıfır atık yönetimi yaklaşımına uygun olarak yaşam döngüsü içerisinde inşaat ve yıkıntı atığı bileşenlerinin süreçleri ayrı ayrı açıklanmaktadır.
+Yazar isimleri: ['Gültekin GÜLLÜ']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: İstanbul Sabahattin Zaim Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/izufbed/issue/70053/1131056
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2487818

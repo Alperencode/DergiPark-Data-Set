@@ -1,0 +1,7 @@
+Makale Başlığı: (U, V )-Lucas polynomial coefficient relations of the bi-univalent function class
+Özet: In geometric function theory, Lucas polynomials and other special polynomials have recently gained importance. In this study, we develop a new family of bi-univalent functions. Also we examined coefficient inequalities and Fekete-Szegö problem for this new family via these polynomials.
+Yazar isimleri: ['Arzu AKGÜL', 'Timilehin SHABA']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/1086809
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2305577

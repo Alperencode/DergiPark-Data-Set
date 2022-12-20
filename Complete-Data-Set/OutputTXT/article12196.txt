@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of The Performance of Butterfly Optimization Algorithm in Solving High-Dimensional Numerical Optimization Problems
+Özet: The butterfly optimization algorithm is one of the metaheuristic algorithms that models the foraging behavior of butterflies. It appears in the literature that it has been used successfully in the solution of many problems. Control parameters and dimension of problem directly affect the performance of a metaheuristic algorithm. When possible problems are evaluated, some may be low-dimensional, while others may be high-dimensional.  At the same time,  it is expected that metaheuristic algorithms are successful on high-dimensional problems as well.   In this study, the performance of the butterfly optimization algorithm is evaluated in solving high-dimensional numerical optimization problems. The performance of butterfly optimization algorithm is compared with artificial bee colony algorithm, harmony search and flower pollination algorithm. Wilcoxon signed-rank test is used to analyze the significance of the results. The results show that the butterfly optimization algorithm is generally more successful than other algorithms in solving high-dimensional numerical optimization problems.
+Yazar isimleri: ['Ceren BAŞTEMUR KAYA', 'Ebubekir KAYA']
+Yayın Yılı: 26 Ekim 2022
+Dergi ismi: Mühendislik Bilimleri ve Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bjesr/issue/73170/1170933
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2632236

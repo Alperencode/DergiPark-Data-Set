@@ -1,0 +1,7 @@
+Makale Başlığı: Ankastre Bir Kirişin Ayrık Zamanlı Titreşim Modelinin Meta-sezgisel Optimizasyon Yöntemleri Kullanılarak Elde Edilmesi
+Özet: Bu çalışmada, ankastre bir kiriş Ansys programında 3 boyutlu olarak modellenmiştir ve kirişe 5 kN’lik bir giriş kuvveti uygulanarak kirişin serbest ucunda meydana gelen yer değişimleri kaydedilmiştir. Kirişe uygulanan giriş kuvveti ve kirişin serbest ucunda oluşan yer değişimine ait çıkış veri seti kullanılarak literatürde dinamik sistemlerin modellenmesinde başarıyla uygulanmış Genetik Algoritmalar ve Parçacık Sürüsü Optimizasyonu yöntemleri ile ayrık zamanlı titreşim modelleri elde edilmiştir. Titreşim modellerinin modelleme başarısını içeren sonuçlar tablo halinde sunulmuştur. Ayrıca, Ansys programından alınan titreşim verisine ait harmonikler ve ayrık zamanlı modellere ait harmonikler Matlab/Simulink ortamında elde edilmiştir. Ayrık zamanlı titreşim modellerinin çıkış grafikleri ve harmonikleri incelendiğinde kirişin çıkış grafikleri ve harmoniklerine oldukça yakın olduğu tespit edilmiştir. Ayrık zamanlı modellerin kirişin titreşim davranışını başarıyla temsil ettiği görülmüştür.
+Yazar isimleri: ['Serkan ÇAŞKA', 'Muhammed Enes DOKUZ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bseufbd/issue/70447/978183
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1906516

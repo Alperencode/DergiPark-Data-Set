@@ -1,0 +1,7 @@
+Makale Başlığı: Sağlık Harcamaları ve Yolsuzluk İlişkisi: Bir Sınır Testi Analizi
+Özet: Yolsuzluk, gelişmiş ve gelişmekte olan ülkelerin karşı karşıya olduğu en önemli sorunlardan biridir. Halkın sağlık harcamalarını ve performansını olumsuz etkileyen en önemli sorunlar arasında yer almaktadır. Bu çalışma, 1984-2019 dönemi için Dünya Bankası, PRS/ICRG ve IMF verileriyle Otoregresif Dağıtılmış Gecikme (ARDL) ve Dinamik Hata Düzeltme Modeli (ECM) kullanılarak sağlık harcamaları ve yolsuzluk arasındaki ilişkiyi incelemektedir. Yapısal kırılmalı Lee-Strazizitch birim kök testi, değişkenlerin yapısal kırılmalardan etkilendiğini göstermektedir. Ampirik sonuçlar, Türkiye'deki yolsuzluğun kısa ve uzun vadede sağlık harcamalarını artırdığını göstermektedir. Uzun vadede reel GSYİH, kentsel büyüme oranı, karbon emisyonları, TÜFE'nin yıllık yüzde değişimi ve sağlık harcamaları arasında negatif bir ilişki gözlemlenmiştir. Araştırma bulguları, sosyal refah ve sağlık harcamalarının artırılmasının ekonomik istikrara ve yolsuzlukla mücadeleye bağlı olduğunu göstermektedir.
+Yazar isimleri: ['Muzaffer ALBAYRAK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Çankırı Karatekin Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ckuiibfd/issue/72845/1072886
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2250821

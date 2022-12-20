@@ -1,0 +1,7 @@
+Makale Başlığı: COVID-19 CASES IN MOROCCO: A COMPARATIVE ANALYSIS
+Özet: Covid-19 is a highly infectious disease caused by novel Corona virus SARS-CoV-2, affecting the whole world. In thispaper, we introduce and apply two iterative methods, RMsDTM and R2KM, to obtain approximate values of Covid-19cases in Morocco. We also compare the approximations of both methods and see that the solution of RMsDTM ismore accurate.
+Yazar isimleri: ['Poonam GARG', 'Surbhi MADAN', 'Ritu ARORA', 'Dhiraj SİNGH']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Results in Nonlinear Analysis
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rna/issue/70170/1015199
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2048341

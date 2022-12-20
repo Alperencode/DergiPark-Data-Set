@@ -1,0 +1,7 @@
+Makale Başlığı: On the hyperbolic Horadam matrix functions
+Özet: In this study, we introduce a new class of the hyperbolic matrix functions which are called symmetrical hyperbolic Horadam sine and cosine matrix functions and we present some hyperbolic and recursive properties of these new matrix functions. In addition, we introduce quasi-sine Horadam matrix function and also define the matrix form of the metallic shofars that related to the hyperbolic Horadam sine and hyperbolic Horadam cosine matrix functions.
+Yazar isimleri: ['Mustafa BAHŞİ', 'Efruz Özlem MERSİN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/1092305
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2328314

@@ -1,0 +1,7 @@
+Makale Başlığı: The Design and Simulation of Adaptive Cruise Control System
+Özet: In this study, an Adaptive Cruise Control system is designed by using conventional Proportional Integral Controller (PID) and Model Predictive Controller (MPC). In the design, vehicle, acceleration, and deceleration models are constructed in a way to sim-ulate the real-life environment. The design and simulation were carried out through Matlab and Simulink. In order to investigate the effects of gains in the PID controller, several values for Kp, Ki, and Kd is tested. The simulation results illustrated that the gains Kp and Kd have negligible effects on the vehicle acceleration but the gain Ki has a substantial effect on the response of the ego car. The results of PID controller were compared with the results when the controller is replaced by MPC. It has been shown that the PID controller gives better results as compared to the MPC controller inde-pendent from Kp, Ki, and Kd values. Therefore, we can confidently state that the PID controller provides better responses in addition to its accessibility, simpler design, and cost advantages compared to the MPC controller.
+Yazar isimleri: ['Buğra KABASAKAL', 'Murat ÜÇÜNCÜ']
+Yayın Yılı: 3 Ekim 2022
+Dergi ismi: International Journal of Automotive Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijastech/issue/72201/1038371
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2139181

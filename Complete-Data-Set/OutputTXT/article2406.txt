@@ -1,0 +1,7 @@
+Makale Başlığı: $W_w (IR)$ uzayının bazı özellikleri
+Özet: Wp(IRn)Wp(IRn) uzayı ve bu uzaya ait bazı özellikler Krogstad [1] tarafından ispat edilmiştir. Bu çalışmada, Krogstad tarafından tanımlanan bu uzayın p=1p=1 için özel durumu olan W(IRn)W(IRn) uzayı ele alındı. ww, IRIR reel sayılar kümesinde Beurling-Domar koşullarını sağlayan ağırlık fonksiyonu olmak üzere bir Ww(IR)Ww(IR) uzayı ve bu uzay üzerinde ∥.∥w‖.‖w normu tanımlandı. Ww(IR)Ww(IR) uzayının, ∥.∥w‖.‖w normuna göre bir Banach uzayı olduğu ispatlandı. (Ww(IR),∥.∥w)(Ww(IR),‖.‖w) uzayının bir Banach cebiri, ötelemeler altında invaryant ve kuvvetli invaryant olduğu gösterildi.  Ayrıca, (Ww(IR),∥.∥w)(Ww(IR),‖.‖w)  uzayının Soyut Segal cebiri ve Banach fonksiyon uzayı olduğu ispatlandı. w1w1, w2w2, IRIR üzerinde ağırlık fonksiyonları olmak üzere Ww1(IR)Ww1(IR)W(w1)(IR) ve $W_{w_2}(IR)$W(w2)(IR)  uzayları arasındaki kapsama özellikleri araştırıldı.
+Yazar isimleri: ['Mevlüde DOĞAN', 'A. Turan GÜRKANLI']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1030138
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2105995

@@ -1,0 +1,7 @@
+Makale Başlığı: 3D Modeling with UAV Video Data
+Özet: Until recently, Unmanned Aerial Vehicles (UAV) or remotely controlled unmanned aerial systems, often known as drones, have been used by different disciplines for various purposes. The main reason for this is that UAV systems provide low-cost, fast, and location-aware photo and video data for image collection. In addition, UAVs have positively affected the disadvantages of flexibility capability and cost of aerial imaging. To date, much research has been done on UAV photogrammetry for 3D mapping and modeling. In the studies, motion-to-structure (SfM) techniques have been used successfully to reconstruct the aerial image from photographic data. In this study, a 3D model of a high-rise building with dense construction and environmental factors such as trees and electricity poles was made with the UAV photogrammetry technique with the help of video data obtained from the UAV.
+Yazar isimleri: ['Ceyda ULVİ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Türkiye İnsansız Hava Araçları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tiha/issue/70924/1127228
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2471687

@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de İhracata Dayalı Büyüme Hipotezi Geçerliliğinin Yeniden İncelenmesi
+Özet: İhracata dayalı büyüme hipotezi iktisat literatüründe en çok test edilen konulardan biri olmasına rağmen birbirinden farklı sonuçlara ulaşıldığı gözlemlenmektedir. Bununla birlikte Türkiye içinde ilgili hipotezin test edildiği birçok çalışma mevcut olmakla birlikte elde edilen sonuçlar bir o kadar karmaşıktır. Ayrıca Türkiye üzerine yapılan ampirik çalışmaların çok azı yapısal kırılmaların varlığını dikkate almıştır. Bu kapsamda bu çalışma Türkiye ekonomisinde ihracata dayalı büyüme hipotezinin geçerliliğini 1990-2019 dönemi verileri ile yapısal kırılmaları dikkate alan Maki eşbütünleşme ve daha tutarlı sonuçlar sunan Toda ve Yamamoto nedensellik yöntemlerini kullanarak araştırmaktadır. Analiz sonucunda elde edilen bulgulara göre, ekonomik büyüme, ihracat, ithalat, sermaye ve emek serilerinin eşbütünleşik oldukları ve ekonomik büyümeden ihracata tek yönlü nedenselliği ima eden ekonomik büyümeye dayalı ihracat hipotezinin geçerli olduğu sonucuna varılmıştır. Bir diğer ifadeyle ilgili dönemde Türkiye ekonomisi için ihracata dayalı büyüme hipotezi geçerli değildir.Anahtar Kelimeler: İhracata Dayalı Büyüme Hipotezi, Maki Eşbütünleşme, Toda-Yamamoto Nedensellik, Türkiye.JEL Sınıflandırması: F43, O11, C22.
+Yazar isimleri: ['Ahmet KARDAŞLAR']
+Yayın Yılı: 23 Eylül 2022
+Dergi ismi: Yönetim ve Ekonomi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/yonveek/issue/72662/1061941
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2208346

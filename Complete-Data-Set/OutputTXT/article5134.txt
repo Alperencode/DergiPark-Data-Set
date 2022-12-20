@@ -1,0 +1,7 @@
+Makale Başlığı: Farklı Rüzgar Hızlarında Çoklu Bina Etrafındaki Rüzgar Yükünün Sayısal olarak İncelenmesi
+Özet: Bu çalışmada, birden çok sayıdaki bina yapılarının birbiri üzerindeki rüzgar yükünün sayısal olarak irdelenmesi gerçekleştirilmiştir. Bina yapıları üzerinde meydana gelen sürükleme katsayısı, farklı rüzgar hızlarına göre oluşan türbülans kinetik enerjisi, bina yapısı etrafında meydana gelen girdap oluşumları incelenmiştir. Birden fazla sayıdaki bina yapılarının farklı konumlarda yerleşimleri gerçekleştirilerek, bu etkilerdeki değişimin ne ölçüde olduğu incelenmiştir. Yapıların farklı konumlandırılması ile birlikte rüzgarın olumsuz etkilerinin iyileştirilmesi üzerine simülasyonlar gerçekleştirilmiştir.  Bu çalışmada gerçekleştirilen sayısal analizler boyunca Realizable k-Ɛ türbülans modeli uygulanmıştır. Sayısal modellemeden elde edilen sonuçlara göre binalar arasındaki mesafenin azalması binaların sürükleme katsayılarında düşmeye yol açmıştır.
+Yazar isimleri: ['Halil Hakan AÇIKEL']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/1118360
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2435215

@@ -1,0 +1,7 @@
+Makale Başlığı: Evacuation Problem in Mosque Buildings, The Case of Konya Hacıveyiszade Mosque
+Özet: Evacuation of assembly buildings in emergencies such as earthquake, fire and terror is very important to prevent major casualties. To evacuate the building smoothly, it’s necessary to realize the right architectural design. There are very few studies both national and international literature on evacuation of mosques in emergencies. The aim of this study is to contribute to literature by a case study on emergency evacuation of mosques. Within the scope of the study, Hacıveyiszade Mosque which is located in the city center of Konya is examined. The mosque was evaluated using a simulation study. According to the findings obtained from the simulation, the evacuation of the mosque was completed in 10 min 48s and the evacuation could not be achieved within the safe evacuation time (2.5 min) specified for this class of buildings. In this context, suggestions made to improve the evacuation performance of the Hacıveyiszade mosque.
+Yazar isimleri: ['Hatice Sena AZKUR', 'Murat ORAL']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Mimarlık Bilimleri ve Uygulamaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mbud/issue/69153/1051154
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2166977

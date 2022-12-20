@@ -1,0 +1,7 @@
+Makale Başlığı: Some Electrical and Photoelectrical Properties of Conducting Polymer Graphene Composite /n-Silicon Heterojunction Diode
+Özet: In this study, polythiophene-graphene (PTh-G) composite thin film was prepared on the n-type silicon (n-Si) semiconductor wafer by the spin coating method. Subsequently, the current-voltage (I-V) measurements were made on the fabricated Au/PTh-G/n-Si/Al device to ascertain the impact of the PTh-G interfacial layer on the device performance. The main device parameters such as ideality factor (n), barrier height (b), series resistance (Rs) were calculated by using the thermionic emission (TE) and Norde functions, and then, the obtained results were discussed in detail. Additionally, the capacitance-voltage (C-V) characteristic of the device was examined as a function of the frequency, and the device parameters such as diffusion potential (Vd), Fermi energy level (Ef), carrier concentration (Nd), b were detemined. Finally, the light intensity-dependent I-V measurements were taken to obtain information about the photoelectrical characteristics of the fabricated device. The obtained results have shown that the prepared composite material has a good potential to be used in optoelectronic applications such as photodiode, and photodetector.
+Yazar isimleri: ['Elif DAŞ']
+Yayın Yılı: 20 Ekim 2022
+Dergi ismi: Sakarya Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/saufenbilder/issue/73051/1129742
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2482260

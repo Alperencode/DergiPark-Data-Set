@@ -1,0 +1,7 @@
+Makale Başlığı: Determinants and Inverses of Circulant Matrices with Gaussian Pell Numbers
+Özet: 
+Yazar isimleri: ['Meral YAŞAR KARTAL']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/1094394
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2336571

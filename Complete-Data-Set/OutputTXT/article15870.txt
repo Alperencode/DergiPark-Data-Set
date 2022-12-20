@@ -1,0 +1,7 @@
+Makale Başlığı: Uzundere 1 Regülatörü ve HES Pelton Çark Erozyon ve Kavitasyon Takibi
+Özet: Yüksek düşüye sahip (800 m) Uzundere 1 HES tesisinde bulunan Cr13Ni4 Pelton çarkın sudaki silt gibi yabancı maddeler nedeniyle önce erozyona uğradığı, sonrasında çark kaşık formunun bozulması nedeni ile  erozyonu kavitasyonun takip ettiğini gözlemledik. Çark imalatının 12 ay gibi uzun sürmesi ve yüksek maliyetler yeni çark alımını zora soktuğundan kaşıklardaki erozyona farklı uygulamalar ile önlem almaya çalıştık. Silt malzemenin çökeltme havuzlarında dinlendirilmesi işlemi hali hazırda yapılmış olduğundan çarka dönük önlemler alma yoluna gidildi. Önce askıda katı madde testleri yaparak çarkın maruz kaldığı malzeme miktarını belirlendi, sonrasında çark imalatçısının verileri ile kıyaslayarak erozyonun boyutu belirlendi. Tamir yollarına bakılarak TIG kaynak dolgu yöntemi ile kaşık iç kısımları doldurulup çark ömrü uzatıldı.
+Yazar isimleri: ['Osman KÖSE']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Türk Hidrolik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turhidder/issue/70673/1115993
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2425086

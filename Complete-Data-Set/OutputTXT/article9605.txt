@@ -1,0 +1,7 @@
+Makale Başlığı: IS ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG) REPORTING FINANCIALLY USEFUL? EVIDENCE FROM TURKEY
+Özet: İnsanlığın küresel ısınma ve kısıtlı kaynakların aşırı tüketimi gibi risklerle karşılaşması günümüzde sürdürülebilirlik raporlamasına olan ilgiyi giderek yaygınlaştırmaktadır. Bu doğrultuda birçok otorite, sermaye piyasalarında şeffaflığın ve hesap verilebilirliğin arttırılarak paydaş güveninin sağlanması amacıyla işletmeleri sürdürülebilirlik bilgilerini açıklamaya teşvik etmektedir. Halbuki sürdürülebilirlik raporlamasındaki kural eksikliği ve finansal olmayan bilginin yapısı, Çevresel, Sosyal ve Kurumsal Yönetim (ÇSKY) bilgilerinin faydalılığı konusunda şüphe yaratmaktadır. Bu çalışmanın amacı sürdürülebilirlik raporlamasının finansal performans üzerindeki etkisini incelemektir. Çalışma kapsamında 2009-2018 yılları arasında Borsa İstanbul Metal Eşya Endeksi’nde işlem gören işletmelere panel regresyon testleri uygulanmıştır. Araştırma sonucunda sürdürülebilirlik raporlaması ve finansal performans arasında istatistiki olarak anlamlı bir ilişki bulunamamıştır.
+Yazar isimleri: ['Eylül ÖZDARAK', 'Çağatay AKARÇAY']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Journal of Research in Business
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jrb/issue/70563/1094498
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2336983

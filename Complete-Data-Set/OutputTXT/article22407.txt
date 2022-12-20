@@ -1,0 +1,7 @@
+Makale Başlığı: Thermomechanical Investigation of the Effect of Maleic Anhydride Containing Copolymer on Polystyrene/Polyvinylchloride Blends
+Özet: Polystyrene (PS) and Polyvinylchloride (PVC) are two widely used polymers that do not form compatible mixtures with each other. By adding Maleic anhydride/Styrene (MAS) copolymer to the two polymers, the effect on miscibility was investigated thermomechanically. Stress-strain analysis of the mixtures was performed. Thermomechanical processes were completed by creating temperature-strain and temperature-logE curves from the stress-strain curves obtained under increasing load and temperature. By processing these data, Modulus of Elasticity (E), coefficient of thermal elongation (CTE) and Glass transition temperatures (Tg) of the mixtures were calculated. It was observed that MAS copolymer added to PS/PVC mixtures as a compatibilizer increased the thermomechanical strength and was a good compatibilizer as the mixtures had a single glass transition temperature.
+Yazar isimleri: ['Ersen YILMAZ', 'Ali BOZTUĞ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bingöl Üniversitesi Teknik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/buts/issue/70532/1113844
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2416281

@@ -1,0 +1,7 @@
+Makale Başlığı: Numerical Simulation of Convection-Diffusion Equation Using a Novel Flux Limiter
+Özet: 
+Yazar isimleri: ['Osman ÜNAL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Inspiring Technologies and Innovations
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/inotech/issue/70702/1074319
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2256449

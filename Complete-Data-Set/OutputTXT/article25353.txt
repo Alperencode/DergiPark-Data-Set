@@ -1,0 +1,7 @@
+Makale Başlığı: Linear Functionals in Some Spaces of Entire Functions of Finite Order
+Özet: We consider the the linear topology space of entire functions of a proximate order and normal type with respect to the proximate order. We obtain the form of continuous linear functional on this space.
+Yazar isimleri: ['Konstantin MALYUTİN']
+Yayın Yılı: 29 Haziran 2015
+Dergi ismi: İstanbul University Science Faculty The Journal Of Mathematics Physics and Astronomy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iusfjm/issue/9495/118610
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/100680

@@ -1,0 +1,7 @@
+Makale Başlığı: Böbrek yetmezliği ve COVID-19 ilişkisi
+Özet: COVID-19 neredeyse tüm toplumu ve subgrupları etkilemekle birlikte ileri yaş, erkek cinsiyet, akciğer, kalp hastalıkları, kanser, böbrek ve karaciğer yetmezlikleri, obesite gibi eşlik eden durumlar ölümlerle doğrudan ilişkilidir. Akut böbrek hasarını (AKI) tetikleyen en önemli mekanizmanın sitokin fırtınası olduğu düşünülmektedir. Virüsün sitopatik etkisi yanında, dehidratasyon, immün mekanizmaların indüklediği renal hücre hasarı, ateş gibi multifaktöriyel bir etkileşim de vardır. Bunun sonucunda AKI’nin COVID-19’lu hastaların tümünde en az %5, yoğun bakıma yatırılanlarda %30 ila 50’ye kadar görülmektedir. AKI riski, kritik grupta şiddetli gruba göre daha yüksektir. Proteinüri, hematüri, serum kreatinin düzeyi, BUN düzeyi, Evre 2 ve 3 AKI gelişimi hastane-içi mortaliteyi doğrudan etkilemektedir. Hastaların hem ayaktan izlemi hem de acil servis başvurularında AKI yönünden incelemeler yapılmalı, volüm durumunun düzeltilmesi, ateşin düşürülmesi, sitokin fırtınasına karşı önlemlerin alınması, renal replasman tedavisi gibi müdahaleler hızla başlatılmalıdır.
+Yazar isimleri: ['Özgür KARCIOĞLU']
+Yayın Yılı: 31 Ağustos 2020
+Dergi ismi: Journal of ADEM
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jadem/issue/60478/876191
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1562426

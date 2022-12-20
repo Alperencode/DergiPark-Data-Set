@@ -1,0 +1,7 @@
+Makale Başlığı: Göksu Deltası’nda (Silifke/Mersin) Tarımsal Değişiklikler
+Özet: Tarım ürünlerinin ekonomik değerinin arttığı günümüzde tarımsal alanların doğru ve sürdürülebilir kullanımı önem kazanmıştır. Türkiye’nin önemli tarım alanlarından olan Göksu Deltası’nda iklim değişmeleri, ticarileşme ve teknoloji kullanımı ile tarımsal değişiklikler yaşanmaktadır. Bu çalışmada yaşanan değişimlerin, alan ve ürün deseni anlamında analizi, sebep ve sonuçlarıyla açıklanması hedeflenmiştir. Bu amaçla; ikincil veriler temin edilmiş, yarı yapılandırılmış görüşmeyle veri toplanmıştır. Alansal değişim ArcGIS ve Google Earth; iklim değişimleri ise trend analizi ile belirlenmiştir. Bulgulara göre; deltada son 30 yılda tarım alanlarının yüzölçümünde büyük bir değişimin olmadığı, ancak tarım arazilerinin yer değiştirdiği belirlenmiştir. Tarım alanları, deltanın kuzey sınırları ve iç kesimlerinde daralırken, kıyılara doğru genişlemiştir. Tarım işletmelerinin ve ihracata yönelik üretimin artması, lojistiğin gelişmesi ve iklim değişmeleri deltada tarım ürünü bazında değişimlere neden olmuş, narenciye, susam, korunga gibi geleneksel ürünlerin yerini çilek ve tropikal meyveler almıştır. Turfandacılık ve tropikal ürün üretiminin artması; don, dolu ve fırtına gibi afetler çiftçileri seracılığa yöneltmiştir.
+Yazar isimleri: ['Harun Reşit BAĞCI', 'Vildan TOPAL']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Coğrafi Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aucbd/issue/72680/1095187
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2339715

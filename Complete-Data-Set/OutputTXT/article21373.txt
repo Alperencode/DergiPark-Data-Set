@@ -1,0 +1,7 @@
+Makale Başlığı: Active tectonic stress field analysis in NW Iran-SE Turkey using earthquake focal mechanism data
+Özet: NW Iran-SE Turkey is a tectonically active zone related to the Arabia-Eurasia convergence, but the active stress state in this zone has not yet been clearly studied. To improve the knowledge of present-day stress state in this region, optimum reduced stress tensor was analysed. For this, a large number of earthquake focal mechanisms (277) were collected. The analyses show most mechanisms exhibit strike-slip to thrust faulting. These data indicate that this region is dominated by an N158 degrees maximum horizontal compressive stress (S-Hmax) belonging to a transpressional tectonic regime. In the scale of the study area, the relative magnitude of the intermediate and minimum principal stress axes do not differ much (phi = 0.09). Brittle deformation in this area is dominantly accommodated by a combination of strike-slip and thrust faulting (A phi = 1.82 to 2.30). The analyses reveal that two sets of faults show a high tendency to slip and reactivate. These sets contain NW-SE-striking right-lateral and NNE-SSW-striking left-lateral faults. The results of this study may help to study the active seismicity, tectonic activity, and seismic risk in this region.
+Yazar isimleri: []
+Yayın Yılı: 22 Mart 2021
+Dergi ismi: Turkish Journal of Earth Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkearth/issue/62421/942029
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1785351

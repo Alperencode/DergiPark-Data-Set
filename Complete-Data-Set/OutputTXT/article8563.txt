@@ -1,0 +1,7 @@
+Makale Başlığı: STUDYING THE ELECTROCHEMICAL BEHAVIORS OF ANODIZED METALLIC IMPLANTS FOR IMPROVED CORROSION RESISTANCE
+Özet: A study about long-term corrosion behavior of anodized and non-anodized Ti6Al4V and MgAZ31B biomaterials was conducted under controlled conditions. By applying 20V DC potential, MgAZ31B alloys was anodized in phosphoric acid and potassium hydroxide while Ti6Al4V alloys was anodized in phosphoric acid and oxalic acid. Long-term experiments were carried out by immersing them in deionized (DI) water, 3% NaCl and phosphate-buffered saline (PBS) solutions. The corrosion rate and pattern were measured by electrochemical analysis. Also, as a result of anodization, the natural oxide layer was observed on the material surface, thus the corrosion rate is reduced and the life of the biomaterial has been improved.
+Yazar isimleri: ['Md. Shafinur MURAD', 'Aybala USTA', 'Ramazan ASMATULU', 'Muhammet CEYLAN']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: İstanbul Ticaret Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ticaretfbd/issue/70676/1109393
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2398800

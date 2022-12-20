@@ -1,0 +1,7 @@
+Makale Başlığı: Çift Fazlı (α + M) Küresel Grafitli Dökme Demirlerde Martenzit Hacim Oranı-Mekanik Özellikler-Dislokasyon Yoğunluğu Arasındaki İlişkilerin İncelenmesi
+Özet: Bu çalışmada, çift fazlı (α+M) küresel grafitli dökme demirlerde (ÇF-KGDD) martenzit hacim oranı-mekanik özellikler-dislokasyon yoğunluğu arasındaki ilişkiler incelenmiştir. Farklı faz hacim oranlarında martenzit ve ötektoid öncesi ferritten oluşan çift fazlı mikroyapılar 770°C, 775°C ve 780°C ara kritik kısmi östenitleme sıcaklıklarından oda sıcaklığındaki suda soğutularak üretilmiştir. Mikroyapı karakterizasyon çalışmaları optik mikroskop, taramalı elektron mikroskobu (SEM) ve X-Işını kırınım (XRD) analizi teknikleri kullanılarak gerçekleştirilmiştir. Mekanik özelliklerin belirlenmesi için çekme ve sertlik testleri yapılmıştır. Dislokasyon yoğunluğu XRD desenlerinden faydalanılarak Williamson-Hall (W-H) eşitliği ile hesaplanmıştır. Artan arakritik östenitleme sıcaklığıyla martenzit hacim oranı ve dislokasyon yoğunluğunun arttığı belirlenmiştir. Martenzit hacim oranı arttıkça sertlik, akma ve çekme dayanımı arttığı, toplam % uzama azaldığı ve kırılma modunun sünekten-gevreğe geçtiği gözlemlenmiştir.
+Yazar isimleri: ['Burak NALÇACI', 'Volkan KILIÇLI', 'Mehmet ERDOĞAN']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/870605
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1542102

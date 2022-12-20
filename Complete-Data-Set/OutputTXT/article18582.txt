@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of Grovth Medium on L-Dopa and Dopamine Production Using Citrobacter freundii (NRRL B-2643)
+Özet: In this study, microbial production of L-Dopa and Dopamine which is an important substrance for the treatment of Parkinson's disease were investigated by using Citrobacter freundii (NRRL B-2643). The effects of carbon source (sucrose) and, salt concentrations (NaCl, CaCl2), initial pH, temperature, inoculum level and shaking speed on L-Dopa and dopamine production were investigated. The amounts of extracellular L-dopa and dopamine were determined by using HPLC. Maximum L-dopa and dopamine production, under optimized conditions (sucrose: 2.5 g/L, NaCl and CaCl2: 1.0 g/L, inoculum level: 1.0% (v/v), initial pH: 6.5, temperature: 33°C, shaking speed: 200 rpm) were found to be 458 and 592 mg/L, respectively. Although the experiments were carried out for 60 hours, but the maximum production of L-Dopa and Dopamine was realized at around the 30th hour of the experiments.
+Yazar isimleri: ['Meltem ÇAKMAK', 'Veyis SELEN', 'Dursun ÖZER', 'Fikret KARATAŞ', 'Sinan SAYDAM']
+Yayın Yılı: 15 Aralık 2022
+Dergi ismi: Journal of Advanced Research in Natural and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jarnas/issue/73467/1109192
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2397873

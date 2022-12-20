@@ -1,0 +1,7 @@
+Makale Başlığı: Boom-Bust Housing Price Dynamic: The Case of Malaysia
+Özet: This paper aims to differentiate housing price bubble from a housing price cycle through the investigation and analysis of the price volatility driving components using graphical analysis, cointegrating regression and mean reversion regression. The findings suggest that Malaysia is not facing any housing bubble at the point of time since there is no sharp upsurge and rapid fall of house prices. The recent upswing in house prices followed by a gradual coming down rather reflect a severe price cycle which started in 2009. The peak was observed in 2013 and since then has reversed into a continuous but gradual fall. The cycle is persisting and has not bottomed out yet.  Our results show that the main reasons for the price booms are speculative herd instinct and lax in house loan lending policy before 2012. Subsequently the various anti cooling measures by the Malaysian government have helped to control price expansion.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353524
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364550

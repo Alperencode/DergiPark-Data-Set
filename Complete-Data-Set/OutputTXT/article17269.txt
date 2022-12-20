@@ -1,0 +1,7 @@
+Makale Başlığı: PULTRUZYON YÖNTEMİ İLE ÜRETİMİ YAPILAN KOMPOZİT MALZEMELERİN SICAKLIK ŞOKU TESTİ SONUCUNDA MEKANİKSEL ÖZELLİKLERİNİN İNCELENMESİ
+Özet: Bu araştırmada, pultrüzyon yöntemi ile üretilmiş olan cam elyaf takviyeli polimer matrisli kompozit profillerin sıcaklık şoku testine maruz bırakılması durumunda mekaniksel özelliklerinin incelenmesi kapsamında deneysel çalışmalar yapılmıştır. Pultrüzyon yöntemi ile üretilen U profili kompozit malzemesinden, üç nokta eğilme, basma ve çekme testleri için ASTM standartlarına uygun şekilde numuneler hazırlanmıştır. Numunelerin bir kısmı sıcaklık şoku testine maruz bırakılmıştır. Ortam koşullarında bulunan ve sıcaklık şoku testine maruz bırakılan numunelerin mekaniksel testleri yapılarak sonuçlar karşılaştırılmıştır. Çalışma sonucunda; sıcaklık şoku testine maruz kalan kompozit malzemelerin üç nokta eğilme ve basma testleri sonucunda elde edilen dayanım değerlerinin sıcaklık şoku testi uygulanmayan numunelere göre daha yüksek olduğu tespit edilmiştir. Bunun yanında, sıcaklık şoku testine maruz bırakılan numunelerin çekme deneyinde elde edilen çekme dayanımlarının sıcaklık şoku testi yapılmayan numunelerin çekme dayanımları ile yaklaşık aynı olduğu tespit edilmiştir.
+Yazar isimleri: ['Büşra LEBLEBİCİER', 'Osman ASİ']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Uşak Üniversitesi Fen ve Doğa Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/usufedbid/issue/70147/1119797
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2441079

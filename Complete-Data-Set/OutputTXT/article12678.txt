@@ -1,0 +1,7 @@
+Makale Başlığı: Cointegration and Causality Relationship Between American Ten-Year Bond Rates and Crude Oil Prices
+Özet: The American ten-year bond market, which is of great importance for financial markets, is a leading indicator for asset prices and other macroeconomic indicators. In the study, the cointegration causality relationship between the weekly data of 2021:01-2022:02 and the US ten-year bond interest rates and crude oil prices was examined. As a result of Johansen cointegration and Granger causality tests, it was concluded that there is a long-term relationship between the American ten-year bond interest rates and crude oil prices in the analyzed period, and that the long-term deviations are short-term due to the negative vector error correction coefficient. In addition, as a result of the Granger causality test, it was determined that there is causality from the American ten-year bond interest rates to the crude oil prices. The conclusion that the US ten-year bond interest rates dominate the markets has been confirmed.
+Yazar isimleri: ['Yusuf Ziya ŞİPAL', 'Elif Meryem YURDAKUL']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Ordu Üniversitesi Sosyal Bilimler Enstitüsü Sosyal Bilimler Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/odusobiad/issue/73138/1098223
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2352133

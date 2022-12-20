@@ -1,0 +1,7 @@
+Makale Başlığı: Investigating Possible Risk Factors and Prognostic Markers for Post-Endoscopic Retrograde Cholangiopancreatography Pancreatitis
+Özet: Post-ERCP pancreatitis (PEP) is the most common postoperative complication. PEP is often mild, but sometimes may be a life-threatening clinical picture. PEP also increases the length of hospitalization and causes an increase in costs. We aimed to present the ERCP results of our hospital and second to investigate the possible risk factors and prognostic markers for PEP. We  found  AST, ALT, Wbc, neutrophil, neutrophil percentage, lymphocyte, lymphocyte percentage, and NLR values were significantly higher in PEP  group than  the other group in this  study.
+Yazar isimleri: ['Genco GENCDAL']
+Yayın Yılı: 30 Aralık 2020
+Dergi ismi: Endoskopi Gastrointestinal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/endoskopi/issue/59090/753336
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1152824

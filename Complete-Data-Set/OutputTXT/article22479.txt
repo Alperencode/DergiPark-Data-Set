@@ -1,0 +1,7 @@
+Makale Başlığı: Evaluation of Water-in-Diesel Emulsion Fuel in Compression Ignition Engines: Effects, Advantages, and Drawbacks
+Özet: The reduction of pollutants released from diesel engines is one of the major challenges that scientists are trying to overcome. There are some emission control techniques that are developed for this purpose. The utilization of Water-in-Diesel Emulsion (WiDE) fuel is an efficient method for emission reduction with no need to any additional engine modification. Especially, simultaneous reduction effect on nitrogen oxides (NOx) and particulate matter (PM) emissions is the most remarkable side of WiDE. Another important phenomenon that emerged when WiDE combustion is micro-explosion which causes to improvement on combustion efficiency. In this study, diesel-water emulsion fuels, their effects on diesel engine performance and emissions, advantages and disadvantages are reviewed and revealed.
+Yazar isimleri: ['Erdi TOSUN', 'Sinan KEİYİNCİ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Cukurova University Journal of Natural and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cunas/issue/72424/1159670
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2586707

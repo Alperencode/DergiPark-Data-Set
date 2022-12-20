@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of the Effect of Clamp Width on the Sliding Behavior of Masonry Stone Blocks
+Özet: Stone and brick type materials were used as traditional building materials in historical buildings. Masonry walls were built by combining these materials with mortar. The tensile strength of masonry building units is quite low. It is desired that masonry structures provide resistance against shear stresses and that the building system moves together. It is necessary to ensure the integration of the elements in the junction and intersection areas of the historical building walls by interlocking. In the past, various metal fasteners have been used to preserve the integrity of historical buildings. Clamps and dowels have come to the fore as these fasteners. In the experimental study, the effect of clamping elements with different widths on the shear strength of the masonry bloks was investigated. For this purpose, 18 test specimens with different clamp widths were produced and subjected to shear strength test.. Obtained results are presented in comparison with graphs and tables. In this study, samples with different clamp widths were evaluated according to their breaking loads and shear strengths.
+Yazar isimleri: ['Şükran TANRIVERDİ', 'Tülin ÇELİK', 'Ali URAL', 'Fatih FIRAT']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/1014685
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2046150

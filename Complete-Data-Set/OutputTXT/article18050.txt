@@ -1,0 +1,7 @@
+Makale Başlığı: The Use of Satellite Imagery as Evidence before the International Court of Justice
+Özet: The data obtained by remote sensing satellites are increasingly used in various fields. Recently, these data have been frequently used as evidence, especially in the proceedings of national and international courts. There are many human/computer interventions from the processing of the raw data obtained by the remote sensing satellite to the final product. Therefore, the main issue here is the reliability of satellite data. Within the scope of this study, we will focus on the practice of the International Court of Justice concerning satellite data as a mode of proof. In this context, issues such as the admissibility of satellite data and evidential weight in the Court proceedings will be discussed.
+Yazar isimleri: ['Tuğrul ÇAKIR']
+Yayın Yılı: 20 Haziran 2022
+Dergi ismi: Ankara Sosyal Bilimler Üniversitesi Hukuk Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/asbuhfd/issue/70306/1100902
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2363822

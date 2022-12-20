@@ -1,0 +1,7 @@
+Makale Başlığı: Tarıma Uygun Alanların Belirlenmesi: Bilecik İli Örneği
+Özet: Bu çalışmada amaç, Bilecik ilinde tarıma uygun alanları tespit etmektir. Veri olarak 1/25000 ölçekli sayısal topografya paftaları, sayısal meşcere haritası, sayısal toprak haritası, yağış, sıcaklık ve akarsu verileri kullanılmıştır. Tarımsal uygunluğa etki edecek 12 ana ve 72 alt parametre uzmanlar tarafından puanlandırıldıktan sonra ağırlıklandırılmış Analitik Hiyerarşi Süreci (AHS) ve Coğrafi Bilgi Sistemleri (CBS) ile 5 sınıfa ayrılan tarımsal uygunluk haritası hazırlanmıştır. Bu uygunluk sınıfları hiç uygun değil, uygun değil, düşük derecede uygun, uygun ve yüksek derecede uygun şeklinde gruplandırılmıştır. Yapılan analize göre araştırma alanında en fazla alan %72,81’lik pay ile 2814,55 km2 alan kaplayan “uygun değil” sınıfına aittir. Ardından %14,52’lik paya sahip ve 561,19 km2 alan kaplayan “düşük derecede uygun” sınıfı; %3,83’lük paya sahip “yüksek derecede uygun” sınıfı yer almaktadır. En az paya sahip olan sınıf ise %0,56 ile “uygun” sınıfıdır. Fiziki çevre koşullarının tarımı sınırlandırdığı araştırma alanında tarıma uygun ve yüksek derecede uygun alanların yaklaşık %90’ı ekili-dikili alan olarak kullanılmaktadır.
+Yazar isimleri: ['Serpil MENTESE', 'Seda KOCA']
+Yayın Yılı: 30 Ekim 2022
+Dergi ismi: Coğrafi Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aucbd/issue/72680/1081180
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2283228

@@ -1,0 +1,7 @@
+Makale Başlığı: Örtülü metal ark ve TIG kaynağı ile birleştirilen X42N, kalite A ve kalite B sınıfı çelik boruların mekanik özelliklerinin incelenmesi
+Özet: Bu çalışmada, ilk olarak TS EN ISO 3183 standartlarındaki X42N, kalite A ve kalite B borular, TIG ve elektrik ark kaynak yöntemleri ile birleştirilmiştir. Birleştirme işlemleri sonrası malzemelerin mekanik özelliklerini tespit etmek ve kaynak uygulamasının performansını belirlemek için radyografik muayene, kök eğme, çentikli kırma, makro yapı incelemesi ve sertlik testi uygulamaları gerçekleştirilmiştir. Gerçekleştirilen testler sonucunda,  TIG kaynağı yönteminin, elektrik ark kaynağı yöntemine göre boru iç çapında daha az daralma oluşturduğu ve daha iyi mekanik özellikler sağladığı tespit edilmiştir. Testleri gerçekleştirilen boru tipleri arasında ise X42N kalite borunun, diğer iki boru sınıfına göre daha iyi mekanik özellikler sağladığı tespit edilmiştir. Öte yandan, sertlik değerlerinin artışıyla mekanik özelliklerin iyileşmesi arasında paralellik olduğu gözlemlenmiştir.
+Yazar isimleri: ['Cevat ÖZARPA', 'Ahmet AKKUŞ', 'Bahadır Furkan KINACI']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: Gazi Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gazimmfd/issue/72928/1068748
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2234764

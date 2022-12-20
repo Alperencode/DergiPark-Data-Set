@@ -1,0 +1,7 @@
+Makale Başlığı: Optimization of extraction parameters of cationic dye using emulsified liquid membrane process. Application of Box-Behnken design
+Özet: Cationic dye (Methylene blue) was extract from waste water by using emulsified liquid membrane process. The membrane composed of two phases: organic and aqueous. D2EHPA, SPAN 80 and acid are the composition of aqueous phase, however the fuel oil represent the organic phase. The effect of different parameters such as the initial concentration of cationic dye (MB), the addition of salt (KCl/ NaCl/ Na2SO4), acid (HCl/ H2SO4/H3PO4) and the extractant concentration (10, 30 and 50 ppm) was examined using Box-Behnken design. The optimization of the extraction has been showed that the extraction efficiency reach100% for the following optimum operating conditions: 30 ppm for the initial concentration of [BM]0, 10%w for the extracting (D2EHPA) with the presence of Na2SO4 and H2SO4. It can be said that the ELM method is efficient for the removal of methylene bleu.
+Yazar isimleri: ['Salima BENDEBANE']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: International Journal of Chemistry and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijct/issue/69466/986667
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1940212

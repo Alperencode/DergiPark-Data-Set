@@ -1,0 +1,7 @@
+Makale Başlığı: Pazar Yeri Alanı  İmar Parsellerinde Mesafe Yaklaşımına Göre İmar Çapı Gösterimi
+Özet: Marketplaces are zoning islands or uniform zoning parcels created to meet the needs of people in zoned areas. These islands or parcels may have different characteristics. These are the areas that need to be created on the basis of neighborhoods, especially in areas with a high human population where there are residential areas. In our study, an examination has been made on how the drawing distances should be on the basis of parcels or islands to the market place areas. Since these places will be created in the planned areas from the outside of the parcel to the inside of the plot, it is a research on how to draw them according to their heights. As a method, it has been revealed by adding distance and showing different shots over plans with convex approaches.
+Yazar isimleri: ['Selim TAŞKAYA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Bingöl Üniversitesi Teknik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/buts/issue/70532/1038391
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2139264

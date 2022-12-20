@@ -1,0 +1,7 @@
+Makale Başlığı: Ülke Riskinin Promethee Yöntemi İle Değerlendirilmesi
+Özet: Küreselleşen günümüz dünyasında yatırımlar ve sermaye hareketleri, ülkelerin kredi notlarına göre şekillenmektedir. Bu nedenle uluslararası kredi derecelendirme kuruluşları, fon ihtiyacı içerisindeki ülkelerin ihtiyaç duydukları fona erişmelerinde kilit rol üstlenmektedir. Bu kuruluşların açıkladığı kredi notları, ülkelerin borç ödeme kapasitesini ortaya koymaktadır. Bu notların verilmesinde ülke riski de kriter olarak kullanılmaktadır.. Bu çalışmada Türkiye ile benzer niteliklere ve risklere sahip 14 ülkenin ülke riski PROMETHEE yöntemi ile değerlendirilmiş ve elde edilen bulgular, kredi derecelendirme kuruluşlarının yayınladıkları notlar ile karşılaştırılmıştır. Promethee yöntemi ile yapılan değerlendirme sonuçları büyük ölçüde kredi derecelendirme kuruluşları ile tutarlı sonuçlar üretirken, sürpriz bulgulara da rastlanmıştır
+Yazar isimleri: ['Okan ÖZ', 'Nevser Mine TÜKENMEZ']
+Yayın Yılı: 31 Aralık 2020
+Dergi ismi: İzmir YMMO Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/izmirymmodergisi/issue/61138/857899
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1500912

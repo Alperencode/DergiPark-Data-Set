@@ -1,0 +1,7 @@
+Makale Başlığı: Using Digital Games as a Strategic Tool to Reinforce Positive Health Behaviour
+Özet: Technology plays a vital role in the healthcare industry. Consequently, digital healthcare is gaining momentum, which brings forth the usage of gamification for predictive/preventive care, diagnosis, therapy and palliative care for patients and non-patients. Gamification is also applied for educational purposes, patient monitoring, medical adherence and professional training in the health sector. Digital health games promise to address a broad audience with quick and easy accessibility but are not competent enough to ensure users' long-term motivation and engagement. This paper focuses on the classification of digital health games, their implementation areas, the strategies and factors that contribute to successful digital health games and their effects on health behaviour change.
+Yazar isimleri: ['Hakan KAÇAK']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Stratejik Yönetim Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/syad/issue/72871/1167217
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2616893

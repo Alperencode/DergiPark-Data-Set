@@ -1,0 +1,7 @@
+Makale Başlığı: The effect of H2O on the sulfation of Havelock limestone under oxy-fuel conditions in a thermogravimetric analyser
+Özet: A gas mixture representing oxy-fuel combustion conditions was employed in a thermogravimetric analyser to determine the effect of water vapor and SO2 concentration on limestone sulfation kinetics over the temperature range of 800 to 920 degrees C. Here, experiments used small samples of particles (4 mg), with small particle sizes (d(p) < 38 mu m) and large gas flow rates (120 mL/min@ NTP) in order to minimize mass transfer interferences. The gas mixture contained 5000 ppm v SO2, 2% O-2, and the H2O content was changed from 0% to 25% with the balance CO 2. When water vapor was added to the gas mixture at lower temperatures (800-870 degrees C), the limestone SO2 capture efficiency increased. However, as the temperature became higher, the enhancement in total conversion values decreased. As expected, Havelock limestone at higher temperatures (890 degrees C, 920 degrees C, and 950 degrees C) experienced indirect sulfation and reacted at a faster rate than for lower temperatures (800-870 degrees C) for direct sulfation over the first five minutes of reaction time. However, the total conversion of Havelock limestone for direct sulfation was generally greater than for indirect sulfation.
+Yazar isimleri: []
+Yayın Yılı: 28 Nisan 2021
+Dergi ismi: Turkish Journal of Chemistry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkchem/issue/62575/944758
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1795067

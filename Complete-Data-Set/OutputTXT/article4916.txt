@@ -1,0 +1,7 @@
+Makale Başlığı: Kiriş Benzeri Sistemler için Kuvvet Tanı ve Sistem Tanımlama için Yeni Bir Yaklaşım: Mod Tarif
+Özet: Yapı sağlığı izleme yöntemleri yapının işleyişi sırasında, yapı çevresel titreşimlere maruz iken, sistemi tanımayı dolayısıyla hasarı tespit etmeyi hedefler. Bu çalışmada, çevresel titreşimler için geçerli olabilecek mod tarif yöntemi aktarılmaktadır. Bu çalışmada önerilen ve farklı iki kuvvet etkime konumuna göre mod değişkenlerinin hesaplanmayı hedefleyen mod tarif yöntemi modal plan yöntemini kullanır. Modal planların bu çalışmada kullandığı yöntem serbest titreşimler için geçerli bir yöntemdir. Böylece, bu çalışma ile yazına yeni olarak, hem serbest titreşimler hem de çevresel titreşimler için geçerli olabilecek bir yöntem aktarılmıştır.Genel olarak, çevresel titreşim analizlerinde yapıya etkiyen kuvvetler ölçülmez. Fakat bu çalışmada yazına yeni olarak kiriş benzeri sistemlerde modal planlar kullanılarak, kuvvetler ölçülmeden kuvvet konumunun tahmini çevresel titreşimler altında yapılabileceği gösterilmiştir. Sistem tanımlama adımındaki muhtemel hatanın en aza indirilebilmesi için kuvvet etkime konumunun çözümleme yapılan serbestlik derecesine yakın olmasının ve hedef frekans aralığına göre veri örnekleme sıklığının belirlenmesinin önemi vurgulanmıştır.
+Yazar isimleri: ['Tarık TUFAN']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: El-Cezeri
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ecjse/issue/70108/956081
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1837836

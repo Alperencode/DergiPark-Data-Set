@@ -1,0 +1,7 @@
+Makale Başlığı: TRIPLE DEFICIT PRESSURE INDEX AND ANALYSIS OF THE RELATIONSHIP BETWEEN TRIPLE DEFICIT PRESSURE INDEX AND MACROECONOMIC VARIABLES: TURKEY CASE
+Özet: The aim of this study is to create a Triple Deficit Pressure Index for the Turkish economy in the period of 1998 - 2020 and to examine its relationship with selected macroeconomic - financial indicators by ARDL method. The Triple Deficit Pressure Index is valid in the Turkish economy. ARDL Bound test results are statistically significant. Borsa İstanbul 100 Index Value, Banking Sector Credit Volume, Current Account Deficit, Domestic Debt Stock, Export Import Coverage Ratio, Manufacturing Capacity Utilization Rate and USD / TRL buying rate are statistically significant and long-term relationship occurs between significant variables and the Triple Deficit Pressure Index. According to Granger Causality test results, there is one-way causality from Banking Sector Credit Volume and Industrial Production Index to Triple Deficit Pressure Index.
+Yazar isimleri: ['Murat AKKAYA']
+Yayın Yılı: 1 Haziran 2022
+Dergi ismi: Beykoz Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/beykozad/issue/71287/1074593
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2257531

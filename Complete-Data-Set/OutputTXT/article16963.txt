@@ -1,0 +1,7 @@
+Makale Başlığı: Panel Data Analysis in Investigation The Economic Growth of Turkic States
+Özet: Bu çalışmanın amacı bazı Türk devletlerinin ekonomik büyümesini makroekonomik değişkenler kullanılarak bu değişkenler arasındaki ilişkiyi incelemektir. Bu çalışmada dünya bankasından elde edilen makroekonomik veriler ile 2000-2018 yılları arasında Türk dünyasında yer alan bazı ülkelerin ekonomik durumu incelenmiştir. Seçili değişkenler ile ekonomik büyüme arasındaki ilişki panel eşbütünleşme testi ile analiz edilmiştir. Eşbütünleşme testinden (cointegration test) önce verilerin homojenliği test edilmiş, verilere çeşitli yatay kesit bağımlılık testleri uygulanmış ve paneli oluşturan yatay kesitlerin birbiri ile bağımlılığı incelenmiştir. Son olarak da Common Corelated Effects Model testi uygulanmıştır. Yapılan Swamy S testi ile değişkenlerin homojen olduğu belirlenmiş ve serilerde yatay kesit bağımlılığının olduğu tespit edilmiştir.  Sonrasında değişkenlerin durağanlığı incelenmiş düzey değerlerde durağan olmadıkları ancak birinci farklarda durağan oldukları belirlenmiştir. GSYİ ile E, Ar-Ge, GSYİ büyüme oranı arasında uzun dönemli anlamlı bir ilişki olduğu belirlenmiştir. Ancak GDP ile PA arasında ise uzun dönemli anlamlı bir ilişki olmadığı görülmüştür.
+Yazar isimleri: ['Hakan EYGÜ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Sosyal Bilgilerde Yeni Yaklaşımlar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sbyy/issue/70415/1075022
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2259284

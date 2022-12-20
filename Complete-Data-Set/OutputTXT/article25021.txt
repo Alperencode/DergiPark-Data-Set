@@ -1,0 +1,7 @@
+Makale Başlığı: Implementation of Broadcast Authentication Protocol For Multimedia Communication
+Özet: One of the key challenge of securing broadcast statement is source authentication, that is enabling receivers of broadcast facts to validate that the received data actually originates from the claimed source and was not modified on the way. This problem becomes more complex in real time communication where other receivers of the data are not trusted and where lost packets are not retransmitted.This application is mainly developed for assuring authenticity of multimedia data. It is implemented in java using java media arrangement to send audio video information over real time transport protocol. Message authentication code (MAC), which is a symmetric cryptographic primitive, is used for providing authentication. Delayed key disclosure technique is used to overcome the drawback of MAC. Elements of one-way hash chains are used as keys in order to implement the above technique. This is a capable protocol with low communication transparency, tolerates packet loss and it is primarily based on loose time harmonization between the sender and the receiver.
+Yazar isimleri: []
+Yayın Yılı: 22 Aralık 2018
+Dergi ismi: International Journal of Educational Researchers
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijers/issue/43106/522270
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/641577

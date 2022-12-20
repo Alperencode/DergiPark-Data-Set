@@ -1,0 +1,7 @@
+Makale Başlığı: Classes of bi-Starlike and bi-Convex Bounded Functions with Complex Order
+Özet: In this paper, estimates for second and third coefficients of certain classes of bi-starlike and bi-convex bounded functions with complex order in the open unit disk are determined, and certain special cases are also indicated.
+Yazar isimleri: ['Mohamed Kamal AOUF', 'Tamer SEOUDY']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: Konuralp Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/konuralpjournalmath/issue/31499/885054
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1595185

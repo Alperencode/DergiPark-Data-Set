@@ -1,0 +1,7 @@
+Makale Başlığı: RF ve Mikrodalga Devre Tasarımında Dielektrik Taban Kayıp Çarpanının Mikroşerit Hat Güç Kayıplarına Etkisinin Araştırılması
+Özet: Bu makalede, radyo frekansı (RF) ve mikrodalga devre uygulamalarında kullanılan farklı dielektrik tabanların kayıp çarpanlarının, mikroşerit hatlar üzerindeki güç kayıplarına olan etkileri araştırılacaktır. Araştırmanın frekans alt sınırı 1 GHz, üst sınırı ise 30 GHz olarak belirlenmiştir. Dielektrik tabanın iletkeni 35um kalınlığında elektroçöktürme bakır olarak seçilmiştir. Test amaçlı tasarlanan mikroşerit hat her frekans için 50Ω karakteristik empedansa sahip olacaktır. Araştırmaya konu edilen dielektrik tabanlar FR4, RO3003, RO3010, RO4003C, RO4350B, RT/Duroid 5880, RT/Duroid 6002, ve RT/Duroid 6006 olmakla beraber, dielektrik taban kalınlığı standart ölçülerden biri olan 0.508 mm seçilmiştir. Araştırmanın sonucunda tüm frekanslarda en düşük güç kaybının RT/Duroid 5880 tabanda, en yüksek güç kaybının ise FR4 tabanda olduğu görülmüştür. Ayrıca frekans arttıkça bütün dielektrik tabanlarda güç kayıplarının arttığı görülmüştür.
+Yazar isimleri: ['Oğuzhan KIZILBEY']
+Yayın Yılı: 23 Ağustos 2022
+Dergi ismi: Erciyes Üniversitesi Fen Bilimleri Enstitüsü Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/erciyesfen/issue/72216/732964
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1089757

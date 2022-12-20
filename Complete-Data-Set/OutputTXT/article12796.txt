@@ -1,0 +1,7 @@
+Makale Başlığı: The First Photometric Analysis of Short-Period Contact Binary Star: KIC3848042
+Özet: This study gives the first photometric analysis of W Uma type eclipsing contact binary KIC3848042 with an orbital period of 0.4114527 days in the Kepler field of view. The photometric data were modeled using the PHOEBE code based on Wilson-Devinney program. From the results of light-curve modeling, it was found that the best solution for system was to be a mass ratio of 0.473, orbital inclination of 34.0, temperature of the secondary star of 6330K and surface potentials (1=2) of 2.8. The results showed that KIC3848042 is a near-contact binary with a fill-out factor of 8.3%. The absolute parameters of KIC3848042 were calculated as orbital axis a = 3.120Rʘ; masses M1 = 1.633Mʘ and M2 = 0.770Mʘ; radii R1 = 1.406Rʘ and R2 = 0.998Rʘ; luminosities L1 = 2.967Lʘ and L2 = 1.432Lʘ. Moreover, their absolute and bolometric magnitudes were calculated to be MV,1=3m.973 and Mbol,1=3m.589 for the primary component and  Mbol,2=4m.380 and  MV,2=4 m.763, respectively. Considering the mass ratio and masses of the primary component, KIC3848042 is an W-subtype W-UMa eclipsing binary system in main sequence. The spectral types of the components seem to be approximately F7V.
+Yazar isimleri: ['Muhittin ŞAHAN']
+Yayın Yılı: 12 Aralık 2022
+Dergi ismi: Osmaniye Korkut Ata Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/okufbed/issue/73710/1062794
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2211944

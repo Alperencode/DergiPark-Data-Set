@@ -1,0 +1,7 @@
+Makale Başlığı: BİTCOİN, ALTIN VE DOLAR NEDENSELLİK ANALİZİ: TODA YAMAMOTO YAKLAŞIMI UYGULAMASI
+Özet: Çalışmanın amacı, Bitcoin, Dolar ve altın arasındaki ilişkiyi incelemektir. Çalışmanın kapsamı, 15.09.2015/21.09.2021 tarihleri arasındaki “tr.investing.com” adresinden alınan Bitcoin, Dolar ve altına ait 72 adet aylık veriyi içermektedir. Çalışmada Bitcoin, Dolar ve altın arasındaki nedenselliği araştırmak için Toda ve Yamamoto tarafından önerilen Granger nedensellik testi kullanılmıştır. İlk önce, toplam gecikme uzunluğu bulunmuştur. İkinci olarak, toplam gecikme uzunluğuna göre VAR model kullanılarak değişen varyans ve eşzamanlı korelasyonu dikkate alan denklem sistemleri tahmin edilmiştir. Üçüncü olarak, Bitcoin, Dolar ve altın arasındaki ilişkilerin anlamlılığı Wald test kullanarak analiz edilmiştir. Sonuç olarak, altından Dolar ve Bitcoin’e doğru tek yönlü Granger nedensellik vardır. Dolardan Bitcoin ve altına doğru tek yönlü Granger nedensellik vardır. Bitcoin’den altın ve Dolara doğru Granger nedensellik yoktur. Altından Dolara ve Dolardan altına doğru çift yönlü Granger nedensellik vardır. Çalışmada elde edilen sonuçlar, literatür ile benzerlik göstermektedir.
+Yazar isimleri: ['Muhammet Sait IŞILDAK']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Uluslararası Muhasebe ve Finans Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijafr/issue/70794/1024793
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2086011

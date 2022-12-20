@@ -1,0 +1,7 @@
+Makale Başlığı: Some results on pseudosymmetric normal paracontact metric manifolds
+Özet: In this article, the M-projective and Weyl curvature tensors on a normal paracontact metric manifold are discussed. For normal paracontact metric manifolds, pseudosymmetric cases are investigated and some interesting results are obtained. We show that a semisymmetric normal paracontact manifold is of constant sectional curvature. We also obtain that a pseudosymmetric normal paracontact metric manifold is an ηη-Einstein manifold. Finally, we support our topic with an example.
+Yazar isimleri: ['Mehmet ATÇEKEN', 'Tuğba MERT']
+Yayın Yılı: 30 Aralık 2022
+Dergi ismi: Communications Faculty of Sciences University of Ankara Series A1 Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cfsuasmas/issue/73381/937043
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1767527

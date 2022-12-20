@@ -1,0 +1,7 @@
+Makale Başlığı: Binaların Deprem Risk Durumlarının Çok Faktörlü Bir Modelle Belirlenmesi
+Özet: Bu çalışmada, Sakarya İli, Akyazı ilçe merkezinde 1967-1999 depremleri arasında yapılan 12 eski binanın deprem risk durumları çok faktörlü bir model ile belirlenmiştir. Bu amaçla, ilk olarak yerinde inceleme ve gözlem yapılarak öncelik sırasına göre riskli olduğu düşünülen binalar tespit edilmiştir. İkinci aşamada, bu yapılar çok faktörlü P-25 metodu ile değerlendirilmiş ve yapıların ilk deprem risk puanları oluşturulmuştur. Üçüncü aşamada ise riskli olduğu belirlenen yapıların mimari ve statik projeleri de incelenerek puanlandırılmış ve toplam risk puanları elde edilmiştir. Buna göre binaların yaklaşık %8’ inin düşük riskli, %58’nin orta riskli ve %34’ünün de yüksek riskli olduğu, orta ve yüksek riskli binaların ise toplamda %92 oranında olduğu tespit edilmiştir. Bu sonuçlar dikkate alınarak Akyazı ilçesinde kentsel dönüşüm çalışmalarına riskli olan binaların olduğu alanlardan başlanılması, olası bir depremde can ve mal kayıplarını önlenmesi, bu çalışmanın deprem bölgelerinde örnek olarak uygulanması, benzer yerleşim alanlarındaki yapıların muhtemel Deprem Risk durumlarının tespit edilerek bu yerler için kentsel dönüşüme katkı sağlanması amaçlanmıştır.   
+Yazar isimleri: ['Ercan OZGAN', 'Hüseyin BAYRAKTAR', 'Sinan GÜL']
+Yayın Yılı: 25 Ekim 2022
+Dergi ismi: Düzce Üniversitesi Bilim ve Teknoloji Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dubited/issue/73115/1033710
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2120209

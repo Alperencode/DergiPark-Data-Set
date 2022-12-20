@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’deki işletmelerde nesnelerin interneti: Uygulamadaki engeller üzerine bir araştırma
+Özet: Bu çalışmada, Türkiye’de faaliyet gösteren işletmelerde Nesnelerin İnternetinin uygulamasının önündeki engellerin araştırılması ve önem sıralamalarının saptanması amaçlanmaktadır. Bu amaçları gerçekleştirmek için karma bir araştırma yöntemi tasarlanmıştır. Üç aşamadan oluşan bu araştırmada ilk iki aşamada Delphi yöntemi, üçüncü aşamada ise AHP (Analitik Hiyerarşi Süreci) yöntemi kullanılmıştır. Delphi yöntemiyle Nesnelerin İnternetinin uygulanmasında karşılaşılan engellerin belirlenmesi hedeflenmiş, AHP yöntemiyle ise Delphi yöntemiyle belirlenen bu engellerden hangilerinin daha kritik olduğu saptanmaya çalışılmıştır. Araştırma sonucunda sistem kurulum maliyeti, operasyon ve işletim maliyeti, yatırımın geri dönüş süresinin uzun olması, teknolojilerdeki değişime karşı insanların gösterdiği direnç ve internet altyapısının yetersizliği engelleri ilk sıralarda yer almıştır.
+Yazar isimleri: ['Hilal ÖZÇELİK', 'Sibel YILDIZ ÇANKAYA']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Balıkesir Üniversitesi Sosyal Bilimler Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunsobed/issue/70843/984396
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1931612

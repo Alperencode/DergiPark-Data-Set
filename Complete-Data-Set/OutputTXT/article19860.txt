@@ -1,0 +1,7 @@
+Makale Başlığı: Liquidity and Profitability in Turkish Tourism Corporations
+Özet: An adequate level of liquidity prevents a business from short-term insolvency, while excess levels of liquidity represent idle funds that jeopardize the overall profitability of a business. The study aspires to reveal the influence of liquidity on the profitability of Turkish tourism corporations listed on the Borsa Istanbul (BIST). The secondary data is retrieved from the financial statements of listed eight tourism corporations trading on the Tourism index (XTRZM). The data is analyzed by two different panel data regression approaches which are Pooled OLS and LSDV (Fixed Effects) regression models. The models employ liquidity ratios and profitability ratios as independent variables and dependent variables respectively. The findings of Pooled OLS regression model affirm that each liquidity ratio significantly influences the profitability of Turkish tourism corporations while the LSDV regression model found the effect statistically insignificantly.
+Yazar isimleri: []
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Journal of Humanities and Tourism Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/johut/issue/71540/1148997
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2558387

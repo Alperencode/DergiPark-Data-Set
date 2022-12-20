@@ -1,0 +1,7 @@
+Makale Başlığı: Time frame for future large earthquakes near Istanbul based on east-to-west decelerating failure of the North Anatolian Fault
+Özet: Large earthquakes that have occurred along the North Anatolian Fault (NAF) were analysed to elaborate the time frame of future large earthquakes near Istanbul. The historical earthquake catalog that was compiled covered 1 nearly complete and 2 fully complete failures of the NAF between 1250 and 2000 AD. These data were used to investigate the space-time systematics of M >= 7.0 earthquakes. The catalogue identified an east-to-west decelerating domino-like failure of the NAF. The deceleration starts around the western tip of the 1944 Gerede rupture. This suggested that failure of the remaining unruptured similar to 250-km section in the west (Istanbul to Saros) will take substantially longer than failure of the already ruptured similar to 950-km section in the east (Karliova to Izmit). The calculations indicated that complete failure of the NAF will last for 243 +/- 3 years. The deceleration could not be explained by strain partitioning between the subparallel strands of the NAF in the Marmara region.
+Yazar isimleri: []
+Yayın Yılı: 22 Mart 2021
+Dergi ismi: Turkish Journal of Earth Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkearth/issue/62421/942023
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1785343

@@ -1,0 +1,7 @@
+Makale Başlığı: New Pd(II)PPh3 Complex Bearing Meta-Cyanobenzyl-Substituted NHC: Crystal Structure and Computational Studies
+Özet: Crystal structure of palladium(II) complex containing meta-cyanobenzyl substituted NHC and triphenylphosphine were established by single-crystal XRD method. The molecular geometry in optimized form has been studied based on DFT/B3LYP hybrid functional method using the GEN basis set. The HOMO and LUMO analyses are used to compute the energy gap and to determine a number of molecular properties including softness, hardness, chemical potential, and electronegativity. Besides, the molecular stability due to hyperconjugative interactions and charge delocalization have been executed benefiting from the natural bond orbital analysis. Also, atomic charge analysis was conducted by the DFT method.
+Yazar isimleri: ['Betül ŞEN']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Iğdır Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jist/issue/73493/1160050
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2588335

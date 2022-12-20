@@ -1,0 +1,7 @@
+Makale Başlığı: SDS-PAG Elektroforezinin Et ve Sakatat Analizinde Kullanılması
+Özet: Sodyum Dodesil sülfat poliakrilamid jel elektroforezi (SDS-PAGE), bir protein karışımının bileşenleri ayrı ayrı çözmek için en yaygın kullanılan analitik yöntemdir. Ayrıca bir proteinin saflığını elektroforetik bir yöntemle değerlendirmek neredeyse zorunlu hale gelmiştir. SDS-PAGE, proteinlerin moleküler boyuttaki farklılıkları ile jel matrisi boyunca %1' den daha az farklılık gösteren elektroforetik hareketliliklerini aynı anda kullanarak proteinleri birbirinden ayırır. Teknik aynı zamanda proteinlerin moleküler ağırlıklarını tahmin etme de güçlü bir araçtır.Protein analizinde vazgeçilmez bir araç olarak SDS-PAGE'in başarısı, elektroforetik hareketliliğin bir proteinin moleküler kütlesi ile korelasyonuna izin vermektedir. Ve günümüzde başarılı bir SDS-PAGE analizi sadece ve sadece dikkatli numune hazırlama ve yüklemeden önce işlemlere bağlıdır.Bu makalede en basit SDS-PAGE analizinin farklı et ve sakatat örneklerinin ayrımında kullanılabileceği anlatılmaktadır.
+Yazar isimleri: ['Özgür KAYNAR', 'İsmail Erim KÖSEOĞLU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Akademik Et ve Süt Kurumu Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/aeskd/issue/72720/1146771
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2550339

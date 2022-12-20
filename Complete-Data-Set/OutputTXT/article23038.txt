@@ -1,0 +1,7 @@
+Makale Başlığı: Aerodynamic efficiency analysis of variable morphing wings
+Özet: Bu makalede değişken kanat ve/veya kanatçık kavramları incelenmiştir. Çalışmanın amacı, morphing uçaklarının aerodinamik verimliliğini artırmak için kanatları ve kanatçıkların değişim açılarını belirlemek ve optimize etmekti. Analiz, değişen tarama açısına ve kanat ucu bükümüne ve ayrıca eğim açısı biçim değiştirmesine (Γ = 0° - 45° φ = -10°- 10° ve Λ = 0° - 30°) dayanmaktadır. VLM analiz yöntemi kullanılarak farklı kanat varyasyonları denenmiştir. Sonuç olarak, optimum performans faydalarını elde etmek için gerekli açı uyarlanarak uçuş özelliklerinde önemli gelişmeler gözlemlenmiştir
+Yazar isimleri: ['Erdogan KAYGAN', 'Tugce KOROGLU', 'Melisa BASAK']
+Yayın Yılı: 1 Eylül 2022
+Dergi ismi: International Journal of Aeronautics and Astronautics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijaa/issue/72354/1088399
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2311898

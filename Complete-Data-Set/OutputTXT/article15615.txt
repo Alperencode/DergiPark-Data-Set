@@ -1,0 +1,7 @@
+Makale Başlığı: Mathematical Analysis of The Hash Functions as a Cryptographic Tools for Blockchain
+Özet: Blockchain is one of the most interestingly developing technologies today, with its applications in many fields from smart contracts to cryptocurrencies. In this respect, blockchain is a hot modern topic nowadays. This study presents a mathematical analysis of cryptographic hash functions, which are one of the most important elements for understanding the security foundations of this technology. In this analysis presented; Hash functions, which are one of the building blocks of blockchain technology, used to ensure information integrity, have proven to be resistant to collision resistance, which is very important in data mining. Thus, a theory has been put forward that will contribute to time and energy saving, which is one of the important problems in data mining, in which blockchain technology is used.
+Yazar isimleri: ['Muharrem Tuncay GENÇOĞLU']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Turkish Journal of Science and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjst/issue/72762/1140811
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2526397

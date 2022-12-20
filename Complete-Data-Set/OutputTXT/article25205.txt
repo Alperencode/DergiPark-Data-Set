@@ -1,0 +1,7 @@
+Makale Başlığı: Modelling and Experimental Study on Renewable Energy Based Hybrid Systems
+Özet: In this paper a Renewable Energy Sources (RES) based hybrid system was designed and implemented. It has to cover several electric loads each one corresponds to the annual demands of a typical house, a typical country house and a small company. Experimental process reveals the efficient satisfaction of the desirable electric demands. These scenarios were also simulated by using HOMER software to determine time step results (over 95% load coverage). Moreover, it was found that the served power cannot meet the primary load when simulations take place at HOMER environment. These results are in contradiction with experimental observations that indicate the nearly uninterruptable coverage of the selected annually loads. In order to fill the gap between the real life operation and the simulation process of a hybrid RES project, an Innovative Theoretical Model Simulation (ITMS) based on a mathematical strategy plan, which incorporates the battery bank’s State of Charge (SOC), has been developed to accurately predict an autonomous system operation, found in excellent agreement with the experimental results.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2015
+Dergi ismi: International Journal Of Renewable Energy Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrer/issue/16069/167905
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/148008

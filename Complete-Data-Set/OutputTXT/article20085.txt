@@ -1,0 +1,7 @@
+Makale Başlığı: Does Labor Force with Advanced Level of  Education Contribute to the Economy? An  Analysis on Developed Countries
+Özet: The development of human capital, which is one of the important elements of economic growth, can be achieved by increasing the education levels of individuals. Therefore, labor with increased education level is expected to have a positive effect on economic growth. However, using higher education as to reduce unemployment rates by governments (especially in developed countries) to save the day has the opposite effect. Therefore, the workforce with a high level of education, which is expected to contribute to economic growth, does not contribute to the economy, and even has a negative effect. In this study, the effect of education level on economic growth was examined by panel ARDL method using the panel data set of developed countries (Germany, Hong Kong, Ireland, Norway, and Switzerland) for the period 2000-2019. According to the results, while labor force with basic and intermediate level of education contribute positively to the economy, labor force with advanced level of education has a negative effect on economic growth. As a result of this, it has been observed that investments in education have a negative impact on the country's economy.
+Yazar isimleri: []
+Yayın Yılı: 25 Eylül 2021
+Dergi ismi: Kesit Akademi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kesitakademi/issue/65705/1019338
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2064518

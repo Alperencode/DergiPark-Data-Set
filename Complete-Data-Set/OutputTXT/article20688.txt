@@ -1,0 +1,7 @@
+Makale Başlığı: Makine öğrenme yöntemleri ile ağ trafik analizi
+Özet: Saldırı Tespit Sistemleri (STS) ağa yapılan saldırıları ağ yöneticilerine bildirmek için kullanılan tekniklerden biridir. Her ne kadar çeşitli anomali tespit teknikleri geliştirilmiş olsa da, bu alanda yüksek veri boyutsallığı, hesaplama karmaşıklığı üzerindeki etki, ve hesaplama süresi gibi zorluklar ve sorunlar bulunmaktadır. Bunun yanı sıra saldırı tespit sistemlerinin yanlış alarm vermeleri de anomali trafik tespit sorunlarından biri olmakta, bu sorunları aşmak için makine öğrenme yöntemlerine başvurarak sorunların azaltılması ve saldırı tespit sistemlerinin performansını yükseltilmesi amacıyla kullanılmaktadır. Bu çalışmada saldırı tespit sistemlerinin performansını yükseltmek amacıyla belirlediğimiz makine öğrenme yöntemlerini uygulayarak en iyi performansı gösteren J48 algoritması olup %99.92 bir doğruluk oranı elde edilmiştir. Bu algoritma saldırı tespit sistemleri tarafından kullanılması için önerilen algoritma olup STS’nin çeşitli ağ trafiğini ayırt etmesine ve dışarıdan gelen trafiği saldırı olup olmadığına karar vermesinde yardımcı olacaktır.
+Yazar isimleri: ['Bülent TUĞRUL', 'Adil Shihab Ahmed AHMED']
+Yayın Yılı: 14 Ekim 2022
+Dergi ismi: Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ngumuh/issue/73005/1113956
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2416699

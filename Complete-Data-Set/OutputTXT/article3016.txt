@@ -1,0 +1,7 @@
+Makale Başlığı: An Emotion Recognition Model Using Facial Expressions in Distance Learning
+Özet: The most important factor on the success of the student is the student's readiness for the lesson, motivation, cognitive and emotional state. In face-to-face education, the educator can follow the student visually throughout the lesson and can observe his emotional state. One of the most important disadvantages of distance learning is that the emotional state of the student cannot be followed instantly. In addition, the processing time of emotion detection, in which real-time emotion detection will be performed, should be short. In this study, a method for emotion recognition is proposed by using distance and slope information between facial landmarks. In addition, the feature size was reduced by detecting only those that are effective for emotion recognition among the distance and slope information with statistical analysis. According to the results obtained, the proposed method and feature set achieved 86.11% success. In addition, the processing time is at a level that can be used in distance learning and can detect real-time emotion.
+Yazar isimleri: ['Beyza ESİN ÖZSEVEN', 'Naim CAGMAN']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Bitlis Eren Üniversitesi Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bitlisfen/issue/72854/1079499
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2276638

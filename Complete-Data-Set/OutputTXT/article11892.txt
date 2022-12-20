@@ -1,0 +1,7 @@
+Makale Başlığı: Effects of Precipitation on Slope Stability in Open Mines: A Case Study
+Özet: Günümüzde açık ocak derinlikleri artmaktadır. Buna paralel olarak stabilite sorunları da artmaktadır.Açık ocaklarda şev stabilitesini etkileyen birçok parametre vardır. Kaya kütlesi kalitesi,kaya dayanımı ve yeraltı suyu seviyesi gibi parametreler şev stabilitesi üzerinde doğrudanetkili parametrelerdir. Yeraltı ve/veya yüzey suları (yağış, nehir vb.) kaya yapısının geçirgenliğinebağlı olarak şev stabilitesini de etkiler. Tasarımcılar, açık ocak planlamasında genellikleyüzey sularının şev stabilitesi üzerindeki etkisini dikkate almazlar. Bu çalışmada, yağış etkilerinindahil edildiği bir açık ocak tasarımında, şevlerdeki deformasyon miktarı artsa bile yenilmeolmadığı ve bu yağışların stabilite üzerinde ne kadar etkili olduğu açıklanmıştır.
+Yazar isimleri: []
+Yayın Yılı: 16 Eylül 2022
+Dergi ismi: MT Bilimsel
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mtb/issue/72610/1176264
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2654641

@@ -1,0 +1,7 @@
+Makale Başlığı: Toprak Barajlardaki Plastik Noktaların Dağılımının Su Seviyesi, Banket ve Deplasmanına Göre Sayısal Analizi
+Özet: Toprak barajların sismik koşullar altında çökmesi oldukça yıkıcı ekonomik hasarlara ve can kayıplarına neden olabilir. Bu nedenle sismik güvenlik değerlendirmesi ve sayısal analizlerin etkin bir şekilde yapılması gerekmektedir. Bu makale, toprak barajların plastik noktalarının dağılımının sonuçlarını sunmaktadır. Plastik noktaların analizi, göçme öncesi koşullarda toprak barajın gövdesindeki plastikleşme değişimlerini gösterir. 10 m yüksekliğinde dik kil çekirdekli homojen olmayan bir dolgu, PLAXIS 2D yazılımı kullanılarak harmonik ve statik mod dikkate alınarak üç farklı su seviyesinde incelenmiştir. Suyun varlığı yapıdaki plastik nokta sayısının artmasına ve yer değiştirme miktarının artmasına neden olmaktadır. Sonuç olarak, plastik noktaların durumunu ve maksimum yer değiştirmelerin görünümünün yerini değiştirir. Birinci, ikinci ve üçüncü modlarda plastik nokta sayısı 26, 47 ve 116'dır. Ayrıca birinci, ikinci ve üçüncü modlarda maksimum yatay yer değiştirme miktarı sırasıyla 72, 97 ve 227 mm'dir.
+Yazar isimleri: ['Abolfazl ASADİ']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Journal of Innovations in Civil Engineering and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jiciviltech/issue/70973/1053752
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2176251

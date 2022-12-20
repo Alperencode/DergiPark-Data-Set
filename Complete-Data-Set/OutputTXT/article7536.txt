@@ -1,0 +1,7 @@
+Makale Başlığı: Critical Buckling Load of SiCNTs: A Molecular Dynamics Study on Gas Sensing
+Özet: Silicon carbide nanotube (SiCNT) come forward in the great variety of nanotubes with higher durability until 1600 oC (in air) while carbon nanotube can stay stable until 600 oC (in air). First five buckling loads of single SiCNT placed between source and drain metal electrodes in nano sized field effect transistors (FET) is investigated using two different molecular dynamics methods. L.A.M.M.P.S. software and Gromacs package is used to perform molecular dynamics analyzes. Armchair structure of SiCNT with chiralities (10,0), (12, 0), (14, 0), (16, 0) were selected with 400, 480, 560, 640 atoms respectively. Results demonstrate clearly that longest nanotube perform lower stability as nanotubes becomes fragile with more atom numbers. Except from (10, 0) armchair SiCNT, first mode occurs at lowest load and rise as the number of mode arise.
+Yazar isimleri: ['Kadir MERCAN', 'Ömer CİVALEK']
+Yayın Yılı: 2 Eylül 2022
+Dergi ismi: International Journal of Engineering and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeas/issue/72474/1151308
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2566809

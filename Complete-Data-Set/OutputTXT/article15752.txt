@@ -1,0 +1,7 @@
+Makale Başlığı: Deprem Verileri Kullanılarak Hızölçer ve İvmeölçer Kayıtlarının Karşılaştırılması
+Özet: Ülkemizdeki deprem etkinliğinin yakından izlenmesi, değerlendirilmesi ve arşivlenmesi önemlidir. AFAD Deprem Dairesi Başkanlığı, hızölçer, ivmeölçer ve sabit Küresel Konumlama Uydu Sistemleri (KKUS) cihazlarından oluşan toplam 1.169 kayıt cihazı ile Avrupa’nın en büyük 2’nci deprem gözlem ağına sahiptir. Büyük depremlerde hızölçerler belli bir genlik değerinin üzerindeki hareketi ölçememekte ve doyuma (clip) ulaşmaktadır. Bu çalışmada, farklı istasyonlardaki hızölçer ve ivmeölçerlerin farklı büyüklükteki depremler için kaydettiği kayıtlar karşılaştırılmıştır. Sonuçlar değerlendirildiğinde 7 deprem için hızölçerlerin doyuma ulaştığı, ivmeölçerin ise deprem genliğini tam olarak ölçtüğü görülmüştür. Hızölçer ve ivmeölçerlerin aynı konumda kullanılması durumunda, uzak ve yakın kaynaklı yer hareketinin bütün genliği ve frekans içerikleri kaydedilebilmektedir. Bu nedenle, depremselliği yüksek bölgelerde bulunan bazı istasyonlarda, hızölçer ve ivmeölçer kayıtçılarının aynı yerde yerleştirilmesi ile sismoloji çalışmalarına önemli katkı sağlanacağı düşünülmektedir.
+Yazar isimleri: ['Erkan ATEŞ', 'Recai Feyiz KARTAL', 'Turgay KURU']
+Yayın Yılı: 13 Aralık 2022
+Dergi ismi: Türk Deprem Araştırma Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tdad/issue/73816/1132404
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2493349

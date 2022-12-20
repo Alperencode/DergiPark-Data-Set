@@ -1,0 +1,7 @@
+Makale Başlığı: TOPSIS VE MOORA YÖNTEMLERİ İLE KAPLICA SEÇİMİ: ERZURUM İLİ ÖRNEĞİ
+Özet: Türkiye, termal kaynaklar bakımından zengin bir konuma sahiptir. Ülkemizin birçok bölgesinde yer alan bu kaynaklardan hem turizm hem de sağlık alanında faydalanılmaktadır. Kaplıcaların çok sayıda olması nedeniyle kaplıcalardan faydalanmak isteyen bireyler karar verme noktasında zorluk yaşayabilmektedir. Bu sebeple, karar verme aşamasında çeşitli kriterler üzerinden tercih sıralaması önerisinin sunulmasına ihtiyaç duyulmuştur. Bu çalışma kapsamında, Erzurum ilinde bulunan kaplıcalar için ücret, havalimanına uzaklık, şehir merkezine uzaklık ve termal tesisin su sıcaklığı kriterleri çerçevesinde bir değerlendirme yapılması amaçlanmıştır. Şehirde bulunan altı kaplıca, ilgili kriterler üzerinden TOPSIS, MOORA-Oran ve MOORA-Referans Noktası yöntemleriyle değerlendirilmiştir. Alternatiflerin değerlendirildiği TOPSIS ve MOORA-Referans Noktası yöntemleri sonuçlarının her ikisinde de Pasinler kaplıcasının; MOORA-Oran yönteminde ise Ilıca kaplıcasının ilk sırada yer alması, bu kaplıcaların kriterlere en uygun kaplıca olabileceği sonucunu doğurmaktadır.
+Yazar isimleri: ['Dilşad GÜZEL', 'Murat Can AKTAŞ']
+Yayın Yılı: 29 Kasım 2022
+Dergi ismi: Mehmet Akif Ersoy Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/makuiibf/issue/73543/910021
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1685771

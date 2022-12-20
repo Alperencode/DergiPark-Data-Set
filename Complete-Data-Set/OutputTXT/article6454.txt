@@ -1,0 +1,7 @@
+Makale Başlığı: Sentiment Analysis of Restaurant Reviews in Artvin Province by Rule-based Sentiment Analysis and Machine Learning
+Özet: Bu çalışmanın amacı Artvin ilindeki restoranların müşteri duygularını araştırmaktır. Müşteri değerlendirmelerin %73.9'unun olumlu, %26.1'inin olumsuz olduğu belirlenmiştir. Yorumlardan; yer, manzara, fiyat, yemek, servis, personel ve lezzet olmak üzere 7 farklı başlık elde edilmiştir. En fazla yorum %33.89 ile yer hakkında yapılırken, bunu %15 ile manzara takip etmiş ve en az yorum ise %5.83 ile lezzet hakkında yapılmıştır. Bu başlıklar arasında en beğenilen başlığın manzara olduğu tespit edilmiştir. Fiyat hakkında değerlendirme yapan müşterilerin %23.53'ü fiyatların yüksek olduğunu belirtirken, servisin yavaş olduğunu belirtenlerin oranı ise %21.98 olmuştur. Genel olarak servis, yer, yemek ve manzara başlıklarının birbiriyle yakından ilişkili olduğu ve bunlardan birini beğenen ya da beğenmeyen müşterinin diğerlerini de beğenme/beğenmeme durumunun yüksek olduğu görülmüştür. Hem dil bilgisi kurallarının hem de yapay zeka yöntemlerinin kullanılması ve doğru sonuçların elde edilmesi açısından RBSA ve ML yöntemlerinin birlikte kullanılmasının uygun olduğu sonucuna varılabilir.
+Yazar isimleri: ['Yusuf DURMUŞ']
+Yayın Yılı: 29 Temmuz 2022
+Dergi ismi: GSI Journals Serie A: Advancements in Tourism Recreation and Sports Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/atrss/issue/69024/1090401
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2320245

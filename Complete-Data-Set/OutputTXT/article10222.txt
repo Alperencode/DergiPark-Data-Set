@@ -1,0 +1,7 @@
+Makale Başlığı: Elektrikli Araçlar için MTPA Kontrol Stratejisi ile Alan Yönlendirmeli Kontrol Tasarımı
+Özet: Sürekli mıknatıslı senkron motorlar (SMSM); yüksek güç yoğunluğu, yüksek verim, hızlı tepki süresi ve lineer moment karakteristiği gibi özellikleriyle yüksek performans gerektiren elektrikli araç uygulamalarında oldukça geniş yer bulmaktadır. Elektrikli araçlar uygulamalarında, sürüş menzilinin ve dolayısıyla enerji veriminin en kritik konu olması nedeniyle sistemdeki enerji veriminin arttırılması büyük önem taşımaktadır. Bu çalışmada SMSM’nin Akım Başına Maksimum Moment (Maximum Torque Per Ampere, (MTPA)) stratejisi ile alan yönlendirme kontrolü gerçekleştirilmiştir. Bu kontrol yöntemiyle motorun, talep edilen elektromanyetik momenti minimum akımla üretmesi hedeflenmiş ve enerji verimine etkisi incelenmiştir. Daha sonra gerçekleştirilen MTPA kontrol stratejisi ile alan yönlendirme kontrolü, geleneksel alan yönlendirme kontrolü ile karşılaştırılmış ve elde edilen simülasyon sonuçları detaylı olarak verilmiştir.
+Yazar isimleri: ['Mehmet Tuğser DEMİR', 'Sibel ZORLU PARTAL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Karamanoğlu Mehmetbey Üniversitesi Mühendislik ve Doğa Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kmujens/issue/70244/1053212
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2173991

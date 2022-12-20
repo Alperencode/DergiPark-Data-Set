@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison Of Model-Based Clustering to Other Clustering Methods: an Example on Meteorological Data
+Özet: 
+Yazar isimleri: ['Selim DÖNMEZ']
+Yayın Yılı: 8 Eylül 2022
+Dergi ismi: International Journal of Environment and Geoinformatics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijegeo/issue/68801/1092672
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2329753

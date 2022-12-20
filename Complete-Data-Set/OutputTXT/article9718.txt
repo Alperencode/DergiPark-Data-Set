@@ -1,0 +1,7 @@
+Makale Başlığı: Polymer Fractionation by Automated Laboratory System  with Laser Optical Probe (L.A.F.P.)
+Özet: By examining the composition of copolymers and the distribution of their molecular weights, one can get an idea about their various properties. It is necessary to obtain homogeneous samples from fractions of different molecular weights of copolymers. Fractionation processes are quite difficult and time consuming. In this study, a type of ethylene-propylene copolymer was fractionated depending on molecular weight with a system based on laser turbidity measurement. The copolymer was dissolved in diphenylmethane at a certain temperature. The temperature of the system and the adjustment of other parameters are made with the developed computer-controlled system. When the temperature of the solution was lowered slowly and in a controlled manner, the separation of fractions with certain molecular weights could be achieved. The solution turbidity formed during the separation was measured and controlled by the developed laser system. Molecular weights, viscosities and IR analyses of the copolymer and its fractions were tried to find the properties of the fractions.
+Yazar isimleri: ['Cemil KOYUNOĞLU']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of the Turkish Chemical Society Section B: Chemical Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jotcsb/issue/70634/1055282
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2182024

@@ -1,0 +1,7 @@
+Makale Başlığı: Techno-economic assessment of green hydrogen production using different configurations of wind turbines and PV panels
+Özet: In this work, a hybrid system is comprised of wind turbines (WT) and photovoltaic (PV) panels to generate green Hydrogen via water electrolysis. Consideration is given to the influence of five electrical power generation scenarios on system performance and Hydrogen production cost. This study adopts the solar radiation, wind speed, and ambient temperature for Mersa-Matruh in Egypt. The system performance is studied using MATLAB-Simulink over one year. The winter months have high wind speed and low sun radiation compared to other months, whereas additional months have high solar radiation and lower wind speed than the winter months. The findings show that the amount of Hydrogen produced for all scenarios varies from 12,340 m3 to 13,748 m3 per year. The system efficiency and LCOH are 7.974% and 3.67 USD/kg, 9.56%, and 3.97 USD/kg, 10.7% and 4.12 USD/kg, 12.08%, and 4.3 USD/kg, and 16.23% and 4.69 USD/kg for scenarios 1 to 5, respectively. Finally, the introduced system can reduce CO2 emissions by 345 tons over the lifetime and gain about 13,806 USD.
+Yazar isimleri: ['Mohamed NASSER', 'Tamer MEGAHED', 'Shinichi OOKAWARA', 'Hamdy HASSAN']
+Yayın Yılı: 31 Aralık 2022
+Dergi ismi: Journal of Energy Systems
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jes/issue/73468/1132111
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2492161

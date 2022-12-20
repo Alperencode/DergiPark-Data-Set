@@ -1,0 +1,7 @@
+Makale Başlığı: İÇ KONTROL SİSTEMİ VE BELEDİYELERDE UYGULAMASI HAKKINDA KAVRAMSAL BİR DEĞERLENDİRME
+Özet: Kurumlar belirli amaçlarla kurulmakta ve hedeflerini gerçekleştirecekleri faaliyetleri sürdürürken sürekli risk ve belirsizliklerle karşılaşmaktadırlar. Kurumların sürdürülebilir başarıyı yakalayabilmesinin ön koşullarından biri de iç kontrol sisteminin etkinliği ile bu sistemin iyi yönetilip etkinliğinin sürdürülmesi ile birlikte olmaktadır. Belediyelerde iç kontrol sistemi kurulması T.C. İçişleri Bakanlığı tarafından zorunluluk haline getirilmiş olsa da bunu tamamlayarak olgunlaştırmak oldukça zor bir süreçtir. Belediyelerin kendileri için önemli olan iyi alt yapıya sahip bir iç kontrol sisteminin kurulması, kurumda bulunan iç denetim sisteminin performansını arttıracak bu da kurumun denetlenmesini daha basit bir hale getirecektir. Belediye yöneticileri için de iç kontrol, kendi görüş açılarının gelişmesi ve değişmesi için önemli bir fırsat olmaktadır. Bu çalışmada iç kontrol sistemi ve iç kontrol modelleri ile ilgili kavramlar ve değerlendirmeler üzerinde durulmuştur. Belediye kavramı COSO iç kontrol yapısı ve unsurları tanıtılmış ve risklerin değerlendirilmesi kavramı, reel sektörden örnekler verilerek irdelenmiştir. 
+Yazar isimleri: ['Evren ÇAKIRSOY', 'Gökhan BARAL']
+Yayın Yılı: 6 Eylül 2022
+Dergi ismi: Muhasebe ve Denetime Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mdbakis/issue/72490/1070962
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2243762

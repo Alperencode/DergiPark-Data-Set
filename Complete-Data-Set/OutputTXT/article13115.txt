@@ -1,0 +1,7 @@
+Makale Başlığı: Effect of Primer Coating Applied To S235JR Material on Submerged Arc Weldability
+Özet: In this study, S235JR structural steel with/without primer in different thicknesses has been welded with submerged arc welding and effect of primer coating on the mechanical and microstructural properties has been investigated. During the study two different batch of test samples has been prepared, both are sand blasted to Sa 2 ½ and one of the batches has been covered with shop primer to 25 µm, 50 µm and 75 µm thicknesses. While carrying out analysis, surface texture and coating thickness has been designated as variables. It has been concluded that, 75 µm covered samples have yieded welding defections. Additionally, it has observed that coating thickness had a partial effect on mechanical properties of the material as highest hardness measurements has been observed at weld zones. Lastly, tensile, bending and impact tests has been performed, composite surface of failure has been analysed and only 75 µm covered sample plates has yielded non confirming results.
+Yazar isimleri: ['Cemil ÇETİNKAYA', 'Ali AKAY', 'Uğur ARABACI', 'Tayfun FINDIK']
+Yayın Yılı: 1 Ekim 2022
+Dergi ismi: Politeknik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/politeknik/issue/73018/1119093
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2438226

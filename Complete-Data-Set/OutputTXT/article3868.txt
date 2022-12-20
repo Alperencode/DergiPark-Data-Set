@@ -1,0 +1,7 @@
+Makale Başlığı: Dinamik Demiryolu Kuvvetlerinin Darbe Simülasyonlarıyla İncelenmesi
+Özet: Bu çalışma kapsamında, demiryollarında meydana gelen statik, yarı-statik ve dinamik kuvvetlerin karakteristik özellikleri, geniş bir literatür taraması, basitleştirilmiş örneklendirmeler ve özgün darbe simülasyonları ile incelenmiştir. Simülasyon çalışmaları esnasında, B70 tipi öngerilmeli beton demiryolu traversleri kullanılmış ve farklı ara yüzeylere yüksekten serbest kütle düşüşleri gerçekleştirilmiştir. Bu sayede dinamik kuvvetlerin, risk kontrol hiyerarşisine uygun olarak; ilk etapta nasıl kısıtlanabileceği ve demiryolu yapı elemanları dizayn edilirken, doğru dizayn felsefesinin nasıl olması gerektiği yönünde algısal farkındalık düzeyinin artırılması hedeflenmiştir. Çalışma sonucunda, elastisite modülü ve rijitliği optimum düzeyde düşük ve deformasyon kabiliyeti yeterli derecede yüksek demiryolu yapı elemanlarının hem kendisine etkiyen hem de çevreye yayılan kuvvetlerin ivme değerlerinin şiddet ve frekans bileşenlerini düşürmeyi sağladığı, deneysel olarak ortaya konulmuştur.
+Yazar isimleri: ['Ferhat ÇEÇEN', 'Bekir AKTAŞ', 'Hakan ÖZTÜRK']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Demiryolu Mühendisliği
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/demiryolu/issue/69368/1096371
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2344413

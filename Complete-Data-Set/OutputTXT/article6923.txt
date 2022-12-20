@@ -1,0 +1,7 @@
+Makale Başlığı: SARS-CoV-2 PCR Pozitif Hastalarda Bakteriyel Enfeksiyonlar  ve Antibiyotik Direnci
+Özet: Amaç ve kapsam: Bu çalışmada Adana Şehir Eğitim ve Araştırma Hastanesin’de yatan COVID-19 hastalarından alınan endotrakeal aspirat (ETA), kan, kateter, örneklerinden izole edilen bakterilerin dağılımını ve antibiyotik direnç oranlarının belirlenmesi amaçlandı. Materyal ve metod: 1 Nisan 2020  ile 31 Mart  2021 tarihleri arasında  PCR testi pozitif olarak tesbit edilen 254  hasta çalışmaya dahil edildi. Hastalardan gönderilen kan, katater ve solunum yolu  kültür sonuçları ve antibiyotik duyarlılık test sonuçları mikrobiyoloji laboratuvarı veri tabanından retrospektif olarak incelendi. Bulgular: 254 COVİD PCR pozitif hastadan alınan klinik örneklerde 433 bakteri üremesi saptandı. Bakteriyel etkenler arasında, Acinetobacter baumannii (%.25,17; n =109), ardından Esherichia coli  (%.5,54 n =24)  ve Klebsiella pneumoniae (%.5,31; n =23) en yaygın patojenler olarak tespit edildi Sonuç: COVİD 19 hastarında gereksiz antibiyotik kullanımından kaçınılması direnç gelişiminin önlenmesi ve kültür duyarlılığının  artması için kritik öneme sahiptir.
+Yazar isimleri: ['Fatma ERDEM', 'Nevzat ÜNAL', 'Mehmet BANKİR']
+Yayın Yılı: 28 Ağustos 2022
+Dergi ismi: Harran Üniversitesi Tıp Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hutfd/issue/71631/1141758
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2530271

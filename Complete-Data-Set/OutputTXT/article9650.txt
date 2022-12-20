@@ -1,0 +1,7 @@
+Makale Başlığı: Application of Matrix-Assisted Laser Desorption Ionization  in microbiological domain
+Özet: Mass spectrometry became more and more widespread and many new ionization and ion separation techniques were introduced. For instance, matrix-assisted laser desorption ionization time-of-flight mass spectrometry is a proteomics method that permits rapid and accurate identiﬁcation of microbial species from positive cultures. This method applies to biomolecules as well as peptides, proteins, glycoproteins, and oligonucleotides and it is considered more cost effective than other techniques used in microbiology. The faster identification of the pathogen and the determination of antimicrobial susceptibility is a key in the management of patients with suspected infection. Various organisms can be identified by this technique including bacteria, fungi, and parasites. Bacteria are the most identified species followed by fungi and finally parasites. Here we present a scientific review that evaluates the performance of MALDI-TOF MS in identifying clinical pathogenic microorganisms.
+Yazar isimleri: ['Ali JABER']
+Yayın Yılı: 23 Ekim 2022
+Dergi ismi: Journal of Spectroscopy and Molecular Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsms/issue/68561/1037480
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2135696

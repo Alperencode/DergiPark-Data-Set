@@ -1,0 +1,7 @@
+Makale Başlığı: Tek Fazlı Şebeke Bağlantılı Eviricilerde L, LCL ve LLCL Tipi Filtre Tasarımı
+Özet: Bu çalışmada, tek fazlı şebeke bağlantılı evirici için L, LCL ve LLCL tipi filtre tasarımları yapılarak filtre tipleri birbirleri ile kıyaslanmıştır. Tasarım için şebeke akımının toplam harmonik bozulma (THD) değeri %5’in altında oluşacak şekilde filtre parametre değerleri hesaplanmıştır. Filtre parametre değerleri belirlendikten sonra PSIM programında simülasyon çalışmaları gerçekleştirilmiştir. Çalışmada aktif güç kontrolü, oransal-rezonans (PR) akım kontrolü ve gelişmiş faz kilitlemeli döngü (PLL) kontrolü için gerekli olan kodlar C bloğu içerisine yazılmıştır. Simülasyon sonuçlarına göre 1 kW güç, 220 V AC şebekeye aktarılırken en yüksek THD değeri %4.92 olarak L tipi filtrede elde edilirken, en düşük THD değeri %0.99 olarak LLCL filtre tipinde oluşmuştur. Yapılan filtre tasarımına göre endüktans değeri en yüksek olan filtre tipi de L filtredir. LCL ve LLCL filtre tiplerinde THD değerleri düşük çıkmasına rağmen uygun parametre değerlerinin seçilmesinin önemli olduğu görülmüştür. 
+Yazar isimleri: ['Akif KARAFİL']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1093962
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2334793

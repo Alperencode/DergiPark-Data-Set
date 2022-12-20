@@ -1,0 +1,7 @@
+Makale Başlığı: SQLi ve XSS Saldırı Tespitinde Kullanılan Yeni Bir Özellik Çıkarma Yöntemi
+Özet: 
+Yazar isimleri: ['Esra YOLAÇAN']
+Yayın Yılı: 6 Eylül 2022
+Dergi ismi: Uluslararası Bilgi Güvenliği Mühendisliği Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ubgmd/issue/72497/1147525
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2552970

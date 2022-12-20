@@ -1,0 +1,7 @@
+Makale Başlığı: Determinants of Net Interest Margin: An Analytical Study on the Commercial Banks Operating in Jordan (2005-2015)
+Özet: This study aimed at measuring the factors that affect the Net Interest Margin (NIM) in the commercial banks operating in Jordan using the data on annual frequency for 19 commercial banks covering the study period (2005-2015) (panel data). Econometric models were built and analyzed using testing both Fixed Effects Model and Random Effects Model. The Hausman test was used to get the optimal model. The results revealed that external factors had bigger effect on the NIM than the internal factors.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2017
+Dergi ismi: International Journal of Economics and Financial Issues
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijefi/issue/32006/353588
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/364624

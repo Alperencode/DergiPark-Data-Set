@@ -1,0 +1,7 @@
+Makale Başlığı: BEDEN EĞİTİMİ VE SPOR ÖĞRETMENLERİNİN COVİD-19 KORKU DÜZEYLERİNİN GELENEKSEL EĞİTİM VE ONLİNE EĞİTİM AÇISINDAN İNCELENMESİ: TÜRKİYE ÖRNEĞİ
+Özet: Bu araştırmanın amacı, Covid-19 döneminde devlet ve özel okul gibi farklı kurumlarda çevrimiçi, geleneksel ve karma eğitim gibi çeşitli eğitim uygulamalarıyla ders veren beden eğitimi öğretmenlerinin Covid-19 korku düzeylerini incelemektir. Araştırmaya toplam 273 öğretmen katılmıştır. Çalışma verileri Covid-19 Korkusu Ölçeği ile toplanmıştır. SPSS 25.0 paket programı ile yapılan analizlerde veriler normal dağılım gösterdiğinden, bağımsız gruplarda ikili küme karşılaştırmaları için parametrik yöntemlerden biri olan t-testi ve ikiden fazla küme karşılaştırılmasında tek yönlü varyans analizi uygulanmıştır. Analiz sonucunda katılımcıların kurum, Covid-19'a yakalanma, Covid nedeniyle bir yakınını kaybetme ve eğitim türü değişkenlerine ile Covid-19 korku düzeyleri arasında anlamlı bir fark saptanmamıştır. Cinsiyet değişkeninde ise kadın katılımcılar lehine anlamlı bir farklılık bulunmuştur. Beden eğitimi öğretmenlerinin Covid-19 korku düzeylerinde eğitim kurumları ve eğitim uygulamaları arasındaki farklılıkların anlamlı olmadığı sonucuna varılmıştır.
+Yazar isimleri: ['Ece AYAZ KANAT', 'Ayşegül Funda ALP']
+Yayın Yılı: 22 Ağustos 2022
+Dergi ismi: Beden Eğitimi ve Spor Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsd/issue/72189/1083048
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2290830

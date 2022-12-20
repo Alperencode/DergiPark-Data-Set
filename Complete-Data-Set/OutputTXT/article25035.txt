@@ -1,0 +1,7 @@
+Makale Başlığı: Asymmetric and Dynamic Effects of Oil Price Shocks and Exchange Rate Fluctuations: Evidence from a Panel of Economic Community of West African States (ECOWAS)
+Özet: Researches intended to influence key decisions on energy policy are paramount for ECOWAS’s development agenda. Therefore, we employ fixed effect model to examine the impacts of oil price shocks and exchange rate volatility on real GDP in the ECOWAS countries. For each oil price shock, three equations are estimated: the sample of all ECOWAS countries and the samples with net-oil exporters and net-oil importers. The empirical results provide evidences of both linear and asymmetric effects of oil price shocks on real GDP for the full ECOWAS sample and for the net-oil importers. Additionally, there are evidences that exchange rate volatility negatively and significantly influence real GDP of the full ECOWAS sample and the net-oil importers. Therefore, we recommend the implementation of economic diversification policy away from oil reliance toward dependence on other energy types, and implementation of monetary policies to stabilize volatile exchange rate regime in oil-importing ECOWAS countries.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351217
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361758

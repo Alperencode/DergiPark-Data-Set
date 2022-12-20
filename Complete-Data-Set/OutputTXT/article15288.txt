@@ -1,0 +1,7 @@
+Makale Başlığı: Understanding Motivational Factors Influencing Intention to Play Esports Games in Türkiye
+Özet: The purpose of this study is to investigate Turkish esports players' motivations for their intention to play esports games. The factors influencing esports players' intention to play esports games were tested with PLS-SEM. An online survey was conducted with 502 esports players to test the research model. The results demonstrate that fantasy, competition, and challenge statistically influence the intention to play esports games. In addition, it was determined that social interaction and diversion didn’t have a statistically significant effect on the intention to play esports games. Challenge, competition, and fantasy motivations explain 65.5% of the variance in intention to play esports games. In particular, it has been determined that challenge motivation has a large impact on the intention to play. Examining the gaming motivations of Turkish esports players, who represent a different culture, differentiates the study from its counterparts. This study makes new theoretical and practical contributions by showing that fantasy, competition, and challenge play important roles to predict on the intention to play esports games.
+Yazar isimleri: ['Mikail BATU', 'Celal KOCAÖMER', 'Onur TOS', 'Neslihan KOCAÖMER']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: TRT Akademi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/trta/issue/72774/1141742
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2530214

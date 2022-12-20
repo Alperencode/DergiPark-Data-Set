@@ -1,0 +1,7 @@
+Makale Başlığı: Adölesanlarda COVID-19 Korkusunun Sağlığı Geliştirme Davranışlarına Etkisi
+Özet: Amaç: Bu araştırmada, adölesanların COVID-19 korku düzeylerinin sağlığı geliştirme davranışları üzerine etkisinin belirlenmesi amaçlamıştır.Gereç ve Yöntem: 24-30 Haziran 2021 tarihlerinde gerçekleştirilen bu çalışma kesitsel tasarıma sahiptir. Araştırmanın örneklemi Denizli il merkezinde yaşayan yaşları 10 ile 19 arasında değişen 375 adölesandan oluşmaktadır. Veri toplama aracı olarak kişisel bilgi formu, COVID-19 Korkusu Ölçeği ve Adölesan Sağlığı Geliştirme Ölçeği-Kısa Formu kullanılmıştır. Sağlığı geliştirme davranışlarını etkileyen faktörleri incelemek için çoklu regresyon analizi yapılmıştır.Bulgular: Bu çalışmada adölesanların ortalama 17,66±6,13 (min.7- max. 35) olan COVID-19 korku düzeyleri orta düzeydedir. COVID-19 korkusunun sağlığı geliştirme davranışlarını olumlu yönde ve anlamlı şekilde etkilediği (β=0,135, p <0,004) belirlenmiştir.Sonuç: COVID-19 korkusunun adölesan sağlığını geliştirme davranışlarını etkilediği belirlenmiştir. Adölesan sağlığını geliştirme davranışlarını etkileyen diğer değişkenler ise yeterli ve dengeli beslenme, düzenli fiziksel aktivite yapma, sağlık algısı, ekran süresi ve BKİ’dir.
+Yazar isimleri: ['Fadime İNCİ', 'Ferhat ÇELİK']
+Yayın Yılı: 31 Mayıs 2022
+Dergi ismi: İzmir Katip Çelebi Üniversitesi Sağlık Bilimleri Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ikcusbfd/issue/70141/1022609
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2077546

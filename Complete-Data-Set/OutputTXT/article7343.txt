@@ -1,0 +1,7 @@
+Makale Başlığı: Keller's Conjecture Revisited
+Özet: In 1930, Keller conjectured that every tiling of RnRn by unit cubes contains a pair of cubes sharing a complete (n−1)(n−1)-dimensional face. Only 50 years later, Lagarias and Shor found a counterexample for all n≥10n≥10. In this note we show that neither a modification of Keller's conjecture to tiles of more complex shape is true.
+Yazar isimleri: ['Dongryul KİM']
+Yayın Yılı: 31 Ekim 2022
+Dergi ismi: International Electronic Journal of Geometry
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iejg/issue/71372/984269
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1931056

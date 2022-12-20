@@ -1,0 +1,7 @@
+Makale Başlığı: $Q$-Curvature Tensor on $f$-Kenmotsu $3$-Manifolds
+Özet: The object of the present paper is to consider $f$-Kenmotsu $3$-manifolds fulfilling certain curvature conditions on $Q$-curvature tensor with the Schouten-van Kampen connection. Certain consequences of $Q$-curvature tensor on such manifolds bearing Ricci soliton in perspective of Schouten-van Kampen association are likewise displayed. In the last segment, examples are given.
+Yazar isimleri: ['Sunil YADAV', 'Ahmet YILDIZ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Universal Journal of Mathematics and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ujma/issue/72812/1055272
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2182001

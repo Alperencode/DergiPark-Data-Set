@@ -1,0 +1,7 @@
+Makale Başlığı: INVESTIGATION OF FACTORS AFFECTING HOUSING PRICES IN ORDU PROVINCE BY USING CROSS-SECTION ANALYSIS
+Özet: The approach that states that the value of heterogeneous goods results from the sum of the prices of all the different features that make it up is called the hedonic price model approach. In this study, it is aimed to determine the most important features that determine the housing prices in Altınordu district of Ordu province and the features that affect the housing prices of different income groups by using the data set from www.sahibinden.com site for the month of December 2021. For this purpose, 13 neighborhoods according to income groups were divided into three as upper, middle and lower income groups and tested with semi-logarithmic models using data from 558 houses. According to the results of this model, it has been determined that there are significant relationships on the housing prices of the different properties of the houses in terms of income groups. The results of the analysis show that the square meter size affects the housing price positively whilst the age of the building negatively affects all income groups.
+Yazar isimleri: ['Burhan MAĞDEN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Giresun Üniversitesi İktisadi ve İdari Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/guiibd/issue/70507/1060105
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2201106

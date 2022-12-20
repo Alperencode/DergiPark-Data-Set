@@ -1,0 +1,7 @@
+Makale Başlığı: Effects of liquid cardiac drugs on carbonic anhydrase I and II ısozymes
+Özet: Cardiovascular diseases are the leading cause of death worldwide.  In recent years, the relationship between atherosclerosis and carbonic anhydrase inhibitors has attracted attention.  In this study, we aimed to determine the in vitro effects of commonly used liquid cardiac drugs on human carbonic anhydrase (hCA) I and II.  The inhibitory effects of drugs on hCA I and hCA II were determined by hydratase activity.  All tested cardiac drugs inhibited hCA I and II isozymes.  We found that the strongest inhibitor was Atropine sulfate (hCA I: 5.86 mM and hCA II: 6.59 mM). Heparin Sodium and Dopamine HCl are also potent inhibitors.
+Yazar isimleri: ['Onur ARGAN', 'Nahit GENCER']
+Yayın Yılı: 8 Temmuz 2022
+Dergi ismi: Balıkesir Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/baunfbed/issue/70370/1024132
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2083328

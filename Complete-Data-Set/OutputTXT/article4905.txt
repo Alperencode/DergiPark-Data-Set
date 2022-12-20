@@ -1,0 +1,7 @@
+Makale Başlığı: Ulaşımdan Kaynaklanan Hava Kirliliği ve Ekonomik Büyümenin Sağlık Harcamaları Üzerine Etkileri: Türkiye Analizi
+Özet: Bu çalışmada ulaşım sektöründen kaynaklanan hava kirliliği ve ekonomik büyümenin sağlık harcamaları üzerindeki etkileri Türkiye’nin 1990-2017 dönemi için zaman serisi analizi ile araştırılmıştır.  Çalışmadan elde edilen bulgular, Türkiye’de hava kirliliği, ekonomik büyüme sağlık harcamaları arasında uzun dönemli bir ilişki olduğunu desteklemektedir.  FMOLS ve DOLS tahmincisi sonuçları, ekonomik büyümedeki %1’lik artışın sağlık harcamalarını %1.922 ile %2.108 arasında artırdığını göstermiştir. Ayrıca, ulaşımdan kaynaklanan hava kirliliğindeki %1’lik artışın sağlık harcamalarını %0.266 ile %0.381 arasında artırdığı sonucuna ulaşılmıştır. Çalışmanın Granger nedensellik testi sonuçları, sağlık harcamaları ile ulaşım sektöründen kaynaklanan hava kirliliği arasında iki yönlü, ekonomik büyümeden sağlık harcamalarına ve hava kirliliğinden ekonomik büyümeye doğru tek yönlü nedensellik ilişkisi olduğunu göstermektedir.
+Yazar isimleri: ['Melike ATAY POLAT', 'Canan SANCAR ÖZKÖK']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Ekonomik ve Sosyal Araştırmalar Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/esad/issue/70716/701417
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1000266

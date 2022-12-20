@@ -1,0 +1,7 @@
+Makale Başlığı: AN APPROXIMATE ANALYTICAL SOLUTION OF ONE-DIMENSIONAL GROUNDWATER RECHARGE BY SPREADING
+Özet: The present paper discusses the problem of one dimensional groundwater recharge in the vertical direction. The groundwater is recharged by spreading of water in vertical direction and the moisture content of soil increases. On the basis of linear and nonlinear conductivity and diusivity functions, three cases are considered for Brooks- Corey model. The governing nonlinear partial dierential equations has been solved by homotopy analysis method. The proper value of convergence control parameter for con- vergent solution has been chosen from c0-curve. The numerical and graphical solutions are presented.
+Yazar isimleri: []
+Yayın Yılı: 1 Aralık 2019
+Dergi ismi: TWMS Journal of Applied and Engineering Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/twmsjaem/issue/55621/760956
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

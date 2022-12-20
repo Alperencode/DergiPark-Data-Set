@@ -1,0 +1,7 @@
+Makale Başlığı: Hall effects on hydromagnetic free convection in a heated vertical channel   in the presence of an inclined magnetic field and thermal radiation
+Özet: An analytical study on unsteady hydromagnetic free convective flow of a   viscous incompressible electrically conducting fluid in the presence of an   inclined magnetic field taking Hall currents into account has been   presented. The governing equations are solved analytically using the Laplace   transform technique. The variations of the fluid velocity components and the   fluid temperature are shown graphically and are discussed. The shear   stresses and the rate of heat transfer at the channel plates are derived.   The results are shown in figures and tables followed by a quantitative   discussion.
+Yazar isimleri: []
+Yayın Yılı: 1 Haziran 2014
+Dergi ismi: Turkish Journal of Engineering and Environmental Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkengineering/issue/35821/401398
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/434842

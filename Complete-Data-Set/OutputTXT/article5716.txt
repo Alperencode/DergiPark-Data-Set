@@ -1,0 +1,7 @@
+Makale Başlığı: Veri Madenciliği ve Makine Öğrenimi ile Döviz Kuru Tahmini Uygulaması
+Özet: Makine öğrenimi 1990’lı yıllardan, veri madenciliği kullanılmaya başlandığı döneme dek yaygın olamamıştır. Bu çalışmada Türkiye Cumhuriyet Merkez Bankası sayısal veriler toplanan bilgilerin, veri madenciliği ile veri gruplarına göre bölümlere ayrılması sağlanmıştır. Makine öğrenimi ile ilgili kullanılan algoritmalar karar destek ağaçları, doğrusal regresyon, destek vektör makineleri, gauss regresyondur. Ocak 2020-Mayıs 2021 dönem süresindeki veriler kullanılarak oluşturulan döviz kuru modelleri oluşturulmuştur Sayısal halde toplanan veriler 1352 döviz kuru verisi için 4 ayrı makine öğrenimi yöntemi kullanılmış olup birinci yöntemde %99,84, ikinci yöntemde %99,18, üçüncü yöntemde %93,72, dördüncü yöntemde ise %86,83 doğru olarak sınıflandırılmıştır. Doğruluk oranı en yüksek orana göre strateji ve plan geliştirmektedir Veri madenciliği ve makine öğrenimi metotlarının tahmin programlarının yapımındaki değerlendirmeler ileriki dönemlerde yapılacak uygulamalar için faydalı olacaktır. Çıkarılan sonuçlar literatürde kullanılan metotların doğruluk oranları ile karşılaştırılarak analiz edilmiştir.
+Yazar isimleri: ['Oğuz ATA']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fumbd/issue/72789/1078207
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2271687

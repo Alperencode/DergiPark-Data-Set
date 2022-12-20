@@ -1,0 +1,7 @@
+Makale Başlığı: Examining the Ease of Use of Hybrid Systems in Mobile Applications
+Özet: Smartphone apps support people to adopt healthy lifestyles. Therefore, it is useful to understand the persuasive design strategies involved in hybrid mobile applications that facilitate behavior changes. The aim of our research is to show the ease of use of hybrid mobile applications compared to Web and Native applications. Hybrid mobile apps combine the features of Web apps and Native mobile apps. Like web applications, they are implemented in portable, platform-independent languages such as HTML and JavaScript. They directly access local device resources such as native apps. Transition to hybrid applications has been increasing in recent years with the rapid progress of technology. Although it has performance disadvantages compared to native applications, it is more preferred by software developers due to its ease of use. From the results, it has been determined that the user interface for hybrid applications is simpler to develop with its dynamic structure and it uses mobile device features better in terms of performance when used in hybrid applications.
+Yazar isimleri: ['İsmail GÜLER']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: AURUM Mühendislik Sistemleri ve Mimarlık Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ajesa/issue/71007/951201
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1819425

@@ -1,0 +1,7 @@
+Makale Başlığı: Country Comparisons on the Concept of Economic Freedom: A Multi-Criteria Decision-Making Approach
+Özet: Economic freedom is a broad term with numerous aspects. The aim of the study is to increase awareness of the economic freedom components and to provide an analytical approach. Entropy, TOPSIS, ARAS, SAW, Borda Count Method, Clustering, and Spearman correlation analysis were used to assess 40 nations. The countries with the greatest per capita GDP such as Hong Kong, Singapore, and Switzerland are at the top of the economic freedom ranking. On the other side, countries with low per-capita income such as Poland, Thailand, and Russian Federation rank bottom. Governments and officials in low-scoring nations must provide an environment of stability, trust, and facilitation for their residents and foreign investors in terms of trade tariffs, inflation, and account restrictions. Individuals, groups, non-governmental organizations, and institutions should persuade decision-makers and politicians to take novel action plans in terms of taxes, inflation policies, account restrictions, and decision-making in favour of greater freedom.
+Yazar isimleri: ['Gökhan ÖZKAYA']
+Yayın Yılı: 28 Eylül 2022
+Dergi ismi: Manisa Celal Bayar Üniversitesi Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/cbayarsos/issue/72696/1098468
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2353215

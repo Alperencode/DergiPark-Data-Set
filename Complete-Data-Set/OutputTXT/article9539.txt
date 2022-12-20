@@ -1,0 +1,7 @@
+Makale Başlığı: A novel data processing approach to detect fraudulent insurance claims for physical damage to cars
+Özet: Some automobile insurance companies use computerized auto-detection systems to expedite claims payment decisions for insured vehicles. Claims suspected of fraud are evaluated using empirical data from previously investigated claims. The main objective of this manuscript is to demonstrate a novel data processing system and its potential for use in data classification. The data processing approach was used to develop a machine learning-based sentiment classification model to describe property damage fraud in vehicle accidents and the indicators of fraudulent claims. To this end, Singular Value Decomposition-based components and correlation-based composite variables were created. Machine learning models were then developed, with predictors and composite variables selected based on standard feature selection procedures. Five machine learning models were used: Boosted Trees, Classification and Regression Trees, Random Forests, Artificial Neural Networks, and Support Vector Machines. For all models, the models with composite variables achieved higher accuracy rates, and among these models, the artificial neural network was the model with the highest accuracy performance at 76.56%.
+Yazar isimleri: ['Ahmet YÜCEL']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of New Results in Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnrs/issue/72419/1129440
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2480948

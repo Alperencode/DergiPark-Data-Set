@@ -1,0 +1,7 @@
+Makale Başlığı: Estimating the Parametric Functions and Reliability Measures for Exponentiated Lifetime Distributions Family
+Özet: The paper aims are to extend the theory to estimate the parameters of the exponentiated lifetime distribution. For it, in this paper, we derived the probability density function, cumulative density, reliability function and the stress-strength parameter of the distribution.  To estimate the parameters of such distribution, we considered the maximum likelihood and uniformly minimum variance unbiased methods. The validity of the proposed work has been conducted over the simulation study of both estimation methods under the special sub model as exponentiated inverse Gompertz distribution. Finally, some real data has been taken to conduct an analysis and to discuss the effectiveness and advantages of the established work by comparing with other methods. 
+Yazar isimleri: ['Ezzatallah BALOUİ JAMKHANEH', 'Harish GARG']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Gazi University Journal of Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/gujs/issue/69788/910897
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1689395

@@ -1,0 +1,7 @@
+Makale Başlığı: Comparison of Different Machine Learning Methods for Estimating Agricultural Products
+Özet: Regression analysis was carried out with two different machine learning methods in order to realize the yield estimates of crops that have different effects on the world economy. The two methods used in regression analysis are SVM (Support Vector Machine) and HTGA (Histogram Based Gradient Augmentation) regression analysis methods. Both regression analysis methods try to find the yield estimation underlying many different agricultural problems with the least error. In this sense, to carry out experimental studies, yield estimations were made using precipitation, temperature, pesticide input values found in the World Data Bank and FAO World Agricultural Organization databases in the 35-year interval from 1961 to 2016. As a result of efficiency estimation, the 94% R2 score was reached with HTGA, while the 91% R2 score was reached with the SVM Poly core. In the SVM method, regression analysis was performed using 3 different kernels. The results of the Poly core values reached 91% R2 scores, while the RBF and linear core values reached 81% and 69% R2 scores, respectively.
+Yazar isimleri: ['Halit ÇETİNER']
+Yayın Yılı: 29 Haziran 2022
+Dergi ismi: Muş Alparslan Üniversitesi Mühendislik Mimarlık Fakültesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/maummfd/issue/70760/1111022
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2405414

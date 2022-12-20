@@ -1,0 +1,7 @@
+Makale Başlığı: BİLGİ PAYLAŞIMI, ÖZÜMSEME KAPASİTESİ, TEDARİK ZİNCİRİ YENİLİKÇİLİĞİ VE PERFORMANSI ARASINDAKİ İLİŞKİ
+Özet: Tedarik zinciri, günümüz değişen koşullarında firmalara maliyet, hız ve kalite gibi pek çok açıdan avantaj sağlamaktadır. Bu doğrultuda tedarik zinciri performansını artıran unsurların araştırılması hem literatüre hem de uygulayıcılara önemli bulgular sunmaktadır. Bu çalışmanın amacı bilgi paylaşımı, özümseme kapasitesi, tedarik zinciri yenilikçiliği ve tedarik zinciri performansı arasındaki ilişkileri incelemektir. Bu amaçla, Kocaeli’nde faaliyette bulunan firmalardaki 194 orta ve üst düzey yöneticiden anket yoluyla veri toplanmıştır. AMOS programı ile gerçekleştirilen analizler neticesinde, bilgi paylaşımının özümseme kapasitesi ile pozitif ilişkili olduğu ancak tedarik zinciri yenilikçiliği ile ilişkisinin bulunmadığı saptanmıştır. Ayrıca özümseme kapasitesinin tedarik zinciri yenilikçiliği ile ve tedarik zinciri yenilikçiliğinin de tedarik zinciri performansı ile pozitif ilişkili olduğu sonucuna varılmıştır.
+Yazar isimleri: ['Salih Zeki İMAMOĞLU', 'Hülya TÜRKCAN', 'Kağan DEMİRCİ']
+Yayın Yılı: 30 Temmuz 2022
+Dergi ismi: Doğuş Üniversitesi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/doujournal/issue/71547/1090924
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2322450

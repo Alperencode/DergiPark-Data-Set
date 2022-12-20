@@ -1,0 +1,7 @@
+Makale Başlığı: Batarya Elektrikli Araçlarda Şanzıman Tipleri Üzerine Derleme
+Özet: 
+Yazar isimleri: ['Fatih KARPAT', 'Efe SAVRAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Bilim Teknoloji ve Tasarım Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/istd/issue/71031/1138851
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2518911

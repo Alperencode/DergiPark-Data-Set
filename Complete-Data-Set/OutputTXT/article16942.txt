@@ -1,0 +1,7 @@
+Makale Başlığı: Rekreasyonel Trap Atıcıların Performanslarına Etki Eden Faktörlerin İncelenmesi: Afyonkarahisar İli Amatör Müsabaka Örneği
+Özet: Bu çalışmanın amacı, rekreatif trap atıcılarının performansları üzerine etkili olan faktörleri araştırmaktır. Bu amaçla amatör trap atıcılarının demografik ve atış özelliklerini/tarzlarını içeren veri seti anket yoluyla elde edilmiştir. Müsabaka kuralı olarak, atıcıların performansları on atış üzerinden ölçüldü ve müsabaka sonunda hakem raporlarından performans sonuçları alındı. Demografik ve atış tarzlarının rakiplerinin performansları üzerindeki etkilerini belirlemek için Ki-Kare tabanlı çok değişkenli istatistiksel analiz olan CHAID analizi kullanıldı. CHAID analizi sonuçlarıyla ilgili olarak en etkili değişkenler arasındaki ilişkileri belirlemek için Çoklu Uyum Analizi uygulandı. İstatistiksel analiz sonuçları, trap atıcılarının performansları üzerindeki en önemli değişkenin, diğer değişkenlere kıyasla (deneyim, boy, vb.) alkol kullanımı olduğunu ortaya koydu ve performansları yüksek olarak sınıflandırılan trap atıcılarının alkol kullanan, 7 yıldan az deneyime sahip, her iki gözünü ve sol elini kullananlar olduğu belirlendi.
+Yazar isimleri: ['Şeniz KARAGÖZ', 'Sinan SARAÇLI', 'Halime DİNÇ', 'Berkalp TUNCA']
+Yayın Yılı: 30 Aralık 2021
+Dergi ismi: Uluslararası Rekreasyon ve Spor Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijrss/issue/62210/989536
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1951336

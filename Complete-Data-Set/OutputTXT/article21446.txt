@@ -1,0 +1,7 @@
+Makale Başlığı: On a three-dimensional solvable system of difference equations
+Özet: In this paper we solve the following system of difference equations  \begin{equation*}  x_{n+1}=\dfrac{z_{n-1}}{a+by_nz_{n-1}},\quad  y_{n+1}=\dfrac{x_{n-1}}{a+bz_nx_{n-1}},\quad  z_{n+1}=\dfrac{y_{n-1}}{a+bx_ny_{n-1}},\quad n\in \mathbb{N}_{0}  \end{equation*}    where  parameters $a, b$ and  initial values $x_{-1},x_{0},y_{-1},y_{0},z_{-1},z_{0}$ are nonzero real numbers,  and give a representation of its general solution in terms of a specially chosen solutions  to  homogeneous linear difference equation with constant coefficients associated to  the system.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783639
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

@@ -1,0 +1,7 @@
+Makale Başlığı: Waypoint-Based Path Tracking Approach For Self-Organized Swarm Robots
+Özet: In this paper, a waypoint-based path tracking approach is suggested for the swarm robots to follow the desired path in an organized way. In the study, the applicability of the waypoint-based path tracking on the swarm robots that show flexible and scalable behavior has been demonstrated. To evaluate the proposed path planing approach with regard to scalability and flexibility, simulations have been applied in with/without obstacle arenas with different numbers of robots and according to different lookahead distances. With the proposed approach, each swarm robots exhibit swarm behavior in an organized manner depending on the distance of the lookahead to the path to track in the with / without obstacle arenas.
+Yazar isimleri: ['Oğuz MISIR', 'Muhammed ÇELİK', 'Levent GÖKREM']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1118039
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2433906

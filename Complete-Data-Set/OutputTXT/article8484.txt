@@ -1,0 +1,7 @@
+Makale Başlığı: Impact of Small and Medium-Sized Enterprises (SMEs) on the Sustainable Development in Yemen during the Period from 2000 to 2018: An Empirical Study
+Özet: This study aims to identify the impact of small and medium-sized  enterprises  on  Yemen’s  sustainable  development,  and  the  role  these  enterprises  play  at  the  levels  of  the  industrial  sector  and  the  economy  as  a  whole.  This  is  done  through  descriptive and statistical analysis of collected data for exhibiting the progression of the most significant indicators of sustainable development  in  Yemen  in  all  its  aspects,  economic,  social,  environmental, and institutional, and the progression of small and medium-sized enterprises, their role and contribution to employment,  production,  and  the  value-added.  The  study  follows the partial least squares structural equation modeling (PLS-SEM) for analyzing the data of the selected variables during the  period  from  2000  to  2018  using  the  statistical  program  SmartPLS3.  The  study  findings  show  that,  though  indicators  of sustainable development were low, the small and medium-sized enterprises had a favorable effect on Yemen’s sustainable development during the period selected for this study.
+Yazar isimleri: ['Shagea GHALEB', 'Ekrem GÜL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: İstanbul İktisat Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/istjecon/issue/68938/1004194
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2007814

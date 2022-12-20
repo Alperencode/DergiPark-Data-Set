@@ -1,0 +1,7 @@
+Makale Başlığı: The bicyclic semigroup as the quotient inverse  semigroup by any gauge inverse submonoid
+Özet: Every gauge inverse submonoid (including Jones-Lawson's gauge inverse submonoid of the polycyclic monoid $P_{n}$) is a normal submonoid. In 2018, Alyamani and Gilbert introduced an equivalence relation on an inverse semigroup associated to a normal inverse subsemigroup. The corresponding quotient set leads to an ordered groupoid. In this note we shall show that this ordered groupoid is inductive if the normal inverse subsemigroup is a gauge inverse submonoid and the corresponding quotient inverse semigroup by any guage inverse submonoid is isomorphic either to the bicyclic semigroup or to the bicyclic semigroup with adjoined zero.
+Yazar isimleri: []
+Yayın Yılı: 13 Mayıs 2022
+Dergi ismi: Journal of Algebra Combinatorics Discrete Structures and Applications
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jacodesmath/issue/69711/1112177
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2409733

@@ -1,0 +1,7 @@
+Makale Başlığı: Medyan Sıralı Küme Örneklemesinde Normal Dağılımın Konum Parametresi İçin Shrinkage Tahmin Edicileri
+Özet: Yığına ilişkin bir çıkarsama yapabilmek için genellikle yığın parametrelerinin sapmasız tahmin edicileri kullanılır. Sapmasız tahmin edicilerin büyük varyansa sahip olmaları durumunda, shrinkage tahmin edicileri gibi sapmalı tahmin ediciler tercih edilebilir. Bu çalışmada, normal dağılımın konum parametresi için shrinkage tahmin edicileri, sıralı küme örneklemesi ve medyan sıralı küme örneklemesi kullanılarak elde edilmiştir. Ayrıca sıralı küme örneklemesi ve medyan sıralı küme örneklemesi altında elde edilen shrinkage tahmin edicilerinin ortalama hata kareleri teorik olarak elde edilmiştir. Önerilen tahmin edicilerin etkinliklerini incelemek amacıyla farklı durumlar altında Monte Carlo simülasyon çalışması ile ortalama hata kareleri hesaplanmıştır. Elde edilen sonuçlara göre, medyan sıralı küme örneklemesi kullanılarak elde edilen shrinkage tahmin edicilerinin sıralı küme örneklemesi ve basit tesadüfi örnekleme altında elde edilen shrinkage tahmin edicilerinden daha etkin olduğu gözlemlenmiştir.
+Yazar isimleri: ['Kübra GÜRSOY', 'Meral EBEGİL', 'Yaprak ÖZDEMİR', 'Fikri GÖKPINAR']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufenbed/issue/73792/1121320
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2447263

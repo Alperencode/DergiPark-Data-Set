@@ -1,0 +1,7 @@
+Makale Başlığı: Faizsiz Finansal Kuruluşlar Müşterilerine Adil Fiyatlar Sunuyor mu?
+Özet: Bu çalışmada faizsiz finans kuruluşlarının finansman enstrümanlarınıntüketiciler nezdinde adil fiyatlı çözümler sağlamada ikilem oluşturupoluşturmadığının gözlemlenmesi amaçlanmaktadır. Bunun yanı sıraçalışma hem geleneksel hem de faizsiz bankalar tarafından sunulanve herkes için ulaşılabilir ve maliyetsiz finansman tekliflerine yönelikkarşılaştırmalı bir çerçeve sunmayı hedeflemektedir. Çalışmada adil tüketici davranışı teorisine bağlı olarak tüketicidavranışlarının tespit edilmesine yönelik 34 maddeden oluşan bir anket oluşturulmaktadır. Ölçeğin yapı geçerliliğini vegüvenilirliğini test etmek için keşfedici faktör analizi ve cronbach alfa testleri kullanılmıştır. Bu testler sonucu değerlerdikkate alındığında 28 madde analize dahil edilmiştir. Ardından keşfedici faktör analizi sonucu belirlenen dört faktörarasında Çoklu Regresyon Analizi yapıldı. Sonuç itibariyle adil tüketici davranışı teorisi için oluşturulan hipotezlerin geçerliolduğu saptandı. Dolayısıyla faizli finans sistemine alternatif olarak işlemlerini yürüten faizsiz finans kuruluşlarının saltfaizsiz seçeneklere sahip oluşunun tüketicilerin adil finansal sistem algılarını cezbetmede yeterli olmadığı gözlemlendi.
+Yazar isimleri: ['A. Mesut UÇAR']
+Yayın Yılı: 29 Temmuz 2022
+Dergi ismi: İktisat Politikası Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iuipad/issue/71907/1047547
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2157758

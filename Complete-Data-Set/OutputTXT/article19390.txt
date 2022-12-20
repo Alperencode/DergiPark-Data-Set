@@ -1,0 +1,7 @@
+Makale Başlığı: Performance analysis of the plate heat exchangers for heating systems
+Özet: 
+Yazar isimleri: ['Bayram KILIÇ', 'Osman İPEK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: International Journal of Energy Applications and Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeat/issue/70979/1079354
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2276095

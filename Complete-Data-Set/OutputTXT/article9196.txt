@@ -1,0 +1,7 @@
+Makale Başlığı: A New Iterative Scheme for Approximating Fixed Points of Suzuki Generalized Multivalued Nonexpansive Mappings
+Özet: In this paper, we study to approximate fixed points of Suzuki generalized multivalued nonexpansive mappings by using a three-step iterative scheme (1.1) introduced in [17]. We establish some weak and strong convergence results for mappings satisfying condition (C) with the newly proposed iterative scheme in the framework of uniformly convex real Banach spaces.
+Yazar isimleri: ['Makbule KAPLAN']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of Engineering Technology and Applied Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jetas/issue/72234/1003445
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2004941

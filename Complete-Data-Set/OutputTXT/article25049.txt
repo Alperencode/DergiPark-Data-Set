@@ -1,0 +1,7 @@
+Makale Başlığı: The influence of Economic Growth and Electric Consumption on Pollution in South America Countries
+Özet: This study investigates the influence of Electric Consumption and Economic Growth on CO2 emissions in 10 selected South American countries using the period of 1980-2012. Panel data techniques were used in examining the relationships. The Pedroni cointegration results indicated that CO2 emissions, per capita GDP, and electricity power consumption were cointegrated. The fully modified ordinary least squares (FMOLS) and dynamic ordinary least-squares (DOLS) results revealed that GDP growth and Electric Consumption increase CO2 emissions in the long run. The VECM Granger causality test show the causal flows from energy consumption, electricity consumption and economic growth to CO2 emissions in South America both short and long-run. Policy recommendations were provided for the South American countries.
+Yazar isimleri: []
+Yayın Yılı: 1 Eylül 2017
+Dergi ismi: International Journal of Energy Economics and Policy
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijeeep/issue/31922/351231
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/361772

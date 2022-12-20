@@ -1,0 +1,7 @@
+Makale Başlığı: MODULE BASED ERP (ENTERPRISE RESOURCE PLANNING )  SOFTWARE SELECTION BY AHP METHOD FOR LOCKS FACTORY
+Özet: Enterprise resource planning is a critical success potential system in our age for the companies. More and more companies and sectors are turning to Enterprise resource planning software. ERP software, which can manage activities in orchestral harmony, will contribute greatly to increasing their efficiency and being ahead of the competition.ERP Software selection,as an expensive investment,requires careful decision  for the companies So  multi criteria decision making methods can provide good base for satisfactory decisions.In this study ,AHP( Analytic Hierarchy Process ) one of the most popular multi criteria technique will be used to select the most suitable ERP software  for the company.
+Yazar isimleri: ['Mehmet Yavuz KANKAVI', 'Batuhan KOCAOĞLU']
+Yayın Yılı: 27 Haziran 2022
+Dergi ismi: Oğuzhan Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/oguzhan/issue/70620/1120069
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2442178

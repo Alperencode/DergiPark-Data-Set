@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Duran Varlık Yatırımlarının Firmaya Özgü ve Makroekonomik  Belirleyicileri
+Özet: Bu çalışmada, Türkiye'deki duran varlık yatırımlarının firmaya özgü ve makroekonomik belirleyicileri araştırılmıştır. Bu bağlamda araştırma dört farklı işletme ölçeği temelinde; mikro, küçük, orta ve büyük işletmeler olarak gerçekleştirilmiştir. Araştırmada Türkiye Cumhuriyet Merkez Bankası tarafından raporlanan reel sektör bilançoları kullanılmış ve dört farklı işletme ölçeği için dört farklı panel veri regresyon analizi gerçekleştirilmiştir. Bu çalışmanın bulguları duran varlık yatırımlarının, tüm işletme ölçeklerinde, likidite ve karlılık ile anlamlı ve ters yönlü ilişkisi olduğunu göstermektedir. Sermaye yapısı değişkeninde ise mikro ve küçük ölçekli işletmelerde anlamlı bir ilişki görülemezken orta ve görülmüştür. Makroekonomik değişkenlerde ise enflasyondaki artışın büyük ölçekli firmaların uzun dönem varlıklara yatırımını artırdığı, fakat mikro ölçekli firmalarda tam tersi bir etkiye neden olduğu görülmüştür.
+Yazar isimleri: ['Türker AÇIKGÖZ', 'Özge SEZGİN ALP']
+Yayın Yılı: 24 Ekim 2022
+Dergi ismi: Muhasebe ve Finansman Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mufad/issue/73058/1114862
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2420439

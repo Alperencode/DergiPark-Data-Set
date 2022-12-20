@@ -1,0 +1,7 @@
+Makale Başlığı: Foreign Direct Investment and Pollution in Middle Income and OECD Member Countries
+Özet: This study reexamines the impact of foreign direct investment inflows on carbon emissions in middle-income and OECD countries over the period 1992 – 2017.  For that purpose, we employ a two-step system GMM dynamic panel data estimator controlling for endogeneity, omitted variable, and simultaneity in our panels. The empirical results from the analyses show that FDI increases carbon emissions in middle-income countries and provide evidence of the pollution haven hypothesis in developing countries. Our findings suggest that FDI has a small halo effect on advanced economies. Our study also provides evidence of the Environmental Kuznets Curve hypothesis across different panel samples.
+Yazar isimleri: ['Muhammed BENLİ', 'Yasin ACAR']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Balkan Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/bsbd/issue/70989/1106535
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2386708

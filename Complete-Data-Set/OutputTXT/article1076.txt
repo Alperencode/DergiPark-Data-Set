@@ -1,0 +1,7 @@
+Makale Başlığı: Teaching the median with terms of absolute value, differentiability, and optimization
+Özet: 
+Yazar isimleri: ['Mehmet Hakan SATMAN']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Alphanumeric Journal
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alphanumeric/issue/71050/1041138
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2148892

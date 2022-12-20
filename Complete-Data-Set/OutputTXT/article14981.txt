@@ -1,0 +1,7 @@
+Makale Başlığı: Finansal Stres Endeksinin Dalgacık Dönüşümlü Yapay Sinir Ağları Kullanılarak Tahmin Edilmesi
+Özet: Finansal risk ve belirsizlikler nedeniyle karşılaşılan problemler dikkate alındığında, finansal stres endeksinin belirlenmesi büyük önem taşımaktadır. Çalışma ile makine öğrenmesi yöntemleri kullanılarak finansal stres endeksi seviyesinin tahmin edilmesi amaçlanmaktadır. Bu amaçla finansal stres endeksinin haftalık zaman serileri, bağımsız ve hibrit modeller kullanılarak incelenmiştir. Yapay sinir ağları, bağımsız makine öğrenme modelleri olarak kullanılırken, hibrit modeller oluşturmak için bir ön işleme tekniği olarak dalgacık dönüşümü kullanılmıştır. Ayrıca, finansal stres endeksi tahminlerinde, model doğruluklarını artırmak için otokorelasyon fonksiyonlarını kullanarak gecikme uzunlukları elde edilmiştir. Çalışmanın bulguları, çeşitli performans göstergeleri açısından değerlendirilmiştir.  Finansal stres endeksinin tahmin edilmesinde dalgacık dönüşümlü yapay sinir ağları modelinin, yalın yapay sinir ağları modelinden daha iyi performans sergilediği tespit edilmiştir. Çalışma sonuçlarının finansal stres endeksini takip eden araştırmacı ve uygulayıcılar için fayda sağlayacağı düşünülmektedir.  
+Yazar isimleri: ['Salim Sercan SARI']
+Yayın Yılı: 7 Ekim 2022
+Dergi ismi: The Journal of International Scientific Researches
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/isrjournal/issue/72945/1159770
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2587186

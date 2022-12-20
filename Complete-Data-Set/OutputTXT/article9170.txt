@@ -1,0 +1,7 @@
+Makale Başlığı: Investigation of educational mathematics mobile applications (EMMAs) with multi-criteria decision-making methods: A TOPSIS algorithm implementation
+Özet: The number and variety of educational mathematics mobile applications (EMMAs) make it difficult to select mobile applications for mathematics learning and teaching. Therefore, in this study, multi-criteria decision-making (MCDM) techniques, which are effectively used in a wide variety of disciplines, were applied to choose among alternative applications according to specified criteria. In this context, it was aimed to determine which of the 13 considered EMMAs that work on Android-based tools and were proposed by experts according to certain features were most effective with the help of the TOPSIS algorithm, one of the popular MCDM methods. The results obtained from an evaluation using 10 criteria (4 evaluator-independent, 6 evaluator-dependent) were analysed with MATLAB. As a result, the Desmos: Graphing Calculator application was found to rank first among the 13 EMMAs in order of importance. Considering the results obtained, it can be said that the use of MCDM techniques in such decision problems can facilitate the work of decision-makers.
+Yazar isimleri: ['Yusuf CAN', 'Mehmet Akif AKSOY', 'Esra AKSOY', 'Serkan NARLI']
+Yayın Yılı: 10 Aralık 2022
+Dergi ismi: Journal of Educational Technology and Online Learning
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jetol/issue/72940/1156464
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2578620

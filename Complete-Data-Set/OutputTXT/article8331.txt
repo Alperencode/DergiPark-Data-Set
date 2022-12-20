@@ -1,0 +1,7 @@
+Makale Başlığı: Improving Consumer Engagement with Airline Brands: A Case of SKYTRAX 100’s YouTube Pages
+Özet: Consumer Engagement (CE) has been a remarkable concept for airlines that carry out many marketing activities such as product/service development and sponsorships on YouTube. This study examines the antecedents of CE in case of airline brands on YouTube and contributes to existing CE research. In this respect, the most popular 10 videos of each SKYTRAX 100’s YouTube pages were analyzed by conducting Multiple Linear Regression using Least Squares method. The hypotheses were tested by using 600 video descriptions. The results indicated that interactive descriptions, high-definition videos and captions generated more views. Besides, presentation of destinations and animations is related to CE. These findings revealed that vividness and interactivity were the effective determinants of different engagement scores, and the model gave clues on factors that can be used for building a successful airline channel and made popular videos on YouTube.
+Yazar isimleri: ['Bahri Baran KOÇAK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: İnternet Uygulamaları ve Yönetimi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iuyd/issue/70967/948419
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1808856

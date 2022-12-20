@@ -1,0 +1,7 @@
+Makale Başlığı: Not-ordered quasi-distance measures of generalised trapezoidal hesitant fuzzy numbers and their application to decision making problems
+Özet: As an extension of the trapezoidal fuzzy number, the generalised trapezoidal hesitant fuzzy number is an  effective mathematical tool for handling uncertainty and vagueness in decision-making problems. Considering that the quasi-distance measure has a strong ability to process and analyse data, we initiated some novel quasi-distance measures to measure the strength of the relationship between generalised trapezoidal hesitant fuzzy numbers in this paper. Moreover, based on the proposed measures, a new multi-criteria decision-making approach is proposed to address uncertain real-life situations. Finally, a practical application of the proposed approach is also illustrated to demonstrate the effectiveness and applicability.
+Yazar isimleri: ['İrfan DELİ', 'Elif Özge ÇELİK']
+Yayın Yılı: 31 Ağustos 2022
+Dergi ismi: Journal of New Results in Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnrs/issue/72419/1160127
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2588663

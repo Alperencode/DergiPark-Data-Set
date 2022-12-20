@@ -1,0 +1,7 @@
+Makale Başlığı: MİKROGRİD DONATILI ZEMİNDE RİNG TEMEL TAŞIMA KAPASİTESİNİN DENEYSEL OLARAK İNCELENMESİ
+Özet: Gevşek zemin koşullarında inşa edilecek yapılarda temellerin tasarımı inşaat mühendisleri için önemli bir problem oluşturmaktadır. Bu problemi çözmek için ya derin temel uygulaması tercih edilmeli ya da zeminde iyileştirme yöntemleri uygulanmalıdır. Zemin iyileştirme yöntemlerinden biri olan donatılı zemin uygulamasında zemine geosentetik donatılar yerleştirilip taşıma gücü ve oturma problemlerine karşı çözüm üretilebilmektedir.Bu çalışmada kare ve daire kesitli mikrogrid donatı ile güçlendirilmiş gevşek kum zemine oturan ring temellerin eksenel basınç yükü altındaki davranışı 30 adet laboratuvar deneyi ile analiz edilmiştir. İlk donatı derinliği, donatı çapı/genişliği, donatı geometrileri değiştirilerek taşıma gücü için optimum donatı parametreleri laboratuvar deneyleri ile araştırılmıştır. Yapılan deneyler sonucunda mikrogrid donatıların ring temel taşıma gücünü arttırdığı tespit edilmiştir. Zemine yerleştirilen mikrogrid donatıların optimum parametreleri belirlenmiştir.
+Yazar isimleri: ['Mehmet Şerif KAHRAMAN', 'Ömer YEŞİLTEPE', 'Yakup TÜREDİ', 'Murat ÖRNEK']
+Yayın Yılı: 3 Aralık 2022
+Dergi ismi: Kahramanmaraş Sütçü İmam Üniversitesi Mühendislik Bilimleri Dergisi
+Yayın sayfa url: http://jes.ksu.edu.tr/tr/pub/issue/73671/1105191
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2381056

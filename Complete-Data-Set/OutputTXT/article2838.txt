@@ -1,0 +1,7 @@
+Makale Başlığı: SOCIO-ECONOMIC EFFECTS OF ADVERTISEMENTS ON UNIVERSITY CANDIDATES
+Özet: This paper aims to analyze university advertisements' effects on university candidates' preference tendencies using the linear probability model (LPM), Probit, and Logit models. It aims to analyze whether advertisements' effect on university candidates changes according to students' socio-economic status. Furthermore, which advertisements are more likely to affect their preferences. The survey technique was used to obtain the data, and a total of 2817 students from 12 different cities participated in the survey. The results show that university advertisements' effects on university candidates' preference tendencies differ according to students' socio-economic status. Students in the low-income group are more likely to be affected by advertisements in general. In contrast, students in the high-income group are more likely to be affected by trips to the university campus. It has been observed that students in Anatolian high school are more likely to be affected by advertisements on news, sports, and similar sites and university visits.
+Yazar isimleri: ['Mustafa ÇAKIR', 'İsmail AKTAŞ']
+Yayın Yılı: 1 Temmuz 2022
+Dergi ismi: Bilgi Ekonomisi ve Yönetimi Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/beyder/issue/70500/1117832
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2432939

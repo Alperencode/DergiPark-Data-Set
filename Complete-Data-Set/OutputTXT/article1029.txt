@@ -1,0 +1,7 @@
+Makale Başlığı: BİST Gıda ve İçecek Sektörü Endeksinin Zayıf Formda Etkinliğinin Sınanması
+Özet: Etkin piyasa hipotezi, hisse senetlerine ait fiyatların rassal ve birbirinden bağımsız oluştuğunu ve ilgili hisse senetlerinin bugünkü fiyatlarına bakılarak gelecekte olması beklenen fiyatının tahmin edilemeyeceğini ifade etmektedir. Piyasaların etkin olması kaynakların etkin dağılımı açısından önemli olmaktadır. Zira piyasanın etkin olması etkin fonlamanın gerçekleştiği durumu göstermektedir. Çalışma, BİST Gıda ve İçecek Endeksinin zayıf formda etkin olup olmadığını test etmeye yöneliktir. Bu kapsamda ilgili endeksin Kasım 2019- Eylül 2021 dönemine ait aylık kapanış fiyatları dikkate alınmıştır. Aylık kapanış fiyatlarına ADF, PP, KPSS birim kök testleriyle birlikte varyans oran testi uygulanmıştır. Analiz sonucunda BIST Gıda ve İçecek Endeksinin zayıf formda etkin olduğu bulgulanmıştır.
+Yazar isimleri: ['Tuğçe DALLI', 'Burak UĞUR']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Alanya Akademik Bakış
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/alanyaakademik/issue/72843/1016279
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2052688

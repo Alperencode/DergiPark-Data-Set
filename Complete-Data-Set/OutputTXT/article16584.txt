@@ -1,0 +1,7 @@
+Makale Başlığı: REAL ESTATE INVESMENT TRUSTS AND DETERMINANTS OF THE INDUSTRY’S INDEX: EVIDENCE FROM TURKISH CAPITAL MARKET
+Özet: This paper evaluates real estate investment trust (REIT) market and reviews the financial determinants of real estate investment trusts index. To this end, the study finds an answer to the research question of whether REIT index (XGMYO) is significantly affected by inflation, USD/TL parity and interest rates. Data is retrieved from Borsa-Istanbul and Central Bank of Turkey and covers the period from 2011 and 2021 (monthly data). Findings of the quantitative analysis are as follows; XGMYO has two regimes. Deposit (Index Return) with different lags is the most effective variable in both regimes. While CPI-Inflation is statistically significant in Regime 2, it is not significant in Regime 1. Similar to inflation, housing-loans-interest rate (applicable to clients) statistically has impact on XGMYO in Regime 2, but it has no statistically significant impact on Regime 1.
+Yazar isimleri: ['Fatih KAYHAN', 'Emre ÇEVİK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Uluslararası Bankacılık Ekonomi ve Yönetim Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ubeyad/issue/69171/1135776
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2507110

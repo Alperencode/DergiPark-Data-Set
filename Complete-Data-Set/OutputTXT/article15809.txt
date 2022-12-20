@@ -1,0 +1,7 @@
+Makale Başlığı: RAILWAY SECURITY SYSTEM DESIGN BY IMAGE PROCESSING AND DEEP LEARNING UNMANNED AERIAL VEHICLE
+Özet: 
+Yazar isimleri: ['Muzaffer EYLENCE', 'Mehmet YÜCEL', 'Mustafa Melikşah ÖZMEN', 'Bekir AKSOY']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Türk Doğa ve Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tdfd/issue/72793/1112957
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2412738

@@ -1,0 +1,7 @@
+Makale Başlığı: AUTOMATED PSYCHIATRIC DATA ANALYSIS from SINGLE CHANNEL EEG with SIGNAL PROCESSING and ARTIFICIAL INTELLIGENCE METHODS
+Özet: 
+Yazar isimleri: ['Ali Berkan URAL', 'Uğur ERAY']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Journal of Scientific Reports-A
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jsr-a/issue/72895/1112076
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2409291

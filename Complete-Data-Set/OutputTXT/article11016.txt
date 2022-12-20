@@ -1,0 +1,7 @@
+Makale Başlığı: Taylor Kuralının Türkiye Örneğinde Tahmini
+Özet: Taylor  kuralı,  merkez  bankalarının  politika  faizini  enflasyon-çıktı  açığına  göre mekanik olarak ayarlayabileceğini ileri süren basit bir para politikası kuralıdır. Bu çalışma Taylor kuralını Türkiye ekonomisi özelinde test etmeyi amaçlamaktadır.   Bu   kapsamda,   Türkiye   ekonomisinin   2003:1-2019:4   dönemine  ait  üçer  aylık  veriler  ve  bazı  zaman  serisi  yöntemlerinden  (VAR) yararlanılmıştır. Yapılan analiz sonucunda, Türkiye’de faizlerin Taylor Kuralı’na  göre  hareket  etmediğine  yönelik  bulgular  tespit  edilmiştir.  Bu  ampirik  sonuç,  söz  konusu  dönem  için  ana  amacı  fiyat  istikrarının  tesisi  olan   TCMB’nin   temel   hedefi   ile   uyumlu   değildir.   Para   politikasından   sorumlu  Merkez  Bankası’nın  faiz  politikalarını  oluştururken  enflasyonda  oluşabilecek  hareketlenmelere  daha  çok  dikkat  etmesi  gerektiği  ifade  edilebilir.
+Yazar isimleri: ['Osman Cenk KANCA']
+Yayın Yılı: 22 Kasım 2022
+Dergi ismi: Maliye Çalışmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jpfs/issue/73500/1121209
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2446801

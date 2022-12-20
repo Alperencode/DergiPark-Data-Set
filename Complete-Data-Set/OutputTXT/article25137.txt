@@ -1,0 +1,7 @@
+Makale Başlığı: Different Apple Varieties Classification Using kNN and MLP Algorithms
+Özet: In this study, three different apple varieties grown in Karaman provinceare classified using kNN and MLP algorithms. 90 apples in total, 30 GoldenDelicious, 30 Granny Smith and 30 Starking Delicious have been used in thestudy. DFK 23U445 USB 3.0 (with Fujinon C Mount Lens) industrial camera hasbeen used to capture apple images. 4 size properties (diameter, area, perimeterand fullness) and 3 color properties (red, green, blue) have been decided usingimage processing techniques through analyzing each apple image.  A data set which contains 7 physical featuresfor each apple has been obtained. Classification success rates and error rateshave been decided changing the neuron numbers in the hidden layers in the classificationusing MLP model and in different neighbor values in the classification madeusing kNN algorithm. It is seen that the classification using MLP model is muchhigher. While the success rate of classification made according to apple typeis 98.8889%.
+Yazar isimleri: ['Kadir Sabancı']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/270416
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/236993

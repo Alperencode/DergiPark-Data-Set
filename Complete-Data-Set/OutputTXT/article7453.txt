@@ -1,0 +1,7 @@
+Makale Başlığı: Copper catalyzed C-N-bond formation and synthesis of Imidazopyridinone derivatives
+Özet: The formation of the C–N bond is critical because it allows for the incorporation of nitrogen into organic molecules. Despite significant advances in this area, the formation of the C–N bond continues to be a challenge for organic chemists owing to the need of severe reaction conditions or costly catalysts in many cases. As a result, developing alternate, milder, and less expensive C–N bonding techniques is a challenge. Herein, a series of novel imidazopyridinone derivatives (8a-8e) were synthesized via copper-mediated C–¬N bond-forming reaction. This reaction takes place under mild conditions with high efficiency, step economy, and tolerance for a wide range of functional groups. All synthesized new compounds were analyzed by 1H NMR, 13C NMR and mass spectrometry.
+Yazar isimleri: ['Şengül Dilem DOĞAN']
+Yayın Yılı: 6 Temmuz 2022
+Dergi ismi: International Journal of Chemistry and Technology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijct/issue/69466/1130734
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2486375

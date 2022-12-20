@@ -1,0 +1,7 @@
+Makale Başlığı: Sectoral-based analysis of Lucas variability hypothesis: the case of Turkey
+Özet: The purpose of this study is to test the Lucas variability hypothesis known as the negative relationship between the variance of aggregate demand shocks and the inflation-output tradeoff parameter by using Ordinary Least Square (OLS) and Seemingly Unrelated Regression (SUR) Model for agriculture, industry and service sectors of Turkey for the period of 2003-2018. The empirical findings support the existence of the Lucas variability hypothesis for Turkey. In addition, the effects of the supply shocks on real variables were examined within the scope of Froyen and Waud (1984) model. The results of this study support the variability hypothesis tested by using original Lucas for the case of Turkey. The results obtained from the Froyen and Waud model show that supply shock represented by exchange rate can only have a real impact on the service sector.
+Yazar isimleri: ['Sinem KOÇAK', 'Rahmi YAMAK']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Hitit Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hititsbd/issue/70753/1101603
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2366775

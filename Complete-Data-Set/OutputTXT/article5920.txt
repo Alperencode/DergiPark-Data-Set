@@ -1,0 +1,7 @@
+Makale Başlığı: Theory of Generalized Compactness in Generalized Topological Spaces: Part II. Countable, Sequential and Local Properties
+Özet: In a recent paper, a novel class of generalized compact sets (briefly, g-Tg -compact sets) in generalized topological spaces (briefly, Tg -spaces) has been studied. In this paper, the concept is further studied and, other derived concepts called countable, sequential, and local generalized compactness (countable, sequential, local g-Tg -compactness) in Tg -spaces are also studied relatively. The study reveals that g-Tg -compactness implies local g-Tg -compactness and countable g-Tg-compactness, sequential g-Tg -compactness implies countable g-Tg -compactness and, g-Tg -compactness is a generalized topological property (briefly, Tg -property). Diagrams establish the various relationships amongst these types of g-Tg -compactness presented here and in the literature, and a nice application supports the overall theory.
+Yazar isimleri: ['Mohammad Irshad KHODABOCUS', 'Noor-ul-hacq SOOKIA']
+Yayın Yılı: 28 Temmuz 2022
+Dergi ismi: Fundamentals of Contemporary Mathematical Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/fcmathsci/issue/71376/1009492
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2026222

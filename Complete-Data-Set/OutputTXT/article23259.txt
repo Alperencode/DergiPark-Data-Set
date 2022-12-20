@@ -1,0 +1,7 @@
+Makale Başlığı: Social Media Content Review of Popular MMORPG Games: Reddit Comment Scraping and Sentiment Analysis
+Özet: Social media is a system that provides access from one-way information sharing to two-way and simultaneous information sharing, introducing Web 2.0 as a service to users. Social media is a set of dialogues and exchanges that people have with each other on the Internet. Reddit is which can call an important audience in these environments. Popular topics and content are available, such as science, sports, gaming, music, food and drink, and photography. After the release of MOBA games, there has been a serious decrease in playing time of the MMORPG genre. The research aims to sentiment analysis of content created on the MMORPG subreddit channel on Reddit. In my study, I focused on sentiment analysis of MMORPG games, which have been very popular for years. Possible reasons for that were tried to be evaluated relative to players’ opinions. Sentiment analysis was performed based on posts from the 'MMORPG' subreddit on Reddit. Negative, positive, and neural structures are explained. Frequency analysis of often used words is also included.
+Yazar isimleri: ['Kaan ARIK']
+Yayın Yılı: 19 Temmuz 2022
+Dergi ismi: Journal of Emerging Computer Technologies
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ject/issue/68031/1103252
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2373483

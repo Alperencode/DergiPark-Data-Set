@@ -1,0 +1,7 @@
+Makale Başlığı: Clustering of Mitochondrial D-loop Sequences Using Similarity Matrix, PCA and K-means Algorithm
+Özet: In this study, mitochondrial displacement-loop (D-loop) sequences isolated from different hominid species are clustered using similarity matrix, Principal Component Analysis (PCA) and K-means algorithm. Firstly, the mitochondrial D-loop sequence data are retrieved from the GenBank database and copied into MATLAB. Pairwise distances are computed using p distance and Jukes-Cantor methods. A phylogenetic tree is created and then a similarity matrix is generated according to the pairwise distances. Furthermore, the clustering is performed using only K-means algorithm. After that PCA and K-means are used together in order to cluster mitochondrial D-loop sequences.
+Yazar isimleri: ['Can EYÜPOĞLU']
+Yayın Yılı: 26 Aralık 2016
+Dergi ismi: International Journal of Intelligent Systems and Applications in Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijisae/issue/25999/281814
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/263550

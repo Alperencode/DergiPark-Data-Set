@@ -1,0 +1,7 @@
+Makale Başlığı: Bir pandemi hastanesinde COVID-19 birimlerinin virüs taşıma riskini minimize eden vardiya çizelgeleme uygulaması
+Özet: Çin’in Wuhan kentinde ortaya çıkan COVID-19 virüsü, dünya genelinde yayılarak artmaya devam etmektedir. Virüsün hızla yayılmasından en çok etkilenen sektör, sağlık sektörü olmuştur. Çalışma alanları itibariyle en riskli ortamda olan sağlık çalışanları, gerekli koruyucu ekipmanları kullansalar dahi uzun süreli ve dengeli düzenlenmemiş çalışma saatlerine bağlı olarak, virüse yakalanma riskini minimize edememektedirler. Aynı zamanda sağlık çalışanlarının koronavirüse yakalanma riski, hastanelerde açılan korona servisi birimleriyle de doğrudan etkileşim içerisindedir. Yapılan çalışmada, belirli varsayımlar üzerine kurulmuş simülasyon modelinden alınan veriler doğrultusunda korona servisi birimleri ile doktor ve hemşirelerin virüse yakalanma riskini minimize edecek bir tam sayılı doğrusal programlama (TDP) modeli önerilmiştir. Planlama ufku 14 gün olarak belirlenmiş ve model sonucunda korona servisi birimleri için virüs taşıma riskinin minimum olduğu vardiya çizelgeleri oluşturulmuştur.
+Yazar isimleri: ['Derya EREN AKYOL', 'Ayşen HAYIRLIOĞLU', 'Begümsu TAŞTAN', 'Berna DEMİRSOY', 'Muharrem SARI']
+Yayın Yılı: 19 Eylül 2022
+Dergi ismi: Dokuz Eylül Üniversitesi Mühendislik Fakültesi Fen ve Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/deumffmd/issue/72304/1001982
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1999339

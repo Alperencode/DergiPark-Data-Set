@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye’de Doğurganlık ve İşsizliğin Kadın İstihdamı Üzerindeki Etkisi: ARDL Sınır Testi ile Analizi
+Özet: Türkiye nüfusunun hemen hemen yarısını oluşturan kadınların istihdama katılımı ülkenin ekonomik performansı açısından oldukça önemlidir. Kadınların iş gücüne katılımını etkileyen birçok etken vardır. Bu çalışmada bu etkenlerden doğurganlık ve işsizlik ele alınmıştır. Kadının iş gücüne katılım oranı, üzerindeki etkileri analiz edilmeye çalışılmıştır. Bu doğrultuda 1990-2020 yıllarına ait kadının istihdama katılım oranı, işsizlik ve doğurganlık oranı değişkenlerinin kısa ve uzun dönem ilişkileri ARDL sınır testi ile incelenmeye çalışılmıştır. Elde edilen sonuçlar doğrultusunda değişkenler arasında uzun dönemli ilişki bulunmuştur. Kadınların istihdama katılımı oranı ile doğurganlık oranı arasında pozitif yönlü bir ilişki bulunmuştur, ancak istatistiksel olarak anlamlı olmayan bir ilişki çıkmıştır. Kadınların istihdama katılımı ile işsizlik oranı arasında ise negatif bir ilişki bulunmuş olup bu da, teorik olarak beklentileri karşılamayan ve istatistiksel olarak anlamlı olmayan bir ilişkidir.
+Yazar isimleri: ['Burcu KARACA', 'Ali ÇIMAT']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Sosyal ve Beşeri Bilimler Araştırmaları Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sobbiad/issue/70637/1014908
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2047035

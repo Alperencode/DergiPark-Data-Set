@@ -1,0 +1,7 @@
+Makale Başlığı: Aralık-Değerli Sezgisel Bulanık Ortamda ÇKKV Yöntemleri Kullanılarak Tekstil Endüstrisinde Yeşil Tedarikçi Seçimi
+Özet: Küresel ısınma, insan toksisitesi, ötrofikasyon, su kıtlığı gibi çevresel kaygılar nedeniyle çevreyi korumanın önemi her geçen gün artmaktadır. Bu nedenle firmalar üretim süreçlerini çevre dostu olacak şekilde değiştirmeye başlamışlardır. Gerekli değişikliklerden biri, çevreye daha az zarar veren hammadde ve/veya ürünler tedarik etmektir. Bu nedenle şirketler, yeşil tedarikçilerden hammadde ve/veya ürün tedarik etmek zorundadır. Bu çalışmada, bir tekstil endüstrisi için yeşil tedarikçilerin çeşitli çevresel ve ekonomik kriterler göz önünde bulundurularak aralık-değerli sezgisel bulanık (ADSB) ortamda değerlendirilmesi amaçlanmıştır. AHP ve TOPSIS yöntemleri, yeşil tedarikçilerin değerlendirme sürecinde kullanılmak üzere ADSB ortamda entegre edilmiştir. Entegre edilen yöntemde, ADSB-AHP yöntemi kriter ağırlıklarını hesaplamak için ve ADSB-TOPSIS yöntemi, yeşil tedarikçileri sıralamak için kullanılmıştır. Çalışmanın sonunda, tekstil sektörü için yeşil tedarikçi seçiminde kriterlerin ağırlıklarındaki değişikliklerin etkilerini gözlemlemek için bir duyarlılık analizi yapılmıştır.
+Yazar isimleri: ['Melda KOKOÇ']
+Yayın Yılı: 15 Haziran 2022
+Dergi ismi: Karadeniz Fen Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/kfbd/issue/70315/1060512
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2202691

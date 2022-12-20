@@ -1,0 +1,7 @@
+Makale Başlığı: Erratum
+Özet: Mevzu-Sosyal Bilimler Dergisi’nin 2022 yılı 7. sayısında yayımlanan “Kendilik Bilinci Bağlamında İbn Bâcce’nin Tedbîru’l-Mütevahhid Kavramı İle F. H. Bradley’in Kendini Gerçekleştirme [Self-Realisation] Kavramları Üzerine Bir İnceleme” (DOI: 10.5281/zenodo.6355398) adlı makalede bazı ifade yanlışları yapıldığı fark edilmiştir. Makalenin 183. sayfasının üçüncü paragrafında yer alan hatalı ifadelerin düzeltilmiş hali aşağıda sunulmuştur.
+Yazar isimleri: ['Ramazan TURAN', 'Sümeyra TURAN']
+Yayın Yılı: 15 Eylül 2022
+Dergi ismi: Mevzu – Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mevzu/issue/72575/1174841
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2648877

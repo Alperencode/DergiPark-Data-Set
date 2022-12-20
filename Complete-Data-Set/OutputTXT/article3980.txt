@@ -1,0 +1,7 @@
+Makale Başlığı: Kişisel Siber Güvenlik Yaklaşımlarının Değerlendirilmesi
+Özet: Bir birey hakkındaki herhangi bir veri, kişisel veri olarak kabul edilir. Bu kişisel veriler bireyi benzersiz bir şekilde tanımlayan değerlerdir. İsim, soy isim, kimlik numarası, anne kızlık soyadı ve benzeri şekillerde olabilen bu veriler bireyin kimliğini belirlemek için kullanılmaktadır. Ayrıca, bireyin çevrimiçi paylaştığı resimleri, mesajları, sağlık, eğitim, finans ve istihdam gibi verileri de kişiyi çevrimiçi olarak tanımlamada kullanılabilir. Bu sebeple kişisel düzeydeki verilerin ve bilgi işlem cihazlarının korunması gerekmektedir. Bu bağlamda; siber güvenlik, ilgili ağa bağlı sistemleri ve tüm verileri yetkisiz kullanımdan veya zarardan korumak için gereken çabaların bütünü olarak tanımlanır. Kişisel siber güvenlik ise bu çabaların bir kısmının siber farkındalık ile son kullanıcılar tarafından da gerçekleştirilmesidir. Son kullanıcıların sistem ya da veri güvenliğindeki en önemli görevlerinden birisi güvenli parola oluşturmalarıdır. Bu çalışma çevrimiçi bireysel kimlik verilerinin güvenliğinin sağlanması kapsamında güvenli parola oluşturulması için son kullanıcılara yönelik yeni yaklaşımlar önermektedir.
+Yazar isimleri: ['Muhammed Zekeriya GÜNDÜZ', 'Resul DAŞ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: Dicle Üniversitesi Mühendislik Fakültesi Mühendislik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/dumf/issue/72718/1122997
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2454270

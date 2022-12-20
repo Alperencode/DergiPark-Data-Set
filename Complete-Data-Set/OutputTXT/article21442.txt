@@ -1,0 +1,7 @@
+Makale Başlığı: A Study on Horadam Hybrid Numbers
+Özet: In this paper, we study Horadam hybrid numbers. For these numbers, we give the exponential generating function, Poisson generating function, generating matrix, Vajda's, Catalan's, Cassini's, and d'Ocagne's identities. In addition, we offer Honsberger formula, general bilinear formula, and some summation formulas for these numbers.
+Yazar isimleri: []
+Yayın Yılı: 1 Ağustos 2020
+Dergi ismi: Turkish Journal of Mathematics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbtkmath/issue/56430/783633
+Yayın pdf linki: https://dergipark.org.tr/tr/user/project/new

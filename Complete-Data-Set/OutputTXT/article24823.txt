@@ -1,0 +1,7 @@
+Makale Başlığı: Arazi Toplulaştırması Uygulamalarında Mevzuattan Kaynaklı Sorunlar ve Çözüm Önerileri
+Özet: Dünyada ve Ülkemizde yaygın olarak kullanılan kırsal alan düzenlemesi yöntemlerinin başında arazitoplulaştırması gelmektedir. Ülkemizde arazi toplulaştırma projeleri 1961 yılında başlamış olup, son yıllardabüyük tarım sahalarında uygulanmaktadır. Ülkemizde arazi toplulaştırması, 3083 ve 5403 Sayılı kanuna ve bukanunlara dayalı yönetmelik ve tüzüklere göre yürütülmektedir. Arazi toplulaştırma projesi yürüten idareler,proje sürecinde çeşitli sorunlarla karşılaşmaktadır. Bu çalışmada, arazi toplulaştırma mevzuatındaki belirsizliklernedeniyle uygulamada karşılaşılan sorunlar ve bu sorunların çözümüne yönelik somut önerilere yer verilmiştir. 
+Yazar isimleri: ['Tahsin BOZTOPRAK', 'Osman DEMİR', 'Yakup Emre ÇORUHLU']
+Yayın Yılı: 30 Nisan 2016
+Dergi ismi: Harita Teknolojileri Elektronik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hartek/issue/17324/180943
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/160349

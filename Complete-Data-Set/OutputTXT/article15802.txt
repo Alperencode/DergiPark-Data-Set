@@ -1,0 +1,7 @@
+Makale Başlığı: Rheum Ribes (Işgın) Özütlerinin Asidik Ortamda Bakırın Korunması için Kullanılması
+Özet: Bu çalışmada, ışgının çiçek (RRF), yaprak (RRL) ve kök (RRR) gibi farklı bölgelerinin ayrı ayrı özütleri hazırlanarak asidik ortamda bakırın korozyonuna koruma etkileri incelenmiştir. Böylelikle ışgının kullanılmayan diğer kısımlarının da faydaya dönüştürülmesi mümkün olabilecektir. Bu amaçla, RR özütlerinin 1 M HCl çözeltisinde 1000 ppm çözeltileri hazırlanmıştır. Bakır metalinin bu çözeltilerdeki elektrokimyasal davranışları açık devre potansiyelinin zamanla değişimi (Eocp-t), elektrokimyasal impedans spektroskopisi (EIS), lineer polarizasyon direnci (LPR) ve potansiyodinamik polarizasyon (PP) teknikleri ile incelenmiştir. Bakırın korozif ortam ile muamelesi sonrasında yüzeyi taramalı elektron mikroskopu (SEM), enerji dağılımlı X-ışını spektroskopisi (EDX) ve temas açısı ölçümleri ile incelenmiştir. Elde edilen bulgular, RR’nin farklı bölgelerinden elde edilen özütlerin bakırın asidik ortamdaki davranışına etkilerinin farklı olduğunu göstermiştir. En iyi koruma RRF özütünde elde edilmiştir. RRR özütü ise bakırı 1 M HCl çözeltisinde korozyona karşı koruyamamaktadır. Yüzey analizleri bitki özütlerinin metal yüzeyinde koruyucu bir film oluşturduğunu göstermiştir.
+Yazar isimleri: ['Fatma KAYA', 'Ramazan SOLMAZ', 'İbrahim Halil GEÇİBESLER']
+Yayın Yılı: 29 Eylül 2022
+Dergi ismi: Türk Doğa ve Fen Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tdfd/issue/72793/1166367
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2613493

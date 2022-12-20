@@ -1,0 +1,7 @@
+Makale Başlığı: MACHINE AND DEEP LEARNING-BASED INTRUSION DETECTION AND COMPARISON IN INTERNET OF THINGS
+Özet: In today’s technology world, intrusion detection is important topic for the Internet of Things (IoT) systems. With the growth of using tiny devices connected to wireless networks in IoT, the amount of data is growing rapidly. This data may be vulnerable to attacks so that IoT systems need to secure it for increasing the system’s confidentiality, availability, and reliability. The progress of detecting attacks using artificial intelligence (AI) autonomously has become a more convenient method in network intrusion detection systems (NIDS). In this article, we propose new detecting technique to improve performance and increase accuracy in NIDS. We present different machine learning (ML) and deep learning (DL) methods to detect the different type of attacks for IoT systems. We also provide the experiments to find out the best way to identify the anomaly in IoT system environment, take comparisons between different AI models. The experiment was evaluated with the open database UNSW-NB15.
+Yazar isimleri: ['Siham AMAROUCHE', 'Kerem KÜÇÜK']
+Yayın Yılı: 30 Kasım 2022
+Dergi ismi: Journal of Naval Sciences and Engineering
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jnse/issue/73602/1073538
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2253350

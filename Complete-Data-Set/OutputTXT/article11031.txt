@@ -1,0 +1,7 @@
+Makale Başlığı: Weak Form Efficiency and Cryptocurrency Market
+Özet: The aim of this study is to test whether the cryptocurrency market is a weak-form efficient market according to the random walk  Hypothesis. In this study, the return series between 02.01.2018 and 18.08.2021 of the seven crypto currencies was used. The hypothesis was tested with the normality, the unit root, the running and the variance ratio test methods. As a result, it was concluded that the series do not have a normal distribution, they are stationary, there is no temporal independence in the series and the series do not have the characteristics of a random walk series. These results show us that the cryptocurrency market is not a weak-form efficient market.
+Yazar isimleri: ['Süleyman AÇIKALIN', 'İlker SAKINÇ']
+Yayın Yılı: 27 Nisan 2022
+Dergi ismi: Maliye ve Finans Yazıları
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/mfy/issue/69611/1084658
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2297374

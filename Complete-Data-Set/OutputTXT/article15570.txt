@@ -1,0 +1,7 @@
+Makale Başlığı: Independent Transversal Domination Number for Some Transformation Graphs $G^{xyz}$ when xyz=+-+
+Özet: A dominating set of a graph $G$ which intersects every independent set of a maximum cardinality in $G$ is called an independent transversal dominating set. The minimum cardinality of an independent transversal dominating set is called the independent transversal domination number of $G$ and is denoted by $\gamma_{it}(G)$. In this paper we investigate the independent transversal domination number for the transformation graph of the path graph $P_{n}^{+-+}$, the cycle graph $C_{n}^{+-+}$, the star graph $S_{1,n}^{+-+}$, the wheel graph $W_{1,n}^{+-+}$ and the complete graph $K_{n}^{+-+}$.
+Yazar isimleri: ['Betül ATAY ATAKUL']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Turkish Journal of Mathematics and Computer Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tjmcs/issue/70561/796501
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1296382

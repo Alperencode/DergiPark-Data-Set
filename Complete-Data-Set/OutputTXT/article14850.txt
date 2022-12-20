@@ -1,0 +1,7 @@
+Makale Başlığı: THE EFFECT OF LICKER-IN SPEED OF THE CARDING MACHINE ON YARN QUALITY
+Özet: The aim of this study is to investigate the effect of four different licker-in speeds (850, 1200, 1550, and 1900) on yarn quality parameters such as unevenness, IPI values and hairiness according to two different yarn count categories (Ne24/1 and Ne30/1).  Carded ring yarn samples were produced in the carded yarn production line using the machines of Rieter company. The results show that while there is not a statistically significant difference in U (%), CVm(%) and IPI values according to licker-in speed, there is a significant difference in yarn hairiness values. Furthermore, the results showed similarity across all quality parameters concerning both yarn count categories. An optimum licker-in speed has been achieved and suggested in the hairiness parameter in terms of licker-in speed. The results of this study are expected to shed more light into yarn quality research and help both researchers of the same interest and the manufacturers who want to reach an optimum production level in terms of both quality and cost.
+Yazar isimleri: ['Ahmet ZEYBEK']
+Yayın Yılı: 17 Ağustos 2022
+Dergi ismi: Teknik Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/tbed/issue/72198/1113697
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2415815

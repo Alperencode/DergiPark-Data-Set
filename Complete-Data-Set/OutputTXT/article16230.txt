@@ -1,0 +1,7 @@
+Makale Başlığı: Gompertz-Exponential Distribution: Record Value Theory and Applications in Reliability
+Özet: The continuous probability distributions have wide applications in the field of transportation and reliability engineering. The continuous distributions are used to estimate how funds can be allocated to improve roads, railways, bridges, waterways, airports etc. and used to check the reliability/performance of a product. The Gompertz exponential (GoE) distribution is derived using Gompertz G generator. Some basic properties of the model have been derived. The parameters of the GoE distribution are estimated by maximum likelihood estimation method. The upper record values from the GoE distribution have also been introduced with various properties. Moreover, applications of the GoE distributions has been provided in the field of reliability to check the performance of some transportation related parts and the suggested model provides better than the existing well-known models. Finally, a simulation study is carried out. Random numbers of size 50 are generated 15 times for GoE distribution and upper records has been noted.
+Yazar isimleri: ['Shakila BASHİR']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Türkiye İstatistik Derneği İstatistik Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijtsa/issue/72526/825406
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1395274

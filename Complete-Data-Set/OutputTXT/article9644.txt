@@ -1,0 +1,7 @@
+Makale Başlığı: Classification of Unwanted E-Mails (Spam) with Turkish Text by Different Algorithms in Weka Program
+Özet: 
+Yazar isimleri: ['Hüseyin ŞİMŞEK', 'Emrah AYDEMİR']
+Yayın Yılı: 28 Haziran 2022
+Dergi ismi: Journal of Soft Computing and Artificial Intelligence
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jscai/issue/70580/1104694
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2379104

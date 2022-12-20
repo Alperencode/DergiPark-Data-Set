@@ -1,0 +1,7 @@
+Makale Başlığı: Türkiye İnşaat Sektörü İş Kazalarının İstatistiksel Analizi, 2011-2020
+Özet: İnşaat sektörü ülke ekonomilerine önemli katkı yapmasına rağmen iş kazası ve meslek hastalıklarının çok sık görüldüğü bir sektördür. İnşaat sektöründe meydana gelen iş kazaları ile diğer sektörlerle karşılaştırırken sadece sayılar üzerinden bir karşılaştırma yapmak doğru değildir. Bu nedenle gerçekleştirilen karşılaştırmaların ulusal ve uluslararası otoriteler tarafından kabul görmüş parametreler ile yapılması gerekmektedir. Bu doğrultuda gerçekleştirilen çalışmada 2011 ile 2021 tarihleri arasında inşaat sektörü ve inşaat sektörü dışında kalan tüm sektörlerde meydana gelen iş kazalarının, “kaza sıklık hızı”, “kaza ağırlık hızı”, “kaza olabilirlik oranı” gibi parametrelerle karşılaştırması gerçekleştirilmiştir. Sonuç olarak inşaat sektörünün irdelenen tüm parametrelerde diğer tüm sektörlerden daha yüksek olduğu belirlenmiş ve çözüme yönelik öneriler sunulmuştur.
+Yazar isimleri: ['Mehmet Ali ZENGİN']
+Yayın Yılı: 31 Temmuz 2022
+Dergi ismi: Uluslararası Mühendislik Araştırma ve Geliştirme Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/umagd/issue/71387/1035473
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2127637

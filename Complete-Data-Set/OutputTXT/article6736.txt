@@ -1,0 +1,7 @@
+Makale Başlığı: Inference and prediction of progressive Type-II censored data from Unit-Generalized Rayleigh distribution
+Özet: 
+Yazar isimleri: ['Liang WANG', 'Ke WU']
+Yayın Yılı: 1 Aralık 2022
+Dergi ismi: Hacettepe Journal of Mathematics and Statistics
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/hujms/issue/73418/988054
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/1945806

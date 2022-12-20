@@ -1,0 +1,7 @@
+Makale Başlığı: Toplam Rasyon Karışımının Silolanmasının Aerobik Stabilite Özellikleri Üzerine Etkisi
+Özet: Bu araştırmada, farklı nem içeriğindeki toplam rasyon karışımı (TRK)’nın silolanmasının aerobik stabilite özellikleri üzerine etkileri araştırılmıştır. Araştırmada aynı kompozisyona sahip farklı kuru madde içeriğinde (%45, %50, %55) 3 grup TRK oluşturulmuştur. 1. grup (%55 KM), 2. grup (%50 KM) 2.22 litre su, 3. grup (%45 KM) 4.44 litre su ilavesi yapılmıştır. Su ilavesinden sonra yem örneklerinin yarısı taze olarak, diğer yarısı 30 gün silolandıktan sonra, aerobik stabilite testine tabi tutulmuşlardır. Aerobik stabilitenin 0., 12., 24., 48., 72. ve 120. saatlerinde örnekler üzerinde kimyasal ve mikrobiyolojik analizler yapılmıştır. Yem örneklerinde aerobik stabilite süresince termal kamera ile görüntüleme yapılmış ve elde edilen veriler ThermaCAM software programında değerlendirilmiştir. Araştırma sonucunda, TRK’nın KM içeriğinin aerobik stabilite üzerinde etkili bir faktör olduğu, %45 KM içeren TRK’larda sıcaklık artışının ve maya içeriğinin daha yüksek olduğu tespit edilmiştir. TRK’nın silolanmasının ise aerobik stabilite özelliklerini olumlu yönde etkilediği sonucuna varılmıştır.
+Yazar isimleri: ['Levend COSKUNTUNA', 'Kadir ERTEN', 'Fisun KOC']
+Yayın Yılı: 18 Ekim 2022
+Dergi ismi: Türk Tarım ve Doğa Bilimleri Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/turkjans/issue/73036/1135534
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2506174

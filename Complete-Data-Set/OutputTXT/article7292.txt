@@ -1,0 +1,7 @@
+Makale Başlığı: THE IMPACT OF INCOME INEQUALITY AND UNEMPLOYMENT ON OBESITY: PANEL DATA ANALYSIS IN DEVELOPING COUNTRIES
+Özet: In this study, it is aimed to examine the effects of income inequality and unemployment on obesity in middle-income countries. The data of 21 developing countries were examined with panel regression analysis between 2000 and 2016, and the effect of income inequality and unemployment on obesity prevalence was investigated with the help of panel regression equation. According to the findings obtained from the analysis, it was concluded that both unemployment and income inequality have a negative and statistically significant effect on the prevalence of obesity in middle-income countries. It is possible to explain this negative effect with the decrease in the welfare and income level of individuals due to income inequality and unemployment, and the economic access to food and malnutrition (less energy intake) brought about by poverty. Considering the health problems caused by malnutrition, it is thought that it is important for public health to develop policy recommendations to reduce unemployment and income inequality in middle-income countries where the study was conducted, considering the prevalence of obesity.
+Yazar isimleri: ['Anı Hande METE']
+Yayın Yılı: 3 Eylül 2022
+Dergi ismi: International Anatolia Academic Online Journal Health Sciences
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iaaojh/issue/72328/1075673
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2261874

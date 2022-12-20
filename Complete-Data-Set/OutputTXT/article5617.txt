@@ -1,0 +1,7 @@
+Makale Başlığı: Electric tariffs and thermal energy storage systems for buildings
+Özet: Thermal energy storage systems are systems that can be an alternative to the systems used especially in residential heating in our country. These systems are systems that reduce CO2 emissions, are efficient and can reduce consumption by shifting electricity demand to night. In this study, the ten-year price changes of the fuels used for heating in our country, the change in the real electricity consumption of a province over time, the electricity tariffs were examined and cost calculations were made in case of heating a space. It is seen that fuel prices have increased significantly in recent years, and thermal energy storage systems (TES) are 20-40% less costly than other systems until 2020, and 40-55% less costly than natural gas in 2021 and 2022.
+Yazar isimleri: ['Ahmet FERTELLİ']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: European Mechanical Science
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ems/issue/73507/1188559
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2706312

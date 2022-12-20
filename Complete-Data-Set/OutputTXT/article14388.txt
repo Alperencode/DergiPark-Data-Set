@@ -1,0 +1,7 @@
+Makale Başlığı: Bir Heterosiklik Bileşik Hispidulin: DFT/TD-DFT Metotları ile Teorik Olarak İncelenmesi ve Moleküler Yerleştirme Çalışmaları
+Özet: Flavonoidler, Alzheimer hastalığı (AD) inhibisyon aktiviteleri de dahil olmak üzere biyolojik özelliklere sahip polifenolik bitki ikincil metabolitleridir. AH yönetimi için etkili ilaçlar elde etmek için modifiye edilmiş doğal olarak oluşan flavonoidler üzerinde çok sayıda araştırma yapılmıştır. Bu çalışmada, hedef molekül hispidulin 4′,5,7-Trihidroksi-6-Metoksiflavon (THMF)’in DFT/B3PW91, TD-DFT/B3LYP yöntemleri ve LANL2DZ (d,p), 6-311G (d,p) temel setleri kullanılarak HOMO-LUMO enerji hesaplamaları, optimize edilmiş moleküler geometri, moleküler elektrostatik potansiyel yüzey (MEPS), doğrusal olmayan optik (NLO), molekül içindeki yük transferi ve mulliken atomik yükleri yapısı belirlendi ve sonuçlar görüntülendi. Ayrıca, moleküler yerleştirme işlemiyle yapı-aktivite ilişkisine dayalı olarak test edilen bileşiğin etki mekanizmasının tanımlanması, daha sonraki araştırmalar için dikkate alınması gereken önemli bilgiler sağlamak ve bu sayede yeni, daha verimli ve seçici sistemleri tasarlamaktır.
+Yazar isimleri: ['Ahmet Çağrı ATA', 'Aslıhan Aycan TANRIVERDİ', 'Ümit YILDIKO', 'İsmail ÇAKMAK']
+Yayın Yılı: 20 Aralık 2022
+Dergi ismi: Süleyman Demirel Üniversitesi Fen Bilimleri Enstitüsü Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/sdufenbed/issue/73792/1126132
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2467102

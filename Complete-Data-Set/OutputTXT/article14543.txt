@@ -1,0 +1,7 @@
+Makale Başlığı: Makine Öğrenmesi Yöntemi ile Karaciğerde Oluşan Hastalıkların Tahmini
+Özet: Bu çalışmada karaciğer test sonuçlarının makine öğrenmesi algoritmalarından lojistik regresyon sınıflandırılmasına dayalı hastalık tahmin modeli çalışması yapılmıştır. Karaciğer insan vücudunda adeta bir fabrika gibi çalışmaktadır. Bu organın hastalanması bütün vücuda zarar veren birçok etki meydana getirmektedir. Bu çalışmada belirli ölçütlere ve parametrelere göre bu hayati organ için hastalık tahmin modeli gerçekleştirilmiştir. Çalışmada karaciğere ait protein, albümin ve bilurubin gibi değerler hastalık tahmin modelinde incelenmiştir. Çalışmada kullanılan veri modeli açık kaynaklı kaggle web sitesinden alınmıştır. Tahmin modeli python dili ile jupyter notebook ortamında gerçekleştirilmiştir. Kategorik veri tahmini içinse lojistik regresyon modeli tercih edilmiştir. Oluşturulan model %84 doğruluk içermiştir. Değerlendirme ölçütü olarak karmaşıklık matrisi kullanılmış ve çalışmada sunulmuştur.
+Yazar isimleri: ['Mustafa TEKE']
+Yayın Yılı: 30 Haziran 2022
+Dergi ismi: Sürdürülebilir Mühendislik Uygulamaları ve Teknolojik Gelişmeler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/smutgd/issue/70374/1106793
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2387825

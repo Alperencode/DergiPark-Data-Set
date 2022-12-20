@@ -1,0 +1,7 @@
+Makale Başlığı: Performance Study of Sliding Mode Speed Controller for Induction Motor Vector Control Using MATLAB/SIMULINK
+Özet: 
+Yazar isimleri: ['Abdülhamit NURETTİN', 'Nihat İNANÇ']
+Yayın Yılı: 30 Eylül 2022
+Dergi ismi: International Journal of Engineering Science and Application
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/ijesa/issue/72797/1131787
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2490769

@@ -1,0 +1,7 @@
+Makale Başlığı: Perceptions of Secondary School Students towards the Concept of Refugee
+Özet: This research aimed at examining the perceptions of secondary school students towards the concept of refugee. The research was designed according to the survey model. The study was carried out with a total of 108 students attending the seventh and eighth grades. Research data were collected via word association test. The obtained data were subjected to descriptive analysis. In this research, firstly, a frequency table was created for the key concepts of migration, immigrant, emigration, forced migration, asylum seeker and refugee. Afterwards, concept maps works related to these concepts were drawn. The concept map creation process was carried out in the MaxQuda program and the breakpoint technique was used. In the study, the cut-off point was taken as 5 or above, and the answers below 5 were not included in the concept map. As a result of the research, it has been determined that the students have correct information about the concept of migration and its reasons, as well as the concepts of emigration and forced migration. On the other hand, it has been concluded that students have some misconceptions about the concept of immigrant, asylum seeker and refugee.
+Yazar isimleri: ['Melehat GEZER']
+Yayın Yılı: 23 Nisan 2022
+Dergi ismi: Journal of Computer and Education Research
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/jcer/issue/69325/1065388
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2222019

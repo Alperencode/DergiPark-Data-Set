@@ -1,0 +1,7 @@
+Makale Başlığı: BİYOAEROJELLER ve ARAŞTIRMA ALANLARI
+Özet: Aerojeller sahip oldukları eşsiz fizikokimyasal özelliklerinden dolayı (düsük yoğunluğa, termal iletkenliğe, kırılma indisine, ses hızına, dielektrik sabitine ve geniş yüzey alanına sahip nano gözenekli üç boyutlu ağ yapılar) son yıllarda en çok ilgi çeken malzemelerdir. Çıkış monomerlerine göre üç farklı sınıfa ayrılır; organik, inorganik ve hibrid aerojeller. Bu derlemede biyoaerojeller anlatım için seçilmiştir. Biyoaerojeller monomerlerine göre (protein, karbohidrat, müsilaj) organik aerojellerdir; Bu derlemenin amacı biyoaerojeller (protein, karbohidrat, müsilaj) ve farklı alanlardaki uygulamaları ve son yıllarda yapılan çalışmalarla ilgili bilgi vermektir.
+Yazar isimleri: ['Ozge YILMAZ', 'Hüseyin OZAY', 'Burcu OKUTUCU']
+Yayın Yılı: 13 Eylül 2022
+Dergi ismi: Research Journal of Biomedical and Biotechnology
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/rjbb/issue/72557/1098161
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2351822

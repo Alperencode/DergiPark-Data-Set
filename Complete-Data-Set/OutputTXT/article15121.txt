@@ -1,0 +1,7 @@
+Makale Başlığı: Blockchain Technology and Sustainable Logistics: Integration in the Circular Economy
+Özet: Recycling, reuse and reduction, which are among the “3R” actions of the circular economy, have an important place in ensuring resource efficiency. Minimizing the use of resources, ensuring their reuse and obtaining gains by recycling them at high standards can contribute to the sustainability studies of the logistics sector. This study covers associating the circular economy with blockchain technology, taking into account sustainable logistics studies. From the circular economy perspective, the features of blockchain technology that are thought to affect sustainable logistics; carbon emission reduction, logistics cost reduction, ease of communication, hacking, increased performance, data immutability, effective information sharing, transparency, uncertain legal situation, new technology and trust. From this point of view, the place of blockchain technology on the road to circular economy has been examined in the current study.
+Yazar isimleri: ['Emel YONTAR']
+Yayın Yılı: 9 Aralık 2022
+Dergi ismi: Toros Üniversitesi İİSBF Sosyal Bilimler Dergisi
+Yayın sayfa url: https://dergipark.org.tr/tr/pub/iisbf/issue/73765/1161463
+Yayın pdf linki: https://dergipark.org.tr/tr/download/article-file/2594215
